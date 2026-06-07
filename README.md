@@ -8,7 +8,7 @@
 
 This repository is part a systematic literature review (SLR), named "Computational Methods Applied to Money Laundering by Organized Crime", under thesis project, named "Anti-money laudering Simulating Framework: A Generative Agent Based Modelling for Support Financial Institutions" (forthcoming).
 
-Here we commit all prompts-extractions used by researcher to support SLR's extraction, screening and synthesized. All [policy](./policy.md) are at `policy_protocol.md`file, in this README we summarized main steps to register this policy. If you want to check all SLR protocol, this is published at Zenodo. 
+Here we commit all prompts-extractions used by researcher to support SLR's extraction, screening and synthesized. All [policy](./policy.md) are at `policy.md`file, in this README we summarized main steps to register this policy. If you want to check all SLR protocol, this is published at Zenodo. 
 
 # Introduction
 
