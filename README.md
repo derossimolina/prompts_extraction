@@ -1,7 +1,8 @@
 # Computational Methods Applied to Money Laundering by Organized Crime: GenAI Policy Extraction
 
 **Main Protocol**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20562470.svg)](https://doi.org/10.5281/zenodo.20562470)
+![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20562470-blue?style=flat-square&labelColor=grey&color=blue&link=https://doi.org/10.5281/zenodo.20562470)
+
 
 **Prompt Extraction Policy**
 (DOI forthcoming)
