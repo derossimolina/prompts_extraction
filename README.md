@@ -1,11 +1,11 @@
 # Computational Methods Applied to Money Laundering by Organized Crime: GenAI Policy Extraction
 
-**Main Protocol**
-![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20562470-blue?style=flat-square&labelColor=grey&color=blue&link=https://doi.org/10.5281/zenodo.20562470)
+![DOI](https://img.shields.io/badge/Main%20Protocol-10.5281%2Fzenodo.20562470-blue?style=flat-square&labelColor=grey&color=blue)
+![RawData](https://img.shields.io/badge/Suplementary-XX.XXX%2Fzenodo.XXXXXXXX-blue?style=flat-square&labelColor=grey&color=blue)
 
 
 **Prompt Extraction Policy**
-(DOI forthcoming)
+(forthcoming)
 
 This repository is part a systematic literature review (SLR), named "Computational Methods Applied to Money Laundering by Organized Crime", under thesis project, named "Anti-money laudering Simulating Framework: A Generative Agent Based Modelling for Support Financial Institutions" (forthcoming).
 
