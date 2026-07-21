@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1613-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Profitability, Power, or Proximity? Organized Crime Offenders Investing Their Money in Legal Economy",
+    "authors": "Kruisbergen E.W.; Kleemans E.R.; Kouwenberg R.F.",
+    "year": "2015",
+    "doi": "10.1007/s10610-014-9263-5",
+    "abstract": "This article uses empirical data from the Dutch Organized Crime Monitor to give empirical insight into the choices organized crime offenders make when they invest their money in legal economy. Using a dataset of 1196 individual investments, light is shed on what kind of assets offenders purchase and where these assets are located. The results are used to assess the tenability of different theoretical perspectives and assumptions that are present in the literature on money laundering and organized crime: the standard economic approach (‘profit’), the criminal infiltration approach (‘power’) and social opportunity structure (‘proximity’). The results of this study show that offenders predominantly invest in their country of origin or in their country of residence and that their investments consist of tangible, familiar assets such as residences and other real estate and (small) companies from well-known sectors. Investments such as bonds, options, and stocks in companies in which offenders are not personally (or indirectly) involved, such as stocks in companies noted on the stock exchange, were only found in a small number of cases. In other words: offenders usually stay close to home with their investments. So, instead of profitability or power, proximity seems to be a better description of their investment choices. © 2014, Springer Science+Business Media Dordrecht.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

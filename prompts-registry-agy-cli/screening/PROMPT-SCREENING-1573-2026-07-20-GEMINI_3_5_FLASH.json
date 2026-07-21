@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1573-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Formalization of internal services in large corporations: Ontology proposal for collaborative construction of service charter; [Formalização de serviços internos em grandes corporações: Proposta de ontologia para construção colaborativa de Carta de Serviços]",
+    "authors": "Bígio M.T.; Balaniuk R.; da Silva A.P.B.; da Silveira V.S.",
+    "year": "2018",
+    "doi": "10.1590/1981-5344/3261",
+    "abstract": "The institutions that create new knowledge in a sustainable manner and spread it throughout the organization have ability to innovate, improving its processes and bypassing crisis. Internal services when not properly managed may generate bottlenecks that affect institutional performance as a whole. These consequences can be felt both in private and public organizations, but in the last they end up harming the delivery of services and public policies to the citizen. Thus, the present study sought to contribute to the improvement of efficiency and effectiveness in public organizations by analyzing the issue of internal services from a formal and structuring perspective based on Ontologies and Service Charters. A large Public Bank, representative of the Brazilian indirect administration, was used as research focus. Among the results was a satisfactory use of the proposed methodology, creation of an ontology for the intended context (OntoCSI), creation of a wiki application and evaluation of this interface with stakeholders. © 2018, Escola de Ciencia da Informacao da UFMG. All rights reserved.",
+    "source": "Perspectivas em Ciencia da Informacao"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0562-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering regulations’ effectiveness in ensuring banking sector stability: Evidence of Western Balkan",
+    "authors": "Durguti E.; Arifi E.; Gashi E.; Spahiu M.",
+    "year": "2023",
+    "doi": "10.1080/23322039.2023.2167356",
+    "abstract": "The paper aims to provide an in-depth understanding of the effectiveness of anti-money laundering (AML) regulations in measuring banking sector stability in Western Balkan countries, as well as to explore the possibility of enhancing banking sector policy and performance. The study employs a quantitative methodology created on secondary data from 2012 to 2021. The data analysis methodology incorporates static and dynamic approaches to examine the banking sector stability using OLS and 2SLS. The results of the study show that the tight (Formula presented.) implementation of both approaches has a positive and statistically significant impact on the banking sector stability ((Formula presented.)). The value of the paper is unique in that it applies the most recent data in this field for Western Balkans countries, and it brings benefits for a better understanding of the effectiveness of (Formula presented.) regulations. The research will encourage fruitful discussion among policymakers, practitioners, researchers, and financial institution executives. © 2023 The Author(s). This open access article is distributed under a Creative Commons Attribution (CC-BY) 4.0 license.",
+    "source": "Cogent Economics and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0422-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "GOLD TRADE-BASED MONEY LAUNDERING AND CENTRAL BANKING GOVERNANCE IN INDONESIA: IMPLICATIONS FOR RESERVE INTEGRITY, PAYMENT SYSTEMS, AND FINANCIAL SYSTEM STABILITY",
+    "authors": "Suprapto E.; Pujiyono; Husein Y.; Andiojaya A.",
+    "year": "2026",
+    "doi": "10.21098/jcli.v5i2.506",
+    "abstract": "Trade-based money laundering (TBML) has increasingly exploited commodities markets, including gold trading, to disguise illicit cross-border financial flows. In Indonesia, the growing integration of gold markets with the financial system has created vulnerabilities that threaten the financial system’s integrity, endangering its stability and effective central bank governance. This paper examines how TBML using gold affects key domains of central bank oversight in Indonesia, particularly reserve integrity, payment system monitoring, and financial system stability. The study employs a legal-institutional analytical approach, combining regulatory analysis with an institutional examination of central banking mandates and anti-money-laundering governance frameworks. The findings indicate that using gold to facilitate TBML can obscure the traceability of cross-border financial transactions, complicate monitoring of payment systems, and potentially weaken safeguards related to reserve management and financial system oversight. These vulnerabilities create governance challenges for financial authorities responsible for maintaining financial system integrity. From a normative legal perspective, the study highlights the need for strengthened regulatory coordination, improved oversight of gold-related financial transactions, and enhanced integration between supervision of Anti-Money Laundering and Combating the Financing of Terrorism (AML/CFT) measures and central bank regulatory design. Such measures are essential for safeguarding the integrity of the reserves and supporting the stability of the financial system. © 2026, Bank Indonesia Institute. All rights reserved.",
+    "source": "Journal of Central Banking Law and Institutions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0749-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Interaction effects of professional commitment, customer risk, independent pressure and money laundering risk judgment among bank analysts",
+    "authors": "Mohd-Sanusi Z.; Mat-Isa Y.; Ahmad-Bakhtiar A.H.; Mat-Jusoh Y.H.; Tarjo T.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-05-2021-0046",
+    "abstract": "Purpose: This study aims to examine the direct and indirect effects of professional commitment, customer risk and independence pressure on money laundering risk judgment among bank analysts. Design/methodology/approach: This study uses a within-subjects experimental research design and collects primary data via a questionnaire distributed to bank analysts in banking institutions in Malaysia. Findings: Results show that professional commitment, customer risk and independence pressure significantly influence money laundering risk judgment (i.e. customer due diligence and money laundering reporting). The results also show significant interaction effects between customer risk and independence pressure in influencing money laundering risk judgment. Practical implications: Professional commitment and situational factors are crucial in putting pressure on bank analysts responsible for performing a thorough check and due diligence to minimize money laundering risk to the bank. Social implications: As money laundering is lifeblood of crimes, understanding the factors influencing money laundering risk judgment would assist the affected institutions to manage the risk better and contribute towards the fight against crimes. Originality/value: This study focuses on money laundering risk judgment. It contributes to understanding the competency of the gatekeepers, such as bank analysts, in practicing professional commitment and dealing with situational factors. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

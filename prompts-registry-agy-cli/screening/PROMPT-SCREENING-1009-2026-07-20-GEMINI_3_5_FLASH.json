@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1009-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A blockchain-based forensic model for financial crime investigation: the embezzlement scenario",
+    "authors": "Zarpala L.; Casino F.",
+    "year": "2021",
+    "doi": "10.1007/s42521-021-00035-5",
+    "abstract": "The financial crime landscape is evolving along with the digitisation of financial services. Laws, regulations and forensic methodologies cannot efficiently cope with the growth pace of novel technologies, which translates into late adoption of measures and legal voids, providing a fruitful landscape for malicious actors. In this regard, the features offered by blockchain technology, such as immutability, verifiability, and authentication, enhance the robustness of financial forensics. This paper provides a taxonomy of the prevalent financial investigation techniques and a thorough state-of-the-art of blockchain-based digital forensic approaches. Moreover, we design and implement a forensic investigation framework based on standardised procedures and document the corresponding methodology for embezzlement scheme investigations. The feasibility and adaptability of our approach can be extended and embrace all types of fraud investigations and regular internal audits. We provide a functional Ethereum-based implementation, and we integrate standardised forensic flows and chain of custody preservation mechanisms. Finally, we discuss the challenges of the symbiotic relationship between blockchain and financial investigations, along with the managerial implication and future research directions. © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2021.",
+    "source": "Digital Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

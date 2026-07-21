@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0033-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Small rural property in Colombia. Paradigm Shift Following the Disappearance of Legitimacy in transfer of property upon death; [A pequena propriedade rural na Colômbia. Mudança de paradigma a partir do desaparecimento da legítima na transmissão patrimonial por causa de morte]; [La pequeña propiedad rural en Colombia. Cambio de paradigma a partir de la desaparición de la legítima en la transmisión patrimonial por causa de muerte]",
+    "authors": "Charrupi Hernández N.R.",
+    "year": "2025",
+    "doi": "10.22395/ojum.v24n51a4299",
+    "abstract": "This research aims to demonstrate the usefulness of the elimination, implemented by Law 1934 of 2018, of the legitimate inheritance system in Probate successions in which the deceased person’s estate consists of real estate considered “small rural property,” in which the testator was granted full autonomy to dispose of the property upon death. Based on this background, it is possible to evaluate the advisability of extending this measure entirely to the Colombian inheritance system. This is conducted by implementing qualitative and quantitative research techniques that demonstrate economic, family, and legal advantages aiming to achieve the structuring of a more simple, flexible, and clear inheritance law. © 2025, University of Medellin. All rights reserved.",
+    "source": "Opinion Juridica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

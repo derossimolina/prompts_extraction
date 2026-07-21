@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1919-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Small can be smart-and smooth: The Cayman Islands' relations abroad and effects at home",
+    "authors": "Kersell J.E.",
+    "year": "1998",
+    "doi": "10.1002/(sici)1099-162x(199805)18:2<141::aid-pad7>3.3.co;2-8",
+    "abstract": "The Cayman Islands were among the first micro-states to establish a thriving offshore financial services industry by exploiting their historical status as a tax-free jurisdiction. This was threatened when concern about the laundering of the proceeds of drug-trafficking induced the United States to challenge bank secrecy laws in the Caymans and other financial centres. This article demonstrates how decision-makers in the islands shrewdly secured the assistance of their protecting power, Britain, to gain leverage in negotiations with the United States, how they developed a negotiating brief and thereby created model arrangements that permit the exchange of certain financial information, while protecting the financial security of the legitimate patrons of their banks. © 1998 John Wiley & Sons, Ltd.",
+    "source": "Public Administration and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

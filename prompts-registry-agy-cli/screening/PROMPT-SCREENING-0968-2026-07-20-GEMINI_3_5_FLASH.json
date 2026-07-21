@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0968-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sovereign Debt in the Making: Financial Entanglements and Labor Politics along the Belt and Road in Laos",
+    "authors": "Chen W.K.",
+    "year": "2020",
+    "doi": "10.1080/00130095.2020.1810011",
+    "abstract": "This article examines the contingent and contentious processes through which debt is created to finance major infrastructure projects. I contend that practices aimed at structuring credit relations into debt-financed projects often have important, unexpected, and underrecognized implications on the ground. My argument is illustrated through an analysis of the cascading impacts resulting from the making of a China–Lao sovereign debt agreement to fund the trans-Laos railway, an infrastructure project that is part of the broader Belt and Road Initiative (BRI). The failure of the government to deliver the promised credit on time had multiscalar financial ramifications. Chinese enterprises that had been contracted to implement the railway were coerced into funding construction themselves, and the ensuing financial turmoil exacerbated the exploitative conditions experienced by construction laborers. As Lao laborers sought to resist exploitation in the form of delayed and denied wage payments, they were gradually substituted by their more vulnerable Chinese counterparts. Dynamics in the making of BRI-induced Lao sovereign debt therefore rendered some perceived beneficiaries of the interstate financial arrangement, such as Chinese enterprises and workers, its victims. I argue that the contradictory realities of this high-profile financial deal demonstrate the need for more grounded inquiries into the politics of sovereign debt making. © 2020 Clark University.",
+    "source": "Economic Geography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

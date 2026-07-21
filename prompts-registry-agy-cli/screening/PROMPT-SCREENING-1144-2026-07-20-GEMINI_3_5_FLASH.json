@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1144-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cultural heritage and obia",
+    "authors": "Bilotta G.; Nocera R.; Barone P.M.",
+    "year": "2021",
+    "doi": "10.37394/232015.2021.17.44",
+    "abstract": "The historic centre of a town is its oldest and original core. It needs special protection in order to ensure the conservation of its historical, artistic and environmental heritage. In Italy, the definition of historic centres and the protection of their cultural heritage evolved in time, up to the current special attention for the historical aspects. The main threats to historical centres are real estate speculation and mass tourism. The purpose of this study is to catalog and monitor historic centers over time, in the context of urban planning. High-resolution satellite images and geographic information systems (GIS) offer new tools for urban planning and also for cultural heritage themes. “Real time” evaluation of urban structures, cartographic updating, monitoring of the progress of major works, with particular regard to cultural heritage, are made possible by the use of high-resolution images, which facilitate the identification of changes in urban and non-urban areas. The technique of Object Based Image Analysis (OBIA) has been used for image analysis and interpretation. OBIA allows a good interpretation of the scene captured by sensors thanks to classification-based segmentation and extraction of complete objects and their topological relations. This yields to a classification similar to the output of human photo-interpreter, but with a better reproducibility and homogeneity. In this paper we describe, through an application example, the potentiality and the difficulties of this technique and some results. The whole information obtained from segmented and categorized satellite images has been structured in a proper GIS, so that it can be overlaid with other environmental data. Information structuring and special metaheuristic analyses allow to study and monitor historic centers and cultural heritage. This methodology allows to identify the places at risk that need priority restoration; moreover it allows to keep track of changes that occurred over time. © 2021, World Scientific and Engineering Academy and Society. All rights reserved.",
+    "source": "WSEAS Transactions on Environment and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

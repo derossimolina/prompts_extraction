@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1999-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Making markets for structured mortgage derivatives",
+    "authors": "Oldfield G.S.",
+    "year": "2000",
+    "doi": "10.1016/S0304-405X(00)00064-7",
+    "abstract": "This paper distinguishes between securitization, in which simple pass-through instruments are created, and structuring, in which mortgages derivative claims are created. The point is to explain how structuring a transaction brings value to a deal's underwriter. Briefly, an underwriter must defeat arbitrage between pass-throughs and derivatives. The potential for market segmentation and price discrimination by the underwriter is used to analyze the structuring process. In the course of the analysis, the legal rules for trusts, the algebraic rules for structuring, and the limits on permissible price discrimination are discussed. Results for an actual transaction illustrate the important features of the analysis. © 2000 Elsevier Science B.V.",
+    "source": "Journal of Financial Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

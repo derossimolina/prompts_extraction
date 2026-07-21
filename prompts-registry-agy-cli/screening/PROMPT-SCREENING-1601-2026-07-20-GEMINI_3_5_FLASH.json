@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1601-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Practical application of anti-money laundering requirements in Bangladesh: An insight into the disparity between anti-money laundering methods and their effectiveness based on resources and infrastructure",
+    "authors": "Ahmed S.A.",
+    "year": "2017",
+    "doi": "10.1108/JMLC-09-2016-0042",
+    "abstract": "Purpose: This paper aims to provide an insight into anti-money laundering (AML) regulations in light of the global AML framework. Specific analysis is drawn using a case study of Bangladesh – the national financial culture within the country is carefully examined to establish the extent to which it is conducive to adopting such frameworks. Particular focus is placed on customer due diligence requirements, and the unique challenges posed by alternative remittance systems. The paper evaluates the impact of globalisation as well as the correlation between developments based on resources available to the respective state. Design/methodology/approach: The research has primarily been conducted through the usage of relevant websites (reports compiled by national and international agencies) and journal articles in electronic format. References have been made to studies and works carried out by authors on the global AML framework. Findings: The internal structural development of Bangladesh must be enhanced and the various social and economic issues must be overcome before a practical AML framework can be successfully implemented. Research limitations/implications: The lack of published works on AML in Bangladesh is a shortcoming, and more work on this subject is encouraged. The absence of specific AML reports on Bangladesh has resulted in some informed assumptions based on other developing countries. Practical implications: The research provides a deep insight into the global AML framework, how it can be applied to developing countries like Bangladesh and the drawbacks of implementing a universal framework domestically. Originality/value: The study provides an innovative analysis, examining aspects of AML regulation in Bangladesh which have not previously been effectively studied. © 2017, 2017, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

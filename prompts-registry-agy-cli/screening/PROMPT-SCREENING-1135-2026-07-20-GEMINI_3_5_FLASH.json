@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1135-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ṣukūk on blockchain: a legal, regulatory and Sharī’ah review",
+    "authors": "Kunhibava S.; Mustapha Z.; Muneeza A.; Sa'ad A.A.; Karim M.E.",
+    "year": "2020",
+    "doi": "10.1108/IJIF-06-2020-0120",
+    "abstract": "Purpose: This paper aims to explore issues arising from ṣukūk (Islamic bonds) on blockchain, including Sharīʾah (Islamic law) and legal matters. Design/methodology/approach: A qualitative methodology is used in conducting this research where relevant literature on ṣukūk was reviewed. Through a doctrinal approach, the paper presents analyses on the practice of ṣukūk and ṣukūk on blockchain by discussing its legal, Sharīʾah and regulatory issues. This culminates in a conceptual analysis of blockchain ṣukūk and its peculiar challenges. Findings: This paper reveals that digitizing ṣukūk issuance through blockchain remedies certain inefficiencies associated with ṣukūk transactions. Indeed, structuring ṣukūk on a blockchain platform can increase transparency of underlying ṣukūk assets and cash flows in addition to reducing costs and the number of intermediaries in ṣukūk transactions. The paper likewise brings to light legal, regulatory, Sharīʾah and cyber risks associated with ṣukūk on blockchain that confront investors, practitioners and regulators. This calls for deeper collaboration in research among Sharīʾah scholars, lawyers, regulators and information technology experts. Research limitations/implications: As a pioneering subject, the paper notes the prospects of blockchain ṣukūk and the current dearth of literature on it. The paper would assist relevant Islamic capital market entities and authorities to determine the potential and impact of blockchain ṣukūk in their respective businesses and the financial system. Practical implications: Blockchain ṣukūk will assist in addressing issues inherent in classical ṣukūk and in paving the way to innovative solutions that will facilitate and enhance the quality of ṣukūk transactions. For that, ṣukūk would require appropriate regulatory technology to address its governance and regulation peculiarities. Originality/value: Integrating ṣukūk with blockchain technology will add value to it. The paper advances the idea that blockchain ṣukūk revolutionises ṣukūk and enhances its practice against known inadequacies. © 2020, Sherin Kunhibava, Zakariya Mustapha, Aishath Muneeza, Auwal Adam Sa'ad and Mohammad Ershadul Karim.",
+    "source": "ISRA International Journal of Islamic Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

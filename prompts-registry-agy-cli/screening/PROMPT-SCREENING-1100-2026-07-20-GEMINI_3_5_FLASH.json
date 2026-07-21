@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1100-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Risks of Payment Systems of Banking Institutions of Ukraine",
+    "authors": "Trusova N.V.; Hryvkivska O.V.; Melnyk L.V.; Gerasymova O.V.; Tereshchenko M.A.",
+    "year": "2021",
+    "doi": "10.13189/ujaf.2021.090411",
+    "abstract": "Risks of payment system of banking institutions of Ukraine are considered in this study. Risk events clearly correlate to the effectiveness of network interaction of banking institutions to adapt information technology of payment systems in the payment portfolio of banks when changing operating environment, so mechanism for minimizing their probability has been developed. Economic elements of the mechanism of minimizing the risks of payment systems are identified, which allow forming the planned level of profitability, risk and liquidity of institutions (organizations) within the relevant principles, methods, levers, cash flows in order to respond and adapt to changes in the environment. A methodical approach to assessing the effectiveness of risk management of payment systems of banking institutions, which is from the standpoint of multivariate structuring and a list of their indicators of the microeconomic level, forms an optimal set of tools to minimize the set of risks. Indicators of payment systems of Ukraine are determined, according to the net level of credit risk, liquidity risk, business risk, investment risk, legal risk, operational risk, systemic risk, technological and information security risk. The impulse index of functioning of payment systems of Ukraine is calculated. A neuro-fuzzy model for assessing the individual credit risk of participants – legal entities (users-borrowers) of card payment scoring of a banking institution is developed. The basic criteria for assessing the individual credit risk of a participant-legal entity (user-borrower) by card payment scoring are determined. Copyright©2021 by authors",
+    "source": "Universal Journal of Accounting and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

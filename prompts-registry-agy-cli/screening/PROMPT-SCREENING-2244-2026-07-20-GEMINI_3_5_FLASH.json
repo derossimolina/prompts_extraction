@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2244-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FOREIGN EXPERIENCE IN COUNTERING (PREVENTING) ORGANIZED CRIME IN THE FINANCIAL SYSTEM: SPECIAL LAW ENFORCEMENT BODIES AND STRATEGIC PRIORITIES",
+    "authors": "Holovkin, B; Marysyuk, K",
+    "year": "2019",
+    "doi": "10.30525/2256-0742/2019-5-3-25-36",
+    "abstract": "The aim of the article is the analysis of countering organized crime in the financial system in Ukraine and abroad, as well as the development of concrete proposals to optimize the legislative provision of such activities by special international law enforcement agencies in connection with countering crimes in the financial system committed by organized groups and criminal organizations. The subject of the study is an organized crime in the financial system: foreign experience. Methodology. The analysis of legal regulations of Ukraine, the EU, and the USA, as well as scientific literature, enables to study the state of affairs in combating organized groups, which commit economic crimes, and define strategic priorities and objectives of countering this socially negative phenomenon in Ukraine. The results of the study reveal that the implementation of foreign experience in the national economic development faces a number of key economic challenges, primarily organized crime, that hinder the national economy improvement. The author determines that a comprehensive organized crime coping strategy in the financial system is needed currently. Practical implications. The study determines that the issue of countering organized crime in the financial system has become international over the last few decades, overstepping the boundaries of individual countries or regions and gaining global significance. The world community recognizes that organized crime in the financial system has become a global threat to economic security that requires states to adopt measures agreed to combat this socially dangerous activity, both nationally and internationally. Relevance/originality. The study reveals the status of the economic system development in Ukraine, as well as further improves identifying of effective trends of organized crime prevention in the financial system of Ukraine, taking into account positive foreign experience.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

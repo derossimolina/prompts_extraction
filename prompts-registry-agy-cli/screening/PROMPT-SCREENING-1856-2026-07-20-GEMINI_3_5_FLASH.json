@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1856-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Supply and demand&colon; anti&hyphen;money laundering by the compliance industry",
+    "authors": "Verhage A.",
+    "year": "2009",
+    "doi": "10.1108/13685200910996065",
+    "abstract": "PurposeThe purpose of this paper is to discuss rise and growth of the &ldquo;compliance industry&rdquo; in Belgium by looking at the reasons why this industry became such an important element in the battle against money laundering. The &ldquo;compliance industry&rdquo; represents the commercial market that surrounds the battle against money laundering. We aim to map this industry and want to explore how this industry fits in the battle against money laundering. Design&sol;methodology&sol;approachThis paper represents the final phase of a PhD research, studying the origins of battle against money laundering and the private actors within this battle, the compliance officers. The research starts from a criminological point of view. This paper is based on a survey of compliance officers and interviews with both compliance officers and members of the &ldquo;compliance industry&rdquo;. FindingsThe compliance industry is a booming industry on the market on anti&hyphen;money laundering. Their services are mainly focused on software packages, advice, training and consultancy. Although this industry has grown as a result of legislation and regulation, there are some problems, mainly related to privacy issues. Research limitations&sol;implicationsFor this paper, only a limited amount of corporations within the compliance industry were interviewed, which may result in an incomplete picture of this industry. Originality&sol;valueBelgium implemented a regulatory framework in 2001, obliging the installment of a compliance function within banks. The value of this research lies in the fact that neither this booming professional group, nor the surrounding market &lpar;including the compliance industry&rpar; has never been subject of research before. © 2009, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

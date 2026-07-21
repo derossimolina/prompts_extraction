@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2033-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk management and regulatory failures in banking: Reflections on the current banking crisis in Nigeria",
+    "authors": "Agbonkpolor T.",
+    "year": "2010",
+    "doi": "10.1057/jbr.2010.5",
+    "abstract": "Nigerians woke up on 14 August 2009 to the announcement by the new governor of the Central Bank sacking the chief executive officers and management of five banks. Three other banks similarly had their management removed at the conclusion of the special investigation into the banking system by the regulatory authorities. For effects, the dismissed bank chiefs were dragged before the Economic and Financial Crimes Commission and the courts to account for their stewardship. What went wrong? How did banks touted as being rock-solid few months earlier by the same Central Bank come close to the precipice of failure? This article analyzes some of the salient microeconomic issues. It highlights the regulatory and risk management failures in the banking system and the urgent need for a fundamental reappraisal of the existing framework for bank regulation. © 2010 Macmillan Publishers Ltd.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

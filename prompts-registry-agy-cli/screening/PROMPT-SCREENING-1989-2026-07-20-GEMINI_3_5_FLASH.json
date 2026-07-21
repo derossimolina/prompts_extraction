@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1989-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The subprime mortgages crisis and Islamic securitization",
+    "authors": "Hanim Kamil K.; Abdullah M.; Shahimi S.; Ghafar Ismail A.",
+    "year": "2010",
+    "doi": "10.1108/17538391011093315",
+    "abstract": "PurposeThe purpose of this paper is to provide an insight of Islamic securitization based on sukuk structures. Design/methodology/approachDescriptive, analytical, and comparative analyses are used to discuss the risk-sharing behaviour in Islamic securitization through different structures of mudharabah and musharakah sukuk derived from asset securitization. FindingsThe paper reveals that although sukuk are structured in a similar way to conventional asset-backed securities, they can have significantly different underlying structures, provisions and shariah-compliant. In particular, it prohibits the receipt and payment of interest and stipulates that income must be derived from an underlying real business risk rather than as a guaranteed return from interest. With regards to sukuk securitization, an asset is one of the vital elements that should exist as an evidence to support the process and make it permissible in Islam. In terms of Islamic securitization mechanism, it can be divided into two principles, namely, debt based and partnership. This paper further emphasizes that sukuk structures based on partnership principle is regarded as risk sharing rather than risk shifting, where it works by combining risk-exposures in such a way that they offset one another to some degree. Accordingly, overall risk will be less than total risks on individual basis. Practical implicationsThis paper has important implication for the understanding of risk management practices particularly in structuring sukuk. Banks as originators and special purpose vehicles (SPV) as issuers, might consider more sukuk on partnership principles since it directed towards risk-sharing concept that could lead to increase mobilization of savings and investment. As for the investors or sukuk holders, the partnership principle could generate the wealth creation, which to be shared between both investors (fund providers) and issuers (fund users), while both bear the risks involved and the resulting loss. Originality/valueThe paper will fill the gap in the existing literature of Islamic finance by showing that Islamic securitization via sukuk is a viable source of funds that could help stabilize the securities market, and as solution to the current subprime mortgages financial crisis. © 2010, © Emerald Group Publishing Limited.",
+    "source": "International Journal of Islamic and Middle Eastern Finance and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

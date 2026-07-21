@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1904-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Civil society versus organized crime: Local and global perspectives",
+    "authors": "Schneider J.; Schneider P.",
+    "year": "2001",
+    "doi": "10.1177/0308275X0102100405",
+    "abstract": "Based on fieldwork in Palermo, this article analyzes the city's antimafia movement in which the words 'civil society' have ample resonance. On the one hand, they convey an ecumenical meaning, suited to overcoming the otherwise polarized Communist and Christian Democratic political identities that antimafia activists inherited from the Cold War era. On the other hand, they evoke cultural hegemony, exemplified by antimafia initiatives in the public schools. To understand the contemporary currency of 'civil society', the article argues, requires revisiting the Cold War years when the overt and covert exercise of political violence not only impeded the formation of democratic institutions, but made a mockery of such institutions where they existed. Social movements emerging from that era often make rhetorical use of the civil society concept as an umbrella under which to demand transparency, democracy, and human rights. Coincidentally, civil society discourse has acquired enormous currency with the United Nations, the IMF and World Bank, and a vast array of non-governmental organizations. At this level, the issue is the marginalization of new global enemies, no less threatening than the (Soviet) 'evil empire' - specifically, the uncivil forces of crime and corruption that, under the post-Cold War conditions of triumphant neo-liberal capitalism, can only grow and thrive if not held in check.",
+    "source": "Critique of Anthropology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

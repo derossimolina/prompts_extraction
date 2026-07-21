@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2139-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International technology licensing: Monopoly rents, transaction costs and exclusive rights",
+    "authors": "Aulakh P.S.; Jiang M.S.; Pan Y.",
+    "year": "2010",
+    "doi": "10.1057/jibs.2009.19",
+    "abstract": "As firms increasingly use licensing to exploit knowledge-based assets in global technology markets, appropriate structuring of these agreements has become an important line of research inquiry. One area that has received less attention is the nature of rights granted in inter-firm licensing relationships, although it is an important clause that has implications for profit generation from licensing of proprietary assets. Conceptualizing licensing rights in terms of number of licenses granted and exclusivity rights given to a licensee in a foreign market, this paper examines the determinants of these rights based on monopoly rents and transaction costs associated with different types of licensing contracts. Hypotheses are empirically tested through two studies, one based on large US manufacturing firms and the other on a cross-national sample of medium-sized firms actively involved in international technology licensing. Results from both studies show a greater propensity to use non-exclusive/ multiple licensing when the licensed technology has greater potential to produce differentiated products, or when there is greater threat of substitutive technologies entering the market. On the other hand, innovative technologies and a higher degree of asset-specific investments required of the licensee for the technology are related to the use of single/exclusive licensing agreements. © 2010 Academy of International Business All rights reserved.",
+    "source": "Journal of International Business Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

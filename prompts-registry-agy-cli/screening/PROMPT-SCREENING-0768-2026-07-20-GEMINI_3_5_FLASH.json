@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0768-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A regulated anonymous cryptocurrency with batch linkability",
+    "authors": "Yu Q.; Liao S.; Wang L.; Yu Y.; Zhang L.; Zhao Y.",
+    "year": "2024",
+    "doi": "10.1016/j.csi.2023.103770",
+    "abstract": "Cryptocurrencies such as Bitcoin use blockchain to conduct peer-to-peer value transmission. Nevertheless, the publicly nature of on-chain data might violate the privacy of the users. Subsequently, several anonymous cryptocurrencies, such as Zerocash and Monero, were proposed to enhance the privacy of cryptocurrencies. However, the strong privacy makes these cryptocurrencies perfect tools for illegal gains such as money laundering, extortion, and terrorist financing. As a result, regulation becomes a necessity for cryptocurrencies. In order to balance the contradiction between privacy and regulation in cryptocurrencies, in this paper, we propose a new regulated anonymous cryptocurrency protocol that can protect the privacy of honest payers while enabling a tracing authority to find out all the correlations among a batch of dubious transactions by a single query, and even trace malicious payers’ real identity if necessary. We formalize its system model and security model, including anonymity, sort-blindness, non-frameability and linkability. We also demonstrate that the proposed protocol achieves these desirable security properties with detailed security analysis. Finally, we show the validity and feasibility of this protocol by implementing a prototype system. © 2023 Elsevier B.V.",
+    "source": "Computer Standards and Interfaces"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

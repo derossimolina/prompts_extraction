@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0203-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Onside integrity? Match-fixing, corruption and organized crime risks in Canadian soccer ahead of the 2026 FIFA World Cup",
+    "authors": "Bragagnolo W.",
+    "year": "2026",
+    "doi": "10.1007/s40318-025-00330-y",
+    "abstract": "This study examines the potential for transnational criminal networks to deepen their infiltration into Canadian soccer. Other high-risk industries, such as gaming, real estate, luxury goods, and horse racing, have strengthened anti-money laundering and anti-corruption safeguards, making it harder for illicit actors to operate. Because Canadian sport lacks comparable protections, it has become a relatively unregulated avenue for illicit activity, a vulnerability underscored by the first widely documented global match-fixing scheme, uncovered in Germany in 2009. Using Institutional Theory as its analytical lens, this study examines how weaknesses in Canada’s sport governance structures, anti-corruption measures targeting match-fixing, and related regulatory frameworks enable vulnerabilities to persist. It also explores how institutional structures and norms influence behavior and shape outcomes in the fight against corruption in Canadian sport. Drawing on policy and judicial documents, case studies, and academic literature, the study highlights the urgent need for government-led reforms, including enforceable governance standards and regular independent reviews, to restore transparency, accountability, and public trust, and to safeguard the integrity, safety, and security of Canadian athletes, the public, and the sport system. © The Author(s) 2026.",
+    "source": "International Sports Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

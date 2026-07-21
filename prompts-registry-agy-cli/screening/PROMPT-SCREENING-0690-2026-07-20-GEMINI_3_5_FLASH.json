@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0690-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "BEPS: Changing International Fiscal Standards and the Unchanging Fortunes of 'Sustainable Development'",
+    "authors": "Kumar A.",
+    "year": "2023",
+    "doi": "10.1515/ldr-2023-0051",
+    "abstract": "The OECD led BEPS project attempts key changes to the international tax standards to limit harmful tax avoidance. First, it is found that calls for the BEPS project are based on arguments (illicit financial flows and tax competition) that are supported by limited evidence and hence may not offer much fiscal gain to the developing countries. Second, it is found that the BEPS project would, through information sharing, further limit the fiscal jurisdiction of capital importing states. Further it is found that tax competition, even if existing in a limited form, is a result of the international tax architecture and the externalities caused by it. In fact, it is seen that the MNCs actually reduce the inefficiencies created by this tax architecture and thereby reduce transaction costs. By agreeing to the BEPS agenda of information sharing the developing countries would be paying the cost of internalising the externality. © 2023 Walter de Gruyter GmbH, Berlin/Boston.",
+    "source": "Law and Development Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

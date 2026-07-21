@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1387-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Evaluation of Mortgage Default Characteristics Using Fannie Mae’s Loan Performance Data",
+    "authors": "Ahlawat S.",
+    "year": "2019",
+    "doi": "10.1007/s11146-018-9686-8",
+    "abstract": "Mortgage default has been characterized as ruthless or predominantly driven by the relation of house price to mortgage value by proponents of pure option theoretic model (Kau et al. Journal of Money, Credit and Banking, 24(3), 279–299 1992, Ambrose et al. Journal of Money, Credit, and Banking, 29(3), 314–325 1997), and as non-ruthless by researchers who argue that transaction costs and other idiosyncratic factors determine when mortgage holders default (Foster and Order Housing Finance Review, 3(4), 351–372 1984; Vandell Journal of Housing Research, 6(2), 245–264 1995). This work uses Fannie Mae loan performance data to present evidence supporting the hypothesis that a significant number of mortgage defaults are non-ruthless. It uses a new approach to track mortgages that are likely to default by tracking 90-day delinquent mortgages and studying which ones eventually default. It evaluates the joint put-call option embedded in a mortgage contract using a Monte-Carlo simulation for the underlying stochastic variables. It identifies key differences between ruthless and non-ruthless mortgage defaults and illustrates the propensity of non-ruthless mortgage defaulters to become current on their 90-day delinquent mortgages. These observations provide valuable insights for policymakers and creditors in their task of structuring debt-relief programs for delinquent mortgage holders. It augments the analysis of mortgage defaults by considering the impact of loan-to-value ratio at mortgage origination. © 2018, Springer Science+Business Media, LLC, part of Springer Nature.",
+    "source": "Journal of Real Estate Finance and Economics"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica modelagem baseada em agentes (ABM) para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo))",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

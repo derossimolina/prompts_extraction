@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0555-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal contours of the crime of unauthorized operation of a financial institution: an analysis of payroll loan cases by association of civil servants; [CONTORNOS LEGAIS DO CRIME DE OPERAÇÃO NÃO AUTORIZADA DE INSTITUIÇÃO FINANCEIRA: UMA ANÁLISE DOS CASOS DE EMPRÉSTIMO CONSIGNADO POR ASSOCIAÇÃO DE SERVIDORES]",
+    "authors": "de Oliveira E.P.; Horta F.",
+    "year": "2023",
+    "doi": "10.5281/zenodo.7919217",
+    "abstract": "The criminal offence of article 16 of Law 7492 is defined fundamentally in terms of the legal concept of a financial institution for criminal purposes. In view of the extent and complexity of this concept, doubts are common as to whether or not the provision of certain financial services should be included in this class. A debatable case is the usual concession of payroll loans by associations of public servants. The question is whether this service can constitute a crime in two alternative cases: (i) if the loans are made through an covenant with regular financial institutions, and the association works as an intermediary; and (ii) when the association operates the loans with its own resources. To answer this question, the article presents an analysis of the crime of article 16 of Law 7492 and especially of the legal concept of financial institution, including among its requirements the profitability, the openness to the market and the risk of the activity for the assets of third parties. In the case of agreements with banks, it is concluded that the intermediation does not configure a typical activity of a financial institution, when there is no availability of resources and, therefore, risk management by the association; when the intermediation is limited to certain subjects in at least one of the poles; or when the profit from the activity is exclusive to the bank. Distinguishing profit from capital remuneration, from the notion of legal fees, we arrive at the determination of the crime of usury, as abuse in the practice of lending with own resources, thus demarcating the limit of the concession of credit by the association itself. © 2023, Xurists in Action Association. All rights reserved.",
+    "source": "Cadernos de Dereito Actual"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

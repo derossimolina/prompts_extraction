@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1546-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ukrainian kleptocrats and America's real-life House of Cards: Corruption, lobbyism and the rule of law",
+    "authors": "Kuzio T.",
+    "year": "2017",
+    "doi": "10.1016/j.postcomstud.2017.01.002",
+    "abstract": "Washington DC is not only a center for democracy promotion programs by government-funded and private foundations and think tanks. Washington DC has also attracted hundreds of millions of dollars for lobbyists, political consultants and think tanks from authoritarian political forces and kleptocrats who have little in common with American and European values. Both Republicans and Democrats have been recipients of these illicit funds from state officials and oligarchs who are seeking to ingratiate themselves with American public opinion. Political consultants, lobbyists, lawyers and think tanks which receive funds from such sources are part of a bigger problem of reverse corruption and cynicism and the export of authoritarian practices from Ukraine and post-Soviet states to the West. This was clearly seen in the hiring of Paul Manafort, Viktor Yanukovych's long-time political consultant by US presidential candidate Donald Trump. Trump's promise to ‘drain the (Washington) swamp’ rings hollow after it was revealed he accepted funds from a Ukrainian oligarch who had earlier donated funds to the Clinton's (Reader 2016). © 2017 The Regents of the University of California",
+    "source": "Communist and Post-Communist Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

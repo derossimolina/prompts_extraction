@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0509-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The abuse of hawala banking for terrorist financing in German-speaking countries",
+    "authors": "Teichmann F.M.J.; Wittmann C.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-01-2022-0013",
+    "abstract": "Purpose: The purpose of this article is to determine how terrorist financiers have continued to exploit hawala banking in German-speaking countries, despite regulations in place to prohibit this. Design/methodology/approach: The first author interviewed compliance officers and suspected criminals on hawala banking mechanisms. Formal interviews with compliance officers were recorded, but interviews with suspected criminals were not, to maximize their potential forthrightness. The number of interviews totaled to 70 and a questionnaire was based on this that was sent to 200 compliance officers. The interviews were analyzed with a qualitative analysis and developed a system of categories that, in turn, was assessed by means of triangulation. These interviews enabled the first author to translate the empirical findings into his own recommendations for improving regulatory procedures prohibiting the financing of terrorism. Findings: The paper finds that it is possible to circumvent compliance measures and exploit hawala banking to finance terrorism. Compliance officers consider the chances of detecting terrorist financing to be “low,” which is illustrated by mapping out the individual steps of the asset transfer. The conducted interviews enabled the first author to translate the empirical findings into his own recommendations for improving regulatory procedures prohibiting the financing of terrorism. Research limitations/implications: The scope of application of results was duly considered. Originality/value: Whilst the existing literature sufficiently connects hawala banking to terrorist financing, this article details how existing compliance measures are circumvented. Emergent policies must consider the current vulnerabilities to improve their effectiveness. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

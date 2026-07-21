@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0780-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Laundering of Criminal Proceeds Through Cryptocurrency Transactions: A Digital Threat to Economic Security",
+    "authors": "Kamensky D.; Chernyak A.; Dudorov O.; Fedun I.; Klymenko S.",
+    "year": "2024",
+    "doi": "10.26512/lstr.v16i2.52003",
+    "abstract": "[Purpose] The purpose of this study is to discuss, based on international as well as national laws and practices, various issues and potential solutions surrounding the growing problem of money laundering practices using cryptocurrency transactions. [Methodology] A balanced combination of theoretical and empirical methods has been used in the course of research; in particular, the method of comparative legal research has been employed extensively throughout the text of article. The theoretical component of this research paper includes commentaries by Ukrainian, German, other European as well as American researchers in this field. Their works are cited appropriately. The subject scope of the paper covers modern phenomenon of money laundering based on cryptocurrency transactions. [Findings] This paper extensively discusses international and national legal frameworks for identifying and stopping as well as preventing various money laundering schemes and techniques based on cryptocurrency transactions and blockchain technology in general. It has been established that with the global cryptocurrency market valued at roughly $1 trillion, its attractiveness to money launderers endangers economies and financial systems of numerous world jurisdictions. Based on theoretical observations and relevant analyses of legal cases, authors’ conclusions on how to fight this latent type of criminality have been presented. [Practical Implications] The research is deemed to be of value to national regulators, law enforcement agents and legal commentators, who think, write and act with the goal of fighting new money laundering patterns. It can serve as part of a broader international roadmap on how to identify suspicious money laundering schemes using various cryptocurrency transactions and also to impose effective sanctions on criminal actors behind those schemes. [Originality] The paper originality relies on its comprehensive and balanced combination of economic and legal analyses of the issues presented and potential solutions to them. It also incorporates both sound theoretical research and in-depth coverage of law enforcement actions, as well as legal cases against crypto money launderers. © 2024 Universidade de Brasilia. All rights reserved.",
+    "source": "Revista de Direito, Estado e Telecomunicacoes"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

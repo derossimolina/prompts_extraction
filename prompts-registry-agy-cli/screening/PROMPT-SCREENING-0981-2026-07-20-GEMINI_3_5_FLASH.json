@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0981-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Broad application of artificial intelligence for document classification, information extraction and predictive analytics in real estate",
+    "authors": "Bodenbender M.; Kurzrock B.-M.; Müller P.M.",
+    "year": "2019",
+    "doi": "10.1177/0306307018823113",
+    "abstract": "Real estate represents a major share of economic activities and wealth in all economies. Due to the lack of widely acknowledged standards, however, the structuring, providing and managing of a life cycle-comprehensive building documentation yet remain challenging. Based on the empirical analysis of 8965 digital documents from 14 properties of 8 different owners, the article presents a model that will unify existing approaches and lead to the development of a document classification standard. This provides the basis for software systems to process relevant data and create timely information over the entire life cycle of a building. Further, it is shown that automated information extraction through artificial intelligence will become instrumental for enhanced and innovative business models and products in real estate such as automated data validation and data evaluation, documentation review, benchmarking and other analytical applications. © The Author(s) 2019.",
+    "source": "Journal of General Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

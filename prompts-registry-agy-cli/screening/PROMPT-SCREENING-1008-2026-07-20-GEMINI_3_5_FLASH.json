@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1008-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-Mafia Law Enforcement and Lending in Mafia Lands. Evidence from Judicial Administration in Italy",
+    "authors": "Calamunci F.M.; De Benedetto M.A.; Silipo D.B.",
+    "year": "2021",
+    "doi": "10.1515/bejeap-2020-0353",
+    "abstract": "The paper analyses the impact of a preventive measure aimed at fighting the criminal organizations' activities on the bank-firm relationship in the four Italian regions with the highest density of mafia over the period 2004-2016. Taking advantage of the staggered firm-level anti-mafia enforcement actions, we implement a difference-in-differences approach and find that after entering judicial administration mafia-infiltrated firms experience a 19 per cent contraction of bank credit and have a higher probability of being credit rationed than a matched sample of legal companies. We also find that firms confiscated from the mafia experience a negative change in some demand-driven (value of production) and supply-driven (profitability) determinants of loans. Finally, we study whether confiscation of infiltrated firms produces externalities on non-infiltrated companies, and show that banks do not reassess the overall credit risk in local markets. © 2021 Walter de Gruyter GmbH, Berlin/Boston 2021.",
+    "source": "B.E. Journal of Economic Analysis and Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

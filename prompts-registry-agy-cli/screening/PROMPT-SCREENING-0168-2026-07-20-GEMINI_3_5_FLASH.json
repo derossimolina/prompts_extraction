@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0168-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Detecting Illicit Investment in Real Estate: a Machine‑Learning Approach to Rare‑Event AML Risk",
+    "authors": "Lokanan M.",
+    "year": "2026",
+    "doi": "10.1007/s11146-026-10063-w",
+    "abstract": "Illicit investment in residential real estate poses persistent challenges for anti–money‑laundering (AML) enforcement due to ownership opacity, fragmented data, and the scarcity of confirmed criminal cases. This study evaluates supervised machine‑learning and neural‑network models to determine their ability to detect properties linked to criminal activity and to identify the most influential predictors of illicit investment. Using a rare‑event dataset and cross‑validated modelling framework, the analysis shows that meaningful patterns can be detected despite extreme class imbalance. Across logistic regression, Random Forest, XGBoost, CART oversampling experiments, and an artificial neural network, consistent predictors—market_value, owner_legal_person, owner_owns_multiple, land_acres, and out_of_state_owner—emerge as central risk indicators. The findings support Rational Choice Theory by illustrating how offenders exploit structural vulnerabilities to maximize utility. Policy implications include property‑level risk scoring, early‑warning systems, and enhanced support for gatekeepers. Machine‑learning approaches show strong potential to strengthen real‑estate AML frameworks. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2026.",
+    "source": "Journal of Real Estate Finance and Economics"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

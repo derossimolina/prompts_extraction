@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1602-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cause for optimism? Financial sanctions and the rise of the Sino-North Korean border economy",
+    "authors": "Lee J.-W.; Gray K.",
+    "year": "2017",
+    "doi": "10.1080/09692290.2017.1301977",
+    "abstract": "This article critically engages with recent arguments that financial sanctions are capable of overcoming the shortcomings of traditional trade sanctions as well as more targeted ‘smart sanctions.’ Much of the existing analysis of financial sanctions cites as evidence of their success the case of the US Treasury's 2005 accusations against Macao's Banco Delta Asia of facilitating North Korean money laundering. We argue, however, that analysis of the broader impact of financial sanctions on North Korea's principle bilateral economic relationship, namely the Sino-North Korean border economy, reveals that such measures have merely served to increase the scope of evasive economic activity. In particular, financial sanctions have meant that methods of trade settlement in the border economy are based primarily on cash and barter, with minimal recourse to the official banking system. This raises questions not only regarding the effectiveness of financial sanctions but also the degree to which they serve to provoke counter-responses that actively undermine the broader objectives pursued by sender states. Through examining the case of Sino-North Korean border economy, this article contributes to a more comprehensive understanding of the shortcomings of financial sanctions as a tool of foreign policy. © 2017 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Review of International Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0064-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Law and Digitalization: Cryptocurrency as Challenges Towards Indonesia's Criminal Law",
+    "authors": "Hardiago D.; Syafrinaldi R.F.; Syafrinaldi; Musa M.; Kim H.",
+    "year": "2025",
+    "doi": "10.15294/ijcls.v10i1.22557",
+    "abstract": "The advancement of science and technology continues to accelerate. Internet and its supporting technology became the backbone for many activities. This kind of advancement goes beyond territorial boundaries and human’s intelligence. This phenomenon triggers a new crime model. One of them is a crime related to the existence of Cryptocurrency such as money laundering, terrorism financing, and other forms of crime. This is understood given that Cryptocurrency give rise to large number of crimes as well as the emergence of a new modus operandi in several criminal acts. This is further supported by the lack of current Indonesian regulations that do not specifically accommodate the Cryptocurrency mechanism. The main issues raised in this study are related to how crimes and new modus operandi are caused by the Cryptocurrency mechanism against Indonesian criminal law, as well as how the mechanism of crime prevention and handling caused by the Cryptocurrency mechanism through the means of penal policy, covering targeted legislative amendments, specialised investigative units, prosecutorial guidelines, and asset-seizure procedures— to prevent and combat such crimes. This article uses normative method to answer the problem through comparative approach, case approach, literary approach and statutory approach. Initial hypotheses proposed to address these problems are: First, Cryptocurrency as a financial transaction mechanism that relies on the computational system with anonymous transactions opens a great opportunity for crime in the mechanism of the transaction. Second, the establishment of new rules in order prevent and combat crime and the modus operandi caused by the Cryptocurrency mechanism through the mechanism of penal policy are essential. © Author(s).",
+    "source": "Indonesian Journal of Criminal Law Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

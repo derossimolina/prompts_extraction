@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1938-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal and Illegal Production and Trade Under Monopoly with Transaction Cost",
+    "authors": "Bhaduri A.",
+    "year": "2000",
+    "doi": "10.1111/1467-999X.00093",
+    "abstract": "Using illegal trade in narcotics as an example, where regular seizure of part of the merchandise by the law-enforcing authorities imposes a transaction cost on the monopolist supplier, this paper demonstrates the result that a higher transaction cost might increase the volume supplied for trade. The result of the formal model also applies to the opposite situation, e.g. when trade is legal, as in seventeenth- and eighteenth-century maritime trade, but pirates illegally seize part of the merchandise to impose a transaction cost on the traders. The more general implications of this analysis are also discussed. Blackwell Publishers Ltd 2000.",
+    "source": "Metroeconomica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

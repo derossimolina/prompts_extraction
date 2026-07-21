@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0060-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "AI culture ‘profiling’ and anti-money laundering: Efficacy vs ethics",
+    "authors": "Goodell J.W.; Muckley C.B.; Neelakantan P.; Ryan D.; Yu P.-S.",
+    "year": "2025",
+    "doi": "10.1016/j.irfa.2025.103980",
+    "abstract": "Using extensive transaction and money laundering detection data, at a globally important financial institution, we investigate the efficacy of including facets of national culture in formulating anti-money laundering predictions. For corporate and individual accounts, Hofstede individualism scores of the country in which a customer is resident, or from which a wire is sent/received, are of first-order importance in the detection of money laundering. When combined with account and transaction data; as well as even a proprietary institutional algorithm, individualism scores continue to determine the models’ predictive performances. The efficacy of cultural profiling in money laundering detection underscores the need for stringent and enforced data protection to prohibit its use. This will safeguard the civil right of individuals to privacy and promote financial inclusion. © 2025 Elsevier Inc.",
+    "source": "International Review of Financial Analysis"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0540-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Presenting a legal and regulatory analysis of the United Arab Emirates’ past, present and future legislation on combating money laundering (ML) and terrorist financing (TF)",
+    "authors": "Naheem M.A.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-08-2017-0038",
+    "abstract": "Purpose: This paper aims to study the three levels of anti-money laundering (AML) and combating of terrorist financing (CTF) regulations that apply to banks and financial institutions listed within the country. The paper aims to determine risks arising from globalised financial centres within the United Arab Emirates (UAE) and potential improvements deficiencies that may otherwise serve as conduits for criminal and terrorist organisations. There is a significant body of literature that covers the advance of AML/CTF legislation in the Dubai-based free trade zone, the Dubai International Financial Centre (DIFC). Though free trade zones are scattered across the UAE, the DIFC has the highest foreign investment in the country with an expanded international network. Design/methodology/approach: The UAE has made progress as part of its fight against money laundering (ML) and terrorist financing (TF). This paper studies the legislative stance by analysing the country’s AML/CTF laws. Also, the advances of global financial centres in the UAE have created layers of regulation, each regulator with their own set of rules. This paper attempts to study the regulations and the level of their enforcement to combat ML and TF. Findings: This paper finds significant regulatory oversight in certain frameworks set within the UAE’s financial system. However, the paper finds secondary literature and evaluations conducted by international bodies that suggest some deficiencies within the mechanisms, that are being resolved by the country’s regulatory agencies. The UAE’s advancing network of financial institutions has created a global chain of monetary transfers, which offers some possibility of ML also extending to TF. Though the country has made progress, there remain a few flaws that can be exploited by criminal and terrorist organisations. Practical implications: ML has the possibility to damage markets if allowed in excess. This is not the case with the UAE, and large unverified transactions are investigated by the regular authorities. ML is now a matter of concern when funds acquired through illegal means may be used to directly finance terrorism. Originality/value: This paper tests the UAE’s mechanisms to combat ML and TF in the context of the country’s advancing of a global central financial market. There is a need to understand these regulations as investors within the UAE and abroad may sometimes face risk if ML/TF deficiencies are exploited by criminal and terrorist organisations. This paper provides an insight into the country’s infrastructure to combat ML and TF and also weighs its performance as per international standards and guidelines. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

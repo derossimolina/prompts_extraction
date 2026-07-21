@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0148-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring Green Finance for Corporate Green Transformation",
+    "authors": "Li Y.; Xiang F.",
+    "year": "2025",
+    "doi": "10.3390/su17219843",
+    "abstract": "SThe green finance structure refers to the configuration of financial instruments within the green finance system, the optimization of which is crucial for efficient resource allocation and corporate green transformation. Using panel data from Chinese A-share listed companies from 2014 to 2021, this study empirically examines the relationship between green finance structure and corporate green transformation. The results reveal a significant inverted U-shaped relationship, indicating that a coordinated balance between market-based and bank-based instruments most effectively promotes green transformation. This relationship is influenced by technological and institutional environments: in high-tech industries and regions with weaker environmental regulations, a more market-oriented green finance structure is associated with stronger transformation performance. Further analysis identifies a significant synergistic effect between green credit and green bonds, showing that their complementarity can further enhance corporate green transformation and varies across different technological and institutional contexts. Heterogeneity analysis indicates that the inverted U-shaped pattern is more pronounced in western regions and among firms with stronger internal control systems, while eastern and central regions exhibit a more linear positive relationship. Overall, this study introduces a structural perspective to explain the role of green finance in supporting corporate sustainability transitions and provides new empirical evidence for optimizing the green financial system. © 2025 by the authors.",
+    "source": "Sustainability (Switzerland)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

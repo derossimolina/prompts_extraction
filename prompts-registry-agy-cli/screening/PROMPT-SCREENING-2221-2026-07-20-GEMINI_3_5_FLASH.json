@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2221-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Put it in writing: Using maps to stimulate writing in geography classrooms",
+    "authors": "Walker D.",
+    "year": "1996",
+    "doi": "10.1080/00221349608978715",
+    "abstract": "With the growth of integrated curriculum, geography teachers are increasingly faced with the challenge of promoting and teaching writing. Many teachers lack confidence in writing instruction and resist withdrawals from their bank of social studies time. This article presents a model for structuring writing in the geography class with a focus on using maps to prompt writing that will promote student interaction with geographic concepts. © 1996 Taylor & Francis Group, LLC.",
+    "source": "Journal of Geography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

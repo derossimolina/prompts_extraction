@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1013-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrencies as a subject of financial fraud",
+    "authors": "Kutera M.",
+    "year": "2022",
+    "doi": "10.7341/20221842",
+    "abstract": "PURPOSE: The main purpose of this paper was to identify the current scope of research on cryptocurrencies as a subject of fraud. Detailed research questions related to the determination of contemporary trends of the conducted research and the definition of potential opportunities for further investigation of this topic. One of the questions also concerned identifying the most common crimes committed using cryptocurrencies. METHODOLOGY: The study is based on a systematic literature review (SLR) of 57 publications available on the Scopus database. A bibliometric and descriptive analysis of selected literature items was carried out. Then, vital thematic clusters were separated, and an in-depth content analysis was performed. FINDINGS: The detailed bibliometric and descriptive analysis showed that cryptocurrencies as a subject of financial fraud are generally a new area of scientific research, although it is developing quite intensively. The relatively small number of publications, compared to other similar areas, also indicates that this topic has not yet been explored widely by scientists, and many different research trends can be created in it. Ultimately, the following key research areas were identified: types of cryptocurrency fraud, crime detection methods, risks related to blockchain technology, money laundering, and legal regulations regarding cryptocurrencies. It was also possible to identify that money laundering is currently the most common fraud. However, it has been pointed out that the second most frequent fraud is financial pyramids based on the Ponzi scheme. IMPLICATIONS: The paper clearly presents the main research trends on using cryptocurrencies in criminal activities. At the same time, it was emphasized that, compared to other research areas, this topic is relatively new. Therefore, there is a wide possibility of exploring not only existing but also undiscovered research trends. In addition, key types of fraud in economic practice have been identified, which is particularly important for financial market participants. It was clearly indicated which transactions bear the highest risk. It is also worth paying attention to the critical timeliness of the topic, as the scale of crimes involving cryptocurrencies has recently been growing rapidly. The study confirms the insufficient scope of legal regulations, which are not able to strengthen the security of economic transactions adequately. Therefore, it can be a clear indication for the governments of individual countries or international institutions for further efficient changes to the law. ORIGINALITY AND VALUE: The contribution of this study is threefold. It is one of the first research papers showing the results of a systematic literature review (SLR) combined with a bibliographic and in-depth analysis of the content of publications in this field. During the work, the VOSviewer software was also used, which enabled objective identification of the main thematic clusters based on the occurrences and link strength of keywords included in the publications. Secondly, the key types of fraud have been identified that, at the same time, cause the most significant financial loss. This allowed for the establishing of directions for further research, which have profound practical implications for market participants. Some of them relate to the need to develop and implement modern computer applications, allowing for the detection of a wider range of emerging abuses. © 2022, Cognitione Foundation for the Dissemination of Knowledge and Science. All rights reserved.",
+    "source": "Journal of Entrepreneurship, Management and Innovation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

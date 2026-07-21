@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0846-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ensuring Financial System Sustainability: Combating Hybrid Threats through Anti-Money Laundering and Counter-Terrorist Financing Measures",
+    "authors": "Korauš A.; Jančíková E.; Gombár M.; Kurilovská L.; Černák F.",
+    "year": "2024",
+    "doi": "10.3390/jrfm17020055",
+    "abstract": "This paper deals with ensuring the sustainability of the financial system and combating hybrid threats in relation to anti-money laundering and counter-terrorist financing (AML/CTF) measures. International cooperation in the field of combating hybrid threats is only at the beginning, and in many ways, the experience of international cooperation in the fight against money laundering and terrorist financing, which is based on many years of experience in the institutional and legislative fields, could be used. Hybrid threats are constantly changing and evolving, which means our response to them must also constantly evolve and adapt. The aim of the presented study is the analysis of the problem of the legalization of income from criminal activity and the financing of terrorism and their possible relationship with the fight against hybrid threats and maintaining the stability of the financial system. © 2024 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

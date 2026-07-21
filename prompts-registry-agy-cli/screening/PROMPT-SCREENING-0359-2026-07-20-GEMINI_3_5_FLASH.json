@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0359-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Data analysis to combat money laundering: the case of EFI Peru",
+    "authors": "Minauro T.; Horna-Saldana C.J.; Toro Galeano M.L.",
+    "year": "2025",
+    "doi": "10.1108/EEMCS-06-2023-0230",
+    "abstract": "Learning outcomes – This case study aims to assess the effectiveness of existing anti-money laundering measures and propose improvements based on statistical and ethical reasoning; analyze the variables involved in the case, mentioning the possible relationships between them with regard to asset laundering; evaluate the normality of the variables and the level of significance; create a multiple linear regression model using data analysis as a tool to create a new mechanism for the detection of asset laundering; and evaluate the ethical implications of implementing data-driven anti-money laundering systems in emerging markets. Case overview/synopsis – This case study provides an introduction to the crime of asset laundering and shows the transaction details of a company that is possibly engaging in this crime. These data will allow Entidad Financiera y de Inversiones Peru to search for signs of illicit activity and determine if the company Easy Wash SAC is engaging in any illegal actions. To this end, Patricia Raza, executive manager of the financial entity, and her team must analyze the data and come up with a detection mechanism for asset laundering that can be applied to future highly suspicious clients, as well. Complexity academic level – This case study is suitable for undergraduate courses: undergraduate students, postgraduate students and Master of Finance students. It is also applicable for MBA or graduate courses: financial system, detection mechanism management, decision-making, financial intelligence and security and data analysis. Supplementary material – Teaching notes are available for educators only. Subject code – CSS1: Accounting and Finance. © 2025 Emerald Publishing Limited",
+    "source": "Emerald Emerging Markets Case Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

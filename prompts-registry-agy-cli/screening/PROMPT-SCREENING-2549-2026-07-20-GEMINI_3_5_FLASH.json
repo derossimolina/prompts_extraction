@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2549-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tier 1 hybrid capital instruments for banks: a brief impact analysis of the proposed changes to the Capital Requirements Directive",
+    "authors": "Roith, S; Sinclair, S; Khoo, S",
+    "year": "2009",
+    "doi": "10.1080/17521440.2009.11428047",
+    "abstract": "The development and implementation of new rules governing the eligibility of hybrid capital instruments to qualify as Tier 1 capital for credit institutions established in the EU is a long (and ongoing) process. It commenced in April 2007 with the European Commission's invitation to the Committee of European Banking Supervisors to consider whether convergence in the treatment of hybrid capital instruments in the EU could be achieved. As the turmoil and uncertainty surrounding the banking industry continues, there is a renewed focus on the quality of capital maintained by banks, and the European Parliament and Council are currently expected to adopt changes to the Capital Requirements Directive (CRD) ahead of European Parliament elections in June 2009. The changes to be adopted will result in the CRD explicitly recognising hybrid capital instruments as Tier 1 capital for the first time. This article, which was originally distributed to clients and contacts of Clifford Chance LLP on 6 March 2009 and takes stock of where we are in this process as at that date, identifies certain key issues that could have an impact on the future structuring and issue of hybrid capital instruments.",
+    "source": "LAW AND FINANCIAL MARKETS REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

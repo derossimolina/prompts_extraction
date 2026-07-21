@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0469-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is remittance cost a driver of trade misinvoicing? A case study of Vietnam",
+    "authors": "Tran Q.P.",
+    "year": "2024",
+    "doi": "10.1108/JED-04-2024-0158",
+    "abstract": "Purpose: This study aims to investigate the impact of remittance costs on trade-based money laundering (TBML) and provide insights into the relationship between remittance costs and TBML, particularly focusing on import over-invoicing and low-income trade partners. Design/methodology/approach: Utilizing an extended gravity model for TBML, bilateral data from Vietnam spanning 2011 to 2019 are analyzed to examine the correlation between remittance costs and TBML. Findings: The study reveals a positive association between remittance costs and TBML, highlighting the significance of reducing remittance costs to curb TBML. Research limitations/implications: The research is limited by the availability of data and focuses solely on Vietnam, implying potential variations in other contexts. Practical implications: Policymakers should consider reducing remittance costs as a strategy to combat TBML effectively. Social implications: Lowering remittance costs could contribute to the prevention of illicit financial activities, fostering economic stability and social development. Originality/value: This study provides novel insights into the relationship between remittance costs and TBML, offering valuable implications for policy formulation and anti-money laundering (ML) efforts. © 2024, Quang Phu Tran.",
+    "source": "Journal of Economics and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

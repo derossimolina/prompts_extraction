@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2218-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Investigating the implications of derivative securities in emerging stock markets: The Islamic perspective",
+    "authors": "Abumustafa N.I.; Al-Abduljader S.T.",
+    "year": "2011",
+    "doi": "10.1057/jdhf.2010.7",
+    "abstract": "This article presents a preliminary framework for structuring derivative securities in Muslim stock markets. It is evident that derivative markets play a crucial role in the global financial system and make a vital contribution to creating an efficient economic system. However, the Islamic perspective on derivative securities, including the possible restrictions on derivative trading, has not been closely examined. This article attempts to fill this gap in the literature by presenting the current stance of Gulf Cooperative Countries capital markets. The article also examines the Kuwaiti experience with options trading and provides recommendations for adequately applying sharia-compliant derivative securities to global financial markets. © 2011 Macmillan Publishers Ltd.",
+    "source": "Journal of Derivatives and Hedge Funds"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

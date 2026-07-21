@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2147-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Do equity-based Sukuk structures in Islamic capital markets manifest the objectives of Shariah?",
+    "authors": "Dusuki A.W.",
+    "year": "2010",
+    "doi": "10.1057/fsm.2010.17",
+    "abstract": "The Islamic capital market is an important component of the overall Islamic financial system especially in providing an element of liquidity to the otherwise illiquid assets. Like its conventional counterpart, Islamic capital markets complement the investment role of the Islamic banking sector in raising funds for long-term investment. These long-term investments are facilitated through various Shariah contracts and instruments ensuring efficient mobilisation of resources and their optimal allocation. This article aims at reviewing equity-based Sukuk structure, which is one of the most popular instruments used in Islamic capital market today. This article argues that some innovations made in structuring Sukuk, which try to achieve the same economic outcome like conventional instruments, distort the vision of Islamic economics based on justice and equitability. These visions are deeply inscribed in the objectives of Shariah, also known as Maqasid al-Shariah. This distortion stems from the restricted view of understanding Shariah, by only focussing on the legal forms of a contract rather than the substance especially when structuring a financial product. The overemphasis on form over substance leads to potential abuse of Shariah principles in justifying certain contracts, which in fact are contradictory to the Shariah text and ultimately undermining the higher objectives of Shariah. In the final analysis, this article concludes that the substance of a contract that has greater implications to the realisation of Maqasid al-Shariah should be equally looked into. Otherwise, Islamic finance just appears as an exercise of semantics; the functions and operations are really no different from conventional banks, except in the use of euphemisms to disguise interest and circumvent the many Shariah prohibitions. © 2010 Macmillan Publishers Ltd.",
+    "source": "Journal of Financial Services Marketing"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

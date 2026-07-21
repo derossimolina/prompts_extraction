@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0781-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fraud analytics: a research",
+    "authors": "B. Baesens",
+    "year": "2023",
+    "doi": "10.1080/14765284.2022.2162246",
+    "abstract": "Fraud is as old as humankind and appears in many types and forms. Popular examples are credit card fraud, tax evasion, identity theft, insurance fraud, counterfeit, click fraud, anti-money laundering, and payment transaction fraud. In earlier research we defined fraud as an uncommon, well-considered, imperceptibly concealed, time-evolving, and carefully organized crime. Nowadays, fraud is typically tackled using state-of-the-art analytical techniques with many accompanying challenges. It is the purpose of this article to highlight twelve research topics (RTs) that we believe prioritize high on the agenda of contemporary fraud analytics models. We do this by reviewing fraud analytics from a data, model, performance, and deployment perspective. © 2023 The Chinese Economic Association–UK.",
+    "source": "Journal of Chinese Economic and Business Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

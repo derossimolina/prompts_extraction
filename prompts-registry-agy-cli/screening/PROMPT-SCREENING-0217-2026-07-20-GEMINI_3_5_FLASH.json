@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0217-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mapping South Korea's digital asset regulatory landscape: From criminal code to the recently implemented virtual asset user protection act",
+    "authors": "Jon W.; Yang W.",
+    "year": "2025",
+    "doi": "10.1016/j.clsr.2025.106140",
+    "abstract": "Historically, South Korea addressed digital assets only indirectly through the Criminal Code (fraud, unauthorized fundraising), anti-money laundering regulations, and the Capital Markets Act's securities provisions, leaving gaps in investor protection and market integrity. In response, the Virtual Asset User Protection Act (VAUPA) was enacted in 2023 and implemented in July 2024, establishing a dedicated regulatory regime for crypto-assets not classified as securities. VAUPA defines virtual assets broadly, prohibits unfair trading practices, and imposes strict obligations on virtual asset service providers, filling regulatory gaps that prior statutes and the Capital Markets Act left unaddressed. This reform created a dual regulatory structure: tokenized assets deemed securities remain governed by the Capital Markets Act, while other virtual assets fall under VAUPA. This article examines the legal interpretation and regulatory coherence of South Korea's evolving framework, evaluating whether VAUPA effectively enhances investor protection and regulatory clarity. By mapping this evolution, it contributes to the academic understanding of digital asset law and offers insights relevant to global regulatory debates. © 2025 The Authors",
+    "source": "Computer Law and Security Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

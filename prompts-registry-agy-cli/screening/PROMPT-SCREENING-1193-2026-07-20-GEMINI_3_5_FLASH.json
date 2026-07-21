@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1193-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Morocco’s market economy expansion and its successful strategy in combatting money laundering and terrorist financing",
+    "authors": "Naheem M.A.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-06-2020-0068",
+    "abstract": "Purpose: Morocco is an expanding developing economy in North Africa with increasing bilateral trade relations with larger economies. This paper aims to examine the features of the expanding market economy and the preceding structural reforms initiated by King Mohammed VI. The paper’s primary focus is to study the systematic feature of anti-money laundering and combatting of terrorist financing (AML/CTF). Morocco has emerged as a staunch opponent of terrorism and terrorist financing while garnering joint-investigative operations with European countries against transnational organised crime and money laundering. Design/methodology/approach: The paper is divided into two primary series. The first is a view of Morocco’s economy, with a qualitative analysis of significant economic, political and social structural reforms. Second, a qualitative and quantitative analysis of Morocco’s AML and combating of terrorist financing infrastructure is assessed. The qualitative analysis is conducted in two parts; first, by studying the country’s AML/CTF legislation and regulation, and second, by examining the independent international evaluation of the legal structure and its implementation by authorities. The quantitative analysis is conducted by investigating the available statistics relating to money laundering and terrorist financing. Findings: The paper finds Morocco to have accomplished essential economic reforms, especially considering greater institutional management and autonomy. Other structural reforms include the reformation of the constitution, a more comfortable business climate, social development projects focusing on enhancing skill labour and connectivity and the development of strong trade capacity. The primary objective discovery concerns the country’s AML/CTF structure, which is found to comply with international standards. Also, efforts enhancing the country’s regulatory environment with low corruption, low risk of money laundering and low risk of terrorist financing have been taken in a series of legislative amendments and programs. The banking sector and Morocco’s Customs agency have reflected the best improvement as per the study in this paper. Practical implications: Morocco is witnessing high levels of investment, with year-on-year growth in most existing industrial sectors. The market is also providing for new skilled labour and better trade incentives with the European Union. It is essential for investors, observers and policymakers to understand the market economy reforms and systematic deficiencies in a developing economy. Morocco presents observers with information about policies pre-reform, providing a guide for economic and AML/CTF policy implementation elsewhere. Originality/value: The paper concerns itself with two levels of analysis concerning Morocco. The first, broad study, is a review of market economy reforms, which are mostly structural and have assisted in the expansion of the economy greatly. The second objective is specific to examining the country’s AML/CTF structure, which has undergone significant development in legislation, regulation and implementation in the past decade. The paper makes a specific attempt to discuss associate indicators to the AML/CTF network as a part of this study. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

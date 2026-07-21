@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0462-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Quiet resilience",
+    "authors": "G M S.",
+    "year": "2025",
+    "doi": "10.1080/1472586X.2025.2548537",
+    "abstract": "This study explores the intricate negotiation between cultural resilience, economic survival, and technological adaptation within informal economies. It examines how small business owners navigate the pressures of modernisation, particularly the increasing dominance of digital transactions, through subtle acts of resistance. Rather than fully integrating into formal economic structures, these businesses adopt selective engagement strategies, shaped by financial constraints, local traditions, and deeply embedded social networks. The continued reliance on cash transactions and basic mobile phones signals not only economic necessity but also a quiet defiance against systems that marginalise informal enterprises. Building on theories of everyday resistance and vernacular modernity, this research highlights how spatial organisation, linguistic choices, and commercial practices function as forms of agency. The use of local language in business signage, the architectural design of small shops, and the informal structuring of transactions reflect an ongoing negotiation between tradition and external economic forces. Additionally, the physical demarcation of business spaces–whether through the strategic control of access or the absence of rigid commercial boundaries–demonstrates how shopkeepers assert autonomy within an evolving urban landscape. The study also interrogates structural exclusions, particularly the gendered barriers that limit participation in these public economic spaces. By situating these businesses within a broader historical and economic context, it challenges assumptions that digitalisation is a universally beneficial progression. It argues that technological adoption in informal economies remains highly selective, contingent on local realities rather than external imperatives. This research contributes to critical discussions on economic informality, financial inclusion, and the adaptive strategies of small enterprises in the face of shifting global and national policies. © 2025 International Visual Sociology Association.",
+    "source": "Visual Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2202-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Changes in the regulation of overtime under different collective bargaining regimes: A comparison of Irish, Norwegian and Swedish banking",
+    "authors": "Nicolaisen H.",
+    "year": "2011",
+    "doi": "10.1177/0959680110392274",
+    "abstract": "This article examines overtime regulations in the banking sector in Ireland, Norway and Sweden since 1980, to assess whether different modes of decentralized bargaining produce different outcomes. Ireland can be considered a case of unorganized decentralization, while Norway and Sweden represent slightly different modes of organized decentralization. A key finding is that overtime regulations generally remain stable and that the social partners at company level in all three systems have the necessary scope to adjust overtime regulations to meet specific challenges. Overtime remains the most important source of flexibility in regulated working time, although we believed that banking was likely to adopt new ways of structuring working time. In practice, however, performance policies are linked to unpaid overtime and the abuse of time off in lieu, in a way that undermines collectively negotiated overtime regulations. This seems to be a sectoral characteristic that overrides institutional differences. © The Author(s) 2011.",
+    "source": "European Journal of Industrial Relations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

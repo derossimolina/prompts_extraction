@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0673-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "France's Approaches to Promote Blockchain Development and Its Enlightenment; [法国推动区块链技术发展的主要做法 与启示]",
+    "authors": "Ouyang H.; Wang Y.; Zhu C.",
+    "year": "2023",
+    "doi": "10.16507/j.issn.1006-6055.2022.09.003",
+    "abstract": "France has been at the forefront of the EU blockchain revolution. In promoting the development of blockchain technology, the French government and relevant participants in the crypto ecosystem have cooperated in establish a regulatory framework that is committed to promoting the development of the French blockchain ecosystem while avoiding excessive regulation inhibiting the development of innovation. Firstly, this paper systematically combs the three stages of blockchain technology development in France. Secondly, it expounds on the central government's actions and policies regarding the French blockchain national strategy. Thirdly, from the four aspects of crypto asset issuance regulation, transaction regulation, tax regulation, circulation, and anti-money laundering regulation, are in-depth analysis of the French blockchain technology regulatory framework; Finally, French blockchain technology application scenarios are discussed in detail, focusing on insurance, banking, public services, energy, medicine, commerce, agriculture, and other fields, Based on this, the paper further puts forward the experience and enlightenment of the development of blockchain technology in the aspects of regulation, R&D, and applications. © 2023 Science Press. All rights reserved.",
+    "source": "World Sci-Tech R and D"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

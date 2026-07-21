@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1037-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Have SFAS 166 and SFAS 167 improved the financial reporting for securitizations?",
+    "authors": "Ahn M.; Bonsall S.B., IV; Bozanic Z.; Dou Y.; Richardson G.; Vyas D.",
+    "year": "2020",
+    "doi": "10.1111/jbfa.12449",
+    "abstract": "Critics have alleged that securitization accounting prior to 2010 was among the causes of the recent financial crisis. In response to this criticism, the Financial Accounting Standards Board (FASB) implemented two new accounting standards, SFAS 166 and SFAS 167, to improve the financial reporting for securitizations. Bank regulators have stated their belief that SFAS 166/167 will result in a consolidated balance sheet (and risk-based capital ratios based thereupon) that better reflects a bank's exposure to risk related to securitized assets. We document that, by ceding retained power or influence through the servicing/special servicing functions to third parties, SFAS 166/167 resulted in real effects to the extent that banks (particularly those that were weakly capitalized) achieved their accounting objectives in the post-SFAS 166/167 period through legitimate transaction structuring in line with the intent of the new rules. Further, we use capital market participants’ assessments of risk retention by sponsoring banks as a benchmark, and provide evidence consistent with bank regulators’ beliefs. In particular, following SFAS 166/167, equity investors of sponsoring banks do not consider (consider) as risk relevant securitized assets that receive off-balance sheet (on-balance sheet) treatment. Securitized assets that are consolidated under SFAS 166/167 exhibit the same risk relevance as assets that are not securitized, despite contractual provisions that would seem to imply substantial risk transfer. © 2020 John Wiley & Sons Ltd",
+    "source": "Journal of Business Finance and Accounting"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

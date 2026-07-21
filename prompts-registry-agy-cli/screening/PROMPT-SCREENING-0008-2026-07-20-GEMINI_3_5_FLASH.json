@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0008-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The moderating role of governance on the nexus of financial crime and sustainable development",
+    "authors": "Achim M.V.; Văidean V.L.; Mirza N.",
+    "year": "2025",
+    "doi": "10.1002/ijfe.3043",
+    "abstract": "This study aims to highlight the connection between good governance and financial crime to achieve optimal sustainable development for society. Governance issues are integral to a sustainable economy, as sustainability cannot be considered without strong measures to combat financial crime. The theoretical foundation of this relationship posits that enhanced institutional quality and laws reduce opportunities to circumvent environmental regulations, thereby improving the ecological footprint. This paper examines the moderating role of governance on the impact of four types of crime—corruption, shadow economy, money laundering, and cybercrime—on sustainable development indicators such as the Human Development Index, Environmental Performance Index, carbon dioxide emissions and greenhouse gas emissions. The sample includes 185 countries, analysed over the period from 2015 to 2022. Methodologies used range from the Pooled OLS method for panel data with interactions to panel threshold regression modelling. Our findings provide strong evidence of the mediating role of good governance in mitigating the negative impact of financial crime on sustainable development, potentially reducing it by up to half. This study offers insights into how improving governance can manage the environmental effects of financial crimes, thereby enhancing sustainable development and reducing financial and economic crime. © 2024 John Wiley & Sons Ltd.",
+    "source": "International Journal of Finance and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

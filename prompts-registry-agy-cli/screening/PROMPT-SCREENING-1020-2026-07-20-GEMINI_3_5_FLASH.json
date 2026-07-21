@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1020-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Identifying and reducing the money laundering risks posed by individuals who have been unknowingly recruited as money rules",
+    "authors": "Esoimeme E.E.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-05-2020-0053",
+    "abstract": "Purpose: This paper aims to help build awareness with financial institutions about the money laundering risks posed by individuals who have been unknowingly recruited as Money Mules and theme assures that financial institution scan adopt to detect illicit funds which are being received into the bank accounts of low risk or medium risk customers who are unknowingly recruited as “Money Mules”. Design/methodology/approach: The research took the form of a desk study, which analysed various documents and reports such as a 2019 report on Money Mules by the European Union Agency for Law Enforcement Cooperation (EUROPOL); a 2019 and 2020 report on Money Mules by the Federal Bureau of Investigation (FBI) and the Better Business Bureau (BBB); the Financial Action Task Force Guidance on the Risk Based Approach to Combating Money Laundering and Terrorist Financing (High Level Principles and Procedures) 2007; the Financial Action Task Force Recommendations 2012; the United Kingdom’s Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017; the United States Federal Financial Institutions Examination Council Bank Secrecy Act/Anti-Money Laundering Examination Manual 2014; Transparency International Corruption Perceptions Index 2018; The UK Proceeds of Crime Act 2002 (as amended); the Joint Money Laundering Steering Group JMLSG, Prevention of money laundering/combating terrorist financing: Guidance for the UK financial sector Part I June 2017 (Amended December 2017); the United States Codified Bank Secrecy Act Regulations (31 CFR); the Nigerian Money Laundering Prohibition Act 2011 (as amended); and the Joint Money Laundering Steering Group JMLSG, Prevention of money laundering/combating terrorist financing: Guidance for the UK financial sector Part II: Sectoral Guidance June 2017 (Amended December 2017). Findings: This paper determined that financial institutions may be able to prevent proceeds of crime from being laundered by individuals who have been unknowingly recruited as Money Mules if they focus monitoring resources on the emotionally vulnerable customers like newcomers to the country, unemployed people who may have lost their jobs because of a pandemic like COVID-19, students and those in economic hardship; pay very close attention to the country of origin where the funds emanate from; pay very close attention to the country where the funds are being transferred to; and pay close attention to frequent large cash deposits followed by wire transfers. Originality/value: While most articles focus on the money laundering risk(s) associated with Money Mules and the measures that individuals can use to ensure that their bank accounts are not used by criminals to launder illicit funds, this paper focuses on the different mechanisms that banks can use to detect illicit funds which are being received into the bank accounts of low risk or medium risk customers who are unknowingly recruited as “Money Mules”. This paper recommends a proportional approach that balances anti-money laundering measures, financial inclusion and human rights. The mechanisms/measures which have been extensively discussed in this paper will help banks to identify, assess and understand their money laundering and terrorist financing risks as it relates to Money Mules and take commensurate measures to mitigate them. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

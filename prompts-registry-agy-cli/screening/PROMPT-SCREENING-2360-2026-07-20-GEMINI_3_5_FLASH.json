@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2360-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Data on the Implementation of the Anti-Money Laundering Regime",
+    "authors": "Zoppei, V",
+    "year": "2017",
+    "doi": "10.1007/978-94-6265-180-7_6",
+    "abstract": "This chapter looks at the implementation of the criminal policy by observing the activity of law enforcement agencies and the judiciary. The effectiveness of these two organs of state is referred to as efficiency, which is measured in relation to their primary functions through criminal statistics on the number of (preliminary) investigations, proceedings, convictions, and types of punishments imposed. In order to disclose what impact that the money-laundering offence has had over the past years of its being in force, as compared to the above-mentioned highlighted intentions of the legislature, this part deals with the implementation of the law, which was identified in Part I as an empirical measure of the effectiveness of a law. The part looks both at the effects of criminalising money laundering and at the application of the Anti-Money Laundering Act. It does this by analysing official statistics and looking at the way the law is implemented, from the point of view of the authorities who provide the statistics. This data is not only representative of the implementation outcomes but expresses also the level of efficiency from the perspective of the different criminal justice authorities. Given the abundant literature that summarises and analyses the data and thanks to the results of an empirical research conducted shortly after the introduction of the anti-money laundering policy, this study, by now, approaches the statistics with an already critical perspective.",
+    "source": "ANTI-MONEY LAUNDERING LAW: SOCIO-LEGAL PERSPECTIVES ON THE EFFECTIVENESS OF GERMAN PRACTICES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

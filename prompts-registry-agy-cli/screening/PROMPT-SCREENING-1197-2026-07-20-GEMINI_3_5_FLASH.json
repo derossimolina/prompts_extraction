@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1197-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering developments in Iran: Do Iranian banks have an integrated framework for money laundering deterrence?",
+    "authors": "Salehi M.; Molla Imeny V.",
+    "year": "2019",
+    "doi": "10.1108/QRFM-05-2018-0063",
+    "abstract": "Purpose: Money laundering has become a global concern in recent years, and many countries attempt to employ some preventive measures to cope with this phenomenon. Anti-money laundering (AML) controls vary in different countries, and consequently many studies, to date, have taken account of these differences along with the AML efforts. In this regard, financial institutions play an important role to tackle money laundering by involving in all three stages of money laundering (placement, layering and integration). The purpose of this paper is to investigate the AML situation of the Iranian banks and also study some related variables. Design/methodology/approach: Using the Wolfsberg questionnaire, a survey consisting of 24 Iranian authorized banks in 2017 was conducted. Findings: We conclude that Iranian banks have proper AML controls in place. Furthermore, it is concluded that banks with more staffs and more experienced employees are more likely to establish strong AML controls; conversely, banks with more branches are less likely to set up strong AML controls. Originality/value: The present study is the first study conducted in Iran, and the outcomes of the study may be helpful to the Iranian and also International Banking System to establish stronger AML controls. © 2019, Emerald Publishing Limited.",
+    "source": "Qualitative Research in Financial Markets"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

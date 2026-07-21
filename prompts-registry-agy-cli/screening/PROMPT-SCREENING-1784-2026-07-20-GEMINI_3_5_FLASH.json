@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1784-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The use of natural experiments in merger analysis",
+    "authors": "Coate M.B.",
+    "year": "2013",
+    "doi": "10.1093/jaenfo/jns004",
+    "abstract": "Natural experiments have the potential to test economic theories that purport to predict the competitive effects of a proposed transaction. This article provides a review of natural experiment and other examples of direct effects' evidence identified in Federal Trade Commission (FTC) merger investigations. Using reviews of staff analyses, it is possible to identify a number of quantitative and qualitative experiments supportive of unilateral effects, coordinated interaction or continued competition theories. The court decisions in Staples, Oracle, and Whole Foods play a role in structuring the review in unilateral effects investigations, and Judge Posner's commentary on performance analysis is relevant in coordinated interaction cases. Other experiments show either no structure-performance relationship in a market or undermine a key characteristic of Guidelines analysis and imply that the merger in question is not anticompetitive. This natural experiment evidence, supplemented with validated customer complaints and hot document findings suggestive of experiments lost to time, is able to successfully predict the outcome of almost two thirds of the FTC merger challenge decisions. While structural analysis remains important when effects' evidence is unavailable, testing theoretical models with direct effects' evidence seems possible for the bulk of the FTC's merger investigations. Empirical fact is more likely than theoretical analysis to improve the market review process. © The Author 2013. Published by Oxford University Press. All rights reserved.",
+    "source": "Journal of Antitrust Enforcement"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

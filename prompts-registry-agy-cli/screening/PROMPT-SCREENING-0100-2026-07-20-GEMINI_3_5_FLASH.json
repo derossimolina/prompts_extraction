@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0100-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digital processes in EU company regulations and their implications for registry practices",
+    "authors": "Braun T.",
+    "year": "2025",
+    "doi": "10.2478/in-2025-0043",
+    "abstract": "This paper examines the impact of European Union law on digitalisation, considering both its foundations and effects. Some of these aspects are addressed in Directive (EU) 2017/1132 of the European Parliament and of the Council on certain aspects of company law, as well as in the Directive of the European Parliament and of the Council amending Directives 2009/102/EC and (EU) 2017/1132 as regards further expanding and upgrading the use of digital tools and processes in company law. As a consequence of these legislative developments, several issues have since emerged. Examples include difficulties related to the online registration of companies introduced by Member States following the implementation of the Directive, and discrepancies between the information contained in national central business registers interconnected within the Business Registers Interconnection System (BRIS). In this context, the paper analyses the implications of the Court of Justice of the European Union’s judgment in the Manni case and explains why the ‘right to be forgotten’ may not apply in this area. Another issue arising from digitalisation concerns trust services, including the work of notaries and their relationship with Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (the eIDAS Regulation), as well as Regulation (EU) 2024/1183 of the European Parliament and of the Council of 11 April 2024 amending Regulation (EU) No 910/2014 as regards establishing the European Digital Identity Framework. On this occasion, the paper also discusses why the eIDAS Regulation may not necessarily have a harmonising effect across the various legal systems within the EU. Finally, in light of the Fifth Anti-Money Laundering Directive of the European Union, the paper considers the concept of beneficial ownership, its notarial determination, and its relevance to the prevention of money laundering. © 2025 published by Lazarski University.",
+    "source": "Ius Novum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

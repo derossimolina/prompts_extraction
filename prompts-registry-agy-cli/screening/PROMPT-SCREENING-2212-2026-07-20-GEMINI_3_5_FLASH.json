@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2212-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enforcement of the USA Patriot Act's anti-money laundering provisions: Have regulators followed a risk-based approach?",
+    "authors": "Dolar B.; Shughart W.F.",
+    "year": "2011",
+    "doi": "10.1016/j.gfj.2011.05.002",
+    "abstract": "In this paper, we test whether or not banking regulators have followed a risk-based approach in the enforcement of the USA Patriot Act's anti-money laundering (AML) provisions. In order to do so, we compare the financial performances of banking institutions operating branches inside and outside the boundaries of counties in the State of California designated as \"high-risk money laundering and related financial crime areas\". Our results indicate that regulatory enforcement under the Patriot Act cannot be explained on the basis of financial institutions' relative risks of being targeted by money launderers. © 2011 Elsevier Inc.",
+    "source": "Global Finance Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

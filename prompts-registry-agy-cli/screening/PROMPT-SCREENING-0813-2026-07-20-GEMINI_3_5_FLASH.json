@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0813-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CRYPTOCURRENCY IN THE DECLARATIONS OF GOVERNMENT OFFICIALS: A TOOLKIT FOR MONEY LAUNDERING (TRENDS AND EXPERIENCE OF COUNTERACTION, BY THE EXAMPLE OF UKRAINE)",
+    "authors": "Hrytsai S.",
+    "year": "2023",
+    "doi": "10.33327/AJEE-18-6.3-a000333",
+    "abstract": "Background: An investigation was conducted into the 2020 campaign to declare the incomes of civil servants in Ukraine. On June 23, 2022, the country became a candidate for full accession to the European Union, subject to increased efforts to combat corruption. During the study period, it was found that 652 Ukrainian officials declared 46,351 bitcoins, which as of 04/01/2021 was the equivalent of 2 billion 564 million US dollars or 2 billion 348 million euros. Against this background, the existing anti-corruption legislation and the state anti-corruption apparatus are characterised. Methods: To achieve objective scientific results, the author used methods such as analysis and synthesis to understand and build a logical chain of ideas. The author used the statistical method to emphasise their positions with real data regarding the situation that developed in practice. Results and Conclusions: The study revealed a potential threat of money laundering by civil servants through the declaration of cryptocurrencies before their legalisation, against the background of a complete absence or imperfection of current laws. It was established that this factor was the most acute form on the evening of the planned state legalisation of cryptocurrencies. This highlights the need for states to take preventive measures to eliminate such risks before legalising cryptocurrencies and preventing “silent amnesties” regarding illegal capital transferred to cryptocurrencies or to “whitewash” future illegal proceeds in advance through the declaration of non-existent cryptocurrency. © 2023, Access to Justice in Eastern Europe. All rights reserved.",
+    "source": "Access to Justice in Eastern Europe"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

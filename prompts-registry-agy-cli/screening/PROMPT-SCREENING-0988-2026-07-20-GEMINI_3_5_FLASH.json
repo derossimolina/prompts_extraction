@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0988-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploring the links between AML, digital currencies and blockchain technology:",
+    "authors": "Naheem M.A.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-11-2015-0050",
+    "abstract": "Purpose: This paper aims to explore the implications of the 2014 Financial Action Task Force (FATF) publication and guidelines on virtual currency definitions and the overall impact of blockchain technology on anti-money laundering (AML) compliance and regulation. The report cites three case study examples, which the FATF paper uses and which this paper questions as to their relevance, especially to the formal banking sector. Design/methodology/approach: The paper has provided a critical analysis of a FATF publication and guideline document. Additional secondary data has been used on blockchain technology and to analyse the relevance and implications of the case studies used in the FATF document. Findings: The main findings are that virtual currency technology has the potential to support AML frameworks within banking when and if they are better understood. However, generic case examples of virtual currency legal cases are not necessarily useful when developing AML risk assessment frameworks within the banking sector. Practical implications: The implications from the research affect any financial organisation undertaking AML risk analysis or compliance especially for virtual currencies. It applies to the banking, insurance and auditing professions and is of interest to academics working on virtual and digital currencies. Social implications: The social implications are that virtual currency technology can be used to add protection to banking transactions and could also be considered for client identity information such as beneficial ownership. Originality/value: The originality of this paper is the topic of blockchain technology being considered in AML frameworks and the critical analysis of the FATF cases. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

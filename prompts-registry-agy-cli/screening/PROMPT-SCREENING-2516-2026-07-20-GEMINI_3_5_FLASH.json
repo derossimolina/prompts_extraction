@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2516-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The use of foundations as an alternative to trusts in securitization transactions",
+    "authors": "Zerafa, M",
+    "year": "2014",
+    "doi": "10.1093/tandt/ttu048",
+    "abstract": "The legal form of the vehicles used within a securitization transaction play an important role in ensuring that risks associated with securitization transactions are mitigated and that such transactions are managed in an efficient way. Foundations have recently been used within civil law jurisdictions as an alternative to trusts in holding the shares in the issuer company. This article seeks to compare the use of trusts and foundations within securitization transactions by analysing certain features of both legal institutes. The article also highlights whether foundations are an adequate alternative to trusts when structuring such transactions.(1)",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

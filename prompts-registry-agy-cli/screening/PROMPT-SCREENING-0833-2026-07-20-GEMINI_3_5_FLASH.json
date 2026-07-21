@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0833-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global Anti-Money Laundering and Combating Terrorism Financing Regulatory Framework: A Critique",
+    "authors": "Gaviyau W.; Sibindi A.B.",
+    "year": "2023",
+    "doi": "10.3390/jrfm16070313",
+    "abstract": "Money launderers prefer to use financial services as the ideal medium for laundering. This study aimed to provide an overview of the global AML/CFT regulations, application and how they should evolve in this dynamic environment. To gather more insight, a qualitative study was undertaken with relevant documents analysed. The main finding was that country implementation of the global AML/CFT regulations differed due to political and economic factors, amongst others. While the various AML/CFT enforcements done by sampled countries were mainly cease and desist orders and monetary penalties that were publicised, the drawbacks of global AML/CFT regulations centred on the application of these regulations and emerging trends. These include, among other definitions of money laundering, reference to the three stages of money laundering, the link between penalty and violations, technological innovations and regulation paradigm shift, cyber-attacks, and data privacy. This study contributes to the application and growing body of knowledge in that the advent of technology has resulted in better consumer experiences, new payment platforms, products and services. However, these innovations have broadened emerging money laundering risks and risks to the financial system in general. Hence, there is a need to conduct research-based FATF recommendations, as risk is dynamic and not static. © 2023 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2025-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Disclosure, incentives, and contingently convertible securities",
+    "authors": "Marquardt C.A.; Wiedman C.I.",
+    "year": "2007",
+    "doi": "10.2308/acch.2007.21.3.281",
+    "abstract": "We present descriptive evidence on the quality of firms' disclosures related to contingently convertible securities (COCOs). We document evidence of inconsistent and inadequate disclosure of the information necessary to undo the financial reporting effects associated with COCOs prior to 2004, when only the general disclosure requirements on capital structure provided in SFAS 129 were in effect. Disclosure quality improved after the introduction of FASB Staff Position 129-a, which specifically required firms to disclose the terms of COCOs that would enable users to understand the conversion features of COCOs and their potential impact on earnings per share (EPS). However, we find evidence that managerial incentives significantly affect disclosure quality in both disclosure regimes. Our results underscore the difficulty that standard setters face in developing general disclosure guidelines that foster adequate disclosure and suggest that additional specific disclosure guidance may be necessary as new financial instruments and transactions evolve.",
+    "source": "Accounting Horizons"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

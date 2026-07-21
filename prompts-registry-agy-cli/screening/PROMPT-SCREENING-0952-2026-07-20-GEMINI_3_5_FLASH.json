@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0952-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Speed at the expense of safety? Economic crime security concerns in the implementation of the G20 Roadmap for Enhancing Cross-border Payments",
+    "authors": "Maxwell N.J.",
+    "year": "2024",
+    "doi": "10.69554/wgag8966",
+    "abstract": "This paper argues that, in its current form, the G20 Roadmap for Enhancing Cross-border Payments raises substantial risks for fraud and financial crime, and is highly likely to reduce the effectiveness of the financial sanctions regime. Furthermore, it holds that there is a fundamental disconnect between those G20 policy makers responsible for payment system reform and those authorities responsible for fraud prevention and tackling financial crime. This disconnect is leading to imbalanced policy-making that risks embedding fraud and financial crime vulnerabilities within cross-border payment systems. This paper argues that G20 policy makers need to ensure that payments reform does not create new economic crime vulnerabilities or undermine existing defences against fraud and financial crime. This should involve: (1) greater coordination and a sense of shared responsibility between payments and economic crime-related policy makers, internationally and at the domestic level; (2) the establishment of a policy principle of ‘economic crime security by design’ in payments reform policy; and (3) the deployment of a risk-based approach in faster cross-border payments that would enable customers to opt into safer corridors for payments, allowing for appropriate analysis, screening and the recall of payments where appropriate from a risk perspective. © Henry Stewart Publications,.",
+    "source": "Journal of Payments Strategy and Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

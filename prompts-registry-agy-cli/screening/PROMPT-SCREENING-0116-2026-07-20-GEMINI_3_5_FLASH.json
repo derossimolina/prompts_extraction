@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0116-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Advancing sustainability through financial inclusion and sustainable finance: a systematic literature review",
+    "authors": "Mamun A.Y.; László V.",
+    "year": "2025",
+    "doi": "10.1007/s42521-025-00142-7",
+    "abstract": "This study conducts a systematic literature review to examine the nexus between financial inclusion and sustainable finance, with a particular emphasis on emerging risks in the digital financial ecosystem. Employing the PRISMA methodology and bibliographic network analysis techniques, including citation network analysis and co-occurrence network of keywords, the review synthesises insights from 54 peer-reviewed publications indexed in Scopus. The findings reveal that financial inclusion significantly advances sustainability by enhancing access to financial services for underserved populations and promoting equitable economic participation. Digital innovations such as fintech, blockchain, and artificial intelligence are shown to facilitate this process, yet they concurrently introduce vulnerabilities, including cybercrime, fraud, and regulatory fragmentation. Islamic finance models, characterised by ethical and transparent financial practises, offer promising solutions for inclusive and secure financial systems. Two thematic clusters are identified: one centred on inclusive and ethical finance and the other on digital innovation in green and sustainable finance. The study underscores the need for integrated strategies that balance accessibility, technological advancement, and risk mitigation. Whilst the exclusive use of the Scopus database represents a limitation, this review contributes to a deeper understanding of how secure, inclusive, and sustainable digital financial systems can support global development goals. © The Author(s) 2025.",
+    "source": "Digital Finance"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

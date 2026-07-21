@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1143-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Drug dealing on Facebook, Snapchat and Instagram: A qualitative analysis of novel drug markets in the Nordic countries",
+    "authors": "Demant J.; Bakken S.A.; Oksanen A.; Gunnlaugsson H.",
+    "year": "2019",
+    "doi": "10.1111/dar.12932",
+    "abstract": "Introduction and Aims: Internet use has changed drug dealing over the past decade owing to the emergence of darknet services. Yet, little is known about drug dealing in public online services. This study reports findings from a Nordic comparative study on social media drug dealing. It is the first in-depth study on the increase of digitally mediated drug dealing outside the cryptomarkets. Design and Methods: A qualitative study using online ethnography and semi-structured interviews. One hundred and seven participants aged 16–45 years (mean age 23.1 years), with 83.2% being male, were interviewed. Data was coded in NVivo using general themes: modus operandi, trust and risk. Results: Ethnographical data shows a high degree of drug-dealing activity on Facebook, Instagram, Snapchat and Facebook Messenger. Buyers and sellers also use encrypted platforms, such as darknet forums and the Wickr app on their smartphones. The medium used varies across the countries, as well as motivations for usage in connection with risk perceptions. Discussion: Despite national differences, social media is a common tool used in selling and buying illegal drugs. Availability affects the prevalence of use of various social media; however, prevalence is also crucial for which media is used. Many of the participants report easily drifting in and out of social media dealing and buying, without being aware of the seriousness of the offence. Conclusion: Based on the differences in attachment to the seller career, we advise that policing strategies should be supplemented with—and even stand in the back of—prevention campaigns. © 2019 Australasian Professional Society on Alcohol and other Drugs",
+    "source": "Drug and Alcohol Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

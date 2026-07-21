@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0537-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering regulations and financial sector development",
+    "authors": "Ofoeda I.; Agbloyor E.K.; Abor J.Y.; Osei K.A.",
+    "year": "2022",
+    "doi": "10.1002/ijfe.2360",
+    "abstract": "This paper is aimed at establishing the effect of anti-money laundering regulations on financial sector development across the globe. Using data from 2012 to 2018 across 165 economies across different continents, income levels and regulatory environments, we test a number of complex and related hypotheses. (a) We examine the effect of anti-money laundering regulations on financial sector development. (b) We examine if this effect differs across developing and developed economies. (c) We examine the nonlinearities in the anti-money laundering regulations-financial sector development nexus. We use the Prais-Winsten approach and the panel threshold estimation approaches to test our hypothesized relationships. We find evidence that anti-money laundering regulations generally promote financial sector development; however, this positive effect is concentrated in developing economies. We also find evidence of threshold effects of anti-money laundering regulations for our sample. Consistent with the earlier findings, the positive effect of anti-money laundering regulations on financial development is concentrated in countries below the threshold value of anti-money laundering regulations. These countries are mostly developing countries. Our findings suggest that strengthening anti-money laundering regulations will be beneficial to developing countries. © 2020 John Wiley & Sons, Ltd.",
+    "source": "International Journal of Finance and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

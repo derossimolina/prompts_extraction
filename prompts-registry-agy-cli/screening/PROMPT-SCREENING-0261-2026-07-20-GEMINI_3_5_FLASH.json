@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0261-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FIU operational effectiveness – findings and observations from the Asian Development Bank perspective",
+    "authors": "Png C.-A.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-02-2024-0024",
+    "abstract": "Purpose: This paper aims to examine the specific findings on the level of technical compliance and operational effectiveness of the national financial intelligence units (FIUs) in 55 members of the Asian Development Bank (ADB) under the mutual evaluations carried out by the Financial Action Task Force (FATF) and its regional bodies (also referred to as FATF-style regional bodies) in connection with the current international standard for combating money laundering and terrorism financing (i.e. the FATF recommendations). It also provides three observations for enhancing the use of financial information and intelligence. Design/methodology/approach: Review of published reports on country mutual evaluations from the FATF and its regional bodies. Findings: A majority of the FIUs from these 55 members of the ADB were rated around the “mid-range” under the FATF methodology used for the mutual evaluations (i.e. “compliant and substantially effective”, “largely compliant and substantially effective”, “compliant and moderately effective” and “largely compliant and moderately effective”). Observations were also provided on cross-cutting areas for enhancing the use of financial information and intelligence. Originality/value: FIU operations are key to combating money laundering and terrorism financing, and this examination of the level of technical compliance with the international standard and related operational effectiveness provides an useful account of current developments in this space and suggestions for further actions by relevant national authorities and provision of country technical assistance and support by donor partners. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

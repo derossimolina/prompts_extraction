@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2494-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "MANAGEMENT OF INNOVATIONS IN PUBLIC ADMINISTRATION: STRATEGIES TO PREVENT THE PARTICIPATION OF FINANCIAL INTERMEDIARIES IN SHADOW OPERATIONS",
+    "authors": "Kuznyetsova, A; Tiutiunyk, I; Panimash, Y; Zsolt, Z; Zsolt, P",
+    "year": "2022",
+    "doi": "10.21272/mmi.2022.3-11",
+    "abstract": "This article summarizes the arguments and counterarguments within the scientific discussion on improving public administration tools in the context of implementing innovative mechanisms for combating shadow financial transactions. The main purpose of this research is to formalize innovative strategies to counter the shadow withdrawal of capital with the participation of financial intermediaries. The systematization of scientific sources and approaches to solving the problem of the de-shadow economy proved that a characteristic feature of the functioning of the shadow market is the active participation of financial intermediaries in shadow operations. The information base is data from the World Bank and the Organization for Economic Cooperation and Development, the Group for the Development of Financial Measures to Combat Money Laundering, Transparency International, and the World Economic Forum. The period of the study is 2003-2021. The EU countries, Ukraine, Moldova, and Montenegro, as candidate countries for EU membership, were selected as the object of the study. This study applied the methods of bibliometric analysis to generalize the existing scientific work on the investigated issue, analysis of changes in the number of search changes on the problems of shadowing the economy, and clustering regions by the number of search queries on the shadow economy. Intellectual data analysis methods (one-dimensional branching CART and agglomeration methods) were used for clustering countries depending on the nature of the policy of countering the shadowing of the economy. Based on the results of the bibliometric analysis, theories describing the shadow economy, in particular: innovation theory, the theory of centralization, and institutional theory, were summarized. The article presents the results of cluster analysis, which proved the practicality of selecting three clusters of countries: cluster 1 - Cyprus, Czech Republic, Denmark, Finland, Greece, Ireland, Italy, Luxembourg, and Portugal; cluster 2 - Bulgaria, Croatia, Estonia, France, Malta, Netherlands, Spain, Sweden, Belgium, Greece, Austria, Hungary, and Slovak Republic, Slovenia; cluster 3 - Lithuania, Latvia, Romania, Poland, Moldova, Montenegro, and Ukraine. The study empirically confirmed and theoretically proved that the entire set of innovative scenarios for implementing economic de-shadowing policy could be divided into three types (evolutionary scenario, sequential transformation scenario, and forced scenario). The above scenarios depend on the speed of change in the indicators of developing the shadow economic sector and their sensitivity to the implemented measures.",
+    "source": "MARKETING AND MANAGEMENT OF INNOVATIONS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

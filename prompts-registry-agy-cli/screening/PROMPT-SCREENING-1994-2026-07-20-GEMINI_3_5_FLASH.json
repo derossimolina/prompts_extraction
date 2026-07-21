@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1994-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "East meets west in anti-money laundering and anti-terrorist finance: Policy dialogue and differentiation on security, the timber trade and 'alternative' banking",
+    "authors": "Dorn N.; Levi M.",
+    "year": "2008",
+    "doi": "10.1007/s11417-007-9041-0",
+    "abstract": "This paper compares and contrasts South East Asian and European Union countries' perceptions of the priorities for anti money laundering (AML) and anti terrorist finance (ATF) in relation to three industries: security goods and services; the timber trade; and 'informal' value transfer and banking services. It might be expected that all countries would equally support each of these aspects of AML/ATF policies, without differentiating between the industries generating the proceeds. As this paper will show, however, historical experiences, contemporary political relations and patterns of trade shape countries' approaches, resulting in distinctive enthusiasms and reservations. In a nutshell, the EU points most strongly to products and services originating in Asia as posing AML/CTF risks, and locates primary responsibility for monitoring and control as falling within Asia - a projection of risk and responsibility that is reciprocated by Asian countries. Asian countries perceive a need for tighter control of dangerous products exported by the west, for example, small arms and light weapons, and of related money laundering circuits. Asian and European policy makers increasingly articulate concerns over illegal logging and related laundering, however European importers and their governments see responsibilities for this as falling primarily within Asia. Finally, the EU (like the US) perceives high levels of laundering risk in 'informal' value transfer/banking services, in which Asian-run businesses have a global competitive advantage. For the future, as the international balance of trade shifts, and as Asia increases its influence in international fora including those concerned with AML/CTF, so the region's policy preferences may be expected to carry more weight. © 2007 Springer Science+Business Media B.V.",
+    "source": "Asian Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

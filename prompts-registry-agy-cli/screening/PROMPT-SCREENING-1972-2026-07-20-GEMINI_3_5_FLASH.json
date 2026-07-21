@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1972-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Evidence on women trafficked for sexual exploitation: A rights based analysis",
+    "authors": "Bettio F.; Nandi T.K.",
+    "year": "2010",
+    "doi": "10.1007/s10657-009-9106-x",
+    "abstract": "The aim of this paper is to investigate which factors influence the pattern of enforcement (violation) of basic rights among women trafficked for sexual exploitation. A conceptual framework is adopted where the degree of agency and the possibility to influence the terms of sex-based transactions are seen as conditional on the enforcement of some basic rights. Using data collected by the International Organization for Migration (IOM) on women assisted by the organization after having been trafficked for sexual exploitation, we investigate the enforcement (violation) of five uncompromisable rights, namely the right to physical integrity, to move freely, to have access to medical care, to use condoms, and to exercise choice over sexual services. By combining classification tree analysis and ordered probit estimation we find that working location and country of work are the main determinants of rights enforcement, while individual and family characteristics play a marginal role. Specifically, we find that (1) in lower market segments working on the street is comparatively less 'at risk' of rights violation; (2) there is no consistently 'good' or 'bad' country of work, but public awareness on trafficking within the country is important; (3) the strength of organised crime in the country of work matters only in conjunction with other local factors, and (4) being trafficked within one's country, as opposed to being trafficked internationally, is associated with higher risk of rights violation. © 2009 Springer Science+Business Media, LLC.",
+    "source": "European Journal of Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

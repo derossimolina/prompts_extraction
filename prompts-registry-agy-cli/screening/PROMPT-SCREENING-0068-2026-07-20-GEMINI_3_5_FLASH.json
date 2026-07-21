@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0068-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Africa's cryptocurrency market: Regulatory fragmentation and barriers to global integration and economic opportunity",
+    "authors": "Esu R.",
+    "year": "2026",
+    "doi": "10.1016/j.clsr.2026.106335",
+    "abstract": "The global cryptocurrency market, valued at more than four trillion United States Dollars, continues to grow as regulatory frameworks strengthen investor confidence. In contrast, Africa faces challenges in fully integrating into this expanding digital economy due to its fragmented regulatory environment. Despite these challenges, cryptocurrency adoption on the continent has accelerated, largely driven by practical needs such as affordable remittances, cross-border transactions, and financial inclusion. This article examines Africa not as a uniform entity, but as a diverse continental market, and categorises regulatory responses into four broad models: absolute prohibitions, banking restrictions, passive tolerance, and structured licensing regimes. It draws upon domestic legislation, case law, regional agreements, and international conventions to analyse how these different approaches shape market participation. The article argues that regulatory fragmentation reduces economic opportunities in remittances, financial inclusion, and decentralised finance, while simultaneously increasing risks of financial crime and compliance challenges under global standards. © 2026 The Author(s)",
+    "source": "Computer Law and Security Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

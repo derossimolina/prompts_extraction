@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1185-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blockchain technology for international arms trade",
+    "authors": "Min H.; Joo S.-J.",
+    "year": "2022",
+    "doi": "10.1504/IJLSM.2022.124183",
+    "abstract": "Blockchain is a peer-to-peer network of information technology that keeps records of digital asset transactions using the type of distributed ledgers that are free from the controls of intermediaries such as arms trade dealers and rogue governments. Thus, it can mitigate risks associated with international arms trade. These risks include transfers of weapons, munitions, and related supplies for the illegal purposes of committing genocide, crimes against humanity, organised crimes, terrorism, and gun violence. This study discusses ways to leverage blockchain technology to assure secure and safe arms transfers under fraud-free, arms trade contracts and facilitate the streamlined logistics and procurement operations of weapons, munitions, and military supplies. This study also classifies arms trade related risks into a number of different categories depending on the extent of such risks and develops specific risk measures useful for risk mapping across the global supply chain of international arms transfers. Copyright © 2022 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Logistics Systems and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1231-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ELECTRONIC EVIDENCE IN PROVING CRIMES OF DRUGS AND PSYCHOTROPIC SUBSTANCES TURNOVER",
+    "authors": "Golovin D.; Nazymko Y.; Koropatov O.; Korniienko M.",
+    "year": "2022",
+    "doi": "10.33327/AJEE-18-5.2-n000217",
+    "abstract": "Background: This article is prompted by the increasing levels of crime in the sphere of illicit trafficking in narcotic drugs, psychotropic substances, their analogues, or precursors using information and telecommunication systems. The aim of the article is a comprehensive analysis of the problem of the use of electronic evidence in proving crimes of trafficking in these substances. Methods: A number of methods were used in this article, namely: Theoretical analysis - the study and analysis of official documentation, scientific, methodological, and educational literature, summarising information to determine the theoretical and methodological foundations of the study; logical analysis - to formulate basic concepts and classification; concrete-historical analysis - to demonstrate the dynamics of development of the use of electronic evidence in criminal proceedings; the dialectical method - to reveal the meaning of concepts of ‘electronic evidence’. The judicial practice of the Supreme Court of Ukraine regarding the recognition of electronic proof as appropriate evidence in cases is disclosed. The definition of electronic proof in the Ukrainian legal system, as well as the forms and features of electronic proof, are also considered. Results and Conclusions: It is established that the main causes of drug trafficking crimes include insufficient legal regulation of cyberspace, the lack of geographical boundaries, the spread of information about drugs on the Internet, especially on the Darknet, and the uncontrolled development of the cryptocurrency market. © 2022 D Golovin, Ye Nazymko, O Koropatov, M Korniienko.",
+    "source": "Access to Justice in Eastern Europe"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

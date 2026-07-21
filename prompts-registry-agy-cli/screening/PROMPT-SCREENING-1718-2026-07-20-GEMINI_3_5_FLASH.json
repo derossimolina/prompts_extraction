@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1718-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Loan-sharking in a time of crisis: lessons from Rome’s illegal credit market",
+    "authors": "Marinaro I.C.",
+    "year": "2017",
+    "doi": "10.1007/s12117-016-9279-y",
+    "abstract": "One of the consequences of Italy’s on-going financial crisis has been rising civil society activism and media attention to the growing phenomenon of families and small businesses becoming indebted to illegal moneylenders. Much of the public discourse focuses on indications that major organized crime groups are strengthening their participation in this sector and appropriating homes and business assets as a means of laundering money and expanding their presence in the legal economy. This article examines the multiple and complex factors that leave rising numbers of small business owners with few alternatives to seeking illegal sources of credit in order to continue operating financially. Focusing on the city of Rome and drawing on in-depth interviews with support groups and former debtors, as well as on a wide range of documentation and statistical data, it provides a multiscalar analysis of the ways in which local social norms concerning informal credit and the exigencies of day-to-day business practice on a micro scale are interwoven with the macro-level effects of legislation, banking practices, and the capacity of institutions mandated to fight illegal lending. It questions whether an adequate system of alternatives to borrowing illegally exists and the extent to which the official mechanisms in place to disincentivize this practice are effective. © 2016, Springer Science+Business Media New York.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

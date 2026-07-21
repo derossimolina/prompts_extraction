@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1733-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The performance of the Broad Based Black Economic Empowerment compliant listed property firms in South Africa",
+    "authors": "Akinsomi O.; Kola K.; Ndlovu T.; Motloung M.",
+    "year": "2016",
+    "doi": "10.1108/JPIF-09-2014-0061",
+    "abstract": "Purpose – The purpose of this paper is to examine the impact of Broad-Based Black Economic Empowerment (BBBEE) on the risk and returns of listed and delisted property firms on the Johannesburg Stock Exchange (JSE). The study was investigated to understand the impact of Black Economic Empowerment (BEE) property sector charter and effect of government intervention on property listed markets. Design/methodology/approach – The study examines the performance trends of the listed and delisted property firms on the JSE from January 2006 to January 2012. The data were obtained from McGregor BFA database to compute the risk and return measures of the listed and delisted property firms. The study employs a capital asset pricing model (CAPM) to derive the alpha (outperformance) and beta (risk) to examine the trend amongst the BEE and non-BEE firms, Sharpe ratio was also employed as a measurement of performance. A comparative study is employed to analyse the risks and returns between listed property firms that are BEE compliant and BEE non-compliant. Findings – Results show that there exists differences in returns and risk between BEE-compliant firms and non-BEE-compliant firms. The study shows that BEE-compliant firms have higher returns than non-BEE firms and are less risky than non-BEE firms. By establishing this relationship, this possibly affects the investor’s decision to invest in BEE firms rather than non-BBBEE firms. This study can also assist the government in strategically adjusting the policy. Research limitations/implications – This study employs a CAPM which is a single-factor model. Further study could employ a multi-factor model. Practical implications – The results of this investigation, with the effects of BEE on returns, using annualized returns, the Sharpe ratio and alpha (outperformance), results show that BEE firms perform better than non-BEE firms. These results pose several implications for investors particularly when structuring their portfolios, further study would need to examine the role of BEE on stock returns in line with other factors that affect stock returns. The results in this study have several implications for government agencies, there may be the need to monitor the effect of the BEE policies on firm returns and re-calibrate policies accordingly. Originality/value – This study investigates the performance of listed property firms on the JSE which are BEE compliant. This is the first study to investigate listed property firms which are BEE compliant. © 2016, © Emerald Group Publishing Limited.",
+    "source": "Journal of Property Investment and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

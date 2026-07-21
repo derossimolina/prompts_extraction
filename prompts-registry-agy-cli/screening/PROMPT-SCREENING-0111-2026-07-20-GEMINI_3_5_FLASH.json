@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0111-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Effectiveness of Credit Risk Mitigation Strategies Adopted by Ghanaian Commercial Banks in Agricultural Finance",
+    "authors": "Nyebar A.; Obalade A.A.; Muzindutsi P.-F.",
+    "year": "2024",
+    "doi": "10.3390/jrfm17090385",
+    "abstract": "Lending to the agricultural sector by commercial banks in Ghana is characterized by high credit risk. Empirical evidence suggests that commercial banks in Ghana have credit risk management (CRM) challenges. This study explores the credit risk mitigation strategies adopted by commercial banks to minimize credit risk in agricultural finance in Ghana. The study adopted a mixed-method approach using a survey questionnaire and interview instruments. The findings indicate that some of the strategies used by commercial banks to mitigate credit risk in agricultural finance do not meet commercial banks’ CRM needs. In addition, Ghanaian commercial banks have not fully adopted some of the recommended strategies that are used to mitigate credit risk associated with agricultural lending. The study unveils some appropriate strategies used to mitigate credit risk exposure in agricultural finance among commercial banks. These strategies include agricultural value-chain financing, collaboration with off-takers, incentive-based and risk-sharing schemes, adoption of a holistic agricultural value chain financing, policy interventions, use of agricultural insurance pool, and the proper structuring of agricultural loans. © 2024 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1864-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "SharĪʿah Parameters on the Islamic Foreign Exchange Swap as a Hedging Mechanism in Islamic Finance",
+    "authors": "Dusuki A.W.",
+    "year": "2009",
+    "doi": "10.55188/ijif.v1i1.66",
+    "abstract": "The Islamic Foreign Exchange Swap (hereafter Islamic FX Swap) is a contract that is designed as a hedging mechanism to minimise market participants’ exposure to market currency exchange rates which are volatile and fluctuating. Although an Islamic FX Swap functions in almost the same way as its conventional counterpart, its structure must not contravene the principles of SharĪʿah. In other words, an Islamic FX Swap structure should be free from any elements prohibited by Islam such as usury (ribā), gambling (maysir) and excessive ambiguity (gharar). These prohibitions are mainly to promote justice and provide a level playing field in order to protect the interests of and circumvent harm to all parties involved in market transactions, which is in line with the objectives of SharĪʿah (maqāid al-SharĪʿah). This paper therefore aims to review the structure and mechanism of the Islamic FX Swap as currently offered by many Islamic financial institutions worldwide. Specifically, this paper highlights the SharĪʿah parameters and guidelines in structuring an Islamic FX Swap. As will be evident in this paper, this instrument has its own advantages as a risk management tool which appeals to Islamic financial institutions as an instrument to hedge against currency exchange market rate volatility. © 2009, International Shari’ah Research Academy for Islamic Finance (ISRA). All rights reserved.",
+    "source": "ISRA International Journal of Islamic Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

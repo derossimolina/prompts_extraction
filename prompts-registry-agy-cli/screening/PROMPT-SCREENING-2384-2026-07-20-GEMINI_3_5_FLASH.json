@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2384-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "INTERNATIONAL FINANCIAL REGULATION OF CRYPTOASSETS AND ASSET-BACKED TOKENS",
+    "authors": "Gottschalk, S",
+    "year": "2023",
+    "doi": "10.1108/S1569-376720220000022008",
+    "abstract": "Cryptoassets have recently attracted the attention of national and international financial regulators. Since the mid-2010s blockchains have increasingly been adapted to automate and replace many aspects of financial intermediation, and by 2015 Ethereum had created the smart contract language that underpins the digitization of real assets as asset-backed tokens (ABTs). Those were initially issued by FinTech companies, but more recently banks active on international capital and financial markets, and even central banks, for example, the Bank of Thailand, have developed their own digital platforms and blockchains. A wide variety of real and financial assets underpins ABTs, viz., reale-state, art, corporate and sovereign bonds, and equity. Consequently, owing to the significant market capitalization of cryptocurrencies, the Basel Committee on Banking Supervision (BCBS) published two consultative papers delineating its approach on cryptoasset regulation. In this study, the authors analyze the mechanics of ABTs and their potential risks, relying on case studies of recent issuance of tokens in equity, real-estate, and debt markets, to highlight their main characteristics. The authors also investigate the consequences of the increasingly oligopolistic structure of blockchain mining pools and Bitcoin exchanges for the integrity and security of unregulated distributed ledgers. Finally, the authors analyze the BCBS' regulatory proposals, and discuss the reaction of international financial institutions and cryptocurrency interest groups. The main findings are, firstly, that most ABTs are akin to asset-backed securities. Secondly, nearly all ABTs are off-chain/on-chain, that is, the underlying is a traditional asset that exists off-chain and is subsequently digitized. The main exception is the World Bank's bond-i that is genuinely native to the blockchain created by the Commonwealth Bank of Australia, and has no existence outside it. Thirdly, all ABTs are issued on permissioned blockchains, where anti-money laundering/anti-terrorist funding and know-your-customer regulations are enforced. From a prudential regulatory perspective, ABTs do not appear to pose serious systemic risks to international financial markets. This may account for the often negative reactions of banks, banking associations, and cryptocurrency interest groups to the BCBS' 2021 proposals for risk-weighted capital provisions for cryptoassets, which are viewed as excessive. Finally, we found that issuance of ABTS and other smart contracts on permissionless blockchains such as Bitcoin and Ethereum could potentially generate financial instability. A precedent involving Ethereum and The DAO in 2016 shows that (i) there is a significant accountability gap in permissionless blockchains, and (ii) the core developers of blockchains and smart contract technology, and Bitcoin mining pools, exercise an unexpectedly high- and completely unregulated-amount of power in what is supposedly a decentralized network.",
+    "source": "FINTECH, PANDEMIC, AND THE FINANCIAL SYSTEM: Challenges and Opportunities"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

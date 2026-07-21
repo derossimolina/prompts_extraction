@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0674-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ANTI-MONEY LAUNDERING REGULATIONS AND BANKING SECTOR STABILITY IN Africa",
+    "authors": "Issah M.; Antwi S.; Antwi S.K.; Amarh P.",
+    "year": "2022",
+    "doi": "10.1080/23322039.2022.2069207",
+    "abstract": "The study econometrically analysed anti-money laundering regulations and banking sector stability in Africa. A panel data on 51 African countries over the period of 2012 to 2019 were used. Secondary data were sourced from the World Bank’s indicators, the IMF, the Basel Institute on Governance other financial websites. The two-staged Generalised Moment Method (GMM) was used to analyse the effect of AML regulations on banking sector stability and the effects of the different levels of AML effectiveness and its impact on the banking sector stability in Africa. The study discovered that AML regulations had a significant positive effect on the stability of banking sectors in African countries. This indicated that whether there was high effectiveness or low effectiveness of the AML regulations, it would still have a positive impact on the stability of the banking sector of the country. © 2022 The Author(s). This open access article is distributed under a Creative Commons Attribution (CC-BY) 4.0 license.",
+    "source": "Cogent Economics and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

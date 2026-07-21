@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2017-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk&hyphen;based AML regulation on internet payment services in China",
+    "authors": "Yan L.; Ai L.; Tang J.",
+    "year": "2011",
+    "doi": "10.1108/13685201111098905",
+    "abstract": "PurposeThe purpose of this paper is to reveal the money laundering vulnerabilities of internet payment services, to analyse the key elements of conducting risk&hyphen;based approach &lpar;RBA&rpar;, and finally to provide recommendations of apply RBA to anti&hyphen;money laundering &lpar;AML&rpar; regulations on internet payment services in China. Design&sol;methodology&sol;approachThis paper analyses the characteristics of internet payment systems, introduces the latest arrangements associated with the third&hyphen;party payment services and payment and settlement system in China, and provides case of Alipay to illustrate the importance of carrying out AML regulation on Chinese internet payment industry. FindingsThe internet payment industry in China is increasingly booming, but the regulation in this field is obviously lagged. Recent regulation arrangements published by the People's Bank of China present the determination of Chinese Government to put the third&hyphen;party payment industry &lpar;including internet payment service&rpar; under the national AML regulation. Originality&sol;valueThis paper highlights the money laundering vulnerabilities of internet payment services in China and recommends that AML regulation on internet payment services should focus on &ldquo;back&hyphen;end&rdquo; account controls on the basis of risk&hyphen;rating practice. © 2011, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

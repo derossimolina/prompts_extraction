@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1728-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money Laundering and Banking Secrecy in the Jordanian Legislation",
+    "authors": "Al-Nuemat A.A.",
+    "year": "2013",
+    "doi": "10.1007/s10991-013-9130-3",
+    "abstract": "Crimes targeting to damage the property of natural and legal individuals including states are in existence while the objective of people, groups and the entire organizations when committing crimes is illegal property gain in the structure of national, but also of global crime. However, they are insufficient hence they attempt to decriminalize money or other property earned in such manner, e.g. by inserting them into lawful operations and flows. Nonetheless, perpetrators of this kind of crime attempt to hide the right source of money or profit earned in such manner using all means possible. Banking secrecy is one of the main barriers that stand in front of anti-money laundering because it comprises of a barrier to access to bank deposits, and a protection for doubtful funds since it is one of the conventional rules pertinent to the work banks, where clients' secrets and banking operations are saved by Bank's commitment by law and custom unless there is provision in the law or in the agreement stating otherwise. This study is aimed at indicating the most significant stages and techniques of money laundering at banking institutions in Jordan and also discussing the function of the Jordanian banks in the light of the pertinent legislation. © 2013 Springer Science+Business Media Dordrecht.",
+    "source": "Liverpool Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

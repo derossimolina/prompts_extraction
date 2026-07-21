@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0647-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "What Drives Illicit Financial Flows? An Empirical Study of Trade Data Discrepancies",
+    "authors": "Liu R.; Stengos T.",
+    "year": "2023",
+    "doi": "10.1007/s11079-022-09669-3",
+    "abstract": "This paper conducts an empirical study on the determinants of trade data discrepancies from a perspective of international capital flows as a part of trade data discrepancies can be caused by trade data mis-reporting as a form of illicit financial flows. Specifically, we study the determinants of import over-reporting from the U.S. for 71 countries as a proxy of illicit financial outflows from those countries and find that it is closely correlated with both the pull and push factors. Comparing the determinants of illicit financial outflows to those of gross capital outflows, we find that financial openness, corruption and global risk have opposite effects on the two types of capital flight in the way that illicit financial outflows are more common in countries with stricter capital controls and more corruption during periods of greater market uncertainty, whereas gross capital outflows are not. However, most of the above relationships only exist in the low-reserve regime when non-linearities are considered, which suggests that foreign reserve holdings can affect the behaviour of capital flight by disconnecting it from the pull and push factors. © 2022, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.",
+    "source": "Open Economies Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

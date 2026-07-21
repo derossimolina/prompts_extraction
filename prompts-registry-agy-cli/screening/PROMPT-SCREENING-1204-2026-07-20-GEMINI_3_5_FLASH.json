@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1204-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Have We Adequately Accommodated the Non-linear Systemic-Risk of Bankruptcy-Remote Securitization within Shadow Banking?",
+    "authors": "Phillips E.J.",
+    "year": "2022",
+    "doi": "10.1080/08911916.2022.2073663",
+    "abstract": "Securitization to attain bankruptcy remoteness separates the risks of the originator bank from the income-producing asset by structuring the asset sale between the Special Purpose Vehicle and the transferor as a “true sale” as opposed to that of financing an asset transfer. Should the transferor subsequently file for bankruptcy, the transferred assets will be exempted from the transferor’s bankruptcy estate, and the investors’ secured assets in the SPV are not at risk of loss. Once commercial banks no longer bear the risk of these bankruptcy-remote securitized loans, creeping deterioration in bank lending standards occurred/are occurring via weaker screening, lower denial rates, and misreporting of credit quality. When this type of structured finance became institutionally pervasive, what may have reduced risk at the micro-level quietly engenders non-linear systemic risk. In remedy to this, the Dodd-Frank Wall Street Reform is at best an incomplete international vision. Regulators must make-up for its inadequacies by increasing capital adequacy requirements which ensure banks operate in a prudential manner. Profit-maximization (shareholders) and capital adequacy (Society) must err on the side of capital adequacy given the public-private hybrid nature of money that is backstopped by the private-public Federal Reserve. © 2022 Taylor & Francis Group, LLC.",
+    "source": "International Journal of Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

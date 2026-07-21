@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1293-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Rise in Popularity of Cryptocurrency and Associated Criminal Activity",
+    "authors": "Kethineni S.; Cao Y.",
+    "year": "2020",
+    "doi": "10.1177/1057567719827051",
+    "abstract": "Cryptocurrency such as bitcoin, Ethereum, and, more recently, Monero has become the currency of choice for many drug dealers and extortionists. The criminal activities extend to tax evasion, money laundering, Ponzi schemes, and the theft of cryptocurrencies to kidnapping for ransom. As the demand for cryptocurrencies increases, it provides opportunities for criminals to hide behind the presumed privacy and anonymity. Identifying these cryptocurrency-related crimes have posed challenges for law enforcement due to the cross-border nature of transactions, the use of evasion technology to mask the identity of users, and inconsistent regulations. To address the role of cryptocurrencies in criminal activities, the study focused on four research questions: (1) What role do cryptocurrencies such as bitcoin (BTC) play in criminal activities? (2) What factors facilitate cryptocurrency-related criminal activities? (3) What role do politics play in regulating cryptocurrencies? and (4) What are the challenges they pose for regulators and law enforcement? To answer the questions, the study utilized a systematic content review of the news reports, court cases, scholarly articles, online search engines, and commentaries relevant to regulations and reforms. The findings help to understand the current climate of virtual currencies, their use in criminal activities, and the complexities involved in regulating cryptocurrencies. © 2019 Georgia State University.",
+    "source": "International Criminal Justice Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

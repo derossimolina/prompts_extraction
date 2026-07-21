@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1878-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Restorative justice for banks through negative licensing",
+    "authors": "Braithwaite J.",
+    "year": "2009",
+    "doi": "10.1093/bjc/azp038",
+    "abstract": "The most general lesson of the crime prevention literature is taken to be that repeat victimization and repeat offending are concentrated in time and space; early intervention to prevent wider inflammation of such hot spots is more effective than reactive general deterrence (as in economic models of crime). That prescription is applied to how the 2008 financial crisis might have been prevented and how the crimes of Enron and Arthur Andersen might have been tackled to ameliorate the 2001 crisis. Negative licensing based on walking the beat and kicking the tyres at financial hot spots, with reduced reliance on economic models of risk, is one remedy advocated. Then, the threat of negative licensing might be used to motivate restorative justice that transforms the ethical culture, particularly the bonus culture, of banks.",
+    "source": "British Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

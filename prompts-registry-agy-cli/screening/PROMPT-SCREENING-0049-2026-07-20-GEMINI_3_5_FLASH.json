@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0049-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Compliance Risk and Regulatory Uncertainty in Taiwan: A Bank Risk Management Perspective",
+    "authors": "Yu M.-T.; Wu E.-C.; Zhao Y.",
+    "year": "2025",
+    "doi": "10.1142/S0219091525500201",
+    "abstract": "This paper examines the contrasting views of regulators and bankers on risk management in the financial sector, highlighting that regulatory uncertainty and compliance risks can result in costs far exceeding those of meeting regulatory requirements. Four real-world cases illustrate this: (1) the disapproval of the board-elected chairman of Nanshan Life Insurance by the Taiwan Financial Supervisory Commission, (2) regulatory shifts in Taiwan’s insurance sector due to changes in leadership, (3) the US$180 million fine on Mega Bank of Taiwan for noncompliance with U.S. anti-money laundering regulations, and (4) the write-off of Credit Suisse’s CoCo bonds by the Swiss regulator. These cases demonstrate the challenges posed by regulatory actions on financial institutions, highlighting the difficulty of balancing regulatory uncertainty and compliance risks faced by these institutions. The study offers critical insights for policymakers and financial institutions on managing these risks in a highly regulated environment. © 2025 World Scientific Publishing Co. Center for Pacific Basin Business, Economics and Finance Research.",
+    "source": "Review of Pacific Basin Financial Markets and Policies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

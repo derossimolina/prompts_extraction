@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0156-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cross-jurisdictional financial crime risks: what can we learn from the UK regulatory data?",
+    "authors": "Feridun M.",
+    "year": "2024",
+    "doi": "10.1108/JFC-03-2023-0044",
+    "abstract": "Purpose: Financial crime presents a serious threat to the stability and integrity of the global financial system. To combat illicit financial activities, regulatory bodies worldwide have implemented various measures, including the requirement for financial institutions to assess the financial crime risks they are exposed to in the jurisdictions they operate in. These risks include inadequate anti-money laundering and countering the financing of terrorism frameworks and other financial crime risks that have significant strategic implications for firms’ geographical footprints and customer risk classifications. This paper aims to make a contribution to the literature by undertaking a cross-country analysis of 158 countries to shed light on what drives perceived jurisdiction risk of the UK financial services firms. Design/methodology/approach: Capturing firms’ perceptions of financial crime risk requires significant data collection efforts, including surveys and interviews with key personnel. This can be highly resource-intensive and may require access to sensitive information that firms may be reluctant to share. Furthermore, the dynamic nature of financial crime risks means that perceptions can change rapidly in response to changes in the regulatory and geopolitical landscape. As a result, capturing and monitoring firms’ perceptions of financial crime risks requires ongoing monitoring and analysis. Capturing firms’ perceptions of financial crime risks at a cross-jurisdictional level is a particularly complex and challenging task that requires careful consideration of a range of factors. As a result of data limitations, empirical investigation of the factors underlying the firms’ perceptions of jurisdiction risk is in its infancy. This paper uses regulatory financial crime data from the UK in a multivariate regression analysis, following a general-to-specific approach where any redundant variables were removed from the general model sequentially. Findings: Results suggest that perceived jurisdiction risk is significantly and positively associated with evasion of tax and regulations, while it is significantly and negatively associated with political stability and regulatory stringency. These have important implications for home and host supervisors with respect to the factors that drive perceived jurisdiction risks and the evaluation of the nature of inherent financial crime risks within regulated firms. The findings confirm the critical role of the shadow economy, political stability and regulatory rigor in shaping jurisdiction risk perceptions. From a policy standpoint, the findings support the case for taking prompt policy action to identify, prioritize and implement specific and targeted measures with respect to the shadow economy, political stability and rigor of regulations to improve international firms’ perceptions of jurisdiction risk. Originality/value: While there exists different measures of financial crime risk, it is notoriously challenging to capture firms’ perceptions of it, particularly at a cross-jurisdiction level. This is because financial crime risks can vary significantly across different jurisdictions due to differences in legal and regulatory frameworks, cultural norms and levels of economic development. This makes it difficult for firms to compare and evaluate the financial crime risks they face in different jurisdictions. Besides, firms’ perceptions of financial crime risks can be influenced by a range of subjective factors, including personal experiences, media coverage and hearsay. These perceptions may not always align with objective risk assessments, which are based on more systematic and empirical methods of risk measurement. This paper contributes to the existing literature by undertaking a cross-country analysis drawing on a unique set of UK regulatory financial crime data, which is based on a total of 1,900 annual financial crime data regulatory return (REP-CRIM) submissions to the UK’s Financial Conduct Authority. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

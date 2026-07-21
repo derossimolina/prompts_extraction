@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1885-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Household organization and budget structures in a Purepecha pueblo",
+    "authors": "Acheson J.M.",
+    "year": "1996",
+    "doi": "10.1525/ae.1996.23.2.02a00080",
+    "abstract": "In Cuanajo, Michoacan, Mexico, where the local furniture industry has undergone substantial expansion, households vary widely in size, financial practices, and levels of economic success. Households use three different kinds of funds: General, Personal, and Obligated Funds. Each has different characteristics. Households of different sizes and levels of business success use different kinds of funds, which are combined in different ways. In this article I argue that these different ways of structuring budgets contribute to or detract from business success by influencing transaction costs within households.",
+    "source": "American Ethnologist"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

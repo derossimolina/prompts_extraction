@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1908-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organized crime in Asia. From the golden triangle to Far-eastern Russia; [Le crime organisé en Asie. Du triangle d'or à l'extrême-orient russe]",
+    "authors": "Lintner B.",
+    "year": "2010",
+    "doi": "10.3917/pouv.132.0057",
+    "abstract": "Secret societies have always been endemic to Chinese communities, surviving on fear and corruption and prospering through their involvement in a wide range of legal and illegal businesses. Contrary to what specialists had imagined, since Hong Kong reverted to Chinese rule in 1997 the city's triads have remained very active, forging close economic and political links between mainland Chinese interests and Chinatowns all over the world. In China itself, where cutthroat capitalism has replaced the old, austere socialist system, new secret societies have appeared. Similar groups are active in Taiwan and Thailand. In Japan, the yakuza remain a powerful player in business as well as politics. Indeed, all over Asia, bankers, gangsters, government officials and even intelligence agencies interact. Organized criminals of various stripes have also managed to break new ground in the Russian Far East, which could have far-reaching consequences for the stability of the entire region. Copyright 2010 Le Seuil. All rights reserved.",
+    "source": "Pouvoirs: Revue d'Etudes Constitutionnelles et Politiques"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

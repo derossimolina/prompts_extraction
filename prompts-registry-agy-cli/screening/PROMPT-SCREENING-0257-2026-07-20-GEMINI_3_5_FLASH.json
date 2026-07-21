@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0257-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering as a service: Investigating business-like behavior in money laundering networks in the Netherlands",
+    "authors": "Kramer J.-A.; Blokland A.A.J.; Kleemans E.R.; Soudijn M.R.J.",
+    "year": "2024",
+    "doi": "10.1007/s12117-022-09475-w",
+    "abstract": "In order to launder large amounts of money, (drug) criminals can seek help from financial facilitators. According to the FATF, these facilitators are operating increasingly business-like and even participate in professional money laundering networks. This study examines the extent to which financial facilitators in the Netherlands exhibit business-like characteristics and the extent to which they organize themselves in money laundering networks. We further examine the relationship between business-like behavior and individual money launderers’ position in the social network. Using police intelligence data, we were able to analyze the contacts of 198 financial facilitators who were active in the Netherlands in the period 2016–2020, all having worked for drug criminals. Based on social network analysis, this research shows that financial facilitators in the Netherlands can be linked in extensive money laundering networks. Based on the facilitators’ area of expertise, roughly two main types of professional money laundering networks can be discerned. Some subnetworks operate in the real estate sector, while others primarily engage in underground banking. Furthermore, the application of regression models to predict business-like behavior using individual network measures shows that facilitators with more central positions in the network and those who collaborate with financial facilitators from varying expertise groups tend to behave more business-like than other financial facilitators. © The Author(s) 2022.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

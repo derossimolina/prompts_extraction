@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1570-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Corrupt Governmental Networks",
+    "authors": "Jancsics D.; Jávor I.",
+    "year": "2012",
+    "doi": "10.1080/10967494.2012.684019",
+    "abstract": "This study provides an empirically based analysis of corrupt governmental networks. We conducted 45 interviews in Hungary with different organizational actors who were actually participating in corrupt transactions or at least had first-hand experiences of corruption. Given the secret nature of the topic, this article provides a unique insight into the phenomenon. Our findings show that corrupt elite cliques consciously design and coordinate multilevel structures of corrupt networks within and among organizations that involve a large amount of people. We identified the major network elements and their functions in corrupt transactions. The article also provides a typology of corrupt networks. The networks have different structural characteristics based on location of the \"cash cows,\" points from where the system is fed, and the actors' positions of power. Our findings are compared with the already existing literature on dark networks, terrorist, and organized crime formations. © 2012 Copyright Taylor and Francis Group, LLC.",
+    "source": "International Public Management Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

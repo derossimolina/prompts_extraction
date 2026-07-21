@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1302-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Suitability of forensic accounting in uncovering bank frauds in India: an opinion survey",
+    "authors": "Gangwani M.",
+    "year": "2021",
+    "doi": "10.1108/JFC-07-2020-0126",
+    "abstract": "Purpose: Economic robustness is the heart of any country’s prosperity. It is no wonder that economic progression is a crucial force that keeps a nation rolling on its wheels. As economic well-being is such an important piece in the jigsaw of a country’s health, economic shocks must be kept at a bare minimum. India in recent years has experienced various banking failures and scams that put the financial system at stake and crushed investor confidence. There are examples aplenty of banks collapsing because of siphoning and diversion of funds in risky propositions that ultimately put the depositors and financial institutions at the receiving end. As per Reserve Bank of India’s latest annual report, it has been reported that there have been bank frauds worth a whopping Rs 72,000 crore in the financial year 2019. Therefore, this study aims to obtain the perception of Academicians and Practitioners regarding forensic accounting’s suitability in uncovering bank frauds. Design/methodology/approach: A strategically constructed Likert scale questionnaire was designed to obtain perception of Academicians and Practitioners regarding forensic accounting’s suitability in uncovering bank frauds. The analysis was performed by applying the “non-parametric test” on the data gathered from the questionnaire. Findings: By testing the relevant hypotheses, it has been found that insiders working in the bank team up with outsiders in perpetrating fraudulent activities resulted in bank failures, that both forensic accountant and traditional accountant were different from each other and that adoption of forensic accounting in India will aid regulatory authorities in doing their job more efficiently. Research limitations/implications: This study uses purposive sampling, as it only takes the perception of college and professional course students (chartered accountants/company secretary/certified management accountant) and teachers having knowledge in accounting which made sample size quite small (156). This study only covers frauds that were conjured in the banking industry and hence does not touch upon scams that occurred in other financial institutions. This study is confined to Indian banks only. This study uses an opinion survey to ensure the suitability of forensic accounting in uncovering bank frauds. Originality/value: The originality of this study has been checked through Turnitin plagiarism software in which the similarity was 8%. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

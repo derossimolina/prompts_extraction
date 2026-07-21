@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0127-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE IMPORTANCE OF CASH AND A SWOT ANALYSIS OF THE LIMITS ON CASH PAYMENTS; [ZNACZENIE GOTÓWKI ORAZ ANALIZA SWOT OBOWIĄZYWANIA LIMITÓW DLA PŁATNOŚCI GOTÓWKOWYCH]",
+    "authors": "Apanel A.P.",
+    "year": "2025",
+    "doi": "10.2478/ers-2025-0017",
+    "abstract": "Subject and purpose of the study: The subject of the study was the characteristics of cash payments, their role in the payment system and the changing preferences of consumers toward cash and non-cash transactions. The purpose of the research was to gain knowledge about the importance of cash payments in everyday transactions, to assess their advantages and disadvantages compared to non-cash payments, and the effects of cash payment limits on the economy and society. The following research hypothesis was formulated: cash payments, despite the growing popularity of non-cash transactions, still play an important role in everyday transactions, and the introduction of cash payment limits, while it may contribute to increasing financial transparency and reducing the shadow economy, comes with challenges, such as digital exclusion and limiting consumers’ freedom of choice. Materials and methods: Statistical data mainly from reports of the National Bank of Poland and the European Central Bank on cash and non-cash transactions in Poland and the European Union were analyzed. A SWOT analysis was used to assess the consequences of introducing cash payment limits. A literature study was also conducted and the results of an empirical study by the NBP, based on diaries recording consumers’ daily transactions, were presented. Results: The results of the study showed that despite the growing popularity of non-cash transactions, cash payments remain an important part of the payment system, especially in low-value transactions. Seasonal changes in the number of cash transactions are associated with the holiday and Christmas seasons. Cash is characterized by high accessibility, immediacy and anonymity, which is valued by consumers. Conclusions: Limits on cash payments contribute to improving financial transparency and reducing the risk of financial crime and the shadow economy, among other things, but they also come with challenges, such as digital exclusion and potential data privacy issues. Decisions on the introduction of limits should take into account both potential benefits and risks to ensure the sustainability of the payment system. The proposed SWOT analysis is a versatile tool that can support various actors in evaluating and optimizing financial policies at different levels, both nationally and internationally. © 2025, Adrian Paweł Apanel. Publisher: John Paul II University in Biała Podlaska, Poland.",
+    "source": "Economic and Regional Studies / Studia Ekonomiczne i Regionalne"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

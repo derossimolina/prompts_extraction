@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0826-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial transparency and anomalous portfolio investment flows: A gravity analysis",
+    "authors": "Gullo V.; Montalbano P.",
+    "year": "2022",
+    "doi": "10.1016/j.jimonfin.2022.102704",
+    "abstract": "The applied literature on money laundering and financial crime uses ad-hoc gravity equations as a workable empirical strategy to estimate illicit (dirty) money flows. It lacks reliable data as well as solid theoretical underpinnings. We contribute i) exploiting the theory of portfolio investments to empirically derive a global picture of anomalous money flows over time; ii) correlating these anomalies with the degree of compliance with international transparency standards of 85 origin and 214 destination countries over the period 2000–2015. Our results show: i) the difference between the estimates from theoretically-underpinned gravity models of investments and real data can be used to assess anomalous flows that transit through official channels; ii) non-compliance with international transparency standards affects the probability of observing anomalous flows in global financial data; iii) a global map of illicit/anomalous flows can be derived from official statistics; iv) flipping the narrative on “risky countries” to “risky bilateral links” allows to better investigate push and pull factors of anomalous flows; v) the state of offshore secrecy is not a stronger determinant of anomalous flow than onshore secrecy. The full dataset of bilateral anomalies resulting from our work is freely available for further research. © 2022",
+    "source": "Journal of International Money and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

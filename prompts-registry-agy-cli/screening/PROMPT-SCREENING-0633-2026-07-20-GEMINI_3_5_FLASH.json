@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0633-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DETERMINING CONCESSIONARY ITEMS FOR “AVAILABILITY PAYMENT ONLY” PPP PROJECTS: A HOLISTIC FRAMEWORK INTEGRATING VALUE-FOR-MONEY AND SOCIAL VALUES",
+    "authors": "Guo Y.; Chen C.; Luo X.; Martek I.",
+    "year": "2024",
+    "doi": "10.3846/jcem.2024.20841",
+    "abstract": "Public-private partnerships (PPPs) have been widely applied in infrastructure development around the world. However, reasonable concessionary items are critical to compromise interest conflicts between government agencies and sponsors to ensure project success. A broad literature review centering on PPP transaction structuring revealed two significant research gaps: (1) a lack of attention to the ‘availability payment only’ (APO) funding method and (2) negligence of the public side’s perspective in determining concessionary items. The research objective was to develop a methodological framework for determining concessionary items in APO PPP projects while considering the interests of the public side. This study proposed a value-for-money (VFM) and social values integrated framework which accommo-dates discounted cash flow (DCF) analysis, bargaining game modeling, and multi-objectives decision-making (MODM). This framework enables a decision-making process based on both an indifferent feasible interval of concessionary items under a discount rate agreed upon by both parties and an optimal set of concessionary items. Additionally, results of a sensitivity analysis indicated that project construction profit can significantly affect feasible and optimal concession items, and the optimal concession period is less sensitive to changes in risk allocation. The application of proposed model indicated that this paper successfully provides a methodology for determining a feasible interval and an optimal concession items group tailored to APO PPP projects. This study paves the way towards a platform for the public and private partners to jointly and quickly come up with sound PPP concessional items in light of the win-win principle, particularly under the APO funding mechanism. © 2024 The Author(s). Published by Vilnius Gediminas Technical University.",
+    "source": "Journal of Civil Engineering and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

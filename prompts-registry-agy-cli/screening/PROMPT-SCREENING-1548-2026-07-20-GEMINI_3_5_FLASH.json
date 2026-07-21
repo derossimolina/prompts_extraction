@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1548-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Understanding the disciplinary aspects of neoliberal regulations: The case of credit-risk regulation under the Basel Accords",
+    "authors": "Baud C.; Chiapello E.",
+    "year": "2017",
+    "doi": "10.1016/j.cpa.2016.09.005",
+    "abstract": "The risk management explosion has been accompanied by the rise of risk-based regulations. The 2004 reform of the Basel Agreements (Basel II) is usually presented as a typical example of the development of such risk-based regulations. By comparing the discourses accompanying Basel II with an in-depth analysis of its technical provisions for credit risk regulation, our study shows that, if the Basel reform was driven by a neoliberal political agenda, it counter-intuitively resulted in a significant development of intrusive disciplinary processes for banks and their credit-management processes. Drawing on Foucault's analyses of neoliberalism, the paper however suggests that the presence of disciplinary aspects in this risk-based regulation should not necessarily be regarded as a “pathological drift” or as a “subversion” from its initial neoliberal program, but rather as both neoliberalism's other face and its very condition. Methodologically, this study also underlines the value of approaching risk management issues by an in-depth analysis of their technical specifications, since this approach enables us to construct the contrasting image of the changes presented here, and consequently to highlight the strong disciplinary processes embedded in this neoliberal-inspired reform and their structuring effects on management accounting and control processes. Finally, this approach also allows us to better understand the role played by calculative technologies in this disciplinarization process. © 2016 Elsevier Ltd",
+    "source": "Critical Perspectives on Accounting"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

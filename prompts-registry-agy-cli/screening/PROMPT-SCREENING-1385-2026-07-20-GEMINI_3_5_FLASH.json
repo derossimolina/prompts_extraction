@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1385-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploring the role of corruption and money laundering (ML) on banking profitability and stability: a study of Pakistan and Malaysia",
+    "authors": "Zaman Q.U.; Aish K.; Akhter W.; Zaidi S.A.H.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-07-2020-0082",
+    "abstract": "Purpose: The purpose of this paper is to address the effect of corruption and money laundering (ML) on banking profitability and stability. Design/methodology/approach: This study uses the panel data of 72 banks of Pakistan and Malaysia from 2012–2018. This paper uses fixed effect (FE) and random effect (RE) regression techniques for empirical testing and generalized methods of moment (GMM) technique for robustness tests. Findings: This study founds consistent evidence that corruption has a positive and ML has a negative relationship with the banking profitability of Pakistan and Malaysia while the empirical evidence suggests that corruption and ML have a diverse impact on the banking stability of Pakistan and Malaysia. Further, this paper also founds that corruption and ML moderates the relationship between risk and banking profitability and stability. Practical implications: The results reveal that the banks of the highly corrupt environment are more affected by corruption and ML than the least corrupt environment. Thus, it is recommended that the Government of Pakistan should formulate strong anti-corruption and anti-money laundering policies. Originality/value: As per the knowledge of the authors, this research contributes to understanding the role of corruption and money laundering on the stability and profitability of Pakistan and, in general, it is the first attempt investigating the moderating role of corruption and ML between risk and banking profitability and stability. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1684-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The New Structuring of Corporate Ownership",
+    "authors": "Peetz D.; Murray G.; Nienhüser W.",
+    "year": "2013",
+    "doi": "10.1080/14747731.2013.828965",
+    "abstract": "In looking at dispersion or concentration of ownership within corporations, little attention has been given to the dispersion or concentration of ownership across corporations. We examined ownership in 929 of the largest corporations in four countries. We found: the growing concentration of ownership in the hands of finance capital over the past three decades; the significance of industrial capital as an owner of other industrial capital in the other three countries but its total subservience to finance capital in the USA; the continuing significance of key individuals and families as owners in Germany, albeit as only a declining minority, whereas they are of little significance elsewhere; and the stable or falling profile of banks alongside the growing role in each country of other 'financial corporations'. We also found the minor role of the state outside of Germany; and, most importantly, the emergence of a small number of key corporations in finance capital that, through funds management in particular, repeatedly take leading shareholder positions in firms in the US and, to a lesser extent, other countries. © 2013 Copyright Taylor and Francis Group, LLC.",
+    "source": "Globalizations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

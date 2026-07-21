@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1353-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of Sukuk in achieving sustainable development: Evidence from the Islamic Development Bank",
+    "authors": "Al Madani H.; Alotaibi K.O.; Alhammadi S.",
+    "year": "2020",
+    "doi": "10.21511/bbs.15(4).2020.04",
+    "abstract": "The purpose of this study is to examine the compliance of Islamic Development Bank (IDB) Sukuk with Maqasid Al-Shari’ah (objectives of Islamic law) in relation to human development and well-being. The paper provides a theoretical model explaining how Sukuk can achieve Maqasid Al-Shari’ah by assessing the role of Sukuk in the circulation, development, and preservation of wealth to attain social justice. This study employs a qualitative methodology using an empirical case study. The primary data are collected through elite semi-structured interviews. The secondary data are obtained using a content analysis method from Sukuk’s Principle Terms and Conditions, Information Memorandum and IDB’s annual reports for the period 2007–2017 to explain the structures and features of the Sukuk and examine their compliance with the developed model. The findings indicate that the Medium Term Note (MTN) Sukuk program positively serves the elements of hifth al-mal (safeguarding wealth), showing a direct relationship between the shift of wealth among parties and the compliance of Maqasid Al-Shari’ah. This implies that the investments made by Sukuk would benefit everyone, including individuals, institutions, societies, and the whole country, to achieve human well-being and sustainable development. Nonetheless, the analysis suggests that Shari’ah supervisory boards need to focus more on the substance when structuring Sukuk to help Islamic finance benefit in terms of moving towards the achievement of Maqasid Al-Shari’ah. © Hanan Al Madani, Khaled O. Alotaibi, Salah Alhammadi, 2020.",
+    "source": "Banks and Bank Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

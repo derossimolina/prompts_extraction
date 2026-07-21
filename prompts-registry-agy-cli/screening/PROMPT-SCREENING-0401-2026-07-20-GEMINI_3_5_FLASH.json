@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0401-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A balancing of interests: financial inclusion, the fight against money laundering and terrorism financing, and the role of banks; [’N BALANSERING VAN BELANGE: FINANSIËLE INSLUITING, DIE STRYD TEEN GELDWASSERY EN DIE FINANSIERING VAN TERRORISME AAN DIE EEN KANT EN DIE ROL VAN BANKE AAN DIE ANDER KANT]",
+    "authors": "Takaedza L.",
+    "year": "2025",
+    "doi": "10.47348/TSAR/2025/i2a4",
+    "abstract": "[No abstract available]",
+    "source": "Tydskrif vir die Suid-Afrikaanse Reg"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

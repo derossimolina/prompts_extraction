@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1890-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Keeping dirty money and terrorist funds away: The proposed Money Laundering Regulation of the Swiss Federal Banking Commission",
+    "authors": "Hüpkes E.H.G.",
+    "year": "2002",
+    "doi": "10.1108/13581980210810292",
+    "abstract": "On 9th July 2002, the Swiss Federal Banking Commission (SFBC) published for consultation a proposal for a new SFBC Money Laundering Regulation. The draft regulation proposes stricter rules for banks and securities dealers to prevent money laundering and financing of terrorism and details specific due diligence requirements with respect to business relationships with politically exposed persons. The draft incorporates the lessons drawn from money laundering cases in Switzerland as well as international developments. © Henry Stewart Publications.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

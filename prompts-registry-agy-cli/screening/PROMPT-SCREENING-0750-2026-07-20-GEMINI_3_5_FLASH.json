@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0750-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Leveraging Artificial Intelligence to Combat Money Laundering and Related Crimes in the South African Banking Sector",
+    "authors": "Chitimira H.; Torerai E.; Jana V.L.M.",
+    "year": "2024",
+    "doi": "10.17159/1727-3781/2024/v27i0a18024",
+    "abstract": "Money laundering and related financial crimes, such as fraud and terrorism financing, pose a significant threat to the integrity and stability of South African financial markets. This article explores the application and use of artificial intelligence (AI) to detect and prevent money laundering in South African banking institutions. The implementation of big data technologies, data processing analytics and AI could enhance the detection and prevention of money laundering activities in South Africa's banking sector. AI should be carefully utilised to improve the detection of suspicious activities and the accuracy of financial intelligence, and to combat evolving money laundering techniques. The article also examines the benefits and challenges of implementing AI as an anti-money laundering (AML) measure in the South African banking sector. These include the need for quality data, integration with existing regulatory systems, regulatory compliance and ethical considerations. The article highlights the potential use of AI in transaction monitoring, customer due diligence, outcomes-based risk assessment and the improved detection of suspicious transactions. This could be done by utilising AI to enhance the effectiveness and efficiency of AML measures. The importance of effective coordination between banking institutions, regulatory authorities and law enforcement bodies is also highlighted as a key component of leveraging AI to combat money laundering and related financial crimes in South Africa's banking sector. © 2024, North-West Unversity. All rights reserved.",
+    "source": "Potchefstroom Electronic Law Journal"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

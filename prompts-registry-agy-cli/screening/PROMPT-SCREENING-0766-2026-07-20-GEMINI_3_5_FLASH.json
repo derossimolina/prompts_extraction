@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0766-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax havens and the diversion of public money in Mexico; [Paraísos fiscales y el desvío del dinero público en México]",
+    "authors": "Ríos Granados G.",
+    "year": "2023",
+    "doi": "10.22201/iij.24484873e.2023.167.18564",
+    "abstract": "This paper was born from the need to understand the link that exists in Mexico between the diversion of public money and tax havens. It is a first approach in which intercon-nected issues are analyzed and that, currently, Mexican legislation does not have a joint resolu-tion. Topics such as corruption, shell companies, tax havens, aggressive tax planning, report-able schemes and intermediaries are outlined in this paper whose common thread is to follow the trail of public money until it reaches tax havens. One of the first hypotheses of this paper is that a legal, social and political framework must be created that mirrors the criminal network of operations to divert public money to tax havens. © 2023, Universidad Nacional Autonoma de Mexico. All rights reserved.",
+    "source": "Boletin Mexicano de Derecho Comparado"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

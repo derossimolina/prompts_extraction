@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0785-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Survival Analysis Methods for Assessing the Anti-Money Laundering System Effectiveness",
+    "authors": "Kuzmenko O.; Krukhmal O.; Koibichuk V.; Hrytsenko K.; Kushneryov O.; Hordiienko V.; Pasemko G.; Taran O.; Smihunova O.",
+    "year": "2023",
+    "doi": "10.37394/23207.2023.20.106",
+    "abstract": "-The article collects and systematizes statistical information to assess the anti-money laundering system effectiveness for 25 banks from 12 countries. The anti-money laundering system effectiveness was evaluated based on applying the survival analysis method by constructing tables of survival for banks subject to sanctions, determining the probability of deciding on the need to impose sanctions on banks, multiple assessments of Kaplan-Meyer, formalization of the Hazard rate instantaneous risk function. The anti-money laundering system effectiveness is compared based on the survival analysis in groups of banks around the world. Relevant factors influenced the assessment of the anti-money laundering system effectiveness based on the application of the principal components method by creating a scree plot and determining the factor loads of the statistical input base indicators in the study. A Cox proportional intensity regression model of dependence of the anti-money laundering system effectiveness on independent factors is constructed. © 2023, World Scientific and Engineering Academy and Society. All rights reserved.",
+    "source": "WSEAS Transactions on Business and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

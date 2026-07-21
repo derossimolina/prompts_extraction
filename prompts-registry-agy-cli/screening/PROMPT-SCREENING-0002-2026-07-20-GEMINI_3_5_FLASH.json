@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0002-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating Beneficial Ownership: Unveiling Hidden Assets from Illicit Financial Flows via Cryptocurrency Exchanges in Indonesia; [Regulando la titularidad real: desvelando activos ocultos de flujos financieros ilícitos mediante intercambios de criptomonedas en Indonesia]",
+    "authors": "Putranti I.R.; Windiani R.",
+    "year": "2026",
+    "doi": "10.32719/26312484.2026.45.3",
+    "abstract": "This article investigates Indonesia’s regulatory challenges and opportunities, such as tracing and recovering assets derived from corruption and laundering them through cryptocurrency, specifically via cryptocurrency exchanges. Cryptocurrency exchange platforms typically implement Know Your Customer and Anti-Money Laundering measures; this study reveals how corrupt actors exploit loopholes in identity verification and transaction monitoring using nominee structures and complex layering schemes. Building upon Indonesia’s evolving anti-corruption and Anti Money Laundering legal framework—from the early emergency laws to the establishment of the Corruption Eradication Commission and the Financial Transaction Reports and Analysis Center, culminating in Law n.º 8/2010 of the Republic of Indonesia and the Presidential Regulation on beneficial ownership–the paper critically analyzes the effectiveness of current mechanisms for identifying and disclosing ultimate beneficial owners in crypto-related transactions. This article highlights the vulnerability of cryptocurrency exchanges in facilitating asset concealment under the guise of legitimacy. This article recommends enhanced regulatory alignment, increased transparency in beneficial ownership registries, and institutional capacity building to ensure more effective detection, deterrence, and recovery of illicit assets flowing through cryptocurrency exchanges. © 2026, Universidad Andina Simon Olivar, Sede Ecuador. All rights reserved.",
+    "source": "Foro: Revista de Derecho"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

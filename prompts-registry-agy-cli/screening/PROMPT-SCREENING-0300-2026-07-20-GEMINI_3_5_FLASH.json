@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0300-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The structuring conditions of local government financialisation in Europe: A comparative perspective",
+    "authors": "Hasenberger H.",
+    "year": "2024",
+    "doi": "10.1177/0308518X241256546",
+    "abstract": "Local governments across Europe are increasingly engaging in ‘local government financialisation’, involving the use of bonds, derivatives and financial assets in their governance. However, the extent to which local governments use financial instruments varies across countries. Moreover, local governments engage in financialisation in the context of ‘structuring conditions’ that are largely beyond their control. This paper systematically investigates these political-economic conditions and provides a high-level comparative analysis of their relevance for financialisation in local governments. The study examines data from 22 European countries between 2000 and 2019, finding that economic, financial and institutional conditions, along with financial subordination, are critical in shaping local government financialisation. Specifically, greater decentralisation, a more developed financial sector, and, to some extent, more intense austerity are associated with higher levels of financialisation. In contrast, financialisation tends to be lower in the Southern and Eastern European peripheries. Through its country-comparative approach, the paper contributes a new perspective to recent debates on the role of the local state in financialisation. © The Author(s) 2024.",
+    "source": "Environment and Planning A"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

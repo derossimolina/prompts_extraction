@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0514-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Recalibrating the Banking Sector with Blockchain Technology for Effective Anti-Money Laundering Compliances by Banks",
+    "authors": "Thommandru A.; Chakka D.B.",
+    "year": "2023",
+    "doi": "10.1016/j.sftr.2023.100107",
+    "abstract": "The banking sector is identified as the main means for laundering illicit money, these banks generally have access to both banking mechanism and legal authority to make decisions. Money launderers and those financing terrorism are conveniently accessing financial institutions and its mechanism. These institutions provide all financial funds transfers both domestic and international range. Anti-money laundering (AML) laws and other data protection laws that keep getting stricter have forced many financial institutions to put in place long, expensive processes to stay in compliance. To bridge the gap, emerging technology can help in mitigating money laundering and other financial crimes. Blockchain is considered one of the world's best-known examples of Distributed Ledger Technology. In the financial sector, this type of technology has been hailed as the key to future success. Emerging technology can be used in many ways in Financial Services. It can change many processes, payments between peer-to-peer, trade agreements and tracking of supply chains. Emerging technology can be used in many ways in financial services and can change many processes, peer-to-peer payments, trade agreements, and the tracking of supply chains. These use cases depend on the participants or users being identified and verified. \"Know Your Customer\" is the term for this (KYC). Before making a transaction, one of the most basic ways to build trust between the people involved is to check out the user. This current paper focuses on issues of compliance and Anti Money Laundering policies in the banking sector by using new emerging technologies such as blockchain; further, the paper focuses keenly on issues relating to the manipulation of KYC and the financial burden on banks while also addressing AML policies, Finally, the paper provides ideas and suggestions regarding the rise of emerging technologies such as blockchain while addressing the problems of ML. This also includes the capability of blockchain technology to bring banking systems with recalibrated mode of compliances polices. © 2023 The Author(s)",
+    "source": "Sustainable Futures"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

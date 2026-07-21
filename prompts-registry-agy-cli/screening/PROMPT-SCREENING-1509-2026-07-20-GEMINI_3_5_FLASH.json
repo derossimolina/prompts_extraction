@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1509-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A critical analysis of the anti-corruption policy of the national judicial council of Nigeria",
+    "authors": "Esoimeme E.E.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-01-2017-0001",
+    "abstract": "Purpose: This paper aims to examine the new anti-corruption policy of the National Judicial Council of Nigeria to determine the level of effectiveness of its preventive measures and to provide recommendations on how the policy could be strengthened. Design/methodology/approach: This paper relies mainly on primary and secondary data drawn from the public domain. It also relies on documentary research. Findings: This paper determined that the anti-corruption policy of the National Judicial Council of Nigeria could achieve its desired objectives if the following recommendations are implemented: The Central Bank of Nigeria should permanently discontinue production of large denomination bank notes like the 1,000 naira notes and the 500 naira note. This policy will make it more difficult for corrupt judicial officers to smuggle significant amounts of cash out of Nigeria. The Constitution of the Federal Republic of Nigeria should be amended to allow ordinary citizens to participate in the criminal justice system. The jury system will speed up corruption trials, reduce bias, corrupt inducement of judges and enhance administration of justice in Nigeria. Statutes and civil procedure rules should require lawyers to certify “after reasonable enquiry” that motions have not been interposed for delay. As most courts experience high rates of adjournment because of medical illness, the adjournment policy of the National Judicial Council of Nigeria should be amended to require a doctors’ certificate and, if necessary, require the doctor to appear, with costs met by the lawyer. The National Judicial Council of Nigeria should be constitutionally mandated to provide the Attorney General of the Federation with a copy of any petition filed against a judicial officer by a member of the public. Research limitations/implications: This paper focuses on the new anti-corruption policy of the National Judicial Council of Nigeria. It does not address the older policies. Originality/value: This paper offers a critical analysis of the new anti-corruption policy of the National Judicial Council of Nigeria. The paper will provide recommendations on how the policy could be strengthened. This is the only paper to adopt this kind of approach. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

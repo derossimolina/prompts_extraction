@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0602-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Origin of the Russian Banking System From 1991 to 1995; [Рождение банковской системы в Российской Федерации в 1991–1995 годах]",
+    "authors": "Baydakov I.M.",
+    "year": "2023",
+    "doi": "10.18288/1994-5124-2023-4-36-57",
+    "abstract": "The article provides a history of Russia’s modern banking sector. Russia has stabilized after a great many socio-economic and socio-cultural transformations, and the time is apt for a historical treatment of the topic. The author analyzes the development of the banking system from its beginnings during perestroika when the first commercial banks appeared in the Russian Federation. The formation of the Russian State Bank in July 1991 initiated the first stage of development, which ended in late 1995 when the banking community was able to recover from Russia’s first systemic banking crisis and adapt to market realities. The article identifies and analyzes the distinctive features of the banking sector during the first stage of its formation. Before perestroika, the main task of the Soviet Union’s single-tier banking system was to arrange financing for the economy and supervise budgetary spending and estimates. Even during its early stages the Russian banking system began to coalesce into two tiers as banks were exposed to market conditions, gained experience in commercial credit, and dealt in market-based financial instruments. When the Soviet Union collapsed, there were 869 banking organizations operating in Russia, and these provided a basis for structuring the banking sector during the next stage of the economy. After 1991 the country had to meet the challenge of detaching the economy of the RSFSR from the post-Soviet republics, rebuilding a system for mutual settlements in a national economy disrupted by crisis, and finding ways to regulate the banking sector and make it more reliable. © (2023). All Rights Reserved.",
+    "source": "Ekonomicheskaya Politika"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

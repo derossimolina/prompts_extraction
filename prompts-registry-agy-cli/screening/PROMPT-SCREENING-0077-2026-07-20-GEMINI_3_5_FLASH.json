@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0077-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An assessment of convicted cryptocurrency fraudsters",
+    "authors": "Garba K.H.; Lazarus S.; Button M.",
+    "year": "2026",
+    "doi": "10.1080/10345329.2024.2403294",
+    "abstract": "We examine cryptocurrency fraud cases prosecuted by Nigeria's Economic and Financial Crimes Commission (EFCC). We considered the lens of the Space Transition Theory (STT) in exploring the dynamics of these digital crimes. Our data analysis reveals common types of fraud, including cryptocurrency investment schemes. The results show an exclusive male demographic (100%), with the majority under 30 years old and only a quarter possessing a degree, providing insights into the socio-demographic characteristics of cryptocurrency fraudsters. Additionally, while most fraudsters (55%) targeted victims in the United States, Bitcoin, leveraging blockchain technology, was the most commonly used method (46%) for cryptocurrency fraud. Our examination of the methods and mediums used for cryptocurrency fraud supports some aspects of STT, while others do not. We advocate for a multifaceted strategy that prioritises stringent regulation, implementation, and heightened scrutiny of digital currency ecosystems in Nigeria and beyond. This study contributes to the broader discourse on cybercrime prevention and enforcement by emphasising the novel methodological approach utilised. © 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Current Issues in Criminal Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

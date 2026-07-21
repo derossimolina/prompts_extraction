@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0071-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The APUNCAC Strategy to Counter DPRK Sanctions Evasion",
+    "authors": "Yeh S.S.",
+    "year": "2026",
+    "doi": "10.3390/laws15010009",
+    "abstract": "Transnational organized criminal groups operate in ways that are resistant to prosecution. In response, a proposed change in domestic law would aim to ensnare front men who serve to hide the identities of criminals, enabling prosecutors to flip them via cooperation agreements, thereby unraveling transnational criminal schemes. The proposal would require the ultimate beneficial sender, and ultimate beneficial recipient, to certify beneficial ownership (as sender and recipient) when funds are transacted in amounts exceeding USD 3000; and would require foreign financial institution personnel, who handle transactions with a nexus to a party to the Rule, to collect and submit, to a central law enforcement database, certifications by the ultimate beneficial sender and recipient of covered funds that are deposited, transmitted, transferred, or paid. Analysis of the proposed change in law indicates that it may be effective in addressing the impunity that prevails when organized criminal groups operate in China and North Korea in ways that appear to be outside the reach of domestic U.S. law enforcement authorities. © 2026 by the author.",
+    "source": "Laws"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

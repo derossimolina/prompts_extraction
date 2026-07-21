@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0625-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Merchant bankers and kinship networks. Cienfuegos, 1880-1920; [Comerciantes banqueros y redes de parentesco. Cienfuegos 1880-1920]",
+    "authors": "Sánchez S.G.; Moya Padilla N.E.",
+    "year": "2023",
+    "doi": "10.5565/rev/redes.966",
+    "abstract": "The present investigation analyzes the structure of the social networks created by the merchant bankers in Cienfuegos between 1880 and 1920, a group of relevance for the Cuban socioeconomic context of the time. The theory of the social networks contemplates to the actors and its actions as interdependent, to the knots or relationships like vehicles of transfer of resources and to the structures of relationships as environments that provide opportunities, or they coerce the individual action. The analysis of social networks (ARS) as a methodology used allows to explain the connections between actors and the influence of these in the behavior or knowledge. Being the object of the investigation the structure of the kinship networks of merchant bankers in Cienfuegos between 1880 and 1920. The study presents as main results that, the structuring of the nets, by means of the agreement of advantageous matrimonial alliances, influenced in the conversion of the merchant bankers in members of the regional elite and in its behavior like one of the main financial agents of the time, with influences in the mercantile, industrial sectors and of the services to regional and national scales. © The Author(s) 2023.",
+    "source": "REDES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

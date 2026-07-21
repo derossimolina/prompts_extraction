@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2451-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "State capture and development: a conceptual framework",
+    "authors": "Dávid-Barrett, E",
+    "year": "2023",
+    "doi": "10.1057/s41268-023-00290-6",
+    "abstract": "This article argues that the concept of state capture helps to structure our understanding of patterns of grand corruption seen around the world in varied contexts, and increasingly even in countries once regarded as secure democracies. This article seeks to lay the groundwork for future empirical research into state capture in three areas. First, it situates the concept within a wider literature on corruption and describes how it relates to other similar terms, including regulatory capture and kleptocracy. Second, it elaborates on three pillars of activity that are subject to capture, and a variety of mechanisms through which state capture occurs. This provides a structure for the gathering of evidence on how capture plays out in different cases, and raises questions about the interactions among mechanisms and variation in sequencing. Third, the paper considers the impact of state capture on economic and social development, by outlining the ways in which it skews the distribution of power and potential long-term consequences for the allocation of rights and resources.",
+    "source": "JOURNAL OF INTERNATIONAL RELATIONS AND DEVELOPMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

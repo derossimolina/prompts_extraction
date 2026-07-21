@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0370-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dissecting the post-investigation actions on money mule cases in banking financial crime compliance",
+    "authors": "Abdul Rani M.I.; Syed Mustapha Nazri S.N.F.; Zolkaflil S.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-06-2025-0105",
+    "abstract": "Purpose – This paper aims to illuminate actions to be executed by the bank’s financial crime compliance department on suspected money mules. Design/methodology/approach – This paper outlines the actions by collecting facts from existing literature review, reports and news on money mule. Findings – Money mule phenomenon is a threat to the financial system. The irresponsible actions by money mules allow illicit funds to pass through the banks, resulting in money trail dissemblance and prevent detection. The banks must not extend their services to money mules, and actions of suspicious transaction report filing, exit relationship, watchlisting, police report and interbank intelligence exchange should be initiated. Originality/value – This paper presents mandatory actions to be taken by financial crime compliance department after completion of money mule investigation by anti-money laundering analyst. This study will be beneficial for future money mule researchers, enforcement agencies and practitioners in the banking industry. © 2025 Emerald Publishing Limited",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

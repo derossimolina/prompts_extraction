@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1194-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Identifying new and structuring existing organizational and technological approaches to managing the engineering preparation cycle for construction & Investment projects; [ОПРЕДЕЛЕНИЕ НОВЫХ И СТРУКТУРИРОВАНИЕ СУЩЕСТВУЮЩИХ ОРГАНИЗАЦИОННО-ТЕХНОЛОГИЧЕСКИХ ПОДХОДОВ ПО УПРАВЛЕНИЮ ЦИКЛОМ ИНЖЕНЕРНОЙ ПОДГОТОВКИ ИНВЕСТИЦИОННО-СТРОИТЕЛЬНОГО ПРОЕКТА]; [ВИЗНАЧЕННЯ НОВИХ ТА СТРУКТУРУВАННЯ НАЯВНИХ ОРГАНІЗАЦІЙНО-ТЕХНОЛОГІЧНИХ ПІДХОДІВ З УПРАВЛІННЯ ЦИКЛОМ ІНЖЕНЕРНОЇ ПІДГОТОВКИ БУДІВЕЛЬНО-ІНВЕСТИЦІЙНОГО ПРОЕКТУ]",
+    "authors": "Tugaj A.; Shebek N.; Dubynka O.",
+    "year": "2019",
+    "doi": "10.15407/scine15.02.94",
+    "abstract": "Introduction. The development of construction industry in the country, its technological and production components require a careful approach to the organization and management issues of investment construction projects by building advanced models of interaction among construction process stakeholders. Problem Statement. Almost whole of real estate development is realized within the framework of construction & investment projects. Inasmuch as these projects are directly related to both the development of residential real estate segment and the technological process of construction works, their structure needs to be divided into the organizational and the production components. Purpose. To consider the organizational and managerial structure of the construction process at the engineering preparation stage of construction & investment project in the sphere of residential real estate, to identify the main goals and functions of the project stakeholders. Materials and Methods. Systematic method for studying the design solutions of residential real estate projects using innovative design and engineering technologies for the development and implementation of construction works cycle. Results. The analysis of existing residential development projects and new construction projects has shown that the efficiency of construction projects is secured by timely and coordinated decision-making on fundamental issues at each organizational and managerial level even at the stage of engineering preparation of construction project. Conclusions. Research and ongoing monitoring of real estate construction development have indicated the need to determine an optimal model for the effective implementation of construction & investment projects through the use of specific tools for financing, managing, organizing, and monitoring the implementation of construction & investment projects. The structure of this model shall be scientifically justified. © TUGAJ, A., SHEBEK, N., and DUBYNKA, O., 2019",
+    "source": "Science and Innovation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1289-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Examining the dynamics of SER evolution: an institutional understanding",
+    "authors": "Contrafatto M.; Costa E.; Pesci C.",
+    "year": "2019",
+    "doi": "10.1108/AAAJ-07-2017-3044",
+    "abstract": "Purpose: The purpose of this paper is to provide a theoretically informed analysis of social and environmental reporting (SER) evolution, i.e. how and why the SER evolved over time in a cooperative bank in Italy. Design/methodology/approach: The paper is based on a qualitative fieldwork case study conducted from 2011 to 2015. Information and data were collected through several methods including: interviews with managers involved in the SER’s process; analysis of the SER-related documents; analysis of the website; and observations in the field. The analysis of the empirical evidence draws on the institutional logic (IL) perspective, which provides theoretical insights to interpret the role of the contrasting institutional forces in the evolution of SER. Findings: The empirical analysis unveils three different stages in the evolution of SER: the “birth” whereby a new form of social reporting was initiated; the “development” through which SER was implemented to become a formal component of the organizational management; and the “de-structuring” when the SER was gradually de-composed. This gradual de-structuring, as well as the initiation and implementation processes, was influenced by different institutionally infused rationalities and logics. These institutionally infused rationalities and logics, along with the specific organizational and contextual events, provided the resources, and created the space and opportunity, for the SER-related changes to occur. Originality/value: The analysis offers theoretical insights to understand “how” (i.e. processes) and “why” (i.e. the conditions under which) SER gradually evolved, i.e. emerged, was constructed and developed during the phases of implementation and post-implementation. Furthermore, it is shown that SER is multifunctional in nature and unveils how and why these multiple functions change over time. Finally, the analysis provides a theoretical contribution by illuminating the role that different and contrasting ILs play in driving the adoption of organizational practices. © 2019, Emerald Publishing Limited.",
+    "source": "Accounting, Auditing and Accountability Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

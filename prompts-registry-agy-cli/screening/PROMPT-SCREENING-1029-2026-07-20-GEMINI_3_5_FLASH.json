@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1029-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Who adopts crypto assets in Japan? Evidence from the 2019 financial literacy survey",
+    "authors": "Fujiki H.",
+    "year": "2020",
+    "doi": "10.1016/j.jjie.2020.101107",
+    "abstract": "The adoption of crypto assets has been of great concern to policymakers ever since Facebook announced its proposed cryptocurrency, Libra, in mid-2019. Behind this concern lies the possibility of widespread Libra adoption for day-to-day transactions, bringing with it a set of serious risks related to money laundering, illicit financing, and consumer and investor protection. This study first investigates the variables that distinguish Japanese crypto-asset owners from nonowners, then investigates the variables that distinguish the owners belonging to each group from the rest of the owners. The second investigation focuses on four groups: owners’ level of understanding of crypto assets, the profitability of their investment in crypto assets, their holdings of conventional risky financial assets, and their adoption of noncash payment methods. In addition to the usual demographic variables, financial literacy, financial behavior, conventional risky financial asset holdings, and use of noncash payment methods are also investigated. Both probit models and multinomial logit models are estimated and two results are obtained. First, 35 variables distinguish average Japanese crypto-asset owners from nonowners. Owners are more likely to be male, aged below 30 years, have higher pretax income, work in private or public companies, or be self-employed, and be graduate-school graduates compared with nonowners. Owners tend to have higher financial literacy from two perspectives: a measure of objective financial literacy and the experience of financial education at school, and lower financial literacy from three perspectives: the experience of financial education about money management by parents at home, experience of financial troubles, and knowledge about credit cards, than average nonowners. Regarding financial behavior, owners tend to be overconfident about their financial literacy, impatient, judge based on reputation in selecting financial products, lack self-control, and less risk-averse than nonowners. Owners tend to have experience investing in conventional risky financial assets and to use noncash payment methods. Second, 40–60% of variables that statistically significantly distinguish between the average owners and nonowners also differentiate the owners belonging to three of the four groups (excluded is the group that uses noncash payment methods) from the owners not belonging to the groups. These results suggest that policies for crypto-asset owners, if ever implemented, should not only consider the average owner's characteristics, but also owners’ heterogeneity. © 2020 The Author(s)",
+    "source": "Journal of the Japanese and International Economies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

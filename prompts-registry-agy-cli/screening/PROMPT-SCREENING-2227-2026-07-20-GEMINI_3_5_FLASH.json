@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2227-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organised crime and networking economy&colon; models, features, dynamics and related approaches",
+    "authors": "Nardo M.",
+    "year": "2008",
+    "doi": "10.1108/13685200810867483",
+    "abstract": "PurposeThe purpose of this paper is to analyse more in depth the vision which is behind this formula of &ldquo;organised crime&rdquo; exploring to what extent it affects the interpretation and understanding of the phenomenon it designates, in its internal structure and relationships, its cause&hyphen;effect processes, and the answering strategies that have been developed in this regard. The differences that an alternative vision would entail for such answering strategies are discussed. Design&sol;methodology&sol;approachThe use of metaphors in the epistemic process is preliminarily explored, since it engenders a mode of thinking and of conceiving, which set the grounds of the way in which we understand things. The traditional notion of &ldquo;organised &lpar;economic&rpar; crime&rdquo; is considered comparatively with interactions between market players in their different shapes and formulas. FindingsThe vision on how financial crime dynamics crosses the financial system might have to be somewhat revisited. A different interpretation of the criminal world might give account of its structure and functioning processes and possibly also explaining some aspect that the former formula finds harder to clarify. Legal and illegal &lpar;or semi&hyphen;legal&rpar; services markets frequently overlap, especially in the ideal settings provided by grey economy, wherever and to whatever extent it exists. Research limitations&sol;implicationsAn alternative vision is sketched and explored, which more extended research might further investigate and assess. According to such vision, what we often see as the assumption of specific roles within some organisations, or as an alliance among separate criminal entities, may appear in a market perspective just as a trade between the supply of specific illegal goods or services that may be offered by the various players present in the market, and a payment of some sort. The existence of the need, or opportunity, on part of the buyer or of the supplier is more decisive an element than the organisational factor for the transaction to occur. This is particularly crucial in the field of white collar crime, where both the product and the traders appear to be respectable in principle. Practical implicationsIf criminal phenomena follow more a market than an organisational model, the remedies will have to include transparency much more than control. Supervising free markets mainly means conditioning their routes, by opposing and removing the potential for illicit action and conditions or opportunities which may foster collusion between legal and less&hyphen;than&hyphen;legal segments, and by encouraging law&hyphen;abiding behaviour and information symmetry. Appropriate incentives may also introduce higher levels of transparency in the grey economy. Originality&sol;valueIt is possible that the market perspective may allow better understanding of the underworld of illegal and criminal behaviour, and to deploy more effective action. In so far as the paper analysis is reasonably grounded, this appears to be the best way to achieve full effectiveness in the fight against organised crime and its pervasive threat. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

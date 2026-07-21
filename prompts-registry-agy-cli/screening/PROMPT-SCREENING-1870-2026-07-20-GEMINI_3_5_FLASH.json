@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1870-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hawala and money laundering&colon; a Malaysian perspective",
+    "authors": "Shanmugam B.",
+    "year": "2005",
+    "doi": "10.1108/13685200510621181",
+    "abstract": "Defines &ldquo;Hawala&rdquo; as an Arabic word meaning &ldquo;change&rdquo; or &ldquo;transform&rdquo;. Describes it as a system which goes back to 11th century India and allows money to be transferred around the globe without actual money movement or wire transfers, depending on a system of family, clan or ethnic connections. Outlines the benefits of hawala remittance as its cost effectiveness, reliability, efficiency, speed, and convenience for foreign workers who may be semi&hyphen;illiterate and certainly not familiar with formal banking systems. Relates this to actual hawala money changers in Malaysia&rsquo;s Klang Valley, who provided the information for this article, and to the potential of the hawala system to facilitate money laundering and, ultimately, terrorism. Reports that Malaysia is a country named by the Pentagon as a country in which terrorists launder funds, and that it has implemented focused and wideranging measures to combat this menace. © 2004, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

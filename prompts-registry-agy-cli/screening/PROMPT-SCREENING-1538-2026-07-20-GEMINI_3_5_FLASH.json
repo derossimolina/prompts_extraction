@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1538-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of money laundering on economic and financial stability and on political development in developing countries: The case of Nigeria",
+    "authors": "Aluko A.; Bagheri M.",
+    "year": "2012",
+    "doi": "10.1108/13685201211266024",
+    "abstract": "PurposeMoney laundering is indeed a global phenomenon which undermines the economic and political stabilities of States. However, as much as money laundering is a global phenomenon, over the last decade, it has been apparent that development countries have been more exposed and vulnerable to its exploits. Thus, the purpose of this paper is to evaluate, specifically, the impact of money laundering on economic development, financial stability and also political development of &ldquo;developing countries&rdquo;. Hence, the aim and purpose of the paper is to deeply analyse the immense scale, concise effect and impact of the phenomenon of money laundering that hinders economic and political growth in developing countries in contrast to the developed countries. The paper also intends to examine the above issues in the context of Nigeria as a developing country. Design&sol;methodology&sol;approachIn developing this paper, emphasis was placed on primary sources of information and references to secondary sources of information where relevant. Therefore, the methodology employed in this paper is analytical and based on the facts reflected in the secondary sources and also legal and socio&hyphen;economic analyses of money laundering phenomenon. FindingsThe phenomenon of money laundering, amongst other economic and financial crimes have had better success in infiltrating into the economic and political structures of most developing countries therefore resulting to economic digression and political instability. Although, developing countries have responded and continue to respond, through legislative measures, to the menace of money laundering, at national level, however, money launderers, have exploited the lax regulatory environment, vulnerable financial systems along with persistence civil and political unrest of most the developing countries. The findings of the paper also highlight the relationship between corruption and money laundering in developing countries. Originality&sol;valueThe paper is very unique in its approach as it combines legal analyses with social philosophy or combating money laundering and from a perspective of law of development both at the national and international levels, it focuses on the negative impacts of money laundering on the development of developing countries such as Nigeria. © 2012, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

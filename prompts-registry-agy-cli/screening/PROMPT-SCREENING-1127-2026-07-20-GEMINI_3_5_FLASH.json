@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1127-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and bank risk: Evidence from U.S. banks",
+    "authors": "Altunbaş Y.; Thornton J.; Uymaz Y.",
+    "year": "2021",
+    "doi": "10.1002/ijfe.2044",
+    "abstract": "We test for a link between bank risk and enforcements issued by U.S. regulators against banks for money laundering (ML) in a sample of 960 publicly listed U.S. banks over 2004–2015. ML-related enforcements are associated with increased bank risk on several measures of risk with the result robust to a variety of estimation methodologies. Moreover, the impact of ML on bank risk is accentuated by the presence of powerful CEOs and only partly mitigated by large and independent executive boards. © 2020 John Wiley & Sons, Ltd.",
+    "source": "International Journal of Finance and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0678-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An Empirical Analysis of the Dynamics Influencing Bank Capital Structure in Africa",
+    "authors": "Obadire A.M.; Moyo V.; Munzhelele N.F.",
+    "year": "2023",
+    "doi": "10.3390/ijfs11040127",
+    "abstract": "Financial institutions, particularly banks, have long grappled with the dilemma of structuring their capital optimally. This process, commonly referred to as capital structure decision-making, is of paramount importance, especially within the financial services sector, where strict regulations are imposed by reserve and central banks in alignment with global Basel guidelines. This study unveils the key factors that determine the capital structure choices of African banks, using panel data encompassing 45 listed banks across six nations that had embraced the Basel III Accord spanning the years 2010 to 2019. The study used the system-generalised moment methods (sys-GMM) estimator to fit the formulated panel data regression model. The study findings showed positive associations between ZSCORE, an indicator of bank financial stability, and net interest margin ratio (NIMR) with bank leverage (TCTE). In addition, the results revealed positive correlations between earnings volatility (EV), profitability (P), and risk (R) with bank leverage (TDCE). This suggests that profitable banks are inclined to favour debt financing, a phenomenon driven by their ability to comfortably service debt obligations with free cash flows. This study’s overarching conclusion underscores the dominant influence of the Liquidity Coverage Ratio (LCR) on African bank capital structures. Whether assessing traditional or Basel III-prescribed measures of bank leverage, LCR consistently emerged as the primary determinant. This finding is of significant relevance to bank executives and regulators, offering them essential insights for informed decision-making by considering striking a balance between equity and debt financing based on financial stability, profitability, and risk profiles. © 2023 by the authors.",
+    "source": "International Journal of Financial Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

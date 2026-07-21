@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2067-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From monetization to culture change",
+    "authors": "Scheidel W.",
+    "year": "2005",
+    "doi": "10.1017/S1380203805241624",
+    "abstract": "Aarts's argument revolves around three binaries: formalist and substantivist approaches to the study of the ancient economy, narrow economy-centered and broader culture-centered assessments of money use, and long-term and short-term transactional orders. Binary opposites play a critical role in our construction of the world, and consequently provide potent rhetorical tools for structuring an argument and especially for demarcating the novel and imaginative from the old and staid. At the same time, while this arrangement helps to define ideal types, it also runs the risk of obscuring what the debate is really about. © 2005 Cambridge University Press.",
+    "source": "Archaeological Dialogues"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

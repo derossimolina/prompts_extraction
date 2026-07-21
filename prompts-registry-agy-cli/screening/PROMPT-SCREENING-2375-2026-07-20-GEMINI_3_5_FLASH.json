@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2375-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Current Status And Prospects Of Anti-Money Laundering In Digital Economy",
+    "authors": "Reznik, OM; Danylevska, YO; Steblianko, AV; Chekmarova, IM; Karelin, VV",
+    "year": "2020",
+    "doi": "10.5377/reice.v8i15.9962",
+    "abstract": "The relevance of the article is determined by the need to study money laundering in the digital economy since the gradual transition of the state economy to a digital format, including the emergence of electronic money, the spread of electronic banking and the use of other information technologies, leads to the emergence of new methods and schemes for money laundering, which requires the simultaneous identification of contemporary risks of counteracting this type of crime and the search for ways of improving such activity. The purpose of the article is to study the current status and to search for ways to improve the fight against money laundering in the digital economy. Abstract logical, comparative legal methods and critical analysis were used to achieve this goal. It has been found that advances brought by the digital economy were profitable tools for money laundering. The negative consequences of money laundering have been discussed, which updates the task of finding optimal areas for counteraction. It is concluded that such areas are as follows: improving the IT infrastructure of banks, establishing relationships between banks and law enforcement agencies, preventing cybercrime, improving the financial monitoring system, ensuring the interaction of financial monitoring entities and law enforcement agencies. The conclusions and provisions set forth in the article are aimed at improving state policy in the field of combating money laundering, taking into account the challenges of the digital economy.",
+    "source": "REICE-REVISTA ELECTRONICA DE INVESTIGACION EN CIENCIAS ECONOMICAS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

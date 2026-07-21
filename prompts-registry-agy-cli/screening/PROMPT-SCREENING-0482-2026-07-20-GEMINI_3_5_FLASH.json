@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0482-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How frontline states tackle sanctions against Russia: Implementation and enforcement dynamics in Poland and the Baltics",
+    "authors": "McNaughton K.J.; Łukowski M.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2025.100130",
+    "abstract": "Russia's invasion of Ukraine in February 2022, reshaped the EU's security landscape, prompting sanctions aimed at weakening Russia's war capabilities. These sanctions also redefined the roles of public authorities and the private sector, introducing new challenges in a shifting geopolitical context. Public authorities, including financial intelligence units, customs, state security agencies, law-enforcement agencies, etc., must identify, prevent, and investigate sanctions evasion and circumvention. This requires robust legal frameworks, adequate resources, and expertise in sanctions evasion typologies. Similarly, businesses and financial institutions operate in legal ambiguity, often asking, “Who am I dealing with in this transaction?”, as they navigate complex compliance requirements. Both the public and private sectors need a strong framework for domestic and cross-border sharing of financial intelligence, trade data, and knowledge of sanctions evasion typologies, as well as insight into the corporate structures of sanctioned entities. However, the EU's decentralized approach of independently designed national enforcement models may hamper cooperation and cross-border financial intelligence sharing. This paper examines how Poland, Lithuania, Latvia, and Estonia that are post-Warsaw Pact EU countries bordering Russia, implement and enforce those sanctions. It explores who “does what” and whether national authorities are adapting their modi operandi to enforce sanctions effectively. The findings reveal distinct national approaches. Latvia's FIU became Europe's first sanctions authority, integrating intelligence and enforcement functions. Estonia's FIU plays a significant role but shares responsibilities with other agencies. Lithuania's FIU adopts a collaborative model, leveraging a public-private partnership with the Center of Excellence in Anti-Money Laundering. Poland has a fragmented enforcement structure and regulatory framework but is unique in implementing its own autonomous sanctions. © 2025 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

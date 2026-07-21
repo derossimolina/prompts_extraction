@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1308-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Those who control the code control the rules: How different perspectives of privacy are being written into the code of blockchain systems",
+    "authors": "Renwick R.; Gleasure R.",
+    "year": "2021",
+    "doi": "10.1177/0268396220944406",
+    "abstract": "Blockchain systems afford new privacy capabilities. This threatens to create conflict, as different social groups involved in blockchain development often disagree on which capabilities specific systems should enact. This article adopts a boundary object perspective to make sense of disagreements between collaborating social worlds. We perform a case study of privacy attitudes among collaborating actors in Monero, a cryptocurrency community that emphasises privacy and decentralisation alongside a set of values sometimes described as anti-establishment, crypto-anarchist, and/or cypherpunk. The case study performs a series of interviews with users, developers, cryptographic researchers, corporate architects, and government regulators. Three novel and important findings emerge. The first is that none of the social worlds express a desire to monitor routine transactions, despite the obvious business and tax-collection value of such data. The second is that regulators are happy to postpone active involvement, based on the flawed assumption they can impose privacy-related regulation later, once risks have become clear. Such regulation may not be possible as protocols and rulesets currently being coded into the system may be impossible to amend in the future (unless they can obtain either developer or network consensus). The third is that regulators assume methods for overseeing extraordinary transaction are necessary to avoid widespread, near-effortless money laundering. Yet, each of the other social worlds is operating under the assumption that this trade-off has already been accepted. These findings demonstrate subtle power transitions and changes in privacy attitudes that have implications for research on blockchain, management, and boundary objects in general. © Association for Information Technology Trust 2020.",
+    "source": "Journal of Information Technology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

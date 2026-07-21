@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1295-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Choice of law for property issues regarding Bitcoin under English law",
+    "authors": "Ng M.",
+    "year": "2019",
+    "doi": "10.1080/17441048.2019.1649235",
+    "abstract": "The dominant recent legal discourse concerning Bitcoin and later virtual currencies has been focused on regulatory issues such as anti-money laundering and financial and securities regulation. By contrast, scant attention has been given to the intersection between the uses of Bitcoin and commercial law even as its popularity has grown as both an asset class and as a means of payment for goods and services. In determining the commercial law consequences of transactions involving Bitcoin, the likely cross-border nature of Bitcoin-related transactions will give rise to choice of law issues which may have a determinative effect on a given dispute. Commercial disputes involving virtual currencies have already made their way into common law courts. This paper examines one of the most significant choice of law problems that arises–the law applicable to determine disputes concerning property in Bitcoins (and determining the situs of Bitcoins) through the lens of English conflict of laws. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Journal of Private International Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

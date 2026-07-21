@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0999-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dirty money in the banking sector",
+    "authors": "Al Sabri Halawi R.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-11-2018-0067",
+    "abstract": "Purpose: The purpose of this study is to analyze the Lebanese anti-money laundering (AML) paradigm in light of banking secrecy law. The phenomenon of money laundering that was first associated with the crime of drug trafficking developed a lot since the early 1900s to become a major threat to the world’s economy today. The fight against this ever-growing crime, with multiple sources and origins, has been the centre of attention of the biggest countries in the world. Thus, the need for international AML standards was required, by which countries must abide, to ensure an effective fight against this crime. The issue of banking secrecy regulations was important to study along with the AML framework as the principles of the first totally contradict those of the latter. Design/methodology/approach: The scope of this study first entails a qualitative technique. It will start with analysing existing legal provisions on money laundering and studying the AML framework internationally and in accordance with the Lebanese banking system. For that, websites such as GoogleScholar and HeinOnline were used to collect many scholars articles. Additionally, Laws, Regulations and Directives have been examined for the purpose of establishing the legal basis for the fight against money laundering. Moreover, an interview was conducted in 2018 with the Lebanese Financial Prosecutor, which served as data related to the operations of the Special Investigation Commission (SIC) in Lebanon, which is the Lebanese Financial Intelligence Unit. Second, quantitative research has been done. Reports of the Association of Banks in Lebanon, Financial Action Task Force Report and Annual Reports of the SIC of Lebanon have been used to gather information related to the AML/combating the financing of terrorism framework, such as customer due to diligence provisions and know-your-customer requirements and to collect statistics of suspicious reports. Findings: The question of “How to balance the confidentiality of the Lebanese banking sector with the interest of the international community in the fight against money laundering?” was interesting to study, as it turned out that the existence of such professional secrecy does not affect the effective implementation of the AML guidelines by banks and other financial institutions. This can only happen when there is a special judicial organ to which banking secrecy is not opposable at any time, and which is the sole organ entrusted with lifting off this professional secrecy and allowing the disclosure of information to the competent authorities. Thus, the Lebanese banking system can ensure total compliance with the AML framework while still adopting banking secrecy regulations. Originality/value: The choice of Lebanon was compelling because of the special level of protection its banking secrecy law offers. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0810-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combating money laundering with machine learning – applicability of supervised-learning algorithms at cryptocurrency exchanges",
+    "authors": "Pettersson Ruiz E.; Angelis J.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-09-2021-0106",
+    "abstract": "Purpose: This study aims to explore how to deanonymize cryptocurrency money launderers with the help of machine learning (ML). Money is laundered through cryptocurrencies by distributing funds to multiple accounts and then reexchanging the crypto back. This process of exchanging currencies is done through cryptocurrency exchanges. Current preventive efforts are outdated, and ML may provide novel ways to identify illicit currency movements. Hence, this study investigates ML applicability for combatting money laundering activities using cryptocurrency. Design/methodology/approach: Four supervised-learning algorithms were compared using the Bitcoin Elliptic Dataset. The method covered a quantitative analysis of the algorithmic performance, capturing differences in three key evaluation metrics of F1-scores, precision and recall. Two complementary qualitative interviews were performed at cryptocurrency exchanges to identify fit and applicability of the algorithms. Findings: The study results show that the current implemented ML tools for preventing money laundering at cryptocurrency exchanges are all too slow and need to be optimized for the task. The results also show that while not one single algorithm is most suitable for detecting transactions related to money-laundering, the specific applicability of the decision tree algorithm is most suitable for adoption by cryptocurrency exchanges. Originality/value: Given the growth of cryptocurrency use, this study explores the newly developed field of algorithmic tools to combat illicit currency movement, in particular in the growing arena of cryptocurrencies. The study results provide new insights into the applicability of ML as a tool to combat money laundering using cryptocurrency exchanges. © 2021, Eric Pettersson Ruiz and Jannis Angelis.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

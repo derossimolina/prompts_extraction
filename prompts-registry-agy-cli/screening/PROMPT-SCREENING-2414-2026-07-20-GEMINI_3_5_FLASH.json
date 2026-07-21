@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2414-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "PROBLEMS OF JUDICIAL INTERPRETATION OF SIGNS OF LEGALIZATION (LAUNDERING) OF MONEY OR OTHER PROPERTY ACQUIRED BY CRIMINAL MEANS",
+    "authors": "Boyarskaya, AV",
+    "year": "2019",
+    "doi": "10.24147/2542-1514.2019.3(2).105-113",
+    "abstract": "The subject. The article is devoted to analysis of the crime - laundering of money or other property obtained by criminal means, - punished by Art. 174, 174.1 of the Russian Criminal Code. The purpose of the article is to confirm or disprove hypothesis that the current Supreme Court's official legal interpretation of the rules on the laundering of criminal incomes is too narrow; this interpretation is based on a distorted understanding of the objectives of the analyzed criminal acts. The main results and scope of their application. According to judicial practice of the Supreme Court of the Russian Federation, firstly, when the money obtained by illicit trafficking of narcotic drugs were cashed by accused person using electronic payment systems, bank accounts or debit cards, and subsequently were spent there is no corpus delicti of money laundering. Secondly, the corpus delicti of money laundering exists in cases when money obtained by criminal means, are invested to capital stock or companies, to a bank deposit, to purchase of income-generating assets, goods or property. Conclusions. The specificity of the situation with criminal responsibility for the legalization of criminal incomes is in the fact that it is possible to use criminal income for personal needs for the purchase of luxury goods directly and without legalization due to the lack of control over the citizens expenditures in the Russian Federation. So direct disposal and personal use of property obtained during a crime by criminal in his own needs should not be qualified under Art. 174, 174.1 of the Russian Criminal Code as money laundering if the purpose of concealing the criminal nature of assets was not proven. However, when making financial transactions or other transactions designed to disguise the criminal source of income, the intention of criminal to spend them on personal needs should not exclude the application of the analyzed norms of criminal law.",
+    "source": "PRAVOPRIMENENIE-LAW ENFORCEMENT REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

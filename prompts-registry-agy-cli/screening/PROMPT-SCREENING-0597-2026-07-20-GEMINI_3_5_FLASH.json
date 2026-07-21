@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0597-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dimensions and Cartography of Dirty Money in Developing Countries: Tripping Up on the Global Hydra",
+    "authors": "Madrueño R.; Silberberger M.",
+    "year": "2022",
+    "doi": "10.17645/pag.v10i2.4887",
+    "abstract": "This article aims to analyze the challenges posed by the illicit financial flows (IFFs) that emerged from the consolidation and globalization of financial markets and the persistent and rising inequality of wealth and income. In a first step, we show the key dimensions behind IFFs (governance, trade, finance, taxation, monetary), which affect the multilateral order and promote new relations of dependence between the Global North and the Global South. In a second step, we analyze the cartographic representation of the developing world regarding the challenges posed by IFFs. We argue that IFFs are a subproduct of inefficient international policies and multilateral regulatory frameworks that have decreased the scope of action of nation‐states and reduced the incentives for them to cooperate in certain areas of financial markets and global governance, such as international cooperation on tax and IFFs. In the article, we examine the multidimensionality of IFFs through multivariate techniques. More specifically, we use factor and cluster analysis methods based on the most recent information available between 2015 and 2020. Factor analysis reveals four main components behind this global problem: governance issues, foreign direct investment and trade‐related issues, bank stability, and taxation. A clustering hierarchical solution provides four clusters of developing countries, in terms of phantom investment and trade misinvoicing, revealing the heterogeneous composition and shortcomings of the Global South. These results help understand the complexities behind IFFs and highlight the relevance of tailored actions to promote a more effective global governance system. © 2022 by the author(s).",
+    "source": "Politics and Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0844-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering in Ethiopia: an analysis of typologies and techniques",
+    "authors": "Gobena M.A.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-03-2022-0053",
+    "abstract": "Purpose: The purpose of this study is to identify money laundering typologies and techniques in Ethiopia. Design/methodology/approach: This is a descriptive study that relies on primary data generated from interviewees drawn from the Ethiopian Financial Intelligence Center, Ethiopian Customs Commission, selected commercial banks and law enforcement agencies, as well as secondary data from government reports, media press, statutes and other online and offline sources. Findings: According to this study, criminals in Ethiopia used several laundering techniques, the most common of which are money laundering using financial institutions, trade-based money laundering, cash-based money laundering, money laundering through illegal hawala, shell companies, or anonymous beneficiaries. Criminals have recently been suspected of using financial technologies and virtual currencies to launder the proceeds of their illicit activities. The laundering strategies are extremely intertwined and their distinction remains highly blurred. Moreover, the typologies are operated transnationally, despite being highly tailored to Ethiopia’s political economy. Originality/value: This is one of the very few papers to date that provides the typologies and techniques of money laundering, specifically in the context of cash-intensive economies. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1851-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cleaning the laundry: States and the monitoring of the financial system",
+    "authors": "Sica V.",
+    "year": "2000",
+    "doi": "10.1177/03058298000290010801",
+    "abstract": "The current structure of the financial system has increased the private sector's capacity to overcome the state's regulatory capacity. Three notable and much discussed variants of the demise of the state's regulatory capacity thesis rely upon the structural power of capital, the effects of technology, and the decline of territoriality to argue that states are losing their rule making, and hence political, authority over the financial system. In contrast, national and international efforts to prevent money laundering provide empirical evidence of states regulating financial intermediaries to achieve political goals. This paper uses the anti-money laundering regime to demonstrate that key Western states continue to be able to use their authority over financial intermediaries that operate on or through their territory to regulate national and international financial behaviour. © Millennium: Journal of International Studies, 2000.",
+    "source": "Millenium"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

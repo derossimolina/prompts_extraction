@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2561-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CONTRACTUAL PRACTICE AND M&A TRANSACTIONS",
+    "authors": "Vetter, J",
+    "year": "2018",
+    "doi": "10.1628/rabelsz-2018-0003",
+    "abstract": "The article describes the role of M&A lawyers in, and the limited influence of national legislators, judges and professors on, private M&A transactions. The practical work of M&A lawyers entails far more than simply drafting the relevant M&A contracts; they provide the legal framework for the whole sale process. Neither the applicable law nor the legislator is of particular importance for M&A contracts or for the process of structuring a deal. This is primarily due to the variety of market participants and the breadth of M&A practice, which make efforts of a national legislator to provide a suitable legal framework seem futile. The creation of legal certainty, legal harmonization and the development of legislative interpretation by judges has no practical relevance in M&A. Besides the general benefits of arbitral jurisdiction (professional expertise, confidentiality, timing), another advantage is seen in minimizing any risk that the results of the negotiations will subsequently be subject to judicial review on account of mandatory law. Academic research yields only limited input as to legal questions regarding details. Contractual drafting, deal structure and, in particular, techniques to overcome conflicts of interest are subject to legal research only in exceptional cases. The law applied to M&A contracts is therefore not developed by the legislator, state courts or academic research, but by those working on M&A in practice. M&A lawyers play an important role in contributing to that development. As engineers of party autonomy, it is their duty to set out the results of negotiations in a legal, reliable and practical way so as to ensure that their client's key points are regulated by the contract and, furthermore, to support the parties in finding creative solutions to any conflicts of interest. In doing this, M&A lawyers use reference works providing templates or legal explanations as tools far less than they utilize their experience from a great number of different transactions, knowledge of international deals and active collaboration with colleagues and consultants, in particular investment bankers and M&A advisers. In return, M&A practice has almost no influence on legislation or the development of the law by the judiciary.",
+    "source": "RABELS ZEITSCHRIFT FUR AUSLANDISCHES UND INTERNATIONALES PRIVATRECHT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2103-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Russia's anti&hyphen;money laundering regime&colon; law enforcement tool or instrument of domestic control&quest;",
+    "authors": "Orlova A.V.",
+    "year": "2008",
+    "doi": "10.1108/13685200810889371",
+    "abstract": "PurposeThe purpose of this paper is to cut through the rhetoric that shrouds Russia's anti&hyphen;money laundering regime to uncover the reality that lies beneath. Design&sol;methodology&sol;approachThis paper relies on both primary and secondary sources in Russian and English that deal with the problems of money laundering in the Russian context. Relevant sections of the Russian Criminal Code as well as Russia's anti&hyphen;money laundering regulations have been consulted. FindingsOverall, the Russian anti&hyphen;money laundering regime has thus far proved ineffective in terms of meeting its stated purposes of combating organized crime and terrorism. Its limited success stems largely from structural weaknesses in the Russian banking system as well as that industry's lack of a culture of regulatory compliance. Moreover, Russian authorities have opportunistically seized on the current anti&hyphen;money laundering regime as a useful tool in the pursuit of ends unconnected to the fight against organized crime and terrorism. The Russian authorities have used the regime to attempt to reform the banking system and to extend their strategic control in the domestic political and business realms. The ineffectiveness of the anti&hyphen;money laundering regulations and their usage to achieve ulterior aims undermine the legitimacy of the regime as a whole. Originality&sol;valueThe paper looks beyond the technical difficulties in applying the anti&hyphen;money laundering regulations and examines the misuses of the anti&hyphen;money laundering regime in the Russian context. However, the problems raised in the paper are not unique to Russia and have relevance to other jurisdictions, especially countries that are members of the Financial Action Task Force. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

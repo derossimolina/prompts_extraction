@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1150-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Shari’ah issues in islamic capital markets of Pakistan: A case study of sukūk",
+    "authors": "Hussain T.; Khalil M.N.",
+    "year": "2019",
+    "doi": "10.32350/jitc.91.06",
+    "abstract": "Islamic Capital Markets (ICM) are playing an important role in raising long term funds and thus playing their role in economic growth and development of a country. sukūk are important Islamic Capital Market instruments through which long term funds are obtained from general public. sukūk are certificates of equal value representing undivided shares in ownership of tangible assets, usufructs and services, or in the ownership of the assets of particular projects or special investment activities. sukūk market in Pakistan is regulated by the Securities and Exchange Commission of Pakistan (SECP). Despite the continuous growth of sukūk market in Pakistan, there are various Shari’ah issues which are still prevalent in the sukūk structures which need our attention in order to make the sukūk Shari’ah compliant in true spirit of Islam. The main objective of this paper to discuss and elaborate the various Shari’ah issues prevailing in Islamic Capital Markets of Pakistan, especially related to sukūk. It is argued that while structuring sukūk, the various features of conventional bonds are replicated while compromising the various Shari’ah injunctions. The current practices of various financial institutions are discussed and various Shari’ah issues related to different types of sukūk are identified and the point of view of various scholars on these issues is also discussed. The various Shari’ah issues related to sukūk which are identified in this article include purchase undertaking in equity based structures, late payment penalty upon default, ownership status in asset based transactions and trading of debt based sukūk. So this paper highlights the need for a balance between growth in the sukūk market and meeting the Shari’ah requirements while structuring sukūk. © 2019, University of Management and Technology. All rights reserved.",
+    "source": "Journal of Islamic Thought and Civilization"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

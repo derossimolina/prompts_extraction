@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2018-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Professional crime across the Finnish-Estonian border",
+    "authors": "Junninen M.; Aromaa K.",
+    "year": "2000",
+    "doi": "10.1023/A:1026587927790",
+    "abstract": "Activities of Finnish professional criminals across the Finnish-Estonian border in the 1990s are studied in the light of two types of data: Non-public intelligence records of Finnish police and customs, and expert interviews with Finnish and Estonian crime investigators and liaison officers. For practical purposes, professional crime is defined here as offences that are planned, involve considerable material values, and are sanctioned with imprisonment. The volume of crime taking place in the cross-border scene is assessed to be much larger than reported in public sources based on police-reported crimes and court verdicts. The largest groups of crimes involved have to do with the import of narcotics, alcohol, and cigarettes from Estonia to Finland, price differentials being the central driving force. The total profile of professional crime in this scene, however, involves a much broader scope of criminal activities, including even large-scale frauds where Finnish fraudsters have taken advantage of the good faith of Estonian banks and businessmen. The lifetime of the operations described mostly remains below one year. Many of the persons involved, however, do represent long and persistent careers. Their criminal operations are usually organised according to a project model rather than a stable organisation model. The authors recommend national police, customs and tax authorities to join forces and share intelligence for a fuller overall picture of the situation and for improved efficiency of control and prevention. Further, co-operation between Finnish and Estonian law enforcement agencies is judged to be in serious need of improvement, if the authorities sincerely wish to get to grips with the voluminous operations of professional offenders in this scene.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

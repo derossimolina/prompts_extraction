@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1403-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Compliance of Automatic Tax Fraud Detection Systems with the Right to Privacy Standards Based on the Polish Experience of the STIR System",
+    "authors": "Rojszczak M.",
+    "year": "2021",
+    "doi": "10.54648/taxi2021005",
+    "abstract": "According to the EC estimates presented in November 2018, the so-called VAT gap amounted to approximately EUR 150 billion with organized crime groups largely responsible for its creation. Therefore, it is not surprising that states, while protecting their economic interests, are implementing new measures aimed at detecting and preventing tax crime. Poland is also pursuing this type of activity, and a number of innovative measures in the field of tax law have been introduced over the last few years. One such solution is the automatic system of analysing transaction data from financial institutions (System Teleinformatyczny Izby Rozliczeniowej, STIR). The way this system works – combining the collection of enormous sets of personal data including sensitive information with confidential analytics and composing reports for tax authorities and law enforcement purposes – must raise doubts as to its compliance with human rights standards. In terms of its operation, STIR resembles electronic surveillance systems in other EU Member States; the difference is that, instead of capturing telecommunications data, it aggregates bulk amounts of information on financial transactions. The purpose of this article is to discuss the regulations that establish the legal framework of STIR and to present recommendations on how to ensure its compliance with the privacy and data protection model functioning in the EU. Special attention will be paid to assessing the proportionality and quality of legal safeguards implemented to limit the risk of abuse of power according to standards established in the case law of the European Court of Human Rights (ECtHR) and the Court of Justice of the European Union (CJEU). Conclusions drawn from this analysis are not only important from the perspective of the Polish legislature but are also relevant to other countries and EU institutions implementing systems similar to STIR that are interested in developing cooperation between Member States in the area of combatting tax fraud. © 2021. Kluwer Law International BV, The Netherlands. All Rights Reserved.",
+    "source": "Intertax"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

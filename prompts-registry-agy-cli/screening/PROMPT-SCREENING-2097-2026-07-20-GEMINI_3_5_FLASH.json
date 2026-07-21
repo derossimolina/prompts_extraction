@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2097-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Not only banks: Criminological models on the infiltration of public contracts by Italian organized crime",
+    "authors": "Caneppele S.; Calderoni F.; Martocchia S.",
+    "year": "2009",
+    "doi": "10.1108/13685200910951910",
+    "abstract": "PurposeThe paper aims at expanding knowledge on the presence of organized criminal groups in public contract procurement in the south of Italy. It seeks to highlight how the capabilities of law enforcement agencies could be enhanced by means of criminological models. Design/methodology/approachThe paper sets out a criminological model with which to assess the general and specific risks of the infiltration of public procurement in the south of Italy by organized crime (OC). FindingsAccording to the geographical risk assessment, infiltration by OC of public procurement seems to be widespread in some areas of south Italy, especially Sicily, Calabria and Campania. On the other hand, the specific risk may increase according to certain features of the company and its representatives, the value of the contract, the low specialization of the activities required by the public contract. Originality/valueThe paper describes a criminological model with which to assess the general and specific risk of infiltration by OC of public procurement in south Italy. © 2009, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

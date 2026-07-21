@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2309-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Closing The Front Door: Why Companies House Reform is Long Overdue - and How to Make Sure it Sticks",
+    "authors": "Gower, M",
+    "year": "2025",
+    "doi": "10.1017/S1472669625100856",
+    "abstract": "It's long been easier to set up a company in the UK than it is to open a bank account. That convenience has turned us into a magnet for fraudsters, shell companies and money laundering schemes. Now, finally, the door is starting to close. The Economic Crime and Corporate Transparency Act 2023 is about to overhaul one of the most porous systems in Europe. At its heart is mandatory identity verification for company directors and people with significant control. No more hiding behind nominee directors or fictitious names. You'll need to prove who you are before you get past the starting line. That's a seismic shift. But with added scrutiny comes added complexity - especially for firms used to handling company secretarial filings in-house. Enter Authorised Corporate Service Providers. ACSPs like ProSec are now stepping into the space, handling verification and filings on behalf of law firms and their clients. What was once a light admin task is fast becoming a regulated process that requires precision, expertise and trust. These changes will reshape the market. Some firms may struggle with the increased compliance burden, while others may see this as an opportunity to specialise and grow. This reform isn't just welcome - it's essential. But success depends on more than legislation. We need clear guidance, proper enforcement and reliable partners to keep the system clean. Here ProSec CEO Max Gower explains some of the key changes brought about by the Economic Crime and Corporate Transparency Act 2023, and the implications of it for those working in the corporate space.",
+    "source": "LEGAL INFORMATION MANAGEMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0288-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Profession of Bankruptcy Trustee in Russia: The Role of Debtor Type in Structuring the Community",
+    "authors": "Anfimova K.; Bondarkov S.; Bocharov T.; Kalinina E.; Chistyakova D.",
+    "year": "2025",
+    "doi": "10.17323/1726-3247-2025-4-83-120",
+    "abstract": "This article examines the profession of bankruptcy trustees in Russia and its stratification based on the type of debtor. For a long time, trustees were primarily dealing with business bankruptcies. However, the introduction of personal bankruptcy in 2015 substantially changed the landscape. This way of debt release has gained popularity among or-dinary citizens. However, these debtors in most cases lack assets from which trustees could derive their fees. In this study, we demonstrate how these specific features shape the professional community. Indeed, the social characteristics of trustees focusing on personal bankruptcy differ significantly. This niche has a higher proportion of women, residents of provincial regions, and early career trustees with limited experience. The remuneration in this field is considerably lower than in corporate cases. Consequently, the work patterns also differ: cases are frequently handled in a streamlined manner with fewer procedural actions. The research is located at the intersection of the sociology of profession, sociology of law and economic sociology. The empirical base consisted of disaggregated biographical data on all active bankruptcy trustees (more than 10 thousand specialists), data on bankruptcy procedures (more than 168 thousand cases), semi-structured interviews with current practitioners, as well as publications in professional me-dia. The analysis uses descriptive statistics and beta regression applied to the transformed share of corporate cases in the practice of a par-ticular bankruptcy trustee. The results offer a new perspective on the internal organization of the profession and contribute to the literature on horizontal labor segregation in legal professions. © 2025, National Research University Higher School of Economics (HSE University). All rights reserved.",
+    "source": "Ekonomicheskaya Sotsiologiya"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

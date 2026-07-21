@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2158-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering trends in South Africa",
+    "authors": "de Koker L.",
+    "year": "2003",
+    "doi": "10.1108/13685200310809383",
+    "abstract": "Reports a study by the Centre for the Study of Economic Crime at Rand Afrikaans University into the characteristics of money laundering schemes in South Africa&semi; these were discussed at a workshop on December 5 2001. Outlines the 1998 Proceeds of Crime Act &lpar;POCA&rpar;, the 1992 Drugs and Drug Trafficking Act and their general money laundering provisions, including negligence and intent, defence and penalties&semi; also the racketeering provisions of POCA. Moves on to the reporting of suspicious transactions, where the POCA provisions will be repealed by the new Financial Intelligence Centre Act &lpar;FICA&rpar;&semi; this covers general obligations, secrecy and confidentiality, penalties, preventing tipping&hyphen;off, and reporting statistics. Gives examples of the schemes themselves, which fall into broad themes&colon; purchase of goods and properties, abuse of businesses and financial institutions, cash and currency, and the informal sector&semi; case studies include S v Dustigar, Motsepe v Commissioner of Inland Revenue, S v Van Zyl, S v Caswell, and Director of Public Prosecutions&colon; Cape of Good Hope v Bathgate. © 2002, MCB UP Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

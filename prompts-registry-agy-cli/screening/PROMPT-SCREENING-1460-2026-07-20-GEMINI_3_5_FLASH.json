@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1460-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A fuzzy knowledge-based framework for risk assessment of residential real estate investments",
+    "authors": "Ribeiro M.I.F.; Ferreira F.A.F.; Jalali M.S.; Meidutė-Kavaliauskienė I.",
+    "year": "2017",
+    "doi": "10.3846/20294913.2016.1212742",
+    "abstract": "Risk analysis of residential real estate investments requires careful analysis of certain variables (or determinants). Because real estate is a key sector for economic and social development, this risk analysis is seen as critical in supporting decision processes relating to buying or selling residential properties, partly due to the pressures caused by the current economic environment. This study aims to develop a conceptual reference model for risk assessment of residential real estate using fuzzy cognitive mapping. This fuzzy model allows cause-and-effect relationships between determinants to be identified and better understood, which in turn allows for better informed investment decisions. The results show that the use of cognitive maps reduces the number of omitted criteria and favors learning with regard to how the criteria relate to each other, holding great potential and versatility in structuring complex decision problems. Practical implications, strengths and weaknesses of our proposal are discussed. © 2016 Vilnius Gediminas Technical University (VGTU) Press.",
+    "source": "Technological and Economic Development of Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

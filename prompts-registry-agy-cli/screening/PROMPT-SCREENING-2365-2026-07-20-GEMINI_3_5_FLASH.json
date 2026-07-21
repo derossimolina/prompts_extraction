@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2365-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money Laundering Risks: The Case of Non-fungible Tokens-Key Recommendations for Australia",
+    "authors": "Orchard, S",
+    "year": "2024",
+    "doi": "10.1007/978-3-031-59547-9_10",
+    "abstract": "As criminals continue to generate cryptocurrencies via fraudulent means, non-fungible tokens are well suited to act as vehicles to launder such funds outside of the regulatory oversight and protections of the Australian Transaction Reports and Analysis Centre. Unlike cryptocurrency exchanges, non-fungible tokens are currently not regulated directly under the Anti-Money Laundering and Counter Terrorism Financing Act 2006 (Cth). In August 2022, the newly elected Albanese Government announced an unprecedented 'token mapping' exercise in order to classify specific crypto assets and identify the gaps in the crypto asset regulatory market. This article aims to answer the question: How could the Australian antimoney laundering regulatory landscape be reformed in order to comply with updated global standards and adequately protect the non-fungible token ecosystem from money laundering exploitation? The first part of this paper presents a technical examination of non-fungible tokens and their ecosystem. Secondly, it is discussed whether non-fungible tokens are able to be utilised by criminals to launder illicit proceeds. Thirdly, drawing upon the normative system of recommendations and updated guidance as outlined by the Financial Action Task Force, Australia's existing crypto asset regulatory landscape is critically analysed insofar as illuminating a rigid reliance on traditional anti-money laundering measures incongruent with the nascent risks posed by non-fungible tokens and their associated markets. Finally, this paper analyses Australia's level of technical compliance with customer due diligence requirements and the Travel Rule and recommends incorporating select non-fungible token service providers as regulated entities, requiring the implementation of risk-based Know Your Customer processes informed by a de minimis threshold.",
+    "source": "FINANCIAL CRIME, LAW AND GOVERNANCE: Navigating Challenges in Different Contexts"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

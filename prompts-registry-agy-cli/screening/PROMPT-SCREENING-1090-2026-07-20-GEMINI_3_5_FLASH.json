@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1090-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global financial changes and results in Latin America: À la carte selection of regulation; [Cambios financieros globales y resultados en América Latina: Selección de regulación à la carte]",
+    "authors": "Mantilla K.K.",
+    "year": "2021",
+    "doi": "10.22201/IIEC.20078951E.2021.204.69609",
+    "abstract": "This article analyzes the implementation of the Basel II, II.5 and III rules in Latin American countries by means of specific banking regulations and finds that because the rules were not fully implemented, banks were then able to use some of the principles that give them room for regulatory arbitrage and facilitate illicit financial flows (IFFs). The Basel banking norms supposed that regulatory capital would be a minimum of 10.5%, but equity to asset ratios computed for big banks fell by 1.2 percentage points between 2005 and 2015 and provisions for loan losses on assets increased 0.6 percentage points in the same period. The on-demand implementation of these standards puts the region at the mercy of an underground globalization that favors IFFs. © 2021 Universidad Nacional Autonoma de Mexico. All rights reserved.",
+    "source": "Problemas del Desarrollo"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

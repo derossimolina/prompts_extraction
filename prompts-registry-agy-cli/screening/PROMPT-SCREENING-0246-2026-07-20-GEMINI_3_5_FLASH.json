@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0246-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An analysis of the determinants of money laundering in the United Arab Emirates (UAE)",
+    "authors": "Aljassmi M.; Gamal A.A.M.; Abdul Jalil N.; Viswanathan K.K.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-09-2023-0150",
+    "abstract": "Purpose: It is widely argued that money laundering (ML) is not a new phenomenon and the pervasiveness of ML is associated with some severe economic, social and political costs. Due to the lack of studies on the ML’s issue in the UAE, this study aims to examine the determinants of ML in the country between 1975 and 2020. Design/methodology/approach: The autoregressive distributed lag bounds testing results demonstrate the presence of long-run relationship between ML and the selected macroeconomics variables. The analysis is validated by the dynamic ordinary least squares, the fully modified ordinary least squares and the canonical co-integration regression estimators. Findings: The estimation result reveals that while the real estate market, outflow of money, arms procurement and size of the underground economy influences the size of ML positively, gold trade, the level of financial development and the size of economic activities are negatively associated with ML, both in the short- and long-run. Originality/value: Up to date from a country-level analysis, no study has been devoted to the ML in UAE, except for Aljassmi et al. (2023). To the best of the authors’ knowledge, this study is the first to investigate the determinants of laundered money in the UAE economy. Based on these outcomes, strategies and measures which will deter the laundering of illicit funds through the real estate and gold market, remittance system, financial system and arms procurement contracts in the UAE are recommended. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

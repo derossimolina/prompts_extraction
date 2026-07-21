@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2411-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "RISK ASSESSMENT OF THE BANK'S INVOLVEMENT IN LEGALIZATION OF QUESTIONABLE INCOME CONSIDERING THE INFLUENCE OF FINTECH INNOVATIONS IMPLEMENTATION",
+    "authors": "Lebid, O; Chmutova, I; Zuieva, O; Veits, O",
+    "year": "2018",
+    "doi": "10.21272/mmi.2018.2-19",
+    "abstract": "The article is devoted to the formation of a methodical approach to the risk assessment of bank services use to legalize questionable income considering the influence the of FinTech innovations rapid development and their active implementation by banks. Microeconomic factors groups, which influence the bank clients' illegal incomes legalization processes are proposed. In the context of it, there were formed the measurement indicators regarding microeconomic interbank and microeconomic client factors. The assessment is proposed to be carried out in the following areas: firstly, integral assessment using questionnaires and taxonomy methods of the bank's system for prevention and counteraction of the income legalization as an environment, where money laundering appears potentially; secondly, statistic analysis regarding the dynamics of the existed indices of banking operations amounts, which have a higher risk of implementation for legalization; and thirdly, an assessment of the banks' activity in terms of FinTech innovations implementation. The results of the proposed methodological approach allow us to form a two-dimensional matrix structure, which divides banks into groups with a maximum, minimum and moderate risk of their use for money laundering. It was proved that the calculation regarding statistic features of cash turnovers dynamics and bank clients' funds on the current accounts enables to analyze the degree of unsystematic factors' influence, as one of the risk indicators to use banking services with purpose to legalize the illegal incomes, that is a base to improve the internal financial monitoring system in the Ukrainian banks. Next research will focus on the checking the hypothesis regarding the fact that more active banks from the viewpoint of FinTech innovations introduction are less vulnerable in relation to their involvement in the money laundering.",
+    "source": "MARKETING AND MANAGEMENT OF INNOVATIONS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

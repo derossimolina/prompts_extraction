@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1098-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The political economy of insecure property rights: Insights from the Kingdom of Sicily",
+    "authors": "Candela R.A.",
+    "year": "2020",
+    "doi": "10.1017/S1744137419000547",
+    "abstract": "How did the evolution of the rule of law become stunted in Sicily during the 19th century? The work of economist Yoram Barzel, particularly his property-rights approach to understanding the political economy of state formation, is uniquely suited to understanding the failure of Italy's unification process to secure the rule of law in Sicily during the 19th century. This failure can be explained by a lack of a credible commitment to the rule of law in the state formation process. I argue that this lack of credible commitment manifested itself in the abolition of previously existing parliamentary institutions as an independent collective action mechanism, as well as prior constitutional agreements that existed in the Kingdom of Sicily. The resulting uncertainty over the security and legal definition of property rights over land raised the transaction costs of competing for resources through productive specialization and market exchange. In turn, it reduced the relative costs of competition for land ownership and the use of enforcement through other means, such as rent seeking or organized crime. Copyright © Millennium Economics Ltd 2019.",
+    "source": "Journal of Institutional Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

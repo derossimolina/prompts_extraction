@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0917-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Urgency of the Indonesian Non-Penal Policy in Regulating Misuse of Bank Accounts as a Means of Online Frauds",
+    "authors": "Octora R.; Tiopan D.; Kurniawan S.; Haykal H.; Sewu P.L.S.; Andersen C.; Sirait Y.H.",
+    "year": "2022",
+    "doi": "10.2478/CIRR-2022-0025",
+    "abstract": "As the number of online transactions increases, so is the possibility of fraud. There are no face-to-face encounters, and the money is made through bank transfer. Fraudsters utilize a bank account to store their illicit funds. Currently, Indonesia's many laws and regulations cannot combat the numerous online frauds. When fraud occurs, it is usually difficult for the money sender (the victim) to get their money back. On the other hand, it is straightforward for a fraudster to obtain the funds deposited into their account and enjoy the fruits of their crime. This research was conducted utilizing a normative juridical methodology, and the consistency of policies in various Indonesian laws and regulations was investigated. This article contains doctrinal law studies about legal ideas, concepts, and rules. This study utilized legal documents such as statutes, journals, and other relevant publications. This study aims to examine the numerous Indonesian legal rules and their application in relation to the topic at hand. The outcomes of this research are recommendations for policy formulation, encompassing both penal and non-penal policies. The government must develop banking sector policies, account opening policies, and a system for blacklisting account owners whose accounts have been exploited for fraudulent purposes. The government must also establish more accessible and straightforward methods for reporting crimes. © 2022, Institute for Development and International Relations. All rights reserved.",
+    "source": "Croatian International Relations Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

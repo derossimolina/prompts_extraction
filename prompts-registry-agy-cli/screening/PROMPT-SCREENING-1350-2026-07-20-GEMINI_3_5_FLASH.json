@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1350-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assigned Roles as a Structuring Tool in Online Discussion Groups: Comparison of Transactional Distance and Knowledge Sharing Behaviors",
+    "authors": "Yilmaz R.; Karaoglan Yilmaz F.G.",
+    "year": "2019",
+    "doi": "10.1177/0735633118786855",
+    "abstract": "The purpose of this study is to determine the effects of structured discussion by giving participants in online discussion groups different roles in transactional distance perception and knowledge sharing behaviors. In the study, a quasi-experimental design was utilized with pretest and posttest control groups. The study was conducted with 111 first-year undergraduate students at a university for 10 weeks. Quantitative and qualitative data collection techniques were used in the study, and the data were obtained from the Transactional Distance Scale, Knowledge Sharing Behavior Scale, and Student Opinion Determination Form. The findings indicate that online discussions carried out by assigning roles to discussion group members (starter, moderator, arguer, source searcher, and summarizer) decreased students’ transactional distance perceptions and improved knowledge sharing behaviors in online discussions. Different suggestions are offered about how to structure online discussions in accordance with the findings of the qualitative data analysis. © The Author(s) 2018.",
+    "source": "Journal of Educational Computing Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

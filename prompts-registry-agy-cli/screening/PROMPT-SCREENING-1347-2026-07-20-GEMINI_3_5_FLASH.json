@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1347-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Beyond placement, layering and integration – the perception of trade-based money laundering risk in UK financial services",
+    "authors": "Menz M.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-12-2018-0070",
+    "abstract": "Purpose: The purpose of this study was to investigate the perception of trade-based money laundering in Letters of Credit (“L/C”) transactions among trade finance practitioners in the UK banking sector and to compare it to the perception of the same risk by the Financial Conduct Authority (“FCA”), the regulator of the UK’s banking sector. Design/methodology: A survey was used to carry out research among financial services professionals engaged in trade finance in the UK. Findings: This paper contributes to the existing literature in a number of ways. First, it investigates the perception of trade-based money laundering risk from the perspective of financial services professionals, which has not previously been done. Second, it argues that the perception of trade-based money laundering in financial services is overly focussed on placement, layering and integration, and that the full extent of the offence under the Proceeds of Crime Act 2002 is less well known. It further found that financial services firms need to improve their understanding of the nature of trade-based money laundering under UK law. Practical implications: This study argues that the financial services sector’s perception of trade-based money laundering risk in trade finance is underdeveloped and makes suggestions on how to improve it. Originality/value: It provided unique insight into the perception of trade-based money laundering risk among financial services professionals. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

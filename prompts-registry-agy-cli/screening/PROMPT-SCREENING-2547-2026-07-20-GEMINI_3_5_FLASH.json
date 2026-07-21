@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2547-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bringing economics to structural realism: differentiation and the dialogue of asymmetries between political and economic structures in the stratification of international hierarchies",
+    "authors": "De Oliveira Paes, L",
+    "year": "2019",
+    "doi": "10.15366/relacionesinternacionales2019.40.004",
+    "abstract": "The present work tries to understand the stratification of international hierarchies through the socialization dynamics that intersects political and economic structures of differentiation in interstate relations.The study of the nexus between politics and economics is hardly new in International Relations. However, the understanding of economic and political structures in a discreet way, without reducing one to the other, is something that discipline is lacking in its theoretical literature.To fill this gap, structural realism is reinterpreted in the light of the recent debate on the sociological conception of structures as subsystems of differentiation between the actors of a given social system.The conceptual framework of the theory of structural differentiation is used as a language to understand and characterize the socialization configured among structures of asymmetries, such as those of political and economic nature. Thus, the socialization nexuses emerging from international social transactions of political and economic nature are discussed considering their role in the constitution of the contemporary state system and its structuring effects on the international system.",
+    "source": "RELACIONES INTERNACIONALES-MADRID"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

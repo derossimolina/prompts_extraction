@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2333-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Why Is Elvis on Burkina Faso Postage Stamps? Cross-Country Evidence on the Commercialization of State Sovereignty",
+    "authors": "Slemrod, J",
+    "year": "2008",
+    "doi": "10.1111/j.1740-1461.2008.00138.x",
+    "abstract": "Why would the country of Burkina Faso issue postage stamps featuring Elvis? In part, to make money, one example of what has been called the commercialization of state sovereignty. I could issue stamps, but no one would buy them. But many philatelists (stamp collectors) want countries' stamps, especially those with popular themes like Elvis or Disney characters, in their collection. I examine the commercialization of state sovereignty by first setting out a simple model and then, in the context of the predictions of this model, conduction an empirical examination of what determines whether a country will pursue a set of commercialization opportunities, from the benign to the malign. Three examples are examined: postage stamps, tax havens, and money laundering. The data analysis provides support for the idea that commercialization of state sovereignty is more likely in countries where it is more difficult to raise revenue in alternative ways, and less support for the role of costs of commercialization related to integrity and, for less benign activities, sanctions. The examined examples of commercialization that are more likely to directly raise revenue (stamp pandering and tax havens) are more attractive to poorer countries, and stamp pandering is more attractive to more agricultural countries at a given level of per-capita income. This provides some support to the notion that when revenue is difficult to raise in other ways, revenue-raising commercialization becomes more attractive. Being a tax haven or a stamp panderer is more attractive to small countries, a finding that is consistent with the Slemrod and Wilson (2007) hypothesis about tax havens that the benefits are unrelated to size but the costs are. The results corroborate and extend the Dharmapala and Hines (2007) finding that good governance is associated with tax haven status. Notably, governance has no partial association with the probability of being a money launderer. Thus, there is no evidence that bad governance as measured by the World Bank is associated with international unlawfulness. The fact that governance matters positively for the propensity to be a stamp panderer as well as to be a tax haven expands the Dharmapala-Hines interpretation that governance proxies for a country's credibility, and suggests that governance may also be associated with the capability to undertake domestic-welfare-enhancing activities and may help to explain why more of the most desperately poor nations of the world are not involved in the commercialization of state sovereignty.",
+    "source": "JOURNAL OF EMPIRICAL LEGAL STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

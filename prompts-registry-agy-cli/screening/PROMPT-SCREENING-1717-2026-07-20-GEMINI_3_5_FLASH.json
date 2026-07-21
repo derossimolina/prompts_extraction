@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1717-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulatory context: Recent progress on key aspects of Indonesia's anti&hyphen;money laundering regime&colon; a narrative analysis",
+    "authors": "Rusmin R.; Brown A.M.",
+    "year": "2012",
+    "doi": "10.1108/13685201211238025",
+    "abstract": "PurposeBased on semi&hyphen;structured interviews with current senior officers of the Indonesian Police Force, Indonesian Attorney General's Office and the Indonesian Financial Transaction Reports and Analysis Centre &lpar;Pusat Pelaporan dan Analisis Transaksi Keuangan&rpar;, the purpose of this paper is to consider the regulator context and governance of some key issues in Indonesia's anti&hyphen;money laundering &lpar;AML&rpar; regime&colon; the progress of &ldquo;know your customer&rdquo; implementations and the crackdown on foreign bribery. Design&sol;methodology&sol;approachInterviewing respondents from key Indonesian agencies involved in the AML regime, the authors used semi&hyphen;structured interviews to develop a narrative analysis of the research questions. FindingsThe results of the narrative analysis suggest all three agencies are satisfied with the effectiveness of &ldquo;know your customer&rdquo; regulations, particularly in their capacity to heighten awareness. All respondents, however, were a little more circumspect on the foreign bribery crackdown. Practical implicationsThe paper shows that at best, mutual legal assistance provided help for transaction reports and analysis. At worst, it appears foreign bribery issues are an intractable problem. It is concluded that policy tools need to be contextualised within Indonesia's socio&hyphen;economic realities rather than wholly struck from western fields. Originality&sol;valueFresh &ldquo;insider&rdquo; insights were gleaned about the current state of play regarding &ldquo;know your customer&rdquo; principles and the clampdown on foreign bribery. This is of value to many parties involved in the advancement of AML, both within and outside Indonesia. © 2012, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

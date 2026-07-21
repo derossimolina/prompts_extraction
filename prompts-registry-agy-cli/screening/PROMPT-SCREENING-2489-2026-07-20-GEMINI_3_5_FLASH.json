@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2489-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trust as an organizing principle",
+    "authors": "McEvily, B; Perrone, V; Zaheer, A",
+    "year": "2003",
+    "doi": "10.1287/orsc.14.1.91.12814",
+    "abstract": "Although research on trust in an organizational context has advanced considerably in recent years, the literature has yet to produce a set of generalizable propositions that inform our understanding of the organization and coordination of work. We propose that conceptualizing trust as an organizing principle is a powerful way of integrating the diverse trust literature and distilling generalizable implications for how trust affects organizing. We develop the notion of trust as an organizing principle by specifying structuring and mobilizing as two sets of causal pathways through which trust influences several important properties of organizations. We further describe specific mechanisms within structuring and mobilizing that influence interaction patterns and organizational processes. The principal aim of the framework is to advance the literature by connecting the psychological and sociological micro-foundations of trust with the macro-bases of organizing. The paper concludes by demonstrating how the framework can be applied to yield novel insights into traditional views of organizations and to stimulate original and innovative avenues of organizational research that consider both the benefits and downsides of trust.",
+    "source": "ORGANIZATION SCIENCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

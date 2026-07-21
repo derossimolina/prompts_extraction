@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0078-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Evaluating the Central Bank of Iraq's Banking Policy According to INTOSAI GUID 9020",
+    "authors": "Alhilali S.N.K.; Al-Haidari W.H.S.",
+    "year": "2026",
+    "doi": "10.51847/8I7GPfcxGH",
+    "abstract": "This study evaluates the Central Bank of Iraq's banking policy during 2019–2023 using evidence-weighted evaluation aligned with INTOSAI GUID 9020. Using only official secondary sources, the analysis interprets time-series banking indicators along four practical dimensions: relevance, implementation effectiveness, efficiency, and utility. The findings show strong nominal balance sheet growth, with clear increases in total assets and deposits, consistent with policy efforts to preserve stability and depositor confidence during a period marked by major shocks. Credit volumes also rose, but intermediation remained structurally constrained: government banks continued to dominate credit allocation, the credit-to-GDP ratio fluctuated, cash preference remained very high, and the money multiplier declined, together pointing to limited financial deepening and weaker transmission through the banking system. In contrast, the payments ecosystem expanded quickly. Transaction volumes rose sharply across both clearing systems and retail payment channels, and the supporting infrastructure also grew strongly (with increases in electronic wallets and cards in circulation, and the wider deployment of ATMs and POS terminals). Overall, these trends suggest real progress in how the system delivers modernization and inclusion in practice. The indicators for anti–money laundering and counter-terrorism financing also point to an active framework, with reporting and case progression visible through 2022, alongside a modest improvement in corruption perception measures. INTOSAI GUID 9020 synthesis shows policy supported stability but delivered only partial structural change: relevance is strong, while effectiveness, efficiency, and utility remain moderate due to state banks and cash reliance. © 2026 Journal of Organizational Behavior Research.",
+    "source": "Journal Of Organizational Behavior Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

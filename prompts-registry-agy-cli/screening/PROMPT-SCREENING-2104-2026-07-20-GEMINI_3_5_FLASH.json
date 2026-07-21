@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2104-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anatomy of Russia's market segmentation",
+    "authors": "Gluschenko K.",
+    "year": "2010",
+    "doi": "10.1111/j.1468-0351.2009.00363.x",
+    "abstract": "Based on a relationship between price difference and demand difference among locations, the role of various market frictions in causing segmentation of the Russian goods market is analysed. The spatial sample covers most of Russian regions (70 of the 89); the data are annual, spanning 1992 to 2000. Spatial disconnectedness of regions is found to be responsible for about 70 percent of the average price differential, while the rest is caused by 'artificial' impediments to market integration such as regional protectionism, organized crime and intra-region shipping conditions. © 2010 The Author. Journal compilation © 2010 The European Bank for Reconstruction and Development.",
+    "source": "Economics of Transition"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

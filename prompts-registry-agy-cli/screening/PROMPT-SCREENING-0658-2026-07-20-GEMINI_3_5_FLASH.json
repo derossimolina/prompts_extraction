@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0658-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "House of Cards: Informal Housing Markets and Precarious Pathways to Homeownership in Baltimore",
+    "authors": "Jang-Trettien C.",
+    "year": "2022",
+    "doi": "10.1093/socpro/spab004",
+    "abstract": "Homeownership is often tied to cultural conceptions of model citizenship, yet African Americans have long faced structural barriers to owning a home. Credit discrimination has often constrained black homeownership. However, missing from accounts of race, credit, and homeownership is how people purchase homes without mortgages. Through an analysis of public deed and mortgage records in Baltimore, I show that informal housing transactions - unregulated transfers outside of the mortgage market - are primarily located within majority-black neighborhoods. Using data from interviews with 336 homeowners, renters, and real estate investors, I show that informal markets put buyers in a uniquely vulnerable position. The exchange process in informal markets often consists of buyer and seller, with no third-party actor providing oversight to the transaction. Consequently, homebuyers face uncertainty over legal title and the value of the home, making it impossible to make informed decisions about the costs and benefits of homeownership at the time of purchase. Those who purchased from out-of-network real estate investors faced the harshest consequences, with sellers often structuring contracts to disadvantage consumers. Recent reports show that millions have purchased homes without institutional credit. It is worth examining how unregulated housing markets in neighborhoods of concentrated disadvantage contribute to racial inequalities. © 2021 The Author(s).",
+    "source": "Social Problems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

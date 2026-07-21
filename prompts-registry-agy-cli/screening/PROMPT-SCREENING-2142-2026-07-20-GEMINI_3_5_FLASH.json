@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2142-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and terrorism financing risks of prepaid cards instruments?",
+    "authors": "Choo K.-K.R.",
+    "year": "2009",
+    "doi": "10.1007/s11417-008-9051-6",
+    "abstract": "Advances in information and communication technologies (ICT) have had, and will continue to have, wide-ranging influences on how the banking and finance industry operates. Making payments and transmitting money electronically or online are increasingly popular. An increased dependence on global electronic payment systems and the ability to move large amounts of money expeditiously across different jurisdiction, however, expose both payment processing companies and consumers to an evolving spectrum of threats such as fraud and money laundering. This article considers ways in which prepaid cards can be exploited by organised criminals and terrorists to launder their illicit proceeds of crime, and to transfer money anonymously and instantaneously over the globe for use by terrorist organisations. Risks identified in this article include recruiting card mules (e.g. international students) to purchase prepaid cards, and the mailing or shipping of prepaid cards out of the country without regulators being aware. To minimise risks of abuse by organised criminals and terrorists, legislation will need to adapt to deal with threats that organised criminals and terrorists seek to exploit. Future directions for research in relation to prepaid cards are also identified. © 2008 Springer Science+Business Media B.V.",
+    "source": "Asian Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

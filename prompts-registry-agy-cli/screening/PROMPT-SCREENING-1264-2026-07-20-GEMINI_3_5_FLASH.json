@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1264-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Machine Learning and Sampling Scheme: An Empirical Study of Money Laundering Detection",
+    "authors": "Zhang Y.; Trubey P.",
+    "year": "2019",
+    "doi": "10.1007/s10614-018-9864-z",
+    "abstract": "This paper studies the interplay of machine learning and sampling scheme in an empirical analysis of money laundering detection algorithms. Using actual transaction data provided by a U.S. financial institution, we study five major machine learning algorithms including Bayes logistic regression, decision tree, random forest, support vector machine, and artificial neural network. As the incidence of money laundering events is rare, we apply and compare two sampling techniques that increase the relative presence of the events. Our analysis reveals potential advantages of machine learning algorithms in modeling money laundering events. This paper provides insights into the use of machine learning and sampling schemes in money laundering detection specifically, and classification of rare events in general. © 2018, This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply.",
+    "source": "Computational Economics"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

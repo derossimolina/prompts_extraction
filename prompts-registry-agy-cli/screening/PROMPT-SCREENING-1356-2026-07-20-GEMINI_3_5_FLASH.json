@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1356-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency or usury? Crime and alternative money laundering techniques",
+    "authors": "Barone R.; Masciandaro D.",
+    "year": "2019",
+    "doi": "10.1007/s10657-019-09609-6",
+    "abstract": "The article presents a novel dynamic setting to compare old—usury—and new—cryptocurrency—money laundering techniques and uses it for calibration to shed light on their relative role as an effective device for the criminal organizations to clean their illegal revenues. The specialness of the usury contract depends on its role in laundering illegal revenues originating from criminal activities and it is independent from the interest rate level, while the cryptocurrency money laundering is associated with an initial coin offering tool. The calibration compares the leverage effect on the overall capital owned by the criminal organizations triggered by the two money laundering techniques. © 2019, Springer Science+Business Media, LLC, part of Springer Nature.",
+    "source": "European Journal of Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

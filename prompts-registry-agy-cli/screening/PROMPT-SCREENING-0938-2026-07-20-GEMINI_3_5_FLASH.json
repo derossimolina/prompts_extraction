@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0938-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploring the role of corruption and money laundering (ML) on bank’s loan portfolio quality: a cross-country investigation",
+    "authors": "Hussain N.; Sheikh S.M.; Shah I.H.",
+    "year": "2022",
+    "doi": "10.1108/JFRC-10-2021-0086",
+    "abstract": "Purpose: Corruption and money laundering (ML) are severe concerns for both developing and developed countries. According to international organizations, such as Transparency International, the Basel Institute on Governance and the International Country Risk Guide, corruption and ML exist in every country. This research aims to investigate the impact of corruption and ML on the loan portfolio quality of banks. Design/methodology/approach: From 2013 to 2019, this study used the panel data of 132 countries, including 87 highly corrupt and 45 least corrupt countries: the fixed effect and random effect econometric regression techniques for data analysis. Additionally, this study used the generalized methods of moment technique to check the result’s robustness. Findings: This study shows that corruption and ML have diverse relationships with non-performing loans in highly corrupt and low corrupt countries. It is potentially because of the differences in the regulatory structure of a highly corrupt and least corrupt environment. Originality/value: To the best of the authors’ knowledge, this study is the first attempt that provides a unique perspective on corruption, ML and its effect on the loan’s portfolio quality of banks. Furthermore, this study suggests that governments in highly corrupt environments develop robust anti-corruption and anti-ML regulations. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

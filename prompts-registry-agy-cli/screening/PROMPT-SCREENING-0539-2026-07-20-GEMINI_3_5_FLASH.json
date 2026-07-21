@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0539-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Adapting confiscation and anti-money laundering laws to the digital economy: exploring the Australian interplay between proceeds and technology",
+    "authors": "Goldbarsht D.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-09-2023-0142",
+    "abstract": "Purpose: The rise of cryptocurrencies and other digital assets has triggered concerns about regulation and security. Governments and regulatory bodies are challenged to create frameworks that protect consumers, combat money laundering and address risks linked to digital assets. Conventional approaches to confiscation and anti-money laundering are deemed insufficient in this evolving landscape. The absence of a central authority and the use of encryption hinder the identification of asset owners and the tracking of illicit activities. Moreover, the international and cross-border nature of digital assets complicates matters, demanding global coordination. The purpose of this study is to highlight that the effective combat of money laundering, legislative action, innovative investigative techniques and public–private partnerships are crucial. Design/methodology/approach: The focal point of this paper is Australia’s approach to law enforcement in the realm of digital assets. It underscores the pivotal role of robust confiscation mechanisms in disrupting criminal networks operating through digital means. The paper firmly asserts that staying ahead of the curve and maintaining an agile stance is paramount. Criminals are quick to embrace emerging technologies, necessitating proactive measures from policymakers and law enforcement agencies. Findings: It is argued that an agile and comprehensive approach is vital in countering money laundering, as criminals adapt to new technologies. Policymakers and law enforcement agencies must remain proactively ahead of these developments to efficiently identify, trace and seize digital assets involved in illicit activities, thereby safeguarding the integrity of the global financial system. Originality/value: This paper provides a distinctive perspective by examining Australia’s legal anti-money laundering and counterterrorism financing framework, along with its law enforcement strategies within the realm of the digital asset landscape. While there is a plethora of literature on both asset confiscation and digital assets, there is a noticeable absence of exploration into their interplay, especially within the Australian context. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

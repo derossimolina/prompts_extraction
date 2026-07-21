@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1189-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trend and pattern of economic and financial crimes statutes in Nigeria",
+    "authors": "Aigbovo O.",
+    "year": "2019",
+    "doi": "10.1108/JFC-03-2015-0011",
+    "abstract": "Purpose: The purpose of this paper is to examine the general direction and pattern of modern economic and financial crimes statutes in Nigeria. Design/methodology/approach: This paper examines Nigerian economic and financial crime statues. Findings: This paper identifies the trend and features, which are common to all the statutes irrespective of economic and financial crime covered by them. Originality/value: This paper shows that although Nigerian economic and financial crimes statutes have evolved gradually from Military era Decrees, and target different aspects of economic and financial crimes, there are certain features, which are common to all of them. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

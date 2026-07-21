@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1838-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International anti&hyphen;money laundering programs: Empirical assessment and issues in criminal regulation",
+    "authors": "Arnone M.; Borlini L.",
+    "year": "2010",
+    "doi": "10.1108/13685201011057136",
+    "abstract": "PurposeThe purpose of this paper is to present an empirical assessment and outline issues in criminal regulation relating to international anti&hyphen;money laundering &lpar;AML&rpar; programs. Design&sol;methodology&sol;approachIn the first part, this paper outlines the serious threats posed by transnational laundering operations in the context of economic globalization, and calls for highly co&hyphen;ordinated international responses to such a crime. The second part of the paper centres on elements of international criminal regulation of ML. FindingsThe focus is on the phenomenological aspect of ML and highlights that to a large extent it is an economic issue. Economic analysis calls for an accurate legal response, with typical trade&hyphen;offs&colon; it should deter criminals from laundering by increasing the costs for such illicit operations, calling for enhanced regulatory and enforcement activities&semi; however, stronger enforcement yields increased costs and reduces privacy. These features have lately inspired the recent paradigm shift from a rule&hyphen;based regulatory framework to a risk&hyphen;based approach which still represents an extremely delicate regulatory. Both at the international level and within the single domestic legal system, AML law is typically characterised by a multidisciplinary approach combining the repressive profile with preventive mechanisms&colon; an empirical evaluation of the International Monetary Fund&hyphen;World Bank AML program is presented, where these two aspects are assessed. The non&hyphen;criminal measures recently implemented under the auspices of the main inter&hyphen;governmental public organisations with competence in these fields seem to be consistent with the insights of economic analysis. However, some key criminal issues need to be better addressed. Originality&sol;valueThe paper offers insights into international AML programs, focusing on criminal regulation. © 2010, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

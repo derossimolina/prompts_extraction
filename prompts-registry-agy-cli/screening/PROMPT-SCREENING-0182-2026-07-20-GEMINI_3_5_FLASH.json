@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0182-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Harmonisation of the Albanian Anti-Money Laundering Law with the EU Anti-Money Laundering Directive: Challenges and Perspectives",
+    "authors": "Nano G.; Skara G.",
+    "year": "2025",
+    "doi": "10.3390/laws14060095",
+    "abstract": "As Albania aspires to join the EU by 2030, harmonisation of existing and future legislation and ensuring proper implementation remain the main priorities. Several working groups have been established to deal with harmonisation and enforcement. Although scepticism about Albania’s 2030 membership exists among Albanian scholars and politicians about whether public administration can address this daunting task, Albanian citizens are hopeful about finally joining the EU. This paper analyses the extent to which Albanian legislation on the prevention of money laundering and financing of terrorism aligns with the Anti-Money Laundering Directives and how it is enforced. Using both traditional legal and comparative methodologies, this paper compares whether the Albanian anti-money laundering and countering the financing of terrorism law aligns with the Anti-Money Laundering regime and assesses the level of enforcement of harmonised legislation. This paper concludes that, although the Albanian Law on anti-money laundering and terrorist financing largely aligns with the AML/FT Directive, proper implementation remains a challenge due to limited enforcement capacities, weak legal structures, and an essentially cash-based economy with a substantial informal economy. © 2025 by the authors.",
+    "source": "Laws"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1782-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Great expectations but little evidence: policing money laundering",
+    "authors": "Verhage A.",
+    "year": "2017",
+    "doi": "10.1108/IJSSP-06-2016-0076",
+    "abstract": "Purpose: The purpose of this paper is to map anti-money laundering policy and its impact on money laundering. The AML system is discussed from the perspective of the compliance officer, who is responsible for translating AML law into practice in Belgian banks. Design/methodology/approach: Literature review, based largely on a PhD study (2009) that involved a survey and interviews. Additionally, 12 compliance officers were interviewed in 2015. Findings: The global AML system impacts significantly on issues of privacy and due process but has not yet been evaluated. The system’s preventive effect is difficult to measure because of a lack of (cross-border) information. The way in which Risks are currently managed in diverse ways. Research limitations/implications: Results from the first study in 2009 (based on interviews in 2007-2008) were potentially outdated. This recent update (2015) confirms that compliance officers are still dealing with the same issues. Practical implications: The study clarifies the ways in which compliance and AML is dealt with and mapped, providing insights into an often closed setting. Social implications: The battle against money laundering is very costly and intrusive, making the need for stringent evaluation more pressing. Originality/value: The study is both original and valuable because compliance officers have rarely been the subject of research. The study discloses useful information about their role. © 2017, © Antoinette Verhage.",
+    "source": "International Journal of Sociology and Social Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

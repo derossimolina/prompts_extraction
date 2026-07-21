@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1821-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering detection system (MLD) (a complementary system of Rastin banking)",
+    "authors": "Bidabad B.",
+    "year": "2017",
+    "doi": "10.1108/JMLC-04-2016-0016",
+    "abstract": "Purpose: This paper aims to define a new system for detecting money-laundering activities by comparing tax payments (especially value-added tax) data to banking transactions data. Design/methodology/approach: A money laundering detection (MLD) system provides the necessary bases for detecting deception and fraud. Though MLD is a complementary system of the Rastin Banking system, it can also be installed and executed separately. Findings: The underground economic activities can be detected and traced by comparing banking information and transaction information in MLD system. It needs to force the direct transactors or other related forms of transaction to perform their money operations through the banks. In the next step, the tax information of transactors (in a chain of transactions) can be compared with them, and the incompatibility of the two sets of data will explore money-laundering operations. Research limitations/implications: This system is novel and needs to be more elaborate to remove further practical problems and specific cases. Practical implications: MLD system provides necessary protection for those who perform legal economic activities by detecting financial criminals. Social implications: Money laundering harms individual and public rights as well as economies. Financial crimes, tax evasion, smuggling, conspiracy, embezzlement and various other offences are included in the general definition of money laundering, so detecting them will lead to important economic improvements in the society as well as international community. Originality/value: MLD system provides structural and electronic bases for computerized tax data and banking data comparison. © 2017, 2017, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

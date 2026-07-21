@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2289-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Contraband, Drug Trafficking and the Configuration of Institutional Circuits for their Protection in Mexico",
+    "authors": "Pérez, CAF",
+    "year": "2019",
+    "doi": "10.18847/1.9.4",
+    "abstract": "In this article analyses the evolution, throughout the XX century, of criminal networks that had participation in illicit trafficking goods and illegal psychoactive drugs-in the Mexican states of Nuevo Leon and Tamaulipas, in the border with Texas, United States. Based on the information contained in government documents found in the General Archive of the Nation (AGN) of Mexico, federal criminal courts of the United States and newspaper sources, I show the central role played by federal and state institutional actors to consolidate these networks and their illegal activities through the guarantee of impunity. These actors, along with their partners in the business and criminal fields, set up institutional circuits to protect such traffics and allow the integration of illicit capital in the formal economy.",
+    "source": "REVISTA DE ESTUDIOS EN SEGURIDAD INTERNACIONAL-RESI"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

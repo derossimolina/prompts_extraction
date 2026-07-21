@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2425-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FINANCIAL MONITORING AS AN ECONOMIC AND LEGAL METHOD FOR CONTROL OF TERRORISM",
+    "authors": "Vovchak, OD; Kantsir, VS; Kantsir, IA",
+    "year": "2019",
+    "doi": "10.18371/fcaptp.v2i29.171887",
+    "abstract": "The article was developed and proved the concept of financial monitoring as a set of actions taken by entities of initial and state financial monitoring in prevention and counteraction to legalization of proceeds from crime, financing of terrorism, separatism and the proliferation of weapons of mass destruction. The appropriateness of the categories terrorism and finances in the following areas are determined: money paid to terrorists for refusing to commit violent actions; unwritten funding terrorist organizations, individual states, non-state funds, criminal groups and entities; Money laundering and their introduction into legal turnover; creation of terrorist organizations of their own structures in the commercial and credit and financial spheres; cash received as a result of active criminal operations. The risks in the system of prevention of the manifestations of terrorism and counteraction to the legalization of proceeds from crime are outlined. These platforms, including defined: nontransparent financing of political parties; low financial and legal literacy; a significant proportion of the specific weight of cash circulation; outflow of capital; increase in organized crime; the lack of a sectorial risk assessment of entities of initial financial monitoring in the area of prevention and counteraction to the legalization (laundering) of proceeds from crime. The priority areas of financial investigations are as follows: financing of terrorism and separatism; laundering of proceeds from corruption; use of cash in schemes for the legalization of proceeds from crime. The risk of financing terrorism and separatism by depository corporations is proposed to be related to bank risks. It is proposed to supplement the Regulation on the organization of internal control in banks of Ukraine, in terms of determining the categories of risk, the definition of compliance risk of financial monitoring.",
+    "source": "FINANCIAL AND CREDIT ACTIVITY-PROBLEMS OF THEORY AND PRACTICE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

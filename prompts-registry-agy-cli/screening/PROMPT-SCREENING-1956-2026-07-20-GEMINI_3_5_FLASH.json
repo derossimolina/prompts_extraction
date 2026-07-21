@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1956-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Light is the best antidote",
+    "authors": "Geary J.M.",
+    "year": "2009",
+    "doi": "10.1108/13685200910973600",
+    "abstract": "PurposeThe purpose of this paper is to draw attention to the difficulties that non&hyphen;bank reporting entities have in establishing a best practice risk&hyphen;based approach to their anti money laundering and counter terrorism financing &lpar;AML&sol;CTF&rpar; controls. Design&sol;methodology&sol;approachThe paper draws on the experience of the author in working with non&hyphen;bank reporting entities in Australia on their implementation of AML&sol;CTF risk&hyphen;based programs to meet the requirements of new laws. FindingsNon bank reporting entities struggle to find data to use in their risk assessments and thus cannot easily formulate a risk&hyphen;based approach that will effectively reduce the risk of money laundering and terrorism financing &lpar;ML&sol;TF&rpar; using their products and services. Practical implicationsFinancial intelligence units and AML&sol;CTF regulators need to make more information available in a timely fashion to assist regulated entities to improve their risk&hyphen;based approach through a better understanding of the ML&sol;TF risks their business face. Originality&sol;valueThe paper draws on the current experience of new regulated entities not previously exposed to AML&sol;CTF requirements. Regulators implementing risk&hyphen;based regimes should consider the issues raised when measuring the likely success of these regimes. © 2009, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

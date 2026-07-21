@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0520-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "When Good Cash Goes “BADs”: The Role of Bankers’ Acceptance Drafts as a Cash Substitute in China’s Economy",
+    "authors": "McMahon D.",
+    "year": "2022",
+    "doi": "10.1177/00027642211020059",
+    "abstract": "Bankers’ acceptance drafts (BADs) are transferrable promissory notes that are designed to facilitate trade and that circulate among firms much like large-denomination bank notes. They play an important role in facilitating sales between industrial companies in China, particularly during straitened economic times. They have also been used to commit widescale fraud as bankers took advantage of the lack of insight regulators had into BADs’ circulation. However, BADs’ true value is as a tool that banks—and, to a lesser extent, companies—have repeatedly used to meet the often contradictory demands made of them by Beijing as it regulates the economy. In the years after the 2008 stimulus, banks used BADs to harvest deposits (companies must place a portion of the face value of a BAD issued on their behalf on deposit at the issuing bank), allowing them to meet strict loan-to-deposit ratios even as the practice resulted in ballooning off-balance-sheet credit creation. When Beijing cracked down on local government borrowing, some local governments got around the strictures by structuring BADs in creative ways that ensured ongoing access to funding. And starting in 2018, banks met Beijing’s demand that they reduce risk while increasing lending to small private companies—a group banks regard as the riskiest potential borrowers in the economy—by massively increasing their discounting of BADs, an approach that technically realized the competing demands but had none of the stimulatory effects Beijing had hoped for. This article will look at how BADs—and their counterpart, commercial acceptance drafts—give banks and state firms the flexibility to balance the political demands of the state with their own perceived interests. It will focus on how banks used BADs in 2018 and 2019 to deal with Beijing’s concerns about lack of funding for small private firms. © 2021 SAGE Publications.",
+    "source": "American Behavioral Scientist"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

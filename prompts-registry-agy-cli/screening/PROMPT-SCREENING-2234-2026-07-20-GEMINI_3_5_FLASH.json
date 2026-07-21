@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2234-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Domestic law and international relations: USA PATRIOT Act, Section 311, and the North Korean Human Rights Act of 2004",
+    "authors": "Pak B.B.; Kim J.",
+    "year": "2007",
+    "doi": "10.1080/10163270709464146",
+    "abstract": "This article proposes that the future of international relations increasingly will be affected by domestic law. We examine this thesis in the context of United States-North Korean relations from 2004 to 2007. The statutory content, application and observable results of two U.S. domestic statutes are offered as a study in contrasting approaches for domestic law and policy with international relations impact: (i) Section 311 of the USA PATRIOT Act of 2001 as applied to a third-state bank (Macau's Banco Delta Asia), based on evidence of money laundering connected to North Korean criminal financial activity, and (ii) the North Korean Human Rights Act of 2004. We find that the differing statutory content, methods of application and institutional context likely account for the drastically different results on the target nation's behavior. While the impact of the North Korean Human Rights Act has been either negligible or negative in terms of inspiring behavioral change in the target, the anti-money laundering provisions of the USA PATRIOT Act appear to have affected not only the activities specifically targeted by the domestic statute, but also resolution of an enforcement action under its authority recently became a top priority agenda item in international diplomatic negotiations among the United States, North Korea and other nations within the framework of the Six-Party Talks. We conclude that the apparent success of the domestically launched U.S. anti-money laundering enforcement action to affect international relations offers a role model for domestic legal action with foreign relations outcomes. This domestic legal model is likely to be repeated in other contexts, and likely to be effective for jurisdictions with important international financial centers.",
+    "source": "Korean Journal of Defense Analysis"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

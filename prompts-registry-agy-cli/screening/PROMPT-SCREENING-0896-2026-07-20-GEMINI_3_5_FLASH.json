@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0896-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Overview international best practices on customer due diligence and related anti-money laundering measures",
+    "authors": "Chitimira H.; Munedzi S.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-07-2022-0102",
+    "abstract": "Purpose: The anti-money laundering (AML) frameworks of many countries were generally influenced by the international best practices of money laundering that were first established in 1988 through the Basel Committee on Banking Supervision (BCBS). The general belief is that these international best practices are applicable in all jurisdictions, although most countries are still affected by money laundering. The international best practices are universal measures that were developed as a yardstick to control and curb money laundering globally. Nonetheless, international best practices for money laundering are not tailor-made for specific jurisdictions and/or countries. Therefore, it remains the duty of respective jurisdictions and/or countries to develop their own context-sensitive AML measures in accordance with international best practices. An overview of the AML international best practices that were developed and adopted by several countries are analysed in this paper. These include customer due diligence measures established by the BCBS, the financial action task force (FATF) standards, as well as the ongoing monitoring and the risk-sensitive approach that were implemented to curb money laundering globally. Design/methodology/approach: The article analyses the AML international best practices that were developed and adopted by several countries. These include customer due diligence measures established by the BCBS, the FATF standards, as well as the ongoing monitoring and the risk-sensitive approach that were implemented to curb money laundering globally. Findings: It is hoped that policymakers and other relevant persons will use the recommendations provided in the paper to enhance the curbing of money laundering in financial institutions globally. Research limitations/implications: The paper does not provide empirical research. Practical implications: The study is useful to all policymakers, lawyers, law students and regulatory bodies globally. Social implications: The study seeks to curb money laundering in the economy and society globally. Originality/value: The study is original research on the use of AML/counter financing of terrorism international best practices to curb money laundering activities globally. © 2022, Howard Chitimira and Sharon Munedzi.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

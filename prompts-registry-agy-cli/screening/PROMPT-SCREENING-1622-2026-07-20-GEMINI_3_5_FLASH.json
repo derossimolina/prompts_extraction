@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1622-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "\"You don't see any violence here but it leads to very ugly things\": Forced solidarity and silent violence in Michoacán, Mexico",
+    "authors": "Maldonado Aranda S.",
+    "year": "2014",
+    "doi": "10.1007/s10624-014-9335-4",
+    "abstract": "Mexico has become an ideal laboratory for anthropology interested in studying the transformations of drug trafficking, its economies, and its cultures. Certainly, the challenges are complex and difficult, since criminal violence affects fieldwork and its results. However, when one delves into regions where drug trafficking and organized crime are present, what we can grasp ethnographically are fundamental questions about the relationships that are being generated between the state, neoliberalism, and illegality. In this article, we will analyze the expansion of drug cartels in one of the states most affected by criminal violence: the state of Michoacán, with special reference to the Caballeros Templarios-the Knights Templar. Understanding the origins and structures of this organization can teach us how the transformations of the state and criminal economies are being redrawn in neoliberal spaces. © 2014 Springer Science+Business Media Dordrecht.",
+    "source": "Dialectical Anthropology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

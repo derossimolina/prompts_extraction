@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1084-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International anti-money laundering regulations through the prism of financial inclusion and competition",
+    "authors": "Khlopenko O.",
+    "year": "2019",
+    "doi": "10.7172/1689-9024.YARS.2019.12.19.4",
+    "abstract": "The last three decades have been marked by a battle with money laundering, tax evasion, and even though not strictly illegal, but no less harmful, tax avoidance after the boom in those legal and accountancy services back in the 1980s. The methods that national, international, and supranational organization have used range from doctrinal soft power to outright bullying, which were supported by their apologists for the sake of the common good. Yet the policies implemented so far have somehow not addressed the lack of theoretical and practical application of ‘inclusion’ and ‘equality’ into their framework. The same three decades have been characterized by the ever-growing wealth gap and the concentration of capital in the hands of the minority, whose prerogative, as pointed out by Gabriel Zucman in his classical work ‘The Hidden Wealth of Nations’ (2015), remains to preserve that wealth in their hands through whichever means necessary. The article researches into the implementation methods of anti-money laundering (AML) regulations, their long-term effects in developing economies, and the restrictive effects in relation to financial inclusion, the marginalized population in developing economies, and the application of the European Union’s principles and laws on competition. © 2019, University of Warsaw. All rights reserved.",
+    "source": "Yearbook of Antitrust and Regulatory Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2127-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Terrorism PLC: Funding spectaculars and catastrophic risk in law",
+    "authors": "Leivesley S.",
+    "year": "2006",
+    "doi": "10.1108/13685200610660961",
+    "abstract": "PurposeTo describe anticipatory risk as a fundamental pillar for a framework of international law in relation to global terrorism. Design&sol;methodology&sol;approachEconomic terrorism and global terrorist transactions are used as a case study to demonstrate asymmetric financial crime and vulnerabilities of financial districts, economies and populations. FindingsThe act of anticipation of risk is quantifiable and imposes a duty to manage foreseeable catastrophic consequences. Such a duty in turn creates a proportionate reaction that can be recognised in law. Practical implicationsRecommendations are made for international discussions by jurists, global agreements through the United Nations and the G8 and for national laws, corporate governance standards and regulatory measures to become a seamless extension of the international framework. Originality&sol;valueCommercial law, criminal law and the international laws and conventions of war require a framework that defines foreseeability, catastrophic risk, uncertainty, adequacy and proportionality. © 2006, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

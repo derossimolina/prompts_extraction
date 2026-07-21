@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2354-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CLUSTERING OF THE EUROPEAN UNION MEMBER STATES BASED ON MONEY LAUNDERING MEASURING INDICES",
+    "authors": "Gaspareniene, L; Gagyte, G; Remeikiene, R; Matuliene, S",
+    "year": "2022",
+    "doi": "10.14254/2071-789X.2020/15-2/10",
+    "abstract": "The number of enforcement actions and fines for non-compliance with anti-money laundering (AML) regulations continues climbing year after year, and the year 2021 was no exception to this tendency. Globally, authorities remain harsh, and AML fines in Europe, the United States, and the United Kingdom have been increasing (Global Anti-Money Laundering Regulations, 2021). According to the UN estimations, the amount of money annually laundered worldwide amounts to 2-5% of the world's Gross Domestic Product (GDP), or in absolute numbers - to 800 billion-2 trillion US dollars. Such high figures indicate that national governments are indeed facing a serious problem of money laundering. In this article, clustering is employed to group the EU member states by their money laundering measuring indices in order to assess the EU legal framework in terms of money laundering prevention. State clustering could help the relevant EU institutions, such as Financial Intelligence Units (FIUs), Europol, International Monetary Fund (IMF), national governments and others, to develop the most effective measures to diminish the problem of money laundering and to complement their regulatory framework. Money laundering is usually associated with criminal activities that generate large amounts of illegal financial resources. In the most general sense, money laundering refers to the process of disguising the true origin, ownership, disposal and movement of particular proceeds, property or property rights. The results of the empirical research propose that money laundering reduction calls for a higher number of suspicious transaction reports (STRs), lower levels of corruption and improvement of the legal framework in terms of money laundering prevention in the EU. The research methods cover comparative and systematic literature analysis, and hierarchical cluster analysis. The cluster analysis of the EU member states (28 countries) uses the number of reports filled with FIU between 2006-2014, the 2012-2020 Basel AML Index and the 1998-2018 CPI data.",
+    "source": "ECONOMICS & SOCIOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

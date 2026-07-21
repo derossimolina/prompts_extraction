@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0020-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Operating the boundary system: A case study of Anti-Money Laundering risk management in a bank",
+    "authors": "Ringgaard A.; Bukh P.N.; Sandalgaard N.",
+    "year": "2025",
+    "doi": "10.1007/s00187-025-00392-x",
+    "abstract": "This paper examines the role of boundary systems in operational risk management. The paper is based on a case study of a large Scandinavian bank for which effective Anti-Money Laundering (AML) is a regulatory requirement. Relying on interviews as the primary data source, the study demonstrates how the management control system develops over time in response to regulatory intervention. While the literature has previously accentuated the role of interactive and diagnostic systems in strategic risk management, this study demonstrates the importance of boundary systems in operational risk management. Establishing a separate diagnostic system for AML reporting was ineffective and so was embedding AML in the interactive budgeting system. Instead, establishing AML as a boundary system that delineates rules to be followed rather than opportunities to be sought counterbalances the beliefs systems in decentralised organisations, where effective AML is a prerequisite licence to operate and engage with strategic risks. This paper is one of the first to unravel how boundary systems can be established and operated as part of a management control system. The case study is not only relevant to the banking sector but practitioners in other settings may also consider how boundary systems can ensure effective operational risk management. © The Author(s) 2025.",
+    "source": "Journal of Management Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

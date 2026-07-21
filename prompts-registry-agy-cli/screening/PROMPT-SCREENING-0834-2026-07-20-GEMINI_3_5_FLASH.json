@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0834-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Esg in the real estate valuations. A portfolio selection model for energy retrofit programs",
+    "authors": "Tajani F.; Sica F.; Clemente C.; Arbizzani E.",
+    "year": "2024",
+    "doi": "10.48264/VVSIEV-20243603",
+    "abstract": "European directives on sustainable finance identify binding guidelines in investment planning for the decarbonization of the real estate sector. The Sustainable Finance Disclosure Regulation regularizes the methods of economic evaluation of projects by identifying the pillars Environmental (E), Social (S) and Governance (G) as thematic reference stylistic features. The ESG triptych constitutes inspiration in the scientific Literature in the field for the proposal and testing of valuation algorithms aimed at the optimal structuring of investment portfolios. The paper proposes an ESG-based economic-financial analysis model for energy retrofit programs referring to the existing real estate sector. The model assumes the configuration of a multi-objective system built by borrowing algebraic formalisms of Operations Research, especially those of optimization algorithms. These algorithms make it possible to construct Logical- functional relationships such as to represent the anatomy of the proposed evaluation model in terms of objective function and constraints, for example on the European decarbonization pathway target, or even on the available budget. The implementation of the proposed model, applied to a case study, returns a time priority List of assets to be energy efficient, balancing for each the investment costs, payback period and post-retrofit CO2 production. © 2024, Dei Tipografia del Genio Civile. All rights reserved.",
+    "source": "Valori e Valutazioni"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

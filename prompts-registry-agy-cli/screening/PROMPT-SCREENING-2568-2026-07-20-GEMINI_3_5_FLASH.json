@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2568-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "RESTRUCTURING OF A PHYSICAL PERSON'S DEBT IN BANKRUPTCY CASE: FEATURES OF THE PROCEDURE",
+    "authors": "Kondratieva, KS; Groysberg, AI",
+    "year": "2016",
+    "doi": "10.17072/1995-4190-2015-4-68-77",
+    "abstract": "Introduction: the article considers features of carrying out a procedure of restructuring a debt of a citizen who is not an individual entrepreneur in bankruptcy case. Purpose: to study the rehabilitation nature of the structuring procedure based on distinguishing its stages. Methods: analytical and system methods, comparative and legal, technical and legal methods are used. Results: legal consequences of introducing the procedure of restructuring a debtor's debt allow him to stabilize his financial position and to save his property to meet creditors' requirements. Actions of a financial manager, first of all, are aimed at providing creditors with a right to take part in the case of the debtor's bankruptcy. In their turn, creditors are recommended to act with due care and discretion to keep an opportunity to participate in settling the debtor's legal destiny. The law has additional provisions protecting rights of creditors of the first and second order, and also creditors' rights referring to the current liabilities, the debt to which shall be repaid before the approval of the debt restructuring plan. Conclusions: having introduced the institute of citizens' debts restructuring, the Russian legislation legally enables debtors to pay debts during a long term and to keep their property at the same time. Giving an opportunity to choose a bankruptcy procedure applied to debtors-consumers depending on their liabilities, income and size of debts, the legislator purposes to protect the debtor from loss of property and from psychological stress, thereby strengthening social and economic infrastructure.",
+    "source": "VESTNIK PERMSKOGO UNIVERSITETA-JURIDICHESKIE NAUKI"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

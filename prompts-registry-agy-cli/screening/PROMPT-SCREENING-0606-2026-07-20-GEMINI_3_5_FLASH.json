@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0606-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Re-inventing housing finance with blockchain. The case of Sweden",
+    "authors": "Proskurovska A.",
+    "year": "2023",
+    "doi": "10.1016/j.geoforum.2023.103884",
+    "abstract": "This article examines the ongoing transformation of mortgage markets induced by blockchain applications for property transactions. It argues that their adoption can reshape housing finance by re-inventing the qualities of products circulating therein. This process was evident in Sweden, where a public–private consortium pioneered the use of blockchain to orchestrate the conveyance and mortgaging of residential across the entire country. Drawing from several distinct fields and building on the analysis of 24 semi-structured interviews, this article follows the interdisciplinary cultural economy literature on marketization. It demonstrates that by integrating technology with the legacy Land Administration System (LAS), the experiment offered a way to “fix” the Swedish mortgage market, through re-engineering conveyance workflow and supplying mortgages with a transparent audit trail. Circulating such radically new products could reconcile contradictions between Swedish mortgage market liquidity and risk-taking on the one hand and longstanding concerns about its financial safety for consumers on the other. This created unanticipated risks, however, which shaped the outcome of the experiment. This research contends that, at this early stage of the technology adoption, taking a step back to better understand the role of LAS in structuring concrete configurations of housing and mortgage markets opens the door to considering the mechanisms that shape the outcomes of such experiments – a reintroduction of existing and profoundly uneven socioeconomic relations. © 2023",
+    "source": "Geoforum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1482-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Drug trafficking and political power: Oligopolies of coercion in Colombia and Mexico",
+    "authors": "Duncan G.",
+    "year": "2014",
+    "doi": "10.1177/0094582X13509071",
+    "abstract": "Case studies of drug trafficking in Colombia and Mexico illuminate the effects of mafias on the relationship between political power and the social order. First, in addition to extracting income, mafias seek to impose social orders in peripheral spaces of society, mainly as an unintended consequence of the most obvious reason for their intervention in politics: to provide immunity to criminals facing potential threats of state repression. This objective makes them rivals of the state, and this competition is not only a matter of their ability to corrupt it. Their capacity for regulating society is essentially a result of their coercive power, and as a consequence their existence is a challenge to the Weberian premise of the modern state as a monopoly on coercion. What we see in Colombia and Mexico today is oligopolies of coercion, a situation in which several organizations have simultaneous and overlapping control of the means of coercion necessary to regulate societal transactions. © 2013 Latin American Perspectives.",
+    "source": "Latin American Perspectives"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

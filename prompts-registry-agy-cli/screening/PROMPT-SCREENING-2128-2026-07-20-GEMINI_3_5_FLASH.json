@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2128-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Narcoterrorism and Australia: Is a New Theoretical Lens Required?",
+    "authors": "Clark M.",
+    "year": "2008",
+    "doi": "10.1350/pojo.2008.81.3.435",
+    "abstract": "This article seeks to examine the cooperative networks between terrorists and organised criminals and lay a basis for an argument that the use of the threat assessment model, based upon a philosophy of realism, may no longer serve Australia's interests. The narcoterrorist networks that produce, transport and distribute illicit narcotics illustrates a ‘crossover’ between criminality and defence threat, and, potentially, an operational disconnect in a federated country, such as Australia. Local police may not be able to support defence measures to the fullest extent. A liberal philosophical threat assessment model, supported by a target-centric operational orientation, may enable defence and policing to act in unison to protect local and offshore communities that are vulnerable. A widening of the ‘philosophical lens' may integrate operations and intelligence to allow maximum pressure to be brought upon key points. © 2008 SAGE Publications.",
+    "source": "Police Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

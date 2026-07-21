@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1772-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Private equity market in Brazil: Key legal issues in fund formation",
+    "authors": "Binnie R.",
+    "year": "2013",
+    "doi": "10.3905/jpe.2013.16.4.069",
+    "abstract": "This article provides insight into key legal and practical aspects of the main private equity (PE) investment vehicle in Brazil, the Fundo de Investimento em Participações (FIP). First, it analyzes the historical evolution of the PE market in Brazil and looks at the investment strategies and available exits routes within this context. Second, it scrutinizes the basic features of PE fund formation in Brazil, covering areas such as structure, investment parameters, economics, governance, and documentation and marketing, comparing them wherever applicable with U.S. and U.K. PE models. In conclusion, an FIP structure provides PE players with a valuable investment vehicle for M&A activities in Brazil, with crucial tax efficiencies, fewer transaction costs associated with structuring, and enhanced governance and transparency standards. © 2013 Institutional Investor. All Rights Reserved.",
+    "source": "Journal of Private Equity"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

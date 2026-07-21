@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2151-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Swiss banking confidentiality: perceptions vs. reality",
+    "authors": "Peppas S.C.",
+    "year": "2004",
+    "doi": "10.1108/01409170410784220",
+    "abstract": "Switzerland has long been known as a world leader in the financial services arena. However, in recent years the Swiss banking industry has come under considerable attack, in particular with regard to money laundering, Holocaust accounts and European Union tax evasion issues. This article examines Swiss banking confidentiality, reports perceptions of a sample of US Americans with regard to banking secrecy, and compares and contrasts perceptions with reality. The results of this study indicate that the general public holds negative perceptions of Swiss banking practices. This article should serve to correct misperceptions of Swiss banking held by the public at large and should be of particular interest to those involved in Swiss banking and the marketing of financial services. © 2004, Emerald Group Publishing Limited",
+    "source": "Management Research News"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

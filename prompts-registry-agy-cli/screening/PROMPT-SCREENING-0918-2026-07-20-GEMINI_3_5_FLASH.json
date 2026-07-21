@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0918-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessment of the scale of money laundering in Russia",
+    "authors": "Tanyushcheva N.Y.; Isakova E.T.",
+    "year": "2024",
+    "doi": "10.32609/0042-8736-2024-10-77-93",
+    "abstract": "Measuring the scale of money laundering is still in its infancy. This article presents a classification of economic concepts for assessing the volume of money laundering, traces their strengths and weaknesses, and provides the results of testing the authors’ modification of the method of the Australian economist J. Walker, based on official crime data in the country. The following estimates were proposed: 1) the probable proceeds of crime in Russia in 2023 and 2) the amount of money laundered for open use. These results can be used by law enforcement agencies as well as the Bank of Russia, Rosfinmonitoring and legislators to perfect measures on curtailing money laundering. Estimates can be improved on the basis of more detailed crime information in the country. © 2024, Russian Presidential Academy of National Economy and Public Administration. All rights reserved.",
+    "source": "Voprosy Ekonomiki"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

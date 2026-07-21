@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0919-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DEVELOPMENT OF QUANTUM COMPUTING ALGORITHM OF TECHNOLOGY FOR MONITORING LEARNING RESULTS",
+    "authors": "Yesmagambetova G.; Aktayeva A.; Kubigenova A.; Ismukanova A.; Fomichyova T.; Zhartanov S.; Daurenova A.",
+    "year": "2024",
+    "doi": "10.15587/1729-4061.2024.306968",
+    "abstract": "The present publication considers implementing an online control proctoring system, with the possibility of using methods and models of pattern recognition using algorithmic quantum computing to conduct online exams. The study’s object is the protection method within infrastructure proctoring systems in education. The study aims to create a security system for proctoring technology infrastructure in education. The article proposes an alternative approach to building protection systems with an effective recognition model using algorithmic quantum computing in proctoring platforms. This study addresses these issues and proposes a novel approach to generating a random cryptographic key using multimodal biometric technology. A presented quantum algorithm method for computer simulation of the data processing quantum principles allows studying and analysing how the created model for transforming a classical image into a quantum state works. This method also shows the possibilities of quantum information theory in interpreting classical problems or how to optimise the same, taking into account the development of methods for the functioning of models and algorithms for quantum computing, data protection and security of online video communications in a proctoring system in an educational environment. The novelty of this research is expressed primarily in the constant updating and addition of authentication systems using quantum computing in various aspects, including the proctoring system in the educational environment. The practical significance is due to the need in the current situation to attract attention to existing problems in structuring the infrastructure of a monitoring system within planning and coordinating the protection, thereby enhancing learning outcomes by eliminating security flaws using a quantum computing algorithm for pattern recognition Copyright © 2024, Authors. This is an open access article under the Creative Commons CC BY license",
+    "source": "Eastern-European Journal of Enterprise Technologies"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica modelagem baseada em agentes (ABM) para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo), Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

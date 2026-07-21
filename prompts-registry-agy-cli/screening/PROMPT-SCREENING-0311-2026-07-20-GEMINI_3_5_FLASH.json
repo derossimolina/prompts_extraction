@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0311-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Building Trust and Honouring Agreements in the Supply of Protected Wildlife Products1",
+    "authors": "Wong R.W.Y.",
+    "year": "2024",
+    "doi": "10.1093/bjc/azad053",
+    "abstract": "This paper draws on interview data and published court judgment reports to reveal first-hand accounts of illegal transactions involving protected wildlife and how criminals collaborate with one another. This research finds that wildlife supply is controlled by a small number of key suppliers. Further, trust is embedded in the criminals’ relationship based on kinship and friendship ties, while individuals’ ethnicity and reputation also facilitate collaboration. These arrangements shape the criminal networks that exploit protected wildlife. This paper suggests further research into online trading of protected wildlife products, the presence of women in the illegal wildlife trade and the impact of COVID-19 on the criminal networks supplying wildlife. © The Author(s) 2023.",
+    "source": "British Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

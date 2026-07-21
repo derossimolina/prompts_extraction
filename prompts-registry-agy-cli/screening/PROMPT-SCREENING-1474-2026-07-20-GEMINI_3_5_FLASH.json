@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1474-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE TRADE IN TOOLS: THE MARKET FOR ILLICIT GUNS IN HIGH-RISK NETWORKS",
+    "authors": "Hureau D.M.; Braga A.A.",
+    "year": "2018",
+    "doi": "10.1111/1745-9125.12187",
+    "abstract": "Illegal guns circulating among high-risk networks represent a threat to the security and well-being of urban neighborhoods. Research findings reveal that illegal firearms are usually acquired through a variety of means, including theft and diversions from legitimate firearms commerce. Little is known, however, about the underground gun markets supplying the gang and drug networks responsible for a large share of gun violence in U.S. cities. In this article, we take a mixed-methods approach, combining trace analyses of recovered handguns with ethnographic interviews of high-risk gun users to develop new insights on the entry of guns into three criminal networks in Boston. We find that guns possessed by Boston gang members are of a different character compared with other crime guns; these guns are more likely to be older firearms originating from New Hampshire, Maine, and I-95 southern states. The results of our qualitative research reveal that gang members and drug dealers pay inflated prices for handguns diverted by traffickers exploiting unregulated secondary market transactions, with significant premiums paid for high-caliber semiautomatic pistols. Taken together, these findings provide an analytic portrait of the market for illicit guns among those most proximate to violence, yielding novel empirical, theoretical, and practical insights into the problem of criminal gun access. © 2018 American Society of Criminology",
+    "source": "Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

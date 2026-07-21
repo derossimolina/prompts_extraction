@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1214-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The influence of loan officers on loan contract design and performance",
+    "authors": "Bushman R.; Gao J.; Martin X.; Pacelli J.",
+    "year": "2021",
+    "doi": "10.1016/j.jacceco.2020.101384",
+    "abstract": "We investigate the extent to which loan officers generate independent, individual effects on the design and performance of syndicated loans. We construct a large database containing the identities of loan officers involved in structuring syndicated loan deals, allowing us to systematically disentangle borrower, bank, and loan officer fixed effects. We find that loan officers have significant influence on interest spreads, loan covenant design, and loan performance. Inclusion of borrower fixed effects increases our power to rule out the alternative that loan officer fixed effects reflect the matching of officerds to borrowers based on time-invariant borrower characteristics. We document heterogeneity in loan officers’ influence across loan contract terms, with loan officers exerting stronger influence over covenant package design than over interest spreads, but marginal influence on loan maturity. Lead officers have greater influence than participant officers over covenant package design and loan performance, but less robust differential influence on interest spreads. © 2020 Elsevier B.V.",
+    "source": "Journal of Accounting and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

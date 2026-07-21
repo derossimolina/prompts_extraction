@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1541-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sarajevo - A city profile",
+    "authors": "Gül M.; Dee J.",
+    "year": "2015",
+    "doi": "10.1016/j.cities.2014.11.018",
+    "abstract": "This paper profiles Bosnia and Herzegovina's capital, Sarajevo from its Ottoman, Austro-Hungarian and Yugoslav past to the impact of the 1992-95 War and the contemporary city of today. The country and city have received large amounts of aid from various sources such as the European Union, World Bank and International Monetary Fund. Major social, economic and political issues still remain. While Sarajevo's urban morphology is a product of its past, significant change has occurred as the result of shopping centre development that has spread commercial activities away from the older city centre. In addition, new urban settlements have occurred in the surrounding hills with concomitant environmental problems. The public tramway system, however, remains the principal structuring device of the urban form where development still follows a linear pattern along the valley connecting Sarajevo and Ilidža. This transport and land use pattern must be reinforced with long-term capital investment. The ethnic divide between the Federation and Republic is a formidable obstacle. Finally accession to the European Union may in the end render this artificial boundary irrelevant. © 2014 Elsevier Ltd.",
+    "source": "Cities"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1743-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of Financial Intelligence Units in combating money laundering: A comparative analysis of Zambia, Zimbabwe and Malawi",
+    "authors": "Simwayi M.; Haseed M.",
+    "year": "2011",
+    "doi": "10.1108/13685201211194754",
+    "abstract": "PurposeThe purpose of this paper is to present a comparative position of Financial Intelligence Units &lpar;FIU&rpar; in Zambia, Zimbabwe and Malawi and assess their role in combating money laundering. Design&sol;methodology&sol;approachThe study employed a multiple case study research methodology. The units in the three countries are compared using a framework based on the Financial Action Task Force &lpar;FATF&rpar; recommendations, the International Monetary Fund, the World Bank and Commonwealth guidelines and the Egmont Group guidelines. FindingsThe study established that the three countries have made tremendous progress in the fight against money laundering. The units in the three countries have several commonalities and differences. Zimbabwe is left behind in the process of establishing an effective FIU. Malawi is on top with Zambia coming second. Research limitations&sol;implicationsApart from the common limitations of the multiple case study methodology, the major limitation of this study was the utilization of secondary data in the case of Zimbabwe. Practical implicationsThe practical implication of these findings is that policy makers and FIU authorities the world over would be particularly interested in regard to strengthening their units and comparing themselves with international standards. Originality&sol;valueBy focusing on three countries the study has addressed weaknesses usually associated with single country case studies. These findings may be generalized without difficulties. It is envisaged that that research will encourage similar studies in other regions of the world. © 2012, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

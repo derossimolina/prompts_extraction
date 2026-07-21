@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0901-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A framework for live host-based Bitcoin wallet forensics and triage",
+    "authors": "Holmes A.; Buchanan W.J.",
+    "year": "2023",
+    "doi": "10.1016/j.fsidi.2022.301486",
+    "abstract": "Organised crime and cybercriminals use Bitcoin, a popular cryptocurrency, to launder money and move it across borders with impunity. The UK and other countries have legislation to recover the proceeds of crime from criminals. Recent UK case law has recognised cryptocurrency assets as property that can be seized and realised under the Proceeds of Crime Act (POCA). To seize a cryptocurrency asset generally requires access to the private key. Anecdotal evidence suggests that if cryptocurrency is not seized quickly after enforcement action has taken place, it will be transferred to other wallets making it difficult to seize at a future time. We investigate how Bitcoin could be seized from an Electrum or Ledger hardware wallet, during a law enforcement search, using live forensic techniques and a dictionary attack. We conduct a literature review examining the state-of-the-art in Bitcoin application forensics and Bitcoin wallet attacks. Concluding, that there is a gap in research on Bitcoin wallet security and that a significant proportion of the available literature comes from a small group of academics working with industry and law enforcement (Volety et al. 2019; Van Der Horst et al., 2017; Zollner et al., 2019). We then forensically examine the Electrum software wallet and the Ledger Nano S hardware wallet, to establish what artefacts can be recovered to assist in the recovery of Bitcoin from the wallets. Our main contribution is a proposed framework for Bitcoin forensic triage, a collection tool to recover Bitcoin artefacts and identifiers, and two proof of concept dictionary-attack tools written in Python and OpenCL. We then evaluate these tools to establish if an attack is practicable using a low-cost cluster of public cloud-based Graphics Processing Unit (GPU) instances. During our investigation, we find a weakness in Electrum's storage of encrypted private keys in RAM. We leverage this to make around 2.4 trillion password guesses. We also demonstrate that we can conduct 16.6 billion guesses against a password protected Ledger seed phrase. © 2022",
+    "source": "Forensic Science International: Digital Investigation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

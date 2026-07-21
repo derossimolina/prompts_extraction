@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2246-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "POLICY FOR PREVENTION (AVOIDANCE) OF CRIMES IN FINANCIAL MARKETS",
+    "authors": "Sviatotskyi, O; Babenko, A; Reznichenko, H",
+    "year": "2025",
+    "doi": "10.30525/2256-0742/2025-11-4-389-394",
+    "abstract": "The article is devoted to the study of the problems of prevention (prevention) of crimes in financial markets. The authors conducted a thorough analysis of the fundamental elements of the policy aimed at the prevention of criminal activities in the domain of financial markets. It has been determined that contemporary financial markets are complex and dynamic systems, vulnerable to fraud, market manipulation, insider trading, money laundering, terrorist financing and cybercrime. The globalisation and digitalisation of financial services has resulted in an increase in the number and complexity of financial criminal offences, causing significant losses and undermining trust in financial markets. A thorough analysis was conducted, revealing a discernible trend of criminal schemes becoming increasingly intricate. This necessitates a constant refinement of preventive mechanisms, regulatory frameworks, and law enforcement practices. It has been determined that criminal offences in financial markets are socially dangerous acts that encroach on the functioning of the financial system, the circulation of instruments and resources, trust in institutions and the legitimate interests of participants. The following characteristics are emphasised: increased latency, transnational nature and the use of complex financial schemes. It is hereby proposed that a new classification of crimes be established, encompassing a range of offences. These include those pertaining to the circulation of money, within the domain of financial monitoring and the counteraction of the legalisation of criminal proceeds. This encompasses the budget and tax systems, the stability of the banking system, and those related to the manipulation and utilisation of confidential information. It is important to note that the prevention policy in financial markets is a purposeful, systematic and multi-vector activity on the part of the state and financial market entities. The aim of this policy is to eliminate or minimise the determinants of crime and to reduce criminogenic risks. The primary vectors of the prevention policy are identified as follows: legislative prevention, institutional prevention, corporate prevention, social prevention and global prevention. It is emphasised that the integrated application of these strategies ensures comprehensive protection of the financial system.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

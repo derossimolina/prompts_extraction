@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0907-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "SMART STRUCTURING AND MONITORING OF CAUSAL DYNAMICS BETWEEN GUIDELINES AND PRIORITIES OF BANCO DE PORTUGAL UNDER THE 2021-25 STRATEGIC PLAN",
+    "authors": "Travisco M.M.; Ferreira F.A.F.; Milici A.; Banaitienė N.; Banaitis A.",
+    "year": "2023",
+    "doi": "10.3846/tede.2023.19319",
+    "abstract": "In 2021, Banco de Portugal started a new cycle of strategic planning. The Banco de Portugal’s fourth strategic plan (i.e., PE21-25) was published at the institutional website, and defines 35 priorities/objectives grouped into five strategic guidelines. The interrelationships and causal dynamics of those guidelines and priorities are the core of the current research. The main purpose is to develop a set of actions aiming at producing recommendations for prioritizing the 35 strategic objectives using the Decision MAking Trial and Evaluation Laboratory (DEMATEL) method. The objective is to develop a constructivist procedure that, with the direct collaboration of a panel of relevant decision makers, grants the analysis objectivity and empirical substance for making recommendations at the strategic level. Contributing to the literature on central banking strategic planning is an additional objective. The results of the DEMATEL application include the identification of three priorities as central factors (i.e., high prominence and high relationship), and a hierarchical list of the PE21-25 strategic priorities analyzed, including their cause-and-effect relationships. © 2023 The Author(s). Published by Vilnius Gediminas Technical University.",
+    "source": "Technological and Economic Development of Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

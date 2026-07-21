@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1269-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Between a rock and a hard place: rural transformations and migrant communities in Guatemala",
+    "authors": "Aguilar-Støen M.",
+    "year": "2020",
+    "doi": "10.1080/02255189.2019.1666358",
+    "abstract": "My case study of a Guatemalan coffee cooperative illustrates how migrant aspirations shape and are being shaped by this rural institution, and how local dynamics and international flows interact. I understand aspirations to involve negotiations of the past in the present, thus serving as a compass for action. Opportunities for coffee production and access to land that are opened by the remittance economy provide more than material gains; they expand rural people’s sense of self and change their position in relation to others. While aspirations alone cannot secure broad social change, they provide hope that is crucial to endure difficult conditions. © 2019, © 2019 Canadian Association for the Study of International Development (CASID).",
+    "source": "Canadian Journal of Development Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1510-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Outcaste Politics and Organized Crime in Japan: The Effect of Terminating Ethnic Subsidies",
+    "authors": "Ramseyer J.M.; Rasmusen E.B.",
+    "year": "2018",
+    "doi": "10.1111/jels.12177",
+    "abstract": "In 1969, Japan launched a massive subsidy program for the “burakumin” outcastes. The subsidies attracted the mob, and the higher incomes now available through organized crime attracted many burakumin. Thus, the subsidies gave new support to the tendency many Japanese already had to equate the burakumin with the mob. The government ended the subsidies in 2002. We explore the effect of the termination by merging 30 years of municipality data with a long-suppressed 1936 census of burakumin neighborhoods. We find that out-migration from municipalities with more burakumin increased after the end of the program. Apparently, the subsidies restrained young burakumin from joining mainstream society. We also find that despite the end of government-subsidized amenities, once the subsidies neared their end, real estate prices rose in municipalities with burakumin neighborhoods. With the subsidies gone and the mob in retreat, other Japanese found the formerly burakumin communities increasingly attractive places to live. © 2018 Cornell Law School and Wiley Periodicals, Inc.",
+    "source": "Journal of Empirical Legal Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

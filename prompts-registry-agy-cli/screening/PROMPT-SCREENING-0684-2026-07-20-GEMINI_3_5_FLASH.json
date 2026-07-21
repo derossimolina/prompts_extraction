@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0684-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Can Bitcoin help money cross the border: International evidence",
+    "authors": "Bao H.; Li J.; Peng Y.; Qu Q.",
+    "year": "2022",
+    "doi": "10.1016/j.frl.2022.103127",
+    "abstract": "This paper constructs a regional monthly co-movement indicator (Dynamic Conditional Correlation, DCC) between Bitcoin and MSCI indices of 21 regions based on the DCC-GARCH model. DCCs in most sample regions are positive, implying a strong linkage of Bitcoin and local stock markets. Furthermore, a region's capital account control of has positive impact on DCC, and the impact is more pronounced in regions with better money laundering supervision and less developed financial systems. This implies that Bitcoin, with investment and illegal purposes, tends to be likely used as an unregulated global currency to channel the funds from home to abroad. Finally, we also find that the rise in DCC will increase the pressure on the local financial system. Our study can assist cryptocurrency investors and regulators in making more informed decisions. © 2022",
+    "source": "Finance Research Letters"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

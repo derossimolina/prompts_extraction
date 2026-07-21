@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1543-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Experimental studies for the definition of 3D geospatial web services",
+    "authors": "Scianna A.",
+    "year": "2013",
+    "doi": "10.1007/s12518-012-0096-y",
+    "abstract": "The importance of geospatial information delivery, across Internet, is increasing more and more. But if, some years ago, visualizing 2D geographic information inside Internet browsers, extracted by HTTP servers supported by map servers (WebGIS applications) was satisfying, today users would acquire 3D information especially in some case or sectors as urban planning, environmental control, real estate management, cadastral applications, civil protection, and security. In these cases, availability of 3D information could be very valuable. Meanwhile, other needs came out such as the possibility to extract information with all Geographic Information Systems (GIS) software, in a transparent way for users, independently from the data format server-side, acquiring data from standardized 2D web services, made available by WebGIS servers; all this in the respect of principles of interoperability that is at the basis of the constructions of SDIs and one of the goals of Inspire European Directive. But behind this need, there exist many important aspects that today are only partially resolved as methods to save 3D information in geospatial database, the definition of topology relationships able to satisfy requirement of 3D GIS applications, the definition of 3D geospatial web services,. All these aspects are interconnected and are also dependent from some other aspects (i.e., the standardization of 3D geographic data models). The experimentation, here illustrated, deals with these issues, trying to define a 3D web service in order to visualize and query, by Internet Browsers, a 3D model of the built environment. Today, there exist few 3D data models (such as CityGML) whose standard definition process is also evolving. Often, these models are built with the main goal of 3D visualization even if at different level of detail. But some sectors require a better use of geographic 3D information such as querying it at different levels of detail (such as at a level regarding the different building parts defined through their attributes) and 3D processing. These are the environmental control, location-based services, cadastre, civil protection, security, archaeology, etc. For these reasons, it is strategic to study and propose new approaches and methods for structuring 3D geospatial information and for sharing 3D geospatial information on Internet granting an open access to it, also respecting interoperability issues. Based on a project named \"Interoperability and cooperative management of geographic, dynamic, multidimensional and distributed data with Free and Open Source GIS: Management and use of distributed 3D data by open source WebGIS software\" funded by Italian Ministry of Instruction, University and Research as Program of Relevant National Interest (2007), a part of the research process is here illustrated. The research deals with the design of 3D Web Feature Service and the development of a system mainly based on Java applications both client (Java applet) and server-side (Java servlet) and 3D geospatial database with topological structure compliant to a conceptual geospatial data model of an urban environment. The server-side system is capable to deploy a 3D Web Feature Service, which allows the extraction of GML 3D and the graphical browsing of urban model in 3D through the Java applet. © 2012 Società Italiana di Fotogrammetria e Topografia (SIFET).",
+    "source": "Applied Geomatics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

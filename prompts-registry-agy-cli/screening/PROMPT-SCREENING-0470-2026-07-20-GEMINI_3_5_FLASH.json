@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0470-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blockchain technology, big data evidence, and financial crime",
+    "authors": "Zhang Y.; Duan F.",
+    "year": "2026",
+    "doi": "10.1016/j.frl.2025.109259",
+    "abstract": "Based on data from listed companies between 2013 and 2023, this paper explores the relationship between the application of blockchain technology, the capabilities of big data evidence, and corporate financial crime. The study finds that higher levels of blockchain technology application correlate with lower rates of corporate financial crime; stronger big data evidence capabilities are associated with decreased financial crime; and big data evidence capabilities mediate the relationship between blockchain technology application and financial crime. Furthermore, this mediating role exhibits heterogeneity across companies with varying levels of financial leverage. The research conclusions provide new empirical support for the role of digital technology in financial governance and risk management. © 2025 Elsevier Inc. All rights are reserved.",
+    "source": "Finance Research Letters"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

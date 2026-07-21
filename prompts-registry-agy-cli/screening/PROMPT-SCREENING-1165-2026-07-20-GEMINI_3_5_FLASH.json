@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1165-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Automatic Detection of County Lines Criminal Scheme",
+    "authors": "Granosik T.; Lewańska E.",
+    "year": "2020",
+    "doi": "10.7250/csimq.2020-23.02",
+    "abstract": "County lines are a new type of criminal activity in the UK in which young people are being forced to participate in drug dealing. This article presents an application of an unsupervised machine learning technique to detect such cases among a bank’s clients, using financial and spatial data. It proposes and presents a system for detecting county lines crime schemes and uses the example of integrating spatial analysis into financial crime detection. The initial results will be a base for further research. © 2020 Tomasz Granosik et al.",
+    "source": "Complex Systems Informatics and Modeling Quarterly"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

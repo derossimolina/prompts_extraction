@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1017-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Intricacies of anti-money laundering and cyber-crimes regulation in a fluid global system",
+    "authors": "Mugarura N.; Ssali E.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-11-2019-0092",
+    "abstract": "Purpose: The purpose of this paper is to decipher the law relating to cybercrimes regulation and benchmarking best practices that could be adopted to address regulatory weaknesses in some countries. In many countries, cybercrimes regulation is undermined by a lack of robust regulatory regimes. The few regimes that are available are fragmented with no coherent global strategy to deal with these offences across countries and regions. There is a lot of scholarly literature to corroborate the fact that lack of requisite laws on cyber and financial crimes has rendered states lame ducks when faced with well-organized and resourced criminal organizations. Design/methodology/approach: This paper articulates intricacies of regulating money laundering and cybercrimes using data from selected African countries and beyond. Generic issues on financial crimes, cybercrimes, case law and policy documents drawn from different jurisdictions have been examined based on the objectives of the study. Cybercrime activities and anti-money laundering (AML) regulatory models have been evaluated drawing on experiences of selected countries in Africa and other countries. Questions whether suspicious activity reports are appropriate as a model to counter incidences of cybercrime activities or whether other options should be considered were also examined. Most notably, the risk-based assessment model such as profiling of high-risk clients rather than reporting every transaction will be compared and possibly suggested as a suitable alternative in financial crimes regulation. The authors have evaluated the data and AML regulatory approaches and other policy measures to curtail the foregoing threats. There is a possibility that AML tools used by financial institutions and banking activities could be used to prevent the growing threat of cybercrimes. The paper has also been enriched by case studies of tenuous legal systems and fragmentation of laws on cybercrimes and financial crimes and how these gaps have been exploited to fuel incidences of illicit criminal activities around the globe. The paper has also used empirical data including visits to banks and financial institutions on the nexus between the threat of cybercrimes and money laundering prevention. The authors have been selective, evaluating cases from 2000s to date. This timeline was particularly important because of the increased incidences of computers and money laundering threats globally. After analysing the data, the authors were able to delineate that there is a close connection between the foregoing two crimes, how they operate in practice, differences and similarities in the counter-measures used to mitigate their negative effect globally. Thus, in the authors’ contention, this is a novel study that is likely to spur farther research on law and policy against cyber and AML crimes not only in Uganda but also in other jurisdictions. At the same time, the findings of the study could complement, and perhaps also complete, the work of scholars who have written papers on cybercrimes to advocate for regulatory changes fight against these offences. The study will also complement the work of other researchers who have challenged the segregation of cybercrimes and financial crimes in local and international regulatory discourses. This research aims to make a significant contribution to the study of cybercrimes and how they are regulated in international law. Findings: The findings of the paper have confirmed that the high incidences of money laundering and cybercrimes today are partly fuelled by inherent weaknesses in the global regulatory system and partly fuelled by weaknesses at an individual state level. Many countries have enacted a raft of anti-cyber and AML legislation but this notwithstanding, these laws have not been used to stem cross-border crimes globally. This is partly explained by the fact that many enforcement institutions lack the requisite capacity to institute measures through which to implement engendered laws and policies easily. The regulatory capacity of many countries has been eviscerated by deficiencies in infrastructure and systems. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

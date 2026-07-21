@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1926-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Disclosure in Switzerland – a summary",
+    "authors": "Ringgenberg C.",
+    "year": "2006",
+    "doi": "10.1108/13685200610660998",
+    "abstract": "PurposeSeeks to summarize the arguably complex situation of disclosure in Switzerland in view of the rules on professional and banking secrecy. Design&sol;methodology&sol;approachThe methodology used is practical experience, law, jurisprudence and earlier publications by the author and others. FindingsNothing new is found, but what is new, is to find the rules of disclosure, in its penal and civil aspects, in one place and in a summarized practice&hyphen;oriented manner and not dispersed in different parts of Swiss law. Research limitations&sol;implicationsA future paper should cover the topic of disclosure on the national and international level between authorities, in particular penal, anti&hyphen;money laundering and surveyance of financial markets authorities, and not only, as it is in the present articles between authorities and individuals. The exchange between authorities is based on a complex set of rules dispersed in different parts of Swiss law. Practical implicationsThis paper has practical implications, as it is addressed to the foreign legal practitioner, who needs to know what are the exceptions to the prohibition of disclosure based on the protection of the private sphere under Swiss law. A future extension of the paper would deal with what information he can get through the exchange of information between the authorities of his country and the Swiss authorities. Originality&sol;valueWhat is new is to find the rules of disclosure in one place and in a summarized practice&hyphen;oriented manner. © 2006, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

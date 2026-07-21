@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1283-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Big Data Applications the Banking Sector: A Bibliometric Analysis Approach",
+    "authors": "Nobanee H.; Dilshad M.N.; Al Dhanhani M.; Al Neyadi M.; Al Qubaisi S.; Al Shamsi S.",
+    "year": "2021",
+    "doi": "10.1177/21582440211067234",
+    "abstract": "This study aims to review the existing literature on big data applications in banking using a bibliometric analysis approach. This approach describes citation rates, research outputs, and their implementations, along with current streams in the field and future research agenda. The articles were selected from 2012 to 2020 and sorted by the citation rate in results and analysis. We have discovered 60 papers related to big data in banking, although the applications of big data in the banking sector are growing rapidly, the number of research output in this field is limited. Several themes are extracted from the studies that are reviewed, analyzed, and presented in this report. This review covered the themes that include investment, profit, competition, credit risk analysis, banking crime, and fintech. This report also signifies the importance, use of big data, and its function in the banking and financial sector. This study has also discussed the future research scope in the banking industry’s big data analytics. © The Author(s) 2021.",
+    "source": "SAGE Open"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

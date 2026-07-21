@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2146-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Little enthusiasm for enhanced CDD of the politically connected",
+    "authors": "Johnson J.",
+    "year": "2008",
+    "doi": "10.1108/13685200810910376",
+    "abstract": "PurposeThe purpose of this paper is to determine whether countries are implementing enhanced customer due diligence &lpar;CDD&rpar; for financial transactions with the politically connected. Design&sol;methodology&sol;approachPublic information in relation to ratification of the UN anti&hyphen;corruption resolution, mutual evaluations of anti&hyphen;money laundering systems and Transparency International's &lpar;TI's&rpar; corruption reports are used to determine governments' attitudes to corruption and enhanced CDD recommended as best practice by the financial action task force &lpar;FATF&rpar;. FindingsIt was found that low levels of compliance with recommended best practice when handling transactions with politically exposed persons, amongst the countries examined, are leaving the global financial network open to abuse by those in public office. Research limitations&sol;implicationsThe release of mutual evaluation reports by the FATF and regional anti&hyphen;money laundering bodies has been of immense importance in determining the level of compliance with FATF recommendations. However, until a similar exercise is conducted on a global scale the true situation facing the global financial network cannot be determined. Practical implicationsThe lack of scrutiny of financial transactions of the politically connected puts the global financial system at risk and allows corruption at the highest levels to flourish. Originality&sol;valuePublication of the mutual evaluations of both FATF members and non&hyphen;member countries provides an opportunity, not previously available, to analyse the compliance with FATF recommendations across counties around the world. Given the TI findings, levels of corruption increasing and the involvement of public officials at the highest level, it is important to understand how transactions with the politically connected are being handled. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

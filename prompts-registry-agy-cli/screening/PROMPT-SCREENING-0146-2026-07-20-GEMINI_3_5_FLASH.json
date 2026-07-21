@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0146-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering regulations in Pakistan: a comparative analysis with global best practices",
+    "authors": "Channa K.A.; Khoso D.H.; Malik A.H.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-03-2025-0038",
+    "abstract": "Purpose: This study aims to critically evaluate Pakistan’s anti-money laundering (AML) framework in comparison to global best practices, focusing on identifying gaps, challenges and potential improvements. It seeks to enhance the effectiveness of AML regulations in Pakistan by aligning them more closely with international standards set by the Financial Action Task Force (FATF). Design/methodology/approach: A comparative analysis method was used, examining Pakistan’s AML legal and institutional framework against international standards. The study used secondary data from regulatory reports, journal articles and FATF guidelines to assess the adaptation of global AML measures within Pakistan’s socio-political and economic context, identifying key areas for reform. Findings: The research reveals significant gaps in Pakistan’s AML framework, including weak enforcement, lack of political will and insufficient integration of advanced technologies. It highlights the potential benefits of adopting a risk-based approach, improving inter-agency collaboration and leveraging AI for transaction monitoring to enhance AML compliance in Pakistan. Originality/value: This study uniquely contributes to the AML literature by offering a comprehensive analysis of Pakistan’s regulatory framework in relation to global best practices. It provides original insights into how socio-political factors influence AML implementation, presenting practical recommendations to policymakers for aligning Pakistan’s AML measures with international standards. © 2025, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1744-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Houses of extraterritoriality and its influence in the vineyard landscape of the metropolitan area of mendoza; [Las viviendas de la extraterritorialidad y su influencia en el paisaje cultural vitivinícola del área metropolitana de mendoza]",
+    "authors": "Manzini Marchesi L.V.",
+    "year": "2017",
+    "doi": "10.5821/ace.12.35.4689",
+    "abstract": "At present, the Metropolitan Area of Mendoza (AMM) has an urban and “extraterritorial” urban growth, vertiginous, dynamic and spontaneous, product of a lacking planning of the state, remaining adrift of the supply and demand of real estate speculation. The result is linked to the process of metropolitanization of the territory and is observed especially in the rural and periurban sectors - interface. Extraterritorial housing integrated by the gated communities and slums are product of the lack of planning of the state in charge and they are governed by a state of exception decontextualized of the resources and systems structuring the territory. Gated communities have the greatest influence on landscape, contributing to the banalization of the vineyard landscape, against the identity character and its potential as a collective resource. In view of this, the aim of this work proposes, from the framework of patrimonial conservation, to carry out a historical architectural study that analyzes the gated communities, and how they are banalizing the cultural landscape of the AMM. The applied methodology combines history, architecture and geography and makes it feasible to analyze the vineyard landscape as heritage. The main contribution of the work was that the historical view on the landscape allowed to detect the housing of extraterritoriality as a product of the metropolization of the territory and its negative influence on the character of the vineyard landscape. Contributing in this way, the basic knowledge to be taken into account in the actions taken in the territory by the public and private actors linked. © 2017, Universitat Politecnica de Catalunya. All rights reserved.",
+    "source": "Architecture, City and Environment"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

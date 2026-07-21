@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1412-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering: A primer for banking staff",
+    "authors": "Naheem M.A.",
+    "year": "2016",
+    "doi": "10.1057/jdg.2015.10",
+    "abstract": "This article provides an introduction to money laundering (ML) and outlines the problems that banks face in detecting and assessing for risk. The article provides a brief history of earlier ML techniques such as cash deposits and the traditional model of placing, layering and integrating illegally acquired cash, before focusing on the modern-day problems. The banks are now having to deal with the progression and the increased levels of sophistication of ML techniques. Historically banks have addressed ML through national regulation systems, which have arisen from the state's focus on preventing the drug market expanding. However as other criminal activities are now funded through ML, the state regulation system has also expanded and there is now the added social obligation on banks to support the state in detecting and combatting ML activity across all criminal activities. The article considers some of the difficulties that banks face when trying to detect ML activity. A number of case studies are included, from recent reports from the Australian financial intelligence unit (FIU), to illustrate the modern level of complexity involved in each scheme. Finally, the article refers to recent research soon to be published that explores a number of suggestions made by industry experts from across the global banking, financial services, technology, audit, training and risk assessment sectors. The biggest challenge the article concludes is to be able to quickly and effectively bridge the knowledge gap between what money launderers know about using financial services and what the banks are aware of. The article proposes a new risk assessment tool that can be applied simply within the sector, which has been developed from the research material. This is a article that will be of great interest to anyone working in the financial regulation, banking or financial services sector, as well as law enforcement and FIUs across the globe. © 2016 Macmillan Publishers Ltd.",
+    "source": "International Journal of Disclosure and Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

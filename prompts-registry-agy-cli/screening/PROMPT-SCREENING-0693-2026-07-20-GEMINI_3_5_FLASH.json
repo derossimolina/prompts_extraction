@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0693-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Designing an accommodation strategy: findings from an architecture school",
+    "authors": "Riratanaphong C.",
+    "year": "2022",
+    "doi": "10.1108/F-02-2021-0015",
+    "abstract": "Purpose: This study aims to explore the need for space (demand) and the provision thereof (supply) in the Faculty of Architecture building at Thammasat University Rangsit campus using variables from the designing an accommodation strategy (DAS) framework; these variables are incorporated to test and improve the framework. Another purpose is to examine the planning and development of the faculty building to understand its strategy, which serves as a means to contribute to the planning and development theory. Design/methodology/approach: A case study of the Faculty of Architecture building was conducted at Thammasat University in Thailand. The DAS framework was used to reconstruct and examine the development process of the building to determine the gaps between supply and demand in terms of building space, to reflect on the building plan and process and to make suggestions as to how the DAS framework might be improved. Research methods included interviews and document analysis concerning space requirements and provision in the Faculty of Architecture building. Findings: The gaps between supply and demand in terms of the faculty building space are affected by the condition of the building (i.e. building obsolescence), the number of building users and the changing environmental context. This study shows that both pre-design and post-occupancy evaluation are essential to collect data concerning the match or mismatch between supply and demand of space and to assess users’ needs and preferences concerning the faculty building. Regarding the building development process, factors impacting the step-by-step planning of the real estate interventions include the organisational context (public/private sector) and the management of the construction project (time, cost, quality). The DAS framework is found to be useful for structuring the information-generating processes necessary to determine gaps between demand and supply in terms of space and for making decisions regarding real estate interventions. Research limitations/implications: Additional case studies in different environmental and organisational contexts are required to test the DAS framework and improve data validity. This study was conducted during the COVID-19 pandemic period, which affected data accessibility. Practical implications: The results provide insight into the influence of various factors on the decision of corporate real estate. The DAS framework can be used to explore the range of demand for and supply of space and to find an optimal match. Originality/value: This paper shows valuable steps in planning and development of educational real estate and a first application of the DAS framework in Thailand. The findings confirm the importance of the physical learning environment of architecture schools, particularly the studio spaces required in architecture education. © 2021, Emerald Publishing Limited.",
+    "source": "Facilities"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

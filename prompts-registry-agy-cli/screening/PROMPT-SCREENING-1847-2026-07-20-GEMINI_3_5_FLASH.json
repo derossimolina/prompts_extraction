@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1847-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The looting continues: Tax havens and corruption",
+    "authors": "Christensen J.",
+    "year": "2011",
+    "doi": "10.1108/17422041111128249",
+    "abstract": "Purpose: The purpose of this paper is to consider the activities of tax havens in the global financial markets and explore their role in providing a supply-side stimulant for corrupt practices. It aims to argue that the corruption debate needs to shift to a second phase in which the role of tax havens as supply-side stimulants features more prominently. Design/methodology/approach: Based on the author's original research into the practices and activities of tax havens, the paper explores the operational features of tax havens, with particular focus on their role in providing opaque and complex offshore structures through which illicit financial flows can be routed to disguise their origins, method of transfer and true beneficial ownership. The paper explores how bankers, lawyers and accountants create complex and opaque offshore structures to facilitate economic crime and impede investigation. Findings: Despite severe limitations imposed by the absence of rigorously researched statistical data on capital flows into and out of tax havens, the paper argues that the available data support the view that tax havens have become prominent features of the globalised capital markets, and their activities create a criminogenic environment in which illicit financial flows are easily disguised and hidden amongst legitimate commercial transactions. The paper notes that effective remedies are available to reduce financial market opacity, but political will is lacking to take effective action. Originality/value: This paper tackles a new and under-researched subject. Drawing on the author's experiences of working on a prominent tax haven for a total of 14 years, the paper brings attention to the impact of tax havens on international development. © Emerald Group Publishing Limited.",
+    "source": "Critical Perspectives on International Business"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

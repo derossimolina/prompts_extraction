@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1879-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hot money, hot stones and hot air&colon; crime&hyphen;money threat, real estate and real concern",
+    "authors": "van Duyne P.C.; Soudijn M.R.J.",
+    "year": "2009",
+    "doi": "10.1108/13685200910951929",
+    "abstract": "PurposeThe purpose of this paper is to generally express concern about the threat of crime&hyphen;money to the real estate sector and the lack of evidence coming forward from research and law enforcement. Design&sol;methodology&sol;approachIn addition to a review of the literature, this research project analysed the confiscation database of the Dutch prosecution office. From this base, the real estate confiscations from 2000 onwards were selected and analysed. The database management of the prosecution office proved to be extremely negligent. FindingsThe results could not substantiate the general concern that the crime&hyphen;money from the &ldquo;underworld&rdquo; was a real threat to the real estate market. Criminals did spend money on buying houses, sometimes big villas and a few of them had more property which was let. But this small financial criminal elite was widely spread over time and space. Research limitations&sol;implicationsThis research has to be continued on a cross&hyphen;country comparative basis, for which the first steps have been taken. In addition, the database analysis has to be complemented with an in&hyphen;depth criminal file analysis. This has started as a follow&hyphen;up study too. Practical implicationsThe first practical outcome is that more must happen to lift &ldquo;evidence based policy making&rdquo; from its state of empty rhetoric&colon; with the present database management there is no such a thing as &ldquo;evidence base policy making&rdquo;. The second practical implication is that crime&hyphen;money and laundering as a cross&hyphen;border phenomenon remains hardly understood as long data comparison are impossible due to the lack of common databases, which in addition are internationally polluted. Originality&sol;valueThe paper is really new as there are no precedents thus far. This is regrettable, as research needs a stimulating surrounding. However, few scholars step forward while the law enforcement agencies are most reluctant to share data, even if anonymised. © 2009, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

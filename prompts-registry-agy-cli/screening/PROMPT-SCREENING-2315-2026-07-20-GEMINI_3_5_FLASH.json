@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2315-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crime and crisis in China's P2P online lending market: a comparative analysis of fraud",
+    "authors": "Huang, L; Pontell, HN",
+    "year": "2023",
+    "doi": "10.1007/s10611-022-10053-y",
+    "abstract": "White-collar criminality continues to be a significant issue in countries with differing levels of economic development. This paper provides a comparative analysis of white-collar crime and crises through an examination of the recent peer-to-peer (P2P) online lending crash in China. It considers criminological findings from major United States crises in light of China's P2P online lending market failure through the lens of white-collar crime theory and research. The findings show that fraud was a main contributor to the P2P online lending crash and that various structural factors facilitated financial crimes that caused the collapse of the P2P online lending market. This study indicates that, similar to the U.S. experience, crime-facilitative environments allowed for endemic fraud in China's online lending industry. It suggests that a primarily reactive approach to financial crime is less effective than a proactive system of compliance that includes more comprehensive and transparent financial regulation and law enforcement.",
+    "source": "CRIME LAW AND SOCIAL CHANGE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

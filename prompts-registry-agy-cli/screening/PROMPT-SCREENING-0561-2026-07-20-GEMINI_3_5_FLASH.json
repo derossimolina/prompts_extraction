@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0561-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Estimating the destination of Mexican-based laundered funds: an application of the modified Walker-Unger model",
+    "authors": "Roman J.; Machuca A.; Schaefer T.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-01-2021-0008",
+    "abstract": "Purpose: This study aims to apply the modified Walker-Unger model to show the degree of attractiveness of a country for Mexican-based money launderers to send their illicit funds for the 2000–2015 time period. Design/methodology/approach: The modified Walker-Unger model is used to conduct the analysis, as it combines several independent variables related to an illicit financial activity. These allow the researcher to investigate the attractiveness of a market to money launderers and the possible economic effects of money laundering. In total, 13 categories of indicators were used, namely, gross national product per capita; banking secrecy; government attitude; society for worldwide interbank financial telecommunication membership; financial deposits; conflict; corruption; Egmont group membership; language; trade; culture, colonial background; and physical distance. Findings: Model results suggest the preferred destinations for Mexican-based money launderers from 2000 to 2015 were Bermuda (i.e. from 2000–2004), Canada (i.e. in 2005 and 2006) and Monaco (i.e. from 2007–2015). Research limitations/implications: Timing and availability of reliable data after 2015. Practical implications: Aids in continuing to empirically validate the Walker-Unger model. There is little literature on models that quantify money laundering activity. Social implications: May aid policymakers in targeting anti-money laundering policy to more relevant countries. Originality/value: The first empirical investigation that looks to quantify money launderer activity in Mexico. Contributes to the limited literature of quantitative investigations on money laundering. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

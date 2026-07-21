@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2241-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CONCEPTUAL PROVISIONS OF BANKING SYSTEM STABILITY ENSURANCE",
+    "authors": "Kuznetsova, AY; Pohorelenko, NP",
+    "year": "2018",
+    "doi": "10.18371/fcaptp.v3i26.143844",
+    "abstract": "The article insufficiently elaborates the conceptual provisions for ensuring the financial stability of the banking system, which in the complex would cover the necessary and sufficient conditions for ensuring financial stability, its components in terms of the systemic approach, the need to balance the main financial flows, a list of indicators to determine the level of financial stability, the main financial risks, determining the level of vulnerability of the banking system and tools for ensuring its stability. Systemic approach principles are applied to study the problem of ensuring the financial stability of the banking system, as well as some specific ones. This allows to justify the components of the mechanism of effective functioning of the banking system. The principles of the systemic approach include: integrity, hierarchy, structuring, plurality, consistency and common nature of goals, a single basis, incomplete determinism, continuity of the process of goals adjustment, complexity. Principles of ensuring the financial stability of the banking system are the principles of scientific validity, continuity, adaptability, balanced profitability, social and economic responsibility, trust, efficiency, timely discretion, redundancy. The proposed concept of ensuring the financial stability of the banking system is based on the principles reflected in the hypotheses and provisions that it discloses and can serve as the basis for providing financial stability as an appropriate theoretical and methodological basis. The concept is part of the theory of finance that built within the system paradigm, takes into account the stability of the institutional components of the banking system (central bank, systemic banks, banks with foreign capital, and banks with private capital) and the balance of financial flows.",
+    "source": "FINANCIAL AND CREDIT ACTIVITY-PROBLEMS OF THEORY AND PRACTICE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

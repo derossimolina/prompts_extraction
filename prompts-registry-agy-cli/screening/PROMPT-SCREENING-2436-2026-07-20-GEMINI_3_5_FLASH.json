@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2436-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Urban blight remediation strategies subject to seasonal constraints",
+    "authors": "Ferreira, FAF; Spahr, RW; Sunderman, MA; Govindan, K; Meidute-Kavaliauskiene, I",
+    "year": "2022",
+    "doi": "10.1016/j.ejor.2021.03.045",
+    "abstract": "Urban blight is often defined as abandoned or poorly maintained real estate properties, often with overgrowth, trash-filled yards and alleys, graffiti, and broken windows. It has a detrimental impact on neighborhood safety and reputation. Blight also creates low-value areas in urban centers, reduces property values and business investment, and increases unemployment. These effects make urban blight an issue of growing interest as the need to eradicate blighted properties has significantly increased worldwide. This study adopted a constructivist, socio-technical stance that combined cognitive mapping, moving averages, and the decision-making trial and evaluation laboratory method. This methodological approach facilitated the identification of prevention strategies that control urban blight occurrences and subsequent eradication subject to seasonal constraints. Based on real-world cases, data was collected directly from a panel of urban blight experts. The members analyzed different prevention initiatives in terms of five major dimensions-governance, community involvement, economic context, territorial planning, and operations-which were previously identified during the development of a collective causal map. Practical applications of the proposed decision-support system were analyzed and validated by two independent experts from the Direcao Geral do Territorio (General Directorate of the Territory of Portugal). No prior research was found that has adopted the proposed methodology to address urban blight. Recommendations facilitating the development of prevention strategies to eradicate urban blight are also provided. (c) 2021 Elsevier B.V. All rights reserved.",
+    "source": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

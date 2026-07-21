@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0028-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How Well Does the Money Laundering Control System Work?",
+    "authors": "Nazzari M.; Reuter P.",
+    "year": "2025",
+    "doi": "10.1086/735665",
+    "abstract": "The continued globalization of finances has generated an ever-larger array of methods for making criminal earnings appear legitimate. The global regime to control money laundering has become more sophisticated and comprehensive, (i.e., expensive and intrusive). There is no evidence that money laundering is declining or becoming more difficult or expensive. The system’s failure has many sources. Nations which pushed for its creation and development have been unwilling to implement critical elements. Major banks have repeatedly failed to meet their obligations, suggesting either insufficient commitment or a lack of the necessary skills and systems to comply. Regulatory oversight has been inadequate. There is, however, evidence that the system aids enforcement of laws against criminal enterprises. Despite the consensus that the system works poorly, there is almost no discussion of substantial reforms. © 2025 The University of Chicago. This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0), which permits non-commercial reuse of the work with attribution. For commercial use, contact journalpermissions@press.uchicago.edu. Rights for text and data mining and training of artificial intelligence technologies or similar technologies are reserved.",
+    "source": "Crime and Justice"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

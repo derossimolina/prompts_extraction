@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0345-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Offshore finance and corruption in oil licensing",
+    "authors": "Marcolongo G.; Zambiasi D.",
+    "year": "2024",
+    "doi": "10.1016/j.eneco.2024.107787",
+    "abstract": "Does the awarding of oil and gas licenses increase corruption? We answer this question by exploiting leaked data on the incorporation of shell companies and detailed information on the awarding of oil and gas licenses. Using this data, we construct a new dataset covering 119 countries over the period 1990–2014. Shell companies, by providing secrecy to their ultimate beneficiaries, are an ideal vehicle to channel bribes to officials involved in the awarding of oil licenses. We consider the incorporation of offshore entities as an indicator of corruption risk. We find that the number of new shell companies increases by 11% in the period around the awarding of an exploration license. We interpret this evidence to be a strong indicator that the award of an exploration license increases the risk of corruption. Consistent with rent-maximising behaviour, this association is stronger when the price of oil increases. © 2024 The Authors",
+    "source": "Energy Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

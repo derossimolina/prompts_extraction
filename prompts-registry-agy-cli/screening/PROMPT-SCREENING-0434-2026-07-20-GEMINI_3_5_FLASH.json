@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0434-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Between a rock and a hard place: managing the conflict between anti-money laundering and financial inclusion",
+    "authors": "Korpela S.J.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-04-2025-0049",
+    "abstract": "Purpose The purpose of this paper is to understand the practices and processes through which the conflict between anti-money laundering and countering the financing of terrorism (AML/CFT) regulations and financial inclusion (FI) can be managed. This paper contributes to the need for banks to manage these conflicting expectations. Design/methodology/approach Semi-structured interviews were carried out with subject-matter experts in Finland and analyzed through qualitative thematic analysis. Findings As the main finding, this study introduces the principle of least harm (1). The principle suggests that banks should aim for AML/CFT measures that are the least restrictive to customers, causing as little harm to FI as possible. Risk management should aim to maintain business relationships with high-risk customers through targeted controls. The two other findings of this study – maturity of risk management (2) and common approach and responsibility (3) – support the implementation of this principle. Research limitations/implications The data of this study were collected in Finland. Future research could examine how increased AML/CFT regulations have impacted FI in other developed countries. Practical implications The findings offer practices for banks’ risk management as well as suggestions for regulators and authorities to strengthen the common approach within the banking sector. Originality/value There is a lack of research examining the conflict between AML/CFT and FI in developed countries. This paper offers new knowledge on managing this conflict in the banking sector, with clear suggestions for improving industry practices. © 2025 Sonja Josefina Korpela",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1263-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How disruptive are FinTech and digital for banks and regulators?",
+    "authors": "Nuyens H.",
+    "year": "2019",
+    "doi": "10.69554/pbqh2788",
+    "abstract": "This paper investigates how disruptive FinTech and digital are for banks and regulators. Banks have always made use of new technologies to deliver banking products in more effective ways. This process continues today. Technological change not only results in more risk such as cyberattacks and money laundering, but also opens up new opportunities for banks and their customers. Banks have adapted their business models accordingly. They partner with FinTech to develop and deliver new technologies. Regulators and supervisors change as well, moving gradually in the FinTech space, helping them to develop their activities and starting to regulate their services. So even though FinTech and digital can be disruptive indeed — both for banks and regulators — they also create a new cross border ecosystem whereby banks and tech companies interact and compete, while regulators and supervisors adapt their oversight, leading to better financial services for customers and higher added value for society, provided that a level playing field is ensured. © Henry Stewart Publications.",
+    "source": "Journal of Risk Management in Financial Institutions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2161-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and the internet: A challenge for regulation",
+    "authors": "Jones R.; Keasey K.",
+    "year": "2000",
+    "doi": "10.1108/eb025031",
+    "abstract": "This paper examines the potential effects of the Internet and e-commerce on money laundering activity. Money laundering is a continuing problem both for regulators who are seeking to maintain trust and confidence in the financial system and the investigating authorities who are charged with enforcing the law. There have been a number of developments in recent years both in the detailed regulations and the laws designed to prevent and deter money laundering. There has been an ongoing battle of ideas and innovation between money launderers and the regulators and investigating authorities. To date the authorities have been able to keep up with developments by developing and refining the regulations. With the emergence of the Internet and e-commerce, however, new opportunities and techniques will be opened up to money launderers. This will present a whole new set of challenges and problems to the authorities. This paper considers these challenges and problems. © Henry Stewart Publications.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

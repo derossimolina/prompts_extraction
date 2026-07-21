@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1452-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Private equity fund raising in Nigeria - The legal requirements for pension funds",
+    "authors": "Ogunkunle O.",
+    "year": "2013",
+    "doi": "10.3905/jpe.2013.16.2.090",
+    "abstract": "Without funds or the promise of funds, investment activity is practically impossible anywhere. In addition to the primary significance of fundraising to a firm, the availability of opportunities for fundraising in a financial system is directly related to and has considerable impact on the growth of the local private equity industry, as this element should typically stimulate both global and local interest in the local PE industry. The primary goal of a general partner (GP) at the fund-raising stage of the private equity chain should be to obtain competent local advice on the legal and regulatory aspects of creating, structuring, marketing, operating, and closing a fund. This is particularly important in a jurisdiction like Nigeria where the legal framework for private equity is still largely evolving. Given that one of the key goals of fund structuring is the effective management of regulatory cost/burden and benefit, the aim of this article is to give the GP interested in raising private equity funding in Nigeria an overview of the legal requirements of fund raising as it relates particularly to pension funds. Although existing pension regulations only have direct implications for pension fund advisors in Nigeria, there are also salient implications for a GP or placement agent who seeks to raise pension funds in Nigeria.",
+    "source": "Journal of Private Equity"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

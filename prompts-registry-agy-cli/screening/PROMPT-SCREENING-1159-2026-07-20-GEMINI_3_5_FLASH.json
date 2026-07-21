@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1159-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk disclosure practices: Does institutional imperative matter?",
+    "authors": "Azim M.I.; Nahar S.",
+    "year": "2022",
+    "doi": "10.1080/09540962.2021.1994736",
+    "abstract": "IMPACT: This article will help government managers, regulators, and standard setters to improve risk management and disclosure in emerging economies. Evidence from in-depth interviews will guide government-owned banks in Bangladesh to effectively manage and voluntarily disclose risk management practices. The authors argue that legitimization might be a strategy for government-owned banks in pursuing to survive in the finance industry. ABSTRACT Government-owned banks in emerging economies commonly suffer from a lack of good governance, non-performing loans, undetected money laundering and other management malpractices. Managing and disclosing risks are significant issues for managers of government-owned banks. This article explores the managerial perception of risk disclosure by these government banks. Data were collected through in-depth interviews with 35 executives from government banks, government regulatory, and monitoring authorities. Institutional pressure, along with risk committees and board independence, are critical contributing factors for risk disclosure. © 2021 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Public Money and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

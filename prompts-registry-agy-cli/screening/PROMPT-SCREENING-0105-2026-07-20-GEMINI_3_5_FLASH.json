@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0105-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "PAST PROMISES AND FUTURE DIRECTIONS: ANTI-MONEY LAUNDERING REGULATION AND THE LEGAL PROFESSION",
+    "authors": "Chaikin D.A.",
+    "year": "2025",
+    "doi": "10.53637/FZFT6114",
+    "abstract": "Australia has finally implemented international anti-money laundering (‘AML’) norms for the legal profession after a 20-year delay. This article examines the justification for AML regulation and its extension to lawyers, highlighting a significant knowledge gap regarding how and to what extent legal services are exploited for money laundering. The discussion focuses on two key AML measures - suspicious transaction reporting and customer due diligence - to test whether the system is achieving its objectives. The reforms selectively apply AML rules, targeting lawyers involved in high-risk activities such as financial and real estate transactions while exempting those in criminal and civil litigation. A major point of contention is the effectiveness of suspicious transaction reporting and how legal professional privilege is regulated within AML frameworks. This article critically analyses the scope and limitations of AML regulation for lawyers and provides recommendations for policymakers and regulators to address the challenges of law reform implementation. © 2025, University of New South Wales Law Journal. All rights reserved.",
+    "source": "University of New South Wales Law Journal "
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

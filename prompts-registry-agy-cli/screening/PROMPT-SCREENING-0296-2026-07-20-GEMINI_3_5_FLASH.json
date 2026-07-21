@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0296-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Research on Key Technologies of Virtual Currency Tracking and Investigation Analysis in New Type of Cybercrimes",
+    "authors": "Guo W.; Huo L.; Wu Z.; Du X.; Yu J.; Su Z.",
+    "year": "2025",
+    "doi": "10.16467/j.1008-3650.2024.0009",
+    "abstract": "With the popularity of Bitcoin and Ethereum based on blockchain technology, criminals have used various excuses such as “blockchain” and “virtual currency” to engage in illegal activities. Due to the characteristics of virtual currency such as decentralization, anonymity, global convertibility, convenient transactions, and irreversibility, it is widely used in criminal activities such as fraud, gambling, and money laundering. Detecting and combating virtual currency crimes faces difficulties and challenges such as complex and diverse activity scenarios, highly concealed behaviors, and difficulty in finding evidence. Therefore, the fight against virtual currency crimes is becoming increasingly serious, and necessary and effective measures need to be taken. This study explore the current state of virtual currency-related crimes and proposed strategies to overcome the challenges faced by law enforcement agencies in combating these crimes. Investigating virtual currency crimes requires the use of technologies in various fields, including address tag library construction technology, virtual currency tracking technology, unsupervised learning and artificial intelligence technology. These technologies can help law enforcement agencies collect and process virtual currency transaction data to trace the source and flow of funds for illegal transactions. They can also analyze large amounts of data to quickly identify suspicious transactions and entities, thereby improving the investigation efficiency of law enforcement agencies. This article focuses on the current status, difficulties and response strategies of combating virtual currency crimes. The technical process of investigation, evidence collection, tracking and survey analysis by law enforcement agencies after the occurrence of virtual currency cases is discussed in detail. In the technical process of combating virtual currency crimes, this article proposes and conducts in-depth research on key technologies and their applications, bringing new directions for detecting virtual currency crimes and providing strategic ideas for combating increasingly rampant new cyber-crimes. © 2025, Editorial Office of Forensic Science and Technology. All rights reserved.",
+    "source": "Forensic Science and Technology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1935-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Relational control in difficult physician-patient encounters: Negotiating treatment for pain",
+    "authors": "Eggly S.; Tzelepis A.",
+    "year": "2001",
+    "doi": "10.1080/108107301317140814",
+    "abstract": "Many physicians report feelings of frustration and anger resulting from encounters with patients during which there is disagreement over the use of narcotics to treat pain. In this article, investigators report a relational control analysis of transcripts of three encounters of this type in order to explore the control dimension of these interactions. Similar analyses in the literature have reported that patients in general attempt to gain control of the interaction more often than previously thought. Results of this analysis, however, were remarkable in that nearly half of the transactions were characterized by competition for control. In addition, a descriptive analysis of the control-gaining strategies revealed physician strategies of giving instructions and orders, explicitly rejecting or disagreeing, providing reasons, and attempting to negotiate; patient strategies included explicitly rejecting or disagreeing and providing reasons. Communication skills training may enhance physicians’ ability to understand their feelings of discomfort in this type of interaction as well as train them to be more effective communicators during interactions in which there is a struggle for control. © 2001 Taylor & Francis.",
+    "source": "Journal of Health Communication"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

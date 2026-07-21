@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2504-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A survey of R&D of intelligent STR system based on behavior pattern recognition in China",
+    "authors": "Tang, J",
+    "year": "2016",
+    "doi": "10.1108/JMLC-11-2014-0047",
+    "abstract": "Purpose - The purpose of this paper is to systematically study the research and development history of suspicious transaction reporting (STR) system in China, and introduce the core elements in constructing an intelligent surveillance system which could provide a solution to the situation of low effectiveness and efficiency in Chinese Financial Institutions (FIs) STR procedure nowadays. The solution outputs those falling out of the normal customer behavior profiles instead of only extracting data by the rules issued by authorities. Design/methodology/approach - This paper reviews the latest literature, regulations and guidelines of STR gathered domestically and overseas, and hands out questionnaire surveys to hundreds of software vendors, regulators and FIs, details the current situation of poor deployment of intelligent in China and tells the difficulties of subjective STR decision procedures. Findings - Few Chinese FIs have deployed real intelligent STR systems, most are using rule-based filtering systems conformed to the objective STR supervisory regulations. To change the embarrassing situation, the regulators have tried to introduce self-regulatory mode which allows the FIs to define STR decision procedures themselves. Limited by the FIs' ability of information sharing and investigation scope, FIs could hardly unveil the whole schema of a money laundering organization. The pursuant objective FIs can reach is to construct a system that could tell what the normal customer behaviors look like and extract all those falling out of the system's expectations as suspicious activities. Research limitations/implications - Only the core elements of the total intelligent STR system are discussed, that is, what, why and how about the customer behavior pattern recognition system. Besides this, a total solution should also use a watch list, reporting decision, cases management, risk control, etc. Originality/value - This paper for the first time argues that the orientation of regulatory rules in China has actually hindered the spreading of really effective intelligent system for these years. The author creatively puts forward a solution to the difficult problem for FIs to spot criminal schema directly, instead the FIs should only be required to determine whether the transactions carrying out currently are falling within the expected behavior pattern scopes, which is under the FIs' capabilities due to the internationally accepted obligations of Know Your Customer.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

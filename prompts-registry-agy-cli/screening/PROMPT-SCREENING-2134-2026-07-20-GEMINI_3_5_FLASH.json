@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2134-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The human impact on supply chains: Evaluating the importance of \"soft\" areas on integration and performance",
+    "authors": "Shub A.N.; Stonebraker P.W.",
+    "year": "2009",
+    "doi": "10.1108/13598540910927287",
+    "abstract": "Purpose - The purpose of this paper is to contrast traditional transaction-based supply chain strategies with emerging relationship-based strategies in human resource and organizational areas. Design/methodology/ approach - A theoretical framework is proposed based on the relationship of human resource variables (staffing, training, evaluation, and compensation) and organization variables (structure, culture, and empowerment strategies) with supply chain integration and performance. Findings - A model is presented of the relationship of human resource and organization variables with supply chain integration and performance. Propositions are posited and conclusions are noted with suggestions for further research. Research limitations/implications - The paper is clearly only theoretical. Much empirical testing is yet to be done. Originality/value - The paper is among the first to focus the relationships of human resource strategies and organization variables with supply chain integration and performance. While the structuring and measurement of integrated global supply chain flows, particularly of the \"hard\" products, services, and information, are well established, much less is understood concerning the contribution of such \"soft\" areas as human resource management activities and organization variables. © Emerald Group Publishing Limited.",
+    "source": "Supply Chain Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

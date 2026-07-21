@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0667-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Compliance with anti-money laundering procedures by banks—the case of Mauritius",
+    "authors": "Beebeejaun A.",
+    "year": "2023",
+    "doi": "10.1057/s41261-022-00211-6",
+    "abstract": "Despite the existence of anti-money laundering laws, the world is still witnessing money laundering malpractices. It was reported by the United Nations that the value of money laundering globally is between 2 and 5% of the world’s GDP annually. Hence, it is imperative for formal institutions like banks to apply AML procedures in order to verify whether their clients are involved in money laundering criminal activities. Accordingly, the purpose of this research is to assess compliance by banks with the AML laws of Mauritius and some other internationally agreed AML standards. To achieve this research objective, this study will adopt both the qualitative and quantitative research methods. In particular, a survey will be conducted to collect primary data from 57 executive officers representing 3 selected directors or senior executives from each 19 licensed banks that are located in Mauritius. Also, the black letter research method will be adopted to obtain secondary data by analysing the existing legal provisions and literature on AML procedural requirements. © 2022, The Author(s), under exclusive licence to Springer Nature Limited.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

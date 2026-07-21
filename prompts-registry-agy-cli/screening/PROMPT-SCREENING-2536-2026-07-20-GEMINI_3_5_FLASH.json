@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2536-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Managing International Information Technology Project Relationships: An Agency Theory Perspective",
+    "authors": "Haried, P; Huang, CL",
+    "year": "2014",
+    "doi": "10.4018/ijitpm.2014040101",
+    "abstract": "Many organizations in recent years have adopted an offshore model to deliver most or part of their information technology needs. While offshoring can be associated with significant cost savings and implementation benefits, it can also be a challenge to effectively manage the international client-vendor relationship. Thus, it is argued that the effective management, coordination and structuring of the international client-vendor relationship is critical to project management success. In this paper an agency perspective is applied to examine the management of international client-vendor relationships in offshore information technology (IT) projects. This paper synthesizes key relational findings from eight offshore IT projects consisting of 29 client interviews. The authors' findings suggest that the relational tenets of agency theory (shirking, privately held information, task programmability and monitoring) play key roles in successfully managing international project relationships. Based on the findings, propositions are presented to guide future offshore IT project research and organizations to successfully manage and structure their client-vendor relationships.",
+    "source": "INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY PROJECT MANAGEMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

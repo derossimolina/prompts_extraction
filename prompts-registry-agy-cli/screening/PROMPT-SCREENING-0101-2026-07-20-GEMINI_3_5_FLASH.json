@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0101-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering through video games, a criminals' playground",
+    "authors": "Cooke D.; Marshall A.",
+    "year": "2024",
+    "doi": "10.1016/j.fsidi.2024.301802",
+    "abstract": "Money laundering and video games provide opportunities to criminals for easier and less detectable methods of performing money laundering. These actions may be used as part of a system of transactions, by these criminals, to further disguise the origins of their funds. The use of videogames as a tool to launder money is something that has been only briefly explored. This work identifies the ways that money laundering through video game secondary marketplaces can offer benefits to criminals looking to launder money, versus the use of traditional money laundering methods. We explore the potential for using publicly accessible data, such as that available from the Steam Marketplace, to identify suspicious transactions that may indicate the existence of money laundering within these platforms. This research focused on identifying irregularities in the frequency and quantity of trades on the Steam Marketplace. The results of this investigation show that identifying, using very simple money laundering detection methods, possible cases of money laundering within transactional data from the Steam Marketplace is possible. The data used shows that there were several suspicious transactions and accounts which could warrant further investigation, and may be involved in activity which represents money laundering. As a result of this, there is scope for further investigations using larger data sets and examination of other publicly accessible data using a greater range of methods to identify suspicious transactions including, but not limited to, value of transactions and location. © 2024 The Author(s)",
+    "source": "Forensic Science International: Digital Investigation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

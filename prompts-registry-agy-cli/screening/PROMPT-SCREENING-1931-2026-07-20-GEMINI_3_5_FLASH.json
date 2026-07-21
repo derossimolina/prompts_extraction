@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1931-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The emperor's clothes of disclosure: Hot money and suspect disclosures",
+    "authors": "Van Duyne P.C.",
+    "year": "1999",
+    "doi": "10.1023/A:1008399130997",
+    "abstract": "This paper describes the results of the analysis of the Dutch database of suspect financial transactions for the years 1994-1996. It provides a detailed insight into the money volume at risk, the reasons for disclosure and the persons and corporations involved. The results show that from the start 48% of the disclosed money reports had to be discarded as there was either no money involved or there was no crime-money. The remaining database showed that all the distributions were very skewed resulting in the conclusion that \"few move little money and few move much\" or 179 persons were responsible for 89% of the disclosed money movements. The paper raises some questions about the assumptions underlying the anti-money laundering policy and the requirements for designing an adequate disclosure system at a European level. © 1999 Kluwer Academic Publishers.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

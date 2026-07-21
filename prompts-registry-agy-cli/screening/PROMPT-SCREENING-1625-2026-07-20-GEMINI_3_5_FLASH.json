@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1625-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trade in Human Beings: Evidence of Money Laundering From Sex Trafficking in India and the UK",
+    "authors": "Sarkar S.",
+    "year": "2015",
+    "doi": "10.1080/15475778.2015.1038948",
+    "abstract": "The lack of data on the economic value-added of sex trafficking is largely explained by the fact that trafficking for sexual exploitation is usually part of the non-observed economy. In fact, the very notion of economic “value-added” may seem inappropriate when applied to sex trafficking and is sometimes rejected by anti-prostitution groups. The legality or illegality of sex trafficking is irrelevant, as both legal and illegal production should be included in the systems of national accounts. By excluding illegal or underground activities, national accounts would simply exclude monetary transactions that actually take place and hence would provide a distorted picture of reality. In view of these facts, the basic structure of criminal organizations involved in cross-border trafficking business and principles of distributing the proceeds between the various levels in these organizations based on the empirical data obtained through the field survey in India and the UK was revealed. The survey comprised 124 respondents from India and the UK, using multi-stage stratified sampling technique. The study also showed the various investment practices, typical money-laundering schemes for proceeds generated from sex trafficking in India and the UK. © 2015, Copyright © Taylor & Francis Group, LLC.",
+    "source": "Journal of Transnational Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

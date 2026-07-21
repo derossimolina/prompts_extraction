@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0213-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tracing the invisible: How CBDCs can strengthen anti-money laundering in small open economies",
+    "authors": "Sharaf M.F.; Shahen A.M.; Mansour E-.H.I.",
+    "year": "2026",
+    "doi": "10.21511/bbs.21(1).2026.15",
+    "abstract": "Money laundering poses serious risks for small open economies by weakening financial stability and reducing trust in the financial system. This paper investigates how central bank digital currencies (CBDCs) can enhance the enforcement of anti-money laundering (AML) policies in these economies. We develop a simple macroeconomic model to examine the trade-offs between stronger financial control and household welfare when digital enforcement tools are introduced. A dynamic model is constructed in which a representative household chooses consumption, labor, and foreign savings under a capital account that allows illicit transfers. The government enforces AML rules by increasing detection probability through CBDC infrastructure. The model compares scenarios with and without CBDCs to assess changes in behavior, illegal outflows, and welfare outcomes. The findings show that CBDCs can reduce money laundering by making transactions more transparent and harder to hide. As detection becomes more likely, the household’s incentive to move funds illegally declines, and the resulting loss of hidden income leads to slightly higher labor effort and lower consumption. The welfare effects depend on the balance between enforcement strength and households’ need for economic flexibility. Policymakers in small open economies can use CBDCs to improve the integrity of financial flows, especially when evasion risks are high. However, effective CBDC design must consider the trade-off between tighter control and households’ ability to manage their finances. This study provides one of the first theoretical frameworks showing how CBDCs reshape the interaction between financial transparency and household welfare in vulnerable economies. © Mesbah Fathy Sharaf, Abdelhalem Mahmoud Shahen, El-Hussien Ibrahim Mansour, 2026.",
+    "source": "Banks and Bank Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1634-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sex, Deportation and Rescue: Economies of Migration among Nigerian Sex Workers",
+    "authors": "Plambech S.",
+    "year": "2017",
+    "doi": "10.1080/13545701.2016.1181272",
+    "abstract": "This contribution explores the economies interlinked by the migration of Nigerian women sex workers. The literature and politics of sex work migration and human trafficking economies are commonly relegated to the realm that focuses on profits for criminal networks and pimps, in particular recirculating the claim that human trafficking is the “third largest” criminal economy after drugs and weapons. Based on ethnographic fieldwork among Nigerian sex worker migrants conducted in Benin City, Nigeria, in 2011 and 2012, this study brings together four otherwise isolated migration economies–facilitation, remittances, deportation, and rescue–and suggests that we have to examine multiple sites and relink these in order to more fully understand the complexity of sex work migration. Drawing upon literature within transnational feminist analysis, critical human trafficking studies, and migration industry research, this study seeks to broaden our current understanding of the “economy of human trafficking.”. © 2016 IAFFE.",
+    "source": "Feminist Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

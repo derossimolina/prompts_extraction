@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0718-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploitation of Machine Learning Algorithms for Detecting Financial Crimes Based on Customers’ Behavior",
+    "authors": "Kumar S.; Ahmed R.; Bharany S.; Shuaib M.; Ahmad T.; Tag Eldin E.; Rehman A.U.; Shafiq M.",
+    "year": "2022",
+    "doi": "10.3390/su142113875",
+    "abstract": "Longer-term projections indicate that today’s developing and rising nations will account for roughly 60% of the global GDP by 2030. There is tremendous financial growth and advancement in developing countries, resulting in a high demand for personal loans from citizens. Depending on their needs, many people seek personal loans from banks. However, it is difficult for banks to predict which consumers will pay their bills and which will not since the number of bank frauds in many countries, notably India, is growing. According to the Reserve Bank of India, the Indian banking industry uncovered INR 71,500 in the scam in the fiscal year 2018–2019. The average lag time between the date of the occurrence and its recognition by banks, according to the statistics, was 22 months. This is despite harsher warnings from both the RBI and the government, particularly in the aftermath of the Nirav Modi debacle. To overcome this issue, we demonstrated how to create a predictive loan model that identifies problematic candidates who are considerably more likely to pay the money back. In step-by-step methods, we illustrated how to handle raw data, remove unneeded portions, choose appropriate features, gather exploratory statistics, and finally how to construct a model. In this work, we created supervised learning models such as decision tree (DT), random forest (RF), and k-nearest neighbor (KNN). According to the classification report, the models with the highest accuracy score, f-score, precision, and recall are considered the best among all models. However, in this work, our primary aim was to reduce the false-positive parameter in the classification models’ confusion matrix to reduce the banks’ non-performing assets (NPA), which is helpful to the banking sector. The data were graphed to help bankers better understand the customer’s behavior. Thus, using the same method, client loyalty may also be anticipated. © 2022 by the authors.",
+    "source": "Sustainability (Switzerland)"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

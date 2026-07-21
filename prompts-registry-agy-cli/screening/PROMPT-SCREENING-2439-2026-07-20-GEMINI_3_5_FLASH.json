@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2439-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Liang v RBC-guidance in Guernsey to trustees caught between the criminal and civil law",
+    "authors": "Buckle, P",
+    "year": "2018",
+    "doi": "10.1093/tandt/tty133",
+    "abstract": "This article looks at two recent Guernsey cases, Jakob International Inc v HSBC Private Bank (C.I.) Ltd(1) and Liang v RBC Trustees (Guernsey) Limited,(2) where institutions (in the latter case, a trustee) fearing funds they hold are the proceeds of crime, have faced a private law action for breach of duty where they have been unable to obtain the consent of the authorities to release the funds on demand. This situation is, without doubt, serious and has a 'chilling effect'(3) on the institution concerned, but can be equally damaging to the individual, because freezing an account often leads to disastrous commercial and reputational issues. And of course, the need to stem the global menace of money laundering is paramount.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

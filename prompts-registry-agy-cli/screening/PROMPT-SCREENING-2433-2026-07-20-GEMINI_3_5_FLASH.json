@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2433-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Analysis of credit risks in asset-backed securitization transactions in Singapore",
+    "authors": "Sing, TF; Ong, SE; Fan, GZ; Sirmans, CE",
+    "year": "2004",
+    "doi": "10.1023/B:REAL.0000011155.30320.73",
+    "abstract": "Asset-backed securitization (ABS) is a relatively new financial instrument in Singapore's capital market, which has been accepted by developers (originators) as an alternative source of financing. Credit assessment and rating requirements have not been imposed on the ABS bond issues. Default-risk evaluation has also been understated, if not omitted, in the process of structuring ABS deals. This is the first study that applies a theoretical default-risky swaps valuation model to evaluate credit risks in ABS bonds in Singapore. The Monte-Carlo simulation results, based on the Century Square shopping mall ABS case, show significant effects of the changes in rental volatility and default-free interest rate volatility on the default-risk premium of swap. More specifically, an increase in the rental volatility reduces the default-risky swap values significantly. However, an increase in the instantaneous default-free interest rate volatility increases the default-risk premium of swaps, and this effect is only observed in the high default-free interest rate volatility regime (above 20 percent). The results suggest that the rental dynamics of the securitized real estate are critical in determining the default risks of ABS deals. The fixed-rate (coupon yield) and floating-rate (rental cash flows) should therefore be adequately determined to reflect the default risks, which may be caused by the rental dynamics of the securitized real estate.",
+    "source": "JOURNAL OF REAL ESTATE FINANCE AND ECONOMICS"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica modelagem baseada em agentes (ABM) para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo))",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

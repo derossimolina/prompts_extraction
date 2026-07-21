@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0374-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From platformization to ecosystem: How do third-party supply chain finance platforms develop an ecosystem? An inter-organizational network perspective",
+    "authors": "Zhang T.; Jia F.; Chen L.; Blome C.; Ball P.",
+    "year": "2025",
+    "doi": "10.1016/j.ijpe.2025.109521",
+    "abstract": "The significance of the supply chain finance (SCF) ecosystem has been acknowledged by both scholars and practitioners, with platforms playing a pivotal role in its development. However, the platform-centric SCF ecosystem formation process remains ambiguous. Adopting an inter-organizational network perspective, this study investigates how third-party SCF platforms leverage their capabilities to construct SCF networks, thereby nurturing the formation of the SCF ecosystem. To do this, we conduct an exploratory multiple case study of four SCF platforms, informed by 49 semi-structured interviews with key personnels in platforms and their partners, including banks and platform users. We identify four critical SCF platform capabilities: information processing, financial network structuring, stakeholder relationship management, and SCF process management, and SCF platforms deploy their capabilities to facilitate network development and eventually facilitate the SCF ecosystem formation. Specifically, we identify the tripartite evolutionary process of the platform-centric SCF ecosystem—supply chain (SC) service platformization, SCF platformization, and SCF platform ecosystem—in which the role of platforms evolves from basic SC service providers to resource integrators, eventually becoming resource orchestrators in SCF. During this process, each stage prioritizes a network characteristic for the SCF network to evolve (i.e., initial stage prioritizes reach, the intermediary emphasizes richness, and the final values receptivity). These findings have significant theoretical and practical relevance to SCF theory elaboration and practices. © 2025",
+    "source": "International Journal of Production Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

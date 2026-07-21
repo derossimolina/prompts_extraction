@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2049-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Technical collaboration and political conflict in the emerging regime for international financial regulation",
+    "authors": "Porter T.",
+    "year": "2003",
+    "doi": "10.1080/09692290308430",
+    "abstract": "Despite the widely recognized significance of technical systems in contemporary life, the implications of these systems for international institutions have not received much attention. This article develops a technical systems approach to international institutions. Technology is a form of knowledge like others that have been recognized as important in the creation of international institutions. However technology has three additional distinctive features which are especially important in structuring actors' conduct: material embeddedness; complex path dependence; and technical authority. I specify a set of propositions which state that in international institutions in issue areas with technical systems their creation, content of norms, structure, development and sources of political conflict are all shaped by the technical system with which these institutions interact. I then apply this approach to the study of the emerging regime for international financial regulation, contrasting it to approaches that focus more exclusively on the role of states.",
+    "source": "Review of International Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

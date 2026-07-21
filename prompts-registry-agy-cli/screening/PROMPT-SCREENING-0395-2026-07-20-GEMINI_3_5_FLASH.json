@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0395-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crypto adoption, legalization, and sovereign credit ratings: evidence from ridge regression",
+    "authors": "Alon I.; Keinan O.",
+    "year": "2025",
+    "doi": "10.1016/j.frl.2025.108352",
+    "abstract": "This study examines whether cryptocurrency adoption and legality affect sovereign credit ratings across 137 countries (2021–2023). Using cross-sectional data, we apply ridge regression and automated machine learning (AML) to address multicollinearity and identify key predictors. While economic freedom emerges as the strongest determinant, both crypto adoption and legality have significant, positive, and comparable effects on sovereign ratings. Our findings highlight the relevance of combining formal and informal institutions in assessing sovereign risk and showcase the utility of AML for improving model robustness in credit rating prediction. © 2025",
+    "source": "Finance Research Letters"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

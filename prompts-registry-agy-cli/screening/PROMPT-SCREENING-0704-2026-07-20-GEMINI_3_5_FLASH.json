@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0704-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Preventing money laundering during the placement stage: The Jordanian commercial banks case",
+    "authors": "Mohammad S.J.; Tahtamouni A.; Aldaas A.A.; Sumadi M.A.",
+    "year": "2022",
+    "doi": "10.1504/IJPLAP.2022.120663",
+    "abstract": "The aim of this paper is to understand the bank employees' awareness and satisfaction levels towards various issues related to money laundering in Jordanian commercial banks. The data was collected through distributed questionnaires. Statistical techniques like correlations and regressions along with hypothesis testing were applied for data analysis. The paper found that the employees of Jordanian commercial banks were found to be satisfied with several initiatives and procedures for detecting money laundering in their banks, but the exposure of employees was a concern. The significance of this research is based on the premise that money laundering damages the growth and progress of the monetary system, which is due to the impact of the risk structure of the bank and also, due to negatively affecting the customer's trust. Subsequently, a proper implementation by the banking system creates an additional layer of money laundering prevention. © 2022 Inderscience Publishers. All rights reserved.",
+    "source": "International Journal of Public Law and Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

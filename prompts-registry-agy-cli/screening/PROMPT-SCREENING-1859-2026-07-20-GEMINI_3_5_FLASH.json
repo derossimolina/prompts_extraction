@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1859-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Estimating Value Added Of Illegal Production In The Western Balkans",
+    "authors": "Blades D.",
+    "year": "2011",
+    "doi": "10.1111/j.1475-4991.2010.00422.x",
+    "abstract": "Several economists continue to assert that the official national accounts of many countries do not cover a large \"hidden\" or \"underground\" economy. This article looks at one component of the underground economy, namely illegal activities. According to the UN System of National Accounts, production of goods and services that are illegal should be included in the Gross Domestic Product (GDP) if both the producers and consumers are willing partners to the transactions involved. We examine the estimates of illegal production recently made by several countries in the Western Balkans and conclude that, if illegal activities were fully included in their official GDP estimates, they would increase by about 1 percent. Trade in narcotics and prostitution are the two most important kinds of illegal activities in most countries and we look in detail at how estimates for these activities were made by the Western Balkan countries. © 2011 The Author. Review of Income and Wealth © 2011 International Association for Research in Income and Wealth.",
+    "source": "Review of Income and Wealth"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0883-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The organization of the human organ trade: a comparative crime script analysis",
+    "authors": "Ambagtsheer F.; Bugter R.",
+    "year": "2023",
+    "doi": "10.1007/s10611-022-10068-5",
+    "abstract": "This study fills critical knowledge gaps into the organization of organ trade utilizing crime script analysis. Adopting a situational crime prevention approach, this article draws from law enforcement data to compare the crime commission process (activities, cast and locations) of 2 prosecuted organ trade cases: the Medicus case and the Netcare case. Both cases involved transnational criminal networks that performed kidney transplants from living donors. We further present similarities and differences between illegal and legal living donor kidney transplants that may help guide identification and disruption of illegal transplants. Our analysis reveal the similar crime trajectories of both criminal cases, in particular the extensive preparations and high degree of organization that were needed to execute the illegal transplants. Offenders in the illegal transplant schemes utilized the same opportunity structures that facilitate legal transplants, such as transplant units, hospitals and blood banks. Our results indicate that the trade is embedded within the transplant industry and intersects with the transport- and hospitality sector. The transplant industry in the studied cases was particularly found to provide the medical infrastructure needed to facilitate and sustain organ trade. When compared to legal transplants, the studied illegal transplant scripts reveal a wider diversity in recruitment tactics and concealment strategies and a higher diversity in locations for the pre-operative work-up of donors and recipients. The results suggest the need for a broader conceptualization of the organ trade that incorporates both organized crime and white collar crime perspectives. © 2022, The Author(s).",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

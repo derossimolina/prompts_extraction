@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2186-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Challenges that Russian banks face implementing the AML regulations",
+    "authors": "Subbotina N.",
+    "year": "2009",
+    "doi": "10.1108/13685200910922624",
+    "abstract": "PurposeThe purpose of this paper is to analyze the anti&hyphen;money laundering &lpar;AML&rpar; legislation created by the Russian regulator for the financial institutions with the aim to test banks' compliance with it. Design&sol;methodology&sol;approachComparative analyses based on the data, collected from in&hyphen;depth study of the regulator's legislation for financial institutions &lpar;banks&rpar;, as well as interviews with practitioners and observation of banking practices. For this purpose, the activities of several banks were analyzed. FindingsThe main concluding remark is that practice so far has shown the failure of the financial institutions to comply with the AML regulation. The question arises if there is unwillingness or inability of the financial institutions to comply with the regulator's rules. Research limitations&sol;implicationsThe analysis of the practical implementation of the AML legislations in the financial institutions focuses on the legislative base for the regulated, behavioral patterns of the banks in the AML prevention activity, and the conflicts and debates that have emerged within the domestic AML regime. Practical implicationsThe paper tries to test the efficiency of the domestic preventive AML regime in Russia. The formal legislative compliance of the domestic regime with the international standards and norms does not characterize the efficiency of the existing regime. How the AML legislation is applied in practice is the main focus of the analysis. Originality&sol;valueStudies of the peculiarities of the AML legislation implementation in different countries is one of the helpful tools to measure the efficiency of the global AML regime. © 2009, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

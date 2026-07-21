@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1654-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The dramatic rift and crisis between Qatar and the Gulf Cooperation Council (GCC) of June 2017",
+    "authors": "Naheem M.A.",
+    "year": "2017",
+    "doi": "10.1057/s41310-017-0025-8",
+    "abstract": "This paper aims to study the current conflict within the Gulf Cooperation Council (GCC) and its potential socioeconomic effects on the union. The GCC has remained a strong union of the six Gulf nations of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the UAE, since 1981. The current division is based on accusations of terrorist financing against Qatar by other members Bahrain, Saudi Arabia, and the UAE. The paper validates these accusations and studies Qatar's internal anti-money laundering and combatting terrorist financing mechanisms. The paper also discusses the economic and social value of a united GCC as opposed to internal divisions. This paper employs five-principle analysis to present factual data surrounding the current division between the GCC. First, the paper uses a legal analysis to understand the legislative approach taken by Qatar to combat financing of terrorism. Second, the paper studies the regulatory measures undertaken by Qatar. Third, the legislative and regulatory advance is understood in terms of international standards of AML/CTF, as set by a variety of international and governmental organizations. Fourth, a comparative study between measures enacted by Qatar and other GCC member countries. Fifth, Qatar's implementation of relevant AML/CTF laws and regulations are studied. Together, the analysis aims to validate the claims levied on Qatar and the potential damages of the claims to the GCC growing socioeconomic partnership. The GCC is an important and integral part of maintaining economic and social stability in the Arabian Gulf. The paper finds evidence that supports deterrence from the accusations levied on Qatar for the underlying validity. The literature also suggests a united GCC in the long-Term economic and social interests of the region and the member states. A prolonged continuity of the GCC crisis poses a threat to regional stability and socioeconomic interests of all member states. There is a need to understand the validity of the claims and support or dissuade on the basis of factual arguments. The GCC is an integral part of the global economy, and as such a continuity of severed relationships challenges the potential progress of all member states. The paper employs five qualitative tools to substantiate the accusations against Qatar. The analysis draws from international, regional, and domestic stance on AML/CTF laws and furthers the discussion on implementation of these laws. The paper also determines potential implications of a prolonged crisis on the domestic and regional socioeconomic status. The Gulf Cooperation Council (GCC) has been a strong and growing partnership between the six member countries since the Council's inception in 1981. Recent events have led three members of the GCC-namely Bahrain, Saudi Arabia, and the UAE, along with other Arab League members to severe diplomatic and economic ties with Qatar. The former has levied accusations of terrorist financing on Qatar, which the Gulf country has vehemently denied. The GCC had previously been on a successive track after establishing a free trade and movement zone. The current divide between the members, which is being mediated by the non-Aligned GCC members Kuwait and Oman, has persisted since June 2017. There is an immediate need to understand the basis of the accusations and the socioeconomic pressures arising from it. There is a lack of critical assessment literature of Qatar's AML/CTF regulation and implementation. This paper uses the international framework to assess Qatar's progress on establishing legal and regulatory tools to promote AML/CTF practices. The paper also uses secondary literature that understands Qatar's implementation of these practices. There is a need to understand the scope of international frameworks on anti-money laundering and combatting of terrorist financing. Such frameworks are the primary source for understanding factual certainties in the discussion of terrorist financing. The current division within the GCC affects the potential benefits of a united Council and must therefore be addressed through a proper discourse using tools that were created to serve as indicators during such disputes. © 2017 Macmillan Publishers Ltd.",
+    "source": "International Journal of Disclosure and Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

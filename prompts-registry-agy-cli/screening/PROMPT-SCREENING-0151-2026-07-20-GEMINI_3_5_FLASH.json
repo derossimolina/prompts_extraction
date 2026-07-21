@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0151-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "NEW AML TOOLS: ANALYZING ETHEREUM CRYPTOCURRENCY TRANSACTIONS USING A BAYESIAN CLASSIFIER",
+    "authors": "Lyeonov S.; Tumpach M.; Loskorikh G.; Filatova H.; Reshetniak Y.; Dinits R.",
+    "year": "2024",
+    "doi": "10.55643/fcaptp.4.57.2024.4500",
+    "abstract": "The emergence of cryptocurrencies as a form of digital payments has contributed to the emergence of numerous opportunities for the implementation of effective and efficient financial transactions, however, new fraud and money laundering schemes have emerged, as the anonymity and decentralization inherent in cryptocurrencies complicate the process of monitoring transactions and control by governments and law enforce-ment agencies. This study aims to develop a mechanism for analyzing transactions in the Ethereum cryptocurrency using a Bayesian classifier to identify potentially suspicious transactions that may be related to terrorist financing and money laundering. The Bayesian approach makes it possible to consider the probabilistic characteristics of transactions and their interrelationships to increase the accuracy of detecting anoma-lous and potentially illegal transactions. For the analysis, data on transactions of the Ethereum currency from June 2020 to December 2022 were taken. The developed mechanism involves determining a set of characteristics of transaction graph nodes that identify the potential for their use in illegal financial transactions and forming intervals of their permissible values. The article presents cryptocurrency transactions as an oriented graph, with the nodes being the entities conducting transactions and the arcs being the transactions between the nodes. In assessing the risks of using cryptocurren-cies in money laundering, the number/amount of transactions to and from the respec-tive node, the balance of these transactions (absolute value), and the type of node were considered. The analysis showed that among the 100 largest nodes in the network, 11 were identified as having a «critical» risk level, and the most closely connected nodes were identified. This methodology can be used not only to analyze the Ethereum cryp-tocurrency but also for other cryptocurrencies and similar networks. © 2024 by the author(s).",
+    "source": "Financial and Credit Activity: Problems of Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

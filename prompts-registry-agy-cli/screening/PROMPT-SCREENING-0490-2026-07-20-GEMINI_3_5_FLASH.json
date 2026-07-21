@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0490-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Taxation and human rights: Towards a sustainable realisation of minimum core obligations in Nigeria",
+    "authors": "Olika D.",
+    "year": "2024",
+    "doi": "10.17159/1996-2096/2024/v24n1a2",
+    "abstract": "Twenty-four years after the establishment of the fourth republic and the Constitution that ushered in the democratic regime in Nigeria, the 1999 Constitution of the Federal Republic of Nigeria, socio-economic rights remain non-justiciable. Efforts by human rights organisations, academics and the bench (both within the country and regionally) have led to the design and development of various theories to support the measured enforcement of socio-economic rights. One such principle is the principle of minimum core obligations. This principle enjoins states to strive to satisfy the basic levels of these socio-economic rights. Despite these efforts, Nigeria and most African countries are still many years away from the sustainable realisation of socio-economic rights. There are a plethora of journal articles and textbook pages examining why this is so, but one thing remains certain, namely, that socio-economic rights cannot be enforced in the absence of adequate fiscal resources. While states have many sources of raising revenue, development practitioners have long realised that taxation remains the most sustainable way for governments to raise revenue. Thus, beyond the rights framework developed to ensure the promotion and protection of minimum core obligations, taxation remains a critical consideration to the realisation of this objective. This article addresses the scope of minimum core obligations and analyses the roles and limitations of taxation as a means of sustainably realising minimum core obligations in Nigeria. It argues that illicit financial flows, corruption and a large informal economy, among others, tend to affect the ability of the government to raise revenues, and that there is a direct link between these problems and an inadequate socio-economic rights framework in Nigeria. Implicit in the obligation to respect, protect, and fulfil the essential minimum standards of these socio-economic rights is the obligation of the government to mobilise domestic resources for the protection and promotion of socio-economic rights. © 2024, Pretoria University Law Press. All rights reserved.",
+    "source": "African Human Rights Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

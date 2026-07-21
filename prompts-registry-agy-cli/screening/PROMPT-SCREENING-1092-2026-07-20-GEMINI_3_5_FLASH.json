@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1092-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Countering money laundering and terrorist financing: A case for bitcoin regulation",
+    "authors": "Fletcher E.; Larkin C.; Corbet S.",
+    "year": "2021",
+    "doi": "10.1016/j.ribaf.2021.101387",
+    "abstract": "Bitcoin was created in 2008 to serve as an alternative payment mechanism for both the under-banked and un-banked, or those in regions where the formal financial system suffers from broad corruption and efficient regulation. However, criminals and terrorists quickly exploited Bitcoin's unique properties, namely its peer-to-peer nature and pseudo-anonymity, to facilitate extensive terrorist financing and money laundering schemes. Government reactions to safeguard national security interests have been extremely varied, ranging from outright bans to passive tolerance. This inconsistency stems from how to effectively classify Bitcoin. On one side are those who argue Bitcoin is a currency, and on the other are those who claim it is a type of asset. In the US alone, these discrepancies have led to a bureaucratic turf war between different regulatory bodies, namely the Financial Crimes Enforcement Network, the Commodity Futures Trading Association, the Securities and Exchange Commission, and the Internal Revenue Service. This study seeks to move beyond the existing legal frameworks, arguing that Bitcoin should be classified as a technology and regulation should rest with private sector technology companies. © 2021 Elsevier B.V.",
+    "source": "Research in International Business and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

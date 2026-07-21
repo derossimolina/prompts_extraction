@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1638-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fifty years of mafia corruption and anti-mafia reform",
+    "authors": "Schneider J.",
+    "year": "2018",
+    "doi": "10.1086/695801",
+    "abstract": "Since the formation of the Mafia as a criminal organization in late nineteenth-century Sicily, anti-mafia reformers have attacked mafia corruption. If only the state could curtail transactions between mafia members and political and entrepreneurial elites; if only society could reject the intreccio-a gray zone of complicity, enhanced by mafia cultural practices, especially a tradition of hospitality. Below, I consider transformations in this dialectic over the past 50 years. In the 1960s, political leftists railed against corrupt arrangements between mafiosi and Christian Democrats, the governing party at the regional and national levels. During the “long 1980s,” as Sicily became a hub for global heroin trafficking and violence intensified among mafia factions and against the state, right and left coalesced in an anti-mafia “civil society” movement. The crisis produced an unprecedented anti-mafia law under which nearly 400 mafia members were imprisoned. Nevertheless, the prosecutors who brought the cases failed to indict nonmafioso power holders suspected of collusion, leaving them in an “external” category. Tragically, by 1992, the Mafia had assassinated the most heroic of these prosecutors. Their successors, in part to honor their fallen colleagues, have focused on collusion. The paper ends with the difficulties that they encounter. © 2018 by The Wenner-Gren Foundation for Anthropological Research.",
+    "source": "Current Anthropology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

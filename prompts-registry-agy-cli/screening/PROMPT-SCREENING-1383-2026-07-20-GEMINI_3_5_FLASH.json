@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1383-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trends and Perspectives of the Implementation of the ESG Principles in the Russian Economy",
+    "authors": "Alekseev P.V.",
+    "year": "2022",
+    "doi": "10.26794/2308-944X-2022-10-3-26-32",
+    "abstract": "One of the most important trends in the development of the world economy is the implementation of ESG principles into the activities of its subjects. The article indicates that in modern conditions consideration of ESG principles in the activities of companies and banks is necessary for the sustainable long-term growth of their value, reduction of economic, environmental and other risks of their activities, promoting the sustainable development of national economies and the world economy as a whole. The article aims to investigate the trends and perspectives of the implementation of ESG principles in the Russian economy. The research methodology includes structuring, comparison, generalization, systemic, economic, institutional and logical analysis, SWOT analysis, induction, deduction and synthesis. Based on the research, the author concludes that the necessary conditions for the successful implementation of ESG principles in the Russian economy are the analysis, assessment and consideration of trends, features and perspectives of the development of the Russian and world economy, legal regulation of the implementation of ESG principles in Russia and abroad, consideration of national interests and features of Russia, clarification, correct application of the conceptual and methodological apparatus, analysis of strengths, weaknesses, opportunities and threats associated with the implementation of these principles (SWOT analysis), and the use of accumulated world experience. © Alekseev P. V., 2022.",
+    "source": "Review of Business and Economics Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

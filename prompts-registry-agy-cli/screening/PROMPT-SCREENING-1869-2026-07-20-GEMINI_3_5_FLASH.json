@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1869-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Offshore centres post 9&sol;11&colon; economics and politics",
+    "authors": "Masciandaro D.",
+    "year": "2006",
+    "doi": "10.1108/13685200610707617",
+    "abstract": "PurposeThe aim of this research paper is to discuss the crucial difference between financial offshores and fiscal offshores. Design&sol;methodology&sol;approachThe paper combines narrative with argument and analysis. FindingsIt is shown that the decision of a few countries and territories to adopt lax financial regulation do not coincide with those that institute competitive taxation policies. From a methodological point of view, the classic intuition of Becker is intertwined with the new political economy approach, in order to review and comment on empirical tests. Originality&sol;valueThe paper suggests common guidelines for the design of international policy against money laundering and the financing of terrorism. © 2006, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

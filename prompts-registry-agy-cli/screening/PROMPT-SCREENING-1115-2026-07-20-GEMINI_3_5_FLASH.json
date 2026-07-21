@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1115-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Keeping Your Enemies Close: The Role of Distrust in Structuring a Local Hydraulic Fracturing Policy Network in New York",
+    "authors": "Lee J.; Dodge J.",
+    "year": "2019",
+    "doi": "10.1093/jopart/muy074",
+    "abstract": "Explaining the mechanisms that structure policy networks is an important subject of public management research as networks are key mechanisms of convening actors across public, private, and nonprofit sectors to design and implement public policies. Previous research focuses on the positive role of trust in building network structures in the context of social service delivery. But many policy networks can be adversarial, particularly those that operate in a regulatory context. We know little about the role of distrust in building network structures in this context. This study conceptualizes distrust as a distinct concept from the absence of trust, and examines why stakeholders stay connected with distrusted stakeholders in a regulatory policy network. Using a mixed-method analysis of a local hydraulic fracturing policy network in New York, we found that actors stay connected with stakeholders they distrust to perform information processing, bridging, and demarcating operations, which in turn create reciprocating, bridging and/or bonding structures. Our findings suggest three implications for public management research relevant to both regulatory and service networks: distrust can create network connectivity, connectivity can structure networks in particular ways, and brokers do not reduce transaction costs if they lack skills in principled engagement. © 2018 The Author(s). Published by Oxford University Press on behalf of the Public Management Research Association. All rights reserved.",
+    "source": "Journal of Public Administration Research and Theory"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

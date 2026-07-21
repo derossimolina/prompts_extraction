@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1567-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The effect of criminal convictions on real estate agent decisions in New York city",
+    "authors": "Evans D.N.",
+    "year": "2016",
+    "doi": "10.1080/0735648X.2016.1166068",
+    "abstract": "Prior research suggests that a felony conviction limits housing opportunities. This study used an experimental audit design to determine the effect of a felony conviction on real estate agent willingness to accept prospective clients. A male and a female ‘tester’ posing as apartment seekers called real estate agents in New York City to ask for assistance renting an apartment. Conviction type was manipulated such that testers posed as non-offenders (control) or as having a prior conviction for either drug trafficking, statutory rape, or child molestation (experimental groups) to measure the extent to which offense type influenced agent responses. Analyses indicated that a prior conviction was associated with a significant decrease in agent willingness to accept prospective clients, most notably for those with child molestation conviction. Agents were more willing to help prospective clients seeking more expensive apartments, although the time of year nullified the effect of cost. The results suggest that agents may be more concerned with the financial status of prospective clients than their criminal history but market forces override their decisions to accept a client. This study has implications for the ways in which the formerly incarcerated seek housing and how policy can address housing this population. © 2015 Midwestern Criminal Justice Association.",
+    "source": "Journal of Crime and Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1305-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Developing a regulatory framework for the taxation of virtual currencies",
+    "authors": "Bal A.",
+    "year": "2019",
+    "doi": "10.54648/taxi2019019",
+    "abstract": "This article reviews virtual currency regulations in five selected countries (Australia, Germany, the Netherlands, the United States and the Unites Kingdom), develops a methodology for creating an effective regulatory framework for the taxation of virtual currencies, and makes recommendations for the improvement of certain characteristics of the existing income tax systems that currently struggle with the enforcement of tax compliance obligations regarding transactions in virtual currencies. The author advocates the use of legislation to clarify the fundamental aspects of virtual currency transactions together with more detailed non-binding interpretative guidance that can be quickly adapted to changing circumstances. Enforcement and monitoring measures by tax authorities should not target an infinitely large number of unidentified individuals but a much smaller number of operators providing exchange services and wallet providers. A third-party reporting regime for virtual currency intermediaries should be aligned with the existing reporting obligations for anti-money laundering purposes. © 2019 Kluwer Law International BV, The Netherlands.",
+    "source": "Intertax"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

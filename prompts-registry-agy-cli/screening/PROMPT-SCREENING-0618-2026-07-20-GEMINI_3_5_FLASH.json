@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0618-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The V. AML Directive - Application Problems in Relation to Regulation of Virtual Currencies; [V. AML smernica - aplikačné problémy súvisiace s reguláciou virtuálnych mien]",
+    "authors": "Daudrikh Y.",
+    "year": "2022",
+    "doi": "10.5817/CPVP2022-1-8",
+    "abstract": "The primary regulatory framework for trading with virtual currencies is regulated in the V. AML Directive. Given the hybrid nature of virtual currencies, this is probably the most problematic area in the fight against money laundering and terrorist financing. Dissenting opinions on the regulation of virtual currencies can also be observed at the international level. Several international institutions criticize the V. AML Directive for the inadequacy and problematic application of the definition of the term virtual currency and the list of obliged entities. In this context, we will provide a closer analysis of the legal nature of the virtual currency, as well as outline our considerations and attitudes to the legislation de lege lata and de lege ferenda. © 2022 Masaryk University. All rights reserved.",
+    "source": "Casopis pro Pravni Vedu a Praxi"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

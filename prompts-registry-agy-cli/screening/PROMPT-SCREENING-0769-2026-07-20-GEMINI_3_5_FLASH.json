@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0769-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Peculiarities of countering legalization of criminal income with the help of virtual assets: legislative regulation and practical implementation",
+    "authors": "Dumchikov M.; Reznik O.; Bondarenko O.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-12-2021-0135",
+    "abstract": "Purpose: The purpose of this paper is to define and characterize peculiarities of countering the legalization of criminal income with the help of virtual assets. Design/methodology/approach: The analysis of the legislative delineation and the realities of the practical implementation of the features of combating the legalization of criminal proceeds with the help of virtual assets in Ukraine was carried out with the help of general scientific methods of cognition. The systematic method helped identify the main ways to legalize criminal proceeds with the help of virtual assets. Using legal techniques, proposals will be formulated to amend draft legislation on legislative regulation of the concept of “virtual assets”. The generalization method was used to develop ways to combat the legalization of criminal proceeds with the help of virtual assets. The method of legal forecasting was used to substantiate the proposed areas of combating money laundering with the help of virtual assets. The method of extrapolation will be used to determine the possibility of implementing foreign experience in domestic practice to combat money laundering with the help of virtual assets. Findings: One of the relatively new and increasingly popular ways of money laundering is to commit this act with the help of virtual assets. Methods of money laundering through virtual assets include services for the conversion of virtual assets, P2P exchange, gambling sites, virtual asset mixers and the use of fictitious internet sites selling digital goods. The difficulty of counteracting the legalization of criminal proceeds with the help of virtual assets is primarily due to the lack of legislative regulation of the concept of “virtual assets” in Ukraine. Yes, the draft law is currently being finalized. Besides, even the current edition is not evaluated by the authors as perfect. After all, the issue of the content of the concept of “virtual assets” and its relationship with virtual securities, cryptocurrency and virtual property remains unresolved. Originality/value: One of the relatively new and increasingly popular ways of money laundering is to commit this act with the help of virtual assets. Methods of money laundering through virtual assets include services for the conversion of virtual assets, P2P exchange, gambling sites, virtual asset mixers and the use of fictitious internet sites selling digital goods. It is essential to intensify financial monitoring by financial control bodies over the activities of conversion service centers. Moreover, given the transnational nature of legalizing criminal proceeds, especially those committed through virtual assets, international cooperation in combating this crime is vital. The authors have proposed specific measures to ensure that a coherent consolidation of efforts can be built. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

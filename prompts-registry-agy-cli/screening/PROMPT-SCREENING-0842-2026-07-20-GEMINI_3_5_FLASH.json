@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0842-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Corruption and banking soundness: does natural resource dependency matter?",
+    "authors": "Kordbacheh H.; Sadati S.Z.",
+    "year": "2022",
+    "doi": "10.1108/JFC-01-2021-0004",
+    "abstract": "Purpose: The natural resources curse theory argues the higher dependency on natural resources leads to many socio-economic problems. The purpose of this study is to examine the relationship between corruption and banking soundness and also to compare the extent of this effect between the two groups of rich and poor in natural resources countries. Design/methodology/approach: To this aim, the authors apply a panel data set comprised of 98 countries from 2012 to 2015. Findings: The results show that nations with a higher level of corruption have poorer banking soundness. The authors also find that by considering the resource curse theory and the effect of natural resource rents in the model, the adverse impact of corruption on banking soundness is more substantial in countries with a higher natural dependency level (rich in natural resources). Originality/value: Though studies have been conducted on corruption and banking soundness, this paper, by using resources curse theory, articulates that corruption is one of the most critical factors affecting banking soundness and has a destructive effect on the health of the banking system and the economy of almost all countries, especially in natural resource-based economies. This study will appeal to banks authorities, governments, policymakers, oversight financial institutions and those who have a vested interest in regulating financial crimes globally. They can prevent financial and banking crises by cooperating in the fight against corruption worldwide. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

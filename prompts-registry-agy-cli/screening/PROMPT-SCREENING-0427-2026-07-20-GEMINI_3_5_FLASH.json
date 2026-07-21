@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0427-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering in the crypto-market: Will the MiCA Regulation effectively support the European AML/CFT objectives?",
+    "authors": "Roussos M.",
+    "year": "2026",
+    "doi": "10.1080/17521440.2026.2626875",
+    "abstract": "Money laundering through crypto-asset trading has been a growing concern, due to the anonymous and borderless nature of the crypto-market. Attempting to connect Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) laws with crypto-assets and related services in the European market, in May 2023, the EU Regulation on Markets in Crypto-assets (the MiCA Regulation) was enacted. It aims to regulate crypto-asset trading, support innovation and investor protection in the crypto-industry, while firmly establishing European AML/CFT laws in the crypto-market and its main stakeholders, the Crypto-Asset Service Providers (CASPs). Meanwhile, the 2024 reformed EU AML/CFT legislative package explicitly refers to the crypto-market. However, various fundamental issues may potentially limit its effectiveness, playing an adverse role in the AML/CFT landscape. The exclusion of specific services and crypto-asset elements from the MiCA Regulation scope, combined with the absence of adequate global AML/CFT collaboration mechanisms open the path for money laundering activities. © 2026 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Law and Financial Markets Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0649-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banking crises, banking mortality and the structuring of the banking market in Switzerland, 1850-2000",
+    "authors": "Giddey T.; Mazbouri M.",
+    "year": "2022",
+    "doi": "10.1017/S0968565022000129",
+    "abstract": "The Swiss financial centre, as it developed during the twentieth century, has for a long time been presented and perceived as a singularly stable and solid environment escaping crises and restructuring. This view, promoted by the dominant actors - private banks, cantonal banks and large commercial banks - presenting their own development, in a teleological vision, as success stories, is strongly challenged by more recent research developments. Our article deals with the evolution of banking demography in Switzerland between 1850 and 2000 and examines the exits of banking institutions from the statistics, identifying six periods of crisis and restructuring. The article proposes a new statistical series that makes it possible to scrutinise with a high level of granularity the banks that fail or are taken over, in particular by observing their category of bank and, for the period 1934-99, their size. It uses historical banking demography as a gateway to understand more broadly the phases of transformation of the financial centre. In doing so, this contribution questions the gap between the existence of significant phases of banking instability, their low importance in collective memory, and the perception of the Swiss banking sector as a model of stability. It also helps to refine our understanding of the evolution of the Swiss financial centre in general. Copyright © 2022 The Author(s).",
+    "source": "Financial History Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

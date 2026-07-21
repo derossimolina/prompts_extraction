@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2066-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Optimising value of surplus corporate real estate to achieve business and community objectives",
+    "authors": "Karlsgodt K.E.; Corwin C.M.",
+    "year": "2003",
+    "doi": "10.1108/14630010310812091",
+    "abstract": "Corporations with surplus real estate can often obtain substantially higher returns from the property if they maximise their leverage with public jurisdictions surrounding the property. Goodrich Corporation was able to work successfully with the Port of San Diego and the City of Chula Vista, California, to create a win-win-win public-private partnership. Goodrich ended up with a smaller, more efficient corporate facility, while the public entities realised the opportunity for substantially higher-valued re-use of a large tract of bayfront property. This paper reviews the key points to be aware of in conducting and structuring such a transaction, as well as the potential pitfalls. © 2003, MCB UP Limited",
+    "source": "Journal of Corporate Real Estate"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

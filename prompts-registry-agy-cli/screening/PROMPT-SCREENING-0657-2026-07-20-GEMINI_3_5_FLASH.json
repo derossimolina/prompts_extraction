@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0657-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Integral representation method based efficient rule optimizing framework for anti-money laundering",
+    "authors": "Badics T.; Hajtó D.; Tornai K.; Kiss L.; Reguly I.Z.; Pesti I.; Sváb P.; Cserey G.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-12-2021-0137",
+    "abstract": "Purpose: This paper aims to introduce a framework for optimizing rule-based anti-money laundering systems with a clear economic interpretation, and the authors introduce the integral representation method. Design/methodology/approach: By using a microeconomic model, the authors reformulate the threshold optimization problem as a decision problem to gain insights from economics regarding the main properties of the optimum. The authors used algorithmic considerations to find an efficient implementation by using a kind of weak mode estimate of the distribution and the authors extend this approach to classes of alerts or cases. Findings: The method provides a new and efficient alternative for the sampling method or the multidimensional optimization technique described in the literature to decrease the bias emanating from multiple alerts by smoothing the number of alerts across classes in the optimum and decrease the overlapping between scenarios at the case level. Using the method for real bank data, the authors were able to decrease the number of false positives cases by about 18% while retaining almost 98% of the true-positive cases. Research limitations/implications: The model assumes that alerts from different scenarios are indifferent to the bank. To include scenario-specific preferences or constraints demands further research. Originality/value: The new framework presented in the paper is a flexible extension of the usual above-the-line method, which makes it possible to include bank preferences and use the parallelization capabilities of modern processors. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1273-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Info-communicative and protective function of the state as combating fraud using Sberbank bank cards",
+    "authors": "Nikodimov I.Yu.; Burmistrov I.A.; Sinyukova T.N.; Mironova E.A.; Zakhartsev S.I.",
+    "year": "2020",
+    "doi": "10.6000/1929-4409.2020.09.166",
+    "abstract": "Financial crimes are defined as unfair activities that have become widespread in banking structures. The activities of financial fraudsters often have negative consequences before public rules are created that prohibit them. Intensive transformation processes in financial markets, their automation and virtualisation, the spread of remote interaction between banks and their clients, the influence of unauthorised persons on the software and hardware systems of banks, an increase in the number of cases and trading volumes determine the relevance of clarifying the essence of this phenomenon and the peculiarities of its manifestation in banking structures. The novelty of the study is determined by the fact that financial violations can be represented both in the structure of the current activities of banks and the process of interaction with clients and in the structure of expanding the list of services provided. The leading method to study this problem is the method of analysis, which allows to identify and comprehensively consider ways to counter financial crimes in banks to improve the level of financial security. The authors show that structurally, one should take into account, first of all, countermeasures on the part of customers, which often serve as a source of obtaining personal data. In this case, the state function is considered only as a security function for the purpose of possible punishment for fraudulent actions. The practical significance of the study is determined by the possibilities of structural implementation of combating financial fraudulent actions in the context of the development of the information society. © 2020 Lifescience Global.",
+    "source": "International Journal of Criminology and Sociology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

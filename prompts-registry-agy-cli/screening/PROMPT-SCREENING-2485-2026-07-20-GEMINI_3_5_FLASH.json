@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2485-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Shadow markets and hierarchies: comparing and modeling networks in the Dark Net",
+    "authors": "Norgaard, JR; Walbert, HJ; Hardy, RA",
+    "year": "2018",
+    "doi": "10.1017/S1744137417000613",
+    "abstract": "This paper analyzes the determinants of network structure, as measured by hierarchy and monopolization, by examining various black market networks. We examine structures of networks on the Internet Dark Net (Virtual) and compare it to network structures of traditional black markets (Ground), using agent-based modeling. The purpose of modeling these two different types of illicit markets is to understand the network structure that emerges from the interactions of the agents in each environment. Traditional black markets are relatively hierarchical, with high degree and high betweenness. We compare the density and average length of the shortest path of the simulated Ground black market networks with our simulated Virtual network. We find that hierarchy and monopolization tendencies in networks are products of different transaction costs and information asymmetries. The Internet is an effective way to lower multiple aspects of network structure. We observe that the network structure surrounding the interactions in the Virtual black market is less hierarchical and slightly more monopolistic than the network structure of the Ground market.",
+    "source": "JOURNAL OF INSTITUTIONAL ECONOMICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

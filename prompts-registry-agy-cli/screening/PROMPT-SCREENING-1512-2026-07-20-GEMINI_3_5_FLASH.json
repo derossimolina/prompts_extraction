@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1512-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combating money laundering and terrorism financing instructions in Jordan",
+    "authors": "Masadeh W.M.; Al Hassan A.T.",
+    "year": "2018",
+    "doi": "10.21511/bbs.13(3).2018.08",
+    "abstract": "This study aims to identify the extent of the response of operating banks in Jordan to the anti-money laundering and terrorism financing instructions set by the Central Bank of Jordan, and to enumerate the effectiveness of these sets of laws, the echelon of cooperation with the relevant government agencies and the impact of contiguous political and security conditions on the anti-money laundering and financing of terrorism. To attain the objectives of this study and to test its hypotheses, a descriptive analytical method was followed based on related data of the Central Bank instructions and the engaged procedures by operating banks to combat money laundering and financing of terrorism. Therefore, a questionnaire was designed and distributed to the managers of anti-money laundering departments in operating banks in Jordan. The study shows various outcomes, the most important is the high responding of operating banks in Jordan to the instructions of the anti-money laundering and terrorism financing issued by the Central Bank of Jordan. The existence of practical application of money laundering and terrorism financing instructions fights against money laundering and terrorism financing in banks in Jordan at a soaring level. In addition to the functional cooperation by the competent governmental authorities in the fight against money laundering and terrorism financing, this study introduces a set of recommendations to reinforce the cooperation level for every related party to achieve a high level of cooperation in the field of the anti-money laundering and financing of terrorism. © The author(s) 2019.",
+    "source": "Banks and Bank Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

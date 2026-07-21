@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0024-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DESIGN AND IMPLEMENTATION OF DISK-BASED GRAPH FEATURE PREPROCESSOR FOR TERRORIST FINANCING DETECTION",
+    "authors": "Bolshibayeva A.; Rakhmetulayeva S.; Kulbayeva A.; Yasar A.-U.-H.",
+    "year": "2025",
+    "doi": "10.15587/1729-4061.2025.340033",
+    "abstract": "The object of the study is streaming payment transactions modeled as directed multigraphs. This study investigates terrorism-financing detection in payment transaction networks using disk-based graph processing and anomaly detection. The key problem addressed is the high memory consumption of graph-based detectors, which prevents analysis on systems with limited Random Access Memory, typical of small and mid-sized financial institutions. A disk-based graph feature preprocessor (DGFP) was made to get around this problem. During stream processing, DGFP dynamically labels connected components and identifies eight graph patterns characteristic of terrorist financing, including fan-in/fan-out stars and multi-hop chains. The system persists component descriptors to a columnar store on an SSD and uses an LRU-managed hot cache to serve the features, enabling real-time transaction scoring with sub-second latency. On a two-million-transaction AMLSim stream, the system integrates with a lightweight Isolation Forest and achieves an F1-score of 0.76 while reducing peak RAM from 18.3 GB to 9.8 GB and maintaining 410 ± 15 ms mean latency for 10 000 transactions. Per-motif computation remains ≤ 28.4 ms (median < 24 ms), supporting real-time scoring on commodity hardware. DGFP produces model-agnostic graph features that interoperate with standard anomaly detectors without retraining GNNs. Contributions of this research include an external memory architecture for streaming graph feature extraction; a motif-aware feature labeling scheme stored on SSD and cached by LRU; and an empirical evaluation demonstrating real-time performance and memory efficiency improvements on anti-money laundering data. Copyright © 2025, Authors.",
+    "source": "Eastern-European Journal of Enterprise Technologies"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2363-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money Laundering Through Real Estate: Why, and How, New Zealand has Sought to Regulate It",
+    "authors": "Hughes, G",
+    "year": "2024",
+    "doi": "10.1007/978-3-031-59547-9_4",
+    "abstract": "New Zealand property markets have had problems with money laundering and foreign investment at times, which might have partially contributed to overheated real estate booms. Gatekeeper professions including real estate agents, lawyers and accountants were forced to address it via expanded AML regulatory measures. Challenges remain, even as neighbouring Australia begins its own journey towards regulating the sector.",
+    "source": "FINANCIAL CRIME, LAW AND GOVERNANCE: Navigating Challenges in Different Contexts"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

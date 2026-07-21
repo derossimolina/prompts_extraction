@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2047-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Asset securitization problems and prospects",
+    "authors": "Seetharaman A.; Raj J.R.; Saravanan A.S.",
+    "year": "2008",
+    "doi": "10.22495/cocv5i4c3p7",
+    "abstract": "Applying off balance sheet financing mechanism is largely driven by its practicality, flexibility, and the most importantly it provides a platform for cheaper capital and solves many accounting related issues. Off balance sheet financing, particularly asset securitization, will continue to become the most dominant financing alternatives in view of its multi functional capabilities in solving financing requirement and hedging needs. Asset securitization has been widely applied by the emerging economies in helping them during the economic crisis. Securitization has also been a lifesaver for banks in helping them recapitalizing during financial crisis. Securitization to a certain extent has contributed to the disintermediation of commercial banks being a major provider of capital. Despite the significant benefits and impacts, asset securitization has also its flaws or weaknesses. A flaw in structuring the deal could be one of the contributory factors of a failed deal. It could also attract excessive abuse, which consequently will be catastrophic to the financial system. Thus, proper control and regulation of off balance sheet financing is inevitable.",
+    "source": "Corporate Ownership and Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

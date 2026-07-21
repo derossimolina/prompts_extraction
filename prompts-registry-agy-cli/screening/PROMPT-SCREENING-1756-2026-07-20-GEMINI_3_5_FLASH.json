@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1756-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Auditor independence revisited",
+    "authors": "Arya A.; Glover J.",
+    "year": "2014",
+    "doi": "10.1177/0148558X13519989",
+    "abstract": "Maintaining auditor independence is vital to the auditing profession. This article argues that the auditor-client relationship exhibits special traits that make maintaining auditor independence easier than in other accountant-client relationships. In particular, the auditor-client relationship satisfies a one-sided separability condition, as the auditor is not involved in the structuring of transactions (unlike other accountants). The limited nature of the auditor's attestation role and the reach of regulators, especially in the course of regulatory investigations, boost the availability of such separable information in auditor-client relationships. The information, in turn, provides the client with incentives to admit to nonobedient behavior to the owner, thereby introducing sufficient distrust (independence) between the accountant and the client to begin with. © The Author(s) 2014.",
+    "source": "Journal of Accounting, Auditing and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

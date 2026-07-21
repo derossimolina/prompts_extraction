@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1195-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Impact of correspondent bank de-risking on money service businesses in Jamaica",
+    "authors": "Gordon L.-R.",
+    "year": "2019",
+    "doi": "10.1108/JFRC-12-2018-0159",
+    "abstract": "Purpose: The paper aims to provide needed quantitative assessments of the impact of the withdrawal of correspondent banking to small emerging economies. It serves to identify the extent to which global anti-money laundering and combatting the financing of terrorism (AML/CFT) standards have influenced global banks’ decision to withdraw correspondent banking from some jurisdictions and the subsequent economic spillover effects on other non-bank financial entities. Design/methodology/approach: Separate semi-structured surveys are issued to banks and money services businesses in Jamaica. Analysis of the responses identify the initial impact of de-risking on banks and the subsequent spillover effect on the other aspects of the financial system. Findings: Results show significant spillover effects on money services businesses in their ability to transact in foreign currency with local commercial banks. Further, the scale of this impact is greater and costlier for smaller entities. Research limitations/implications: The economic consequences of the direct and indirect impact of correspondent bank de-risking are increased concentration risks and the potential expansion of shadow financial activity. Practical implications: Tighter AML/CFT standards coupled with action of over-compliance has created unintended consequences for small developing countries across the globe. In Jamaica, commercial banks have either lost correspondent relationships or have had restrictions placed on the types of services available. It creates risks to economic growth and development through the hindrance of access to international financial markets for payments, trade and commerce. Originality/value: This study is the first among research on the issue of correspondent bank de-risking to provide quantitative assessments of the impact on local financial systems. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2270-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global taxation issues in cryptocurrencies - a synthesis of literature and future research agenda",
+    "authors": "Bhullar, PS; Joshi, M; Sharma, S; Phan, DHT; Nguyen, AL",
+    "year": "2025",
+    "doi": "10.1108/JAL-10-2024-0314",
+    "abstract": "Purpose-The purpose of the current study is to contribute to the existing body of knowledge by understanding the rationale, benefits and consequences of taxing cryptocurrency transactions. This study investigates where taxation and cryptocurrencies meet from an investment standpoint. Design/methodology/approach-A comprehensive bibliometric study was conducted to offer a thorough examination of the published literature in the last decade pertaining to the intersection of cryptocurrencies and taxation across nations. This study provides an analysis of citation patterns, prominent authors, publication trends and thematic clusters by applying VOSviewer and R-studio. Findings-The results indicate a tendency in the existing literature to address the taxes concerns associated with cryptocurrency transactions. The findings demonstrate that cryptocurrency taxation discrepancies across countries create tax evasion, transaction risks and market uncertainties. Practical implications-The report provides a theoretical framework for policymakers and financial experts to create a global cryptocurrency tax regime. The study emphasizes the need to incorporate technology start-ups to mitigate public safety and security risks, strengthen financial systems and provide regulators with necessary supervision. Originality/value-The study provides an extensive on taxation issues such as tax evasion and money laundering in the context of cryptocurrency. There has been no prior effort to explore this research domain so deeply and provide comprehensive details on cryptocurrency.",
+    "source": "JOURNAL OF ACCOUNTING LITERATURE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

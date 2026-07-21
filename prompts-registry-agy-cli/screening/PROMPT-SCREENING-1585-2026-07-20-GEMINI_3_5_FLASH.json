@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1585-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Can microfinance crowdfunding reduce financial exclusion? Regulatory issues",
+    "authors": "Marakkath N.; Attuel-Mendes L.",
+    "year": "2015",
+    "doi": "10.1108/IJBM-06-2014-0080",
+    "abstract": "Purpose – The purpose of this paper is to discuss how regulatory environment can be a fundamental constraint or lever in defining the scope of operations of a social innovation. Design/methodology/approach – Semi-structured interviews with top-level executives of pioneersof crowdfunding were run in India and France, two of the three leading countries in this field. Findings – Four main issues rise: choice of legal status, constraints for the operations model, compliance with anti-money laundering measures and challenges in marketing and sustainability. Originality/value – This paper contributes to knowledge advancement in the field of this new funding actor that could challenge the banking system. This is the first paper to explore these regulatory issues and their impact on marketing practices. © Emerald Group Publishing Limited.",
+    "source": "International Journal of Bank Marketing"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

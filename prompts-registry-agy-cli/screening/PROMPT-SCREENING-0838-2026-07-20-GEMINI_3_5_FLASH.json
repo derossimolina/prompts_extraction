@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0838-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Natural bedfellows: corruption, criminality and the failure of international reconstruction. A case study of the Kabul Bank",
+    "authors": "Theros M.",
+    "year": "2024",
+    "doi": "10.1080/14678802.2024.2380268",
+    "abstract": "Corruption remains a persistent feature in most transitional and fragile countries, raising questions around the processes and outcomes of international development and economic reforms. In the case of Afghanistan, conventional wisdom tends to blame domestic factors, including corruption, in the collapse of the internationally-backed Islamic Republic of Afghanistan, while largely neglecting the co-constitutive nexus between economic reconstruction, criminality, and political authority. Combining the political marketplace framework with a network analysis, this paper traces how a corrupt network formed around the Kabul Bank, grew and metastasised by leveraging neo-liberal and technocratic economic reform policies, and thus, gravely undermined the country’s governance and stability. By doing so, it argues that international reconstruction practices and resources reconfigured power in Afghanistan, and helped create a governance system governed by the logic of a criminalised political marketplace. The paper also demonstrates the utility of a political marketplace lens in explaining evolving political dynamics, with a network analysis to generate deeper insights into the complex interactions between the local and global dynamics that produce criminality, corruption, and state capture. © 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Conflict, Security and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

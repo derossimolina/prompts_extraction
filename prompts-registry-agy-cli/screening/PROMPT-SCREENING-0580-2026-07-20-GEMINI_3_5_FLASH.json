@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0580-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Blockchain-Based cryptographic interaction method of digital museum collections",
+    "authors": "Zhao L.; Zhang J.; Jing H.; Wu J.; Huang Y.",
+    "year": "2023",
+    "doi": "10.1016/j.culher.2022.11.001",
+    "abstract": "We constructed a cryptographic interaction method museum art exchange protocol (MAXP) for museum digital collections on the basis of blockchain technology. Using our method, we build a digital collection exchange system on Ethereum to realize the digital collection's online exchange between two museums. Compared with the traditional centralized collection digital resource database method, MAXP can avoid the security risks caused by subjective factors and force majeure factors in the exchange process of digital collections, such as hackers and network viruses. In our exchange system we have built, the expression of content covered by digital collections is more convenient, and copyright disputes can be quickly resolved. Concurrently, given the decentralization and anonymity of the blockchain, a regulatory mechanism has been added to MAXP to avoid fraud, illegal fundraising, money laundering and smuggling. The regulatory mechanism we constructed is a dual receiver public key encryption scheme based on the Diffie-Hellman algorithm and the SM2 elliptic curve public key encryption algorithm. The sender encrypts the collection data, and both receivers can decrypt the messages using their respective private keys. One of the receivers is the museum that obtained the collection information, and the other receiver is the regulator. These two receivers can decrypt simultaneously, and the regulator can regulate the information exchange on the blockchain. The Beijing Planetarium and the Beijing Museum of Natural History have completed the exchange of collections through the system we have built. The analysis results show that the regulatory scheme based on the exchange blockchain system of the museum's digital collections proves to be feasible, with security and expansibility. Our new encrypted exchange management method of digital collections in museums can effectively promote the exchange of collections between museums, and is of great significance to the promotion of cultural heritage and the dissemination of scientific knowledge. © 2022 The Author(s)",
+    "source": "Journal of Cultural Heritage"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

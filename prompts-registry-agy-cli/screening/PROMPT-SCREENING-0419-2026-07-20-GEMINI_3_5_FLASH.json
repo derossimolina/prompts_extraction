@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0419-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Connecting the Dots: The Convergence of Trade-Based Money Laundering and Environmental Crimes in Southeast Asia",
+    "authors": "Yousop N.L.M.; Razak N.H.A.; Noordin B.A.A.; Zakaria W.M.F.W.",
+    "year": "2025",
+    "doi": "10.21512/jas.v13i2.10304",
+    "abstract": "Criminals increasingly resort to trade-based money laundering (TBML) from environmental crimes to conceal illicit funds by exploiting complexities and loopholes in trade transactions. In this study, an extensive analysis was conducted across prominent databases such as Scopus, WoS, and Google Scholar, focusing on TBML and environmental crime research from 2007 to 2025. The study's primary objective is to comprehensively explore the extent of TBML and environmental crime in Southeast Asia while identifying current research trends and the interconnections between these two phenomena. Despite the widespread incidence of environmental crime in the region and substantial evidence of associated money laundering involving natural resources, the findings indicate that scholarly work on TBML remains limited and fragmented. The review further shows that corruption, weak law enforcement capacity, and technological change continue to facilitate TBML. Trade misinvoicing appears to be the dominant laundering technique, complicating detection and weakening enforcement responses. The findings highlight a significant gap between the scale of the problem and the development of the academic literature, underscoring the need for stronger regulatory frameworks, improved enforcement coordination, and greater policy attention to the misuse of international trade for illicit financial flows in Southeast Asia. © 2025 Bina Nusantara University. All rights reserved.",
+    "source": "Journal of ASEAN Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

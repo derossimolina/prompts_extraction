@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1210-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulation of offshore jurisdictions' activities: A practical aspect",
+    "authors": "Paziuk A.V.; Nevara L.M.; Derkach E.M.; Paziuk M.A.; Yefimenko Y.O.",
+    "year": "2020",
+    "doi": "10.34218/IJM.11.3.2020.063",
+    "abstract": "As of today, there are significant violations of fiscal functions in almost every country in the world, the main reasons for which are the illegal activities of offshore jurisdictions and the constant struggle for capital among the countries. Based on the above, the purpose of the scientific investigation is to study the key principles of regulation of offshore jurisdictions from a practical point of view. Such method of economic analysis as comparison was used to process statistical data. It has been proposed to introduce new standards and norms for regulation of offshore jurisdictions in the context of minimization and gradual neutralization of the laundering of illegal assets (money). It has been revealed that existing international regime AML/CFT instruments, aimed at regulating the activities of offshore jurisdictions, are currently at the development stage. The dynamics of FDI inflows and outflows of EU countries during the period 2012-2018 have been analyzed; and it has been proven that significant volumes of direct investments both in the economy and abroad were in Great Britain, Ireland, Spain, Italy, Germany, France, the Czech Republic and Sweden. It has been established that Luxembourg, the Netherlands, Andrii V. Paziuk, Liliia M. Nevara, Ella M. Derkach, Mykhailo A. Paziuk and Yuliia O. Yefimenko http://www.iaeme.com/IJM/index.asp 613 editor@iaeme.com Great Britain, Germany and Malta have the most opaque financial system, which is displayed by significantly high values of the financial secret index. © 2020 IAEME.",
+    "source": "International Journal of Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

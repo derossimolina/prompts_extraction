@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1205-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Border Corruption",
+    "authors": "Jancsics D.",
+    "year": "2019",
+    "doi": "10.1080/10999922.2019.1581043",
+    "abstract": "In many countries, customs and border protection agencies are perceived as the most corrupt government institutions. Officers in those organizations have more opportunities to participate in corruption than do employees in other law enforcement agencies. Moreover, border related corrupt activities may be directly linked to organized crime groups. Despite the importance of the topic, border corruption has remained conceptually underdeveloped. Complementing already existing classification schemes, this study uses two dimensions to develop a six-cell conceptual typology of border corruption: (1) the actor of the corrupt transaction on the client side, and (2) the collusive/coercive nature of the exchange. Possible implications for research and practice are also discussed. © 2019, © 2019 American Society for Public Administration.",
+    "source": "Public Integrity"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

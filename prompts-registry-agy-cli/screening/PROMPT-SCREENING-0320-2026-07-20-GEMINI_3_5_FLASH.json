@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0320-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The interplay of money laundering and terrorism financing in Saudi Arabia: a critical examination",
+    "authors": "Alhejaili M.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-08-2024-0132",
+    "abstract": "Purpose: This paper aims to critically analyse the evolving anti-money laundering (AML) and counter-terrorism financing (CTF) framework in Saudi Arabia, focusing on the intersection of Shari’ah and international AML standards. The study explores Saudi Arabia’s efforts to combat money laundering (ML) and terrorism financing (TF) within its global engagement, assessing the challenges and opportunities posed by emerging financial technologies and transnational financial crime. Design/methodology/approach: The research uses a legal doctrinal analysis of Saudi Arabia’s AML/CTF laws, integrating a review of FATF reports, international guidelines and Shari’ah-compliant financial regulations. The study also evaluates Saudi Arabia’s participation in international AML/CTF cooperation efforts, drawing on case studies of the country’s involvement in global initiatives and bilateral agreements. In addition, the research examines policy recommendations and explores the role of new financial technologies, such as cryptocurrencies and blockchain. Findings: Saudi Arabia has made significant progress in aligning its AML/CTF framework with global standards, particularly following its full membership in the FATF. However, challenges remain, especially in addressing vulnerabilities within non-financial sectors and regulating emerging financial technologies. The study finds that integrating Shari’ah into the country’s AML/CTF system enhances cultural and religious relevance while contributing to global compliance efforts. International cooperation and technology adoption are essential for staying ahead of evolving threats. Originality/value: This study uniquely examines the interplay between Shari’ah and global AML standards in Saudi Arabia, offering insights into how religious principles coexist with international regulatory requirements. It also addresses the rising challenges of cryptocurrencies and blockchain, providing actionable policy recommendations for policymakers and financial institutions to enhance Saudi Arabia’s AML/CTF efforts. The research highlights Saudi Arabia’s role as a regional leader and global contributor to financial crime prevention. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

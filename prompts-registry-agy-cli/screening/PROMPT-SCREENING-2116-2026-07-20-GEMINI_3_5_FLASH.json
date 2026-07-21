@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2116-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Decision model for IS outsourcing",
+    "authors": "Yang C.; Huang J.-B.",
+    "year": "2000",
+    "doi": "10.1016/S0268-4012(00)00007-4",
+    "abstract": "Information systems outsourcing has been one of the critical issues facing IS management recently, but it still stays in the stage of conceptual discussion about how to outsource the IS activities. The determinants used so far, for instance, transaction costs and 'strategic' or 'commodities' characteristics, are too narrow to help the end users determine if their system should be outsourced. This paper argues that five factors, including management, strategy, economics, technology and quality, should be considered for outsourcing decisions. Furthermore, the paper proposes a decision model, which uses the analytic hierarchy process (AHP) method to help users in structuring the outsourcing problems. The decision model generates numeric values for users to decide whether they should adopt the outsourcing strategy for each IS systems under consideration.",
+    "source": "International Journal of Information Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

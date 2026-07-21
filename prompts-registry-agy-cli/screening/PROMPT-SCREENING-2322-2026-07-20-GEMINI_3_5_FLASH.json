@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2322-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and auditing: a survey of empirical literature",
+    "authors": "Achek, I; Khelil, I; Khlif, H",
+    "year": "2026",
+    "doi": "10.1108/JFRA-09-2025-0769",
+    "abstract": "Purpose-Recent reports by the United Nations Office on Drugs and Crime suggest an increased volume of money laundering worldwide. Because audit mechanisms play an important role in combating this phenomenon, this paper aims to provide a timely review of the empirical literature linking money laundering to auditing, as this topic has been gaining momentum during the past decade. Design/methodology/approach-Keywords used to collect relevant empirical papers in several electronic databases (e.g. Science Direct, Emerald, Wiley-Blackwell, Springer, and Taylor & Francis) include audit and money laundering, audit and financial crime and money laundering and auditing. The Preferred Reporting Items for Systematic Reviews and Meta-Analyses protocol is used to identify pertinent published studies. Based on its four stages (identification, screening, eligibility and inclusion), the final sample includes 16 empirical studies published between 2017 and 2024. Findings-The summary of reviewed studies suggests that the majority of articles represent cross-country investigations. Single-country inquiries are mostly conducted within the Iranian setting. Five substreams of research are identified. The first focuses on external auditors' characteristics and money laundering and shows that external auditors' size, competency, tenure and fees are positively and significantly associated with due diligence conducted by auditors to detect financial crime. The second examines the impact of audit committee attributes on money laundering. Findings show that audit committee size, expertise, independence and activity are positively associated with the effort to combat money laundering. The third demonstrates that the strength of auditing and reporting standards is negatively associated with money laundering at the country level. The fourth suggests that money laundering is associated with higher audit risk, which translates into higher audit fees. Finally, the last substream of research suggests that the strength of auditing and reporting standards and external auditor specialization may mitigate the adverse effect of money laundering. Practical implications-Regulators around the globe may establish global anti-money laundering disclosure standards, which may represent an effective international response to any potential risks that may arise. Furthermore, professional auditing organizations may implement compliance programs that focus on three crucial aspects dealing with the knowledge of the company, the systems established in it to detect suspicious transactions and its management's integrity and ethics. Originality/value-The review offers future research guidance for researchers interested in both auditing and money laundering.",
+    "source": "JOURNAL OF FINANCIAL REPORTING AND ACCOUNTING"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0660-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How do anti-money laundering systems affect FDI flows across the globe?",
+    "authors": "Ofoeda I.; Agbloyor E.K.; Abor J.Y.",
+    "year": "2022",
+    "doi": "10.1080/23322039.2022.2058735",
+    "abstract": "This paper is a systematic attempt to establish the effect of anti-money laundering (AML) systems on FDI flows across the globe. Complex and related hypotheses are tested using data from 2012 to 2018 across 165 economies across different continents, income levels, and regulatory environments. First, the paper examines the effect of AML systems on FDI flows. Second, the paper examines the nonlinearities of the AML systems-FDI nexus. Third, the paper examines if host country peculiarities such as an offshore financial centre (OFCs) or originating from Africa alter this relationship. The paper employs the two-step system GMM and the dynamic panel threshold regression techniques to test the hypotheses of the study. Generally, the paper provides evidence that AML systems positively promote FDI inflows. However, the paper finds that AML structures dampen FDIs inflows for OFCs. Further, the paper finds that the influence of AML systems on FDIs is threshold-specific. Specifically, AML systems positively impact FDIs below the threshold for our full, developing, and African country samples. At the same time, the study finds a negative impact of AML structures on FDIs above the threshold value for our full sample and developing countries. However, for Africa, the study provides evidence of a positive impact of AML systems on FDIs across the different AML structures. Again, the study finds that AML systems negatively impact FDI across all AML structures for offshore financial centres. The findings of the study provide insights into the importance of AML systems in influencing MNEs’ FDI decisions to a country. © 2022 The Author(s). This open access article is distributed under a Creative Commons Attribution (CC-BY) 4.0 license.",
+    "source": "Cogent Economics and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

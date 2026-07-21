@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0117-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Lock, stock and two smoking crimes. Two criminal figures captured by French criminal law in the 19th century: The insurance swindler and the fraudulent bankrupt; [Arnaques, crimes et politique législative. Deux figures criminelles saisies par le droit pénal français au xixe siècle: L’escroc à l’assurance et le banqueroutier frauduleux]; [Fraudes, criminalidade e política legislativa. Duas figuras criminosas capturadas pelo direito penal francês no século XIX: O vigarista de seguros e a bancarrota fraudulenta]",
+    "authors": "Becquet E.; Terracol L.",
+    "year": "2024",
+    "doi": "10.48751/CAM-2024-22355",
+    "abstract": "In the 19th century, to protect private property, the legislator sometimes had to be wary of dishonest owners. Faced with the resurgence of certain financial crimes, swindles and other frauds, legislative policy oscillated between rigorous repression, intended as a deterrent but deemed excessive, and more flexible sentencing, to make criminal law more effective. The legislator’s main concern was to define the contours of the criminal figures that were developing as a result of the century’s economic and social changes. Among these, two stand out: the insurance swindler, an owner who sets fire to his own property in order to defraud his insurer, and the fraudulent banker, who makes undue profit from mismanagement. In trying to catch them, French law tries, with varying degrees of success, to meet society’s need to identify and punish criminal scams fairly. © 2024, Lisbon City Council. All rights reserved.",
+    "source": "Cadernos do Arquivo Municipal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2358-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Heart of Know Your Customer Requirements: The Discriminatory Effect of AML and CTF Policies in Times of Counter-Terrorism in the uk",
+    "authors": "Sciurba, M",
+    "year": "2018",
+    "doi": "10.1163/15718174-02603003",
+    "abstract": "The duties of loyalty and confidentiality are central to the relationship between banks and their customers. In the wake of national and international security concerns, Anti-Money Laundering (AML) and Counter-Terrorism Financing (CTF) legislation have put banks at risk for excessive sanctions and legal liability for failing to comply with these laws. In response, banks have adopted de-risking policies that undermine the banks' confidential relationship to their customers. In order to limit their own risk, banks act pre-emptively by denying accounts to customers or terminate existing accounts of legitimate customers based on risk profiles. Consequently, banks become de facto extensions of law enforcement. This provides incentives to banks to discriminate against entire groups of customers and to dispense with less profitable customers in the name of mitigating risk. The risk-profiling policies of banks raise civic and human rights concerns, which extend beyond the private relationship between the bank and its customer.",
+    "source": "EUROPEAN JOURNAL OF CRIME CRIMINAL LAW AND CRIMINAL JUSTICE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1633-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial channels of money laundering in Spain",
+    "authors": "Steinko A.F.",
+    "year": "2012",
+    "doi": "10.1093/bjc/azs027",
+    "abstract": "This is the first instalment of the results from an empirical research project on money laundering in Spain. The research is based on the analysis of the court documents referring to 367 cases judged between 1995 and 2011. The numerous data obtained are contrasted with the quantitative and qualitative hypotheses published in the official papers of international institutions dedicated to fight money laundering. These hypotheses have been the basis for the development of the legal principles for the implementation of anti-laundering laws worldwide. The main conclusions of the research shed some light on the economic, financial and business-related movements of illegal money and amply refute those hypotheses. At the same time, these conclusions should invite the international community to reflect on the position presently held by the empirical knowledge about criminal realities in the process of working out legal initiatives to fight them. © 2012 The Author.",
+    "source": "British Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

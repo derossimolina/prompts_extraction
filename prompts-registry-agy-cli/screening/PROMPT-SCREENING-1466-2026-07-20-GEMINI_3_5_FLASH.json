@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1466-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Politicians, political parties' funding in Greece and anti-money laundering regulatory framework",
+    "authors": "Repousis S.",
+    "year": "2014",
+    "doi": "10.1108/JMLC-07-2013-0027",
+    "abstract": "Purpose – The purpose of this paper is to examine politically exposed persons and major Greek political parties' funding sources as well as the anti-money laundering regulatory framework for political parties' funding sources. Design/methodology/approach – This paper aimed at investigating data about Greek political parties' funding by identifying new problems and developing solutions. Findings – The main findings are that Greek political parties' major sources of revenues are public subsidies and bank loans. Also, data show that two major Greek political parties cannot easily repay their bank loans (especially PASOK) and must renegotiate terms with banks and must agree for a new, long-term and lower payment schedule at a lower interest rate. Extending the period of repayment is necessary for viability of debts, and banks will protect themselves against default and total losses of about 253.1 million euros from the two major political parties. Public subsidies are the only collateral that Greek political parties offer to banks. Practical implications – As a result of research, structural changes are necessary to immediately be made in order to cope with politically exposed persons and political parties' corruption and funding in Greece, especially during the current fiscal crises. Greek political parties need to raise funds from other sources than only public subsidies. Anti-Money Laundering Regulatory Framework have to stop conduit contributions and force banks to apply Know Your Client Principle for donors. Also, to include on Suspicious Activity Report a checkbox of “Political Finance Violations”. Establishing a code of conduct informing employees of the risks and subsequences of political corruption, creating a culture of honesty and high ethics and implementing Controlled Foreign Corporation legislation to cope with corruption in political parties' funding can help to recover ill-gotten assets. Finally, implementing Business Principles for Countering Bribery and UK Bribery Act will increase transparency in funding of Greek political parties. Originality/value – The paper examines corruption and funding sources of Greek political parties, especially during the period 2009-2011, suggesting policy measures to deter and detect money laundering and illegal funding to politically exposed persons and political parties. Findings offer important measures for political analysts, government and society as a whole. A stable political system is prerequisite for a healthy society and for economic growth. © 2014, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

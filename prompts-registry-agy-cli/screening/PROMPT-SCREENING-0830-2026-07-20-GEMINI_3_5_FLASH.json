@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0830-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE RISKY BEHAVIOR OF THE YEARS OF BRAZILIAN COMPANIES IN THE CONTEXT OF THE POLITICAL-ECONÔMICAL CRISE GERADA PELA LAVA JATO OPERAÇÃO; [O COMPORTAMENTO DO RISCO DAS AÇÕES DE EMPRESAS BRASILEIRAS NO CONTEXTO DE CRISE POLÍTICO-ECONÔMICA GERADA PELA OPERAÇÃO LAVA JATO]",
+    "authors": "de Freitas A.S.; Soares M.A.; Junior T.P.; Gaio L.E.; Ambrozini M.A.",
+    "year": "2023",
+    "doi": "10.24857/rgsa.v17n10-044",
+    "abstract": "Objective: The objective of this work was to detect and measure the occurrence of alterations in the behavior of the actions of companies listed in the Brazilian capital market in the period of the political-economic crisis that began in 2014 with the Lava Jato Operação, da Policia Federal. Theoretical reference: The main works reviewed in this research foram the studies carried out by Mazviona and Elias (2013), Dzaja and Aljinovic (2013), Rangel (2014), Maitah et al. (2015), Singh et al. (2015), Shweta and Sharma (2015), Janata (2016), Xiao (2016) and Nyangara et al. (2016). Method: The betas of the years are calculated for three years before and three years after the data of the start of the operation. We analyzed the data from the years of 42 companies and estimated the betas for both periods, by linear regression. The betas of both periods were compared and then submitted to the Chow Test for detection of structural failure. Results and conclusion: The results show an elevation of risk (increase in two beta values) for the years of 31 companies and reduction for the years of another 11 companies. There is structural bankruptcy between the betas of two periods, for the years of 20 companies, while the years of 22 companies do not evidence this phenomenon. Implications of the research: Since there have been detected signs of negative impacts of the crisis on the risk of actions, the results are not conclusive. Or that it does not guarantee, on the other hand, the existence of a risk balance in the period, once the number of years with structural failure between the two periods was significant. Originality/value: This study explores an important gap in empirical studies carried out in the context of the Lava Jato operation, in which the Federal Police investigated a money laundering and diversion scheme involving Petrobrás, large companies and several Brazilian politicians, a situation that practically paralyzed o Federal Executive, lifting the country to a state of waiting and uncertainty with great reflections on the Brazilian economy. © 2023 ANPAD - Associacao Nacional de Pos-Graduacao e Pesquisa em Administracao. All rights reserved.",
+    "source": "Revista de Gestao Social e Ambiental"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

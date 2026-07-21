@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1650-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Autoregressive-based outlier algorithm to detect money laundering activities",
+    "authors": "Kannan S.; Somasundaram K.",
+    "year": "2017",
+    "doi": "10.1108/JMLC-07-2016-0031",
+    "abstract": "Purpose: Due to the large-size, non-uniform transactions per day, the money laundering detection (MLD) is a time-consuming and difficult process. The major purpose of the proposed auto-regressive (AR) outlier-based MLD (AROMLD) is to reduce the time consumption for handling large-sized non-uniform transactions. Design/methodology/approach: The AR-based outlier design produces consistent asymptotic distributed results that enhance the demand-forecasting abilities. Besides, the inter-quartile range (IQR) formulations proposed in this paper support the detailed analysis of time-series data pairs. Findings: The prediction of high-dimensionality and the difficulties in the relationship/difference between the data pairs makes the time-series mining as a complex task. The presence of domain invariance in time-series mining initiates the regressive formulation for outlier detection. The deep analysis of time-varying process and the demand of forecasting combine the AR and the IQR formulations for an effective outlier detection. Research limitations/implications: The present research focuses on the detection of an outlier in the previous financial transaction, by using the AR model. Prediction of the possibility of an outlier in future transactions remains a major issue. Originality/value: The lack of prior segmentation of ML detection suffers from dimensionality. Besides, the absence of boundary to isolate the normal and suspicious transactions induces the limitations. The lack of deep analysis and the time consumption are overwhelmed by using the regression formulation. © 2017, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

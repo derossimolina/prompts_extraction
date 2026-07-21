@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0987-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Chairman of the Board Incarcerated for White-Collar Crime after Bankruptcy: What Does His Autobiography Tell Us about Convenience?",
+    "authors": "Gottschalk P.",
+    "year": "2021",
+    "doi": "10.1080/01639625.2019.1658846",
+    "abstract": "Some members of the upper echelon in society violate laws whenever they feel necessary. They have access to resources to commit and conceal financial crime while they deny the guilty mind. Autobiographies by convicted white-collar offenders are an interesting source of information to understand motives, opportunities, and willingness for deviant behaviors. This research applies the theory of convenience to study the autobiography of a convicted chairman of the board in Norway. While claiming corporate crime for the benefit of the business, he actually carried out occupational crime to benefit himself. As an entrepreneur, he felt entitled to do whatever he considered necessary. He suffered from narcissistic identification, where there is little difference between personal money and company money. © 2019 Taylor & Francis Group, LLC.",
+    "source": "Deviant Behavior"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

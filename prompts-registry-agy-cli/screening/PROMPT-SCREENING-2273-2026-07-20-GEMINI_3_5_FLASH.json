@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2273-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "LEGAL PROTECTION OF BANK SECRECY: BALANCING PRIVATE AND PUBLIC INTERESTS",
+    "authors": "Karnaukh, BP; Tsuvina, TA; Sakara, NY",
+    "year": "2019",
+    "doi": "10.18371/fcaptp.v2i29.171999",
+    "abstract": "Bank secrecy encompasses information that becomes known to the bank in the course of dealing with a client. In order to ensure an appropriate level of trust in client-bank relations, the client must be sure that the information about him will not be disclosed to the outsiders. Thus, ensuring the confidentiality of information about the client is one of the important prerequisites for the functioning of the banking system. In addition, the information contained in the bank documents of a person enjoys legal protection as an element of natural human right to respect for private life and the secret of personal correspondence. At the same time, the regime of secrecy can be used to conceal the illicit movement of capital associated with corruption, money laundering, tax evasion, etc. Therefore, ensuring absolute secrecy of clien's can promote the development of criminal activities. Thus, in order to outline the limits of banking secrecy protection one has to weigh private and public interests: on the one scale there is a right of the bank's client for privacy, on the other - the public interest, connected, in particular, but not exclusively, with the prevention and investigation of criminal activities. However it should be born in mind that pursuing a socially significant purpose does not justify the disclosure of bank secrecy automatically and in any case; instead, other circumstances have to be taken into consideration. First, the possibility of disclosure of bank secrecy should be provided by the law. Secondly, this law must meet the requirements of legal certainty: it must be clear, understandable, unambiguous, so that the consequences of its application could be predicted. Thirdly, the person in respect of which the issue of disclosure of banking secrecy is raised must be provided with the necessary procedural guarantees that would enable this person to prevent or eliminate the arbitrariness in applying the measure at hand.",
+    "source": "FINANCIAL AND CREDIT ACTIVITY-PROBLEMS OF THEORY AND PRACTICE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

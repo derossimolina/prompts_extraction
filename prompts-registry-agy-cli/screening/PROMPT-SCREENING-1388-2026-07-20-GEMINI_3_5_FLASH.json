@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1388-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering/trade-based money laundering risk assessment strategies – action or re-action focused?",
+    "authors": "Naheem M.A.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-01-2016-0006",
+    "abstract": "Purpose: This paper aims to discuss whether most anti-money laundering (AML) risk assessment strategies within the banking and financial services sector are reactionary focused and/or whether it should be possible to predict where increased costs and resources need to be targeted in future AML risk processes. Design/methodology/approach: The paper reviewed research findings from the researchers own study on trade-based money laundering (TBML) and also survey results from the KPMG Global Anti-Money Laundering Survey (2014), along with academic discussion papers. Findings: The paper concluded that risk assessment strategies were still largely responsive, and this left banks exposed to two factors – not recognising risk that they were not assessing for and, second, being challenged legally as new cases emerged in the court systems from victims of ML and terrorism crimes. Practical implications: The practical implications affect the resources and costs assigned to risk assessment strategies and called for a more holistic approach that was forward thinking from the bank’s perspective rather than reactionary focused and working from the regulators’s agenda. Social implications: Any improvements in detection of AML and counter-terrorism financing has broader social outcomes. Originality/value: The originality is the subject matter of AML risk assessment strategies and the input from TBML/AML experts from across the globe that contributed to the author’s research survey and interviews. These results have been analysed along with other research and the current academic discussion on this topic. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

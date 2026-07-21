@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0855-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and financial stability: does adverse publicity matter?",
+    "authors": "Basaran-Brooks B.",
+    "year": "2022",
+    "doi": "10.1108/JFRC-09-2021-0075",
+    "abstract": "Purpose: Already suffering reputational damage from the global financial crisis, banks face a further loss of trust due to their poor money laundering (ML) compliance practices. As confidence-driven institutions, the loss of reputation stemming from inadequate compliance with regulations and policies labels banks as facilitators of crime and destroys public trust both in the bank itself, peer banks and the wider banking system. Considering the links between financial stability and adverse publicity about banks, this paper aims to critically examine the implications of ML-specific bank information on financial stability. Design/methodology/approach: This paper adopts a content analysis and a theoretical discussion by critically evaluating the role of bank compliance information on stability with references to recent case studies. Findings: This paper establishes that availability of information regarding a bank involved in or facilitating ML might pose a threat to financial stability if bank counterparties cut their ties with the bank in question and when bank stakeholders show a strong and sudden negative reaction to adverse publicity. Though recent ML scandals have not caused immediate instability, general loss of confidence associated with reputational risk have had a destabilising effect on affected banks’ capital and liquidity. Originality/value: There has been surprisingly little discussion to date on the impact of publicly available bank information on financial stability and public confidence within the ML compliance framework. This paper approaches the issue of publicly available banking compliance information solely through the prism of public confidence and reputational risk and its impact on macro-stability by examining recent ML scandals. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

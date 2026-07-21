@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1340-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Improving project finance tools for the spatial development strategy of Russia (evidence from priority sectors)",
+    "authors": "Ezangina I.A.; Zakharova N.D.",
+    "year": "2020",
+    "doi": "10.26794/2587-5671-2020-24-2-22-38",
+    "abstract": "The authors study total financial, organizational and management relations in implementing and developing project finance principles in priority sectors of the Russian economy. The aim of the work is to reveal the importance of the formation and further development of the project finance market to achieve the strategic objectives of the spatial development of Russia. The study employs the scientific methods and approaches of observation, comparison, analogy, analysis, generalization, system-structural approach to assessing the development of the research subject. The authors consider the basic provisions of the spatial development strategy of Russia from the perspective of the content of priority sectors of the economy. They update the list of priority sectors and assess their needs for financial support of competitive development in this context. The authors propose modern effective project finance tools to overcome the deficit of government sources in financing priority sectors, such as syndicated loans, concession bonds, bonds of the special-purpose vehicle in project finance (SPV), securitization, and risk management. The main barriers that hamper the development of the project finance institution in Russia are insufficient legal framework, imperfect bank reserve system for potential losses on loans, loan and equivalent debt, the lack of a comprehensive proposal for project finance, and the lack of a unified database of project finance transactions. As a result, the study made it possible to specify the areas for improving project finance tools. The authors highlight the role of the regulatory framework and the importance of its conceptual review to improve the conceptual framework, the formation of individual legislative acts related to project finance, not as a special form of lending, but as a separate funding institution. They concluded that a unified database of investment objects with project finance tools is necessary. Further study of the topic is associated with developing guidelines for structuring project finance transactions, using the proposed recommendations to improve project finance mechanism by development institutions, banking institutions, pension funds and insurance companies. © Ezangina I.A., Zakharova N.D., 2020",
+    "source": "Finance: Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

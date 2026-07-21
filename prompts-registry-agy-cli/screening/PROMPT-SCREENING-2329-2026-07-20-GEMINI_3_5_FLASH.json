@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2329-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organized Crime and Firms? Financial Statements : Evidence from Criminal Investigations in Italy",
+    "authors": "Bianchi, PA; Marra, A; Masciandaro, D; Pecchiari, N",
+    "year": "2022",
+    "doi": "10.2308/TAR-2019-0079",
+    "abstract": "We investigate how connections to organized crime manifest on firms??? financial statements and analyze the impact of these connections on firm performance outcomes. Using a unique dataset that identifies Italian firms connected to organized crime, we find that connected firms have lower profitability, even though they report higher sales and lower labor cost. Connected firms also have higher bank debt, report lower cash holdings, experience quicker operating cycles and are more likely to file for bankruptcy. Further, we find that connected firms are more tax aggressive and engage in downward earnings manipulation. To corroborate our results, we exploit an amendment to the Italian Anti-Money Laundering regulation as a shock to the extent to which criminal organizations could expropriate connected firms??? resources through money laundering. Our collective evidence suggests that connections to organized crime can drain a firm???s resources, possibly through money-laundering schemes, and jeopardize its existence, thereby harming its shareholders.",
+    "source": "ACCOUNTING REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

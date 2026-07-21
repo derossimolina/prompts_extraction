@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1530-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "System supporting money laundering detection",
+    "authors": "Drezewski R.; Sepielak J.; Filipkowski W.",
+    "year": "2012",
+    "doi": "10.1016/j.diin.2012.04.003",
+    "abstract": "Criminal analysis is a complex process involving information gathered from different sources, mainly of quantitative character, such as billings or bank account transactions, but also of qualitative character such as eyewitnesses' testimonies. Due to the massive nature of this information, operational or investigation activities can be vastly improved when supported by dedicated techniques and tools. The system supporting the police analyst in the process of detecting money laundering is presented in this paper. The main parts of the system are data importer and analyzing algorithms, such as transaction mining algorithm and frequent pattern mining algorithms. The results obtained with the use of these algorithms can be visualized, so that they can be easily explored by the police analyst. The transactions found can be treated as suspected operations. The frequent patterns found are mainly used to identify the roles of suspected entities. For the transaction mining algorithm a performance study is also presented. © 2012 Elsevier Ltd. All rights reserved.",
+    "source": "Digital Investigation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

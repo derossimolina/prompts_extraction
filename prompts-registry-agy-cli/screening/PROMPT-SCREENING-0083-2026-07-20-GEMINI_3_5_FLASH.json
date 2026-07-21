@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0083-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Efficacy of country legal frameworks and international guidelines in curtailing money laundering and terrorist financing activities in grey list countries: Case studies of Kenya and Uganda",
+    "authors": "Tuhirirwe C.; Alexander R.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2025.100153",
+    "abstract": "This paper analyses the legal frameworks in Kenya and Uganda, and the Financial Action Task Force (FATF) guidelines to ascertain if they are effective in minimising money laundering activities and keeping the countries off of FATF's grey list. The study implements the Two-Pillar methodology that assesses prevention and enforcement. Through the analysis of the AML regimes, risk-based approaches, the Mutual Evaluation (ME) reports and follow up reports, this study finds that the current Money Laundering Regulations (MLRs) are less effective in both countries due to reasons such as non-compliance, legislative failures, and lack of/ poor national risk assessments. This finding is congruent with existing literature on the subject. It also finds that Uganda has an edge over Kenya regarding implementation of MLRs. More so, Kenya shows slower progress in working towards the identified deficiencies, partly due to the higher innovation diffusion, especially with virtual assets. Also, countries that remain in the FATF follow-up process for prolonged periods are deemed weak with regards to AML and terrorist financing enforcement frameworks, and this increases their chances of getting FATF grey-listed. Additionally, low levels of compliance and effectiveness of MLRs can bring about negative consequences such as derisking, greylisting, increased costs of borrowing, and reduced development assistance inflows. Therefore, less developed countries that are at risk of being added to the FATF grey list are advised to improve their MLRs to meet international standards, minimise corruption, fraud, tax crimes, and counterfeiting of goods, thereby enhancing their compliance and effectiveness. © 2025 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

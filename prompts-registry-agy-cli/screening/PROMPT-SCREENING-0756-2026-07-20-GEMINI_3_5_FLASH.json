@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0756-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Appraisal Right in terms of Section 164 of the Companies Act 71 of 2008: An Overview",
+    "authors": "Phakeng M.",
+    "year": "2022",
+    "doi": "10.17159/1727-3781/2022/v25i0a8332",
+    "abstract": "The appraisal right in terms of section 164 of the Companies Act 71 of 2008 has been applicable to fundamental transactions undertaken by companies for a number of years. The first two aims of this article are first to provide an overview of the appraisal right, and second to revisit certain concerns that were raised about the determination of fair value by the courts where a shareholder makes an application to court for a determination of fair value. It is suggested that this should not present a major problem in practice, considering that existing practice in takeover laws requires the valuation of shares by an independent expert when a company undertakes an affected transaction. In the main, the requirements for fundamental transactions overlap with those for affected transactions. The requirements for affected transactions adequately deal with the determination of fair value. The third aim is to provide an overview of how companies attempt to limit the effect of the appraisal right on fundamental transactions using various terms and conditions precedents, and the fourth is to discuss developments in case law on the appraisal right remedy. It is concluded that the decisions of the courts on its application will assist companies in structuring fundamental transactions and shareholders in exercising the appraisal right. Finally, the article suggests reasons for including certain subsections in the appraisal right remedy, for instance, the power of the courts to award costs in certain respects and a requirement that extends the time periods within which a shareholder may make a demand where the company fails to comply with specific requirements. It is suggested that this enhances the ability of shareholders to exercise the appraisal right. The article also provides concluding remarks advising companies and shareholders. In the case of companies, it concludes, for instance, that due diligence in identifying the risk that certain shareholders may raise appraisal rights is required before initiating a transaction that may be subject to appraisal rights. Failure to do so may be costly to the company. And, in the case of shareholders, failure to adhere to the required procedures may result in loss of their appraisal right remedy, or loss of the right to approach the courts for an appropriate relief under the appraisal right remedy. © 2022, North-West Unversity. All rights reserved.",
+    "source": "Potchefstroom Electronic Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

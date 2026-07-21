@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0132-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Shari‘ah committees’ perspective on Al-Siyasah al-Shar‘iyyah’s vis-à-vis Shari’ah governance conception within Malaysian Islamic financial institutions",
+    "authors": "Mahmad Robbi A.A.; Syed Azman S.M.M.",
+    "year": "2025",
+    "doi": "10.1108/QRFM-08-2024-0215",
+    "abstract": "Purpose – This study aims to investigate the extent to which the concept of Shari‘ah governance is embraced by Shari‘ah committees’ leadership within Islamic Financial Institutions (IFIs). Through the establishment of Shari‘ah Governance Framework 2019, IFIs in Malaysia consistently promote Shari‘ah-compliant business and transactions, aligning with the concept of al-Siyasah al-Shari‘yyah. Consequently, Shari‘ah scholars must carefully deliberate before issuing any fatwa or ordinance, which may have a great impact on the industry and society. However, the perspectives of Shari‘ah scholars have not been extensively highlighted. Design/methodology/approach – This study examines diverse sources through library research, encompassing books, journals, newspapers, websites and reports. In addition, the research uses an analytical method to assess the practical role of Shari‘ah governance in IFIs by collecting information through interviews with seven participants actively engaged in Shari‘ah committees within financial institutions, both directly and indirectly. Findings – The study concludes that Shari‘ah governance holds significance for Shari‘ah Committees in IFIs when providing legal opinions within areas of Islamic financial transactions. In addition, they also face considerable challenges throughout the Shari‘ah governance practical application processes. Furthermore, they also agree that the concept of Shari‘ah governance should be empowered through certain alternatives formed by IFIs in Malaysia. Research limitations/implications – The implication of this study is to highlight the personal experiences of Shari‘ah Committees in IFIs structuring a set of rules and regulations embedded by al-Siyasah al-Shar‘iyyah elements to produce maslahah for the ummah. This perspective is barely discussed in depth this far. Originality/value – This study delves into the practical experiences of Shari‘ah scholars in carrying out the responsibilities of Shari‘ah governance to ensure the compliance of IFIs with Shari‘ah principles. © 2025 Emerald Publishing Limited",
+    "source": "Qualitative Research in Financial Markets"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

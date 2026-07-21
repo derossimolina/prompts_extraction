@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0025-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency regulation in post-Soviet countries: Balancing global practices and local specifics",
+    "authors": "Silagadze A.; Gaganidze G.; Zubiashvili T.; Atanelishvili T.",
+    "year": "2025",
+    "doi": "10.52566/msu-econ1.2025.103",
+    "abstract": "This study examined cryptocurrency regulation in post-Soviet countries and identifies potential areas for improvement. It was analysed the varying regulatory approaches among these countries, ranging from restrictive policies (Ukraine and Georgia) to more liberal ones (Moldova). Armenia and Azerbaijan, while not implementing specific regulatory measures, had expressed concerns regarding cryptocurrency adoption, positioning them in an intermediate stance. It was found that the technological and political foundations of the cryptocurrency markets in five post-Soviet countries are similar, forming the most comparable group. However, they lag significantly behind the European Union and the United States. Although political freedom in these countries remained within the range of 55-72 points in 2024, the trend from 2020 to 2024 showed a decline. The disparity in information and communication technology (ICT) development among post-Soviet countries ranged from 70 to 88 points, whereas in the United States, Germany, and France, this indicator varied between 87 and 97 points. However, the overall trend for ICT development in post-Soviet countries remains positive. The study concluded that adopting regulatory practices from the United States, Germany, and France – by analysing their experiences, challenges, and mistakes – would be beneficial for Georgia and Ukraine. Specifically, Georgia should enhance its legislation and the legal status of cryptocurrencies based on the European Union and U.S. experience, while Ukraine should focus on improving tax policy, drawing from Germany’s approach. Furthermore, both countries need to strengthen measures to combat financial crimes involving cryptocurrencies, following France’s example. For Moldova, Armenia, and Azerbaijan, rather than addressing cryptocurrency-related challenges directly, an alternative approach was recommended: the development and implementation of central bank digital currencies. © The Author(s).",
+    "source": "Scientific Bulletin of Mukachevo State University. Series Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

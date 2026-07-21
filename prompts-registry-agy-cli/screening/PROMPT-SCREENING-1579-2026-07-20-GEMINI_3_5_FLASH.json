@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1579-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Protection of the national financial system from the money laundering and terrorism financing",
+    "authors": "Kordík M.; Kurilovská L.",
+    "year": "2017",
+    "doi": "10.9770/jesi.2017.5.2(7)",
+    "abstract": "The contribution deals with national risk assessment of the money laundering and he terrorism financing at the national level. The contribution shows what are decisive criteria to evaluate the national system of anti-money laundering and counter terrorism financing examining the legal frame, the institutional frame, the competency of the personnel, the infrastructure to prevent, avoid and respond such a threat. It identifies how every product, sector and all designed non-financial business and professions should be evaluated. It elaborates on the factors that may aggravate or mitigate the risks of the proposed variables. The contribution tries to draw a complexity of conducting the national risk assessment as well it hints what may be the data sources for the evaluating process. It compares the variables, its risks and description with the FATF recommendations, FATF methodology and FATF risk assessment as the main open sources but goes further and tries to adjust it to the local level and makes it “more customizing”. © 2017 by author(s) and VsI Entrepreneurship and Sustainability Center.",
+    "source": "Entrepreneurship and Sustainability Issues"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

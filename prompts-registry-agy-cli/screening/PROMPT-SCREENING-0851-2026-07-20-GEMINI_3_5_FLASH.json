@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0851-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Artificial intelligence and machine learning in finance: A bibliometric review",
+    "authors": "Ahmed S.; Alshater M.M.; Ammari A.E.; Hammami H.",
+    "year": "2022",
+    "doi": "10.1016/j.ribaf.2022.101646",
+    "abstract": "This study reviewed the artificial intelligence (AI) and machine learning (ML) literature in the finance field. Using a bibliometric approach, we collected 348 articles published in 2011–2021 from journals indexed in the Scopus database. Multiple software (RStudio, VOSviewer, and Excel) were employed to analyze the data and depict the most active scientific actors in terms of countries, institutions, sources, documents, and authors. Our review revealed an upward trajectory in the publication trend starting from 2015 and found the application of AI and ML in bankruptcy prediction, stock price prediction, portfolio management, oil price prediction, anti-money laundering, behavioral finance, big data analytics, and blockchain. Moreover, the United States, China, and the United Kingdom were the top three contributors to the literature. Our results provide practical guidance to market participants, especially, fintech and finance companies, on how AI and ML can be used in their decision-making. © 2022 Elsevier B.V.",
+    "source": "Research in International Business and Finance"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0239-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Green Financial Crime in the Perspective of Islamic Law",
+    "authors": "Fernando Z.J.; Imanuddin M.",
+    "year": "2025",
+    "doi": "10.15575/kh.v7i2.39211",
+    "abstract": "This research examines the phenomenon of green financial crime within the framework of Islamic law. As global interest in sustainable finance continues to grow, business entities are increasingly involved in green investment practices. However, this growing trend has also led to the emergence of financial crimes related to the misuse, mismanagement, or unethical allocation of funds intended for environmentally sustainable projects. Islamic law emphasizes fairness, transparency, and ethical conduct in financial transactions and provides a valuable normative foundation for addressing these challenges. This study utilizes a normative legal approach, integrating conceptual and comparative perspectives to explore the complexity of green financial crimes. The research applies a descriptive-prescriptive methodology and conducts content analysis to evaluate relevant legal texts and practices. The findings demonstrate that Islamic law upholds integrity and accountability in financial dealings, particularly in matters involving environmental responsibility and sustainable development. It stresses the importance of protecting the environment, promoting societal well-being, and ensuring economic justice through transparent and honest financial conduct. In conclusion, the principles of Islamic law present a robust and comprehensive legal and ethical framework for addressing green financial crimes. By upholding the values of environmental stewardship, justice, and financial integrity, Islamic law can play a crucial role in supporting the ethical development of green finance globally. © 2025 Zico Junius Fernando and Muhammad Imanuddin.",
+    "source": "Khazanah Hukum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1886-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money Laundering in China: A Policy Analysis",
+    "authors": "Yang S.",
+    "year": "2002",
+    "doi": "10.1177/104398602237683",
+    "abstract": "Money laundering in China calls for a strengthening of the supervising of the Chinese financial system. This article presents three main money laundering methods in China, Hong Kong Special Administrative Region (HKSAR) branches, underground banks, and profiteers and launderers. The casual factors such as deficient system, lower income, and lack of international cooperation are examined and analyzed. Furthermore, it discusses some of the major problems encountered by law enforcement authorities in cracking down money laundering. Finally, improvement on countermeasures and related financial legal system in China is also discussed. © 2002, Sage Publications. All rights reserved.",
+    "source": "Journal of Contemporary Criminal Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

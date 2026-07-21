@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0314-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE ROLE ‘HAWALA’ IN FINANCING TERRORISM AND MONEY LAUNDERING: THE NEXUS BETWEEN INFORMAL MIGRANT REMITTANCES IN EUROPE AND FUNDING OF TERRORIST ORGANISATIONS",
+    "authors": "Kholmatova N.",
+    "year": "2024",
+    "doi": "10.26619/1647-7251.15.2.02",
+    "abstract": "This essay investigates the critical role of financial resources in the execution and persistence of terrorist activities. Emphasizing that terrorism cannot endure without funding, it draws on statements from prominent political figures and highlights the necessity of finances for organizational infrastructure, recruitment, propaganda, and execution of attacks. Following the increased scrutiny post-September 11, 2001, alternative value transfer systems like Hawala have become pivotal for terrorist financing due to their anonymity and lack of regulation. The essay examines how Hawala, a traditional money transfer system, is exploited by terrorist organizations to launder money and finance operations, particularly in Europe and among Somali diasporas. It further analyzes the mechanics of Hawala and its appeal due to secrecy and cost effectiveness. By focusing on specific examples, such as the Somali Al-Shabaab terrorist organization, the research underscores how diasporas and migrant minorities facilitate these financial flows. This investigation aims to fill gaps in understanding the intersection of Hawala and terrorism financing, proposing new mechanisms for prevention and regulatory improvements. © 2024, Observare. All rights reserved.",
+    "source": "Janus.net"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

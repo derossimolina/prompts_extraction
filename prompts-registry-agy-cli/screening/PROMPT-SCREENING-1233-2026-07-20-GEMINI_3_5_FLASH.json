@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1233-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digital forensics and evolving cyber law: case of BIMSTEC countries",
+    "authors": "Jayasekara S.D.; Abeysekara I.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-02-2019-0019",
+    "abstract": "Purpose: The purpose of this paper is to discuss the role of digital forensics in an evolving environment of cyber laws giving attention to Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) countries, comprising Bangladesh, India, Myanmar, Sri Lanka, Thailand, Nepal and Bhutan, in a dynamic global context. Design/methodology/approach: This study uses a case study approach to discuss the digital forensics and cyber laws of BIMSTEC countries. The objective of the study was expected to be achieved by referring to decided cases in different jurisdictions. Cyber laws of BIMSTEC countries were studied for the purpose of this study. Findings: The analysis revealed that BIMSTEC countries are required to amend legislation to support the growth of information technology. Most of the legislation are 10-15 years old and have not been amended to resolve issues on cyber jurisdictions. Research limitations/implications: This study was limited to the members of the BIMSTEC. Originality/value: This paper is an original work done by the authors who have discussed the issues of conducting investigations with respect to digital crimes in a rapidly changing environment of information technology and deficient legal frameworks. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

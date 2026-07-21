@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1615-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering using investment companies",
+    "authors": "Naheem M.A.",
+    "year": "2015",
+    "doi": "10.1108/JMLC-10-2014-0031",
+    "abstract": "Purpose – This paper aims to start with the assumption that money laundering through the use of investments will continue to occur and will become increasingly more complex to try and avoid detection. The paper aims to explore some of the theoretical factors that would need to be considered in any risk based framework and also to consider how an empirical model can try and prioritise the information and intelligence gathered through existing beneficial ownership and customer due diligence (CDD) systems. Design/methodology/approach – This paper uses an empirical example of money laundering with investments and highlights the red flag indicators that led to its eventual discovery. The theoretical framework considers the difficulties of information overload and suggests that any empirical model of risk-based assessment would need to be able to discern between the various types of risk information gathered. The paper has developed one empirical model that could be used. Findings – The paper suggests a model that breaks down beneficial ownership and CDD information into three areas: beneficial ownership for all major players, transparency of transactions and accountability of companies involved. Practical implications – The paper has implications for the banking, regulatory and law enforcement sectors working in Anti-Money Laundering (AML). Originality/value – The paper analyses a particular type of money laundering activity which it terms “investment laundering” using an empirical case study. It then develops a new theoretical and empirical risk assessment model to illustrate how risk-based approaches need to be able to discern between the different types of information gathered and the application to overall risk. © 2015, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

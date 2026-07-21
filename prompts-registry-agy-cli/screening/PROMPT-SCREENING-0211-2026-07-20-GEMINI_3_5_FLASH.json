@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0211-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Nexus Between Cybercrime and Irregular Migration in the Age of Cyberspace: Implications for Geographic Flexibility and Mobility Management",
+    "authors": "Slimi H.; Chichti J.",
+    "year": "2026",
+    "doi": "10.1007/s40171-025-00474-8",
+    "abstract": "This study examines the intersection of organized crime, as a form of cybercrime, with irregular migration. It adopts a multidisciplinary approach that integrates innovation management, criminology, transnational analysis, and macroeconomic data for empirical investigation. Focusing on the Africa–Europe migration corridor, particularly with Tunisia as a key transit country, the study explores how organized criminal networks exploit digital technologies to facilitate and profit from illicit migratory flows. Using an abductive methodology that combines qualitative and quantitative methods, the research demonstrates how innovation, which is typically associated with progress, can be diverted for criminal purposes such as illegal recruitment, digital forgery, and the use of cryptocurrencies to finance human smuggling. Drawing on theories of innovation and knowledge management, the study analyzes how cyber-enabled cross-border crimes are structured, scaled, and sustained online. The findings are contextualized using the International Cybercrime Index 2023 and the Worldwide Smuggling Index, which reveal significant cybersecurity vulnerabilities along this migration route. A quantitative model employing linear regression (R2 = 0.94) confirms a strong relationship between irregular migration and cyber-organized crime, which is further conceptualized through a Business Model Canvas. The originality of this study lies in its ability to link cybercrime and migration within a unified framework. It identifies how criminal actors exploit anonymity tools and malicious mobile applications, often downloaded by migrants seeking safer routes, to evade border controls. These insights provide a solid foundation for enhancing cybersecurity operations, digital forensics, and policy interventions to disrupt the technological infrastructure of transnational criminal networks. © The Author(s) under exclusive licence to Global Institute of Flexible Systems Management 2025.",
+    "source": "Global Journal of Flexible Systems Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

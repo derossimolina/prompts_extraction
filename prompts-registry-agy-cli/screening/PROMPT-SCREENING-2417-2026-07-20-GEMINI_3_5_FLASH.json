@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2417-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Effect of Corporate Governance Structure on Fraud and Money Laundering",
+    "authors": "Mousavi, M; Zimon, G; Salehi, M; Stepnicka, N",
+    "year": "2022",
+    "doi": "10.3390/risks10090176",
+    "abstract": "This paper aims to assess the effect of corporate governance mechanisms, including board members' and audit committee members' characteristics, particularly their independence, expertise in terms of finance and industry and efforts on the level of fraud and money laundering (ML) in financial statements of the listed firm on the Tehran Stock Exchange. The procedure of the study is descriptive correlation based on published information from firms listed on the Tehran Stock Exchange from 2014 to 2020, using a sample of 154 firms with 1071 observations. The method used for hypothesis testing is linear regression using panel data. The Benish model is used measure the level of fraud in financial statements, and for ML, the auditors' opinion are used. The results show that board characteristics, including independence, financial expertise, industry expertise and board effort, as well as audit committee features, such as independence, financial expertise, industry expertise and audit committee effort, have a significant and negative impact on the fraudulent financial reporting and ML. Moreover, since this paper was carried out in an emerging financial market, particularly in Iran, to figure out the effect of corporate governance structures on financial statement fraud and ML, it can provide helpful information for investors and policymakers in this regard.",
+    "source": "RISKS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

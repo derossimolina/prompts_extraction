@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0228-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Compliance of corporate gatekeepers under AML regime in Malaysia: issues and challenges",
+    "authors": "Kamaruddin N.; Tahir N.S.; Othman S.; Kamaruddin S.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-09-2024-0147",
+    "abstract": "Purpose This paper aims to investigate the challenges faced by company secretaries in complying with anti-money laundering (AML) laws and their requirements in Malaysia. The focus of the study is to analyse the understanding and compliance of the company secretaries on the duties imposed on them under the AML regime in Malaysia. Design/methodology/approach A review of existing AML guidelines, policies and compliance reports was conducted, supplemented by an analysis of the specific responsibilities of company secretaries, including Know Your Customer, customer due diligence, suspicious transactions reporting and record-keeping practices. Findings The study identifies significant gaps in compliance among company secretaries despite the established AML framework and guidelines. These gaps include technical and operational challenges, and there is a need for enhanced measures to prevent the misuse of their service’s money laundering activities. Originality/value This research offers a unique perspective on the AML compliance landscape for company secretaries and service providers, underscoring the importance of their role in establishing the corporate vehicle and their roles in combating money laundering. This paper provides practical insight for improving compliance effectiveness, contributing to the broader discourse on AML enforcement within trust company and service providers (TCSPs), including the companies’ secretaries. © 2025 Emerald Publishing Limited",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

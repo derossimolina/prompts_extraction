@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2207-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crime-money, reputation and reporting",
+    "authors": "Harvey J.; Lau S.F.",
+    "year": "2009",
+    "doi": "10.1007/s10611-008-9173-x",
+    "abstract": "The emphasis of government legislation on money laundering has been based on the assumption that reporting institutions are able to spot deviant customer behaviour and that implicitly such behaviour is criminal. This paper looks at the drivers for reporting of suspicious or unusual activity, in particular, focusing on the principle of reputation. It considers the evidence over bank disclosure within annual published reports with respect to their money laundering compliance activity; particularly examining whether there was any change in disclosure and hence reputation management reporting by those banks fined by the regulator for lapses of compliance. An attempt is also made to apply the principles of legitimacy theory to evaluate the association between money laundering and reputation looking for evidence of a 'virtuous cycle of compliance'. However, the findings point to limited public awareness of money laundering and to the adoption of a deficit rather than enhancement model of reputation management. © 2008 Springer Science+Business Media B.V.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

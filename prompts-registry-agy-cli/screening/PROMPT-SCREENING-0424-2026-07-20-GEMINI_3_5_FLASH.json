@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0424-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Horizontal subsidiarity in the system of confiscated property: the role of the National Agency (ANBSC) and cooperation with the nonprofits; [La sussidiarietà orizzontale nel sistema dei beni confiscati: il ruolo dell’Agenzia nazionale (ANBSC) e la collaborazione con il terzo settore]",
+    "authors": "Leone C.",
+    "year": "2025",
+    "doi": "10.13130/2723-9195/2025-2-17",
+    "abstract": "The article delves into the relationship between the National Agency for the Administration and Destination of Properties Seized and Confiscated from Organized Crime and third sector entities by considering, in particular, the possibility of directly assigning seized real estate to associations and organizations. The notices published by the Agency recently show a preference for such an approach that does not diminish the role of public administrations. Third sector entities can ask local administrations to become “sponsors” or “partners” of the project to be submitted to ANBSC within notices directly addressed to such entities. © 2025, Universita degli Studi di Milano. All rights reserved.",
+    "source": "Ceridap"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

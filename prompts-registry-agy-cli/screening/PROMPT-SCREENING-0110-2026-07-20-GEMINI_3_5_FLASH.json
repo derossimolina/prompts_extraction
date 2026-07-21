@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0110-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Classifying Ransomware-Bitcoin Nodes using Graph Embeddings",
+    "authors": "Turner A.B.; Ikram M.; Uhlmann A.J.",
+    "year": "2025",
+    "doi": "10.17705/1pais.17104",
+    "abstract": "Background: Law enforcement agencies have been trying to find methods to systematically identify ransomware transactions within cryptocurrency payment networks (Paquet-Clouston et al., 2019). Method: This research demonstrates a data-driven methodology by applying the GraphSAGE embedding algorithm to the WannaCry ransomware-Bitcoin cash-out network for the ransomware-Bitcoin seed A. Another ransomware-Bitcoin seed B used in the NotPetya campaign is also analyzed. In addition to this, we examine a non-ransomware Bitcoin seed A used by a charity. The paper builds a machine learning system that allows analysts to define features relevant to ransomware-Bitcoin payment networks. An auxiliary feature, exposure, is defined to describe the degree of facilitation nodes have to ransomware payments. We use the exposure feature in combination with other Bitcoin payment network features, including graph algorithms such as pageRank, to determine a set of graph embeddings that can be used to predict the classification of ransomware network nodes. Results: Three distinct clusters were derived from tests performed on the WannaCry dataset of 299 Bitcoin nodes. Clustering performance is also evaluated on unseen data for the WannaCry dataset. In this instance, the model achieves 80% true positive predictions. The model is also tested against the NotPetya ransomware-Bitcoin cash-out network for the ransomware-Bitcoin seed Busing 123 nodes and achieving 87% accuracy. The model was further exposured to diverse datasets, with testing done on non-ransomware Bitcoin seed A using 7,077 nodes and achieving 94% accuracy. Moreover, examining the False Positives (FPs) and False Negatives (FNs) created greater analytical insight for investigators due to their anomalous nature. All code produced for this research can be found in in Appendix E. Conclusion: The method is extended to the use by law enforcement authorities as an aid to investigate and curb suspicious activities such as money-laundering and ransomware payments via Bitcoin. This paper uses the terms network and graph interchangeably. © 2025 by the Association for Information Systems.",
+    "source": "Pacific Asia Journal of the Association for Information Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

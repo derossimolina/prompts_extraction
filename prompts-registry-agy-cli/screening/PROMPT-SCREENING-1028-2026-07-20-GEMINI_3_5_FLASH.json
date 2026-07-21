@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1028-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Populism, 21st-century socialism and corruption in Venezuela",
+    "authors": "Maya M.L.",
+    "year": "2018",
+    "doi": "10.1177/0725513618818727",
+    "abstract": "This article seeks to explore the relationship between populism, 21st-century socialism, and the emergence of what has been referred to as an ‘estado delincuente’ (criminal state), in the case of Venezuela. That is, a state structure permeated with transnational organized crime mafias in the executive and the judiciary, in the financial system, the prosecutor’s office, the police, the armed forces, the prison system, state-owned companies, governorships, and city councils, among other state institutions. First, I review conceptual aspects of populism to understand how this served as the basis for creating the postulates of 21st-century socialism, which promoted the institutional destruction of Venezuelan democracy and created the conditions for the unbridled dissemination of state corruption. Second, emblematic cases of white-collar and blood crimes, nepotism and other corrupt activities are discussed to provide an idea of the magnitude of the issues that permeate the state apparatus. To conclude, I provide a critical summary of the consequences of this way of doing politics in contemporary Venezuela. © The Author(s) 2018.",
+    "source": "Thesis Eleven"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

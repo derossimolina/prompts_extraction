@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1366-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FIFA – highlighting the links between global banking and international money laundering",
+    "authors": "Naheem M.A.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-08-2015-0037",
+    "abstract": "Purpose: This paper uses the recent (August 2015) FIFA arrests to provide an example of how illicit financial flows are occurring through the formal banking and financial services sector. The purpose of this paper is to explore which elements of anti-money laundering (AML) compliance need to be addressed to strengthen the banking response and reduce the impact of IFFs within the banking sector. Design/methodology/approach: The paper is based on the indictment document currently prepared for the FIFA arrests and the District Court case of Chuck Blazer the FIFA Whistleblower. It uses the banking examples identified in the indictment as typologies of money laundering and wire fraud. Corresponding industry reports on AML compliance are included to determine where the major weaknesses and gaps are across the financial service. Findings: The main findings from the analysis are that banks still have weak areas within AML compliance. Even recognised red flag areas such as off shore havens, large wire transfers and front companies are still being used. The largest gaps still appear to be due diligence and beneficial ownership information. Research limitations/implications: The research topic is very new and emerging topic; therefore, analysis papers and other academic writing on this topic are limited. Practical implications: The research paper has identified a number of implications for the banking sector, addressing AML deficiencies, especially the need to consider the source of funds and the need for further enhanced due diligence systems for politically exposed and influential people and the importance of beneficial ownership information. Social implications: This paper has implications for the international development and the global banking sector. It will also influence approaches to AML regulation, risk assessment and audit within the broader financial services sector. Originality/value: The originality of this paper is the link between the emerging issues associated with allegations of bribery and corruption within FIFA and the illicit financial flow implications across the banking sector. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

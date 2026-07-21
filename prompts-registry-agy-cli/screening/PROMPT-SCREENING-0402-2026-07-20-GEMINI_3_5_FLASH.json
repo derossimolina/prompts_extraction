@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0402-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Classifying Swiss geothermal policies with the Group Robust FlowSort method incorporating imprecise inputs and robustness concerns",
+    "authors": "Huang R.; Kadziński M.; Siskos E.; Burgherr P.",
+    "year": "2025",
+    "doi": "10.1016/j.eneco.2025.108986",
+    "abstract": "Crafting effective energy policies is an inherently complex task that requires careful planning. At the country level, this interdisciplinary and intricate endeavor mainly influences national energy strategy and security, democracy, the economy, and the well-being of citizens. To address this challenging task, we employ Multiple Criteria Decision Aiding (MCDA) to assess a series of alternative energy policies and classify them into predefined, preference-ordered classes. Traditional MCDA methods, like FlowSort, typically rely on precise preferences from a single Decision Maker (DM), which prohibits their application in decision problems of such dynamism and divergent interests. To address these shortcomings, we propose Group Robust FlowSort (GRF), a novel method that is able to accommodate uncertainty in weight parameters and integrates input from multiple experts/stakeholders, ensuring robust classification results that accurately reflect collective preferences. GRF also provides group-compromise recommendations via interpretable indicators, promoting consensus even when stakeholder input is imprecise. Applied to Swiss geothermal policy, the framework integrates the viewpoints of three energy–policy experts and evaluates the options from a socio-political perspective. By structuring preference elicitation and compromise seeking, GRF helped experts articulate their priorities and resolve disagreements, leading to a shared classification in which participatory instruments such as enhanced community engagement schemes are unanimously and robustly assigned to the outstanding class, whereas market-oriented incentives, such as Green Bank, are typically judged noteworthy. © 2025 The Authors",
+    "source": "Energy Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

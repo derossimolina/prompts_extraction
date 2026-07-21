@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2538-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How Banks Price Loans to Public-Private Partnerships: Evidence from the European Markets",
+    "authors": "Blanc-Brude, F; Strange, R",
+    "year": "2007",
+    "doi": "10.1111/j.1745-6622.2007.00163.x",
+    "abstract": "This article presents the findings of a recent analysis of the drivers of credit spreads in project finance loans to public-private partnerships, or PPPs, an increasingly popular form of procurement worldwide. PPPs are project finance transactions in which project output is a function of government policy in fields such as health, transport, and education. Because of the controversy that now surrounds the use of private finance in PPPs, understanding the determinants of the cost of debt in such highly leveraged projects is of interest to policy makers as well as originators and participants in the transactions. Using a large sample of credit spreads on debt extended to PPP projects in Europe over the past 15 years, the authors' study reports that market risk is the only significant driver of PPP debt credit spreads in a large portfolio of PPP debt; at the same time, technical risks appear to be diversified away by the structuring of the projects. Most important, and contrary to standard debt pricing models, factors like loan size, maturity, and leverage do not show up as significant determinants of the cost of debt in PPPs, reflecting a high degree of confidence by lenders that loans will be repaid or recovered. These results support the view that the use of project finance in PPPs is premised on effective risk management as well as confidence in the private sector's ability to manage public projects.",
+    "source": "JOURNAL OF APPLIED CORPORATE FINANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

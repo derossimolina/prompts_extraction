@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0965-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Connection, Hungers, and Time Structuring: A Relational, Inclusive, and Transpersonal Development of Autonomy",
+    "authors": "Cook R.",
+    "year": "2022",
+    "doi": "10.1080/03621537.2022.2115641",
+    "abstract": "The author offers a critique of Berne’s concept of autonomy and its egocentric, Western-centric, and potentially oppressive ideals. She advocates for homonomy as an addition to autonomy but prefers the terminology of “connection” for its wider meanings, its link to our human hungers, and its simple and accessible language. She suggests transactional analysts from all fields pay attention to our interdependence and aim for greater connection with self, other, the environment, and the transpersonal, for which autonomy does not fully account. Examining the concept of connection from a relational approach and linking it with contemporary interpersonal neurobiology, the author highlights the importance of connection in relationship and with the environment for the development of the brain and a cohesive self. Using psychotherapy client vignettes, she illustrates how a relational approach to all modes of time structuring can be a pathway into deeper connection and transformation for the client, the practitioner, and the wider world. © 2022 International Transactional Analysis Association.",
+    "source": "Transactional Analysis Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

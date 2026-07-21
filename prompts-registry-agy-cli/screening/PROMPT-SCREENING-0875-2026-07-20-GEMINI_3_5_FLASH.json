@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0875-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Convergence or divergence: How does China analyse innovation concerns in merger review?",
+    "authors": "Brandenburger R.; Huang K.; Wang E.X.-R.",
+    "year": "2022",
+    "doi": "10.1093/jaenfo/jnab012",
+    "abstract": "There have been few systematic studies of how the Chinese merger review agencies have analysed innovation-related issues, including the theories of harm, the frequency of challenges and the types of remedies. Since China's Anti-Monopoly Law (AML) took effect in August 2008, China's merger review agencies have imposed remedies in 48 transactions and blocked two transactions. The authors have found that innovation concerns were addressed in 17 transactions where there were remedies. The innovation concerns generally focused on two broad theories of harm: (i) the transaction would reduce the combined firm's incentive to innovate by eliminating an existing or potential competitor, or (ii) the transaction would create incentives for the combined firm to hinder innovation by rivals (eg via a refusal to license the relevant technology to rivals). The Chinese merger review agencies have raised innovation concerns in transactions that were unconditionally approved by the EU or US agencies, and have sometimes unconditionally approved transactions where the EU or US agencies identified innovation as a concern. In addition, the Chinese agencies have utilized both structural and behavioural remedies to resolve innovation concerns, whereas the EU and US agencies have preferred structural remedies. © 2021 The Author(s) 2021. Published by Oxford University Press. All rights reserved.",
+    "source": "Journal of Antitrust Enforcement"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

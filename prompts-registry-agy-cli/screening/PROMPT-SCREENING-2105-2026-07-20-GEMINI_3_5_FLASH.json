@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2105-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "PEPs – let's get serious",
+    "authors": "Geary J.",
+    "year": "2010",
+    "doi": "10.1108/13685201011034041",
+    "abstract": "PurposeThe purpose of this paper is twofold. First, to draw attention to some options for better management of politically exposed persons &lpar;PEPs&rpar;. Second, to draw attention to the problems experienced by low&hyphen;capacity entities in implementing a risk&hyphen;based approach to anti&hyphen;money laundering &lpar;AML&rpar; counter financing of terrorism &lpar;CTF&rpar;. Design&sol;methodology&sol;approachThe paper draws on the experience of the author in working with low&hyphen;capacity reporting entities in Australia and the Pacific to assist them in the implementation of AML&sol;CTF risk&hyphen;based programs. FindingsThere are four initiatives worthy of consideration by Financial Action Task Force &lpar;FATF&rpar; in their current revision work that would improve management of PEPs and other AML&sol;CTF risks&colon; extension of the FATF requirement 33 to bring government agencies that incorporate companies within recommendations 5&hyphen;16, in effect expanding the concept of &ldquo;customer&rdquo;&semi; extension of the FATF requirement 34 to bring government agencies that register trusts within recommendations 5&hyphen;16, also in effect expanding the concept of &ldquo;customer&rdquo;&semi; extension of Special Recommendation VIII to require reporting of all inbound and outbound electronic financial transactions above set thresholds&semi; and introducing a two&hyphen;tier AML&sol;CTF regime to assist low&hyphen;capacity entities. Research limitations&sol;implicationsThis paper is based on observations derived from working alongside low&hyphen;capacity entities in Australia and the Pacific. Practical implicationsThis includes expansion of the FATF recommendations to new sectors and adoption of a two&hyphen;tier AML&sol;CTF system instead of the single risk&hyphen;based system. Originality&sol;valueFATF and policymakers should consider the significant value that can be obtained by extension of the FATF recommendations as suggested in closing systemic weaknesses, reducing the overall cost of AML&sol;CTF regimes and improving their efficacy. The paper draws on the current experience of new regulated entities not previously exposed to AML&sol;CTF requirements. Regulators implementing risk&hyphen;based regimes should consider the issues experienced by low&hyphen;capacity entities when measuring the likely success of risk&hyphen;based regimes. See similar recommendations made regarding companies and trusts by Transparency International in their March 2009 paper &ldquo;Undue diligence.&rdquo;. © 2010, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

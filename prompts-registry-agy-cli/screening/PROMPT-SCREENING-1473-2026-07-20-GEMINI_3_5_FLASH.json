@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1473-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing the significance of soil erosion for arable weed seedbank diversity in agro-ecosystems",
+    "authors": "Lewis T.D.; Rowan J.S.; Hawes C.; McKenzie B.M.",
+    "year": "2013",
+    "doi": "10.1177/0309133313491131",
+    "abstract": "Accelerated soil erosion threatens sustainable food production by degrading the physical and biogeochemical functioning of arable field soils and lowering crop yields. Much less recognized is the potential for soil erosion to impinge on wider ecosystem services including the weed seedbank that underpins much of the biodiversity in temperate agro-ecosystems of northern Europe. This paper assesses the likely impact of soil erosion on the composition and abundance of the arable weed seedbank, and presents an overview of erosion mechanisms affecting arable land coupled with an outline of the main factors influencing arable weed seedbank abundance and composition. The information presented on both these sets of processes enables assessment of the likely impact of soil erosion on arable seedbank biodiversity at the field and landscape scales. Combining mean annual net erosion rates of c. 7 t ha-1 yr-1 and seedbank densities c. 2000 seeds m-2, both figures broadly representative of UK conditions, produces an average annual loss of the field seed inventory of c. 0.5% yr-1. Where seedbank abundance is otherwise relatively stable (i.e. losses through death, germination and weed control are largely balanced by gain through seed rain), average soil loss rates could export c. 10% of the arable weed seedbank in 20 years. Net erosion data conceal within-field sediment deposition within swales, foot slopes, buffer strips and hedgerows which provides a further dimension of spatial restructuring of weed assemblages. Seed size and shape also influence hydrodynamic behaviour through selective entrainment and preferential deposition. It is concluded that earth surface processes play an under-recognized role in structuring field-scale weed-based biodiversity in agro-ecosystems over decadal timescales. © The Author(s) 2013.",
+    "source": "Progress in Physical Geography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

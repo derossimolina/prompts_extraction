@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2073-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financing leisure in the 1990s",
+    "authors": "Terry B.",
+    "year": "1989",
+    "doi": "10.1016/0261-5177(89)90084-8",
+    "abstract": "The Leisure Group at the Security Pacific National Bank specializes in providing financial advisory services and project funding across a wide range of leisure businesses. Clients include entrepreneurs, developers, contractors, multinational corporations and governments requiring advice on financial planning, capital structure and funding. The Leisure Group is often involved with all aspects of a leisure project, eg preparation of development plans and business strategy, and selection of contractors, operators, sponsors, equity investors and hotel management groups. The unique nature of most leisure projects emphasizes the need for creative structuring and imaginative use of traditional sources of finance. © 1989.",
+    "source": "Tourism Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1080-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "STREAMING PROPERTY",
+    "authors": "Fennell L.A.",
+    "year": "2022",
+    "doi": "10.2139/ssrn.4153002",
+    "abstract": "—People acquire property rights in objects and real estate in order to capture the stream of services that these assets can provide over time. The thing or parcel itself is merely a delivery mechanism, a way of packaging and protecting rights to that value stream. And, significantly, these assets cannot stream services to anyone without a set of facilitating conditions and complementary goods, such as public infrastructure, that do not lie within the asset owner’s individual control. This Essay argues that we can gain fresh traction on inequality by recasting property as service streams rather than as owned things. Doing so emphasizes the costs of structuring property entitlements in ways that monopolize or squander streams of services. It also reveals new opportunities to repackage valuable service streams into asset-like formats to create durable and flexible claims on resources. Finally, a focus on services directs fresh attention to what people actually want and need from resources over time—a dynamic inquiry whose answer encompasses the spatial and ecological services that are now of overwhelming importance. © 2022 by Lee Anne Fennell.",
+    "source": "Northwestern University Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

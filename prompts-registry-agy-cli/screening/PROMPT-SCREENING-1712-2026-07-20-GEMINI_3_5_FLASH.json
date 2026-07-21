@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1712-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Managing specific accruals vs. structuring transactions: Evidence from banking industry",
+    "authors": "Cheng X.",
+    "year": "2012",
+    "doi": "10.1016/j.adiac.2012.02.001",
+    "abstract": "This study investigates earnings management through managing specific accruals vs. structuring transactions in the banking industry. This paper explores the circumstances under which banks manipulate loan loss provisions vs. circumstances that lead banks to structure loan sales and securitizations for the purpose of achieving earnings benchmarks. Empirical results show that banks manage earnings through loan loss provisions, before resorting to structuring transactions, to avoid small earnings decreases and or just meet or beat analysts' forecasts. The findings imply that structuring loan sales and securitizations is more likely to be used as a secondary instrument. In addition, I find that the earnings of banks with lower discretionary loan loss provisions and higher discretionary gains from loan sales and securitizations are priced more negatively, suggesting that investors impose incremental penalties on the joint use of loan loss provisions and gains from loan sales and securitization to meet or beat earnings benchmarks. © 2012 Elsevier Ltd.",
+    "source": "Advances in Accounting"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

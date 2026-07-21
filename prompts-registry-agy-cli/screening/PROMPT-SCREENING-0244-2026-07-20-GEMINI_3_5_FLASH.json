@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0244-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Prevention and control of money laundering crimes on know your customer principles application: empirical study of Indonesia banking sector",
+    "authors": "Meiryani",
+    "year": "2024",
+    "doi": "10.1108/JMLC-01-2023-0008",
+    "abstract": "Purpose: The purpose of this paper is to find out the role and factors that lead to efforts by banking institutions to deal with money laundering by using the principle of knowing your customer. Design/methodology/approach: This research method uses a sociological juridical approach and descriptive analysis in analyzing the data. Findings: The results of the study found that the implementation of the principle plays a role in identifying each transaction, and if there is a transaction that is considered suspicious, each bank is required to report the transaction to the center for reporting and analysis of financial transactions. Practical implications: Banks must reduce the risk of being used as a means of money laundering by knowing customer identities, monitoring transactions, maintaining customer profiles and reporting suspicious transactions made by parties using bank services. The application of the know your customer principle (KYCP) is based on the consideration that KYCP is not only important in the context of eradicating money laundering but also in the context of implementing prudential banking to protect banks from various risks in dealing with customers. Originality/value: To the best of the author’s knowledge, this is first empirical study of banking in Indonesia that conduct money laundering crimes through application of KYCPs. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

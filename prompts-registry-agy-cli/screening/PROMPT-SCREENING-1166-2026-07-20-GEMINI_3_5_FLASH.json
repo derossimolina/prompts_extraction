@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1166-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Implementation of the personal data minimization principle in financial institutions: Lithuania’s case",
+    "authors": "Laurinaitis M.; Štitilis D.; Verenius E.",
+    "year": "2021",
+    "doi": "10.1108/JMLC-11-2020-0128",
+    "abstract": "Purpose: The purpose of this paper is to assess such processing of personal data for identification purposes from the point of view of the principle of data minimisation, as set out in the EU’s General Data Protection Regulation (GDPR) and examine whether the processing of personal data for these purposes can be considered proportionate, i.e. whether it is performed for the purposes defined and only as much as is necessary. Design/methodology/approach: In this paper, the authors discuss and present the relevant legal regulation and examine the goals and implementation of such regulation in Lithuania. This paper also examines the conditions for the lawful processing of personal data and their application for the above-mentioned purposes. Findings: This paper addresses the problem that, on the one hand, financial institutions must comply with the objectives of collecting as much personal data as possible under the AML Directive (this practice is supported by the supervisory authority, the Bank of Lithuania), and, on the other hand, they must comply with the principle of data minimisation established by the GDPR. Originality/value: Financial institutions process large amounts of personal data. These data are processed for different purposes. One of the purposes of processing personal data is (or may be) related to the prevention of money laundering and terrorist financing. In implementing the Know Your Customer principle and the relevant legal framework derived from the EU AML Directive, financial institutions collect various data, including projected account turnovers, account holders' relatives involved in politics, etc. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

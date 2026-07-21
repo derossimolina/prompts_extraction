@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2238-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring a u.s. offshore hard mineral development policy: Reflections on a seabed tenure system",
+    "authors": "Fischer D.W.",
+    "year": "1988",
+    "doi": "10.1080/00908328809545847",
+    "abstract": "U.S. jurisdiction more than doubled in 1983 when President Reagan proclaimed sovereign rights over an area extending 200 nautical miles from the U.S. coastline. A major question facing the nation is the definition of the land tenure system for the seabed in this area before any mineral recovery takes place. This paper summarizes the four basic regimes defining mineral tenure today and reflects on selected considerations for use in defining the seabed tenure system. © 1988 Taylor & Francis Group, LLC.",
+    "source": "Ocean Development and International Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

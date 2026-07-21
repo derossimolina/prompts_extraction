@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0638-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Immigrants and innovators: financial inclusion and the ‘de-banking’ of the digital asset industry",
+    "authors": "Dahdal A.",
+    "year": "2024",
+    "doi": "10.1080/17579961.2024.2392939",
+    "abstract": "‘De-banking’ refers to banks limiting or withdrawing banking services from perceived ‘high-risk’ clients. ‘High risk’ is not merely commercial risk relating to a client’s ability to pay. It also includes ‘non-commercial’ risks such as client dealings in illicit funds or activities. Debanking decisions might also be made on operational-cost grounds where continued servicing of a particular customer base becomes uneconomical. In Australia, the de-banking issue has impacted migrant communities. More recently, de-banking has impeded the ability of digital assets service providers. Under the guise of rigorous compliance legal standards, Australian banks have limited or even cut-off banking services to many Australian digital asset firms. As the financial gatekeepers to the Australian economy, Australian banks (already very protected from competitors) are undermining an industry that could potentially compete for market share. Examining strategies adopted in other jurisdictions, Australian policy makers should supplement the introduction of a licensing regime, as proposed by the Digital Assets (Market Regulation) Bill 2023 (Cth), with additional balanced measures in order to support innovation in the digital asset sector and maintain financial integrity. © 2024 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Law, Innovation and Technology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

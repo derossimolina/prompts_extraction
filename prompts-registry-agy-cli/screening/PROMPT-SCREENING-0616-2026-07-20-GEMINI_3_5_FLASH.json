@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0616-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Modulating corruption and money laundering through the Bretton Woods Institutions: the case of less developed countries (LDCs)",
+    "authors": "Ekwueme E.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-03-2021-0026",
+    "abstract": "Purpose: The purpose of this paper is to readily bring to the fore, the vital dimension that the Bretton Woods Institutions, exemplified by both the International Monetary Fund (IMF) and the World Bank, has brought into the global economic template to dampen the momentum of corruption and money laundering through the impact of their activities in less developed countries (LDCs). The original mandate of the two institutions was to address the balance of payments and developmental issues of countries as a result of the devastating effects of the Second World War. However, this could not be achieved in an atmosphere engulfed with corruption and money laundering. As a result, it became necessary for them to intervene albeit through direct or indirect mechanisms demonstrated by the use of soft law bodies such as Basel Committee on Banking Supervisors (BCBS) and Financial Action Task Force (FATF). Design/methodology/approach: This paper relies on primary legal documentations such as BCBS, FATF, articles of both IMF and World Bank to mention but a few in the analysis. The paper is doctrinal. Findings: There is undoubtedly glaring indications that through the efforts of both IMF and the Bank, tremendous inroad has been made in LDCs in modulating the tempo of the malaise. Research limitations/implications: This paper is addressed to the authorities that are concerned about the scourge of the malaise and the impact to pay more attention to the mechanisms of soft laws used by the Bretton Woods Institutions to get their anti-corruption message through in LDCs. Originality/value: This lies on the fact that the efforts of both IMF and the Bank have awakened the importance that should be attached to some soft laws in curtailing the issues. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

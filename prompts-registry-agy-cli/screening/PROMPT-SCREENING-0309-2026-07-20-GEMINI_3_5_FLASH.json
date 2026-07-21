@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0309-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Stakeholder mapping and early detection of tensions in offshore wind development: A press analysis in the Gulf of Roses and Cap de Creus (NW Mediterranean)",
+    "authors": "Garcia L.; Vila-Subirós J.; Lloret J.; Sardá R.; Wawrzynkowski P.",
+    "year": "2026",
+    "doi": "10.1016/j.marpol.2025.106978",
+    "abstract": "This article presents a methodological framework for analysing the social dimensions of offshore wind energy based on newspaper content analysis to identify stakeholders, examine their positions, and anticipate potential areas of conflict and consensus in the early stages of planning. The case study focuses on the Gulf of Roses and Cap de Creus in the north-western Mediterranean (Spain). It combines a systematic review of 319 press articles (1777 stakeholder mentions) with validation through a participatory workshop involving 68 local actors. Together, these complementary analyses provide a mixed-method approach linking media representations with local perceptions, allowing a more grounded understanding of stakeholder visibility, perceived power relations, and potential areas of agreement or tension. This framework also enables the construction of an interest-power matrix and the exploration of discursive dynamics across time and media scales. The results show that newspapers not only report but also shape debate, giving early visibility to particular actors. Regional outlets played a central role in structuring the public conversation, whereas the fisheries sector, prominent in other European contexts, was largely absent from coverage. A Procrustes comparison between press-based positions and workshop outcomes showed strong correspondence (r = 0.845, p = 0.003), indicating that media analysis can serve as a reliable proxy for stakeholder mapping in early planning phases. The findings demonstrate that press analysis provides a methodologically grounded approach to support more inclusive and context-sensitive marine spatial planning and offshore wind governance, while informing early participatory processes. © 2025 The Authors.",
+    "source": "Marine Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

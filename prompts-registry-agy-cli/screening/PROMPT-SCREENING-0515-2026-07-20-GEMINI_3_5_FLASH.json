@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0515-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Scientific evidence on women’s participation in the brazilian oil and gas (O&g) sector: Recommended policies, practices and actions; [Evidências científicas sobre a participação de mulheres no setor brasileiro de óleo e gás (O&G): Políticas, práticas e ações recomendadas]",
+    "authors": "Grubba L.S.",
+    "year": "2024",
+    "doi": "10.18800/iusetveritas.202401.012",
+    "abstract": "The objective is to understand Brazilian women participation in oil and gas (O&G) jobs and the existence of gender biases. What Brazilian scientific literature, legislation and organizations presents as understandings regarding women participation in O&G jobs? We performed a systematic review (Cochrane Collaboration) in the SciELO and Capes periodical databases. We evaluated the selected studies references, checking their inclusion relevance, and searched for Brazilian O&G organizations, agencies, institutes or associations to verify the journalistic articles or studies on the topic. Finally, we analyzed Brazilian legislation and its provisions, policies and actions. We used data analysis technique. There is a gap in research sources on the topic. We concluded that women participation in O&G is low because of the lack of mobility in the career, gender pay gap, discrimination and harassment, and the offshore isolation regime. The study contributes to the field, offering solutions based on the bottlenecks. Some suggestions are: Predictability of scheduling, structuring flexible schedules and making career plans more flexible, objective criteria for promotion and independent reporting channels. The inclusion of diversity involves the participation of women in the sector in a broad sense (recruitment and retention). © 2024, Pontificia Universidad Catolica del Peru. All rights reserved.",
+    "source": "Ius et Veritas"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

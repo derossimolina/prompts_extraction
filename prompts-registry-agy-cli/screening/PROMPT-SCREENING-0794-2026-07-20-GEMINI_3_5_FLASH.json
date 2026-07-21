@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0794-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Closed for mafia: Evidence from the removal of mafia firms on commercial property values",
+    "authors": "Calamunci F.M.; Ferrante L.; Scebba R.",
+    "year": "2022",
+    "doi": "10.1111/jors.12612",
+    "abstract": "Using a sample of almost 7000 Italian municipalities from 2002 to 2019, we investigate how the removal of mafia-infiltrated firms affects commercial sale and rental prices. We conjecture that targeting mafia businesses leads to a reduction in local disamenities and an increase in the demand for commercial properties. Applying the latest methodologies based on difference-in-differences approaches, we show that antimafia policies aimed at confiscating and reassigning mafia firms have positive spillover effects on commercial real estate prices, driving values upward by about 4%. This is especially true for small–medium municipalities in mafia-ridden provinces. The evidence we provide supports the enforcement of antimafia policies with an economic content, as they pose a threat to criminal financial interests and curb the mafia influence in the market. © 2022 The Authors. Journal of Regional Science published by Wiley Periodicals LLC.",
+    "source": "Journal of Regional Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

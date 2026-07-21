@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0112-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blockchain in trade finance: reducing fraud and improving efficiency through digital ledger technology",
+    "authors": "Mazumder P.T.",
+    "year": "2025",
+    "doi": "10.1007/s42521-025-00157-0",
+    "abstract": "Blockchain technology holds significant potential for the trade finance sector by streamlining operations and mitigating fraud through decentralized, automated, and tamper-resistant systems. It can reduce processing times and operational costs while enhancing transparency and reliability of transactions. Key features, such as smart contracts, immutable ledgers, and encrypted records, help address vulnerabilities including double financing, document forgery, and trade-based money laundering. This study consolidates findings from diverse real-world implementations and supports them with simulation-based analysis, providing quantitative evidence of efficiency and cost improvements. A simulation comparing 200 traditional and blockchain-based transactions shows a reduction in processing time from 8.4 to 0.2 days and a cost drop from $1209 to $82 per transaction. While these results highlight blockchain’s promise as a practical tool for modernizing trade finance, challenges remain in terms of scalability, data integrity (“garbage-in, garbage-out”), and regulatory harmonization. These limitations underscore the importance of contextual implementation and cross-border policy frameworks, such as Singapore’s Project Ubin and the EU’s digital trade initiatives in shaping blockchain’s future impact. © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2025.",
+    "source": "Digital Finance"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo))",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

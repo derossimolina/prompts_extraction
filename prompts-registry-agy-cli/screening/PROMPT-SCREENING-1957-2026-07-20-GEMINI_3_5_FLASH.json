@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1957-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Quality of Vocational Literacy: How Finnish vocational school students learn from text",
+    "authors": "Linnakylä P.",
+    "year": "1991",
+    "doi": "10.1080/0031383910350402",
+    "abstract": "The article concentrates on the essential prerequisite for future continuing education—the skill of independent learning from text in the light of an evaluation study carried out in Finnish vocational schools. The research task was to elucidate how learning from text can be explained, what kinds of results students achieved and above all what kinds of learning strategies they applied. Furthermore, students' learning orientation was studied. The results of the empirical study indicated that learning from text is a transactional process of many factors related to cognition and motivation. Seventy-five percent of the qualitative level of the learning outcomes could be explained. The qualitative level of the results proved on average fairly low even though individual differences were notable. Information processing in the learning process was mostly superficial. Such processing was generally related to atomistic structuring of knowledge, limited and text-bound use of knowledge as well as haste. With the help of cluster analysis of the learning process variables students were placed in five groups relating to their learning orientation. The groups differed from each other in relation to the aims of activities, learning process and results. © 1991, Taylor & Francis Group, LLC. All rights reserved.",
+    "source": "Scandinavian Journal of Educational Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

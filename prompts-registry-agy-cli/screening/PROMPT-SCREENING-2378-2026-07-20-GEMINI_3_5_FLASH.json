@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2378-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Disadvantages and Barriers",
+    "authors": "Mullan, PC",
+    "year": "2014",
+    "doi": "10.1057/9781137382559.0019",
+    "abstract": "Bitcoins can be lost, misplaced, or stolen. Once the digital file is gone the value of the Bitcoins cannot be recovered. Bitcoin purchases are final and irreversible which is often negative for consumers. The network contains no anti-money laundering software and does not permit monitoring of customer accounts in order to identify suspicious cash flows and patterns which may indicate criminal activity. A large barrier to entry in the American consumer marketplace is trust. For Bitcoin to succeed on a large commercial scale in the United States the transaction and settlement experience for American Bitcoin merchants needs to be much more streamlined and certain.",
+    "source": "DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US FINANCIAL REGULATIONS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

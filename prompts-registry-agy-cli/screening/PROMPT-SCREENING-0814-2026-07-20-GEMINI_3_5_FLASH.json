@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0814-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enhancing corporate accountability through covert situational integrity testing (CSIT)",
+    "authors": "Lord N.; Levi M.",
+    "year": "2024",
+    "doi": "10.1080/10383441.2024.2439366",
+    "abstract": "This article explores the potential of ‘covert situational integrity testing’ as a mechanism for assessing corporate/organisational compliance with legal rules and standards, the goal being to enhance corporate/organisational accountability. There are major challenges to holding corporations/organisations to account for non-compliance: low detection levels, incomplete understanding of the inner workings of organisations, and the modest power of current social scientific research methodologies. This article argues there is scope for methodological innovation through the use of covert situational integrity testing, a variation of mystery shopping methodologies, to address some of these gaps, with a focus not on service quality or customer satisfaction but on compliance with regulatory and legal requirements, and as a data gathering tool on secretive and difficult to access areas of business operation. We focus on two examples: AML compliance by challenger banks, and the promotion of aggressive tax avoidance schemes. Our core argument is that covert situational integrity testing provides a research mechanism through which robust and systematic observational data can be collected and scrutinised by independent, third-party assessors to understand levels of organisational/corporate compliance with legal rules and standards, and by doing so, identify critical vulnerabilities and strengths in the compliance responses of organisations and industries. © 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Griffith Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

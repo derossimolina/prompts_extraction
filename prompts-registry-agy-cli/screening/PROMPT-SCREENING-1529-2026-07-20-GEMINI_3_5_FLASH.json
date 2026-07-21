@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1529-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "“The miracles of bookkeeping”: How budget politics link fiscal policies and financial markets",
+    "authors": "Quinn S.",
+    "year": "2017",
+    "doi": "10.1086/692461",
+    "abstract": "Sociologists have frequently noted the relationship between fiscal institutions and the development of national financial markets, but the centrality of national budgets for structuring that relationship has received scant attention. This article uses a historical case study from the United States to address that gap. A 1960s political battle between the federal government and the Johnson administration over asset sales and the budget culminated in a reorganization of U.S. housing finance policy: Fannie Mae was “spun off” and authorized to issue mortgage-backed securities. This case study situates the early days of the modern U.S. securitization market within a broader political effort to use financial engineering and liberalization to avoid the redistribution of wealth, revealing how the effort to mobilize capital and influence outside of budgetary constraints can organize government engagements with finance. Implications are drawn for fiscal sociology, the sociology of finance, and the interaction between fiscal and financial systems over time. © 2017 by The University of Chicago. All rights reserved.",
+    "source": "American Journal of Sociology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

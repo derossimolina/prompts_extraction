@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0339-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Geopolitical risk exposure and credit terms: Evidence from Global supply chains",
+    "authors": "Tang N.; Huang Y.-S.",
+    "year": "2025",
+    "doi": "10.1016/j.econlet.2025.112478",
+    "abstract": "This study investigates how geopolitical risks embedded in global supply chains affect corporate credit terms. Using a Difference-in-Differences design, we show that firms with customers or suppliers in high-risk regions face significantly higher loan spreads. Despite elevated risk, these firms are granted larger loan amounts after lender due diligence, with longer maturities observed particularly when suppliers are concentrated in geopolitically sensitive areas. The results highlight that lenders distinguish between upstream and downstream exposure when pricing and structuring credit, offering new insights into how geopolitical uncertainty transmits through supply chain networks to influence international lending behavior. © 2025 Elsevier B.V.",
+    "source": "Economics Letters"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

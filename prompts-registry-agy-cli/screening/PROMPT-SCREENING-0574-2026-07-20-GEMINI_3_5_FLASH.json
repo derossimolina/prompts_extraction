@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0574-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Armed Forces of Peru and the new security scenarios and challenges; [Las fuerzas armadas del Perú y los nuevos escenarios y retos de la seguridad]",
+    "authors": "Fonseca-Ortiz T.L.; Bahamón-Jara M.L.; Moreno-Peláez J.E.",
+    "year": "2023",
+    "doi": "10.15332/19090528.8763",
+    "abstract": "The purpose of this research article is to identify new security and defense scenarios for the Armed Forces in Peru, based on the characterization of the threats and endogenous or exogenous challenges they are currently facing. The methodology used is based on the analysis of the quantitative report of disaggregated data elaborated by the World Justice Project (WJP), and its correlation with World Bank data, from factors interrelated with the resources of the defense sector. Among the results, it was recorded that Peru's order and security indicators are in a lower adherence to the Rule of Law and the relationship of the resources of the defense sector favors the basic structuring of the Armed Forces to preserve the multidimensional security in the country in the face of threats from new scenarios. © 2023, Universidad Santo Tomas. All rights reserved.",
+    "source": "Via Inveniendi et Iudicandi"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

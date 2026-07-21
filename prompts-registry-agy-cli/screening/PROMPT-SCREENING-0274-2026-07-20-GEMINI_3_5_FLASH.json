@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0274-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Managing and Administering the Integration of Ukraine’s Financial System into the Global Economy: Emerging Challenges",
+    "authors": "Zhuk I.; Shterma T.; Bilousko T.; Sushko D.; Muravskyi O.",
+    "year": "2025",
+    "doi": "10.37394/23207.2025.22.83",
+    "abstract": "The article presents EU, IMF, and World Bank recommendations regarding financial transaction transparency, banking regulation, and anti-money laundering measures. The issue of public governance facing one of the biggest problems – corruption and the shadow economy – is discussed, emphasizing the importance of combating corruption. High levels of corruption undermine trust in financial institutions and government bodies, reducing the interest of foreign investors in Ukraine. The article explores the effectiveness of anti-corruption efforts, strengthening the rule of law, and ensuring transparency in public finances, all prerequisites for integration into global markets. Risks to financial stability are described as integration into the global economy involving greater openness and capital mobility, which could lead to financial crises without proper regulation. Ukraine requires a robust financial monitoring and control system to avoid sudden capital outflows or currency fluctuations. The article emphasizes the importance of enhancing the export potential of Ukrainian companies. As a regulator of public relations and the economic environment, the state establishes a foundation by creating incentives for state support that drive technological breakthroughs and foster a favorable environment for foreign trade. In the strategic development of any country, foreign economic activity and integration into the global economy play a crucial role. Given the current military realities, the export sector is susceptible to various external influences, making it difficult to forecast for the sake of ensuring economic security. Against this backdrop, the current focus on developing an economy based solely on raw materials is one of the challenges that must be addressed in the long-term development plan. © 2025, World Scientific and Engineering Academy and Society. All rights reserved.",
+    "source": "WSEAS Transactions on Business and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0140-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Afraid of the unknown: Crypto literacy and fear of online fraud",
+    "authors": "Engle T.A.; Maher C.A.; Jones M.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2025.100135",
+    "abstract": "The proliferation of cryptocurrency throughout society has led to widespread usage within criminal offending. Despite this, limited research has investigated fear of cryptocurrency-based victimization, or the role that financial or cryptocurrency literacy play in influencing such fears. This study examines the influence in which financial and cryptocurrency literacy plays in both personal and altruistic fear of financial and cryptoeconomic crimes. Using a sample of college undergraduates (n = 433), and employing a validated scale of cryptocurrency literacy, results indicate that cryptocurrency literacy is not significantly associated with all modalities of fear of crime investigated, with the exception of altruistic fear of non-cryptocurrency financial crimes. Conversely, general financial literacy was negatively associated with personal fear of both financial crimes and non- cryptoeconomic financial crimes. Findings are discussed in light of research and policy implication as well as limitations. © 2025 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

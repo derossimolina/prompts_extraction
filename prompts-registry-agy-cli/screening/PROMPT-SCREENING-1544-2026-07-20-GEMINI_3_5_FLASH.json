@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1544-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "States of camouflage",
+    "authors": "Jusionyte I.",
+    "year": "2015",
+    "doi": "10.14506/ca30.1.07",
+    "abstract": "Focusing on a story of former firefighters who used a counterfeit rescue vehicle to perform a false emergency as a cover-up for drug trafficking in the tri-border area of Argentina, Brazil, and Paraguay, this article engages the concept of camouflage to intervene in anthropological discussions on statecraft. The article explores how drug traffickers-but also gendarmes, prefects, and customs officers, who help smugglers by accepting bribes-use the camouflage of legitimate political authority to enable illicit transactions. In the tri-border area, the notion of camouflage helps explain how the contraband and corruption that pervade border relationships are inseparable from formal enactments of political authority. Camouflage, thus, helps illuminate the aesthetic, pragmatic, and moral connections between statecraft and criminality, further enhancing our analytical purchase on how the law and its violation are symbiotically intertwined. I argue that this study of corruption on the border reveals that state effects are created by endless refractions, which do more than blur the distinction between law and crime, between the deceived and the deceiving, between the original and the counterfeit. Camouflage does not merely blend the predictable dichotomous categories by which we approach and analyze the performance of the state, but by obfuscating any clear distinction between the legal, the political, and the criminal, it actually enables states to happen. © by the American Anthropological Association. All rights reserved.",
+    "source": "Cultural Anthropology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

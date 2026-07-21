@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1714-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global money laundering and its domestic political consequences in Kyrgyzstan",
+    "authors": "Marat E.",
+    "year": "2015",
+    "doi": "10.1080/02634937.2015.1010854",
+    "abstract": "College of International Security Affairs, National Defense University, Washington, DC, USA This paper examines how Kyrgyzstan's two post-communist political regimes used offshore accounts to launder money and broker lucrative deals with international business partners. It argues that easy access to global financial institutions and availability of offshore markets strengthens a corrupt regime's grip on both political and economic matters and gives regime members a feeling of invincibility both domestically and globally. Offshore connections contributed to the emergence of a vast shadow economy inside Kyrgyzstan that includes clandestine hydropower exports, manipulations in the financial sector, and organized crime. The paper particularly focuses on the non-state actors who served as brokers to mediate connections between regime incumbents and international markets. © 2015 Southseries Inc.",
+    "source": "Central Asian Survey"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

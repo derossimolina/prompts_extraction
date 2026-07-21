@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1988-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Politically exposed persons &lpar;PEPs&rpar;&colon; risks and mitigation",
+    "authors": "Raymond Choo K.-K.",
+    "year": "2008",
+    "doi": "10.1108/13685200810910439",
+    "abstract": "PurposeThe purpose of this paper is to consider the risks posed by politically exposed persons &lpar;PEPs&rpar; and explain the money laundering risk when entering into financial transactions and business relationships with PEPs. Risk mitigation by regulated entities and corruption prevention strategies are also outlined. To minimise money&hyphen;laundering risks associated with PEPs, legislation will need to adapt to deal with threats that organized criminals and terrorists seek to exploit. Future directions for research in relation to PEPs are also identified. Design&sol;methodology&sol;approachAn analysis of how regulated entities can reduce their risk of money laundering when entering into financial transactions and business relationships with PEPs is presented. FindingsIt was found that there is a need to harmonise legally enforceable obligations targeting PEPs. PEP monitoring, arguably, should be extended to individuals holding prominent public functions in their own jurisdictions, individuals exercising functions not normally considered prominent but who have political exposure comparable to that of similar positions at a prominent level, and individuals holding important positions in private sectors such as CEOs of listed companies. Regulated entities in the private sector need to play their part to mitigate their risks such as conducting ongoing environmental scans of risks of money laundering and the financing of terrorism. Originality&sol;valueThis paper improves awareness of the potential money laundering risks when entering into financial transactions and business relationships with PEPs and makes several recommendations to mitigate the risk posed by PEPs. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

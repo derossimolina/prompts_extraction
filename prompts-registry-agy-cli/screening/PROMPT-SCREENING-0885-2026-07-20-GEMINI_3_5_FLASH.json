@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0885-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Who are our owners? Exploring the ownership links of businesses to identify illicit financial flows",
+    "authors": "Aziani A.; Ferwerda J.; Riccardi M.",
+    "year": "2022",
+    "doi": "10.1177/1477370820980368",
+    "abstract": "This article investigates the patterns of business ownership in Europe, using a unique dataset on the nationality of 28.7 million shareholders of companies registered in 41 European countries. By means of an exploratory multivariate analysis, it tests whether ownership links between different countries are driven exclusively by social and macroeconomic variables – such as trade or geographical or cultural proximity – or are also related to measures of financial secrecy, corruption and lack of compliance with anti-money laundering regulations. The results indicate that factors other than licit economic incentives explain the international ownership structure of European companies. European firms have an abnormal number (that is, above the predicted value) of owners from tax havens and countries with poor financial transparency, which may suggest the use of holding companies for money laundering and tax evasion and to conceal illicit financial flows. However, ceteris paribus, the number of owners is abnormal in countries where rule of law and the control of corruption are more effective, suggesting that a high level of corruption may be a cost in money laundering activities. The findings contribute to the current international debate on illicit financial flows – as framed by United Nations Sustainable Development Goal 16.4 – and can be used by public agencies and private actors to detect anomalies in business ownership and prevent potential financial crime schemes at corporate level. © The Author(s) 2020.",
+    "source": "European Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

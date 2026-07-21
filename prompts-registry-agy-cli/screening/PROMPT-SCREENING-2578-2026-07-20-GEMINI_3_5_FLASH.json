@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2578-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Valuation and Service Trusts",
+    "authors": "Fargher, I",
+    "year": "2021",
+    "doi": "10.14453/aabfj.v15i2.6",
+    "abstract": "The oblique nature of control over assets of a trust has always been challenging when personal asset distribution is at issue. This is no more apparent than in the context of Family Law. Complex organisational arrangements may make sense when considering tax planning or asset protection strategies, however, they may present difficulties for the application of sections 79 and 75 of the Family Law Act 1975. Specific difficulties are experienced when dissecting the economic structures of professionals, where the issues of professional and business intangible assets and tangible assets are held within service trust structures, intertwined with personal professional wages, incorporated professional entities, professional distributions and family distributions. Service trust arrangements have become popular for Australian professionals, such as, doctors, accountants, lawyers and engineers due to their tax effectiveness which passed the court's test in the 1978 case FCT v Phillips. The Australian Taxation Office (ATO) has issued 'safe harbour' rules for the operation of service trust arrangements which may provide some, in principle, assistance to Family Law decision making. This paper investigates the Family Law issues with respect to partner distributions where a service trust structure is in place. In this regard, the paper considers the business structuring concepts including the rights and roles of those associated with trusts, particularly the exercising of control. Secondly, the paper reviews the courts decisions with respect to looking through business trust structures with reference to the reasoning expressed in past judgements. Finally, the paper considers the Family Law distribution effects of tangible and intangible assets when professional services are encased within a Philips Trust type structure. This paper should be of interest to those involved, or potentially involved, in Family Law asset distribution. Specifically, legal and professional advisors, such as lawyers, accountants and valuation professionals. The paper's objective is to assist in clarifying the complex issues of understanding business structures underpinning the transaction based cash flows between entities and their potentially intertwined equity.",
+    "source": "AUSTRALASIAN ACCOUNTING BUSINESS AND FINANCE JOURNAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

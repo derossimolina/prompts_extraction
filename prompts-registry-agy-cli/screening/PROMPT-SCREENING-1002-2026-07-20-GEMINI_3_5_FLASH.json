@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1002-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering via cryptocurrencies – potential solutions from Liechtenstein",
+    "authors": "Teichmann F.M.J.; Falker M.-C.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-04-2020-0041",
+    "abstract": "Purpose: The purpose of this paper is to demonstrate how cryptocurrencies are used to launder money and how solutions from Liechtenstein’s novel blockchain legislation could be used to tackle the issue. Design/methodology/approach: Within the scope of the literature review, the characteristics of cryptocurrencies and how these characteristics facilitate money laundering are discussed. To investigate concrete methods that money launderers use, a qualitative study with 10 presumed money launderers and 18 prevention experts was conducted. The results were subsequently tested quantitatively. Thereafter, the novel Liechtenstein blockchain act is discussed and it is detailed how the legislation could contribute to the establishment of an international standard in blockchain regulation. Findings: Money launderers continue to abuse cryptocurrencies such as Bitcoin as vehicles for financial crime. The Liechtenstein Blockchain Act could serve as a benchmark for regulators around the world aiming to solve the issue. Research limitations/implications: Current anti-money laundering regulations are rather ineffective when it comes to cryptocurrencies. Practical implications: The findings of this paper illustrate that new and innovative means for combating money laundering are needed. In particular, this paper provides insights into cryptocurrency crime and Liechtenstein’s response for legislators, law enforcement, compliance officers and regulatory authorities. Originality/value: Liechtenstein’s blockchain act, as a potential remedy to money laundering, has thus far not received international attention. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

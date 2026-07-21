@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0332-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Navigating the regulatory landscape: Combating corruption, cryptocurrency crime, and illicit finance through global coordination",
+    "authors": "Putranti I.R.; Windiani R.; Wen Q.G.; Zuliyan M.A.",
+    "year": "2025",
+    "doi": "10.26555/jhn.v16i2.30266",
+    "abstract": "Introduction to the Problem: This article examines the U.S. strategy for countering corruption and the increasing challenges of money laundering involving cryptocurrencies in a globalized financial ecosystem. As digital assets gain legitimacy, they have simultaneously become tools for illicit finance, prompting the need for coordinated global regulatory efforts. The United States, home to the world’s largest crypto exchanges and a leading jurisdiction for asset seizures, has developed a comprehensive Five-Pillar Strategy emphasizing global coordination and institutional strengthening. Purpose/Objective Study: This study analyzes how U.S. policy frameworks, including those under the Commodity Futures Trading Commission (CFTC), Financial Crimes Enforcement Network (FinCEN), and Dodd-Frank Act, respond to transnational threats of corruption, crypto-related crime, and illicit finance. It assesses how these measures promote transparency and shape international cooperation mechanisms. Design/Methodology/Approach: Using a mixed-method legal approach grounded in methodological pluralism, this research integrates normative legal analysis, legal sociology, and neoliberal institutionalism to evaluate the adaptive capacity of global coordination in addressing crypto-related financial crimes. Findings: The study finds that effective responses to crypto-based corruption require not only domestic policy coherence but also institutionalized multilateral coordination anchored in international regimes such as the Financial Action Task Force (FATF), the UN Convention against Corruption (UNCAC), and the OECD’s Crypto-Asset Reporting Framework. The U.S. Five-Pillar Strategy strengthens transparency through beneficial ownership reporting, enhances the detection of illicit transactions via FinCEN and CFTC oversight, and reinforces cross-border collaboration through FATF and UNCAC partnerships. These frameworks collectively represent a pragmatic application of neoliberal institutionalism (where institutions mitigate the risks of an anarchic financial order) and sociological jurisprudence, which treats law as a dynamic tool of social engineering. However, gaps persist in enforcement harmonization and data-sharing, underscoring the continued need for adaptive and inclusive global coordination mechanisms. © 2025 by Author(s);.",
+    "source": "Jurnal Hukum Novelty"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

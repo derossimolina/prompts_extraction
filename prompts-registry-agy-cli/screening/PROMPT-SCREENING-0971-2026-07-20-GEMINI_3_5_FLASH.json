@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0971-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Redrawing the Map of Global Capital Flows: The Role of Cross-Border Financing and Tax Havens",
+    "authors": "Coppola A.; Maggiori M.; Neiman B.; Schreger J.",
+    "year": "2021",
+    "doi": "10.1093/qje/qjab014",
+    "abstract": "Global firms finance themselves through foreign subsidiaries, often shell companies in tax havens, which obscures their true economic location in official statistics. We associate the universe of traded securities issued by firms in tax havens with their issuer's ultimate parent and restate bilateral investment positions to better reflect the financial linkages connecting countries around the world. Bilateral portfolio investment from developed countries to firms in large emerging markets is dramatically larger than previously thought. The national accounts of the United States, for example, understate the U.S. position in Chinese firms by nearly $600 billion. Further, we demonstrate how offshore issuance in tax havens affects our understanding of the currency composition of external portfolio liabilities and the nature of foreign direct investment. Finally, we provide additional restatements of bilateral investment positions, including one based on the geographic distribution of sales. © 2021 The Author(s) 2021. Published by Oxford University Press on behalf of the President and Fellows of Harvard College.",
+    "source": "Quarterly Journal of Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

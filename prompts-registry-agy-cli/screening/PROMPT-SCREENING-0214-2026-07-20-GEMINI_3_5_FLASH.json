@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0214-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Functioning of the register of beneficial owners: findings from Poland",
+    "authors": "Matras T.M.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-09-2023-0149",
+    "abstract": "Purpose: The implementation of the Directive 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing resulted in the enactment by the Polish Parliament of the Act of March 1, 2018, on the prevention of money laundering and terrorist financing. One of the most important issues identified in the Act was the establishment of the Central Register of Beneficial Owners. The purpose of this paper is to critically analyze the functioning of the Register in Poland from the perspective of three years since its establishment. The text presents the most important problems faced by reporting institutions and obliged entities due to discrepancies in the interpretation of the Act’s provisions – especially in terms of the definition of a beneficial owner. Design/methodology/approach: The basic research approach was a comparative content analysis method. The objects of analysis included Polish Laws, Directive of the European Parliament and the Council (EU) 2015/849 and the judgment of the Court of Justice of the European Union. The theoretical legislative assumptions contained in the Acts were compared with reports, studies and communications prepared by public and private institutions. This made it possible to draw conclusions regarding the causes of problems with the functioning of the Register in Poland. Findings: The results of the research showed that the ambiguity of the definition of the beneficial owner leads to a number of problems on the part of reporting institutions, such as companies, foundations and associations. On the other hand, a large part of the data entered in the Register is questioned by obliged entities. The lack of personal data protection is also a problem. Consequently, this reduces the value of the Register as a tool that effectively mitigates the risk of money laundering. Research limitations/implications: The research focused only on the functioning of the Central Register of Beneficial Owners in Poland. The subject of the analysis addressed problems with the definition of beneficial owner, issues of data quality and openness and the process of verifying the Register’s data. The technical aspects of the Register operation and the financial penalties imposed by public oversight institutions were not reviewed. Also, no comparison was made with other European Union (EU) member states that have implemented Directive of the European Parliament and of the Council (EU) 2015/849. Originality/value: This study discusses the important issue of regulatory requirements introduced under EU regulations for private companies. Familiarization of companies, NGOs and obliged entities with the conclusions of the study can positively influence the consolidation of the correct interpretative path. In addition, to the best of the author’s knowledge, this is the first scientific text that identifies and systematizes the most important problems of the Register’s functioning in Poland. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

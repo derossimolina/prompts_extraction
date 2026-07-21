@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0733-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Risk-Oriented Approach in the System of Internal Auditing of the Subjects of Financial Monitoring",
+    "authors": "Levytska S.; Pershko L.; Akimova L.; Akimov O.; Havrilenko K.; Kucherovskii O.",
+    "year": "2022",
+    "doi": "10.33094/ijaefa.v14i2.715",
+    "abstract": "The aim of this research is to generalize the international practice of internal auditing of financial transactions to substantiate alternatives to their rational use by financial monitoring entities in Ukraine. The purpose of the article is to summarize the key changes in international FATF standards and examine the use of a risk-oriented approach by Ukrainian entities in combating AML or CFT. Assessment of audit risk using quantitative characteristics is assumed on the basis of the most commonly used mathematical three-factor multiplicative model. Turning to the EU’s experience is relevant for the global expert and regulators communities given the necessity to consider the best world practices. Summarizing the above provisions of the theory and practice of the risk-oriented approach for Ukrainian SFM allowed for identification of the areas of its practical implementation in the system of internal audit of financial transactions. The presence of an internal audit service will increase the degree of trust that government representatives have in such companies and the likelihood that a mutually beneficial partnership will develop between the parties. © 2022 by the authors; licensee Online Academic Press, USA.",
+    "source": "International Journal of Applied Economics, Finance and Accounting"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

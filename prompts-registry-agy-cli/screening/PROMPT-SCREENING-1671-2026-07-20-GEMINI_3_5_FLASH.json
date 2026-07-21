@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1671-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal treatment of crypto-coins: The dynamics of bitcoins and the crime of money laundering; [Tratamento jurídico das criptomoedas: A dinâmica dos bitcoins e o crime de lavagem de dinheiro]",
+    "authors": "De Andrade M.D.",
+    "year": "2017",
+    "doi": "10.5102/rbpp.v7i3.4897",
+    "abstract": "The present article intends to answer the following research problem: does the lack of specific regulation for crypto-coins have a relation with the expansion of criminal modalities? In order to respond to this problem, it is necessary to address the concept of crypto-coins, their expansion, the role of control institutions and the legal limits that recognize the existence of this new modality of technology. We start from the assumption that the advent of the crypto-coins in itself is not a criminal activity due to the absence of regulation by the central bank, but rather, it may fall into criminal types due to the misuse of the software. The approach is qualitative, with support in literature review and descriptive analysis of the phenomena researched, as well as consultation on legislation on the subject. The contribution is relevant for the novelty and importance of the theme in the financial and legal context of transactions carried out in virtual mode. We concluded that it is not possible to directly associate the use of bitcoins with the expansion of criminal modalities of laundry money, however, it remains evident that there is an underlying relationship between the lack of regulation and the specialization of criminal practices that use cyberspace as an environment. © 2017 Centro Universitario de Brasilia. All rights reserved.",
+    "source": "Revista Brasileira de Politicas Publicas"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

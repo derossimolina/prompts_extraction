@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2399-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploring the determinants of anti-mafia entrepreneurial behaviour: an empirical study on southern Italian SMEs",
+    "authors": "La Rosa, F; Paternostro, S; Picciotto, L",
+    "year": "2018",
+    "doi": "10.1080/08985626.2017.1386235",
+    "abstract": "This study analyses organized crime from an economic perspective and highlights the crucial role of extortion in mafia activities. From an economic viewpoint, we debate the conditions that lead companies to resist mafia extortion. To study the reactions of firms to extortion, we adopt an institutional perspective and consider the contribution of different theories in the socially responsible behaviour and organized crime literature, in an attempt to understand this complex entrepreneurial behaviour better. A sample of 116 southern Italian SMEs, whose entrepreneurs have publicly opposed mafia extortion, was selected. By adopting a matched-pair design, anti-mafia firms were subsequently matched against a control sample. Determinants of anti-mafia behaviour were investigated by using both unconditional and conditional logistic regression models, in order to regress the anti-mafia choice on a set of economic, demographic, governance, and control variables. The results show that both financial and governance variables are significant determinants of anti-mafia entrepreneurial behaviour (AEB), whereas demographic variables are not relevant.",
+    "source": "ENTREPRENEURSHIP AND REGIONAL DEVELOPMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

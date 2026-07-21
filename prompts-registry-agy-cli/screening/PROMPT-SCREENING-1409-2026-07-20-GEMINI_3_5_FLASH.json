@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1409-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ethics, embodied life and esprit de corps: An ethnographic study with anti-money laundering analysts",
+    "authors": "Pérezts M.; Faÿ E.; Picard S.",
+    "year": "2015",
+    "doi": "10.1177/1350508414558726",
+    "abstract": "Our highly sensitive ethnographic study with anti-money-laundering analysts delves into the understudied link between embodiment and ethics in organizations. We begin by reclaiming the importance of bodies and embodiment in the business ethics literature, which largely assumes preeminence of the mind over the body. We then draw on French phenomenologist Michel Henry’s theory of the subjective body to advance our understanding of ethics as endogenous embodied practice rooted in life. Through the experiential realities of our ethnographic work, we show how the two interrelated dimensions in which embodiment occurs (subjective body and organic body) operate at two interrelated levels (subjective and intersubjective experience) to advance theory on the implications of corporeal ethics in organizations. More specifically, by reclaiming and specifying the ontologically embodied and shared dimensions of ethical subjectivity in life, we show the emergence and development of an esprit de corps, which allows embodying collective ethical practice while resisting to continuous external pressures. © The Author(s) 2014",
+    "source": "Organization"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

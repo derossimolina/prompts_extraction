@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0801-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Diversity of Shari’ah supervisory board and the performance of Islamic banks: evidence from an emerging economy of Pakistan",
+    "authors": "Khan I.; Khan I.U.; Uddin M.J.; Khan S.U.; Marwat J.",
+    "year": "2024",
+    "doi": "10.1108/JIABR-09-2021-0240",
+    "abstract": "Purpose: Given the relative importance of the Shari’ah supervisory boards (SSBs) in Islamic banks’ (IBs’) performance, this study aims to examine the impact of SSB diversity on IBs’ performance from the stakeholders’ perspective in the context of Pakistan. Design/methodology/approach: Random-effects model and generalized method of moment are used to investigate the impact of SSB diversity on IBs’ performance across a panel data of 22 Islamic banks in Pakistan from 2005 to 2020 inclusive. Findings: The findings of this study show that SSB size, SSB relevant educational background diversity, bank’s size and bank’s stability have a positive impact on IBs’ performance. In contrast, SSB age, nationality and cross-membership diversities have a negative impact on IBs’ performance. Moreover, SSB gender, tenure and general educational diversities have no significant impact on IBs’ performance. Research limitations/implications: SSB diversity and IBs practices are different across different jurisdictions. This study is conducted on IBs in Pakistan because of data constraints; thus, the results of this study may not be generalizable to other countries' IBs. Practical implications: In structuring the SSBs’ framework, the regulatory authorities and policymakers should consider mandating an ideal SSB size and hiring relevant qualified members with low cross-membership to improve IBs' performance. Thus, the structure potentially attracts Muslim stakeholders, enhances their satisfaction and improves IBs' performance. Social implications: Having diversified members in the SSB, IBs equally benefit both individual and group stakeholders in society. Diversity in SSB members enhances IBs' performance and the social welfare of various stakeholders in society. Originality/value: To the best of the authors' knowledge, this is the first empirical research that examines comprehensively the impact of SSB structural and demographic diversities on IBs' performance in the context of Pakistan. This paper contributes to the unique Shari’ah governance structure in the context of Pakistan. Additionally, this study may serve to assist IBs’ stakeholders in better comprehending the SSB practices of IBs in Pakistan. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Islamic Accounting and Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

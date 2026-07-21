@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1222-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Prevention of money laundering and the role of asset recovery",
+    "authors": "Sittlington S.; Harvey J.",
+    "year": "2018",
+    "doi": "10.1007/s10611-018-9773-z",
+    "abstract": "The purpose of this paper is to examine the increasing emphasis of the UK anti-money laundering (AML) legislative framework, on the financial arrangements of criminals. Our qualitative study engaged key stakeholders from the AML environment through a series of focus groups. This included law enforcement; accountants; prosecutors; bankers and, importantly, ex-offenders. We argue that the inclusion of the views of a traditionally hard to reach group of ex-offenders, adds significantly to knowledge and understanding about effectiveness of AML. The research findings suggest that, at first glance, the focus on asset recovery has been successful. However, our respondents shared with us areas of tension and inconsistencies in application of the law, in particular between police and the courts. For example, whether it was better to prosecute the predicate offence separately or in addition to the offence of money laundering; or whether to pursue criminal or civil recovery. We further find that criminals have been able to use their knowledge to circumvent the system, suggesting that greater effort is needed to promote cooperation, rather than competition, in successfully detecting and prosecuting offenders. © 2018, The Author(s).",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

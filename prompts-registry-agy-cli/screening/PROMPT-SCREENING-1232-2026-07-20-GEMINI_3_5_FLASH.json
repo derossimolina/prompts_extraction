@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1232-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cross-domain coercion as russia’s endeavor to weaken the eastern flank of nato: A latvian case study",
+    "authors": "Jeżewski R.",
+    "year": "2019",
+    "doi": "10.11610/Connections.18.1-2.03",
+    "abstract": "Cross-domain coercion is tangible on NATO’s Eastern flank and characterized by the use of derogatory propaganda, fake news, financial assets in the Latvian banking system, Russian-based organized crime, and various military elements. This study on cross-domain coercion, however, concentrates on the cohesion of the Latvian population, existing gaps within society, and its susceptibility to being exploited by Russia. To acquire data for this study, the author conducted interviews with representatives of the Eastern flank countries and performed an extensive literature review. To determine the root causes of vertical division in the society, the “5 WHYs” method was used. This study proved that the presence of a Russian minority and the Russian-based organized crime minority can be a good base to create unrest and that Russia is able to influence the internal policy of a country when the Russian economic footprint exceeds 12 % of GDP. The demographics and the cohesion (including vertical and horizontal divisions) of the society are factors determining the resistance of Latvia. The triumph of the populist parties during the October 2018 parliamentary elections reflect the trend that the nation is tired of the corrupt and ineffective government rather than that it is drifting towards Russia. In a broader scope, it is expected that cross-domain coercion will increase and Russia will test the cohesion of NATO. © 2019, Partnership for Peace Consortium of Defense Academies and Security Studies Institutes. All rights reserved.",
+    "source": "Connections"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0155-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Planning and the unthinkable: Inertia, imagination and climate change along the Upper Adriatic coast",
+    "authors": "Centis L.; Pagnacco A.; Vascotto F.",
+    "year": "2025",
+    "doi": "10.1016/j.futures.2025.103678",
+    "abstract": "The paper addresses the study of coastal futures through the combination of scenario planning, cartographic visualization, and real estate valuation. When addressing and reflecting on the territorial impacts of climate change at the global scale, the real estate sector plays an inertial role in different contexts, and in particular in coastal ones most exposed to rising seas, as the Upper Adriatic area between the Gulf of Trieste and the Venice Lagoon. It is becoming increasingly clear that the reflection and possible gradual planning and programming by public bodies of a controlled retreat from these areas in view of the predicted rising seas finds an obstacle not only in the protection of areas and sites of inestimable cultural and naturalistic value, but also of real estate assets. The paper reports the development of a methodological framework that –through the integration of parcel-level real estate data, hydrological risk scenarios, and typologies of spatial vulnerability– could act as reference and trigger for public agencies, planners, or climate adaptation practitioners in programs of awareness-raising or exploratory modelling. Starting from the visualization of the plausible effects of flooding and sea level rise in the coming decades and reflecting on a possible scenario for the Upper Adriatic coastal area in 100 years from now, the paper engages with a potential epochal shift in the way of structuring and inhabiting this territory, considering not only timely issues as climate action and climate justice, but foreseeing a transition that takes into account also a strategic dimension as the economic one. © 2025 The Authors",
+    "source": "Futures"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

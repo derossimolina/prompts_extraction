@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2366-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ASSESSMENT OF A BANK'S PREVENTION AND COUNTERACTION MONEY LAUNDERING SYSTEM",
+    "authors": "Ponomarenko, VS; Kolodiziev, OM; Lebid, OV; Veits, OI",
+    "year": "2018",
+    "doi": "10.18371/fcaptp.v3i26.143845",
+    "abstract": "An absence of evaluation current condition of system of prevention and counteraction money laundering is an obstacle for its further development. Yet there has no any open source methodology for such systems assessment. This article is devoted to the development of the methodical approach to assessment of a bank's prevention and counteraction money laundering system. Our analysis revealed the most important components of a bank's prevention and counteraction money laundering system. They are client's identifying and researching, financial monitoring and reporting, risk management, personnel competency, documents and information storage, internal control and auditing, compliance, information systems management, corporate governance and role of its bodies. The priority of these components was determined based on banking experts' survey. Coefficients of significance of each system's component were calculated. Due to assess each component of the system of prevention and counteraction of money laundering through banks the set of questionnaires has been developed. Each questionnaire takes into account the requirements of the FATF and the National Bank of Ukraine, the data of the official reporting of the banks on financial monitoring issues. The generalized stages of estimation are the methodical approach to estimation of a bank's Anti-Money Laundering / Countering the Financing of Terrorism system. The approach is based on developed questionnaires, the estimates of which are converted into integral indicators. These integral indicators show the level of development of each component of a bank's Anti-Money Laundering / Countering the Financing of Terrorism system and form an integral assessment of the whole system. The developed scale for system's integral estimate allows making qualitative interpretation of the results.",
+    "source": "FINANCIAL AND CREDIT ACTIVITY-PROBLEMS OF THEORY AND PRACTICE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

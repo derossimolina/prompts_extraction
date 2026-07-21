@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1504-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of Jordanian anti-money laundering laws on banks",
+    "authors": "Abu Olaim A.M.A.; Rahman A.A.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-07-2014-0023",
+    "abstract": "Purpose – The purpose of this paper is to examine the impact of the Jordanian anti-money laundering law and its instructions on the Jordanian banking industry. The anti-money laundering law in Jordan is newly enacted, but there are new developments not covered by the law. For instance, the revolutionary wave known as the Arab Spring surrounding Jordan has increased the crime rates in Jordan, and it has also reduced international coordination and cooperation to encounter money laundering operations. The emergence of new means for money transfer is affecting the efficiency and speed of bank transfers. Subsequently, the impact of the law on Jordanian banks is unknown. Design/methodology/approach – This paper relies on the Jordanian Anti-Money Laundering and Counter Terrorist Financing Law 2007 as a primary source of information. The relevant Jordanian anti-money laundering instructions that have directly been affecting banks include the Jordanian Anti Money Laundering and Counter Terrorist Financing Instructions Number (51) 2010. These instructions were considered the most important legislation for the purpose of this paper. Findings – While the Jordanian anti-money laundering law is based on certain principles, the effectiveness of the law is unknown. The Arab Spring, particularly the Syrian revolution, has negatively increased the crime rates and money laundering activities in Jordan. To make matters worse, the international cooperation and coordination between countries in combating money laundering are not at the required level, and this has encouraged money laundering groups to exploit the situation. Only time will tell whether the banks will be able to cope sufficiently with the increased anti-money laundering obligations. Obviously, it is critical at this stage to establish effective coordination between legislators, regulators and the banking industry to minimize problems encountered by the banks, thereby to ensure effective implementation of the law. Originality/value – This paper provides an examination of the impact of the Jordanian anti-money laundering law that has directly affected banks. It is hoped that this paper would provide some insight into this particular area for academics, practitioners, the legal advisers, banks and policy-makers not only in Jordan but also elsewhere. In view of the international nature of money laundering and banking, there will be significant interest in how the anti-money laundering law affects banks operation in Jordan. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

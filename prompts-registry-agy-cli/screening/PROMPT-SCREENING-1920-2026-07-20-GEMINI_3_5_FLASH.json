@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1920-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk-based approach for designing enterprise-wide AML information system solution",
+    "authors": "Ai L.; Tang J.",
+    "year": "2011",
+    "doi": "10.1108/13590791111147488",
+    "abstract": "Purpose - This paper attempts to explain the key elements and associated definitions of the financial institutions' enterprise-wide anti-money laundering (AML) information system, and to discuss the technical theory for implementing the information system. Design/methodology/approach - The paper defines the problems of defensive filing in the suspicious transaction reports, proposes AML practice from objective standard principle to subjective assessment principle, and provides detailed description of enterprise-wide AML solution. Findings - As rule-based AML approach and objective-standard monitoring principle have led to numbers of practical problems, a significant tendency of regulatory reform is to replace the objective-standard principle by comprehensive risk-assessment process with considerations of the enterprise's reality. Originality/value - The paper presents the latest development in enterprise-wide AML information system construction, including customer risk evaluation, transaction risk measurement, behavior monitoring technology, link analysis, risk ranking and workflow tools, etc. and major fundamentals and functions of these modules are also discussed. Copyright © 2011 Emerald Group Publishing Limited. All rights reserved.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

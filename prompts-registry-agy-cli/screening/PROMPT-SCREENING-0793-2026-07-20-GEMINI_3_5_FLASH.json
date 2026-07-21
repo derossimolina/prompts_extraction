@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0793-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Deriving Halal Transaction Compliance using Weighted Compliance Scorecard (WCS)",
+    "authors": "Setik R.; Marjudi S.; Raja Lope Ahmad R.M.T.; Wan Hassan W.A.; Kassim A.A.Md.",
+    "year": "2023",
+    "doi": "10.12785/ijcds/1301115",
+    "abstract": "This study proposes a Halal transaction compliance process using Weighted Compliance Scorecard (WCS) to derive a Halal Transaction Compliance module. This study also attempts to outline the users, experts and authorities that will be implicated in its implementation. The transaction data was collected from a payment gateway provider after analyzing literature review, expert interview and central data theme to determine the variables involved in the compliance structure. The data is then aggregated and transformed before subjected to the Halal Transaction Compliance module and verified by the same group of experts. Results indicated that the proposed compliance is effective by a total average score of 4.06. However, improvements to central data theme can include investigative modules to make the variable more dynamically adaptable to real world changes. It can also include more in-depth industrial data compliance. Considerations should also be catered for international transactions and SMEs with global chains. For the purpose of this study, the user scope is limited to Malaysia Halal SME owners that use payment gateway embedded into their e-commerce website. Furthermore, the initial transaction data covers 500 of the payment gateway provider’s most active users. It is suggested that future studies involve SMEs with good permissible scores to be benchmarked, so that the range of good compliance scores are gauged. They can also study the complexity of these compliance documentation for Halal supply chain transactions. This study’s contribution lies in the enhancement of Malaysia’s Halal transaction ecosystem, as well the development of a standardized Halal Transaction Compliance Protocol and the complexities involved in its operationalization and regulation. © 2023 University of Bahrain. All rights reserved.",
+    "source": "International Journal of Computing and Digital Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1056-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering and counter-terrorist financing threats posed by mobile money",
+    "authors": "Whisker J.; Lokanan M.E.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-10-2017-0061",
+    "abstract": "Purpose: The purpose of this paper is to explore the various characteristics of mobile money transactions and the threats they present to anti-money laundering (AML) and counter terrorist financing regimes. Design/methodology/approach: A thorough literature review was conducted on mobile money transactions and the associated money-laundering and terrorist financing threats. Four key themes were identified in relations to the three stages of money laundering and effective law enforcement. Findings: The findings indicate that as money laundering and terrorist financing transactions continue to gravitate towards the weaknesses in the financial system, mobile money provides yet another avenue for criminals to exploit. Risk factors associated with anonymity, elusiveness, rapidity and lack of oversights were all integral considerations in building an effective AML regime. The use of cash is considered a higher threat than mobile money prior to implementation of systems and controls. Practical implications: This rapidly changing environment of how individuals manage their money during transactions is set to further explode globally, which poses new problems for regulators and governments alike. Unless there is a unified concentration to heighten global awareness, the imposing threat of mobile money is set to increase at a rapid rate if appropriate actions are not taken. Originality/value: The findings from this study can be used to gain greater insights on mobile money transactions and raise further awareness of the ever-increasing threat to global financial integrity. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

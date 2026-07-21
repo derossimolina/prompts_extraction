@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0015-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bitcoin adoption and price elasticity of demand: cross-country insights",
+    "authors": "Shiva Sankari V.; Kavitha R.",
+    "year": "2025",
+    "doi": "10.1057/s41599-025-05148-5",
+    "abstract": "This study investigates the global adoption of Bitcoin by analyzing its price elasticity of demand (PED) across 46 countries or regions, with a focus on the interplay between economic, regulatory, and technological factors. Utilizing robust econometric techniques, including Huber regression, the research identifies significant variations in Bitcoin demand elasticity between developed and developing economies. The findings reveal that developed economies exhibit a mix of elastic and inelastic demand, driven by market maturity and discretionary consumption, while developing economies predominantly demonstrate inelastic demand, reflecting necessity-driven adoption amidst economic constraints. Key determinants of adoption include regulatory frameworks, such as legality, taxation, and anti-money laundering measures, alongside technological readiness indicators like blockchain infrastructure and internet penetration. These results underscore the critical influence of non-price factors on Bitcoin’s adoption dynamics and provide valuable insights for policymakers, investors, and industry stakeholders aiming to balance innovation with market stability. By offering a nuanced understanding of Bitcoin demand, this research contributes to the broader discourse on cryptocurrency adoption and its socioeconomic implications. © The Author(s) 2025.",
+    "source": "Humanities and Social Sciences Communications"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

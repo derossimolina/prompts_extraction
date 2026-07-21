@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2065-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of Schedule 7 of the Counter&hyphen;Terrorism Act 2008 on banks and their customers",
+    "authors": "Goldby M.",
+    "year": "2010",
+    "doi": "10.1108/13685201011083876",
+    "abstract": "PurposeThe purpose of this paper is to discuss the potential impact of measures taken in accordance with powers introduced by Schedule 7 of the Counter&hyphen;Terrorism Act 2008 on banks and their customers. Design&sol;methodology&sol;approachThe paper analyses the legal provisions setting out these powers and comments on their scope&semi; discusses the guidance issued with respect to these provisions by the Joint Money Laundering Steering Group, as well as other commentary on these provisions&semi; examines the remedies available to those affected by the measures taken in exercise of the Schedule 7 powers&semi; and comments on the use made of these powers to date and the relevant outcomes. FindingsThe paper concludes that while the Schedule 7 powers are useful in permitting a targeted response to money laundering and terrorism financing, they can be needlessly damaging to business unless used in a proportionate and risk&hyphen;sensitive manner. Originality&sol;valueThe paper analyses critically the first judicial review decision made in respect of the exercise of Schedule 7 powers. © 2010, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

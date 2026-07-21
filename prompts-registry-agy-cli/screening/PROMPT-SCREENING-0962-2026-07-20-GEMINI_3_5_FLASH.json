@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0962-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Perception versus reality: Iranian banks and international anti-money laundering expectations",
+    "authors": "Molla Imeny V.; Norton S.D.; Salehi M.; Moradi M.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-06-2020-0064",
+    "abstract": "Purpose: Iran has been ranked by the Basel Committee on Banking Supervision and the Financial Action Task Force (FATF) as one of the foremost countries in the world for money laundering. However, Iranian banks claim that they comply with international standards for reporting suspicious activity, risk management and training. This paper aims to investigate this dichotomy between perception and reality. Design/methodology/approach: A Wolfsberg-style questionnaire was sent to partners in Iranian accounting firms, which have audited domestic banks over the past five years to investigate the adequacy of risk management systems. Findings: Most Iranian banks have anti-money laundering (AML) systems, which compare favourably with those of international counterparties. Banks take a risk-based approach to potential criminal behaviour. The negative perception of Iranian banks is principally attributable to the government’s unwillingness to accede to “touchstone” international conventions. In spite of having in place AML laws, which are comparable in intent with those of the UK and the United States of America (USA), weak enforcement remains a significant impediment of which the political establishment is aware. Practical implications: Measures required to bring Iranian banks into compliance with international standards may be less extensive than perceptions suggest. However, failure of the government to accede to conventions stipulated by the FATF means that banks may remain ostracised by foreign counterparties for the foreseeable future. Originality/value: This study provides a unique insight into the extent of AML compliance in Iranian banks as verified by external auditors. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

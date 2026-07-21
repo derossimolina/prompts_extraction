@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2318-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "RESPONSIBILITY FOR FINANCIAL CRIMES: CRIMINAL LEGAL AND CRIMINOLOGICAL CHARACTERISTICS",
+    "authors": "Lagutin, IB; Urda, MN; Arbatskaya, YV; Vasil'eva, NV",
+    "year": "2015",
+    "doi": "10.17150/1996-7756.2015.9(2).313-323",
+    "abstract": "Intense development of financial law requires careful analysis of it regulatory tools, including study of bringing offenders to responsibility. Problems of criminal prosecution in financial sphere is analyzed in the article. The authors emphasize fragmentary nature of researches held, necessity for complex study of responsibility in financial law. The author divide crimes against money relations into 3 groups: crimes against established order of currency and payments; crimes against established order of exchange transactions: cries against general principles of monetary transactions; and also provide a complex analysis of these crime which - supplemented by unified term responsibility in financial law - allows to define common aspects of crimes in the sphere and special features of criminal prosecution. A complex review of administrative and criminal offences' elements and financial legislation enabled achievement of the goal. The research allows to develop recommendations on financial legal constructions application in terms of financial crimes classification. The authors conclude that criminal law on crimes against financial relations requires improvement which is an element of criminal law prevention.",
+    "source": "RUSSIAN JOURNAL OF CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

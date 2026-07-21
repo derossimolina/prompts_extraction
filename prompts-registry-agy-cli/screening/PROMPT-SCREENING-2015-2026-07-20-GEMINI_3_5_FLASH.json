@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2015-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Finance, home building, and urban residential structuring",
+    "authors": "Orderud G.I.",
+    "year": "2011",
+    "doi": "10.1111/j.1467-8330.2011.00875.x",
+    "abstract": "The aim of this article is to improve our understanding of finance in home building by introducing an actor perspective in structure-oriented theories of capital circulation. David Harvey's three-circuit theory, with fixity-motion processes and (de-/re)-territorialisation, is taken as the starting point. The analysis is based on a case study of Norwegian home-building finance, outlining the emerging structure of housing and finance under the Norwegian version of neoliberalism; comprising deregulation and re-regulation phases. The article delineates today's home-building finance, and identifies large banks, small banks, large investment funds and small investment funds as structural actors operating within actual fixity and motion processes, causing a distinct territorialisation of urban landscapes, as exemplified by gentrification. © 2011 The Author Antipode © 2011 Editorial Board of Antipode.",
+    "source": "Antipode"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

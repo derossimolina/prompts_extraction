@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2572-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Callable Bonds: Better Value Than Advertised?",
+    "authors": "Kalotay, A",
+    "year": "2008",
+    "doi": "10.1111/j.1745-6622.2008.00196.x",
+    "abstract": "Callable bonds allow issuers to manage interest rate risk in the sense that if rates decline, the bonds can be redeemed and replaced with lower-cost debt. Investors demand a coupon premium for giving issuers this option; and when deciding whether to issue callable or noncallable bonds, the issuing companies must determine whether it's worth paying the coupon premium. This article addresses two main questions about the structuring and refunding of callable bonds. The first concerns the value of the call option: At the time of issuance, does it make sense to accept the coupon premium for the option being acquired? The second concerns the optimal timing of a refunding: At refunding, do the cash flow savings provide adequate compensation for the option that is being exercised and hence given up? In perfect markets with no taxes or transactions costs, the average corporate issuer should be indifferent between issuing callable bonds or their noncallable equivalent. But corporate taxes, together with risk management considerations, can lead some issuers to prefer callable bonds, possibly with coupons that otherwise would be unacceptably high. Refunding decisions should be made using the concept of call efficiency,which compares the savings (net of transactions costs) from calling to the loss of option value. The latter should also account for any option that is built into the replacement issue. Transaction costs that occur when refunding diminish the value of the call option, and their effect should be factored in at the time of issuance. One way of avoiding such costs is to issue ratchetbonds-essentially one-way floaters that automatically reset lower when rates decline, thus delivering the benefits of callable bonds while eliminating transaction costs.",
+    "source": "JOURNAL OF APPLIED CORPORATE FINANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

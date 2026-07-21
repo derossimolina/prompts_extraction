@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1520-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A framework for a national special purpose court for banking and financial crimes: The (financial) predator must ultimately become the Layman’s prey!",
+    "authors": "Barnes S.R.",
+    "year": "2015",
+    "doi": "10.18374/IJBR-15-3.2",
+    "abstract": "While the “Great Recession” of 2008 motivated more forceful regulation, there continues to be great skepticism about the indispensable regulatory and enforcement functions of the nation’s banking and monetary system. Many economists and social scientists charge that the financial system places profit above everything else, including the disregard for human socioeconomic welfare; moralizing free markets and behaving as if everything reduces to only one thing - free enterprise system (i.e. wealth and power). The entire regulatory and enforcement infrastructure is alleged to be a hodgepodge of rules and regulations that is only minimally effective and grossly compromised. This together with a “revolving door” political environment has reformist economists rethinking and pondering not only the infrastructure’s effectiveness; but also its overall mandate. Furthermore, critics assert that the federal legal and regulatory infrastructure is inadequate and/or inept to monitor banking and financial criminal activities; enforce the current laws and prosecute culpable entities or individuals. The intent of this paper is to propose the creation of a National Special Purpose Court for Banking and Financial Crimes (NSPCBFC); henceforth referred to as the National Financial Crimes Court (NFCC). © 2015 AIBE.",
+    "source": "International Journal of Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

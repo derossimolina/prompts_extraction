@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0656-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is there still hope? Efficiency of spending on public security in Brazil; [Ainda há esperança? Eficiência do gasto com segurança pública no Brasil]; [¿Aún hay esperanza? Eficiencia del gasto en seguridad pública en Brasil]",
+    "authors": "Teixeira Bonifácio da Silva P.E.N.; Scherer L.M.",
+    "year": "2023",
+    "doi": "10.14349/sumneg/2023.V14.N31.A6",
+    "abstract": "Introduction/Objective: This paper aims to identify, through Data Envelopment Analysis (DEA), the efficiency of public spending on security in Brazilian states and the federal district from 2017 to 2020, concerning crime rates. Methodology: This study is descriptive and quantitative. The applied DEA was oriented towards the BCC model (Banker, Charnes & Cooper, 1984 [variable returns to scale]) with an input model. The input variable used was expenditure on public security, while the output variables were intentional homicides, armed robbery, robbery and vehicle theft, and drug trafficking. The proposed method was then executed, and the results found after analyzing the model were presented. Results: The findings suggest that, on average, the utilization of resources from the Fed-erative Units (FUs) has reached 73.33% efficiency during the analyzed period. However, numerous FUs still have the potential to employ resources more efficiently compared to other states. Additionally, the results demonstrate that only three states consistently achieved maximum efficiency throughout the analyzed period. Conclusions: Consequently, there is a continuing need for security-focused public policies to be refined, enabling FUs to achieve greater efficiency in expenditure in this area with the goal of reducing crime rates. Lastly, the detailed identification of the causes of inefficiency in the state of Roraima, Brazil, characterized by higher spending on public security and lower technical efficiency, can contribute to the understanding of public policies in the field of security. © 2023 Fundación Universitaria Konrad Lorenz.",
+    "source": "Suma de Negocios"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

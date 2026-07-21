@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0130-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency and criminal liability: investigating legal challenges in addressing financial crimes in decentralized systems",
+    "authors": "Fathi M.; bin Saud Al-Shammar M.; Khalifa Mohamed G.S.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-07-2024-0110",
+    "abstract": "Purpose: This study aims to contribute to comprehending the challenges faced by Saudi Arabia in tackling the financial crimes enabled by cryptocurrency, especially in decentralized environments. Design/methodology/approach: Content analysis is used in this study to assess the effectiveness of legal and regulatory reforms implemented in Saudi Arabia. It analyzes existing literature, case studies and relevant legal frameworks. Findings: Analyzing the Saudi judiciary system, the research shows that there is a lack of proper approaches for preventing cryptocurrency-related crimes. A lack of awareness among consumers and investors exacerbates these challenges. Practical implications: The Saudi government needs to improve the current legal system against the financial crimes linked with cryptocurrency: this entails enhancing public education, enhancing police capacity, as well as enhancing cooperation between nations. Originality/value: This paper fulfills an identified need for research on the legal challenges Saudi Arabia faces in addressing cryptocurrency-related financial crimes within the context of Islamic law and its regulatory framework. © 2025, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

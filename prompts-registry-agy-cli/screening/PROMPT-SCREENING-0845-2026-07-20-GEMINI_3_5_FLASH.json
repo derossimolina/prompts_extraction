@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0845-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Policies, instrumentalities, compliance and control: combatting money laundering in Bangladesh",
+    "authors": "Zafarullah H.; Haque H.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-10-2021-0109",
+    "abstract": "Purpose: Money laundering (ML) has become a global threat in recent years, impacting both developed and poor countries. Developing an efficient anti-money laundering (AML) regime is a difficult and time-consuming process owing to the ever-changing spectrum of methods used, weaknesses in control mechanisms, intricacies of laws and regulations, organizational malfunction and goal displacement. In Bangladesh, surge of illegal money, rising money heists and egregious capital outflows have posed a governance problem. The purpose of this study is to investigate the dimensions of ML and examine the structure and performance of the AML regime. Design/methodology/approach: This study adopts a qualitative method, based on a thorough review of the conceptual and empirical literature on ML, content analysis of a range of publications, a scan of newspaper articles and digital resources and responses/comments of current and retired government employees in Bangladesh. The evaluation is informed by the recommendations of the Financial Action Task Force and supported by the mutual evaluation reports of the AGroup on Money Laundering. Findings: Bangladesh, like most of South Asia, is highly vulnerable to ML and is hard-pressed to fully comply with global standards for control. Weak institutions, bureaucratic pathology, lack of transparency and accountability, high levels of corruption, an ambiguous regulatory environment, unregulated financial operations, a disordered banking sector, conflicting interests, criminal exploitation, poor oversight and reporting, flawed risk assessment and weak government performance have affected the performance of the AML system. Originality/value: This paper looks at the problem of ML from a holistic perspective covering different dimensions such as black money whitening, illegal funds movements, informal money transfer systems, use of offshore refuge for hiding money and so on and the state’s responses to the syndrome. The evaluation will be of particular relevance to policymakers, anti-corruption and law enforcement agencies, the financial intelligence operators and public prosecutors dealing with criminal justice. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

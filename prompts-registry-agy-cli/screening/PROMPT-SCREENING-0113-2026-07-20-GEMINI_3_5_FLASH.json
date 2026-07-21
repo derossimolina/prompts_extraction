@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0113-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering (AML) effectiveness and cryptocurrency regulations: an empirical analysis of the introduction of virtual asset service providers (VASPs) licensing and AML crypto laws",
+    "authors": "Gaisina A.; Finger M.",
+    "year": "2026",
+    "doi": "10.1108/JFRC-10-2025-0319",
+    "abstract": "Purpose – The purpose of this study is to test whether the introduction and enforcement of virtual asset service providers (VASP) licensing and anti-money laundering (AML) crypto laws have an impact on overall AML effectiveness in selected countries from 2013 to 2023. Design/methodology/approach – This study empirically tests how the introduction and enforcement of VASP licensing and cryptocurrency-related AML laws affect AML effectiveness, proxied by the inverted AML Basel Index, in selected countries over 2013–2023 via dynamic event-study methods (Sun and Abraham, 2021; Callaway and Sant’Anna, 2021) to capture time-specific treatment effects, alongside a two-way fixed effects method with control variables covering macroeconomic conditions, digital infrastructure, financial inclusion and governance. Findings – The results reveal that the introduction of VASP licensing and AML crypto laws produces the most substantial and sustained improvements in AML effectiveness, while the enforcement phases show weaker and less consistent effects. Among controls, only regulatory quality positively and significantly contributes to AML performance. Research limitations/implications – The data on VASP licensing and AML crypto law introduction was hand-collected. The rest of the data was available till 2023 only. Practical implications – The results suggest that policymakers should prioritise the timely introduction of VASP licensing and AML crypto laws, as legislative adoption itself yields immediate improvements in AML effectiveness, especially in jurisdictions with stronger regulatory quality. Originality/value – This study bridges the gap between the early wave of event studies in the crypto space and the few papers analysing determinants of cryptocurrency regulation, as well as AML effectiveness. Moreover, the main novelty of the research is the analysis of the effect of the VASP licensing, which is not present in the literature in a quantified way. © 2026 Emerald Publishing Limited",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

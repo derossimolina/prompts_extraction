@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1177-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Toward building a 3D Web-based spatial decision framework for apartment selection",
+    "authors": "Emekli H.; Guney C.",
+    "year": "2019",
+    "doi": "10.1007/s10901-019-09663-1",
+    "abstract": "In the last few decades, there has been a growing interest in effectively incorporating the analytic modeling capabilities of decision support systems and the spatial modeling capabilities of geospatial information systems to solve complex spatial decision-making problems in various fields. Spatial decision support systems assist decision makers in exploring, structuring, and generating solutions for complicated spatial decision problems such as apartment selection. The selection of an apartment is a decision which plays an important role in human life. The good location is the critical factor that affects the value and potential of a real estate. This emphasizes the significance of spatial factors in decision making in real estate business. The spatial accessibility value of each apartment to different service categories can be used while choosing the most suitable apartment. Hence, the study covers not only non-spatial aspects, for example, unit price, house size, and number of rooms, but also spatial aspects, such as spatial accessibility, of the apartment selection. To sum up, this study proposes a spatial decision framework, called EMEKLI, to facilitate the decision-making process for the selection of an apartment in the presence of different priorities and uncertainties among the decision criteria. Furthermore, the recommendations obtained from the decision-making process are shared with the decision makers in the 3D environment through a virtual globe. © 2019, Springer Nature B.V.",
+    "source": "Journal of Housing and the Built Environment"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

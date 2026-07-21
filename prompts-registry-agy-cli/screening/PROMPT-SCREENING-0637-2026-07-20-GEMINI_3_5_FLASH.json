@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0637-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Criminology Towards the Metaverse: Cryptocurrency Scams, Grey Economy and the Technosocial",
+    "authors": "Mackenzie S.",
+    "year": "2022",
+    "doi": "10.1093/bjc/azab118",
+    "abstract": "Online markets in cryptocurrency represent a sprawling and eclectic alternative financial system, selling cutting edge techno-investment schemes that are complex and high risk. Crime control is almost entirely absent from this new crypto economy, and it is full of scams. This paper draws on an ethnography of crypto trading to review the main types of scam, suggesting that the grey economy of cryptocurrency trading is part of a wider evolution of society towards the technosocial, and beyond that perhaps towards the metaversal. © 2022 The Author(s). Published by Oxford University Press on behalf of the Centre for Crime and Justice Studies (ISTD). All rights reserved.",
+    "source": "British Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

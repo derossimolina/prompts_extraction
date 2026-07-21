@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0489-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "COOPERATION WITH THIRD COUNTRIES IN COMBATING MONEY LAUNDERING IN THE FACE OF MODERN CHALLENGES",
+    "authors": "Golonka A.",
+    "year": "2023",
+    "doi": "10.2478/in-2023-0027",
+    "abstract": "The study is devoted to the issue of international cooperation in combating money laundering as a transnational crime. It is an original scientific article, the purpose of which is to highlight the difficulties that, in the current global situation, are posed by cooperation with third countries, i.e., those that are not members of the European Union. The analysis covers several thematic areas that are of key importance in this regard (using the formal dogmatic method). The specificity of the regulations in force in other countries was also indicated, particularly in the context of modern technologies and threats of cyber-laundering (incorporating elements of the legal and comparative method). As a result, conclusions were drawn regarding the challenges that the fight against laundering raises on the international arena, extending beyond the structures of the EU. The conclusion suggests directions for actions that would be desirable to undertake in order to ensure effective international cooperation with third countries in the field of combating money laundering. © 2023 Sciendo. All rights reserved.",
+    "source": "Ius Novum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

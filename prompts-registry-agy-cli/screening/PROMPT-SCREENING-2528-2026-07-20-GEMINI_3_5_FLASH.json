@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2528-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Islamic finance: the impact of the AAOIFI Resolution on equity-based sukuk structures",
+    "authors": "Salah, O",
+    "year": "2010",
+    "doi": "10.1080/17521440.2010.11428146",
+    "abstract": "The growth of the Islamic financial market in recent years has been remarkable, but this market has faced growing pains in terms of the struggle with Shari'ah-compliance of its products. A major criticism of Islamic financial products has been their resemblance to conventional financial products. This article explores the developments in the Islamic financial market in regard to equity-based sukuk structures, the sukuk al-mudarabah in particular. It shows how a Resolution of the Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI) has influenced the legal structural features of equity-based sukuk structures and discusses recent attempts to issue equity-based sukuk structures that are in line with the AAOIFI Resolution. Through a discussion of several offering circulars, the Islamic legal framework of these products will be clarified, showing the different structural and legal mechanisms the architects of these products can acquire when structuring these transactions.",
+    "source": "LAW AND FINANCIAL MARKETS REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

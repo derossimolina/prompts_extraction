@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1147-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Concept of the Result of Crimes in Law Number 8 Year 2010 on the Prevention and Eradication of Money Laundering; [KONSEP HASIL TINDAK PIDANA DALAM UNDANG-UNDANG NOMOR 8 TAHUN 2010 TENTANG PENCEGAHAN DAN PEMBERANTASAN TINDAK PIDANA PENCUCIAN UANG]",
+    "authors": "Nurhadi S.; Rodliyah; Hamzah A.S.",
+    "year": "2019",
+    "doi": "10.29303/ius.v7i1.607",
+    "abstract": "This research aim is to analyse the concept of the result of related crimes in Law Number 8 Year 2010 on the Prevention and Eradication of Money Laundering, this is because many opportunities for the criminal offenders to laundering the money in conducting the money laundering in many sectors. This research is juridical-normative which applied statute and conceptual approaches. Based on the research result, it can be concluded that there are several sectors that produces wealth that originated from other crimes which threatened with four years or more imprisonment i.e in the sectors of Industrial Design, Patent, Trademarks and Geographic Indication, Copyrights, Wakaf, Information and Electronic Transaction, Manpower, Health, Financial, Mining, the Resinous Warehouse, Aviation and the use of Fake Identity. © 2019, Mataram University Faculty of Law. All rights reserved.",
+    "source": "Jurnal IUS Kajian Hukum dan Keadilan"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

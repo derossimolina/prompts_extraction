@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2517-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "WHAT ARE BUSINESS MODELS? DEVELOPING A THEORY OF PERFORMATIVE REPRESENTATIONS",
+    "authors": "Perkmann, M; Spicer, A",
+    "year": "2010",
+    "doi": "10.1108/S0733-558X(2010)0000029020",
+    "abstract": "Despite a rich extant literature, it is unclear what business models are. We assess three dominant conceptions of business models in the academic literature: as transactional structures, value extracting devices, and mechanisms for structuring the organization. To overcome the shortcomings of these approaches, we draw on theories of performativity, social typecasting, and managerial cognition. We propose an alternative conception of business models as performative representations that work in three ways: as narratives that convince, typifications that legitimate, and recipes that guide social action. Rather than actual features of firms, business models are representations that allow managers to articulate and instantiate the value of new technologies.",
+    "source": "TECHNOLOGY AND ORGANIZATION: ESSAYS IN HONOUR OF JOAN WOODWARD"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

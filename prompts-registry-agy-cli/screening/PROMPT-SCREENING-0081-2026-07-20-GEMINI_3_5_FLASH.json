@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0081-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Cost and Benefit Analysis of AML Implementation from International and National Perspectives: De-risking and Distribution of the Cost of Compliance",
+    "authors": "Otudor L.; Bagheri M.",
+    "year": "2025",
+    "doi": "",
+    "abstract": "Given robust and stringent regulations and intertwined national and international jurisdictions, the war against money laundering is far from won. Inherent in this epidemic is the disproportionate cost of regulatory compliance, which is overlooked and taken for granted. To avert or shift this cost and without regard to third-party infringements, banks end up de-risking or shifting the cost of compliance to their customers. The article presents an economic analysis of AML by delving into the compliance matrix. How has compliance evolved, and who bears the cost of compliance generally and internationally, with the involvement of many jurisdictions, banks and divergence of interests? How effective has compliance been? Without a fair and just framework for the allocation of the costs of compliance, any regulatory structure and compliance strategy and plan could be bypassed, leaving a regulatory gap. This raises a fundamental question on the extent to which banks, their shareholders, or their customers (through de-risking or assuming the cost) should absorb the cost of compliance. This analysis of existing literature produces recommendations for reconsidering the enforcement approach by tackling the underlying cost issue. An AML regime that cushions the cost of compliance at the national and international level will ensure that regulatory risk and anxiety associated with providing financial services to peripheral customers are limited, thereby supporting financial inclusion and integrity within the national and global financial spheres. Through regulatory cooperation, a more efficient, effective, and just enforcement of national and international AML standards could emerge. ©2025 Kluwer Law International BV, The Netherlands.",
+    "source": "European Business Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0654-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Control of Trading Gold in Investment Gold in the Republic of Poland: Conditions and Fundamental Dilemmas",
+    "authors": "Ofiarski Z.",
+    "year": "2023",
+    "doi": "10.15290/bsp.2023.28.02.12",
+    "abstract": "Investment gold and foreign-exchange gold are special forms of gold in legal terms. The adoption of such a status is related to the regulation of the legal and factual circulation of gold and the performance of financial control in this regard, which at various stages of trading takes the form of tax, customs and fiscal or foreign-exchange control. The rules and procedure for controlling gold trading are regulated by the provisions of tax, customs, banking and foreign-exchange law. The aim of this study is to analyze and evaluate the applicable provisions of EU and national law regulating the scope of the regulation of gold trading and its control by tax, customs and fiscal authorities and the National Bank of Poland. The essence and application of the most important control instruments are presented, which are individual foreign-exchange permits, notification of the intention to transport gold across the state border, and special records and public registers kept by entrepreneurs. The hypothesis about the basic objectives (ensuring the safety of trading and preventing money laundering offenses) and additional purposes (collecting statistical data necessary to construct the assumptions of the state monetary system, tightening the tax system) of gold-trading control was positively verified. The research primarily used the dogmatic-legal method, and a complementary historical-legal method was used to present the main directions of the evolution of legislation in the field of regulating gold trading. © 2023 Zbigniew Ofiarski, published by Sciendo.",
+    "source": "Bialostockie Studia Prawnicze"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1251-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A causal model of the declaration intention of banks for suspected money-laundering transactions based on organizational commitment perspective",
+    "authors": "Chan T.-E.; Chan Y.-H.; Lin S.-P.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-12-2019-0098",
+    "abstract": "Purpose: Anti-money laundering has attracted much global attention, driving banks to invest in the establishment of suspicious transaction report mechanisms for the declaration of suspicious transactions. However, very few studies discuss how to influence bank employees to proactively declare suspicious transactions. Therefore, the purpose of this study is to, based on an organizational commitment perspective, establish a causal model that can assist banks to identify key factors affecting the intention to declare suspicious transactions. Design/methodology/approach: This study first summarized five factors – regulatory focus, organization climate, situational constraints, personality traits and role stress – and their composition constructs as the basis for measurements. An interview-based survey of nine Taiwanese banks was conducted. Then, this study adopted the decision-making trial and evaluation laboratory method to analyse the interplay between the five factors to identify the causal model and to explore the differences in the effects of the key factors, arising from the different organizational and job patterns, on the intention to declare suspicious transactions. Findings: The results show that regulatory focus and organizational climate are the most important causal factors affecting employees’ intention to declare suspicious transactions, whereas role stress and personality traits are the most influenced effect factors. In addition, this study also confirmed that under different organizational and job patterns, the understanding of employees will change. Originality/value: This paper provides insight into the interplay between the five factors based on an organizational commitment perspective. The findings can assist banks in managing and monitoring the implementation of the suspicious transaction report mechanism. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

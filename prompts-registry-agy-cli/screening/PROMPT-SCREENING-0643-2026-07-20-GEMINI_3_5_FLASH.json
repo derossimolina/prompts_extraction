@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0643-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International regulations on money laundering: beyond the directives of the European Union; [Normativa internacional sobre el blanqueo: más allá de las directivas de la Unión Europea]",
+    "authors": "Quinzán Y.G.",
+    "year": "2023",
+    "doi": "10.5281/zenodo.10391905",
+    "abstract": "Apart from the directives of the European Union (\"EU\") on the prevention and suppression of money laundering, although these fundamentally include the content of the documents analysed here, this article studies the main regulatory instruments that have marked the evolution in the treatment of money laundering on the world stage. Within the framework of a global and harmonizing policy aimed at fully protecting the legal economy and financial systems, the first documents in the 1980s configured the position of banks in the face of suspicious money laundering operations. However, it has been the subsequent regulations, such as the United Nations Convention on Drugs, the activities of the Council of Europe or the 40 Recommendations of the Financial Action Task Force (\"FATF\"), which have substantially determined the investigative measures and of a criminal nature adopted at present, a reason that justifies the examination of international texts on the matter. Likewise, in line with the study of the FATF standards, other points related to the aforementioned organization are addressed, such as its disputed democratic legitimacy, the methods used to implement its guidelines in the various states and the true operation of soft law to achieve a harmonized regulation of money laundering. © Cadernos de Dereito Actual Nº 22.",
+    "source": "Cadernos de Dereito Actual"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

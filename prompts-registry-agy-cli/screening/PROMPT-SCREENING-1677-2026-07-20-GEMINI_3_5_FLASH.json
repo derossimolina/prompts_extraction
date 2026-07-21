@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1677-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A computer-based participatory model for customization in the UAE housing market",
+    "authors": "Eid Mohamed B.; Elkaftangui M.; Farouk S.",
+    "year": "2017",
+    "doi": "10.1108/JEIM-01-2016-0016",
+    "abstract": "Purpose: The purpose of this paper is to propose a novel framework and a systematic group of methodologies for constructing a computer-based design system that could support homebuyers’ participation in the design of their dwellings in the UAE housing market. Design/methodology/approach: In order to construct the framework, the paper first presents an overview of current applications of mass customization in the realm of architecture, with focus on successful models in North America. Second, the authors analyze the housing market in the UAE, focusing on challenges and opportunities. This leads to structuring the proposed advanced configuration system based on ideas of technology transfer from other industries. Finally, the profile matching model emerges as a logical consequence of the proposed advanced configuration model. Findings: The analysis of the UAE real estate market reveals interesting growth that encourages application of cutting-edge technologies not just in construction methods, but also in new modes of integrating homebuyers in a participatory dialogue for a sustainable outcome. Within the study, the authors call for new roles, digital design and information management technologies can play to enable participatory design. Additionally, the authors propose a new business model that requires extensive studies of the market, and buyers/developers behavior. Research limitations/implications: The framework proposed in this paper is considered generic and flexible. It raises various issues regarding its applicability, specifically with regard to market readiness. One of the first challenges is possibility of gathering precise data about the housing market in UAE to measure its size and readiness. Additionally, there are also challenges in finding focused developers and builders that are ready to engage in a dialog toward adopting mass customization as a business model. Practical implications: Mass customization implies adopting a flexible, technology-oriented business model. This raises multiple implications: developing configuration systems, the number of design alternatives has to be limited to three or four options in order to avoid additional overhead cost; implementing a digital platform for customization requires investment in tools, systems, and accordingly operators. Higher cost associated with mass customization occur both in sales and customer interaction as well as in manufacturing; and conducting a financial framework for implementing the proposed system requires intensive market studies which is considered challenging. Originality/value: The proposed framework derives its novelty by analyzing mass customization theories, technological enablers, various research endeavors in housing, and currently adopted online marketing and sales strategies in the UAE housing market. The implementation of the proposed system would represent a mile stone in the UAE housing market, being capable of redefining the process through which homebuyers, architect, and housing and developers communicate. © 2017, © Emerald Publishing Limited.",
+    "source": "Journal of Enterprise Information Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

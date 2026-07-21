@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0192-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cracking the Code: Investigating the Hunt for Crypto Assets in Money Laundering Cases in Indonesia",
+    "authors": "Nelson F.M.; Prosperiani M.D.; Ramadhan C.R.; Andini P.P.",
+    "year": "2024",
+    "doi": "10.15294/jils.vol9i1.4534",
+    "abstract": "This study aimed to investigate the use of digital information and communication technology in the form of crypto assets as proceeds of crime in money laundering action, due to the multi-layered security of the blockchain. This phenomenon was presented on a global scale in transnational crimes, providing challenges for Indonesian law enforcement officials in hunting the crypto assets scattered outside its legal jurisdiction. The results showed that Police Investigators and General Prosecutors utilizing penal and non-penal approaches in performing the crypto assets tracing, seizing and recovering, which shows the importance of maintaining formal and informal cooperation with other countries through the Financial Intelligence Units (FIUs) and Interpol, besides developing domestic regulations in controlling the crypto assets physical trading. Due to legal uncertainty of storing and releasing crypto assets, the investigators and the prosecutors faced disagreement in determine the procedures, which then affected the asset recovery process of Indra Kesuma case. This study proposed potential models for effective management on confiscated crypto assets that law enforcement officials could adopt in recovering these assets such as seizure orders, confiscation orders, and pre-confiscation sale. This was a legal study conducted by collecting data through literature reviews and interviews. © 2024 Authors.",
+    "source": "Journal of Indonesian Legal Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

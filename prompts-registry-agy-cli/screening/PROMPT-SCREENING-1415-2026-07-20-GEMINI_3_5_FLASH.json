@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1415-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Firm equity investment decisions and U.S. GAAP and IFRS consolidation control guidelines: An empirical analysis",
+    "authors": "Beck A.K.; Behn B.K.; Lionzo A.; Rossignoli F.",
+    "year": "2017",
+    "doi": "10.2308/jiar-51657",
+    "abstract": "It is asserted in the literature that rules-based accounting standards leave room for transaction structuring and that numerous accounting scandals have been linked to companies structuring transactions to avoid bright-line rules. Prior research suggests that bright-line accounting standards motivated companies to avoid the equity method or consolidation accounting by keeping their equity ownership percentages below the key thresholds of 20 percent and 50 percent. However, in recent years, much has changed regarding U.S. GAAP and IFRS principles, especially in terms of the guidelines surrounding business combinations and the concept of control. Now, given the similarity of the U.S. GAAP and IFRS equity investment accounting standards and their more recent emphasis on the control concept, one would not expect either U.S. GAAP or IFRS firms to engage in transaction structuring behavior, holding concentrated ownership percentages at, or right below, 50 percent. Our study extends prior research by investigating whether this phenomenon (of investment percentages being concentrated right at 50 percent or just below) exists in today’s FASB and IASB reporting environments and if so, why? Using ownership data from 2004–2008, we investigate whether firms engage in strategic investment behavior in the vicinity of the 50 percent ownership threshold within the U.S. GAAP and IFRS reporting environments. Interestingly, our univariate results indicate that despite a shift in the accounting standards to a more principles based definition of control, U.S. GAAP-compliant and IFRS-compliant companies continue to behave in a manner indicative of purposeful transaction structuring around the 50 percent threshold, as evidenced by an unusually heavy concentration of investment at or below 50 percent. This finding could mean that U.S. GAAP- and IFRS-compliant companies (and their auditors) are continuing to anchor to the old bright-line guidance regarding consolidation accounting. We supplement our univariate tests with a regression analysis to examine potential incentives that could explain this investment behavior. We find that leverage has a significant positive marginal effect—increased leverage is associated with a greater likelihood of choosing to keep the investment level at or below 50 percent. © 2017, American Accounting Association. All rights reserved.",
+    "source": "Journal of International Accounting Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

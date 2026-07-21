@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0890-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An Exploration of Selected Anti-Money Laundering Role-Players in Zimbabwe H CHITIMIRA, E TORERAI & VLM JANA PER / PELJ 2024(27)",
+    "authors": "Chitimira H.; Torerai E.; Jana V.L.M.",
+    "year": "2024",
+    "doi": "10.17159/1727-3781/2024/v27i0a19030",
+    "abstract": "Although Zimbabwe has established several institutions to combat money laundering and related crimes, there is a perception that inadequate measures are taken to apprehend offenders responsible for financial crimes. Institutions such as the Financial Intelligence Unit (FIU), the Zimbabwe Anti-Corruption Commission (ZACC), the Zimbabwe Republic Police (ZRP), the National Prosecuting Authority (NPA) and the Reserve Bank of Zimbabwe (RBZ) have done little to prove that the government of Zimbabwe is resolute in combatting money laundering. On the contrary, it increasingly appears that these institutions are poorly equipped and lack the necessary capacity to enforce and uphold anti-money laundering (AML) measures in Zimbabwe. Further, there appears to be a selective application of the law, with one set of rules for individuals or institutions that are perceived as political adversaries of the incumbent establishment and a different set of rules for the political elite. Consequently, the selective application of the law projects Zimbabwe as a jurisdiction that is somehow tolerant to money laundering, corruption and related financial crimes, thereby lowering and tarnishing the standing of the country in the global economic community of nations. This paper provides a regulatory analysis of the AML role-players in Zimbabwe in order to assess their functions in combatting financial crimes. It also analyses whether these role-players are effective and substantively executing their responsibilities therein. The authors argue that while Zimbabwe is well able to effectively combat money laundering through the even application of the law to all persons regardless of their political or economic standing, it is imperative that its AML institutions operate without fear, favour or prejudice. This is crucial in combatting money laundering and instilling confidence in the general public's perception of AML institutions in Zimbabwe. © 2024, North-West Unversity. All rights reserved.",
+    "source": "Potchefstroom Electronic Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

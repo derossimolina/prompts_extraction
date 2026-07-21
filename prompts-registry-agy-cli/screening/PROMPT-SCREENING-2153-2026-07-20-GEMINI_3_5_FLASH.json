@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2153-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "City of secrets: Drugs, money and the law in Hong Kong",
+    "authors": "Gaylord M.S.",
+    "year": "1997",
+    "doi": "10.1023/A:1008266402301",
+    "abstract": "This paper describes Hong Kong's first successful money laundering case, including the key role played by the local subsidiary of the now-defunct Bank of Credit and Commerce International (BCCI). Hong Kong is revealed to be the organizational and financial linchpin of a heroin smuggling syndicate stretching from Southeast Asia's Golden Triangle to New York City. In addition, the paper analyzes the development of anti-money laundering legislation in Hong Kong and evaluates the former British colony's prospects for remaining East Asia's premier offshore finance center following the territory's return to Chinese sovereignty on July 1, 1997. © 1997 Kluwer Academic Publishers.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

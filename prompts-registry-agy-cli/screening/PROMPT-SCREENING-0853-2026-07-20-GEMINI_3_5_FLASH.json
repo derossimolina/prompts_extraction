@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0853-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "De-banking v Good Faith: Doctrinal Assessment of Bank’s Interests when Terminating Payment Account Without Customer’s Consent in the View of EU and Latvian Law",
+    "authors": "Jelisejevs A.",
+    "year": "2023",
+    "doi": "10.1007/s10991-023-09324-y",
+    "abstract": "As an element of the author’s suggested “good faith-based approach,“ this paper continues his doctrinal research to assess the conflicting interests of counterparties when banks close accounts unilaterally. It now focuses on the banks’ side and shows that while the bank’s interest in refusing contractual relations with problem customers is to maintain its business profitability, society is interested in ensuring financial inclusion for these customers and preventing money laundering and terrorist financing. This interest includes the ability of a banking system to generate crime-combating intelligence. In this context, the legitimate public interest requires restricting this right of a bank by means to control its enjoyment which may be produced by tools of the good faith tenet being proportional, permissible and the least intrusive measure to strike a fair balance between general and private interests. These restrictions require a bank to seek to maintain account contractual relations with commercially less attractive customers if it can satisfy its obligations under the AML/CTF/sanction regulations. Besides, this examination evinces that such banks’ behaviour is against the principle of pacta sunt servanda and could not be justified by banks’ freedom to conduct business at their discretion. This analysis inherently applies to any national legal system transposing EU rules concerning this issue, but its ground refers to Latvia’s legislation, legal doctrine, and case law. Since these are global trends, it is also useful in other jurisdictions adjusted for the relevant shades of each law frame. © 2023, The Author(s), under exclusive licence to Springer Nature B.V.",
+    "source": "Liverpool Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

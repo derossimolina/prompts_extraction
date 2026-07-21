@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0535-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dividend decisions in family businesses: A systematic review and research agenda",
+    "authors": "Molly V.; Michiels A.",
+    "year": "2022",
+    "doi": "10.1111/joes.12460",
+    "abstract": "Dividend policy in family businesses has been studied in multiple disciplines within the past two decades. Despite strong growth in this research, both contradictory findings and research gaps were found. This study systematically reviews 47 articles on dividend decisions in family businesses, published between 2001 and 2020 in a wide variety of finance, economics, and management journals. Based on a comprehensive analysis, we provide an overview of the current state in family business literature structuring theoretical thinking on dividend decisions. In addition, we offer a research agenda for the future, containing specific suggestions on research questions, theoretical integration, sampling, and study design. This way, we articulate and spotlight areas where family business and finance scholars may most fruitfully direct their attention, which will in turn advance our knowledge of dividend decisions in family businesses. © 2021 John Wiley & Sons Ltd.",
+    "source": "Journal of Economic Surveys"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

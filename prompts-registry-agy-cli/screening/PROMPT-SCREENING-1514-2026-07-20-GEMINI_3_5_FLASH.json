@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1514-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Informal health and education sector payments in Russian and Ukrainian cities: Structuring welfare from below",
+    "authors": "Morris J.; Polese A.",
+    "year": "2016",
+    "doi": "10.1177/0969776414522081",
+    "abstract": "This article presents Russian and Ukrainian ethnographic case studies on informal payments in state health and education sectors. Overviews of post-socialist transformation can conflate daily informal payments to bureaucrats made by citizens with high-level political corruption. Micro-study analyses frame informal payments within a binary of ex-ante ‘insurance’ or ex-post ‘gratitude’, embedded within an economistic transactional frame. In contrast, this article takes a ‘social function’ approach, examining transactions for what they reveal about parties’ evaluations of personhood, both of the giver and receiver. Street-level bureaucrats and citizens engage in socially grounded negotiation whereby payment is assessed within a needs–means spectrum. The more needy, the smaller the payment; the greater the means, the greater the payment. This is an efficacy-affective form of redistribution and welfare functioning against a backdrop of the dysfunctional state’s refusal to act as social welfare guarantor. It reveals a degree of structuring from below of the qualitative intervention by the state in the lives of citizens, even as distrust and despair in post-socialist societies due to the retreat of the state from its duties towards citizens reach ever higher levels. © The Author(s) 2014.",
+    "source": "European Urban and Regional Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

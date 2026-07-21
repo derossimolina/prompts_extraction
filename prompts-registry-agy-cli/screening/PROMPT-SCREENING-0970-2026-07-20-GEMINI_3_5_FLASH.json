@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0970-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Analytical methods for assessing and forecasting financial standing of credit institutions",
+    "authors": "Beketnova Y.M.",
+    "year": "2019",
+    "doi": "10.26794/2587-5671-2019-23-1-79-95",
+    "abstract": "The objective of the article is to propose a new approach to assessing and forecasting financial condition of credit institutions and to early detection of those that have high risks of license revocation. An integrated reliability index of credit institutions has been revealed by the method of the main components of the factor analysis. Credit institutions have been clustered by means of the k-average method. It has been established that acting credit institutions at a relatively small Euclidean distance from the mathematical expectation of credit institutions, liquidated at a given moment of time, bear potential risks of engaging in illegal activities, money laundering and terrorist financing. Constructed regression models allow forecasting deterioration of credit institutions by the nature of the change in the integrated reliability index. The author concludes that this approach makes it possible to identify potentially problematic credit institutions requiring appropriate measures from the Central Bank of the Russian Federation through prudential supervision functions. © 2018 Finance: Theory and Practice. All rights reserved.",
+    "source": "Finance: Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

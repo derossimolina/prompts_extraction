@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2328-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "INTERNATIONAL CORPORATE STRUCTURING OF SLOVAK COMPANIES USING TAX HAVENS",
+    "authors": "Istok, M; Kanderova, M; Kristofik, P; Scerba, K",
+    "year": "2019",
+    "doi": "10.7441/joc.2019.01.02",
+    "abstract": "Recently a trend has come about of transferring the registered offices of parent companies or their subsidiaries to jurisdictions often marked as tax havens worldwide. This trend can also be seen in Slovakia. Our main aim is to examine the possible links between criteria such as the NACE sector, the jurisdiction category, the size of share capital invested, ownership interests and the number of years from the start of business (company formation) to the year of transferring the registered office to the tax haven, and to justify the tendencies in behaviour from the subsidiaries point of view. The formulation of assumptions is based on the statements of corporate service providers (CSPs), which directly, partially or fully, help companies set up or restructure their international corporate structures by using tax haven jurisdictions. This survey is based on the available database of Slovak companies obtained from the databases of Bisnode Slovakia, ltd. We analysed the available data on 3,483 Slovak companies between 2005-2015 by using both graphical methods and statistical induction methods (mainly Fisher's exact test of independence) of randomly selected data from the entire database. Our results confirm that there is a statistically significant relationship between the jurisdiction category and three parameters: the NACE sector, ownership interests and the share capital. On the other hand, the relationship between the jurisdiction category and the period of transferring of registered office to tax havens has not been statistically confirmed.",
+    "source": "JOURNAL OF COMPETITIVENESS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

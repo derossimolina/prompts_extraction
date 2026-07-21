@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0266-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Protecting arts and antiquities through soft-law: The role of market players in preventing wrongdoings",
+    "authors": "Iannuzziello M.",
+    "year": "2025",
+    "doi": "10.1177/20322844251318947",
+    "abstract": "The essay aims at analysing the role that codes of ethics, codes of conduct and guidelines can play in the prevention of wrongdoings against cultural property, which may be committed in the art and antiquities market. To this end, the article briefly examines the criminological dynamic of offences in this market and the EU initiatives to protect cultural goods. This permits us to derive the space in which soft-law acts fit and to highlight the acknowledgement that self-regulation is gaining in EU initiatives. It then proposes cataloguing of codes of ethics, codes of conduct and guidelines according to the source that issued them, that is, institutions, museums and stakeholders. This seems to provide an interpretative and reconstructive key to the self-regulatory framework and allows for mapping the spread of soft-law by geographical area. The map shows a higher concentration of standard of practices in so-called market countries, underlining the connection between trade in cultural property and the spread of due diligence procedures. The core soft-law acts are artwork due diligence, customer/client due diligence and transaction due diligence. Some of these procedures (and the sanctions for their violation) are analysed according to the data-driven methodology. This survey allows emphasising the role that art market participants play in the prevention of wrongdoings against cultural property and those committed through cultural property, such as money laundering. An initial assessment of the soft-law makes it possible to recognise certain rules of conduct as the minimum standard in the relevant area, owing to the acknowledgement that they receive from public agencies and private actors. In conclusion, the validity of the cataloguing of codes of ethics, codes of conduct and guidelines by source and the role of art market participants in the protection of arts and antiquities seems to be demonstrated. © The Author(s) 2025.",
+    "source": "New Journal of European Criminal Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

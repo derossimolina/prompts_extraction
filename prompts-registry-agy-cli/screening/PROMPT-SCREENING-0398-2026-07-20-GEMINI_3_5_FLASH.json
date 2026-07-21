@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0398-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Problem of the Digital Ruble Adoption Among Russian Small Entrepreneurs: Choice, Enforcement, and Social Networks in the Social Construction of Trust",
+    "authors": "Makarov E.; Tikhomirov D.",
+    "year": "2024",
+    "doi": "10.17323/1726-3247-2024-4-163-186",
+    "abstract": "This paper explores the adoption process of the digital ruble among Russian entrepreneurs. The digital ruble, as a new currency, will be a direct liability of the Central Bank of Russia and will be technologically and informationally centralized around it. One of its significant features is its potential to diminish the role of private banks in the Russian financial system while increasing transaction transparency. To identify the mechanisms and incentives for adopting the digital ruble, we conducted twelve semi-structured interviews with small business owners in Russia who have experience with various payment systems. Our empirical findings reveal three main adoption mechanisms: choice, enforcement, and social network effects. The choice mechanism involves voluntary adoption based on the digital ruble’s perceived advantages, such as lower transaction costs and greater convenience compared to other payment systems. The enforcement mechanism reflects the influence of direct incentives or mandates from monetary authorities, such as legal requirements or wage policies. Social network effects describe the impact of a critical mass of users, which indirectly encourages entrepreneurs who might otherwise be hesitant to adopt the digital ruble. We contribute to the sociological literature by identifying and structuring these adoption mechanisms, bridging gaps between different theoretical perspectives. From a policy-making standpoint, we analyze the positive and negative aspects of the digital ruble and discuss its potential role in the Russian economy. We conclude by considering how digital monetary advancements, including central bank digital currencies like the digital ruble and cryptocurrencies, could influence trust in money and monetary concepts, posing new challenges for the social sciences. © 2024 National Research University, Higher School of Econoimics. All rights reserved.",
+    "source": "Ekonomicheskaya Sotsiologiya"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

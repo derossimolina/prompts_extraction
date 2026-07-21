@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1575-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Testing the interrelatedness of banking stability measures",
+    "authors": "Swamy V.",
+    "year": "2014",
+    "doi": "10.1108/JFEP-01-2013-0002",
+    "abstract": "Purpose – This study aims to investigate the inter-relatedness and the dynamics of banking stability measures and offers answers for some of the related issues such as does financial stability require the soundness of banking institutions, the stability of markets, the absence of turbulence and low volatility? and to what extent the soundness of banking sector in the case of emerging economies can help financial system stability. Design/methodology/approach – This study investigates banking stability by structuring a recursive micro panel vector auto regressive (VAR) model and corroborates the significance of the interrelatedness of the bank-specific variables such as liquidity, asset quality, capital adequacy and profitability by employing a robust panel data drawn from 56 leading banks for a period of 12 years. Findings – A significant contribution of this study is in establishing that liquidity in the banking-dominated financial system is reciprocally related with asset quality, capital adequacy, and profitability of the banking system and in effectively forecasting banking stability employing micro panel recursive VAR model. Research limitations/implications – The study could be further broadened by employing a macro and structural VAR modelling to forecast banking stability. Practical implications – This paper is one among the evolving body of literature that underscores the significant relationship between banking system resilience and financial stability in the context of emerging economies dominated with banking systems. Further, the forecast model is able to capture the dynamics of banking stability with greater and appreciable accuracy. Originality/value – The uniqueness of the study is in modelling banking stability measures in the context of banking-dominated emerging economy financial systems by employing micro panel recursive VAR model by deriving data from 58 leading banks for the period of 12 years from 1996 to 2009 and in offering insights in understanding financial stability with comprehensive literature review. © 2014, © Emerald Group Publishing Limited.",
+    "source": "Journal of Financial Economic Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

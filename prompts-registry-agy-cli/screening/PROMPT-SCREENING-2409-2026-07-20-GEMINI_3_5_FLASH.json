@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2409-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Domestic and international equity REIT Joint Ventures: Structuring corporate options",
+    "authors": "Campbell, RD; White-Huckins, N; Sirmans, CF",
+    "year": "2006",
+    "doi": "10.1007/s11146-006-6802-y",
+    "abstract": "We examine a sample of 185 Joint Ventures parented by publicly-traded Equity Real Estate Investment Trusts 1994-2001. These transactions are found to be motivated by a wide variety of corporate strategies. Shareholder returns for REIT parents are significantly positive, which is consistent with wealth effects previously reported for joint ventures formed by non-REIT real estate firms. In a subsample of joint ventures formed to structure partial dispositions of property, however, abnormal returns are significantly negative, which is consistent with the free cash flow theory of Jensen. REIT joint venture experience in Asia has been neutral for value, but may improve in the future if early ventures have created options for more efficient partnerships later.",
+    "source": "JOURNAL OF REAL ESTATE FINANCE AND ECONOMICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

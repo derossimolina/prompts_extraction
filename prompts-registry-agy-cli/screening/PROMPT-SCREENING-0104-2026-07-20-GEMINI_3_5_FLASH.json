@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0104-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal Support for Sustainable Development in Middle East",
+    "authors": "Gharaibeh Z.I.Y.",
+    "year": "2024",
+    "doi": "10.18280/ijsdp.190421",
+    "abstract": "The study is aimed at better understanding modern aspects of criminal law ensuring sustainable development in the Middle East in the context of combating financial fraud. The process of combating financial fraud has been proven to be key to achieving sustainable development in the Middle East. Combating financial fraud is a key element of ensuring the region's sustainable development, as financial crime can seriously undermine economic sustainability and confidence in the financial system. An effective criminal law response to financial fraud helps protect investments, consumers and businesses, which is vital to maintaining a healthy economic climate. In addition, the fight against financial crime enhances law and order in society, which is the basis for sustainable social and economic development. In addition, the main manifestations of financial fraud in the Middle East were identified. The object of the study is the system of criminal legal support for sustainable development in the Middle East. The research methodology involves the use of modern analysis methods, in particular, Multi-Criteria Decision-Making (MCDM) Method methodology. Based on the results of the study, key types of financial fraud affecting the criminal legal system for sustainable development in the Middle East were identified. The study is limited by the fact that a limited number of types of financial fraud were selected during the analysis process. In future studies, it is planned to expand the number of types of monetary fraud to analyze their effects for ensuring sustainable development. Copyright: © 2024 The author.",
+    "source": "International Journal of Sustainable Development and Planning"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

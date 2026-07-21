@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0243-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Constructing a typology of Cybercrime-Related money mule offenders: evidence from U.S. Federal court cases",
+    "authors": "Wang F.",
+    "year": "2025",
+    "doi": "10.1007/s12117-025-09582-4",
+    "abstract": "This study constructed a typology of money mule offenders involved in cyber-enabled financial crimes, drawing on 102 unique defendants sentenced at federal court level. Using court documents as primary data, this study identified five offender categories: passive fund handlers, active fund handlers, identity operators, network facilitators, and hybrid handlers. These categories reflected variations in offender autonomy, awareness, financial behavior, and engagement with laundering infrastructures within digital environments. In contrast to money mules associated with traditional crimes such as drug trafficking, who primarily transported physical cash outside the formal financial system, cybercrime-related mules facilitated the movement of illicit funds derived from online fraud, romance scams, and investment schemes through electronic transfers, cryptocurrency, and other digital payment systems. By systematically distinguishing these roles, the study advanced understanding beyond the conventional binary distinction between knowing and unknowing offenders and provided a practical framework for law enforcement, financial institutions, and policymakers to enhance detection, intervention, and regulatory responses to cyber-enabled laundering networks. The findings also offered directions for future research on offender trajectories, online laundering infrastructures, and typology-informed prevention strategies. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2025.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

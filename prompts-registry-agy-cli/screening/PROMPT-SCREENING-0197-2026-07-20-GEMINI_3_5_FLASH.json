@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0197-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Research on Countermeasures for the Governance of Virtual Currency Crimes in the Digital Economy Era",
+    "authors": "Liu X.; Liu Z.; Dong X.",
+    "year": "2025",
+    "doi": "10.21078/JSSI-2024-0046",
+    "abstract": "In the domain of data governance, crimes involving virtual currencies have emerged as an integral concern that cannot be overlooked. To address challenges such as the difficulty of evidence collection and the low probability of recovering stolen funds in virtual currency crimes, this paper proposes a new mechanism for the electronic storage and retrieval of evidence using blockchain technology, elaborating on its core steps and underlying technology. Moreover, from the perspective of virtual currency transaction intermediaries, this study employs game theory to analyze the issue, constructing replicator dynamics equations, solving for the Jacobian matrix, and exploring the direction of game evolution and the factors influencing the decision-making of the participants. This analysis demonstrates that the decision-making of virtual currency criminals is impacted by this electronic evidence mechanism, which can deter illicit intermediaries from assisting in money laundering activities, thereby reducing the feasibility of committing crimes with virtual currencies. Lastly, the paper offers policy recommendations to enhance the implement ability of the evidence storage and retrieval mechanism in regulating virtual currency crimes. © 2025, Science China Press. All rights reserved.",
+    "source": "Journal of Systems Science and Information"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

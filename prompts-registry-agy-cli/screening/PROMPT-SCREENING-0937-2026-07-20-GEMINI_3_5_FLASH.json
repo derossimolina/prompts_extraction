@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0937-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Beyond financial regulation of crypto-asset wallet software: In search of secondary liability",
+    "authors": "Barbereau T.; Bodó B.",
+    "year": "2023",
+    "doi": "10.1016/j.clsr.2023.105829",
+    "abstract": "Since Bitcoin, the blockchain space considerably evolved. One crucial piece of software to interact with blockchains and hold private-public key pairs to distinct crypto-assets and securities are wallets. Wallet software can be offered by liable third-parties (‘custodians’) who hold certain rights over assets and transactions. As parties subject to financial regulation, they are to uphold Anti-money Laundering and Combating the Financing of Terrorist (AML/CFT) standards by undertaking Know-Your-Customer (KYC) checks on users of their services. In juxtaposition, wallet software can also be issued without the involvement of a liable third-party. As no KYC is performed and users have full ‘freedom to act’, such ‘non-custodial’ wallet software is popular in criminal undertakings. They are required to interact with peer-to-peer applications and organisations running on blockchains whose benefits are not the subject of this paper. To date, financial regulation fails to adequately address such wallet software because it presumes the existence of a registered, liable entity offering said software. As illustrated in the case of Tornado Cash, financial regulation fails to trace chains of secondary liability. Alas, the considered solution is a systematic surveillance of all transactions. Against this backdrop, this paper sets forth an alternative approach rooted in copyright law. Concepts that pertain to secondary liability prove of value to develop a flexible, principles-based approach to the regulation of non-custodial wallet software that accounts for both, infringing and non-infringing uses. © 2023 Tom Barbereau and Balázs Bodó",
+    "source": "Computer Law and Security Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

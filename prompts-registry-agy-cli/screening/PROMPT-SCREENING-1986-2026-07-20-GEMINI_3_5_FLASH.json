@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1986-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Arson, Fiscal Crisis, and Community Action: Dialectics of an Urban Crime and Popular Response",
+    "authors": "Brady J.P.",
+    "year": "1982",
+    "doi": "10.1177/001112878202800205",
+    "abstract": "The article concerns arson and citizens' activism in Boston. The dimensions of the arson problem in the United States and the failure of law enforcement by government agencies are discussed, as part of an analysis of arson as an organized crime enterprise. Like other forms of racketeering, arson for profit typically involves recognizably “criminal” entrepreneurs and their underlings, as well as a network of corrupt officials in police and fire departments and insurance com panies. The greatest profits, however, are made by banks and “legit imate” real estate investors whose lending and development practices create the incentive for arson and yield the greatest benefits from land use conversion in the cities. Various forms of action by citizens have followed both the arson wave and the recent cutbacks in fire protec tion in major cities. The fragmented and contradictory nature of the sometimes explosive reaction points to the power of the political ma chine in Boston, as well as to larger race and class conflicts rooted in the capitalist urban economy. © 1982, Sage Publications. All rights reserved.",
+    "source": "Crime & Delinquency"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

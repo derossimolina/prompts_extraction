@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0258-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Monetary policy, prudential regulations and bank lending behaviour in Africa",
+    "authors": "Ofori-Sasu D.; Dzeha G.C.; Kusi B.A.; Agoba A.M.",
+    "year": "2025",
+    "doi": "10.1080/17520843.2023.2276613",
+    "abstract": "The study examines the effect of monetary policy and prudential regulations on bank lending behaviour in Africa. This study employs the Two-Stage Least Square (2SLS) estimation technique for a panel dataset of 54 African countries over the period, 2004–2021. The study finds that monetary policy and prudential regulations reduce bank lending and the impact is better in countries with a strong institutional environment. It provides evidence to affirm that monetary policy and prudential regulations provide a complementarity effect in yielding a desirable outcome for bank lending. © 2023 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Macroeconomics and Finance in Emerging Market Economies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

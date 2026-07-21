@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0501-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The dark side of blockholder control: evidence from financial statement fraud cases",
+    "authors": "Smaili N.; Arroyo P.; Issa F.A.",
+    "year": "2022",
+    "doi": "10.1108/JFC-05-2021-0113",
+    "abstract": "Purpose: The purpose of this study is to investigate whether large blockholders are associated with financial statement fraud at their companies. Although a substantial body of prior studies has focused on chief executive officers’ motivations to manipulate financial statements, the correlation between majority shareholders and financial statement fraud has received little attention. This paper aims to fill this gap by investigating whether the sample firms have controlling shareholders or executives (i.e. blockholders vs management) and whether financial statement fraud schemes, motivations and consequences differ between blockholder- and management-controlled firms. Design/methodology/approach: Using a clinical approach, the authors Study 12 Canadian financial statement fraud cases uncovered by the Ontario Securities Commission between 1997 and 2020. Findings: First, the authors find blockholder control in six cases. These findings infer that these large shareholders received private benefits at the expense of minority shareholders. The comparative analyzes suggest that fraudulent firms controlled by blockholders go bankrupt more often than those controlled by managers. The authors also find that improper disclosure is the most common fraud scheme in blockholder-controlled firms. Originality/value: The authors conduct a deep analysis of financial statement fraud cases to examine the of blockholder control on the likelihood of financial statement fraud. This paper adds new insights to the research on financial crime by investigating whether large shareholders affect the probability of fraud and the extent to which they might do so. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

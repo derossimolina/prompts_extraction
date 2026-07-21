@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0609-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of cryptocurrencies in business",
+    "authors": "Madakam S.; Mark S.; Lurie Y.; Revulagadda R.K.",
+    "year": "2023",
+    "doi": "10.1504/IJEF.2023.131771",
+    "abstract": "Cryptocurrency is a type of virtual or digital currency, which relies on a distributed ledger network (DLT) to combine the core ideas of cryptography with a monetary system to create an anonymous, traceable, secure, and potentially stable currency over the world. Cryptocurrency is organic in nature in a way that it is neither issued nor regulated by any central authority, which makes it immune to any interference from banking regulations. It has been credited with creating unprecedented changes in the economic world. This study comes under exploration analysis. The data is collected from the EBSCO database between March 25, 2020 and December 15, 2020. The prime objectives are to understand the system of cryptocurrency, its viability for industry, and try to foresee its future in the current business world. This manuscript elaborates different aspects of cryptocurrencies, starting from the history and their evolution over time, explaining how a cryptocurrency transaction system works, and its impact on our daily life business as well as economy. In addition, the manuscript covers issues related to the practical and technical functions. The article also describes the cryptocurrencies practices in India as well as worldwide. © 2023 Inderscience Enterprises Ltd.. All rights reserved.",
+    "source": "International Journal of Electronic Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

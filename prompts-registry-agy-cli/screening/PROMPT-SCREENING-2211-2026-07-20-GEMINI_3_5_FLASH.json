@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2211-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Getting narced: Neutralization of undercover identity discreditation",
+    "authors": "Jacobs B.A.",
+    "year": "1993",
+    "doi": "10.1080/01639625.1993.9967939",
+    "abstract": "“Communicative work directed to transforming an individual's total identity into an identity lower in the group's social types is called a ‘status degradation ceremony'” (Garfinkel 1956, p. 420). Status degradation ceremonies are particularly troublesome for undercover narcotics agents. In this context, they act as the mechanism by which agents’ dissembled identities are questioned and their real police ones revealed. This process, what officers call “getting narced,” is the topic of the present paper. Explored here are both its causes and the responses officers proffer to neutralize full identity exposure. Causes are tactical in nature and involve transactional overaggressiveness. Neutralization responses are dramaturgical in nature and involve sarcastic admission, evidential refutation, and belligerent denial/threatening retort. Discussion focuses on the conceptual implications of officers’ counteruncovering moves (Goffman 1969) as these relate to the sociology of accounts (Scott and Lyman 1968). Data were drawn from ethnographic interviews with 30 high school undercover officers operating out of a large U.S. city. © 1993 Taylor and Francis Group, LLC.",
+    "source": "Deviant Behavior"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

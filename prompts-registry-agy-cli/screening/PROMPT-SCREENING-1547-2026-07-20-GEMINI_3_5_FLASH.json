@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1547-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Government-led factors affecting the financing of PFI projects in Malaysia",
+    "authors": "Lasa Y.M.; Ahmad N.; Takim R.",
+    "year": "2017",
+    "doi": "10.1166/asl.2017.9868",
+    "abstract": "Limited resources in the public sector have initiated the Private Finance Initiative (PFI) involved in the provision of important public infrastructure. The financing is mostly through debt. However, obtaining financing has been difficult, mostly because the PFI possesses high risks associated with substantial capital, long-term concession period and intensive project cash flows during debt repayments. Besides, lack of government initiatives to encourage financial institutions’ participation in providing financing is also an obstacle for PFI development. Therefore, the objective of this research is to assess the government’s roles in enhancing the participation of financial institutions in financing PFI projects. This study highlights Malaysia’s PFI projects by focusing on government-led factors affecting the process of securing PFI project financing. A quantitative method of data collection using the questionnaire survey technique was adopted. Out of the 66 bank managers in Malaysia who received the questionnaire, 15 useable were processed for further analysis. The Relative Importance Index method was used to indicate the relative importance of government-led factors that affect the securing of PFI project financing. The overall results indicate that “well-defined government objective on PFI,” “clarity of government policy,” “PFI project is politically acceptable,” “government’s guarantee of revenue on the services provided,” and “government roles related to approvals and permits,” are the top five important factors that affecting financiers’ decisions on financing PFI projects. The work will be interest to host government while structuring the PFI to improve the current policy and future practices of PFI implementation. © 2017 American Scientific Publishers. All rights reserved.",
+    "source": "Advanced Science Letters"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

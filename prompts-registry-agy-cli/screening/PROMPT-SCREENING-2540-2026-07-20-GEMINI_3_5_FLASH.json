@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2540-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The topics of Islamic economics and finance research",
+    "authors": "Ghlamallah, E; Alexakis, C; Dowling, M; Piepenbrink, A",
+    "year": "2021",
+    "doi": "10.1016/j.iref.2021.04.006",
+    "abstract": "We provide a comprehensive structuring of research on Islamic economics and finance into the core topics of the area, for the period 1979 to 2018. This is carried out through a probabilistic topic modeling approach that allows statistical learning of the connection between research articles as well as their shared topics. This approach, which blends machine learning and natural language processing, helps provide a comprehensive structure to the literature. Our topic modeling analysis is conducted on approximately 1500 articles, and suggests the Islamic economics and finance literature can be well-described by 11 topics. These topics cover economic, finance, and morality issues. Our research can be applied to provide a clear structure for ongoing research agendas in Islamic economics and finance as well as a framework for understanding research development in this area. We also note the differences between Islamic and conventional approaches to economics and finance research in order to highlight the inherent new contributions of this maturing area of research.",
+    "source": "INTERNATIONAL REVIEW OF ECONOMICS & FINANCE"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

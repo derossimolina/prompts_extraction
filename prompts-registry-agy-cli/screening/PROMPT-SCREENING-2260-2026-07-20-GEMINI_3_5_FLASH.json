@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2260-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Under construction: Trusts, trust-like structures, foundations and beneficial owners registries in the European Union-The Czech perspective",
+    "authors": "Ronovská, K; Pihera, V",
+    "year": "2021",
+    "doi": "10.1093/tandt/ttab044",
+    "abstract": "Searching for a comprehensive EU policy on preventing money laundering, terrorist financing and abuse of the international financial system will be a hot topic in the EU for the next couple of years. Directive (EU) 2018/843, known as the 5th Anti-Money Laundering Directive, follows the trend set by the 4th AML Directive in 2015 and inter alia introduces new requirements concerning the extent to which trust structures must be registered in the beneficial ownership registries across the EU as well as the public accessibility of the information held in such registries. This article addresses the main problematic issues that have appeared in recent professional discussions in the Czech Republic in connection with the new UBO Registry Act, in effect from 1 June 2021.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

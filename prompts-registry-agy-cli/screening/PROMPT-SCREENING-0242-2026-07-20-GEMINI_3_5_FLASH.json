@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0242-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A tale of two jurisdictions: Contrasting cryptocurrency regulations in Hong Kong and the United Kingdom",
+    "authors": "Burgess T.; Liu J.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2025.100150",
+    "abstract": "This article examines the regulatory approaches of Hong Kong and the United Kingdom (UK) towards cryptocurrencies, highlighting their distinct regulatory philosophies and frameworks. Hong Kong has adopted a comprehensive and proactive regulatory approach, creating a dual-licensing regime for virtual asset trading platforms covering security and non-security tokens and tailoring the existing licensing framework under the Securities and Futures Ordinance to risks in managing and distributing portfolios that invest in virtual assets. This measured approach prioritises investor protection, market integrity, and financial crime prevention while fostering an innovation-friendly environment. Conversely, the UK has taken a conservative stance, integrating cryptocurrency regulation into existing financial systems and prioritising stability, consumer protection, and control over speculative risks. The UK's framework emphasises Anti-Money Laundering and Counter-Terrorism Financing compliance, registration for crypto-related activities, and restrictions on high-risk products for retail investors. Through comparative analysis, this article illustrates how both jurisdictions balance regulatory oversight with financial innovation and how their regulatory strategies reflect their economic and financial priorities. The findings suggest that Hong Kong's flexible, forward-looking approach, characterised by dedicated licensing, proactive regulation, and tailored investor protection, positions it as an agile player in the evolving crypto landscape. In contrast, the UK's framework leans heavily on stability and consumer safeguards. Ultimately, Hong Kong emerges as a rising Asian crypto hub, embracing growth and innovation, while the UK focuses on reinforcing its regulatory defences. This comparison sheds light on how regional priorities shape cryptocurrency regulation, offering insights into the broader global regulatory landscape. © 2025",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

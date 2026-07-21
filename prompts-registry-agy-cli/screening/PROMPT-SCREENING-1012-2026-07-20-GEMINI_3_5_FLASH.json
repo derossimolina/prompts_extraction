@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1012-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "More than Metaphor: Settler Colonialism, Frontier Logic, and the Continuities of Racialized Dispossession in a Southwest U.S. City",
+    "authors": "Launius S.; Boyce G.A.",
+    "year": "2021",
+    "doi": "10.1080/24694452.2020.1750940",
+    "abstract": "Human geographers have long noted the colonial tropes and frontier imaginaries used to stimulate investment and normalize predatory property speculation within North American cities. Drawing on the insights of indigenous scholars and theorists of settler colonialism, in this article we argue a need to move beyond an analogical deployment of the “frontier” as a mere trope or imaginary and suggest that in settler colonial contexts, like the United States, the frontier and its structuring logic remain an ongoing feature of racial governance and capital accumulation over time. To develop this argument, we examine a genealogy of multiple and heterogeneous cycles of colonization, dispossession, and resistance in Tucson, Arizona. Attending to the racial and racist violence that shapes this history, we consider how the devaluation of nonwhite territorial and economic relations consistently structures urban real estate markets, driving the ongoing displacement and dispossession of communities of color. Viewing the frontier as a structuring logic of racial capitalism (rather than a symbolic motif or metaphorical condition) helps to explain why these racial patterns of dispossession can be observed as a hallmark outcome of processes of gentrification in settler countries like the United States. Meanwhile, through our case study we show how grassroots actors already are using the language of settler colonialism as a framework for naming and analyzing those outcomes just described, indicating a need for greater theoretical work that engages with these grassroots framings and narratives. © 2020 by American Association of Geographers.",
+    "source": "Annals of the American Association of Geographers"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

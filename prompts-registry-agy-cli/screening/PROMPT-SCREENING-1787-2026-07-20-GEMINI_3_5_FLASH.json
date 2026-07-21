@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1787-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial surveillance: Who cares?",
+    "authors": "Amicelle A.; Favarel-Garrigues G.",
+    "year": "2012",
+    "doi": "10.1080/17530350.2012.640560",
+    "abstract": "While critical academic studies on financial surveillance blossom, they hardly pay attention to the critical capability of those who are involved in the implementation of anti-money-laundering/countering terrorist financing (AML/CTF) policy. In this paper the authors attempt precisely this analysis of existing mobilizations which contest the everyday implementation of AML/CTF standards. Which practices are at stake? Who are the actors involved in denunciation? Which argumentation is used? What are the normative positions from which actors raise criticism? Are denunciations shared by a wider public or do they remain sector-specific? This paper brings together empirical results from research conducted separately by the two authors on, respectively, the gradual institutionalization of the role of banks in anti-money-laundering efforts in France and Switzerland and European measures against terrorist financing. © 2012 Taylor and Francis Group, LLC.",
+    "source": "Journal of Cultural Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

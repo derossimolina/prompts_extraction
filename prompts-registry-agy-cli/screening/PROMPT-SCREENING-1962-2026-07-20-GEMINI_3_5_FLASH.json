@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1962-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The return of the property question in the development of Alpine tourist resorts in Switzerland; [Le retour de la question foncière dans l'améanagement des stations touristiques Alpines en Suisse]",
+    "authors": "Clivaz C.; Nahrath S.",
+    "year": "2010",
+    "doi": "10.4000/rga.1198",
+    "abstract": "This contribution demonstrates how the issues and current problems regarding real estate management in Swiss Alpine tourist resorts emerge, for an important part, from the inconsistencies of the Federal land management system set in place at the end of the 1970s, system based on zoning scheme and excluding virtually any estate instrument, including the capital-gain levy. In these very favourable conditions for landowners, who also see land ownership strengthened by its introduction in the Federal Constitution at the end of the 1960s, the \"growth coalitions\" structuring the local power in many tourist towns usually planned oversized building areas (and often badly located) which have facilitated the development of second homes industry to the detriment of productive estate home industry. Faced with the failure of planning and zoning to limit these trends whose negative effects on the development of tourism seriously begin to be felt in the 1990s, we encounter, now in recent years, the post-eradication of the real estate question in discussions concerning the development of tourist resorts particularly in implementing real estate instruments, such as quota systems, moratoriums or taxes, intervening so much more directly than only zoning on land and real estate owners, contingency arrangements initially excluded from spatial planning policy. © Journal of Alpine Research.",
+    "source": "Revue de Geographie Alpine"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0792-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE APPLICATION OF PROMISE (WA‘D) IN ISLAMIC BANKING CONTRACTS IN MALAYSIA: A MASLAHAH PERSPECTIVE",
+    "authors": "Yaakub F.; Buang A.H.",
+    "year": "2024",
+    "doi": "10.32890/ijbf2024.19.1.2",
+    "abstract": "The concept of promise in Islamic banking contracts is a novel tool that has been introduced as a result of recent advancements. Wa’d has grown in popularity in recent years because it provides great flexibility. It was primarily developed by Malaysia’s Islamic banks for product structuring. However, there are issues arising from this principle, which is considered to be against Shariah and merely intended to preserve the bank’s interests, which is of course, contrary to Maqasid al-Shariah. The purpose of this study is to look into the significance of the promise concept in Islamic banking contracts, taking into account the maslahah and mafsadah principles recommended in Maqasid al-Shariah. The study uses a qualitative approach as it allows a more in-depth understanding of the subject matter. Data were gathered using published literature and information from the official website of Bank Negara Malaysia (BNM). A semi-structured interview was conducted with three Shariah experts from the Shariah Advisory Council of Bank Negara Malaysia (SACBNM) and two industry practitioners from Bank Islam Malaysia Berhad (BIMB) and Maybank Islamic Berhad (MIB). The data obtained was analysed using the content analysis approach. In sum, the examination of Islamic law sources and discussions with Islamic scholars revealed that the use of the principle of promise in Islamic banking transactions can benefit the micro and macro economy. The concept of promise in Islamic banking contracts can benefit both customers and Islamic banks, particularly in terms of meeting consumer needs, generating profit for Islamic banks, as well as contributing to the country’s development (maqasid kulliyah). © 2024, Universiti Putra Malaysia Press. All rights reserved.",
+    "source": "International Journal of Banking and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

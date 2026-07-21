@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1651-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The semantic production of space: Pervasive computing and the urban landscape",
+    "authors": "Kelley M.J.",
+    "year": "2014",
+    "doi": "10.1068/a46177",
+    "abstract": "This paper suggests that as pervasive computing technologies have gained purchase in urban space they have also become more implicitly blended with everyday life and more contingent on information that is inductively compiled from Internet-based data services. It is argued that existing theorizations of the technologically mediated production of urban must engage with the increasingly implicit nature of informational transactions as well as the emergent semantic structuring of information. Drawing on examples of ongoing pervasive computing projects, implicit computing procedures are explored in relation to the mediation of everyday urban life. Literatures from computing science and geographical theory are brought into conversation in order to examine the consequences of a convergence between implicit pervasive technologies and the spaces of everyday life. © 2014 Pion and its Licensors.",
+    "source": "Environment and Planning A"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

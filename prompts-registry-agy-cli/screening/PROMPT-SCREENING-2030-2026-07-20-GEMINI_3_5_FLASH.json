@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2030-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Innovation in the structuring of Islamic sukuk securities",
+    "authors": "Wilson R.",
+    "year": "2008",
+    "doi": "10.1108/08288660810899340",
+    "abstract": "Purpose – The purpose of this paper is to provide an analysis of different sukuk structures from a financial perspective. This examination includes murabahah and ijara-based sukuk, the former offering a fixed return, and the latter, the most popular form of sukuk, a variable return. The potential for other more novel sukuk structures based on musharakah partnership contracts is also examined, and sukuk pricing issues are explored using alternative benchmarks to London Inter-bank Offer Rate. Design/methodology/approach – Flow charts are used to illustrate the financial transfers and the rights and obligations of sukuk investors as well as the beneficiaries of the funding. Historical data have used to assess whether the payments flows are more stable in the case of sovereign sukuk where the returns are based on gross domestic product (GDP) growth rather than interest. Findings – The paper finds that special purpose vehicles are a prerequisite for the successful issuance and management of sukuk. The use of GDP-based pricing benchmarks would have resulted in greater payments stability for sovereign debt in Saudi Arabia, but not for Malaysia. Research limitations/implications – The data analysis was restricted to two countries, but this could be extended. Alternative pricing benchmarks were suggested for sovereign sukuk but not for corporate sukuk. Practical implications – Ministries of Finance and Central Banks of Muslim countries should review their debt financing policies and explore the potential of sovereign sukuk. Originality/value – Little has been written previously on the use of musharakah partnership contracts for sukuk, and pricing issues have not hitherto been systematically investigated. © 2008, Emerald Group Publishing Limited",
+    "source": "Humanomics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

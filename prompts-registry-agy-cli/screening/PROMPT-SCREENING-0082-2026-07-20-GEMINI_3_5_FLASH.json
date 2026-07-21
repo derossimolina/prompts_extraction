@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0082-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "City on fire: The role of extortion in urban fires",
+    "authors": "García-Tejeda E.; Fondevila G.",
+    "year": "2024",
+    "doi": "10.1111/geoj.12578",
+    "abstract": "Most of the literature on fires focuses on the wild or rural environment. Nevertheless, urban fires, and in particular those related to criminal activity, have recently begun to receive greater attention. This study focuses on the analysis of fires in shopping malls, public markets and businesses in Mexico City to study the criminal intention of arson in cities. Using spatial analysis and count models, we study emergency calls (911) from January 2019 to February 2021 to explore the occurrence of fires and extortion in order to predict these events. Our main finding indicates a spatial concentration of fires in the city, with extortion as a significant predictor that increases the occurrence of fires by an average of 16.63%, controlling for non-intentional factors. In commercial nodes, extortionists may burn down premises that resist extortion in reprisal and as an indirect threat to future victims. The results contribute to the understanding of a new line of research on arson, real estate fraud and financially profitable activities for organised crime. It is possible that ‘professional torches’ are also linked to another, previously unconsidered crime: that of extortion. © 2024 Royal Geographical Society (with the Institute of British Geographers).",
+    "source": "Geographical Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

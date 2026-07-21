@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2080-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Strategic planning and industrial policy",
+    "authors": "Best M.",
+    "year": "1986",
+    "doi": "10.1080/02690948608725840",
+    "abstract": "The poor performance of British industry in international markets is partly due to a lack of sector strategic planning. Whereas the Thatcher government looks to an unfettering of the market mechanism as the key to industrial recovery, in fact this is contrary to the experience of several other capitalist countries. The role of banks and government agencies in Japan, of inter-firm co-operation in Italy, and of various corporatist instruments in France and Germany, suggest ways in which local enterprise boards could assist the re-structuring of manufacturing industry in Britain. © 1986, SAGE Publications. All rights reserved.",
+    "source": "Local Economy: The Journal of the Local Economy Policy Unit"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

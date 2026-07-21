@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0303-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A comparative dive into virtual asset legislation in South Africa, Mauritius, Namibia and the UK",
+    "authors": "Van Staden N.; Kilian E.; McIntyre J.-L.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-10-2024-0170",
+    "abstract": "Purpose: Virtual assets are considered to be particularly susceptible to money laundering. The Financial Action Task Force has established an international regime to address the money laundering risk associated with virtual assets. This study aims to compare the anti-money laundering regimes in South Africa with those of Mauritius, Namibia and the United Kingdom to identify any gaps and areas for improvement in South Africa’s regime for virtual assets service providers. Design/methodology/approach: A comparative analysis of the anti-money laundering laws for virtual asset service providers in South Africa, Mauritius, Namibia and the United Kingdom was done. A black letter approach was followed by examining the anti-money laundering legislation of said countries with a focus on supervision, licencing, customer due diligence, recordkeeping and suspicious transaction reporting for virtual asset service providers. Findings: It is recommended that South Africa introduce a distinct law that specifically addresses virtual assets and virtual asset service providers. Also, its range of customer due diligence measures should be broadened to reduce the anonymity of virtual asset holders. Originality/value: It is essential to regulate virtual asset service providers to mitigate the risk of money laundering associated with these assets. Prior studies have not thoroughly examined the effectiveness of South African legislation in addressing virtual assets and virtual asset service providers. © 2025, Niesa Van Staden, Elsabe Kilian and Jacqui-Lyn McIntyre.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

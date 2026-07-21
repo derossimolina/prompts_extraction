@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1267-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency as Investment in Commodity Futures Trading in Indonesia; Based on Maqāsị d al-Sharī ’ah Approach",
+    "authors": "Fageh A.; Iman A.K.N.",
+    "year": "2021",
+    "doi": "10.28918/jhi.v19i2.3723",
+    "abstract": "Lately, cryptocurrency investors and transactions in Indonesia are thriving, the number of crypto asset investors as of the end of February 2021 has reached 4.2 million people, which exceeds the number of stock investors in Indonesia. This study aims to determine specifically cryptocurrency as an investment in commodity futures trading in Indonesia using the Maqāsịd al-Sharī’ah approach. This research uses a qualitative approach. The data collection technique used is literature study by collecting data from previous studies in the form of documentation of articles, journals, or books as well as publication data from other parties. The data analysis techniques used were data reduction, data presentation, and concluding, from the collected data analyzed through SWOT analysis (strengths, weaknesses, opportunities, and threats) then continued using the Maqāsịd al-Sharī’ah approach (Masḷaḥah and Mafsadah). The results show that cryptocurrency technology with blockchain can indeed be recognized as an excellent revolutionary technology, but the position of cryptocurrency as an investment in commodity futures trading contains an element of gambling because it contains high speculation and is gambling by taking advantage of the level of volatility. In addition, cryptocurrencies are prone to be used by illegal practices such as money laundering, so that when compared to Masḷahạh and Mafsadah it contains greater Mafsadah. © 2021, Faculty of Sharia, Universitas Islam Negeri K.H. Abdurrahman Wahid Pekalongan. All rights reserved.",
+    "source": "Jurnal Hukum Islam"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

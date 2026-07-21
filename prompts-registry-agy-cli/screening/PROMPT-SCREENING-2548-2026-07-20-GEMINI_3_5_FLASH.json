@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2548-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "IMITATION MODELING AND INSTITUTIONAL STUDIES",
+    "authors": "Barbashin, MY",
+    "year": "2017",
+    "doi": "10.17835/2076-6297.2017.9.3.081-096",
+    "abstract": "This article discusses the use of imitation modeling in the conduct of institutional research. The institutional approach is based on the observation of social behavior. To understand a social process means to determine the key rules that individuals use, undertaking social actions associated with this process or phenomenon. This does not mean that institutions determine behavioral reactions, although there are a number of social situations where the majority of individuals follow the dominant rules. If the main laws of development of the institutional patterns are known, one can describe most of the social processes accurately. The author believes that the main difficulty with the analysis of institutional processes is their recursive nature: from the standards of behavior one may find the proposed actions of social agents who follow, obey or violate institutions, but the possibility of reconstructive analysis is not obvious. The author demonstrates how the institutional approach is applied to the analysis of social behavior. The article describes the basic principles and methodology of imitation modeling. Imitation modeling reveals the importance of institutions in structuring social transactions. The article concludes that in the long term institutional processes are not determined by initial conditions.",
+    "source": "JOURNAL OF INSTITUTIONAL STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0685-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Migration and Remittances in Nigeria: Impact Analysis on Youths in Ogwashi-Uku Community in Delta State",
+    "authors": "Chukwudi A.S.; Victor O.; Olukayode B.S.",
+    "year": "2022",
+    "doi": "10.31920/2516-5305/2022/19n2a6",
+    "abstract": "Existing studies on migration remittances have largely focused on utilities in terms of salvaging migrants' families from poverty cycles and promoting development in migrants' home states and communities. However, little attention has been paid to its implications for anti-social behaviour like human and drug trafficking, prostitution, armed robbery and kidnapping. This leaves significant gaps, as these crimes significantly threaten human security. As such, the study fills this gap by examining the effects of remittances and migration on anti-social behaviour among youths in the Ogwashi-Uku community of Delta State in Nigeria. Case profiles and in-depth interviews (IDIs) with returnee migrants, youths and community leaders, officers from the National Agency for the Prohibition of Traffic in Persons (NATIP), the Nigeria Immigration Service (NIS), and the police were used to collect primary data. Twelve key informant interviews (KIIs) were conducted in the purposively selected two out of nine component units of Ogwasi-Uku. The choice of the purposively selected twelve respondents was based on their involvement and expertise in handling problems related to migration and remittances in each of the federating units, while the rationale for the two sampled units was based on the prevalence and recency of cases of illegal migration and human trafficking. Content analysis and textual interpretation were used to analyze the data. The results indicated that the display of glamour and inordinate use of remittances within the community push youth into illegal migration and involvement in dangerous crimes. The study identifies possible solutions to this trend and draws relevant conclusions. © 2022 Adonis and Abbey Publishers Ltd. All rights reserved.",
+    "source": "African Renaissance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

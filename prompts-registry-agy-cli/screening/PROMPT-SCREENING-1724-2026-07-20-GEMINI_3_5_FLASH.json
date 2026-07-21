@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1724-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The leading digit distribution of the worldwide illicit financial flows",
+    "authors": "Mir T.A.",
+    "year": "2016",
+    "doi": "10.1007/s11135-014-0147-z",
+    "abstract": "The illicit financial flows (IFFs) exiting the developing countries are frequently discussed as hidden resources which could have been otherwise properly utilized for their development. Further, in the context of overhaul of the global financial system, necessitated by the current financial crisis, the IFFs have generated a lot of media and public interest which in turn has however also triggered a debate on the validity of these estimates. To look for completeness or rather for possible manipulation of financial data, forensic analysts routinely use a statistical tool called Benford’s law which states that in data sets from different phenomena leading digits tend to be distributed logarithmically such that the numbers beginning with smaller digits occur more often than those with larger ones. In order to gain some insight on their validity we investigate here the recent data on estimates of IFFs for conformity to Benford’s law. We find the patterns in the distribution of the leading digits in the IFFs data similar as predicted by Benford’s law and thereby establish that the frequency of occurrence of the leading digits in these estimates does closely follow the law. © 2014, Springer Science+Business Media Dordrecht.",
+    "source": "Quality and Quantity"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

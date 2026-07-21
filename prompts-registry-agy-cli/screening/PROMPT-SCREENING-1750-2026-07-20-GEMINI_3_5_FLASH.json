@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1750-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Chinese antitrust-a snapshot",
+    "authors": "Wang X.; Emch A.",
+    "year": "2015",
+    "doi": "10.1093/jaenfo/jnv018",
+    "abstract": "China's Anti-Monopoly Law (AML) has been in force for over six and half years. This article argues that there has been a gradual yet perceptible change in the quality and intensity of AML enforcement over the years, with the fifth anniversary of the AML's effectiveness as the somewhat arbitrary 'turning point'. Indeed, over the past few years, the normative work-in terms of drafting AML implementing rules and guidance-of the three antitrust authorities has decreased, while the handling of actual enforcement cases has increased. Moreover, the cases investigated have become more high profile: the investigation by the National Development and Reform Commission against Qualcomm, the action by the State Administration for Industry and Commerce against Microsoft, and the prohibition by the Ministry of Commerce of the P3 transaction symbolize this trend. © The Author 2015. Published by Oxford University Press. All rights reserved.",
+    "source": "Journal of Antitrust Enforcement"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

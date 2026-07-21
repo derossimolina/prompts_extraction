@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2064-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "To fix or not to fix? How corruptors decide to fix football matches",
+    "authors": "Hill D.",
+    "year": "2009",
+    "doi": "10.1080/17440570802543524",
+    "abstract": "This paper examines the decisions of the internal corruptors in fixing football games. The methodology is a mixture of interviews, database analysis and examination of a specific series of taped phone calls of a corrupt Russian football official. It finds that generally, this type of match-fixing occurs only after a specific point in the season. There are five implicit questions that corruptors must answer: Is the game important enough to fix? Is it morally ethical? Can my team win honestly? Can I afford to fix the game? If I am caught is there a high risk of sanctions? The second section of the paper examines the question of who to bribe? The data indicate that out of the three possible options - referees, players and team officials - the best chance of delivering a successful fix are the team officials. The final section is an examination of the use trust, favour banks and guarantors among the team officials who are willing to sell matches. © 2009 Taylor & Francis.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

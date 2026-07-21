@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0137-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of MiCA Regulation implementation on the polish crypto-asset market – consequences, regulatory challenges and prospects for reform",
+    "authors": "Piech K.; Pangsy-Kania S.",
+    "year": "2025",
+    "doi": "10.2478/in-2025-0039",
+    "abstract": "The aim of this article is to provide a critical assessment of the compliance of the Polish draft act implementing the MiCA Regulation with the objectives and the letter of the Regulation, and to verify the hypothesis that certain provisions constitute instances of gold-plating, increasing compliance costs without delivering proportionate benefits, while simultaneously leaving significant regulatory gaps unaddressed. The study applies a comparative legal analysis (Poland vs. selected EU Member States), a functional analysis (substance over form), and a regulatory impact assessment. Findings. 1. Poland effectively shortened the transitional period for CASPs to six months; after this date, MiCA authorisation or passporting (Article 65) is required. The claim of an ‘automatic 18-month’ period for Poland is incorrect. 2. The draft introduces regulations exceeding the scope of MiCA (including a public domain register and preventive account freezes), which require a rigorous proportionality test and consistency with the DSA. 3. The fee model of up to 0.4% of revenues is not extreme by EU standards but may significantly burden entities with high volumes and low margins. 4. Identified gaps include: the absence of ‘soft law’ instruments and clear criteria for DeFi and NFTs; in the area of stablecoins, prudential and infrastructural issues and overlaps between the MiCA, PSD2, and EMD regimes remain key barriers. The research hypothesis was largely confirmed: the Polish implementation is restrictive and, in parts, overly detailed, increasing both costs and uncertainty while failing to adequately address technologically sensitive areas (DeFi, NFTs, PLN-EMTs). It is therefore advisable to calibrate above-minimum instruments and close the identified gaps through soft-law measures and operational solutions. The second part of the conclusion presents systemic and operational recommendations. © 2025 published by Lazarski University.",
+    "source": "Ius Novum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0757-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Chain event graphs for assessing activity-level propositions in forensic science in relation to drug traces on banknotes",
+    "authors": "Robertson G.; Wilson A.L.; Smith J.Q.",
+    "year": "2024",
+    "doi": "10.1093/lpr/mgae013",
+    "abstract": "Graphical models can be used to compare support given by evidence to propositions put forward by competing parties during court proceedings. Such models can also be used to evaluate support for activity-level propositions, that is, propositions referring to the nature of activities associated with evidence and how this evidence came to be at a crime scene. Graphical methods can be used to show different scenarios that might explain the evidence in a case and to distinguish between evidence requiring evaluation by a jury and quantifiable evidence from the crime scene. Such visual representations can be helpful for forensic practitioners, police, and lawyers who may need to assess the value that different pieces of evidence make to their arguments. In this article, we demonstrate how chain event graphs (CEGs) can be applied to a drug trafficking case. We show how different evidence (i.e. expert judgement and data from a crime scene) can be combined using a CEG and show how the hierarchical model deriving from the graph can be used to evaluate the degree of support for different activity-level propositions in the case. We also develop a modification of the standard CEG to simplify its use in forensic applications. © The Authors (2024).",
+    "source": "Law, Probability and Risk"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

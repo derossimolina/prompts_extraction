@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2045-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A survey of money laundering reporting officers and their attitudes towards money laundering regulations",
+    "authors": "Webb L.",
+    "year": "2004",
+    "doi": "10.1108/13685200410810065",
+    "abstract": "Assesses the approach of London&rsquo;s city banks towards the UK money laundering regulations, based on interviews with their Money Laundering Reporting Officers &lpar;MLROs&lpar;&semi; the questions to the MLROs concerned their position in the bank, their attitudes to the regulations, the main benefits and costs for the bank of compliance with the regulations, and the type of anti&hyphen;money laundering training organised by the bank. Found that 27&percnt; of the MLROs had generally positive attitudes to the regulations and 40&percnt; had balanced or neutral attitudes&semi; the 33&percnt; negative attitudes often involved the &ldquo;know your customer&rdquo; rules. Concludes that these banks take their anti&hyphen;money laundering responsibilities very seriously since the Financial Services Authority has new powers to prosecute non&hyphen;compliance&semi; larger banks tended to have more positive attitudes than small or medium size banks. Recommends specific measures for optimising compliance. © 2004, Company.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

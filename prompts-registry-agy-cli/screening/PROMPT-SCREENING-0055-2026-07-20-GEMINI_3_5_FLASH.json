@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0055-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Applications of Information and Communication Technology in Structuring Resilient Infrastructure and Promoting Sustainable Industrialisation in Arab Region",
+    "authors": "Naim A.; Elhaj F.A.; Magd H.",
+    "year": "2026",
+    "doi": "10.47556/J.WJEMSD.22.3.2026.5",
+    "abstract": "PURPOSE: This study examines the role of information and communication technology (ICT) in fostering resilient infrastructure and sustainable industrialisation (SI) in the Arab region. It highlights the contributions of Public-Private Partnership (PPP) investments in ICT towards economic diversification, industrial resilience, and sustainable development amidst global challenges. DESIGN/METHODOLOGY/APPROACH: Quantitative analysis is conducted from the data accessed from the World Bank on Arab PPP investments in ICT and qualitative insights are discussed based on the policies of digital initiatives. The study evaluates investment impacts, enablers, and barriers to SI. FINDINGS: The research reveals that strategic ICT investments significantly improve infrastructure efficiency, accelerate industrial digitisation, and advance sustainability goals. Policy gaps, digital divides, and limited regional coordination hinder broader impact. Effective regional collaboration and targeted policies are critical to leveraging ICT's potential. ORIGINALITY/VALUE: This paper provides a novel analysis of ICT's transformative potential in the Arab region, its ability to bridge developmental gaps and enhance resilience. RESEARCH LIMITATIONS: The study focuses on data from selected Arab countries, which may limit generalisation. Future research should explore broader datasets and longitudinal analyses to provide deeper insights into ICT-driven industrial growth. PRACTICAL IMPLICATIONS: Policymakers and stakeholders are advised to address policy gaps, enhance regional cooperation, and invest in bridging digital divides to maximise the benefits of ICT-driven transformation. Strategies that prioritise inclusivity and sustainability can amplify economic diversification and industrial resilience. © 2026 World Association for Sustainable Development (WASD). The article is published as an open access article by WASD under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).",
+    "source": "World Journal of Entrepreneurship, Management and Sustainable Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

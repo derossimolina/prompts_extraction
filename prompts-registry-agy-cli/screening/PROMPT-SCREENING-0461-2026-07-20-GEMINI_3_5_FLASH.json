@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0461-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrencies as a Threat to U.S. Homeland Security Interests",
+    "authors": "Givens A.D.",
+    "year": "2025",
+    "doi": "10.3390/laws14010002",
+    "abstract": "The use of cryptocurrencies in transnational criminal activities has grown in recent years. The scholarly literature on cryptocurrencies recognizes this trend. Yet, there has been comparatively little attention paid to the degree to which cryptocurrencies pose a direct threat to U.S. homeland security interests. This article fills a gap in the scholarly literature on cryptocurrencies by presenting evidence that cryptocurrencies are a threat to U.S. homeland security interests, specifically because of their uses for financing terrorism, enabling human and drug trafficking, and evading international financial sanctions. © 2024 by the author.",
+    "source": "Laws"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2109-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organized crime, money laundering, and the real estate market in Canada",
+    "authors": "Schneider S.",
+    "year": "2004",
+    "doi": "10.1080/0959991042000328801",
+    "abstract": "This article examines how the financial proceeds of organized criminal activity are laundered through the Canadian real estate market. The source of data for this study was cases from the Royal Canadian Mounted Police. Real estate has many attributes that make it an attractive destination for criminal proceeds. It provides a home in which the offender can live and is often used for the cultivation of marijuana. As a money laundering vehicle, a host of mechanisms commonly used with real estate transactions can frustrate efforts to unearth the criminal source of funds, such as nominees, fake mortgages, solicitor-client privilege, and legal trust accounts. There is some potential that money laundering through real estate can distort fair market values by contributing to inflated real estate prices, but this is unlikely given the fact that the volume of criminal proceeds invested in the real estate market is just a tiny fraction of overall investments and transactions on an annual basis. © 2004 Taylor & Francis Ltd.",
+    "source": "Journal of Property Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

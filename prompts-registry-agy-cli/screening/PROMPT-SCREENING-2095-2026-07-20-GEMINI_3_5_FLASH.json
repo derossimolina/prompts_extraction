@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2095-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Prospects of the ‘European Quarter’ in Cairo",
+    "authors": "El-Shazly A.E.",
+    "year": "2003",
+    "doi": "10.3130/jaabe.2.175",
+    "abstract": "This study elaborates on the historical ‘Insurance Plan’ in 1905 of Cairo’s European Quarter in comparison to its present situation in 2002. The objective is to pointout the future strategy of conservation. The comparison is conducted according to the criteria of: 1) urban structure, 2) building ownership and function, and 3) insurance and taxation policies. The essence of the ‘Ezbekieh Plaza’ in 1905 synthesized the physical with the socioeconomic structuring between the existing Native Town and the new European Quarter. The Municipal regulations in 1905 created a unified proportions designed for each zone of the European Quarter with characteristic European landscapes. Meanwhile, the real-estate taxation imposed on the free market, and the covered maintenance of building items by the ‘Insurance Plan’ in 1905 worked effectively to sustain the functioning of the European colony. The nationalization policies since 1952, however, have forced the quarter to deteriorate through the ‘Rent Control’ policy and the lack of enforcing the function of historical buildings and open spaces. The conservation in 2002 has no socio-economic insurance or taxation, and buildings are redeveloped into different heights and façade characteristics due to the change of building regulations. The present changes are facilitated in the light of the overshadowed ‘Insurance Plan’ in 1952. © 2003, Architectural Institute of Japan. All rights reserved.",
+    "source": "Journal of Asian Architecture and Building Engineering"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

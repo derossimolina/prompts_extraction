@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2542-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Artificial intelligence, process automation, interoperability and cost-effectiveness: where is the problem with the effectiveness of brazilian justice?",
+    "authors": "Germinari, JP; do Carmo, VM; Ayuda, FG",
+    "year": "2024",
+    "doi": "10.18256/2238-0604.2024.v20i2.5148",
+    "abstract": "There have been countless transformations in the Brazilian Judiciary, either internal to its structuring system or for exogenous reasons, as can be seen with the advent of the digital era and the increase in judicial demands, a consequence of the ease with which personal transactions began to be carried out; electronic judicial processes have become embodied in the Courts as an alternative instrument to escape such difficulties. In spite of the increased number of pending cases, the aim of the automation promoted is, through the deductive method of research, to identify the inconsistencies that exist in the current scenario, analyzing how the resources of Artificial Intelligence, Automation and interoperability can become interesting alternatives to the productivity of technical acts, contributing to greater procedural fluidity and ensuring the effectiveness of the judicial provision sought by all, including verifying the cost benefit of modernizing the Judiciary in comparison to spending on human resources and the amortization of the budgetary impact, a reflection of the globalized economic crisis that has hit the Brazilian Courts.",
+    "source": "REVISTA BRASILEIRA DE DIREITO"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

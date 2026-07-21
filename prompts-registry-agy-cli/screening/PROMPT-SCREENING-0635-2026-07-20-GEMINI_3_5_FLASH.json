@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0635-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ethiopia’s Regulatory Regime on Advocates’ Duty to Report Suspicious Transactions to Combat Money Laundering",
+    "authors": "Berega Y.G.",
+    "year": "2023",
+    "doi": "10.4314/mlr.v17i2.3",
+    "abstract": "Anti-Money Laundering measures have various objectives including detecting crime by following the money trail and protecting the integrity of the financial system against abuse by criminals. Suspicious Transactions Report (STR) is one of the vehicles to achieve these objectives. The Ethiopian Financial Intelligence Service has received reports of suspicious transactions involving 9 Billion Birr within five months of 2014 E.C. (Sept. 2021 to August 2022). On the other hand, some argue that the obligation contravenes legally protected rights, such as confidentiality, the relationship of trust between lawyers and client, professional freedom of the lawyers and fair trial. Based on international and national legal instruments and scholarly works, the practice in Ethiopia and views of experts, this author argues that advocates’ duty to report suspicious transaction is in line with legally protected rights due to the adverse impact of money laundering and the role of the professionals in combating money laundering through the bridge mechanism. The rights and privileges accorded to advocates and their clients are meant to protect legitimate interests of individuals, and cannot justify acts that conceal a crime, escape criminal liability or encourage impunity. The advocate’s duty to report suspicious transactions provided under Proclamation No. 780/2013 is thus in line with the state’s duty under the Palermo Convention and other international instruments. © 2023, Mizan Law Review. All rights reserved.",
+    "source": "Mizan Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

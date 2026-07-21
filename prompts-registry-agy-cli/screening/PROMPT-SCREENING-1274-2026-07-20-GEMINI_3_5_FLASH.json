@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1274-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-Money Laundering: Using data visualization to identify suspicious activity",
+    "authors": "Singh K.; Best P.",
+    "year": "2019",
+    "doi": "10.1016/j.accinf.2019.06.001",
+    "abstract": "Annually, money laundering activities threaten the global economy. Proceeds of these activities may be used to fund further criminal activities and to undermine the integrity of financial systems worldwide. For these reasons, money laundering is recognized as a critical risk in many countries. There is an emerging interest from both researchers and practitioners concerning the use of software tools to enhance detection of money laundering activities. In the current economic environment, regulators struggle to stay ahead of the latest scam, and financial institutions are challenged to ensure that they can identify and stop criminal activities, while ensuring that legitimate customers are served more effectively and efficiently. Effective technological solutions are an essential element in the fight against money laundering. Improved data and analytics are key in assisting investigators to focus on suspicious activities. Continually evolving regulations, together with recent instances of money laundering violations by some of the largest financial institutions, have highlighted the need for better technology in managing anti-money laundering activities. This study explores the use of visualization techniques that may assist in efficient identification of patterns of money laundering activities. It demonstrates how link analysis may be applied in detecting suspicious bank transactions. A prototype application (AML2ink) is used for proof-of-concept purposes. © 2019 Elsevier Inc.",
+    "source": "International Journal of Accounting Information Systems"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

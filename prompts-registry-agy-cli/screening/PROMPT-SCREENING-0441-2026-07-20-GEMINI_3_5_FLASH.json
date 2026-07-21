@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0441-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crypto Regulation and Anti Money Laundering in Indonesia: A Comparative European Union and Switzerland",
+    "authors": "Fahmi A.B.; Satya A.M.; Setiyono J.; Wijayantini B.; Abusaada H.A.Y.",
+    "year": "2025",
+    "doi": "10.14710/jphi.v7i3.514-541",
+    "abstract": "The rapid expansion of cryptocurrency assets has intensified the risks related to money laundering. In Indonesia, the regulatory framework governing crypto assets remains fragmented, largely depending on anti-money laundering laws and sector-specific regulations that are not designed for decentralized, cross-border digital assets. This lack of regulatory cohesion is apparent through the overlapping jurisdictions of the Commodity Futures Trading Regulatory Agency (Bappebti), the Financial Services Authority (OJK), and Bank Indonesia, resulting in inconsistencies in licensing, oversight, and enforcement practices. The purpose of this study is to analyse normative weaknesses within Indonesia’s crypto asset regulatory framework and to examine comparative regulatory models. The method used is normative legal research employing statutory, conceptual, and comparative approaches based on secondary legal materials. The results show that the absence of a lex specialis for crypto assets undermines regulatory coherence, weakens institutional coordination, and reduces the effectiveness of preventive and repressive measures at the placement, layering, and integration stages. Comparative analysis demonstrates that the European Union, through the Markets in Crypto Assets Regulation MiCA, applies a prescriptive harmonised framework with centralised supervision. At the same time, Switzerland adopts a functional integrative approach within existing legal regimes. The conclusion is that Indonesia should pursue selective regulatory adaptation combining normative certainty, institutional strengthening, and a supportive legal culture to ensure effective crypto asset regulation. © 2025, Diponegoro University. All rights reserved.",
+    "source": "Jurnal Pembangunan Hukum Indonesia"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

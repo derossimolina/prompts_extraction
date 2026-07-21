@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1748-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Principal-Agency Theory in Illegal Markets: Cooperation and Conflict Among Chinese Loansharks",
+    "authors": "Soudijn M.R.J.; Zhang S.X.",
+    "year": "2016",
+    "doi": "10.1007/s11417-015-9229-7",
+    "abstract": "There are management and organizational problems common to both legal and illegal businesses, such as moving one party to act in the interest of another rather than his own. In principal-agency theory, the party that wants someone else to do a job on his behalf is called the “principal” and the other party is called the “agent”. Principal-agency theory tries to find solutions to real and potential conflicts that arise from such transactional arrangements. We believe principal-agency theory has great potentials for understanding the operation and interpersonal relationships of criminal enterprises, in addition to the structural arrangements (e.g., a disorganized crime market) and the social network perspectives. Using a case study of Chinese loan sharking and cannabis cultivation in the Netherlands, we seek to make a theoretical contribution to existing literature on organized crime by focusing on how different individuals within a criminal enterprise negotiate the most efficient transactional arrangement in a principal-agent relationship amidst the uncertainties of an illicit market environment. We specifically look at four phases of the criminal enterprise studied: the selection of agents by the principal, attempts to bind these agents to the principal, potential conflicts and finally the solution of any problems. Incidentally, our study also gives insight in the less well-researched topic of loansharking. © 2015, Springer Science+Business Media Dordrecht.",
+    "source": "Asian Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0045-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Voice Work, Upward Influence during Change ‘When Time is of the Essence’",
+    "authors": "Jaser Z.",
+    "year": "2025",
+    "doi": "10.1111/joms.13054",
+    "abstract": "This paper explores when and how middle managers (MMs) convey voice to the top during strategic change, when they do not have the time for lengthy persuasive upward influence tactics such as issue-selling. I investigate this phenomenon through a 33-month study of a risk management team in a large bank as it tried to overhaul its risk management systems and culture, after catastrophic money laundering scandals. I make three contributions. First, I complement the issue-selling literature by theorizing voice work as the purposeful efforts made by middle and lower managers to pass challenges from the bottom to the top during change. These efforts are grouped into three sets of moves: relational, reflexive and skip level. Second, I contribute to the voice literature by explaining when MMs decide to speak up through relational moves (balancing and integrating) and how they shape their voice message through reflexive moves (preparing and refining). Lastly, I refine our understanding of skip level voice by defining skip level moves (overriding and reinforcing), introducing nuance into how lower managers’ voice can strengthen or destabilize MMs. Voice work ultimately enriches our processual understanding of voice as a dynamic phenomenon worked on by multiple layers of management. Theory is built by amalgamating literatures on voice and on MMs’ upward influence, and by analysing them through the sociological lens of work. © 2024 The Authors. Journal of Management Studies published by Society for the Advancement of Management Studies and John Wiley & Sons Ltd.",
+    "source": "Journal of Management Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1731-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Gender, labour and the law: The nexus of domestic work, human trafficking and the informal economy in the United Arab Emirates",
+    "authors": "Mahdavi P.",
+    "year": "2013",
+    "doi": "10.1111/glob.12010",
+    "abstract": "Based on ethnographic fieldwork with female migrants in the United Arab Emirates, the focus of this article is on the confluence of human trafficking discourses, gendered migration, domestic work and sex work in the UAE. I explore three main findings. First, domestic work and sex work are not mutually exclusive. Second, women choose to enter sex work in preference to domestic work because of poor working conditions in the latter. Third, global policies on human trafficking that seek to restrict female migration have inspired female migrants in the Gulf in search of higher wages and increased autonomy to look for employment in the informal economy. Employing a theoretical lens that emphasizes structural violence, the article chronicles the individual and macro social factors structuring the transition of female migrants from the formal economy of domestic and care work into the informal economy of sex work. © 2013 The Author(s) Journal compilation © 2013 John Wiley & Sons Ltd & Global Networks Partnership.",
+    "source": "Global Networks"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1138-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "BIDIRECTIONAL VIOLENCE: A CRITICAL APPROACH TO CENTRAL AMERICAN WOMEN",
+    "authors": "Niño C.; Gonzalez C.",
+    "year": "2021",
+    "doi": "10.26619/1647-7251.12.2.4",
+    "abstract": "The central proposal of this paper is to approximate a theoretical model of women in criminal violence based on some Central American dynamics. Through process tracing, the stages of women as recipients of violence and women as vehicles of violence are raised. Indeed, the relationship between gender and criminality reveals the interaction between two fundamental facets: underground integration and criminal governance in the region. Underground and criminal integrations are found to be much more effective to perform because transaction costs between actors are lower, while, between states, by their own configuration, there are more limitations and robust integration costs due to variables such as sovereignty, politics, economy, and security. Based on the above, it should be mentioned that the reduction of violence against women does not lie in the increase in penalties, but in the effective functioning of justice operators. A reduction of such phenomenon must be based on greater agility of investigations and the strengthening of criminal policy, to minimize the capacity for action and coercion. On the other hand, the effectiveness of the policy seeks to increase persuasion against potential members of criminal networks to desist from their participation. © 2021, Observare. All rights reserved.",
+    "source": "Janus.net"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

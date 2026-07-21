@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0503-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A nexus between corruption, money laundering (ML) and inflation: evidence from South Asian countries",
+    "authors": "Shah I.H.; Aish K.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-09-2021-0096",
+    "abstract": "Purpose: Many studies of corruption and money laundering (ML) have been conducted throughout the previous few decades. The impact of corruption and ML on economic growth, banking performance and corporate financial performance has been the focus of various research. The present study aims to investigate the relationship between ML, corruption and inflation. Design/methodology/approach: This study used the panel data of five South Asian countries from 2013 to 2019 (Pakistan, India, Bangladesh, Sri Lanka and Nepal). Further, fixed effect (FE) and random effect (RE) econometric regression models are used to analyze the data. Additionally, generalized methods of moment (GMM) technique is used to check the results robustness. Findings: This study discovered that corruption and ML have a significant and positive link with inflation in five South Asian nations using the corruption perception index and the anti-money laundering (AML) index. Practical implications: This research advises that government authorities strengthen anti-corruption and AML laws enforcement. Originality/value: To the best of the authors’ knowledge, this is the first paper that explains the linkage between corruption, ML and inflation in five south Asian nations. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

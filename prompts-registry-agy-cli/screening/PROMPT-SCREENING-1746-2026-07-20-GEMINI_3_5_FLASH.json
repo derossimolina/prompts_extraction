@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1746-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency and criminality: The Bitcoin opportunity",
+    "authors": "Brown S.D.",
+    "year": "2016",
+    "doi": "10.1177/0032258X16658927",
+    "abstract": "Bitcoin has become the currency of choice for cybercriminals. Its distinctive characteristics of decentralisation and pseudo-anonymity are also attractive to criminal actors in general, and yet Bitcoin has been assessed as representing only a low money laundering risk. In many respects, cryptocurrencies are still viewed as an unfamiliar, marginal phenomenon restricted to the purview of specialists. This article seeks: to demystify the Bitcoin concept; to demonstrate that, far from being low-risk, Bitcoin constitutes a substantial danger in terms of criminal enterprise; and to promote the case for greater awareness among criminal justice professionals and law enforcement officers in particular. © The Author(s) 2016.",
+    "source": "Police Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

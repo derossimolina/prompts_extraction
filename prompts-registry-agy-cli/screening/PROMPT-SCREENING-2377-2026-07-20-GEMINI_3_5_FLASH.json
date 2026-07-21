@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2377-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digital Credit and Its Determinants: A Global Perspective",
+    "authors": "Le, TDQ; Ngo, T; Nguyen, DT",
+    "year": "2023",
+    "doi": "10.3390/ijfs11040124",
+    "abstract": "Digital credit has gained much attention from academic researchers, practitioners, and policymakers worldwide. This study empirically evaluates the determinants of digital credit using cross-country data from 2013 to 2019. The conventional ordinary least square regression with fixed effects estimator is used to investigate the factors affecting the growth of digital credit. Our study highlights that the regulatory frameworks of anti-money laundering and terrorist financing, the economy's innovative capacity, and financial development are significant factors affecting the development of digital credit, especially fintech credit. However, the findings indicate that only the innovation capacity is more critical to the expansion of bigtech credit. Nonetheless, our results provide some important implications for market participants and the authorities in promoting digital credit. Accordingly, this study contributes to the literature on the growth of digital credit when considering the critical roles of money laundering and terrorist financing frameworks and innovation capacity.",
+    "source": "INTERNATIONAL JOURNAL OF FINANCIAL STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

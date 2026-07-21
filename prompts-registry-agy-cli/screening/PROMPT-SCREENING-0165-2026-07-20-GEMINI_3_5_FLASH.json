@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0165-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global Research Trends in Fintech Technologies and Financial Fraud: A Bibliometric Analysis",
+    "authors": "Wadhwa R.; Srivastava P.",
+    "year": "2026",
+    "doi": "10.22059/ier.2024.368241.1007852",
+    "abstract": "Growing usage of Fintech on one hand has opened new ways of financial transactions but on the other hand has led to new methods of frauds and money laundering. Recent literature has attracted considerable attention in this direction. This paper provides a bibliometric view of recent advances in Fintech and related fraud. Scopus indexed research papers over the last two decades are taken into consideration. The paper informs and directs researchers on the current state of study and provides future research directions. Â© 2026, University of Teheran. All rights reserved.",
+    "source": "Iranian Economic Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

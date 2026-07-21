@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1344-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial surveillance and the role of the Financial Intelligence Unit (FIU) in the Netherlands",
+    "authors": "Lagerwaard P.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-09-2022-0134",
+    "abstract": "Purpose: In 2019, FIU-the Netherlands celebrated its 25th anniversary. This study takes the occasion to reflect on the role of the FIU in financial surveillance and to describe its core practices of collecting, analysing and disseminating financial intelligence. Design/methodology/approach: Because FIU practices are often secret and its transaction data classified as state secrets, the FIU’s daily operational activities remain obscure. Drawing on interviews, public reports and an online training course, this study encircles secrecy and offers a fine-grained analysis of the FIU's core activities. Findings: The article finds that the FIU plays a pivotal role in financial surveillance because it can operate at various intersections. An FIU operates at the intersection of finance and security, in between the public and private sector and at the national and international domain. This pivotal role makes the FIU indispensable in the surveillance of payment systems and spending behavior. Social implications: The article poses that the desirability and effectiveness of financial surveillance has to date not received sufficient consideration, while it affects (the privacy of) anyone with a bank account. The article asks: is it ethically justifiable that transaction information is declared suspect, investigated, and shared nationally and internationally, without the individual or entity concerned officially being notified and legally named a suspect? Originality/value: This case-study is not only relevant for the study of finance/security, AML/CFT and financial surveillance, but also to policy makers and the broader public who merit an understanding of how their financial behaviour is being surveilled. © 2022, Pieter Lagerwaard.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

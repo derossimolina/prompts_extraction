@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1331-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A methodology for enterprise-wide risk assessment in small banks and credit union",
+    "authors": "Duncan P.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-08-2020-0098",
+    "abstract": "Purpose: This paper aims to provide an easy to follow, practical guide for small traditional banks and credit unions to conduct an enterprise-wide risk assessment of the financial institution’s anti-money laundering compliance program. Design/methodology/approach: Information was collected from relevant documents published by global standard setters in the disciplines of anti-money laundering, financial crime prevention and risk management. The data was integrated with common challenges experienced by small financial institutions to produce an application-based guide that practitioners can readily implement. Findings: Though not a new concept, macro-level financial crises and institutional level financial crimes have influenced the rapid evolution of risk management in financial institutions over the past three decades. Small unsophisticated banks and credit unions are expected to now perform an internal risk assessment. An abundance of information is available on risk assessment, but small institutions remain challenged in finding a turnkey document that is readily actionable to stimulate a less arduous undertaking, especially given the institutions’ limited resources. Research limitations/implications: The setting reflects small deposit-taking institutions with traditional services. It is tailored for easy understanding and practical use by the institutions. Originality/value: This could influence small institutions to conduct enterprise-wide risk assessments and formulate and use more specific risk management policies. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

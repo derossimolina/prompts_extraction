@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1116-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bundling in public–private partnership projects – a conceptual framework",
+    "authors": "Dolla T.; Laishram B.",
+    "year": "2020",
+    "doi": "10.1108/IJPPM-02-2019-0086",
+    "abstract": "Purpose: The performance of public–private partnership (PPP) projects depends on how the project has been structured. The traditional PPP option analysis for structuring project scope and size relating to the bundling of functions concerning a single component of the value chain will need to be extended to handle multi-component sectors such as municipal solid waste (MSW) in formulating the project scope. This analysis is currently missing in the extant literature. The paper aims to discuss these issues. Design/methodology/approach: Through a comprehensive literature review as the methodological backbone, this study develops a testable holistic framework for the procurement of MSW PPP projects that examines how various factors of bundling affect the performance of the PPP projects. Findings: Using transaction cost economics, agency and auction theories, the review identifies that innovation, maturity, quality specifiability, scope, competition, information asymmetries and transaction attributes have a significant influence on the performance and success of the PPP projects. Research limitations/implications: Alternative supply chain management possibilities and firm-level organisational ways can be predicted using this framework to strategize the solutions for the municipal infrastructure. Based on this contribution, future research can test the framework to increase the knowledge of bundling theory about how to structure network infrastructure PPP projects. Originality/value: Studies on how to bundle/unbundle the projects having components of the value chain are in a nascent stage. The present study attempts to extend the body of knowledge on PPP to the complexity of bundling both the functions and components of the value chain in structuring the PPP project scope. © 2019, Emerald Publishing Limited.",
+    "source": "International Journal of Productivity and Performance Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

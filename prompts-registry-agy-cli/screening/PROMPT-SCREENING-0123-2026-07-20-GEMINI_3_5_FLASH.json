@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0123-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax evasion and money laundering through crowdfunding: a comparative study of the laws of Mauritius, UK and US",
+    "authors": "Beebeejaun A.",
+    "year": "2024",
+    "doi": "10.1108/JFC-03-2023-0063",
+    "abstract": "Purpose: The phenomenal proliferation of crowdfunding platforms raises concerns on the heightened occurrence of financial crimes since billions of funds are exchanged through these online systems frequently. Accordingly, some countries have implemented legislative responses to address these risks, although each countries’ laws have varying degrees of severity. Hence, the purpose of this study is to assess the efficiency and robustness of Mauritian laws to combat financial crimes that may arise from a crowdfunding transaction with a particular emphasis on money laundering and tax evasion. Design/methodology/approach: To achieve this research objective, the black letter approach was used to analyse Mauritian rules and regulations on the researched topic and a comparative analysis was carried out against the corresponding laws on crowdfunding in some other jurisdictions, notably the UK and the USA with the view of suggesting the policy recommendations to Mauritian authorities. Findings: It was found that there is still scope for improving the existing legal and regulatory framework on crowdfunding in Mauritius to prevent instances of money laundering and tax evasion. The paper suggests that a crowdfunding operator must be categorised as a reporting person and must carry out regular due diligence checks. There must also be more collaboration in terms of information exchanges and training sessions among the tax authority of Mauritius, crowdfunding operators, fund seekers and investors to shed light on the tax treatment of income and deductions to avoid issues of tax evasion. Originality/value: At present, to the best of the authors’ knowledge, this study is amongst the first academic writings on the efficiency of Mauritian laws in dealing with the risk of financial crimes through crowdfunding, and also, because existing literature is quite scarce on assessing the adequacy of crowdfunding rules in developing countries, this research aims at filling in the gap in literature. The study is carried out with the aim of combining a large amount of empirical, theoretical and factual information that can be of use to various stakeholders and not only to academics. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

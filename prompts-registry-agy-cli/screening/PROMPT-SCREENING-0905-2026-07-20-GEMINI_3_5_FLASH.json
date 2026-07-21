@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0905-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Supervisory and Enforcement in the Crypto-Asset Market According to the MiCAR Proposal; [Vigilanza ed enforcement sui mercati delle criptoattività nella proposta di Regolamento MiCA]",
+    "authors": "Murino F.",
+    "year": "2022",
+    "doi": "10.4478/106719",
+    "abstract": "The paper deals with the topics of supervisory and enforcement on the crypto-asset markets starting from the regulatory fragmentation that characterizes the Italian situation also with regard to anti-money laundering. The architecture present in the Markets in Crypto-Assets Regulation-MiCAR proposal in its evolution (from the proposal of the European Commission to the version of the Trilogue with European Parliament Mandate and Council Mandate up to the Draft Agreement) is taken into consideration - also in relation to the Anti-Money Laundering Regulation-AMLAR proposal - with an analysis of the roles of the European Banking Authority-EBA, European Securities and Markets Authority-ESMA, the National Competent Authorities-NCAs, colleges of supervisors and the European Central Bank-ECB. © Società editrice il Mulino.",
+    "source": "Osservatorio del Diritto Civile e Commerciale"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

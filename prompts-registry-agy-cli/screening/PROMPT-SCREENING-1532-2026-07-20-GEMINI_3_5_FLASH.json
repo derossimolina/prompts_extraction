@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1532-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Islamic forward exchange contracts as a hedging mechanism: An analysis of wa cd principle",
+    "authors": "Ahmad A.A.; Ahmad S.; Tahir H.M.; Shahimi S.; Mohamad S.; Zain M.M.M.",
+    "year": "2012",
+    "doi": "10.3923/ibm.2012.47.54",
+    "abstract": "Although, FX forward contract is required for hedging purposes, the issue arises of whether FX forward fulfill al-sarf ruling. The question is how to ensure that this contract is free from prohibited elements in Islam as it is needed in the context of the global economy? As FX forward involves the exchange of currency in the future, it violates the sarf requirement of spot exchange thus, incurring riba al-nasi'ah. This study therefore, seeks to examine Islamic forward exchange contracts that are structured by applying wacd binding only to one party. This study has found that in order to make forward exchange contracts meet the condition of spot exchange of currencies, the majority of banks have adopted the principles wacdmulzim at an early stage and the actual contract takes place or is executed on the delivery date. However, the practice of wacd mulzim has its drawbacks as it only protects the right of banks while customers who are commonly the promissor in the contract are exposed to the risk of default. To overcome this problem, the principle of wacdan should be explored to study its suitability and potentiality as a basis in structuring Islamic hedging products. © Medwell Journals, 2012.",
+    "source": "International Business Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

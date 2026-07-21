@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1496-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Perceptions of post-multicurrency regime financial inclusion confidence challenges in Zimbabwe",
+    "authors": "Ngwenya B.; Pelser T.; Chivaura T.",
+    "year": "2018",
+    "doi": "10.4102/sajems.v21i1.1837",
+    "abstract": "Aim: The study sought to assess the informal trader’s perceptions of the post-multicurrency regime financial inclusion confidence challenges in Zimbabwe and also through further future studies explore the potential of explicating a framework for achieving optimal financial inclusion in an economy recovering from a recession through further future studies. Setting: A non-probability judgment sample of 1000 informal traders in the Avondale area of Harare was used in this study. Method: The study established four potential financial inclusion construct pillars: demand side factors, supply side factors, behavioural factors and individual factors; these were largely influenced by age, which can be investigated in further future grounded theory studies to develop a framework. Results: The results indicate that healing from the financial experiences of the hyperinflation era of 2008 still has not been achieved. The study suggests a need for Zimbabwe to restore human rights, political stability, and ensure compliance with the Financial Action Task Force regulations regarding money laundering and terror financing in order to boost external confidence in the financial system of the country. Conclusion: There is still a challenge of confidence in the country’s financial system. The proposed framework is envisaged to minimise the negative impacts of the mistrust of formal financial service providers and boost confidence in the financial system. It is hoped that the findings will aid government to craft policies that will be perceived as supportive of the informal sector to achieve optimal financial inclusion. The study further suggests penetration of the rural areas through technological advances such as mobile networks. © 2018. The Authors.",
+    "source": "South African Journal of Economic and Management Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

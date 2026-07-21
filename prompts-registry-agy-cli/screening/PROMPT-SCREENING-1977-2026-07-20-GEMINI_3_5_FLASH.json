@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1977-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "AMLCTF compliance and SMEs in Australia&colon; a case study of the prepaid card industry",
+    "authors": "Gurung J.; Wijaya M.; Rao A.",
+    "year": "2010",
+    "doi": "10.1108/13685201011057109",
+    "abstract": "PurposeThe purpose of this paper is to explore the possibility of effectively enforcing the Anti&hyphen;money Laundering and Counter Terrorism Financing &lpar;AMLCTF&rpar; Act compliance on prepaid card small and medium enterprises &lpar;SMEs&rpar;. Currently, certain types of prepaid cards providers are exempt from compliance. This paper looks at this situation bearing in mind the necessity of keeping regulation manageable for SMEs. Design&sol;methodology&sol;approachThe paper adopts the case study approach facilitated by an online search of different prepaid card vendors. Using this as a basis, a feasibility analysis of the AMLCTF Act is conducted for prepaid card SMEs. FindingsIt is found that not all regulation compliance requirements are applicable to SMEs. Regulation enforcement without considering the capabilities of the regulated entities will only increase avoidance. It is also found that the AMLCTF Act does not effectively address the issue of prepaid cards' vulnerability to money laundering and terrorism financing &lpar;ML&sol;TF&rpar; illustrated by exclusion of prepaid cards that cannot be used to withdraw money from the compliance. Given that there are records of such cards been exploited for illegal trading, Australian Transactions Reports Analysis Centre appears not to be up to date with the ongoing trend in ML&sol;TF around the world. Research limitations&sol;implicationsLimitations of case study research methodology apply. Also, the prepaid card vendor information is based on an online search of their web sites and did not involve in&hyphen;person interactions to gather the information. Originality&sol;valueThis is the first paper in anti&hyphen;money laundering literature that has considered SMEs and attempted to look into the AMLCTF Act compliance requirements' applicability for them. It is believed that the case study can facilitate further research related to regulation enforcement issues for SMEs. © 2010, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

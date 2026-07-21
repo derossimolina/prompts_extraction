@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0125-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Examination of the Relationship between Money Laundering and Tax Crimes Based on Financial Action Task Force (FATF) Standards: A Stocktaking for Türkiye; [Suç Gelirlerinin Aklanması ve Vergi Suçları İlişkisinin Mali Eylem Görev Gücü (FATF) Standartları Temelinde İncelenmesi: Türkiye için Bir Durum Değerlendirmesi]",
+    "authors": "Bülbül D.; Güler K.",
+    "year": "2025",
+    "doi": "10.17233/sosyoekonomi.2025.01.22",
+    "abstract": "Money laundering and tax crimes are financial crimes that have considerable costs to society, and there are notable interconnections between them. This study aims to examine the contribution of the measures introduced against money laundering by the Financial Action Task Force (FATF) to tax compliance and combating tax crimes and to evaluate the situation in Türkiye. The conceptual framework regarding these crimes and the connections between them are established in this context. The effects of the measures introduced against money laundering on tax compliance and crimes based on FATF standards are investigated. Finally, the situation in Türkiye is examined and analysed. The study shows that customer identification and reporting of suspicious transactions can contribute significantly to identifying taxpayers, transactions, and income that should be taxed and detecting tax evasion. Still, this potential is not sufficiently utilised in our country. © 2025, Sosyoekonomi Society. All rights reserved.",
+    "source": "Sosyoekonomi"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

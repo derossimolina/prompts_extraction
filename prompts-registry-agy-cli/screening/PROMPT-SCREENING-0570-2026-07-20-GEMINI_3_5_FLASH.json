@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0570-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Globalization of Cashless Transactions Using Blockchain Technology to Preventing Money Laundering and the Changing Trends in the Cryptocurrency Market: A Learning Experience of Polish and EU Laws",
+    "authors": "Thommandru A.; Chakka B.",
+    "year": "2022",
+    "doi": "10.2478/eustu-2022-0021",
+    "abstract": "Summary The COVID-19 pandemic experience has driven us to rely on technology so much on the development and expansion of technology, including cashless transactions. Criminal groups may become more interested in electronic payments and virtual currencies because of increased traffic in these areas. When comparing the second half of the 2019 to the first half of the 2020, the number of fraudulent card transactions increased by 11.4%. New developments in virtual currency trading regulations, including the digital finance package, which includes, among other things, a draught regulation from the European Parliament and an amended act to combat money laundering and terrorist financing, among others. For the reasons stated above, these regulations may lead to a virtual currency market collapse and the withdrawal of investors and the siphoning of money into Asian markets as a result. The current regulations are a manifestation of total regulation and do not encourage technological advancement. © 2022 Abhishek Thommandru et al., published by Sciendo.",
+    "source": "European Studies: The Review of European Law, Economics and Politics"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

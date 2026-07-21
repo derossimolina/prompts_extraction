@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2044-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Promoting partnership among the school, the family, and the local community: The school as an anchor point in the local community",
+    "authors": "Koizumi R.",
+    "year": "2002",
+    "doi": "10.5926/jjep1953.50.2_237",
+    "abstract": "The present article aims to provide a theoretical framework for promoting a partnership among the school, the family, and the community by giving the school the function of an anchor point (i.e., an element that facilitates transaction between the person and the environment) in the residents' structuring of their local community. First, the entire system, including the school and the local community, should be considered. Ecological perspectives are useful in this step. Second, the school's role as the first and, if possible, the primary or most significant anchor point in structuring should be explored. Various types of evaluation of the school's involvement are essential in this step. Third, the school should make educational efforts to be one of the positive anchor points in the local community. These efforts include approaches to enhancing the development of the children and the local community. Positive outcomes cannot be expected without long-term practice. Examples of children's environmental transitions are discussed, followed by a description of practical implementation methods for planting anchor points in local communities.",
+    "source": "Japanese Journal of Educational Psychology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

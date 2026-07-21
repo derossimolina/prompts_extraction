@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1481-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An evaluation of the effectiveness of anti-money laundering and anti-terrorism financing legislation: Perceptions of bank compliance officers in Malaysia",
+    "authors": "Pok W.C.; Omar N.; Sathye M.",
+    "year": "2014",
+    "doi": "10.1111/auar.12054",
+    "abstract": "The present study sought to ascertain the perceptions of anti-money laundering and counter-financing of terrorism (AML/CFT) compliance officers of banks in Malaysia in order to develop an understanding of how well they understand the risks and how well they have implemented the obligations imposed by the regime. We examine these issues for the first time in the literature via the theory of crying wolf. A structured questionnaire survey of compliance officers of banks in Malaysia was followed by focus group discussions held at the Malaysian Institute of Bankers. We expect that the industry would consider suitable steps to improve the compliance culture, particularly in Islamic banks, and the regulators would watch such banks more diligently. Banks considered avoiding penalties, improving brand image and improving customer perceptions to be the rationale for implementing the AML/CFT legislation. Most conventional bank officers considered their organisations' compliance culture to be high or very high, while this was not found to be the case in Islamic banks. © 2014 CPA Australia.",
+    "source": "Australian Accounting Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

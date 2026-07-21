@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1590-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regional blocks and imperial legacies: Mapping the global offshore FDI network",
+    "authors": "Haberly D.; Wójcik D.",
+    "year": "2015",
+    "doi": "10.1111/ecge.12078",
+    "abstract": "While foreign direct investment (FDI) is generally assumed to represent long-term investments within the real economy, approximately 30-50 percent of global FDI is accounted for by networks of offshore shell companies created by corporations and individuals for tax and other purposes. To date, there has been limited systematic research on the global structure of these networks. Here we address this gap by employing principal component analysis to decompose the global bilateral FDI anomaly matrix into its primary constituent subnetworks. We find that the global offshore FDI network is highly globalized, with a centralized core of jurisdictions in Northwest Europe and the Caribbean exercising a largely homogenous worldwide influence. To the extent that the network is internally differentiated, this appears to primarily reflect a historic layering of social and political relationships. We identify four primary offshore FDI subnetworks, bearing the imprint of four key processes and events: European, particularly UK colonialism, the post-WWII hegemonic alliance between the United States and Western Europe, the fall of Soviet communism, and the rise of Chinese capitalism. We also find evidence of qualitative, but not quantitative, variation in offshore FDI based on national rule of law and communist history. © 2014 Clark University.",
+    "source": "Economic Geography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

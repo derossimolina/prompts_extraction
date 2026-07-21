@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2232-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A relocation model of European manufacturing firms: cases from Italy and Sweden",
+    "authors": "Ciaramella A.; Dettwiler P.",
+    "year": "2011",
+    "doi": "10.1108/14630011111214437",
+    "abstract": "Purpose The purpose of this paper is to deal with two major issues: what alternatives does a manufacturing company have when current office space use is not sufficient, or it exceeds its needs, following changes and business transformation; and second, what principal factors (in particular Facilities and Corporate Real Estate Management factors) must be taken into account in the decisionmaking process about possible relocation? The corporate real estate of manufacturing firms in the Western countries is very much similar to that of the service sector. When compared to property devoted to service activities only, the inertia of manufacturing companies is apparent only, because a large part of the premises are in fact offices that, to various extent, are connected to warehouses, laboratories, factories and manufacturing units that cannot be relocated. For this reason it is necessary to devise intermediate alternatives between staying on the current location or total relocation. Design/methodology/approach This paper is based on literature studies of company locations in a European and global context, with two independent surveys from two different geographical areas: northern Italy and Sweden. Despite the different aspects considered in the surveys, common conclusions can be made for a general understanding of how facilities management factors influence location. Findings The model described in this paper organizes location alternatives when space changes are required, especially by European manufacturing companies. Practical implications The model is a tool for decision makers when analysing and structuring their location needs. Originality/value The paper is a pioneering work of classification of intermediate alternatives of partial relocation. © 2011, Emerald Group Publishing Limited",
+    "source": "Journal of Corporate Real Estate"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0719-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Changes in credit score, transaction volume, customer characteristics, and the probability of detecting suspicious transactions",
+    "authors": "Reite E.J.; Oust A.; Bang R.M.; Maurstad S.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-06-2022-0087",
+    "abstract": "Purpose: This study aims to use a unique customer-information data set from a Norwegian bank to identify how small changes in firm-specific factors correlate with the risk of a client subsequently being involved in suspicious transactions. It provides insight into the importance of updating client risk based on changes in transaction volume and credit risk to enable effective resource use in transaction monitoring. Design/methodology/approach: Changes in a firm’s bank use and accounting data were tested against subsequent flagged and reported customers to identify which changes led to a significant increase in the probability of engaging in a transaction identified as suspicious. Prioritizing resources to firms that remain suspicious after further controls can improve the risk-based approach and prioritize detection efforts. The main factors were customer probability of default (credit score), size and changes in customer characteristics. The cross-sectional data set contained administrative data on 8,538 corporate customers (219 with suspicious transactions that were subsequently flagged, 64 of which were reported). A binomial logit model was used. Findings: Changes in transaction volume and bank use are significant in predicting subsequent suspicious transactions. Customer credit score changes were significantly positively correlated with the likelihood of flagging and reporting. Change is a stronger indicator of suspicious transactions than the level. Thus, frequent updating of client risk and using a scale rather than risk categories can improve client risk monitoring. The results also showed that the current anti-money laundering (AML) system is size-dependent; the greater the change in customer size, the greater the probability of the firm subsequently engaging in a suspicious transaction. Research limitations/implications: Client risk classification, monitoring changes in a client’s use of the bank and business risk should receive more attention. Practical implications: The authors demonstrate that client risk classifications should be dynamic and sensitive to even small changes, including monitoring the client’s credit risk changes. Social implications: Directing AML efforts to clients with characteristics indicating risk and monitoring changes in factors contributing to risk can increase efficiency in detecting money laundering. Originality/value: To the best of the authors’ knowledge, this is the first study to focus on changes in a firm's use of a bank and link this to the probability of detecting a suspicious transaction. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

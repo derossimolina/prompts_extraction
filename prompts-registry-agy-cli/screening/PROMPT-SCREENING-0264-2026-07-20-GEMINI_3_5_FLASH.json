@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0264-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and the automobile industry: a comparative study between the laws of Mauritius and UK",
+    "authors": "Beebeejaun A.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-08-2024-0128",
+    "abstract": "Purpose: Motor vehicles play a vital role in the economic and social growth of any country. However, they have recently become instruments and a source of illegally obtained financial gains for criminal bodies and individuals. This study aims to assess the laws of Mauritius on AML procedures to prevent money laundering through vehicles transactions. Design/methodology/approach: To achieve the research objective, the black letter research method was used by analysing laws, regulations and case laws on the subject matter. A desk-based and doctrinal approach was also used by examining policy papers, scholarly articles and newspaper materials on the researched topic. Additionally, the research adopted a comparative analysis by assessing how the laws of another country address the issue of money laundering through vehicle transaction and the selected country is the UK. Findings: The research concluded that Mauritius AML laws are lagging behind of the UK laws and accordingly, some measures were suggested to deal with the issue of money laundering through vehicles transactions. Accordingly, this research recommended that motor vehicle dealers who are high value dealers engaged in cash transactions above certain threshold, must also be categorised as reporting persons under the FIAMLA such that the prescribed AML measures apply to them. Additionally, it is convenient for the FCC to be embodied with some additional punitive and corrective powers to assist the Commission in its fight for the prevention and elimination of financial crimes in Mauritius. Originality/value: At present, this study will be among the first academic writings on the intersection between money laundering and the automobile industry and on the effectiveness of the legal and regulatory measures undertaken by the Mauritian authorities to prevent money laundering through vehicles transactions. The study is carried out with the aim of combining a large amount of empirical, theoretical and factual information that can be of use to various stakeholders and not only to academics. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0226-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Central Bank Digital Currencies and financial integrity: finding a new trade-off between privacy and traceability within a changing financial architecture",
+    "authors": "Soana G.; de Arruda T.",
+    "year": "2024",
+    "doi": "10.1057/s41261-024-00241-2",
+    "abstract": "In an increasingly digitised world, and within the new reality of digital finance, a fully digitised public currency seems to be a natural step. To this end, central banks have been testing the possibility to issue a digital form of the traditional fiat currency (so-called Central Bank Digital Currency-CBDC). As these projects steadily progress, and in some cases, reach the implementation phase, a myriad of questions, from legal to macroeconomic, arise. This paper aims to focus, in particular, on two complementary and co-related aspects involving CBCDs: (i) how can the full digitalisation and centralisation of the transaction ledger be combined with privacy and (ii) to what extent CBDCs affect the allocation of burden and the responsibility over supervision of retail transactions. Eminently, the use of cash ensures a form of default privacy that protects the individual against State and private intrusion. While this privacy has caused concern, due to its criminogenic potential, and has been consequently limited by anti-money laundering (AML) regulations, the remaining cone of shadow cash guarantees is a crucial limit to control. In the context of a shifting financial system, undergoing deep transformation due to increasing datafication and decentralisation of the market, a new governance of financial supervision and record-keeping—up to now based on a unique and centralised ledger—is crucial to redefine the trade-off between financial integrity and privacy. This article will examine the origins and characteristics of CBDCs, to then analyse how the trade-off between control and privacy is set to reshape this new architecture. © The Author(s) 2024.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

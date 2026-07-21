@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0553-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering regulation of cryptocurrency: UAE and global approaches",
+    "authors": "Al-Tawil T.N.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-07-2022-0109",
+    "abstract": "Purpose: The purpose of this paper is to provide a high-level analysis of the intersection emerging cryptocurrency sector with anti-money laundering (AML) regulations and risk-based AML diligence systems maintained by financial institutions. Design/methodology/approach: The analysis begins with a description of cryptocurrencies, focusing specifically on how the supporting technologies and applications increase vulnerabilities. The information will lay the foundation for examining the vulnerabilities existing in the architecture of cryptocurrency technology, as well as potential targets for regulations. The second part of the analysis will then shift focus to defining the scope of the money laundering problem associated with cryptocurrencies. An in-depth understanding of the problem is necessary to inform tailored AML legislation and regulations. The third part of the analysis will explore emerging AML regulations that govern cryptocurrencies, focusing specifically on those being developed and implemented in the United Arab Emirates (UAE). The UAE regulations will then be compared to those of the USA and European Union (EU) for comparative analysis and best practices. Findings: The UAE has a robust legal system aimed at bolstering AML efforts while supporting widespread integration of crypto assets into business and government operations. A review of the UAE’s legislative framework reveals critical issues. First, the current regulations do not cover decentralized finance (DeFi) and non-fungible tokens (NFTs). The absence of clear regulations for DeFi and NFT protocols has created a leeway for money laundering and related criminal activities. Second, there is a high level of fragmentation in the UAE’s legislative landscape. The UAE does not have uniform, national laws that apply to all the Emirates. Fragmentation is not unique to the UAE but a major global problem that affects the USA and EU. Therefore, it is necessary to adopt a tailored approach where standard rules and regulations are responsive to the diverse aspects of cryptocurrencies. The strategy is vital, as it will be impractical to create a single legislation or law that will cover all the crypto assets, including their diverse applications. Furthermore, the Financial Action Task Force (FATF) should develop a global standard that will support a unified/harmonized application of AML/counter-terrorist financing (CTF) laws and regulations related to cryptocurrencies and the blockchain technology. Originality/value: The borderless nature of digital currency and exchanges means that the existing laws and regulations are inadequate to address cross-border money laundering activities. Thus, there is an urgent need of harmonizing global regulations to ensure uniformity in applications. The quest for harmonization should be a priority as the FATF works towards developing a global standard. The global standard will support a uniform application of AML/CTF laws and regulations related to cryptocurrencies and the blockchain technology. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

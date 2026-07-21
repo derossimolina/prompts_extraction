@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2442-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Innovation in banking: fusion of artificial intelligence and blockchain",
+    "authors": "Vedapradha, R; Ravi, H",
+    "year": "2021",
+    "doi": "10.1108/APJIE-09-2020-0142",
+    "abstract": "Purpose - This study aims to analyze the importance of disruptive technological innovations on qualitative service delivery and their impact on the investment banks' employee performance. Design/methodology/approach - The cluster sampling method has been used to collect the primary data from the 250 respondents from foreign investment banks. Variables used are employee performance, service delivery, technology, security, operations, strategy and quality through chi-square, linear stepwise multiple regression analysis and correlation. Findings - Storage network, operating cost, client reporting, cloud system and money laundering are the highest and most significant predictors of employee performance. Employee performance multiplies every unit with a strategic solution owing to positive and robust correlation (0.944). Fusion technology-based banks offer quality service to their clients. Originality/value - A combination of artificial intelligence and blockchain ensures increasing automation to improve efficiency and reduce the operating cost creating a seamless integration in fraud detection, customer support, risk management, security, digitization and automation process, algorithmic trading, wealth management, etc.",
+    "source": "ASIA PACIFIC JOURNAL OF INNOVATION AND ENTREPRENEURSHIP"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

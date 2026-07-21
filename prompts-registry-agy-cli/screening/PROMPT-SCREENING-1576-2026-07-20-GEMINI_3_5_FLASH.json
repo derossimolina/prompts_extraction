@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1576-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Deconstructing PRSP Measurement: Participation as Neoliberal Colonization",
+    "authors": "Dutta M.; Rastogi R.",
+    "year": "2016",
+    "doi": "10.1177/0973258616667180",
+    "abstract": "Ever since its establishment in 1944 the World Bank (the Bank), along with the International Monetary Fund, has progressively increased its influence on economic affairs of the world. The Bank’s concern with development knowledge represents one such area of its extended reach. The latter years of the last decade of the twentieth century were marked by a remarkably heightened interest of the Bank in development knowledge, manifested in the declaration of the Bank as The Knowledge Bank by its president in 1996, James Wolfensohn, and positioning the Bank as a knowledge resource for global political and economic structuring. This article focuses on this newfound sphere of activity of the Bank and, in this context, outlines the major critiques that are levied against policies of the Bank. Specifically, we look at the position paper ‘Beyond the Numbers: Understanding the Institutions for Monitoring Poverty Reduction Strategies’ to understand its prescriptions in the light of the Knowledge Bank project and to examine closely the current framework of knowledge pushed by the Bank. We undertake a theme analysis of the document to critically examine the specific knowledge claims put forth by the Bank. © 2016, © 2016 Mudra Institute of Communications, Ahmedabad, India.",
+    "source": "Journal of Creative Communications"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

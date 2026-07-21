@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1850-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The risk&hyphen;based approach to anti&hyphen;money laundering&colon; problems and solutions",
+    "authors": "Simonova A.",
+    "year": "2011",
+    "doi": "10.1108/13685201111173820",
+    "abstract": "PurposeThe purpose of this paper, which is a part of a PhD thesis, is to detect problems associated with the risk&hyphen;based approach to anti&hyphen;money laundering &lpar;AML&rpar;, as well as present ways to improve the risk&hyphen;based approach. Design&sol;methodology&sol;approachThe method is law and economics. The PhD thesis itself is also based on a comparative analysis of the Danish and British AML regimes. FindingsThe main findings are&colon; failure to develop adequate risk&hyphen;based AML systems, taking into account varying levels of money laundering risk, is not only to be considered in the context of legal risk but also and more importantly in the context of integrity risk&semi; anti&hyphen;money laundering &lpar;AML&rpar; has to be made part of financial and non&hyphen;financial institutions' corporate social responsibility policies&semi; the Risk Analysis Manual provided by the Central Bank of The Netherlands lists very specific and comprehensive assessment criteria for a broad range of risks facing financial institutions. This manual could be considered by international bodies and individual financial institutions in informing their risk control&semi; due to their intelligence access, cross&hyphen;national agreements of cooperation and exchange of information and contacts to multiple stakeholders, financial intelligence units are better placed in educating financial institutions on AML matters by means of regular typology publications and other guidance based on SARs and other intelligence&semi; and AML considerations should be incorporated in other areas of law, such as immigration law concerning wealthy individuals, if the AML regime is to achieve its intended impact. Originality&sol;valueThe paper highlights how the AML regime in general and the risk&hyphen;based approach in particular could be improved so as to meet concerns of both regulatory authorities and regulated entities. © 2011, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

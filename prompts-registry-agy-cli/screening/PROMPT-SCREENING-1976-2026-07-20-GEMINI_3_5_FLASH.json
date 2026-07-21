@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1976-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Serving Two Masters: The Contradictory Organization as an Ethical Challenge for Managerial Responsibility",
+    "authors": "Pérezts M.; Bouilloud J.-P.; de Gaulejac V.",
+    "year": "2011",
+    "doi": "10.1007/s10551-011-1176-3",
+    "abstract": "\"No one can serve two masters.\" This Bible quotation highlights an irreducible contradiction, which echoes numerous organizational settings. This article considers the under-explored ethical implications of paradoxical injunctions created by such a contradiction at the managerial level. Contradictory organizational constraints turn into paradoxant systems, where the organization structurally settles paradoxical injunctions which challenge managerial ethics in practice. We then ask what managerial responsibility means in such contexts and find that managers have then to reshape their practice as a situated construction through constant mediation between different \"masters\" and bricolage (i.e., tinkering with concepts). An ethnographic case study of an anti-money laundering service in an investment bank illuminates this phenomenon from a practice perspective. The possibility to enact an actual ethical practice within the contradictory organization relies on a new role of the manager. This implies drawing on an approach of responsible management as an enactment of ethics in practice which is situated within the framework of a new conception of both the organization, as a structurally \"paradoxant system,\" and the manager as a mediator in charge of enacting coherence. © 2012 Springer Science+Business Media B.V.",
+    "source": "Journal of Business Ethics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

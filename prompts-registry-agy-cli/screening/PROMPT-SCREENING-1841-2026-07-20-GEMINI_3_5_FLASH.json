@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1841-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The anti&hyphen;money laundering activities of the central banks of Australia and Ukraine",
+    "authors": "Van der Zahn M.; Makarenko M.I.; Tower G.; Kostyuk A.N.; Barako D.; Chervoniaschaya Y.; Brown A.M.; Kostyuk H.",
+    "year": "2007",
+    "doi": "10.1108/13685200710721908",
+    "abstract": "PurposeThis paper seeks to provide a textual analysis of the anti money laundering practices of the central banks of Australia &lpar;Reserve Bank of Australia &lpar;RBA&rpar;&rpar; and Ukraine &lpar;National Bank of Ukraine &lpar;NBU&rpar;&rpar;. Design&sol;methodology&sol;approachThe analysis is performed two ways by both calculating a disclosure index and through use of textual analysis. FindingsThe results show very low levels of anti money laundering disclosures by both NBU and RBA with NBU usually showing more. Textual analysis reveals that the NBU is prepared to internalise its discussion on anti&hyphen;money laundering discussing wide&hyphen;ranging topics. There appears to be a concerted communication effort by NBU to tackle the issues of money laundering head&hyphen;on. Textual analysis of the RBA's four annual reports show a clipped discourse on anti&hyphen;money laundering, treating it as if it were a distant concern. Over the four year period, there is little acknowledgement in the way of RBA textual discourse that Australia is a jurisdiction of primary concern. Originality&sol;valueThe value of this paper is that, it emphasizes that, if the globalised activity of money laundering is to be crushed further energies are needed to woo central banks from varied backgrounds into exerting their considerable resources toward anti&hyphen;money laundering enforcement. © 2007, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

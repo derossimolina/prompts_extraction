@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1070-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money-laundering and terrorism-financing compliance – unsolved issues",
+    "authors": "Teichmann F.M.J.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-02-2018-0014",
+    "abstract": "Purpose: This paper aims to focus on developing prevention mechanisms for banks, this paper shows the ongoing feasibility of laundering money and financing terrorism undetected. It, thereby highlights that the current anti-money-laundering and anti-terrorism-financing mechanisms can be easily circumvented. Design/methodology/approach: A three-step research process, including both qualitative and quantitative methods, was used. The empirical findings are based on qualitative content analysis of 35 informal interviews with illegal financial services providers and 35 formal interviews with compliance experts and law enforcement officers. Findings: During those interviews, concrete and specific methods of financing terrorism and limiting the risks of being prosecuted were discussed. To assess compliance officers’ awareness of those methods, a quantitative survey of 190 compliance officers was subsequently conducted to determine what leads to investigations. Research limitations/implications: The findings only convey the perspectives of the 70 interviewees and 190 survey participants. Practical implications: The practical implications include suggestions for financial regulators, financial institutions and compliance officers on how to more effectively combat money laundering and terrorism financing. Originality/value: While the empirical findings are based in Europe, the results could be applied globally. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

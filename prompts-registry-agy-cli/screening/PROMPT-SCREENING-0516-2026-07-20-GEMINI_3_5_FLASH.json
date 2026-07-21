@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0516-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Predicting Money Laundering Using Machine Learning and Artificial Neural Networks Algorithms in Banks",
+    "authors": "Lokanan M.E.",
+    "year": "2024",
+    "doi": "10.1080/19361610.2022.2114744",
+    "abstract": "This paper aims to build a machine learning and a neural network model to detect the probability of money laundering in banks. The paper's data came from a simulation of actual transactions flagged for money laundering in Middle Eastern banks. The main findings highlight that criminal networks mainly use the integration stage to integrate money into the financial system. Fraudsters prefer to launder funds in the early hours, morning followed by the business day's afternoon time intervals. Additionally, the Naïve Bayes and Random Forest classifiers were identified as the two best-performing models to predict bank money laundering transactions. © 2022 Taylor & Francis Group, LLC.",
+    "source": "Journal of Applied Security Research"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo), Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

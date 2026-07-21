@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1842-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Style, meaning, and message effects",
+    "authors": "Sanders R.E.",
+    "year": "1984",
+    "doi": "10.1080/03637758409390191",
+    "abstract": "The way in which messages are styled can amplify, dampen, or entirely cancel the public reactions of respondents to communicated information. Certain options of phrasing and syntax have this impact by constraining what can follow in the unfolding text or transaction with minimal risk of misinterpretation, and without undesired inductions about the character and traits of the respondent. Such stylistic options are a resource for strategic communication when conventions and protocols for structuring discourse do not apply or are rejected. © 1984, Taylor & Francis Group, LLC. All rights reserved.",
+    "source": "Communication Monographs"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2291-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Pig Butchering Scams as Cyber-Enabled Financial Crime: A Scoping Review of Dimensions, Modus Operandi, and Victim-Offender Dynamics",
+    "authors": "Gujarathi, P; Verma, S; Nair, VV",
+    "year": "2026",
+    "doi": "10.1080/01639625.2026.2677691",
+    "abstract": "Pig butchering scams represent a complex form of cyber-enabled fraud involving psychological grooming and cryptocurrency-based investment deception. This scoping review synthesizes the fragmented but growing literature by mapping its structural dimensions, operational methods, technological enablers, and victim - offender dynamics. Following Joanna Briggs Institute guidance and reported in line with PRISMA-ScR, four academic databases and supplementary sources were searched for empirical and scholarly studies published between 2020 and 2025. Twelve studies met the inclusion criteria and were analyzed using reflexive thematic analysis. Five overarching themes were identified: (i) dimensions of pig butchering scams, (ii) modus operandi and techniques, (iii) victim characteristics, (iv) offender characteristics, and (v) outcomes and consequences. Across the literature, pig butchering scams are described as transnational and technologically sophisticated operations linked to organized criminal networks. Key features include scripted social engineering, fabricated investment dashboards, and cryptocurrency laundering mechanisms. Victims were often emotionally vulnerable, although not necessarily financially inexperienced, with some demonstrating financial or professional competence alongside relational susceptibility. Some offenders were identified as trafficked individuals coerced into scam operations. Consequences extended beyond financial loss to include psychological distress and social stigma. This scoping review highlights critical gaps in understanding offender pathways, regulatory responses, and prevention and victim-support strategies.",
+    "source": "DEVIANT BEHAVIOR"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

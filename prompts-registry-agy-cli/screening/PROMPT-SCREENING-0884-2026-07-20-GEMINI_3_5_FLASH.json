@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0884-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Limits of economic modernization: smuggling versus monopolies in modern Turkey",
+    "authors": "Metinsoy M.",
+    "year": "2024",
+    "doi": "10.1080/00263206.2023.2204429",
+    "abstract": "Monopolies constituted one of the main institutions to control the economy from the Ottoman Empire to the Republic of Turkey. Over time, monopolies’ roles changed from revenue sources for the sultans’ treasuries to assigning foreign debts to debtors, creating a Muslim-Turkish bourgeoisie, structuring property relations by commercializing the economy and finally generating revenues for modernization projects. The new Turkish state also used monopolies to raise funds for its radical modernization and state-building projects. This article examines how low-income consumers, producers and traders coped with monopolies via smuggling during the first two decades of the Republic. It argues that most of what was called smuggling were economic survival methods and the continuation of the practices that had a very long pedigree among low-income people to cope with the high prices of monopoly products due to high taxes and high monopoly profit margins. This article lays out a different interpretation of smuggling as ‘social smuggling’, which lessened the burden of the monopolies over low-income cultivators, traders and consumers. It argues that this informal economy limited the state’s extractive capacity and economic interventionism required for modernization projects. © 2023 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Middle Eastern Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

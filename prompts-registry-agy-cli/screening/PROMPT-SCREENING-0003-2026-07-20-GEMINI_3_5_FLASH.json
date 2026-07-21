@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0003-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Adopting regulatory technology for anti-money laundering in banking: Key enablers and barriers in a RegTech model",
+    "authors": "Rafiq M.; Sohail M.K.",
+    "year": "2025",
+    "doi": "10.1016/j.sftr.2025.101377",
+    "abstract": "Purpose: While extensive research has been conducted on anti-money laundering (AML) strategies, a notable gap remains regarding the role of regulatory technology (RegTech) and its impact on the effectiveness of AML systems (AMLSE). This study aims to develop a comprehensive RegTech adoption model grounded in the Technology-Organization-Environment (TOE) framework and systems theory to investigate the enablers and barriers to RegTech adoption. Methodology/Design/Approach: Data were analyzed using partial least squares structural equation modeling (PLS-SEM) with SmartPLS 4.0. The survey included 500 randomly selected banking professionals. The study examined RegTech adoption enablers and barriers, its mediating role on AML system effectiveness, and the moderating impact of adoption motivation. Results: The findings reveal that technological and organizational enablers positively influence both RegTech adoption and AMLSE. Organizational barriers indirectly affect AMLSE, while technological barriers hinder RegTech adoption. Mediation analysis underscores the significant role of technological and organizational enablers in enhancing AMLSE through RegTech adoption. The moderated analysis provides insights into the complex interactions between motivations for RegTech adoption and various enablers. Practical Implications: This research offers actionable insights for stakeholders and establishes a strong foundation for future studies on RegTech adoption and AML compliance in similar socio-economic contexts. It highlights the importance of TOE factors in successfully implementing RegTech solutions to enhance AML system effectiveness. offering a nuanced understanding of their interaction in shaping compliance outcomes. Originality/Value: By establishing a conceptual framework based on TOE theory and systems theory, this study addresses a significant research gap in RegTech adoption within the banking sector. The research contributes both theoretically and practically by developing an empirical, multi-dimensional RegTech adoption model that incorporates key enablers, barriers, mediators, and moderators, providing a comprehensive understanding of the factors influencing RegTech adoption. © 2025",
+    "source": "Sustainable Futures"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

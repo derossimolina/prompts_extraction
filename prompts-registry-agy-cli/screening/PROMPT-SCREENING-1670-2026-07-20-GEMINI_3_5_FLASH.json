@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1670-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Origin, growth and criminal capabilities of cybercriminal networks. An international empirical analysis",
+    "authors": "Leukfeldt E.R.; Kleemans E.R.; Stol W.P.",
+    "year": "2017",
+    "doi": "10.1007/s10611-016-9663-1",
+    "abstract": "Two recent studies which are part of the Dutch Research Program on the Safety and Security of Online Banking, present empirical material regarding the origin, growth and criminal capabilities of cybercriminal networks carrying out attacks on customers of financial institutions. This article extrapolates upon the analysis of Dutch cases and complements the existing picture by providing insight into 22 cybercriminal networks active in Germany, the United Kingdom and the United States. The analysis regarding origin and growth shows that social ties play an important role in the majority of networks. These networks usually originate and grow either by means of social contacts alone or by the combined use of social contacts and forums (to recruit specialists). Equally, however, forums play a vital role within the majority of the networks by offering a place where co-offenders can meet, recruit and trade criminal ‘services’. Moreover, those networks where origin and growth is primarily based on forums appear capable of creating more flexible forms of cooperation between key members and enablers, thereby facilitating a limited number of core members to become international players. Analysis of the capabilities of criminal networks shows that all networks are primarily targeted towards customers of financial institutions, but most networks are not restricted to one type of crime. Core members are often involved in other forms of offline and online crime. The majority of networks fall into the high-tech category of networks, mostly international, high-tech networks. These are networks with core members, enablers, and victims originating from different countries. © 2016, Springer Science+Business Media Dordrecht.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

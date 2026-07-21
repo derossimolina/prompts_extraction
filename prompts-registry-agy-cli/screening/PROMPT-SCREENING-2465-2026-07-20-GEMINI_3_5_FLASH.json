@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2465-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "LOW-TAX JURISDICTIONS IN INTERNATIONAL TAX PLANNING",
+    "authors": "Andrianova, N",
+    "year": "2021",
+    "doi": "10.17589/2309-8678-2021-9-3",
+    "abstract": "Until recently low-tax jurisdictions have played an important role in the formulation of tax planning schemes by multinational enterprises. However with the onset of global trends towards deoffshorization, existing methods of tax optimization have seen significant changes. As there is currently no one single approach when creating the definition of, or defining a low-tax jurisdiction, in this article the definition and the main features of low tax jurisdictions are proposed and the main stages in the formation and development of low-tax jurisdictions are detailed. On the basis of research carried out on the national legislation of low-tax jurisdictions, the main company types which meet the special legal formulae that can be incorporated into low-tax jurisdictions have been analyzed. In order to highlight similar characteristics and to simplify the analysis of the national legislation of low-tax jurisdictions so that general recommendations covering the nature of measures which can be used to counter illegal tax avoidance, tax evasion, money laundering and other illegal financial machinations, different classifications of low-tax jurisdictions have been analyzed. The unfair and perhaps even illegal use of low-tax jurisdictions often leads to violations of core tax principles which may have an impact on the overall size of budget revenues available to high-tax countries. Therefore, deoffshorization measures are being proposed at the international level. Currently the main global trend has been to increase the transparency of tax information and of financial transactions which are carried out by international exchanges. This is supported by the strengthening and expansion of cooperation between tax authorities which serves to counter the abuse of provisions in international tax treaties on the avoidance of double taxation.",
+    "source": "RUSSIAN LAW JOURNAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

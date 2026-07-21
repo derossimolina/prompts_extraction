@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1434-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Transactional Distance and Student Ratings in Online College Courses",
+    "authors": "Benton S.L.; Li D.; Gross A.; Pallett W.H.; Webster R.J.",
+    "year": "2013",
+    "doi": "10.1080/08923647.2013.838458",
+    "abstract": "Student ratings were compared in courses offered either exclusively online (n = 13,416) or face-to-face (n = 5,272). Data from 105 institutions were accessed from archived files of the IDEA Student Ratings of Instruction system. If a course was taught online, the instructor was less likely to lecture and more likely to use discussion, especially in hard disciplines. A course was less likely to have been taught online if the instructor was rated high in establishing rapport and if the course was within hard and pure disciplines. A high rating on structuring classroom experiences and expecting students to share in responsibility for learning increased the odds the course was offered online. However, high ratings on stimulating student interest and student effort in the course made it less likely. Results are discussed with respect to transactional distance elements of dialogue, structure, and learner autonomy. © 2013 Copyright Taylor and Francis Group, LLC.",
+    "source": "American Journal of Distance Education"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

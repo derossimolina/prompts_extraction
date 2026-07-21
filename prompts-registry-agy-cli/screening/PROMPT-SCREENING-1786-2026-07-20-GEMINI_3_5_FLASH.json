@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1786-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is there banks stocks’ manipulation around announcement of national elections and how can we detect and recover ill gotten assets?: The case of Greece",
+    "authors": "Repousis S.",
+    "year": "2014",
+    "doi": "10.1108/JMLC-07-2013-0026",
+    "abstract": "Purpose – The purpose of this paper is to examine the influence of major non-economic events, such as the announcement of Greek national parliamentary elections during the period 2000-2009, and search for stock manipulation and methods to detect and recover ill gotten assets. The Financial Sector in Greece is one of the most important and fast growing sectors during recent years and accounts to about 16.17-17.74 per cent of gross domestic product. The ten largest Greek banks listed in the Athens Stock Exchange, accounted to 38.34 per cent of the whole capitalisation of the Athens Stock Exchange during year end 2009. Design/methodology/approach – By using event study methodology and Market Model and analyzing data of all Greek bank stocks prices listed in Athens Stock Exchange, before and after the announcement of four Greek national parliamentary elections during period 2000-2009, we find interesting results about stock market manipulation. Findings – Using daily data from the Athens Stock Exchange, the results of this paper claim that the four Greek national parliamentary elections during the period 2000-2009, had no statistically significant effect on the Greek banks stocks. The results show that Cumulative Average Abnormal Returns (CAARs) were slightly positive or negative for Greek banks’ stocks, but not statistically significant in 5 and 10 per cent confidence levels. Results show no manipulation effect in banks’ stocks even if single-party governments in Greece caused elections early, sudden or even opportunistic timing, having an incentive to attempt to manipulate stocks to increase their chances of re-election. Practical implications – Results show that CAARs were slightly positive or negative for Greek banks stocks, but not statistically significant in 5 and 10 per cent confidence levels, but when illicit funds or assets have been acquired from stock manipulation, as small as can be, then one fact remains constant. Proceeds from illicit activities must be disguised in some way to avoid being discovered and then being recovered. Especially, during current the financial crisis, debt crisis and the extraordinary liquidity support measures taken by the European Central Bank (ECB), International Monetary Fund (IMF) and European Commission to support Greek economy, using methods to detect and recover ill gotten assets are extremely important. Indirect methods such as net worth analysis, bank deposit analysis, expenditure method or sources and application of funds analysis, to detect ill gotten assets, and then when ill gotten income and assets from bank stock manipulation are found, a restraining order or court order will help to recovery assets by freezing and finally confiscating them by two types of forfeiture – criminal and civil forfeitures. Establishing a code of conduct informing employees of the risks and consequences of insider trading, creating a culture of honesty and high ethics and implementing Controlled Foreign Corporation legislation to cope with off-shore companies trading, can help to recover ill gotten assets. Originality/value – The paper examines if there is banks stocks manipulation around announcement of Greek national parliamentary elections during the period 2000-2009; suggesting methods to detect and recover ill gotten assets and improving the current position of the Greek economy. Findings offer important positive implications for investors, political analysts and society as a whole, as Greek banks stocks show that they are not subject to political risk and manipulation and that there are methods to detect and recover ill gotten assets. A stable bank sector is prerequisite for economy growth. © 2014, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

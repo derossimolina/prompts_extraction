@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2279-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FORENSIC TECHNIQUE FOR IDENTIFYING CORRUPTION CHALLENGES TO NATIONAL SECURITY THROUGH DIGITAL TECHNOLOGIES",
+    "authors": "Makarenkov, O; Kosa, V",
+    "year": "2024",
+    "doi": "10.30525/2256-0742/2024-10-4-288-300",
+    "abstract": "The article's subject is the application of forensic techniques for the identification of corruption challenges to national security through the utilisation of digital technologies.The research methodology employed a range of methods, including general philosophical, statistical, axiomatic, comparative, systemic, formal-dogmatic, hermeneutic, axiological, and other approaches. The purpose of this article is to present a forensic technique for identifying corruption challenges to national security through the use of digital technologies. It has been demonstrated that the teleological focus of forensic investigation, namely the acquisition of proper evidence, is explicitly delineated within the methodology employed in anti-corruption investigations. This methodology encompasses the documentation of testimonies from whistleblowers and other witnesses, statements from suspects and the accused to expose their accomplices, the facts of bribery transactions, agreements on bribes, the absence of lawful sources of enrichment, facts and methods of laundering illicit funds, and the locations where such funds and other corrupt resources are stored. It is imperative that all evidence, wherever feasible, substantiates the criminal intent pertaining to corruption. This encompasses a range of investigative techniques, including accounting, auditing, covert pre-trial measures, crowdsourcing platforms, whistleblowing, news reporting and dissemination platforms, blockchain technology for monitoring financial transactions, cloud-based digital infrastructure, technical-scientific expertise and other forensic methods enhanced by sophisticated computer equipment, electronic networks and communication tools. These are employed with the objective of identifying corruption risks for national security. It was emphasised that the complexity of the digital path of corrupt funds lies in the multitude of individuals involved in financial operations with these funds and the digital products used for such operations, the duration of corruption, the large volume of corrupt funds, and/or the laundering of illicit funds through cryptocurrency, corporate assets, foreign jurisdictions, offshore tax havens, and similar means. Blockchain technology can be employed to develop a system for monitoring the compliance of income and expenses of public officials, controlling financial transactions in the field of digital assets, tracking money laundering actions, funding of other criminal activities with these funds, and other transparency procedures. The electronic anti-corruption blockchain mechanism comprises a system of programs for the creation of databases and the exchange of information pertaining to the aforementioned areas of corruption risk, with a view to safeguarding the public interest. The relevant terminology and digital indicators of the material assets of potential subjects of corruption constitute the input data for this blockchain. It was posited that the confiscation of assets linked to corruption and related criminal activities, along with other resources, should be conducted through a series of simultaneous searches at the premises of all individuals with whom the corrupt individual is associated, whether through personal, professional, or business relationships. The prompt implementation of the algorithms is essential for the return of funds. The possibilities of eradicating corruption, which is exacerbated by the use of cryptocurrencies and other virtual assets in cyberspace, are enhanced by the outlined legal measures against the backdrop of growing investments in artificial intelligence. The use of digital tools in forensic methods of combating fraud and money laundering should be based on the relevant experience of highly developed countries.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

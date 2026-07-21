@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0224-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Transaction monitoring in search of professional money launderers – a microeconomic model",
+    "authors": "Rose K.J.; Jensen R.I.T.",
+    "year": "2025",
+    "doi": "10.1108/JFRC-10-2024-0193",
+    "abstract": "Purpose: This paper formulates a microeconomic model to investigate the effects of current anti-money laundering (AML) regulations. The model is motivated by the requirement that banks undertake risk-based transaction monitoring, using “risk signals” to separate benevolent bank clients and money launderers. Design/methodology/approach: This paper uses methodology from the functional school of law and economics, holding that structural forces may hinder the development of efficient legal rules. The goal is to offer economic insights to address inefficiencies at a meta-level. Assuming money launderers have specific preferences and strategies, the paper models how they hide their activities. This allows us to investigate how money launderers respond to external shocks and policy changes. Findings: As money launderers use resources to hide their activities, this paper finds several noteworthy effects. For instance, increasing criminal penalties may decrease the amount of money laundering that is detected. Furthermore, wealthy money launderers may rarely be detected. Research limitations/implications: This paper only presents theoretical results. Originality/value: The academic literature on AML is still relatively limited. This paper’s results suggest regulators should be aware of unintended and potentially adverse effects of current regulation. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

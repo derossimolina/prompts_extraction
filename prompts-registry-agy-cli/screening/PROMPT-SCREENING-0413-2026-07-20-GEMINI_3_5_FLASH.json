@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0413-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial monitoring effectiveness in Kazakhstan’s bank investment operations: A mixed-methods evaluation",
+    "authors": "Abzhalelova S.; Ruziyeva E.; Kalkabayeva G.; Tyan O.; Kurmanalina A.",
+    "year": "2025",
+    "doi": "10.21511/bbs.20(4).2025.21",
+    "abstract": "Investment activities of banks are a key driver in financial sector development, yet their effectiveness largely depends on the quality of financial monitoring, which can detect, diagnose, and correct anti-money laundering and countering the financing of terrorism (AML/CFT) weaknesses. This article aims to assess the effectiveness of financial monitoring in the investment operations of Kazakhstani banks and to identify transaction-level risk indicators that can support data-driven AML/CFT supervision. The study employs a mixed methods design that combines analysis of national AML/CFT legislation and supervisory guidance with semi-structured expert interviews and case studies of three major institutions (Halyk Bank, Kaspi Bank, and ForteBank). In the quantitative component, a synthetic dataset of 1,000 investment-related transac-tions, calibrated to 2019–2024 statistics from the National Bank of Kazakhstan and the Committee for Financial Monitoring, is analyzed using logistic, multilevel, and Bayesian logistic regression with cross-validation and bootstrapped confidence inter-vals. The models achieve high predictive performance (AUC up to 0.93, test accuracy up to 93.2%, sensitivity 82.0%, specificity 94.1%) and show that higher transaction amounts, cross-border origin, SWIFT channel use, and investment-linked operations increase the odds of being flagged as suspicious by factors of roughly 1.5-3.5. Qualitative evidence reveals uneven digitalization, fragmented data integration, and capacity gaps, especially in mid-sized banks, which limit the practical implementation of these risk-sensitive tools. The results justify targeted regulatory support for advanced analytics and provide a replicable framework for strengthening investment-related financial monitoring in Kazakhstan and comparable emerging markets. © Sholpan Abzhalelova, Elvira Ruziyeva, Gaukhar Kalkabayeva, Olga Tyan, Anar Kurmanalina, 2025.",
+    "source": "Banks and Bank Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

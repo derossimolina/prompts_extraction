@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2448-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Polish cooperative banking sector in the face of systemic transformation and European integration in agriculture",
+    "authors": "Siudek, T",
+    "year": "2010",
+    "doi": "10.17221/102/2009-AGRICECON",
+    "abstract": "In this study the principal changes in Polish cooperative banking sector over the past two decades were presented. The primary data obtained from a survey of bank presidents, performed in 2007 on a nation-wide sample of 100 cooperative banks, were supplemented by the banking statistics from the central Statistical office and the Polish Financial Supervision. research provides the evidence that cooperative banks, in general, took advantages from the consolidation process. While the number of the banks was declining, own funds per bank, bank offices and staff were expanding. The banks managed to adjust to the EU requirements by having implemented limits on loan concentration, procedures for counteracting money laundering and meeting minimum capital requirements. They introduced system of the deposit guarantee, monitoring and control of credit risk and adapted new regulations. The cooperative banks for the most part retained their original characteristics. The sector still plays the prominent role in serving and financing of agriculture and rural development.",
+    "source": "AGRICULTURAL ECONOMICS-ZEMEDELSKA EKONOMIKA"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0063-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Why Don’t You Want My Money: A Study of the Acceptance of Cryptocurrencies in Online Cannabis Markets",
+    "authors": "Saldaña-Taboada P.; Girard M.; Décary-Hétu D.",
+    "year": "2026",
+    "doi": "10.1080/01639625.2024.2418451",
+    "abstract": "Drug trafficking is a crime that is constantly renewing and adapting to new technological advances. With the emergence of cryptocurrencies, many offenders have incorporated this technology in the development of their criminal activities. It is usually assumed that characteristics of this virtual currency such as its security and anonymity could favor criminality. This paper studies the acceptance of cryptocurrencies in online drug markets in Canada. The results show that most marketplaces refuse cryptocurrency as a form of payment. Furthermore, they suggest that this acceptance is based on criteria of business improvement and customer acquisition, with the market’s need to take advantage of the cryptocurrency’s features being less important. Merchants do not consider their use necessary to protect the development of their criminal activity and therefore most of them do not intend to accept them in the future. The extended TAM has shown to be valuable in elucidating conclusions regarding the acceptance of cryptocurrency in this area. © 2024 Taylor & Francis Group, LLC.",
+    "source": "Deviant Behavior"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

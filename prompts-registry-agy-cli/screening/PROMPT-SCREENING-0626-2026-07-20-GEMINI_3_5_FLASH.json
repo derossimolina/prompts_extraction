@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0626-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Understanding business offending: survey research in Iran",
+    "authors": "Gottschalk P.; Kamaei M.",
+    "year": "2024",
+    "doi": "10.1108/JFC-10-2022-0246",
+    "abstract": "Purpose: The purpose of this study is to explore the extent to which white-collar crime makes sense. Understanding business offending reflects the degree of sensemaking among respondents in the current survey research. Making sense implies a number of factors that influence understandability. An understandable act is not necessarily acceptable or justifiable. At a university in Iran, criminal law and criminology students answered a questionnaire regarding their extent of understanding of business offenders. Design/methodology/approach: The research method is the use of experimental data using a questionnaire in one of the units of the Islamic Azad University in Iran, where 300 students were invited to respond to an online survey. Findings: The respondents found it on average understandable that top executives and other privileged individuals abuse their positions to commit financial crime when they have problems with their personal finances, when the business struggles financially and faces the threat of bankruptcy, and when they offer bribes in corrupt countries to obtain business contracts. The extent of understandability varies with a number of propositions in the convenience theory. Originality/value: This article has not been submitted elsewhere and is original. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

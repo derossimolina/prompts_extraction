@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0630-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The influence of organizational aspects of educational and research institutions on transaction costs in the formation of partnerships with local governments; [A influência de aspectos organizacionais das instituições de ensino e pesquisa sobre os custos de transação na formação de parcerias com governos locais]; [Influencia de los aspectos organizativos de las instituciones educativas y de investigación en los costos de transacción en la formación de alianzas con gobiernos locales]",
+    "authors": "de Moura Palotti P.L.; Joppert M.P.; Machado J.A.",
+    "year": "2024",
+    "doi": "10.1590/0034-761220230344x",
+    "abstract": "How do organizational aspects of education and research institutions influence transaction costs in establishing partnerships with local administrations? Based on unpublished data from an online survey of a group of 95 educational institutions this article aims to answer this question through a quantitative study seeking to verify the correlation between the characteristics of the partnerships formed and three selected organizational aspects: decentralization of campuses, the existence of a structure to welcome potential partners (gateway), and the presence of approval bodies. Based on propositions relating to transaction costs extracted from the theory of collective institutional action, hypotheses were formulated involving the effect of each organizational aspect. The results showed that the decentralization of campuses influences not only the presence but also the number of relevant experiences of partnerships with municipalities. Structuring “gateways” in training institutions more precisely affects the degree of formalization of partnerships, offering greater legal security and stability. However, the presence of approval bodies for partnerships negotiated in teaching and research institutions does not seem to affect, either positively or negatively, the establishment of these partnerships. © 2024, Fundacao Getulio Vargas. All rights reserved.",
+    "source": "Revista de Administracao Publica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

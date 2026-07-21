@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1101-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Audit committees in financial institutions in Saudi Arabia: a dichotomy of perceptions of functional independence and the reporting of financial crime",
+    "authors": "Almakhfor R.A.; Norton S.D.",
+    "year": "2021",
+    "doi": "10.1108/JFC-03-2021-0053",
+    "abstract": "Purpose: Audit committees (ACs) have an important role to play in banks in Saudi Arabia in detecting and reporting weaknesses which may make financial crime possible. The Saudi Arabian Corporate Governance Code of 2016 comprises recommendations for ensuring the effectiveness of these committees, but cultural and behavioural factors can constitute impediments. This paper aims to explore these factors and makes recommendations. Design/methodology/approach: The methodology is qualitative, using data derived from responses to a questionnaire administered to 180 current and former members of internal and external audit teams of Saudi Arabian banks. Findings: ACs in Saudi financial institutions enjoy a high degree of functional independence of boards. Boards tend to regard ACs as part of the organisation: in contrast, AC members perceive their first duty as being owed to stakeholders. Disagreements between boards and ACs regarding disclosure of findings of systemic weaknesses which facilitate money laundering (ML) are made publicly available; this engenders transparency and avoidance of collusion. Professional qualifications and experience of AC members have improved substantially in recent years, equipping them to better discharge statutory duties regarding the detection and reporting of suspected ML. Research limitations/implications: The regulatory body, the Saudi Arabian Markets Authority, should be diligent in ensuring the presence of non-executive directors in sufficient numbers to counterbalance influence by boards. Disagreements between boards and ACs regarding internal systemic changes to prevent ML and other financial crimes should be formally recorded in minutes and made public as a matter of record. Originality/value: Questionnaire responses by past and present members of ACs are unique and contribute to the literature. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

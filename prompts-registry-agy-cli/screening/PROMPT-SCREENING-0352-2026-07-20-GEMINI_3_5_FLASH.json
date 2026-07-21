@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0352-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Analysis and Classification of Corporate Fraud Based on the Literature and Investigated Cases in Romania",
+    "authors": "Capraş I.L.; Achim M.V.",
+    "year": "2024",
+    "doi": "10.2478/sbe-2024-0031",
+    "abstract": "Corporate fraud has become increasingly common and sophisticated in today's complex economic world, and a variety of strategies for perpetrating fraud have arisen. Financial fraud has various negative implications in the corporate sector since it reduces efficiency and undermines confidence and loyalty among all stakeholders. In this context, the aim of this article is to identify the various types of corporate fraud by describing and categorizing them based on the motivation and purpose for which they are committed; additionally, different types of corporate financial crimes were examined in a case study for Romania. Data for this study were gathered from past research on the subject as well as other national databases on financial crime. Tax evasion, financial statement manipulation, and bankruptcy fraud to deceive financial data users are among the various types of fraud examined. Financial fraud in organizations is a continually changing topic. The findings suggest that corporate fraud must be prevented at multiple levels, including corporate governance, internal control and external regulation. This study contributes to the existing body of knowledge on corporate fraud and can be utilized as a resource by managers and regulators looking to better understand fraud and strengthen governance and internal control systems. © 2024 Isabella Lucuţ Capraş et al., published by Sciendo.",
+    "source": "Studies in Business and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

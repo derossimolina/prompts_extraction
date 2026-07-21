@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0797-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The financial aspects of human trafficking: A financial assessment framework",
+    "authors": "Broad R.; Lord N.; Duncan C.",
+    "year": "2022",
+    "doi": "10.1177/1748895820981613",
+    "abstract": "This article presents a framework for analysing, assessing and systematising the varying financial aspects of human trafficking. We analysed 378 human trafficking cases, scrutinising police case file data to determine patterns and scenarios of associated financial aspects and transactions and corroborating these with police analysts. Our contributions are threefold: (1) to demonstrate the feasibility of analysing the before, during and after financial components of human trafficking while recognising obstacles to uncovering their entirety; (2) to reaffirm that while most known trafficking cases are not substantially profitable in financial terms, they involve varied operational and infrastructural financial costs; and (3) to argue that although financial institutions, such as banks, can be central to the dialogue with enforcement, the ability of many trafficking enterprises to operate outside formal financial institutions calls for a consideration of the interfaces and overlaps of the finances of trafficking within and outside the banking system. © The Author(s) 2020.",
+    "source": "Criminology and Criminal Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

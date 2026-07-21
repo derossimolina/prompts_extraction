@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2553-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How to Teach Blockchain in a Business School",
+    "authors": "Dettling, W",
+    "year": "2018",
+    "doi": "10.1007/978-3-319-74322-6_14",
+    "abstract": "There are different approaches to developing a syllabus for a blockchain curriculum in a business school. The following chapter identifies many questions which can guide lecturers through their own process of creating a blockchain syllabus. The list of topics and figures presented indicate how much time could be spent on these topics. This list does not present a definite syllabus, because the essence of blockchain is that it is a holistic approach which goes beyond naming topics. It raises certain questions and is intended to start a broader discussion which will eventually lead to a systematic approach to this multidimensional challenge. Structuring this journey leads to the following four main questions, which are considered relevant in this discussion: What are the key research topics in blockchain? What is the impact of blockchain and by what criteria do we define impact? Which building blocks of blockchain are relevant to understanding the blockchain mechanism? Which applications (beside Bitcoin) should be discussed and are expected to become important in the near and distant future? This journey closes with some methodological remarks based on my experience of teaching blockchain classes. Finally, it is obvious that any curriculum will be condemned to continuous adaption because blockchain technology is changing in an ongoing way.",
+    "source": "BUSINESS INFORMATION SYSTEMS AND TECHNOLOGY 4.0: NEW TRENDS IN THE AGE OF DIGITAL CHANGE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

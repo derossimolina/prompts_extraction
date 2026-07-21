@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0041-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Notes and reflections on Money laundering and measures to combat it; [Notas e reflexões sobre o branqueamento de capitais e as medidas tendentes ao seu combate]",
+    "authors": "Rodrigues M.M.P.; de Azevedo P.A.O.N.",
+    "year": "2024",
+    "doi": "10.5281/zenodo.14292848",
+    "abstract": "In the Portuguese criminal legal system, Money laundering constitutes a crime, foreseen and punished in article 368-A of the Penal Code. This is the process through which perpetrators of criminal activities conceal the origin of assets and income/advantages obtained illicitly, transforming the liquidity arising from these activities into legally reusable capital, by disguising the origin or true owner of the funds. Now, regardless of what, specifically, each legal system considers as a crime of Money laundering, the fundamental objective of committing this crime is to hide the origin of the goods/products, while in terrorist financing the agent's intention is to hide the purpose for which the goods/products are intended. The practice of Money laundering is likely to put at risk the regular functioning of the foundations of societies and, mainly, market economies. Furthermore, in the crime of Money laundering the origin of the procedes is always illicit, whilst in the crime of terrorist financing the origin of the procedes may be lawful. In our contribution, our theme was a criminal legal analysis. © Cadernos de Dereito Actual Nº 26. Núm.",
+    "source": "Cadernos de Dereito Actual"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

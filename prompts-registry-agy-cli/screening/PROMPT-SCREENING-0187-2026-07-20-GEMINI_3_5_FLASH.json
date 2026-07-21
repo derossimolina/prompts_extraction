@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0187-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Global Dirty Laundry: A Heckman-Adjusted Gravity Model of Illicit Financial Flows",
+    "authors": "Chai A.; Manning M.; Stepanova E.",
+    "year": "2026",
+    "doi": "10.1007/s10940-026-09659-5",
+    "abstract": "Objectives: This study aims to identify key factors that shape the global network of illicit financial flows (IFFs) related to money laundering and other financial crimes. Specifically, it examines the factors determining both i) the selection of destination countries and ii) the volume of illicit funds laundered. Methods: We developed a Heckman-adjusted gravity model of illicit financial flows, utilizing data from Suspicious Activity Reports lodged between 2007 to 2017. The first stage of the model analyses the selection of destination countries, while the second stage estimates the volume of laundered funds. Key variables include GDP, financial service quality, Egmont membership, corruption levels, and geographic distance. The Heckman correction is applied to address selection bias. Results: Our findings indicate that wealthier countries attract higher levels of illicit financial flows. However, high quality financial services deter both the selection of a country for laundering and the volume of funds laundered. Reported IFFs are more likely from countries with high corruption and conflict levels. Trade, culture and geographic proximity are also found to be correlated with the likelihood and magnitude of reported IFFs. Conclusions: Results show evidence of displacement and provide evidence of the link between illicit financial flows and the international flow of trade, people and remittances. Limitations include potential biases in the data and the exclusion of non-USD transactions. © The Author(s) 2026.",
+    "source": "Journal of Quantitative Criminology"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

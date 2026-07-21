@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2475-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "EFFECTS OF BOARD AND AUDIT COMMITTEE ATTRIBUTES ON BANK PERFORMANCE IN BANGLADESH",
+    "authors": "Maniruzzaman, M; Hossain, SZ; Sayaduzzaman, M",
+    "year": "2024",
+    "doi": "10.31436/ijema.v32i2.1250",
+    "abstract": "This paper explores the impacts of board and audit committee (AC) features on the financial performance of DSE-listed banks in Bangladesh from 2016 to 2022 because concern arose from a growing number of banking scandals, a huge number of money laundering incidents, and a growing amount of nonperforming loans in this industry. Descriptive and inferential statistics have gauged the impacts of explanatory variables on bank performance. Generalized Method of Moments (GMM) reveals that board size, board autonomy, AC size, and AC meetings are linked positively with return on assets (ROA), but in an insignificant way. Yet, directors' ownership, AC freedom, and AC financial and accounting knowledge are inversely associated with bank financial performance, where AC freedom is significant at the 10% level. Also, firm size and age are linked positively with ROA, but the linkages are inconsequential. Non-performing assets, however, are inversely associated with ROA, and the tie is significant. The current study found that the existing corporate governance (CG) code efficacy needs enhancement and suggests reforming this code based on social, political, economic, and cultural priorities. This study especially urges a review of the selection strategies of some key personnel (CEO, AC head, and independent directors) and the role of regulatory bodies, such as Bangladesh Bank and the Ministry of Finance. In addition, the study suggests to include at least one independent board director on behalf of the depositors.",
+    "source": "INTERNATIONAL JOURNAL OF ECONOMICS MANAGEMENT AND ACCOUNTING"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

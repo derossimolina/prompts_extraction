@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1500-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Determinants and trading performance of equity deferrals by corporate outside directors",
+    "authors": "Franco F.; Ittner C.D.; Urcan O.",
+    "year": "2017",
+    "doi": "10.1287/mnsc.2015.2332",
+    "abstract": "This study investigates the determinants and trading performance of outside directors' equity deferrals, which represent the choice to convert part or all of their annual cash compensation into deferred company stock. Using a large sample of S&P 1500 firms that allowed directors to defer their cash fees into equity between 1999 and 2009, we find significant associations between equity deferral choices and specific features of the director compensation plans, proxies for directors' outside wealth diversification, and future firm stock market performance. Trading performance analyses indicate that outside directors earn substantial abnormal returns from their deferrals, with a significant proportion of the deferral transactions occurring during blackout periods. These results are consistent with companies structuring director equity deferral plans to circumvent U.S. Securities and Exchange Commission Rule 10b-5's trading restrictions. © 2017 INFORMS.",
+    "source": "Management Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0862-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "RECENT TRENDS IN THE FINANCIAL CRIME OF THE WORLD",
+    "authors": "Sigetova K.; Uzikova L.; Dotsenko T.; Boyko A.",
+    "year": "2022",
+    "doi": "10.55643/fcaptp.5.46.2022.3897",
+    "abstract": "The paper emphasizes that the digitalization of the modern world, the development of information technology, the spread of the Internet, computer networks, and the use of cyberspace have facilitated the daily life of society. However, these factors have entailed a threat to the security and confidentiality of information, personal data, and the financial system. The authors state that financial fraud is becoming an increasingly severe global problem since criminals use the financial ecosystem for money laundering and illegal financial transactions. The study's primary purpose is to identify the latest trends in the financial crime of the world. The methodological tools of the research consisted of theoretical research methods (grouping, abstraction), empirical research methods (observation, description), and the resource base of the information platform, bibliometric analysis, and modeling. The following scientific categories were chosen as the objects of study: regulatory and legal aspects of financial crimes, online crimes and cybercrimes, methods and systems of regulation, control, prevention, counteraction, combating financial crime, and modeling of financial crime processes. The paper analyzes the literature sources regarding the shift of the interest of modern financial market scientists to the study of the features of financial crime. The relevance of identifying the latest trends in financial crime lies in the fact that the study of financial crime trends will allow the improving of the awareness of financial fraud, creating common databases, building coalitions, and identifying effective and efficient ways to improve the ability to combat financial crime at a more effective national and global level. At the initial stage of the work, a bibliometric analysis of scientific publications dedicated to the study of the latest trends in financial crime was carried out. As a result, literary works for the study of the specified issue were systematized; a map of relationships between key terms and other scientific concepts was created; a content-contextual and intercluster analysis of the obtained blocks of bibliometric analysis was carried out; a map of the relationships of the studied key concepts with other scientific categories in dynamics was constructed and the contextual-time block was analyzed. The research in this paper is carried out in three parts, which provide for the definition of several research vectors. As a result of research - the authors discuss potential sources and tools of financial fraud with their negative, harmful aspects for identification, in-depth consideration, and study; they identify tools for countering financial crimes; practical models for evaluating, analyzing, identifying, comparing, and visualizing the features of financial crime are described. The conclusion of the study assumes that the results of the study can be practically applied by financial organizations, institutions, and business entities for the future safe functioning of the financial sector but taking into account the need for constant development of IT support for financial transactions as a response to the rapidly changing needs of our time. © 2022. by the author(s).",
+    "source": "Financial and Credit Activity: Problems of Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

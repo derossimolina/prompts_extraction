@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0019-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Jurisdiction in Financial Crime: A Legal Analysis of the Investigative Authority of Indonesia’s Financial Services Authority in Money Laundering Cases",
+    "authors": "Ningsih A.; Prananingtyas P.; Salwa A.; Maharani F.; Wardhani H.",
+    "year": "2025",
+    "doi": "10.33756/jlr.v7i2.27147",
+    "abstract": "Act Number 4 of 2023 expands the Financial Services Authority (known as Otoritas Jasa Keuangan/OJK), as the leading sector in investigating money laundering crimes initiated by criminal acts in the financial services sector. However, this provision has resulted in many legal ambiguities, such as who can explore the predicate crime, what the optimal division of authority between the police and the OJK is, and what the consequences of the OJK's authority as a sole investigator. This article is here to identify the legal ambiguities arising from the expansion of OJK authority and to offer solutions that focus on strengthening harmonization and coordination between related institutions. The approach includes an analysis of available legal instruments, relevant case studies, and other policies used to address financial service crimes, such as banking fraud. The results of this study are expected to contribute positively to the expansion of the authority of the OJK in enhancing the effectiveness of money laundering investigations. In addition, this article also contributes to providing concrete recommendations to overcome legal ambiguities by strengthening cooperation between institutions and formulating more integrated policies. © 2025, State University of Gorontalo. All rights reserved.",
+    "source": "Jambura Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

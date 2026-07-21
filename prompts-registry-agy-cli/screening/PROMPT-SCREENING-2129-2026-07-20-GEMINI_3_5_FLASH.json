@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2129-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organized Crime: A Business Enterprise",
+    "authors": "Sellin T.",
+    "year": "1963",
+    "doi": "10.1177/000271626334700103",
+    "abstract": "“Organized crime,” as commonly understood today, is synonymous with economic enterprise organized for the purpose of conducting illegal activities and which, when in pursuit of legitimate ventures, uses illegal methods. These illegal business enterprises exist to cater to human vices- gambling, drinking, sex, narcotics-proscribed by law. Financial profit is their goal, and they subscribe to the tenets of American entrepreneurship. Like legitimate enterprises, they must have capital, physical plant, managerial personnel, and employees of various kinds. In hierarchical structure, table of organization, and the distribution of duties among components, an illegal business enterprise is essentially like a legitimate one-in the case of gambling, like banking. The basic difference lies in the fact that the illegal nature of the business creates problems that must be solved by means legal firms do not have to employ. Both, however, hope for continuity and survival. The prevalent and well-known numbers racket is a clear illustration of continuity in illegal business enterprise and of the manner in which an illegal business must operate to survive. Findings from the investigation of numbers and gambling in Buffalo indicate that the numbers racket, among syndicated underworld operations, is one of the most highly organized, well staff ed, and thoroughly disciplined. Playing the numbers and gambling in general, like participation in other vices, survive because large portions of the population enjoy them, see no harm in them, and do not regard them as immoral, even when they are illegal.-Ed. © 1963, SAGE Publications. All rights reserved.",
+    "source": "The Annals of the American Academy of Political and Social Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

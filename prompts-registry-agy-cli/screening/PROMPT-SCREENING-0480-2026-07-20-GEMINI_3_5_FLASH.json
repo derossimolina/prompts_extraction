@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0480-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The dark side of business: economic and financial crime as a catalyst for failure in Europe",
+    "authors": "Muntean N.; Tocelovska N.; Muntean I.",
+    "year": "2025",
+    "doi": "10.1108/JRF-10-2024-0298",
+    "abstract": "Purpose: This research aims to explore the relationship between the number of business failures and the prevalence of economic and financial crime. First, the study contributes to theory by analyzing the connections among the shadow economy, money laundering, corruption, tax burden and corporate insolvencies across various European economies. Second, it offers practical guidance for economic policymakers regarding the impact of these macroeconomic factors on the frequency of business insolvencies. Design/methodology/approach: This study employs panel regression analysis to examine data from 32 countries, comprising 17 Western European nations and 15 Central and Eastern European nations, over the period from 2013 to 2023. Findings: The findings indicate that an increase in the shadow economy and money laundering, along with a decrease in the fiscal burden, is positively correlated with the number of business failures. Furthermore, empirical evidence shows that the level of innovation has a direct effect on the rate of corporate insolvencies. Therefore, we can conclude that promoting innovation may assist governments in mitigating issues related to bankruptcies. Originality/value: The issue of economic and financial crime goes well beyond mere tax revenue loss; it impacts vital national concerns such as labor protection, fair competition, innovation incentives, and the overall allocation of resources in the economy. Therefore, enhancing institutional efficiency and improving oversight are critical considerations for companies aiming to achieve long-term benefits and ensure business resilience. © 2025, Emerald Publishing Limited.",
+    "source": "Journal of Risk Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

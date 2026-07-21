@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1872-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Estimating the magnitude of capital flight due to abnormal pricing in international trade: The Russia-USA case",
+    "authors": "De Boyrie M.E.; Pak S.J.; Zdanowicz J.S.",
+    "year": "2005",
+    "doi": "10.1016/j.accfor.2005.03.004",
+    "abstract": "Governmental and international lending agencies, as well as private sector firms, who engage in international trade, have long been concerned with detecting and determining the magnitude of abnormal pricing in international trade. To detect such abnormal pricings, we present a framework analyzing millions of import/export transactions between the U.S. and Russia. The objectives of this study are to estimate the economic impact of over-invoiced/under-invoiced Russian imports/exports from/to the U.S. and to determine if capital movement/capital flight through trade is due to money laundering, tax evasion or some sort of portfolio consideration. Our results lead us to conclude that capital movement through trade in this case can be attributed to either money laundering and/or tax evasion. © 2005 Elsevier Ltd. All rights reserved.",
+    "source": "Accounting Forum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

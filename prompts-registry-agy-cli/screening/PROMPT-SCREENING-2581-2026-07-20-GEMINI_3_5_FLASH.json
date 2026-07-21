@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2581-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "INNOVATIVE ACCOUNTING AND AUDIT OF THE METAVERSE RESOURCES",
+    "authors": "Zadorozhnyi, ZM; Muravskyi, V; Humenna-Derij, M; Zarudna, N",
+    "year": "2022",
+    "doi": "10.21272/mmi.2022.4-02",
+    "abstract": "Active use of virtual electronic information environments - metaverses is the most perspective way of information and communication technologies development. In the meta-environment, traditional accounting objects undergo significant changes due to their intangible interpretation, which requires improving their accounting and auditing reflection. Accordingly, the purpose of this study is to improve the methodology and organization of accounting and auditing in the metaverse in terms of identification, recognition, and reflection in the accounting system of non-current intangible assets, goodwill of IT companies, NFT (non-fungible tokens), cryptocurrencies, sales costs and other objects in the meta-environment. To implement the purpose of scientific research, systemic, innovative, and institutional approaches and economic and mathematical modelling, bibliographic and comparative analysis have been used. Given the significant public distrust and active threats in the digital business, the need to introduce an audit in the metaverse to ensure the reliability, integrity, and legitimacy of information flows is justified. The possibility of recognizing from the standpoint of accounting and auditing of all virtual tools and objects of work that carry out the cycle in the meta-environment in the form of NFT, assets due to: uniqueness and separation from other accounting objects; opportunities for free purchase (sale) in the meta space, potential economic value in the case of retention and accumulation; reliable determination of value based on costs, sales contract or expert (market) assessment. It is proposed to classify NFT according to the criterion of useful life on non-current and current assets with the appropriate reflection in the composition of non-current and current intangible assets. The prospects of personalized marketing promotion of products (goods, services) in the metaverse with separate accounting of costs for the sale of tangible and intangible objects to ensure the reliability, analytical, and comparability of accounting information have been defined. As a result, a conclusion was formed on the expediency of transforming the reporting structure of meta-environment enterprises in terms of increasing the share of intangible assets and the potential absence of any tangible assets in terms of the full transfer of financial and economic activities in a virtual environment. The order of structuring the reporting of the enterprises of the metaverse needs further research.",
+    "source": "MARKETING AND MANAGEMENT OF INNOVATIONS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

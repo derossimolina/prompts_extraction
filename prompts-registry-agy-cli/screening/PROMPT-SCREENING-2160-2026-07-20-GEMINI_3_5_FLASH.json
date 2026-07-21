@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2160-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The changing nature of contracting and trust in public-private partnerships: The case of Victorian PPP prisons",
+    "authors": "English L.; Baxter J.",
+    "year": "2010",
+    "doi": "10.1111/j.1467-6281.2010.00320.x",
+    "abstract": "This paper examines shifting constructions of contracting and trust that are manifest between pre-2000 and post-2000 public-private partnerships (PPPs) providing prison facilities and/or services in the Australian State of Victoria. As such, this paper is significant because it outlines longitudinal insights into the nature of changing practices sustaining these PPPs. The post-2000 period examined reflects a change of government and the policy context. Our examination is based on a range of primary and secondary documents. The primary documents comprise three pre-2000 Prison Services Agreements and two post-2000 Facilities Services Agreements. A number of government and other reports constitute the secondary documents consulted. While there are many substantive similarities between the contracts, we find five main areas of changed contracting practices over the period examined. These relate to: first, the objectives of the PPP prisons; second, risk management practices; third, the approach to performance measurement and reporting; fourth, the structuring of incentive and payment mechanisms; and fifth, the emphasis on collaboration. Overall, we find that the post-2000 contracts promote a more overt development of goodwill trust and relational contracting, building on presumptions of contractual and competence forms of trust. However, quite different outcomes have been achieved from particular contractual contexts. Our study suggests that in complex PPP contracts, the influences of both the transacting parties and the transaction environment have been insufficiently recognized in the literature on PPPs. © 2010 The Authors. Abacus© 2010 Accounting Foundation, The University of Sydney.",
+    "source": "Abacus"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

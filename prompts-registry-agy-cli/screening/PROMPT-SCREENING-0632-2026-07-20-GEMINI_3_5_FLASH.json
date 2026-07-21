@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0632-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Monitor and detect suspicious online transactions",
+    "authors": "Sarkar S.; Lincy R.B.; Sasireka P.; Mittal S.",
+    "year": "2023",
+    "doi": "10.1504/IJESDF.2023.133967",
+    "abstract": "This article provides a thorough examination of phishing attempts, their use, several contemporary visual similarity-based phishing detection systems, and their comparison evaluation. This research article aims to propose an effective design technique for IDS with regard to online applications. We develop a new set of features based on time-frequency analytics that makes use of 2-D models of monetary operations for preventing money laundering systems. As a classification algorithm, random forest is used, and clustering algorithm is used to tune the hyperparameters. Our findings imply that bitcoin exchanges would behave in an excessive reporting manner more than private banks under this law. We specifically take into account the monetary operations as a digital signal and attempt to build a classifier using a collection of frequently mined rules. Our tests on a replicated transaction dataset based on actual banking operations demonstrate the effectiveness of our suggested approach. Copyright © 2023 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Electronic Security and Digital Forensics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

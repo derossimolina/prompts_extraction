@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2163-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Insulating the vaults from the tide of dirty money&colon; are the floodgates secure&quest;",
+    "authors": "Ajayi K.; Abdulkareem H.",
+    "year": "2010",
+    "doi": "10.1108/13685201011010191",
+    "abstract": "PurposeThe purpose of this paper is to discuss the issues faced by financial institutions in detecting threats to their stability and integrity, and taking adequate steps to ensure that those who engage in abuse are detected and sanctioned. The focus is on financial institutions in Nigeria. The paper proffers practical recommendations towards greater effectiveness of Nigeria's anti&hyphen;money laundering &lpar;AML&rpar; and counter terrorist&hyphen;financing regimes. Design&sol;methodology&sol;approachThe paper explores Nigerian legislation on money laundering, terrorism, and related crimes. Data are also drawn from analysis of reports of relevant law&hyphen;enforcement agencies, regulatory agencies, as well as English and Nigerian case law. FindingsThe paper highlights the deficiencies in current money laundering and counter&hyphen;terrorist financing &lpar;CTF&rpar; legislation in Nigeria. It reveals that financial institutions may still be liable to their customers in the course of complying with applicable legislation. The paper suggests that the power of law&hyphen;enforcement agencies to &ldquo;freeze&rdquo; assets be expanded, while legislation should be enacted with explicit guidance on treatment of politically exposed persons, and terrorism. Practical implicationsThe paper calls for a progressively risk&hyphen;based approach to reporting of suspicious transactions by Nigeria's financial institutions, as well as greater attention to the provision of training to compliance personnel. Originality&sol;valueThis paper highlights issues requiring urgent legislative intervention&semi; it also draws attention to areas where law&hyphen;enforcement agencies and financial institutions could collaborate better in managing cost of compliance and securing the overall effectiveness of the AML and CTF regimes. © 2010, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

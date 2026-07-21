@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1503-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Use of causal analysis to improve the monitoring of the banking system stability",
+    "authors": "Kolodiziev O.; Chmutova I.; Lesik V.",
+    "year": "2018",
+    "doi": "10.21511/bbs.13(2).2018.06",
+    "abstract": "According to the stages of the banking system stability monitoring, the analysis of causal links is used to identify the causes of the crisis trends spreading and the rationale for the most effective levers of regulatory influence on the banking system parameters by the central bank. The research is based on the use of the canonical correlation method for structuring causal links between the indicators for the assessment of the banking system stability, which are grouped into four sub-indices (assessing the intensity of credit and financial interaction in the interbank market, the effectiveness of the banking system functions, structural changes and financial disproportions in the banking system, activities of systemically important banks); the method of regression analysis and the calculation of elasticity coefficients is also used to assess the sensitivity of the banking system stability to changes in parameters that characterize the banking regulation instruments. The article analyzes the results of quantitative and qualitative assessment of the banking system stability (comparison of actual results of the evaluation with the data for previous years and comparison of values of stability indicators with critical values). The causes of detected deviations are determined taking into account the results of applying the canonical correlations method. Regression models have been constructed to confirm the dependence of the banking system stability index on the change in parameters that characterize banking regulation instruments, and to determine the most effective of them. Practical testing of submitted proposals is realized based on the Ukrainian banking system indicators for 2007-2016. © Oleh Kolodiziev, Iryna Chmutova, Vitaliy Lesik, 2018.",
+    "source": "Banks and Bank Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

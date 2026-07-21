@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0076-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Effect of Implementing Internal Control Systems According to the COSO Committee in Reducing Money Laundering in Jordanian Commercial Banks",
+    "authors": "Alqudah M.M.A.; Al-Tahat S.; Almarabha L.T.Y.",
+    "year": "2024",
+    "doi": "10.62754/joe.v3i4.3847",
+    "abstract": "This study sought to determine the effects of an internal control system implementation for banks according to the COSO Committee and its role in reducing money laundering in Jordanian commercial banks, a questionnaire was designed distributed, and analyzed by 45 participants working as external auditors (chartered accountants) for Jordanian commercial banks, and the analytical and descriptive methods were applied, with one sample using the T-test. The study showed several results, including the impact of internal control systems with their eight components in reducing money laundering, as well as the existence of interest and awareness by the departments of Jordanian commercial banks of the importance and role of internal control systems according to the COSO Committee, and the importance of the availability of the elements of the internal control system from a controlled environment, the existence of an information and communication system, monitoring and follow-up to contribute to reducing money laundering. The study recommended adopting a self-assessment model for regulatory risks in banks because of its advantages in explaining the types of risks surrounding the banks related to the concepts, operations, and stages of money laundering. © 2024, Creative Publishing House. All rights reserved.",
+    "source": "Journal of Ecohumanism"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

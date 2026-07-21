@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0930-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Counteraction To Financial Crimes In The System Of Fight Against Legalization (Laundering) Of Criminally Obtained Funds",
+    "authors": "Blikhar M.; Vinichuk M.; Komarnytska I.; Zaiats O.; Kashchuk M.",
+    "year": "2022",
+    "doi": "10.55643/fcaptp.1.42.2022.3704",
+    "abstract": "Counteraction to financial crimes in the system of fight against legalization (laundering) of criminally obtained funds in the context of globalization and European integration is one of the priority directions of public policy in the financial sphere. Crisis phenomena of financial and economic, as well as socio-political nature, which are present in Ukraine, increase the risks of committing financial crimes and legalization (laundering) of criminally obtained funds as a result of illegal activities. The growing trends of increasing financial crime necessitate effective counteraction to destabilizing factors and the development of an effective mechanism to combat this destructive phenomenon. The article defines the essence of financial crimes and legalization (laundering) of criminally obtained funds, substantiates the relationship and interdependence of financial crime with the legalization (laundering) of criminal income. The economic and legal analysis of normative and legal support of counteraction to financial crime and legalization of economy is carried out. The research of the dynamics of the number of financial crimes committed in Ukraine, the amount of legalized (laundered) funds and property, as well as the amount of legalized (laundered) funds obtained as a result of tax evasion, is conducted. The peculiarities of assessing the risks of legalization (laundering) of criminally obtained funds, based on the use of risk-oriented approach, are analyzed, and the most significant risks of legalization (laundering) of illegal funds are identified. In order to improve and ensure effective counteraction to financial crimes in the system of fight against legalization (laundering) of criminally obtained funds, the main measures of counteraction to financial crime in Ukraine are proposed, the implementation of which requires strengthening economic, legal and administrative cooperation of economic agents. © Blikhar M., Vinichuk M., Komarnytska I., Zaiats O., Kashchuk M.",
+    "source": "Financial and Credit Activity: Problems of Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

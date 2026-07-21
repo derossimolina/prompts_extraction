@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2304-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organising the Monies of Corporate Financial Crimes via Organisational Structures: Ostensible Legitimacy, Effective Anonymity, and Third-Party Facilitation",
+    "authors": "Lord, N; van Wingerde, K; Campbell, L",
+    "year": "2018",
+    "doi": "10.3390/admsci8020017",
+    "abstract": "This article analyses how the monies generated for, and from, corporate financial crimes are controlled, concealed, and converted through the use of organisational structures in the form of otherwise legitimate corporate entities and arrangements that serve as vehicles for the management of illicit finances. Unlike the illicit markets and associated organised crime groups' and criminal enterprises' that are the normal focus of money laundering studies, corporate financial crimes involve ostensibly legitimate businesses operating within licit, transnational markets. Within these scenarios, we see corporations as primary offenders, as agents, and as facilitators of the administration of illicit finances. In all cases, organisational structures provide opportunities for managing illicit finances that individuals alone cannot access, but which require some element of third-party collaboration. In this article, we draw on data generated from our Partnership for Conflict, Crime, and Security Research (PaCCS)-funded project on the misuse of corporate structures and entities to manage illicit finances to make a methodological and substantive addition to the literature in this area. We analyse two cases from our researchcorporate bribery in international business and corporate tax fraudbefore discussing three main findings: (1) the ostensible legitimacy created through abuse of otherwise lawful business arrangements; (2) the effective anonymity and insulation afforded through such misuse; and (3) the necessity for facilitation by third-party professionals operating within a stratified market. The analysis improves our understanding of how and why business offenders misuse what are otherwise legitimate business structures, arrangements, and practices in their criminal enterprise.",
+    "source": "ADMINISTRATIVE SCIENCES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

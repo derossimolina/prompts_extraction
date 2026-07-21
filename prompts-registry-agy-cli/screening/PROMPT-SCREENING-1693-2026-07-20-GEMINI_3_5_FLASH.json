@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1693-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bank secrecy in offshore centres and capital flows: Does blacklisting matter?",
+    "authors": "Balakina O.; D'Andrea A.; Masciandaro D.",
+    "year": "2017",
+    "doi": "10.1016/j.rfe.2016.09.005",
+    "abstract": "This study analyses cross-border capital flows in order to verify the existence and direction of the effect of the soft regulation promoted by international organizations against banking secrecy which characterized the so called tax and financial heavens. This effect is called in the literature Stigma Effect, but both the existence and the direction of the stigma effect are far from being obvious. The international capital flows can simply neglect the relevance of the blacklisting, or worst, the attractiveness of banking secrecy can produce a race to the bottom: the desire to elude more transparent regulation can sensibly influence the capital movements. We test whether being included and later excluded from the FATF blacklist is an effective measure that influences countries’ cross-border capital flows. Using annual panel data for the period 1996–2014, we apply our framework to 126 countries worldwide. We find evidence that in general the stigma effect does not exist. © 2016 Elsevier Inc.",
+    "source": "Review of Financial Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

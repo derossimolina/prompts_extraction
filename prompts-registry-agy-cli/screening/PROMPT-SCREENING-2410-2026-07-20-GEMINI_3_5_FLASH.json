@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2410-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DETECTION OF ILLICIT CAPITAL THROUGH THE FORENSIC METHODOLOGY OF CRIMINAL CORRUPTION INVESTIGATION",
+    "authors": "Makarenkov, O",
+    "year": "2026",
+    "doi": "10.30525/2256-0742/2026-12-2-91-104",
+    "abstract": "The article examines the forensic methodology for identifying the capital derived from corruption-related crimes. It is noted that the essence of the methodology lies in a system of methods for recognizing reliable traces, collecting, examining, documenting, and preserving evidence of the existence of such assets in both the material and cybernetic spheres. It is established that the methodology for identifying corruption assets is defined through the algorithms of forensic experts and investigators with data regarding such assets, their owners, the mechanisms of their acquisition, storage, multiplication, and laundering, the results of which are transformed into evidence. This methodology intersects with the methodology of investigating money laundering offences. It is emphasized that the personality of the corrupt actor and his accomplices is characterized by social alienation. Corrupt actors maintain special relationships with financiers (bankers, investors, insurers, brokers) and businesspersons, as well as with accountants and programmers. Taken together, analysis of these connections enables investigators to determine the places, methods, scale, and composition of misappropriated public funds, the results of their laundering and multiplication, and to identify appropriate mechanisms for their seizure and return. It is underscored that the documentation of procedural actions is accompanied by protocols (interrogations, inspections, expert examinations, audio, photo, and video recordings, etc.), inventory lists, and other annexes to the protocols of thorough searches, expert reports, procedural documents, and other materials required under criminal procedure law. A certain part of the evidentiary base for identifying and/or recovering corruption assets consists of contracts, certificates of completed work, memoranda, reports, and other officially prepared documents drafted by specialists in all jurisdictions and fields where such assets are located. The study of these documents is necessary to overcome the obfuscation created by corrupt actors. It is determined that corruption assets in cyberspace require verification of cryptocurrency wallets and electronic addresses belonging to the corrupt actor. Assets located outside the national jurisdiction in which they were obtained have a relatively high probability of being identified and/or returned only in countries intolerant of illicit proceeds and largely free from internal corruption.The article concludes that the practical measures of criminal justice authorities to identify illicit proceeds in the form of digital currencies and to trace their laundering through such currencies depend on legislative norms regulating the activities of cryptocurrency exchanges, which act as intermediaries in transactions with these assets. Financial monitoring by exchanges of the legality of the sources of funds used by participants in transactions on electronic platforms, as well as the blocking of assets belonging to corrupt actors, terrorists, war sponsors, money launderers, and other criminals, is essential. To date, the primary model for implementing such regulation remains that of the United States. It is summarized that the labor intensity, complexity, and duration of criminal procedural actions aimed at identifying corruption assets, combined with uncertainty regarding the timing of their return, underscore the importance of recording corruption assets-with varying degrees of verification, composition, nominal value, location, stage of return, and corresponding procedural documents of justice authorities-in a specialized register or in new sections of existing anti-corruption registers.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

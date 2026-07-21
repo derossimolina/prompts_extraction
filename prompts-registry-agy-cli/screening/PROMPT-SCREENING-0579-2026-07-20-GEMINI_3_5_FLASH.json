@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0579-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "What’s in the laundromat? Mapping and characterising offshore-owned residential property in London",
+    "authors": "Bourne J.; Ingianni A.; McKenzie R.",
+    "year": "2023",
+    "doi": "10.1177/23998083231155483",
+    "abstract": "The UK, particularly London, is a global hub for money laundering, a significant portion of which takes place through residential property. However, understanding the distribution and characteristics of offshore residential property in the UK is a challenge. This paper attempts to remedy that situation by enhancing a publicly available dataset of UK property owned by offshore companies. We create a data-processing pipeline which draws on several datasets and on machine learning techniques to create a parsed set of addresses classified into six use classes. The enhanced dataset contains 138,000 properties – 44,000 more than the original dataset. The majority are residential (95k), with a disproportionate number of those in London (42k). The average offshore residential property in London is worth 1.33 million GBP, and collectively this amounts to approximately 56 billion GBP. We perform an in-depth analysis of offshore residential property in London, comparing the price, distribution and entropy/concentration with Airbnb property, low-use/empty property and conventional residential property. We estimate that the total number of offshore, low-use and Airbnb properties in London is between 144,000 and 164,000, collectively worth between 145–174 billion GBP. Furthermore, offshore residential property is more expensive and has higher entropy/concentration than all other property types. In addition, we identify two different types of offshore property – nested and individual – which have different price and distribution characteristics. Finally, we release the enhanced offshore property dataset, the complete low-use London dataset and the pipeline for creating the enhanced dataset to encourage further research into this topic. © The Author(s) 2023.",
+    "source": "Environment and Planning B: Urban Analytics and City Science"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

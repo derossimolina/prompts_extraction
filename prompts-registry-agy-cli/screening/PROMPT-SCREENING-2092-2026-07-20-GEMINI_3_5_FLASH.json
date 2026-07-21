@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2092-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hawala, hysteria and hegemony",
+    "authors": "Viles T.",
+    "year": "2008",
+    "doi": "10.1108/13685200810844479",
+    "abstract": "PurposeThe purpose of this paper is to highlight criticism of attempts to impose regulations on hawala and other informal value transfer systems &lpar;IVTSs&rpar;, in light of their importance in the lives of people in the most vulnerable sectors of global society. Design&sol;methodology&sol;approachReview of scholarly, public&hyphen;policy, and legal literature on hawala and other IVTSs. FindingsMost attempts to regulate hawala and other IVTSs seem redundant of existing regimes, or, worse, unreasonably punitive when their social utility is considered. Originality&sol;valueA contribution to the debate on the supposed need to regulate hawala and other IVTSs favored by the poorest and most vulnerable sectors of global society. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

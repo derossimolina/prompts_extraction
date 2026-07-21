@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2420-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The organized crime - violence nexus in the Democratic Republic of Congo",
+    "authors": "López, V",
+    "year": "2018",
+    "doi": "10.15366/relatcionesinternacionales2018.38.008",
+    "abstract": "The article analyses the organized crime - violence nexus in the Democratic Republic of Congo ( DRC) from a critical perspective through theories of violence, failed states and organized crime. It starts by describing how the armed groups are financed through the trafficking of natural resources. Then it analyses the system of violent kleptocracy established by the ruling elite to prey on the resources of the country at the expense of the population. It continues by examining two examples of corporate crime. The article considers some attempts of solution at the international, regional and local levels. The article ascertains the existence of the organized crime - violence nexus in the DRC, victim of a new war which is not intended to be won but extended, is motivated by greed rather than grievance, in which state and non- state actors compete, and which victims are mainly civilian. The elites extract rents from the country with the complicity of corporations and offshore jurisdictions, feeding a vicious circle of underdevelopment since the inception of the country 130 years ago. This situation continues to frustrate the efforts of the international community to build peace.",
+    "source": "RELACIONES INTERNACIONALES-MADRID"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0421-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Know Your Customer (KYC) Model: A Legal Reform Strategy to Prevent Abuse of Financial Services in Child Sexual Exploitation Transactions",
+    "authors": "Zentoni; Santoso B.; Tobing D.M.L.; Fernando Z.J.",
+    "year": "2025",
+    "doi": "10.15294/jllr.v6i1.19651",
+    "abstract": "KYC (Know Your Customer) is a process undertaken by financial institutions to identify and verify the identity of their customers. The aim is to prevent financial crimes such as money laundering, fraud and terrorist financing. This Know Your Customer (KYC) model can be used as a strategic framework for financial institutions to prevent misuse of financial services including child sexual exploitation transactions that are rampant. The model emphasizes rigorous customer identification, verification and continuous monitoring of transactions to detect suspicious activity. By carefully understanding customer financial behavior, financial institutions can identify anomalies that may indicate illicit activities, including those related to child exploitation. Globally, financial service providers including major banks such as HSBC, JPMorgan Chase, and Citigroup, as well as digital payment platforms such as PayPal and Stripe exemplify and can play a key role in preventing child sexual exploitation. This research uses normative legal research methods. The nature of this research is descriptive-prescriptive. The result of this research states that in the future, financial institutions can implement strict KYC (Know Your Customer) policies, monitor suspicious transactions, and cooperate with law enforcement agencies from various countries. This comprehensive approach not only helps combat child exploitation, but also improves global regulatory compliance, thus maintaining the integrity of the financial system. The implementation of the KYC model involves collaboration with law enforcement and utilizes advanced technology for efficient data analysis and customer monitoring. Ultimately, this model serves to protect vulnerable populations while upholding ethical standards within the financial sector. © 2025 Authors.",
+    "source": "Journal of Law and Legal Reform"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

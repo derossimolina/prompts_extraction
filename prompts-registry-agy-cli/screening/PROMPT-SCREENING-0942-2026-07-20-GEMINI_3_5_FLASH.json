@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0942-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enablers of illicit drug trafficking by organised crime groups",
+    "authors": "Morgan A.; Dowling C.",
+    "year": "2023",
+    "doi": "10.52922/ti78931",
+    "abstract": "In this study we explore the enablers of illicit drug trafficking using law enforcement intelligence data on a sample of 587 organised crime groups. We measure the prevalence of other forms of criminal activity and their relationship with poly-drug trafficking, which refers to the trafficking of multiple drug types and is associated with increased profitability, versatility and resilience to disruption. Other forms of criminal activity- including enablers of illicit drug trafficking-were common. Half the groups (52%) were poly-drug traffickers. Groups suspected to have exploited or infiltrated the transport system (air, sea or surface) and those suspected of laundering money via the real estate market or gambling services were more likely to be trafficking multiple drug types. Groups that relied on these enabling activities were more likely to involve professional facilitators. This research highlights a number of key enablers of organised crime that may be targeted to disrupt illicit drug trafficking. © Australian Institute of Criminology 2023.",
+    "source": "Trends and Issues in Crime and Criminal Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

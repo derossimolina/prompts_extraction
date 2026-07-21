@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0977-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "POTENTIAL EFFECTS OF THE DEVELOPMENT OF THE INDUSTRIAL COMPLEX OF MARINE GAS PRODUCTION IN THE ARCTIC; [ПОТЕНЦИАЛЬНЫЕ ЭФФЕКТЫ РАЗВИТИЯ ПРОМЫШЛЕННОГО КОМПЛЕКСА МОРСКОЙ ГАЗОДОБЫЧИ В АРКТИКЕ]",
+    "authors": "Zhukov O.V.",
+    "year": "2020",
+    "doi": "10.37614/2220-802X.1.2020.67.005",
+    "abstract": "This study is conceptual and forms an idea of the possible potential effects of the implementation of large-scale offshore gas production projects implemented in difficult geo-economic conditions. The article presents the results of an analysis of existing methodological approaches to determining the potential effects of the implementation of large-scale offshore gas production projects. On this basis, the main scientific problem has been identified and indicated, which consists in the need to develop a unified methodological approach aimed at establishing the investment attractiveness of such projects in order to take into account the specifics and conditions of their implementation. The research methodology is based on the integrated use of existing methodological approaches, including the method of analogies, the method of structuring goals, the expert-analytical method and ensuring that socioeconomic efficiency and the environmentally-balanced orientation of large-scale offshore gas production projects in the Arctic are taken into account. The use of these methods allowed us to obtain the main result of the study, which consists in developing a reasonable list of potential effects characterizing the development of the offshore gas production complex for the Arctic region and stakeholders. Evaluation of the effects of project implementation on the list of technical and economic calculations will comprehensively reflect the effectiveness of complex industrial complexes, including determining the innovative component of offshore projects and developing solutions to organizational problems, including the optimal formation of special infrastructure and the implementation of state policy in the field of import substitution. The scientific novelty of the developed list of effects lies in their integration assessment, which will subsequently allow ranking of large-scale gas production projects by industrial importance. In conclusion, the main conclusions and recommendations of the scientific research are presented. © 2020 Kola Science Centre of the Russian Academy of Sciences. All Rights Reserved.",
+    "source": "Sever i Rynok: Formirovanie Ekonomiceskogo Poradka"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

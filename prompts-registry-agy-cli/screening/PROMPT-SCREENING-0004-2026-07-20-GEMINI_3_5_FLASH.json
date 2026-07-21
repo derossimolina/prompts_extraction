@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0004-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Criminal accumulation by dispossession: the exploitation of property development in peripheral areas by organised crime",
+    "authors": "Bertolin M.; Chiodelli F.",
+    "year": "2025",
+    "doi": "10.1080/21622671.2023.2207590",
+    "abstract": "The paper discusses the infiltration of mafia-type organised crime groups (OCGs) in property development, with a particular focus on peripheral areas. It has two main aims. First, to shed light on the fact that mafia-type OCGs often become active players in this industry. Second, to identify those place-bound aspects that foster their infiltration. To this end, the article reviews recent cases of infiltration in the sphere of urban development with regard to the non-traditional mafia area of northern Italy. By investigating two peripheral municipalities, Brescello and Desio, it offers an insight into two main factors that make peripheral areas an attractive property market for place-embedded OCGs such as mafia groups: first, the structural weaknesses of peripheral municipalities with regard to their political–administrative spheres which, in turn, amplify the shortcomings of the planning process; and second, the fact that peripheral property markets present some features that make them more likely to be affected by the economic input of OCGs and thus create an ideal scenario for a process of criminal accumulation by dispossession. © 2023 Regional Studies Association.",
+    "source": "Territory, Politics, Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

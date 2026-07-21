@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1184-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Connections between trades and trafficking in wildlife and drugs",
+    "authors": "van Uhm D.; South N.; Wyatt T.",
+    "year": "2021",
+    "doi": "10.1007/s12117-021-09416-z",
+    "abstract": "Whilst drug trafficking has been a concern for several decades, wildlife trafficking has only fairly recently garnered international attention. Often media coverage of wildlife trafficking links it to the illegal trade of drugs. This article analyses wildlife and drug trafficking connections of various kinds. The purpose is to reveal the overlaps and synergies of wildlife and drug trafficking, providing concrete examples of where these markets co-exist as well as intertwine based on literature and original fieldwork. It explores the question of ‘Why in some cases, an illicit market remains focused on a single commodity, whilst in others it accommodates a combination of illicit commodities?’ This study identifies different types of wildlife-drugs linkages, including combined contraband, camouflage, multiple trade lines, shared smuggling routes and transportation methods, barter trade, and laundering drug money. The article shows that illicit markets are complex and the examples of activities and transactions that are provided illuminate some of the different dimensions of converging and diverging trades involving wildlife and drugs. © 2021, The Author(s).",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

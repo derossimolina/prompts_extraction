@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0263-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Building Public Trust in Bahrain: Leveraging Artificial Intelligence to Combat Financial Fraud and Terrorist Financing Through Cryptocurrency Tracking",
+    "authors": "Alrasheed R.A.R.",
+    "year": "2025",
+    "doi": "10.3390/socsci14050308",
+    "abstract": "This study assesses public trust in Bahrain regarding the potential of artificial intelligence (AI) to mitigate the use of cryptocurrencies in financial fraud and terrorist financing. The increasing risks associated with illicit financial activities have been exacerbated by the rapid expansion of e-commerce linked to cryptocurrencies, leading to vulnerabilities in financial technology systems. AI presents a viable solution for detecting, analyzing, and assessing the risks associated with cryptocurrency transactions, strengthening confidence in financial institutions’ regulatory measures. Evaluating public trust is crucial to understanding societal awareness of AI’s role in monitoring and regulating virtual financial transactions to prevent fraud. This research employs a quantitative approach to examine the key factors that enhance confidence in AI-driven auditing and oversight of cryptocurrency transfers. The findings indicate that, while AI offers significant advantages in combating financial crime, certain challenges remain. These include technological complexities, difficulties in accurately identifying users, and weaknesses in electronic financial and legal regulatory frameworks. Such challenges may undermine public trust in AI’s effectiveness in financial oversight. Addressing these concerns is essential to ensuring the successful integration of AI in financial regulation and reinforcing its role in enhancing security and transparency in cryptocurrency transactions. © 2025 by the author.",
+    "source": "Social Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1242-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Safe Place to Suffer: Psychotherapy With Clients for Whom No Improvement May be Possible",
+    "authors": "Berlin A.; Brodrick R.",
+    "year": "2021",
+    "doi": "10.1080/03621537.2021.1949177",
+    "abstract": "The authors begin by considering five prognostic trajectories for clients in psychotherapy and linking these to contemporary medical models in order to assist psychotherapists in structuring their thinking about their approach and method. For clients for whom “cure” is not a realistic outcome, alternative therapeutic goals are suggested. A model of psychotherapy for working with individuals who do not experience any substantial long-term benefit from therapy is then offered. Central to this model is the therapist’s recognition of their limited capacity to help the client. Calling on the psychotherapeutic community to discuss “no cure” clients in more detail, they argue that if painful feelings of failure and inadequacy are acknowledged and processed by the therapist, unconsciously abandoning the client may be avoided. The theoretical basis for this model is explored through developmental neurobiology, clinical vignettes, and diagrammatic representation. © 2021 International Transactional Analysis Association.",
+    "source": "Transactional Analysis Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

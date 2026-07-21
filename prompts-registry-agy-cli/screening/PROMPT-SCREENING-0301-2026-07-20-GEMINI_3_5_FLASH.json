@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0301-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crypto Taxation and Regulatory Convergence: A Comparative Study of the European Union and South Africa",
+    "authors": "Novazi Z.; Sengwane K.",
+    "year": "2026",
+    "doi": "10.54648/taxi2026046",
+    "abstract": "The rapid growth of cryptoassets has posed significant challenges for tax administrations worldwide, particularly in detecting taxable transactions, verifying valuations, and linking them to identifiable taxpayers. The pseudonymous and at times anonymous design of crypto assets undermines traditional enforcement models that depend on identifiable intermediaries and jurisdictional oversight. This article conducted a comparative analysis of the European Union’s (EU’s) evolving regulatory framework and considered the lessons that South Africa can draw in strengthening its capacity to administer and enforce crypto taxation. The EU has progressively expanded its approach from the early Anti-Money Laundering Directives (AMLDs) to more integrated instruments, including the Markets in Crypto-Assets Regulation (EU) 2023/1114 (MiCA), the revised Transfer of Funds Regulation (EU) 2023/111 (TFR), and Council Directive (EU) 2023/2226 (DAC8), alongside the Organization for Economic Co-operation and Development (OECD)’s Crypto-Asset Reporting Framework (CARF). © 2026 Kluwer Law International BV, The Netherlands",
+    "source": "Intertax"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

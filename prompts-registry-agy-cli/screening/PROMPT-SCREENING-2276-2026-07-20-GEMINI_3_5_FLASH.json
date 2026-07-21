@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2276-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The globalization of threat: a systematic review of crime-terror convergence",
+    "authors": "Farber, S",
+    "year": "2025",
+    "doi": "10.1108/JMLC-12-2024-0198",
+    "abstract": "Purpose - This study aims to examine the convergence between terrorism and organized crime, focusing on financial mechanisms such as informal value transfer systems and the institutional conditions that facilitate illicit flows. Design/methodology/approach - Using a systematic literature review (preferred reporting items for systematic reviews and meta-analyses), the study analyzes 82 sources from 2010 to 2023. It applies four theoretical frameworks - social network theory, institutional theory, resource dependence and globalization theories - and uses thematic analysis to identify patterns across organizational and structural levels. Findings - The review identifies strong and weak forms of convergence, with about one-third of terrorist groups involved in financial collaborations with organized crime. Key facilitators include weak regulations, informal banking systems and state fragility. Technological tools such as cryptocurrencies further complicate detection and enforcement. Research limitations/implications - The study's reliance on English-language literature may introduce Western bias, while the dynamic nature of financial threats means some recent developments may not be captured. Access to operational intelligence and classified data on financial operations is limited. Future research should focus on emerging financial technologies, evolving money laundering methodologies and the effectiveness of different regulatory approaches in countering the crime-terror nexus. Practical implications - The findings provide actionable insights for financial institutions and compliance officers, emphasizing the need for enhanced transaction monitoring systems and sophisticated customer due diligence procedures. The study highlights specific areas where anti-money laundering frameworks need strengthening, particularly in addressing informal value transfer systems and emerging financial technologies. These insights can inform the development of more effective suspicious transaction reporting mechanisms and risk assessment models. Originality/value - This study offers a multilevel theoretical approach to understanding the crime-terror nexus and emphasizes the growing institutional and financial complexity of hybrid threats. It provides policy insights and highlights the need for adaptive regulatory and intelligence frameworks.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

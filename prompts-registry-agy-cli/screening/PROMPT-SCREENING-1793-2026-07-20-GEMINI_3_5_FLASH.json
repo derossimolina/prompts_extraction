@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1793-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax control of cryptocurrency transactions in Ukraine",
+    "authors": "Volosovych S.; Baraniuk Y.",
+    "year": "2018",
+    "doi": "10.21511/bbs.13(2).2018.08",
+    "abstract": "The current global financial market is witnessing the activation of cryptocurrency as a payment instrument and a means of accumulation. However, the risks of money laundering, terrorism financing and tax evasion that cryptocurrency transactions imply lead to the need to implement their state regulation, an important component of which is tax control. Therefore, the purpose of the article is to substantiate the value orientations when forming the system of cryptocurrency transactions tax control in Ukraine taking the positive experience of developed countries into account. The scientific results of the study consist in the emphasizing structural, functional, systemic and institutional approaches to understanding tax control, which became the basis for identifying the features of cryptocurrency transactions as a tax control object. It was revealed that the lack of personalization of the agreement parties, the relatively high level of information security, free international turnover and a decentralized payment system are the factors of the cryptocurrency market further development. On the other hand, this leads to the loss of tax revenues for Ukrainian budgetary system, taking into account the forecasted trends in the development of the cryptocurrency market by 2022 through methods of sums, least squares and expert estimates. Given the institutional approach to the understanding of tax control, an institutional structure of the cryptocurrency transactions tax control in Ukraine is proposed. It is established that domestic state institutions are able to carry out tax control over these transactions. It is also determined that introducing fiscal control will result in the receipt of additional revenues by budgets, reduction of shadow economy, counteraction to cybercrime and terrorism financing. The practical importance of the results is in the need to form an effective system of cryptocurrency transactions tax control as a function of public administration. It has been determined that transactions on cryptocurrency supply, on the determining exchange rates and transactions on cryptocurrency disposal should be an object of tax control in Ukraine. Mining transactions, receipt of income (profits) in the cryptocurrency are subject to general taxes, depending on the taxpayer’s legal status, in particular, personal income tax, corporate income tax and a unified social tax (UST). Taking into account the EU recommendations on the non-application of value added tax in the cryptocurrency transactions taxation, it is not appropriate to implement it in this area. Establishing tax control over cryptocurrency transactions will expand the powers of state authorities that are empowered to control observing financial discipline by economic agents in Ukraine and the financial capabilities of state and local budgets. © The author(s) 2018.",
+    "source": "Banks and Bank Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1936-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering",
+    "authors": "Morris-Cotterill N.",
+    "year": "2001",
+    "doi": "10.2307/3183186",
+    "abstract": "From Moscow to Buenos Aires, money laundering scandals sap economies and destabilize governments. Policymakers blame crime cartels, tax havens, and new techniques like cyberlaundering. But dirty money long predates such influences. Without unified rules governing global finance, outlaws will always exploit disparate legal systems to stash the proceeds of their crimes.",
+    "source": "Foreign Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

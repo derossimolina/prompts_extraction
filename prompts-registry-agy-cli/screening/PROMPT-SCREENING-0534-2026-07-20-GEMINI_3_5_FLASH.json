@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0534-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dr. Chunilal Bose: a forgotten scientist and a science communicator",
+    "authors": "Sanyal I.",
+    "year": "2022",
+    "doi": "10.1007/s43539-022-00038-0",
+    "abstract": "Modern medical education began in Bengal with the establishment of Calcutta Medical College (CMC) in 1835. Soon it became an important centre for medical education and research in India. Chunilal Bose (1861–1930), an alumnus of CMC, worked in his alma mater as the Chemical Examiner of Bengal for more than three decades and conducted pioneering researches on toxins and poisons, food poisoning, food adulteration, diabetes, small pox, forensic science, effects of narcotics etc. His research publications appeared in reputed journals such as British Medical Journal, Transactions of the Chemical Society of London, The Indian Medical Gazette, and Calcutta Medical Journal etc. Bose was also instrumental in passing the Indian Poisons Act (1904) and in creating a public awareness against consumption of narcotics. Bose was an able science communicator of the late nineteenth and early twentieth century Bengal and extensively wrote and lectured in a simple language, both in Bengali and English, on the subjects of public health and hygiene, general science and history of science that were connected to the wellbeing of the common people, with an intention of creating science awareness and scientific temper in the society. Honours and awards showered upon him during his lifetime, but Bose’s important contributions to medical sciences and science popularization were less discussed by the historians of science, as the focus generally remained on his more illustrious contemporaries. In the course of time, Chunilal Bose became a nearly forgotten scientist and a science communicator. His 160th birth anniversary was observed in 2021. © Indian National Science Academy 2022.",
+    "source": "Indian Journal of History of Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0812-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Threshold fine-tuning of money laundering scenarios through multi-dimensional optimization techniques",
+    "authors": "Gupta A.; Dwivedi D.N.; Jain A.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-12-2020-0138",
+    "abstract": "Purpose: Transaction monitoring system set up by financial institutions is one of the most used ways to track money laundering and terrorist financing activities. While being effective to a large extent, the system generates very high false positives. With evolving patterns of financial transactions, it also needs effective mechanism for scenario fine-tuning. The purpose of this paper is to highlight quantitative method for optimizing scenarios in money laundering context. While anomaly detection and unsupervised learning can identify huge patterns of false negatives, that can reveal new patterns, for existing scenarios, business generally rely on judgment/data analysis-based threshold finetuning of existing scenario. The objective of such exercises is productivity rate enhancement. Design/methodology/approach: In this paper, the authors propose an approach called linear/non-linear optimization on threshold finetuning. This traditional operations research technique has been often used for many optimization problems. Current problem of threshold finetuning for scenario has two key features that warrant linear optimization. First, scenario-based suspicious transaction reporting (STR) cases and overall customer level catch rate has a very high overlap, i.e. more than one scenario captures same customer with different degree of abnormal behavior. This implies that scenarios can be better coordinated to catch more non-overlapping customers. Second, different customer segments have differing degree of transaction behavior; hence, segmenting and then reducing slack (redundant catch of suspect) can result in better productivity rate (defined as productive alerts divided by total alerts) in a money laundering context. Findings: Theresults show that by implementing the optimization technique, the productivity rate can be improved. This is done through two drivers. First, the team gets to know the best possible combination of threshold across scenarios for maximizing the STR observations better coverage of STR – fine-tuned thresholds are able to better cover the suspected transactions as compared to traditional approaches. Second, there is reduction of redundancy/slack margins on thresholds, thereby improving the overall productivity rate. The experiments focused on six scenario combinations, resulted in reduction of 5.4% of alerts and 1.6% of unique customers for same number of STR capture. Originality/value: The authors propose an approach called linear/non-linear optimization on threshold finetuning, as very little work is done on optimizing scenarios itself, which is the most widely used practice to monitor enterprise-wide anti-money laundering solutions. This proves that by adding a layer of mathematical optimization, financial institutions can additionally save few million dollars, without compromising on their STR capture capability. This hopefully will go a long way in leveraging artificial intelligence for further making financial institutions more efficient in controlling financial crimes and save some hard-earned dollars. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

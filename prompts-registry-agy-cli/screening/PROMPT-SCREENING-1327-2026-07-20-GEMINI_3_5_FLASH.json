@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1327-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Data mining with associated methods to predict consumer purchasing patterns",
+    "authors": "Lisnawati H.; Sinaga A.",
+    "year": "2020",
+    "doi": "10.5815/ijmecs.2020.05.02",
+    "abstract": "Technology is developed and utilized as an honest computer in order that it can provide useful information. With the aim of developing and meeting business objectives, the utilization of sales transaction data in minimarket GP is processed into information or knowledge as a recommendation to ascertain the possible value of purchased simultaneously. This processing uses data mining. Database buildup in computerized systems is justified by getting added value from this data set. Data mining can predicts trends and therefore the nature of business behavior which is extremely useful to support important deciding. The algorithm wont to form the association rules during this study is CT-Pro. CT-Pro algorithm may be a development of FP-Growth. The difference is within the second step where FP-Growth creates the FP-Tree arrangement while CT-Pro makes the Compressed FP-Tree (CFP-Tree) arrangement. The CT-Pro algorithm process by analyzing employing a tree system where the things most frequently purchased become root and other items will follow the basis. The CFP-Tree process will provide levels for every transaction and facilitate mining results. CT-Pro algorithm implementation with CFP-Tree arrangement applied to data mining systems is in a position to research sales data for 3 months, namely January 2020 – March 2020 with a complete data record of 1.303 and 320 sales transactions at minimarket GP become information or knowledge. The results of this study are the relationship between the tendency of products that are bought together based on categories in a kind of percentage to be used as a recommendation in structuring the position of items that are mutually frequent in certain categories. © 2020 MECS.",
+    "source": "International Journal of Modern Education and Computer Science"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

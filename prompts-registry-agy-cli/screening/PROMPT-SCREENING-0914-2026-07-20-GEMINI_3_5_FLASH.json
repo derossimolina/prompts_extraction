@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0914-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sustainable Collective Action in High-Rise Gated Communities: Evidence from Shanxi, China Using Ostrom’s Design Principles",
+    "authors": "Shi X.; Ling G.H.T.; Wang H.K.",
+    "year": "2022",
+    "doi": "10.3390/su142114432",
+    "abstract": "Gated communities have been the popular form of housing around the world to address social and safety issues over the past decade, including in Chinese cities. However, gated communities, despite being a more efficient system (less congested), have been criticized for their inefficiency to address the tragedy of the urban commons (overexploitation). Therefore, Ostrom’s self-organizing system (collective action) has been suggested as a sustainable approach to govern common resources but little empirical research has demonstrated how Ostrom’s collective action theory, associated with new institutional economics theory, is applied to the gated communities’ commons management. To address the research gap, the study, via a phenomenological case study, proposes a collective action model in which Ostrom’s eight design principles coupled with Williamson’s transaction cost and opportunism theories are used to improve commons management performance in gated communities. Using stratified purposive sampling, ten gated communities with various characteristics were selected in the Taigu district. In-depth semi-structured interviews were then held with community managers to collect valid data, which were subsequently subjected to content (thematic) analysis. As a result, by understanding and structuring the managers’ real experiences into a modified version of Ostrom’s eight principles, the study proposed a collective action model with low transaction costs in terms of enforcement in gated communities as well as reduced opportunistic behaviors of commoners. Specifically, the eight principles in the model include well-defined community members’ rights, commons management rules aligned with local needs and conditions, rights of residents to modify the commons management rules, monitoring systems overseen by community members, a graduated sanction system for rule violators, low-cost dispute resolution, unchallenged rule-making rights by community members, and a nested-tier management structure. The study findings contribute novel insights to the formulation of institutional strategies toward sustainable housing and building management for urban and community managers. © 2022 by the authors.",
+    "source": "Sustainability (Switzerland)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

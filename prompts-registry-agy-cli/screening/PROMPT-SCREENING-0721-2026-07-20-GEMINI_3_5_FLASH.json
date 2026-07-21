@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0721-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "TOWARD EFFECTIVE OF ASEAN MUTUAL LEGAL ASSISTANCE IN COMBATING NON-TRADITIONAL SECURITY THREAT IN SOUTHEAST ASIA REGION",
+    "authors": "Prayuda R.; Syafrinaldi; Suparto; Admiral; Sary D.V.",
+    "year": "2023",
+    "doi": "10.21902/Revrima.v4i42.5983",
+    "abstract": "Objective: The issue of non-traditional security is currently one of the changes in the study of international security. One of the changes is from state security to human security. The real threat to human security is transnational crime. This crime is a form of organized crime with a transnational or transnational modus operandi, form and perpetrator. Therefore, in overcoming this transnational crime, it is necessary to have coordination between law enforcers of each country by using the implementation of internati onal law. This transactional crime is common in border areas and is increasingly complex in Southeast Asian countries. Methods: This article uses a liberalism approach with a descriptive qualitative research approach (literature study) so that it can describe the phenomena that occur empirically. Results: The research findings explain that the lack of domestic law enforcement in ASEAN countries causes transnational criminals to escape from domestic law and flee to other countries, causing fear of new threats in the country where they have fled. In essence, no country is able to stand alone in solving this transnational crime case. So, multilateral cooperation between countries is needed. ASEAN, which in this case is a Southeast Asian multilateral institution, must set a strategy through MLA (Mutual Legal Assistance in criminal matters). So that with the rules governing mutual assistance cooperation in criminal matters of this transnational crime case, state policies and domestic law enforcement of a country will be more integrated. © 2023, Centro Universitario Curitiba - UNICURITIBA. All rights reserved.",
+    "source": "Relacoes Internacionais no Mundo Atual"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

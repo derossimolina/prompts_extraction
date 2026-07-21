@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0281-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ON THE DUAL NATURE OF THE LEGAL STATUS OF CREDIT INSTITUTIONS; [О ДВОЙСТВЕННОЙ ПРИРОДЕ ПРАВОВОГО СТАТУСА КРЕДИТНЫХ ОРГАНИЗАЦИЙ]",
+    "authors": "Gavrichkov V.V.",
+    "year": "2025",
+    "doi": "10.31857/S1026945225100121",
+    "abstract": "The article explores the legal status of credit institutions, characterized by its dual private-law and public-law nature. It analyzes the challenges arising from credit institutions performing public-law functions, manifested in legal conflicts, judicial disputes, and imbalances in liability. The Russian and foreign experience in legally formalizing the role of banks in implementing state financial policy is examined. Based on the analysis, the article concludes that it is necessary to develop legal mechanisms ensuring a balance between the objectives of fulfilling credit institutions’ private-law and public functions, while also facilitating their reorientation towards core credit and investment activities. © 2025, Russian Academy of Sciences. All rights reserved.",
+    "source": "Gosudarstvo i Pravo"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

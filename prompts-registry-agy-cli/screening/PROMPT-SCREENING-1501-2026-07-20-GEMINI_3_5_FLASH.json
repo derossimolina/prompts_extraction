@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1501-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Shell companies, Latvian-type correspondent banking, money laundering and illicit financial flows from Russia and the former Soviet Union",
+    "authors": "Stack G.",
+    "year": "2015",
+    "doi": "10.1108/JMLC-06-2014-0020",
+    "abstract": "Purpose – The paper aims to examine the role played by international shell companies in Latvian-type correspondent banking, who creates the shell companies according to what criteria and the resulting money laundering operations for financial flows from Russia and the former Soviet Union. Design/methodology/approach – This paper draws on journalist and non-governmental organisations investigations, financial intelligence unit reports, interviews with participants, whistleblower reports and public domain databases to research financial activities shrouded in secrecy with connections to corruption and organised crime. Findings – Latvian-type correspondent banking generates for its clients from the former Soviet Union anonymous shell companies en masse across diverse onshore and offshore jurisdictions. The shell companies are vehicles for moving white, grey and black funds from Russia, Ukraine and other former Soviet countries through international correspondent banking relations to offshore savings accounts and business suppliers. The creation and administration of the shell companies is handled by para-bank “business introducer” structures that dilute customer documentation. Research limitations/implications – This paper does not address the specifics of Latvia’s domestic anti-money laundering (AML) legislation and enforcement thereof. Practical implications – Attempts to eradicate shell companies in individual jurisdictions, for instance, by introducing registers of beneficial ownership of companies, may merely displace the phenomenon to other jurisdictions, and thus treat the symptom not the disease. Originality/value – This is the first scholarly study of mass use of international shell companies by Latvian-type banking in connection with financial flows from Russia, Ukraine and the former Soviet Union. © 2015, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

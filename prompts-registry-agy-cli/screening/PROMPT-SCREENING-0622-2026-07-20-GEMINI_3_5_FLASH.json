@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0622-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Legal Status of Cryptocurrency and Its Implications for Money Laundering in Indonesia",
+    "authors": "Alhakim A.; Tantimin",
+    "year": "2024",
+    "doi": "10.22304/pjih.v11n2.a4",
+    "abstract": "Decentralized technologies such as blockchain facilitate secure and anonymous transactions, heralding a new era of financial innovation. However, the advent of cryptocurrencies has also posed significant challenges, especially in the realm of preventing money laundering practices. In Indonesia, individuals have exploited these systems for illicit money laundering from fraudulent schemes. Therefore, this study aimed to critically analyze the effectiveness of current regulatory frameworks and propose improved approaches to mitigate money laundering risks associated with cryptocurrency. Indonesia expects to shift its legal perspective due to the substantial threats posed by attempting to regulate a volatile financial system. This study employed normative legal research methods. The findings suggest that recognizing cryptocurrency as a legal tender could advance the agenda of addressing money laundering as a critical threat to financial stability and national security. This would significantly enhance the regulatory framework and ensure the financial system's integrity amidst evolving threats. © 2024, Padjadjaran University. All rights reserved.",
+    "source": "Padjadjaran Jurnal Ilmu Hukum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

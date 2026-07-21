@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2512-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE ROLE OF CIVIL SERVANTS IN ENSURING THE ANTI-CORRUPTION AND FINANCIAL WELFARE OF THE STATE",
+    "authors": "Komakhin, BN; Prokoshin, MS",
+    "year": "2017",
+    "doi": "10.17072/1995-4190-2017-38-446-462",
+    "abstract": "Introduction: the authors analyse the legal regulation of the activities of civil servants and their role in ensuring the anti-corruption and financial welfare of the state as an integral element of its law enforcement function. The paper provides some insights into the status of financial jurisprudence and the issues of legislative regulation of anti-corruption relations. It shows how financial jurisprudence defines the status of public financial management authorities, their employees' competencies and relations with national and international financial legal institutes during their service. An analysis is given for the legal regulation of the activities of state and municipal authorities in ensuring the anti-corruption and financial welfare of the state by counteracting fictions, money laundering, corruption and illusion of legal relations. The role of civil servants is emphasized in counteracting corruption, consolidating and reinforcing the administrative legal regime and law and order. The anti-corruption capabilities of applying financial jurisprudence have been revealed. Purpose: to expose the scientifically substantiated process of juridification of finances, which stabilizes, secures, and protects state and municipal civil service focused on counteracting corruption; based on analysing Russian and foreign regulation experience, to identify problems in countering the actual relations of exploiting legal means in the form of fictions, illusion of monetary capital flow through illegal channels, and to identify service relations concerning inappropriate use of funds. Methods: formal logic, comparison, analysis, synthesis, correlation, generalisation. Results: we have analyzed the solution to the problem of eliminating fictitious illusory flow of monetary capital with the use of financial jurisprudence, which allowed us to reveal several new aspects. The comprehension of those provides better understanding of the regularities of the financial legal process; demonstrates in detail the consequences of financial fictions as means for maintaining corruption in financial relations; makes it possible to determine legislatively the nature of civil servants' actions in using preventive means for anti-corruption purposes. Conclusions: the scientific analysis conducted proves that one of the theoretical and practical problems of setbacks in financial relations is the lack of legal awareness among civil servants, primarily those involved in executing state and municipal budgets. Researchers and law enforcers do not recognize in full the consequences of actions of those civil servants who cripple the anti-corruption and financial welfare of the state by swindling, malpractice and abuse of authority in the budget, taxation, banking, and other areas. These problems stem from the ineffectiveness of the existing provisions and statutes that establish the legal foundations for counteracting corruption in financial flows, from the drawbacks in the system of personal responsibility of civil servants who have taken the path of financial corruption.",
+    "source": "VESTNIK PERMSKOGO UNIVERSITETA-JURIDICHESKIE NAUKI"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

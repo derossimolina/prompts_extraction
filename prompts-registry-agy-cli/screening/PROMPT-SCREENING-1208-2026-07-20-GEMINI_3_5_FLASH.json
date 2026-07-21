@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1208-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "(Re-)writing markets: Law and contested payment geographies",
+    "authors": "Potts S.",
+    "year": "2020",
+    "doi": "10.1177/0308518X18768286",
+    "abstract": "While many emphasize the supposed frictionlessness and instantaneity of global financial flows, economic geographers have done important work placing globalization in concrete practices and spaces. Yet, cross-border payment transactions, which are constitutive of transnational markets, remain understudied. In this paper, I use creditor litigation against Argentina as a lens through which to explore material geographies of transnational financial payments. This litigation sheds light on the fundamental role of law (especially US common law) in structuring most major payment transactions today. Payment “flows” are not continuous at all, but rather legally divided into discrete spatial segments—and remapping these divisions, via litigation, has become a focal point of struggle between creditors and debtors, as well as among financiers. Fierce debates over contracts and their interpretation have been central in these battles. Furthermore, these financial geographies remain inextricably entangled not only with business actors, but with legal and political actors as well—law anchors economic geographies in state spaces and (often contradictory) state interests at a variety of scales. © The Author(s) 2018.",
+    "source": "Environment and Planning A"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

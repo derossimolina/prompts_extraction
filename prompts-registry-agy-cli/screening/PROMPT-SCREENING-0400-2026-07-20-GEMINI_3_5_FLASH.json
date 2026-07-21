@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0400-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FinTech and money laundering: moderating effect of financial regulations and financial literacy",
+    "authors": "Usman N.; Griffiths M.; Alam A.",
+    "year": "2025",
+    "doi": "10.1108/DPRG-04-2024-0068",
+    "abstract": "Purpose: This study aims to investigate the impact of FinTech on money laundering within the context of Nigeria. The motivation stems from observations suggesting that FinTech platforms might be used for illicit money transfers, particularly from developed to developing economies. While existing literature predominantly highlights the positive aspects of FinTech, there's a dearth of studies addressing its potential association with money laundering. Current understanding of this relationship relies heavily on anecdotal evidence derived from reported or convicted cases. Thus, the primary goal of this study is to analyze the influence of FinTech on money laundering while also considering the moderating effects of financial regulation and financial literacy as perceived by users. The research delves into regulatory perspectives concerning money laundering and FinTech. Design/methodology/approach: To fulfill the study's objectives, a quantitative research design is used. A survey of 248 FinTech users in Nigeria is conducted using structured questionnaires. Data collected from the questionnaires is analyzed using partial least square structural equation modeling (PLS-SEM). Findings: The quantitative analysis revealed a significant relationship between FinTech and money laundering and that financial regulation moderates the relationship between FinTech and money laundering in Nigeria, but such was not established with respect to financial literacy. The results of the quantitative approach that uses secondary data are consistent with the qualitative approach. FinTech the results indicate the presence of technology induced money laundering in Nigeria. Regulating technology-based anti-money laundering poses serious challenges for developing countries due to the absence of specific laws that mitigate the threats. Research limitations/implications: The paper focuses on Nigeria as a case study, which may limit the generalizability of the findings to other countries with different FinTech ecosystems, regulatory frameworks and financial literacy levels. Practical implications: The finding is useful in developing guidelines and regulations by policymakers and strategies by practitioners in relation to FinTech, money laundering, financial regulation and financial literacy. On the basis of the above, the authors recommend regulation at the national and industry level to mitigate the adverse effect of technology on money laundering. Thus, multilateral partnerships can help in tackling tech-induced money laundering through strengthened cooperation. Social implications: Money laundering risks: The study highlights that FinTech, while beneficial, also poses significant risks for money laundering activities, especially in developing countries like Nigeria. Regulatory Importance: It emphasizes the critical role of financial regulations in mitigating the risks associated with FinTech and money laundering. Financial Literacy: The paper suggests that financial literacy does not significantly moderate the relationship between FinTech and money laundering, indicating the need for stronger regulatory measures rather than relying solely on financial literacy. Policy Formulation: The findings are crucial for policymakers to formulate strategies that balance the benefits of FinTech with the need to prevent money laundering and ensure financial system integrity. Originality/value: This research presents a novel approach to methodology, specifically focusing on the qualitative research design, addressing population, sampling techniques and data collection methods. It emphasizes techniques aimed at ensuring measurement quality and achieving research objectives. Data collection used survey questionnaires, while analysis involved both statistical package for social science (SPSS) and PLS-SEM. SPSS facilitated descriptive and preliminary analyses, while PLS-SEM confirmed measurement quality and tested hypotheses. Ethical considerations were paramount throughout the research process, underscoring the commitment to maintaining originality in research endeavors. © 2024, Emerald Publishing Limited.",
+    "source": "Digital Policy, Regulation and Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

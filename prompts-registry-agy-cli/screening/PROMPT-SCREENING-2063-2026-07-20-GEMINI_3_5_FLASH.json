@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2063-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Marketing of Street Heroin in New York City",
+    "authors": "Goldstein P.J.; Lipton D.S.; Preble E.; Sobel I.; Miller T.; Abbott W.; Paige W.; Soto F.",
+    "year": "1984",
+    "doi": "10.1177/002204268401400308",
+    "abstract": "In recent years the distribution of illicit narcotics in New York City has taken on a new character. Illicit drugs (mainly heroin) are being distinctively packaged prior to sale on the street. The labeling of street heroin entails stamping, writing, or pasting a name, symbol or number on the bag containing the drugs. Colored tape may also serve as the identifying marking. The authors discussed this phenomenon with drug users, drug dealers and police officials. A list of about 400 observed or reported heroin labels is presented. The authors examine why and how bag-marking is being done and its functions and dysfunctions within the illicit drug marketplace. They also describe the historical genesis of bag-marking. The report adds to our knowledge of the actual mechanics of street-level transactions involving illict drugs. © 1984, Florida State University College of Criminology and Criminal Justice. All rights reserved.",
+    "source": "Journal of Drug Issues"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

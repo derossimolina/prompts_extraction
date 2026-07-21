@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1726-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Economic Costs of Organised Crime: Evidence from Southern Italy",
+    "authors": "Pinotti P.",
+    "year": "2015",
+    "doi": "10.1111/ecoj.12235",
+    "abstract": "I examine the post-war economic development of two regions in southern Italy exposed to mafia activity after the 1970s and apply synthetic control methods to estimate their economic performance in the absence of organised crime. The comparison of actual and counterfactual development shows that the presence of mafia lowers GDP per capita by 16%. Evidence from electricity consumption and growth accounting suggests that lower GDP reflects a net loss of economic activity, due to the substitution of private capital with less productive public investment, rather than a mere reallocation of resources from the official to the unofficial sector. © 2015 Royal Economic Society.",
+    "source": "Economic Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

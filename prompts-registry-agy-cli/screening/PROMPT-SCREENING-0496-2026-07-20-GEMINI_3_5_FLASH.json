@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0496-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DETERMINANTS OF ANTI-MONEY LAUNDERING PROGRAM EFFECTIVENESS AMONG BANKS",
+    "authors": "Bahrin N.L.; Yusuf S.N.S.; Muhammad K.; Ghani E.K.",
+    "year": "2022",
+    "doi": "10.18488/11.v11i1.2939",
+    "abstract": "This study aims to examine the factors influencing the effectiveness of Anti-Money Laundering (AML) programs among bank employees, specifically the three factors of staff expertise, IT infrastructure, and rules and regulations. One hundred and fifty-two AML analysts participated in the questionnaire survey. The results show that staff expertise and rules and regulations have a significant positive influence on the effectiveness of an AML program while, conversely, IT infrastructure has a significant negative influence on an AML program in a company. The findings in this study indicate that banks may need to take strategic and proactive measures or policies to increase their staff’s knowledge and understanding of their Anti-Money Laundering/ Counter Financing of Terrorism (AML/CFT) policies and procedures. The measures may include regularly reviewing and updating existing policies and procedures. Banks may also need to review their strategy in adapting newer technology related to AML programs. The findings in this study could provide an understanding to banks and other interested parties in recognizing the main factors that can contribute to improving their AML programs. © 2022 Conscientia Beam. All Rights Reserved.",
+    "source": "International Journal of Management and Sustainability"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

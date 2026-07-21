@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0676-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The virtual currency market and monetary policy: Financial risk, regulations, and target mandates; [Рынок виртуальных валют и денежно-кредитная политика: финансовые риски, методы регулирования, целевые мандаты]",
+    "authors": "Kochergin D.; Andryushin S.; Sheshukova E.",
+    "year": "2024",
+    "doi": "10.18522/2073-6606-2024-22-3-34-57",
+    "abstract": "The article deals with the challenges for the virtual currencies market. Our goals are to classify virtual currencies, identify the regulatory issues, and outline a scenario adjustment for central banks to ensure price stability and financial stability through monetary policy. The main point is that, given the dynamics of virtual currencies, the need for their regulation grows, with a special focus on financial risk implied by the inherent characteristics of traditional cryptocurrencies and stablecoins. We analyze specific financial risks related to the circulation of virtual currencies, including: the risk of financing terrorism, illegal activities and money laundering; the risk of tax evasion; the risk of violation of price, financial stability and monetary sovereignty; the risk of reducing the social welfare and consumer protection. Risk regulations are: virtual currency licensing laws; taxation requirements and AML/CTF compliance; capital adequacy requirements and asset requirements, liquidity coverage ratio, and leverage ratio; information disclosure standards for financial organizations that have private digital currencies on their balance sheets; reserve requirements, etc. The authors suggest that central banks’ adjustment in favor of price stability and financial stability are expected to be subject to the Basel III standards and responsive to the specificities of modern financial technologies for digital currencies. The supervisory role of central banks over financial service providers is supposed to rely on the principle that the same financial activity is characterized by the same financial risk and provides for a similar approach to regulation. © Д.А. Кочергин, С.А. Андрюшин, Е.С. Шешукова, 2024",
+    "source": "Terra Economicus"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0747-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digitalization and tax evasion: the moderation effect of corruption",
+    "authors": "Yamen A.; Coskun A.; Mersni H.",
+    "year": "2023",
+    "doi": "10.1080/1331677X.2022.2142634",
+    "abstract": "This study investigates the impact of digitalization adoption on tax evasion and tests the moderation effect of corruption on this relationship. The World Bank’s digitalization adoption index is used to measure the level of digitalization adoption, and the shadow economy is chosen as a proxy for tax evasion. The research is conducted based on a comprehensive dataset including data from 133 countries. The results indicate a negative and significant relationship between tax evasion and digitalization adoption of businesses and people, which indicates that digitalization helps to reduce tax evasion. Additional results show that digitalization is highly effective in reducing tax evasion in low-corruption countries compared to high-corruption countries. Our findings are potentially useful for policymakers in identifying digitalization as an effective tool for deterring financial crimes. Investment in technology can help in increasing tax revenues and allow governments to be more efficient in allocating resources. © 2022 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Economic Research-Ekonomska Istrazivanja "
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

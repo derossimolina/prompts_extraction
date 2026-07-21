@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0267-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DYNAMICS OF PUBLIC ATTITUDES TOWARD THE NON-STATE PENSION SYSTEM IN RUSSIA (2005–2024); [ДИНАМИКА ОТНОШЕНИЯ НАСЕЛЕНИЯ К СИСТЕМЕ НЕГОСУДАРСТВЕННОГО ПЕНСИОННОГО ОБЕСПЕЧЕНИЯ В РОССИИ (2005—2024 ГГ.)]",
+    "authors": "Fokina O.V.",
+    "year": "2025",
+    "doi": "10.14515/monitoring.2025.6.2918",
+    "abstract": "The purpose of the work is to analyze the dynamics of the population's attitude to the system of non-state pension provision for the period 2005—2024. The analysis of the formation of the system of non-state pension provision in Russia and its current state, the study and structuring of the results presented by research agencies, scientific organizations, the Bank of Russia, and individual researchers, has revealed the main directions of transformation of the attitude of the population to the system of non-state pension provision. The paper presents changes in the system of non-state pension provision, examines the historical prerequisites and identifies the causes of the formation of an unfavorable attitude of the population towards the system at present, evaluates the impact of pension reform on the attitude of citizens to the pension system in the Russian Federation, analyzes changes in the attitude of the population of various age groups to sources of income upon retirement the differentiated attitude of youth and people of pre-retirement age to non-state pension provision has been revealed, Recommendations have been developed to improve the activities of participants in the non-state pension provision market. As a hypothesis, it is suggested that there has been a positive trend in the attitude of citizens towards the system in recent years. It is assumed that the prospects for the development of the system of non-state pension provision in Russia are the search for additional sources of financing and strengthening the position of non-state pension funds with the active participation of the state. © 2025, Russian Public Opinion Research Center, VCIOM. All rights reserved.",
+    "source": "Monitoring Obshchestvennogo Mneniya: Ekonomicheskie i Sotsial'nye Peremeny"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

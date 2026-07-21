@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1827-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Social Intermediation in Base-of-the-Pyramid Markets",
+    "authors": "Kistruck G.M.; Beamish P.W.; Qureshi I.; Sutter C.J.",
+    "year": "2013",
+    "doi": "10.1111/j.1467-6486.2012.01076.x",
+    "abstract": "Our study explores the structuring decisions made by intermediaries seeking to alleviate poverty by connecting base-of-the-pyramid markets with more developed markets. Using intermediation theory to ground our study, we collected qualitative data on 29 social intermediation projects located within Latin America, Africa, and Asia. Our findings suggest that 'socializing' intermediation theory to more accurately explain and predict structural outcomes across more diverse contexts requires three key modifications: (1) the attenuation of opportunism, which creates an internalizing social force; (2) the accommodation of non-monetary objectives, which creates an externalizing social force; and (3) the perception of transaction capabilities as tractable, which serves as a guidepost for reconciling these two opposing social forces. © 2012 The Authors. Journal of Management Studies © 2012 Blackwell Publishing Ltd and Society for the Advancement of Management Studies.",
+    "source": "Journal of Management Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

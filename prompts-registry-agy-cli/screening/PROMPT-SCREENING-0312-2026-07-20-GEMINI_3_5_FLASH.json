@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0312-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Invisible Markets, Visible Weaknesses The Institutional Roots of Informal Economy in Southeast Europe",
+    "authors": "Durguti E.A.; Kryeziu N.; Krivins A.; Suárez Agudelo C.",
+    "year": "2025",
+    "doi": "10.53116/pgaflr.8422",
+    "abstract": "The informal economy has been a consistent threat to development policy, particularly in Southeastern Europe, where institutional vulnerability and macroeconomic fluctuations are common. This paper examines institutional and macroeconomic factors behind informality across 2012–2024, denoting control of corruption, effectiveness of anti-money laundering, inflation, unemployment, contract enforcement, and economic freedom. Employing panel data from well-regarded international sources, the paper estimates the econometric result using the Arellano–Bover and Blundell–Bond System GMM estimator, which incorporates the endogeneity, unobserved heterogeneity, and the dynamic effects. Results reveal strong path dependence, as lagged informal activity is statistically significant. Corruption control and the enforcement of contracts lead to lesser informality, whereas AML controls, surprisingly, enhance informality; hence, there are gaps in institution implementation. Inflation and unemployment heighten the informal behaviour, whereas economic freedom checks such behaviour. The research gap discussed is the lack of a combination of institutional and macroeconomic approaches to informality in the post-transition economy. The results presented provide practical implications for strengthening and formalising institutions. © The Authors 2025.",
+    "source": "Public Governance, Administration and Finances Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

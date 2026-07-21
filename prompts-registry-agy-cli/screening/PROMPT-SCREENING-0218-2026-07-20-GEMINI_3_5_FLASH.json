@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0218-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploration of potential money laundering crimes with virtual currency facilities in Indonesia",
+    "authors": "Meiryani",
+    "year": "2024",
+    "doi": "10.1108/JMLC-01-2023-0010",
+    "abstract": "Purpose: The purpose of this study is to exploration potential money laundering crimes with virtual currency facilities in Indonesia. Money laundering using crypto is the process of disguising the origin of money obtained illegally. Then, the perpetrator transfers it to a legitimate business. Virtual money then started to become a phenomenon in society since the emergence of cryptocurrencies as a form of technology development of e-commerce activities. Design/methodology/approach: This research method is normative law which is prescriptive. The data collection technique used is document study or literature study by collecting primary and secondary legal materials. Findings: The results of this study show that the bitcoin virtual currency has the potential to act as a means of money laundering. There are technologies and online platforms that are moving with more sophisticated methods. Through bitcoin exchanges, it has the greatest potential for money laundering. The usage of virtual currency (cryptocurrency) by those who commit money laundering offenses is responsible for the actions’ severe negative effects on the State of Indonesia. Originality/value: To the best of the author’s knowledge, this is the first study conducted in Indonesia that explores potential money-laundering crimes using virtual currency facilities. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

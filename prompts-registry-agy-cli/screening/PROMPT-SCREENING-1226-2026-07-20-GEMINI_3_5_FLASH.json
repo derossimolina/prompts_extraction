@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1226-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering in selected emerging economies: is there a role for banks?",
+    "authors": "Alnasser Mohammed S.A.S.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-12-2019-0096",
+    "abstract": "Purpose: Understanding money laundering plays an important role in understanding economic growth (EG). Extensive research is conducted about that, previous research lacks answers about the relationship of anti-money laundering (AML) and EG by investigating the roles of the performance of Islamic banks, legal environment, financial crisis (FC) and bank size. Therefore, the purpose of this paper is to cover that gap. Design/methodology/approach: SmartPLS 3.0 was used and 33 Islamic banks were selected from developing countries between 2007 and 2010. Findings: Note that AML, Islamic bank performance, legal environment, and FC are significantly related to EG. Research limitations/implications: The research would be of importance to those seeking to understand the determinants of EG; it is also beneficial for those writing books about money laundering and Islamic banks in developing countries. The limitation of the study is the low number of Islamic banks that have complete data. Thus, this could be future research contribution. Originality/value: To the best knowledge of the author, research on money laundering and Islamic banks in developing countries are not extensive, we have found an ample room to discuss the said variables. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

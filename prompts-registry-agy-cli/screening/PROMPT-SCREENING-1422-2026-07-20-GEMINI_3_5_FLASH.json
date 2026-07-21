@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1422-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combating money laundering and the future of banking secrecy laws in Malaysia",
+    "authors": "A. Rahman A.",
+    "year": "2014",
+    "doi": "10.1108/JMLC-09-2013-0036",
+    "abstract": "Purpose – The purpose of this paper is to analyze banking secrecy laws against the background of the Malaysian anti-money laundering laws. It has been argued that the anti-money laundering law makes greater inroads into the banking secrecy rule when compared to the common law or other statutes. Banks can disclose customer’s information on even grounds of suspicion of money laundering. Banking secrecy is a customer privilege, whereas combating money laundering is critical for public safety and security. Indeed, achieving a proper balance is a desirable goal. But how do we go about achieving such a balance is a question encountered by many law enforcement authorities. This paper looks into these issues. Design/methodology/approach – This paper mainly relies on statutes as its primary sources of information. As such, the relevant Malaysian laws that provide the banking secrecy rule will be identified and analyzed. It will be necessary to examine the banking secrecy rule in the Anti-Money Laundering and Anti-Terrorism Financing Act 2001 (AMLATFA) and other relevant statutes in detail, as these are the most important legislation for the purpose of this paper. Findings – On closer inspection, it is submitted that AMLATFA provides sufficient safeguards to ensure that the disclosure of customer’s information is carried out in a manner that is not prejudicial to the interest of legitimate customers. This is a positive approach that could protect the innocent customers from being mistreated by the law. Ultimately, it can be said that the growing threat of global money laundering and terrorism makes the overriding of banking secrecy justified because without a flow of information from the banks, the effective prevention of the menace is not possible. Originality/value – This paper analyzes the inroads into the banking secrecy rule under the Malaysian anti-money laundering laws. It would provide some guidelines into this particular area for academics, banks, their legal advisers, practitioners and policy makers, not only in Malaysia but also elsewhere. © 2014, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

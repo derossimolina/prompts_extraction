@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2500-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The extra-legal governance of corruption: Tracing the organization of corruption in public procurement",
+    "authors": "Fazekas, M; Sberna, S; Vannucci, A",
+    "year": "2022",
+    "doi": "10.1111/gove.12648",
+    "abstract": "This article traces the organization of corruption in public procurement, by theoretically and empirically assessing the contribution of extra-legal governance organizations (EGO) to supporting it. Theoretically, we explore the governance role played by organized criminal groups in corruption networks, facilitating corrupt transactions by lowering search costs, bargaining costs, and enforcement cots. Empirically, the analysis exploits a rare empirical setup of proven cases of both EGO presence and absence in contract awards by Italian municipalities. We use traditional regression and supervised machine-learning methods for identifying and validating proxy indicators for EGO presence in public procurement such as single bidding or municipal spending concentration. Internal validity of our models is very high, 85% of unseen contracts are correctly classified. External validity is moderate, our predicted EGO presence score correlates with established indicators of organized criminality across the whole of Italy and Europe with a linear correlation coefficient of about 0.4.",
+    "source": "GOVERNANCE-AN INTERNATIONAL JOURNAL OF POLICY ADMINISTRATION AND INSTITUTIONS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

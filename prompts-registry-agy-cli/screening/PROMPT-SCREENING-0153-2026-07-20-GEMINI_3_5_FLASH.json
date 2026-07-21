@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0153-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FINTECH REGULATION IN SCHOLARLY DEBATE: A BIBLIOMETRIC ANALYSIS",
+    "authors": "Hudaefi F.A.",
+    "year": "2025",
+    "doi": "10.21098/jcli.v4i2.259",
+    "abstract": "This study used bibliometric analysis to assess 688 scientific publications on fintech regulation, which were published across 436 academic publishing outlets and authored by 1,395 scholars. Research questions were developed through the lens of bibliometric theories, e.g., performance evaluation, citation and co-citation analysis, keywords analytics, and bibliographic coupling, to investigate the most influential papers, scientific publication outlets, authors, emerging trends, and affiliated institutions related to fintech regulation. This work primarily employed R Studio and VOSviewer to analyse bibliographic data from the Scopus database. Of the findings, the most influential source for fintech regulation was Sustainability (Switzerland), the most influential author was Douglas W. Arner (Professor at the University of Hong Kong), and the foremost institution was the University of Cambridge. Furthermore, qualitative inductive analysis was performed to address timely issues from the bibliometric findings. The issues identified were fintech and banking regulation, the implications of money laundering for financial regulators, the impact of central bank digital currency (CBDC) on financial inclusion and stability, and the challenges posed by cloud technology for fintech firms. Employing quantitative bibliometric analysis and qualitative inductive reasoning offers critical novelty in evaluating academic debates on fintech regulation, providing practical implications for the regulators, academia, and industry professionals. © 2025, Bank Indonesia Institute. All rights reserved.",
+    "source": "Journal of Central Banking Law and Institutions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

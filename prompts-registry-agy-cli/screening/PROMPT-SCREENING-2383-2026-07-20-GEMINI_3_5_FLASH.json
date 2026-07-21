@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2383-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ban of Cryptocurrencies in China and Judicial Practice of Chinese Courts",
+    "authors": "Alekseenko, AP",
+    "year": "2022",
+    "doi": "10.14330/cwr.2022.8.2.06",
+    "abstract": "There are different approaches worldwide on how to regulate ctyptocutrency: legalization, partial ban, or absolute ban. China has chosen the third option. Since 2013 the PRC has been introducing restrictive measures targeting ICO, Bitcoin and other cryptocurrency activities. In 2022 it finalized the formation of a legal framework for cryptocurrency regulation by publishing Judicial Interpretation on Illegal Fundraising Criminal Cases. The main reasons for the prohibitive Chinese approach are combating money laundering, ICO related scams, and illegal financing i.e., public interest prevails over private interests. An analysis of the judicial practice of Chinese courts demonstrates that despite a rising number of cryptocurrency related civil disputes, plainttffs are deprived of judicial protection because investing in digital financial assets is illegal and the rights of investors are not legitimate. The paper argues that a cryptocurrency ban makes it impossible to satisfy claims concerning illegal fundraising activities, while encouraging investors not to have any relations with illegal agents, brokers or exchanges.",
+    "source": "CHINA AND WTO REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

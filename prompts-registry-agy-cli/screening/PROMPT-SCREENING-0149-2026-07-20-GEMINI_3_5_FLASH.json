@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0149-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "On spot revenues, capital structure and trade off theory: Analysing investment risk for contracted renewables",
+    "authors": "Gohdes N.",
+    "year": "2025",
+    "doi": "10.1016/j.eneco.2025.108703",
+    "abstract": "In decarbonising power systems, shifting dynamics require that investors lend careful consideration when structuring plant revenues – or risk violating the constraints of private capital markets. In Australia's National Electricity Market, new variable renewable energy (VRE) plant was traditionally ∼100 % revenue contracted via power purchase agreement (PPA) to facilitate bankability and provide stable returns. However, sharply falling VRE costs have enabled the emergence of a new asset class, viz. VRE with ‘semi-merchant’ cashflows, comprising both PPA contracted and spot market (i.e. merchant) exposed revenue streams. This blended revenue mix, which has dominated new entry in Australia, raises questions vis-à-vis capital structure optimisation as both investors and financiers grapple with the re-introduction of spot revenue variability. In this paper, stochastic modelling techniques are applied to stress-test new entrant wind plant cashflows under a full spectrum of PPA cover levels and within capital market (i.e. project finance) constraints. Under ordinary market conditions, a run-of-plant PPA with at least ∼50 % revenue cover is found sufficient to mitigate technical default risk and secure commercial debt levels. However, the relationship between PPA cover and default (i.e. distress cost) risk is also found to be decidedly non-linear, with some semi-merchant structures capable of supporting debt levels equivalent to 100 % PPA plant without introducing material default risk – an unexpected finding. Presented results identify the limits of a PPA to extract equity capital risk from a stand-alone VRE asset and, by implication, the limits of cost of capital optimisation in line with Modigliani and Miller's seminal writings on capital structure. © 2025 The Author",
+    "source": "Energy Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

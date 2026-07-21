@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2386-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "HSBC Mexico AML failings: a case study",
+    "authors": "O'Sullivan, P",
+    "year": "2016",
+    "doi": "10.1108/JMLC-03-2015-0008",
+    "abstract": "Purpose - This paper aims to provide a brief overview of the anti-money laundering (AML) failings documented by the US Permanent Subcommittee on Investigations found in Hong Kong and Shanghai Banking Corporation (HSBC) Mexico. This paper focuses in on the key areas of concern raised by the 2012 report in respect of HSBC Mexico (HBMX) such as failure to undertake correct customer due diligence on high risk customers and repeated failings by senior management at HBMX to remedy these problems. Design/methodology/approach - The relevant parts of the Subcommittee report relating to HBMX were examined along with the evidence submitted to the Subcommittee. From this examination, the author then noted the key examples of AML failings at HBMX and then commented on these examples while also referring to academic and regulatory guidance such as that from Financial Action Task Force. Findings - Certain proposals are made throughout the paper, but these remain only suggestive. The key point is that the failings evident in HBMX may very well arise in other institutions, and this paper proposes how these failings may be resolved. Research limitations/implications - Research for this paper remained limited to second-source references such as the Subcommittee report and the listed Exhibits along with other academic resources. The paper was also peer reviewed by a compliance officer. However, examining the paper from a more practical viewpoint may have struck a better balance between an optimal and realistic level of compliance. Practical implications - Adopting an analytic approach to the subject of AML controls should aid those who work in compliance daily while also generating further commentary among both regulators and senior management within financial institutions. Originality/value - The paper is the only one to date to focus on one geographical strand of the AML failings at HSBC and then comment on this from an academic perspective.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

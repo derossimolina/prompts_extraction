@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0737-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The implications of national blockchain infrastructure for financial crime",
+    "authors": "Smith M.; Tiwari M.",
+    "year": "2024",
+    "doi": "10.1108/JFC-01-2023-0006",
+    "abstract": "Purpose: This paper aims to explain the implications of the impending establishment of national blockchain infrastructure by governments around the world, and how these structures can be integrated with existing legislation and assist in the prevention of financial crime. Design/methodology/approach: The methodology used is a literature review and analysis of progress being made to establish national blockchain infrastructure. It provides a discussion of the connection between blockchain and financial crime, and how this infrastructure will interact with existing regulatory frameworks, and particularly, financial crime legislation. Findings: This paper documents financial crime risks posed by digital currencies and smart contracts and the role that national blockchain infrastructure can potentially play in mitigating these risks. It highlights the need for governments to devote resources to developing this infrastructure and associated regulatory frameworks. Originality/value: There are few, if any, academic papers in the financial crime, or wider literature, that have examined the potential for national blockchain infrastructures prevent financial crime, including the implications for existing regulation in the field. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

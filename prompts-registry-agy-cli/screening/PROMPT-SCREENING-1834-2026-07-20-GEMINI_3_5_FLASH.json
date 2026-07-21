@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1834-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Demystifying earnings management through accruals management: An Indian corporate study",
+    "authors": "Goel S.",
+    "year": "2012",
+    "doi": "10.1177/0256090920120104",
+    "abstract": "Earnings, the “bottom line’’ or “net income,” are the single-most important item in financial statements. They indicate the extent of company’s value-added activities. They help in resource mobilization in capital markets. On account of the said importance of earnings, the management of the company is always interested in their reporting. This is where management exercises choices for reporting of earnings. The recent Satyam saga or Enron in the past are prime examples of misuse of flexibility in choosing the accounting methods and treatments by the management. Earnings management occurs when management uses discretion in financial reporting and in structuring transactions with the objective of securing private gains. Earnings management issues related to financial disclosure and reporting are increasingly relevant to the multitude of firm stakeholders. In the wake of these manipulative corporate practices, investors and managers are trying to understand whether there is widespread Enron-like manipulation of financial results among corporations or whether these scandals are just an aberration. A related issue for financial analysts, investors, and corporate executives is how to distinguish between earnings manipulation that ultimately proves to be fraudulent and the day-to-day struggles of managers to meet pre-determined targets by using various accounting flexibilities. An understanding of the financial statement effects of financial engineering transactions will thus help managers try to avoid future Satyams and Enrons and help to improve the climate for a common investor. A very important dimension of earnings management is that earnings manipulation is usually not the result of an intentional fraud, but the culmination of a series of aggressive interpretations of the accounting rules and application of aggressive operating activities. The end result is misstatement of the financial results by the people involved and realization by them when it gets too late. The typical case of earnings manipulation begins with a track record of success. The company or division has posted significant sales and earnings growth over recent years. Their stock price trades at high price earnings multiple but unfortunately, it is becoming more difficult for the company to maintain the sales and earnings growth as per the analysts’ expectations. The management goes for creative accounting practices to manage their earnings. This study analyses the earnings management practices in corporate enterprises in India by examining the magnitude of discretionary accruals. DeAngelo Model has been used for calculating discretionary accruals in regard to potential earnings management for the study. It also explores earnings management issues with respect to industry classification in these enterprises. The sample was drawn from the top 25 listed profit-making companies for the year 2007. The period chosen for the study was 2002-03 to 2007-08. An examination of the units shows a definite presence of accrual management in the sample companies. Most of the units have been found to be exercising income-increasing discretionary accruals. The earnings creativity is further strengthened by industry parameters among the units. © 2012, SAGE Publications Ltd. All rights reserved.",
+    "source": "Vikalpa"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2159-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Adopting organizational virtualization in B2B firms: An empirical study in Singapore",
+    "authors": "Liu C.; Sia C.-L.; Wei K.-K.",
+    "year": "2008",
+    "doi": "10.1016/j.im.2008.06.005",
+    "abstract": "We empirically tested a parsimonious model that incorporates cost-benefit analysis/transaction cost theory, institutional theory, and organizational capability-based theory to predict organizational adoption of IT-facilitated virtualization in an Asian context. Virtualization implies the use of IT and communication technology by organizations in managing their interactions and key business operations with stakeholders, such as customers, suppliers and employees. Our research extends existing literature by using organizational structure adoption theories. The study should provide insights into the salient adoption issues of Asian firms. A survey was conducted of B2B organizations in Singapore. Results indicated that an increase in the level of net perceived benefits, external influences, and organizational capabilities had a positive effect on organizational decision makers' intention to use virtualization. In particular, external influences were found to be the most important antecedents of intention to adopt virtualization in B2B organizations in Singapore. © 2008 Elsevier B.V. All rights reserved.",
+    "source": "Information and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

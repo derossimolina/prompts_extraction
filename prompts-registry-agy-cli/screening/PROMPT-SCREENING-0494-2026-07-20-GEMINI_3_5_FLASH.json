@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0494-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "EU money laundering regulation limit the use of tax havens",
+    "authors": "Rose K.J.",
+    "year": "2022",
+    "doi": "10.1108/JFC-12-2020-0253",
+    "abstract": "Purpose: Recent research shows that financial institutions in the European Union (EU) close branches, offices and correspondent connections to jurisdictions with less transparency due to possible sanctions related to the increase in EU money laundering regulation. This tendency is called de-risking and the purpose of this paper is to analyze whether the recent regulatory approach towards money laundering in the EU limits the incentive to have operations in tax havens. Design/methodology/approach: This paper follows a functional approach to law and economics. Findings: The paper finds that recent EU money laundering regulation increase an incentive for financial institutions to limit any connection to jurisdictions known as tax havens, where transparency is at minimum. Thereby, it can be discussed whether the spillover effect from money laundering regulation in to the fight of tax avoidance could support further regulatory interference. Originality/value: The recent trend of de-risking in light of money laundering regulation is scarcely covered by present research. Furthermore, there has been no linking of this de-risking tendency and the effects or relation to the use of tax havens/low tax jurisdictions. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

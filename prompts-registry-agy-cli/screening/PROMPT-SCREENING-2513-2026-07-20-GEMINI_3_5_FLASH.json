@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2513-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The dark side and negative consequences of cryptocurrencies usage for unethical purposes as barriers to invest in Middle East and African (MEA) countries",
+    "authors": "Sestino, A; Tucek, D; Bresciani, S",
+    "year": "2025",
+    "doi": "10.1108/JSBED-10-2023-0468",
+    "abstract": "PurposeThis paper aims to unveil the darker side of cryptocurrencies by delving into its role as an obstacle to investments in Middle East and African (MEAs) countries, unravelling the challenges involved. Indeed, despite the rise of blockchain-related technologies, specifically cryptocurrencies, having undeniably unlocked new avenues for business and society, crypto for venture funding purposes may exhibit a dark side due to their use for unethical purposes, for example, money laundering or terrorism financing, largely diffused in certain areas of MEA countries.Design/methodology/approachThrough an explorative research design, using a mix of techniques based on both qualitative and interpretive methods, we conducted in-depth interviews among 33 European managers of companies engaged in MEA markets or aspiring to invest in such foreign markets, to analyse their thoughts, perceptions and possible strategies concerning the management of the dark side of cryptocurrencies in MEAs.FindingsOur investigation unearthed seven pivotal issues, which manifest as significant barriers related to the ambivalent use of crypto for funding projects, encompassing seven important consequential elements: (1) lack of knowledge about the technology's potentialities; (2) perceptions of crypto technology's ambivalence; (3) reputation and image consequences; (4) uncertainty about the destination of the invested funds; (5) decreased attractiveness of MEAs; (6) competition and market; and (7) lack of control and regulation. We grouped these into technology-related, business-related and legal- and policy-related barriers. Such findings underline the probable decrease in attractiveness of MEAs in terms of investments, together with the triggering factors and potential strategic solutions to mitigate such circumstances.Research limitations/implicationsFuture studies could explore a broader sample of managers since we only considered the perception of European managers operating in companies that invest (or are intending to invest) in MEAs. Moreover, future research may extend the analysis to MEA-native companies or those engaging in reciprocal exchanges with Western countries.Practical implicationsPractically, our findings suggest several elements in which to intervene to mitigate managers' negative perception of the unethical use of cryptocurrencies in MEAs and to support CEOs' and CFOs' strategies, together with requirements to ensure the unaltered attractiveness of investments in an otherwise thriving region of the world, without overlooking the protection and safeguarding of investments and the health of the market and competition. Furthermore, a call for future research in this domain, along with at least minimal regulatory mechanisms, clearly emerges.Social implicationsOur findings underline the social challenges associated with the perception and acceptance of cryptocurrencies in these contexts, influencing cultural and social dynamics. Moreover, the identification of these barriers could underscore the significance of awareness of and education on blockchain technology and cryptocurrencies within society, including implications for policymakers.Originality/valueDespite prior investigations into the negative effects of cryptocurrencies as a form of venture funding, no studies to date have examined managers' perceptions by focusing on possible barriers to investment in MEA countries due to the unethical usage of crypto. Importantly, this paper unravels the unexplored complexities of crypto's impact on ethical investments in MEAs, showcasing an original perspective.",
+    "source": "JOURNAL OF SMALL BUSINESS AND ENTERPRISE DEVELOPMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

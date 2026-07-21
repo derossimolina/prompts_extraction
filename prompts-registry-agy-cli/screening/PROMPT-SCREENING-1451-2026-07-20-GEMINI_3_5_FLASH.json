@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1451-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fighting money laundering in the age of online banking, virtual currencies and internet gambling",
+    "authors": "Tropina T.",
+    "year": "2014",
+    "doi": "10.1007/s12027-014-0335-2",
+    "abstract": "The development of new concepts for tackling crime on the internet has been one of the priorities at both the national and international levels in recent years. One of the sectors where this problem poses specific challenges is money laundering over the internet. The paper seeks to contribute to the understanding of the complex problem of cyber-laundering by analysing the risks and challenges that tackling online money laundering poses to regulators and law enforcement agencies and indicating the way forward to deter the laundering of illicit profits in the internet more effectively. © 2014 ERA.",
+    "source": "ERA Forum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

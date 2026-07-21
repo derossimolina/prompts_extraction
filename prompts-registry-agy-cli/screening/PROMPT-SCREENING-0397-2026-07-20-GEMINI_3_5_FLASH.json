@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0397-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cops and crypto: Law enforcement knowledge, experience, and capacity in cryptocurrency crime",
+    "authors": "Robinson C.G.; Logan M.W.; Dulisse B.C.; Connealy N.T.",
+    "year": "2026",
+    "doi": "10.1016/j.jcrimjus.2026.102596",
+    "abstract": "Cryptocurrency presents new challenges for law enforcement, exposing long-standing gaps in financial crime investigation, training, and policy. This study offers early systematic evidence of U.S. law enforcement officers' engagement with digital assets. Using an original Qualtrics survey distributed to police officers, we analyze responses from 104 officers with prior cryptocurrency experience. The survey captures officers' literacy, exposure to scams, and perceptions of departmental preparedness. Quantitative summaries are complemented by qualitative analysis of open-text responses using a hybrid human–LLM conversing framework that ensured transparency and consistency across categories. The results reveal a wide variation in knowledge and confidence, limited institutional readiness, and limited professional capacity to deal with crypto-related crime. Positioned as a descriptive inquiry, the study establishes an empirical baseline for understanding law enforcement's adaptation to emerging financial technologies and complements national assessments identifying similar capability gaps. © 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+    "source": "Journal of Criminal Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

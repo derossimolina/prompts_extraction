@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1248-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Insider trading – unsolved issues",
+    "authors": "Teichmann F.M.J.",
+    "year": "2019",
+    "doi": "10.1108/JFC-08-2018-0079",
+    "abstract": "Purpose: This paper aims to show that, despite the development of prevention mechanisms for banks, undetected insider trading remains highly feasible. It, thereby, highlights that the current anti-insider-trading mechanisms, on which previous literature has extensively focused, can be easily circumvented. Design/methodology/approach: A two-step research process was employed. First, informal interviews were conducted with illegal financial services providers. Second, 50 compliance experts and law enforcement officers were formally interviewed. Responses from both sets of interviewees were subjected to quantitative content analysis to yield empirical findings. Findings: Concrete and specific methods of insider trading and limiting the risks of being prosecuted were reported by interviewees. They suggested that the use of strawmen and offshore banks greatly facilitate insider trading. Research limitations/implications: The perspectives of the 100 interviewees have not been quantitatively tested. Practical implications: Suggestions on how to more effectively combat insider trading are provided for financial institutions and compliance officers. Originality/value: Although the empirical findings are based on conditions in Europe, the results have potential global application. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

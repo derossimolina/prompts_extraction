@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0939-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cash economy, criminality and cash regulation in Ethiopia",
+    "authors": "Gobena M.A.; Kebede D.G.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-06-2021-0065",
+    "abstract": "Purpose: This paper aims to examine the contribution of Ethiopia’s cash economy to financial crimes. It also investigates the regulation of cash in the context of controlling crime stemming from the cash economy. Design/methodology/approach: This study relies on primary data generated from 20 interviewees drawn from the National Bank of Ethiopia, Ethiopian Financial Intelligence Center, selected commercial banks and law enforcement agencies and document review from government reports, media press and statutes, as well as secondary data from online and offline sources. Findings: The cash-intensive nature of Ethiopia’s economy has enabled a significant amount of cash to circulate outside of the formal financial system. This money is partly to blame for the prevalence of criminal activities such as cash hoarding, corruption and illicit financial flows. To address the threat of crime posed by the cash economy, the Ethiopian Government has taken measures such as restricting cash withdrawals from financial institutions, limiting the amount of cash individuals can hold and demonetizing the banknotes. The measures enable the banks to collect the cash circulating outside of the formal financial sector. However, the effect of these measures on reducing future criminality remains uncertain. Improving the financial inclusivity of the country, specifically expanding basic financial products to the rural areas, digitalizing the country’s payment system, raising general financial awareness and establishing a strong financial consumer protection framework would play a critical role in reducing future criminality and transforming the cash-intensive into a cashless economy. Originality/value: This paper provides a first-of-its-kind analytical perspective on the contribution of Ethiopia’s cash economy to criminal activity and the adequacy of countermeasures so far taken. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

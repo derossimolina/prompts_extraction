@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1401-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "METHODICAL FUNDAMENTALS OF ANALYSIS OF FINANCIAL OPERATIONS OF ILLEGAL INCOME LAUNDERING",
+    "authors": "Iryna M.; Iryna K.",
+    "year": "2021",
+    "doi": "10.32518/2617-4162-2021-2-160-167",
+    "abstract": "Due to the high level of corruption, insufficient financial control and monitoring of money laundering operations in Ukraine, the financial system has become a very attractive target for illegal financial activities and illegal financial flows. This determines the relevance of the research in the field of financial investigations, the peculiarities of their organization in the field of financial monitoring. The purpose of the study is to determine the theoretical and methodological foundations of financial investigations to develop practical recommendations for improving the organization of financial investigations of dubious financial transactions. Methods: A normative method of comparative, structural-dynamic analysis of financial transactions monitoring data is used in the study as the method of analysis of financial transactions of money laundering. Results: The indicators of SPFM reports on financial transactions for 2015-2019, a number of financial reports on the risks of money laundering, and data on financial transactions in terms of signs of financial monitoring for 2014-2018 were analyzed. Conclusions. The methodological recommendations concern the organization of financial investigations in accordance with the updated legal norms in the field of financial monitoring of dubious financial transactions. The choice of research methods, the use of practical material on the organization of financial investigations in the field of financial monitoring, recommendations for improving the methodological support of financial investigations are positive aspects of the research. © 2021, Lviv State University of Internal Affairs. All rights reserved.",
+    "source": "Social and Legal Studios"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

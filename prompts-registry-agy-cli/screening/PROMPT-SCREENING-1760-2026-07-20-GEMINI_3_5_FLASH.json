@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1760-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Are you pleased with your neighborhood? A fuzzy cognitive mapping-based approach for measuring residential neighborhood satisfaction in urban communities",
+    "authors": "Ferreira F.A.F.",
+    "year": "2016",
+    "doi": "10.3846/1648715X.2015.1121169",
+    "abstract": "Previous research has indicated that residents’ satisfaction with neighborhood conditions helps shape attitudes and has a high impact on residential valuations. This paper reports on research that sought to analyze the relationship between neighborhood characteristics and residents’ degree of satisfaction. Based on the construction of a fuzzy cognitive map (FCM), which involved residents from several highand low-quality neighborhoods in the Central-West region of Portugal, a framework that adds value to the way key determinants of neighborhood satisfaction are identified is proposed. Because FCMs allow the understanding of the cause-and-effect relationships between factors to be improved, this framework shows that for satisfaction with the neighborhood to increase, more attention needs to be paid to positive attitudes toward subjective variables that interfere with residents’ satisfaction. The results presented can provide relevant information for the effective and efficient planning and development of residential environments. Strengths and weaknesses of this proposal are also discussed. © 2016 Vilnius Gediminas Technical University (VGTU) Press.",
+    "source": "International Journal of Strategic Property Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

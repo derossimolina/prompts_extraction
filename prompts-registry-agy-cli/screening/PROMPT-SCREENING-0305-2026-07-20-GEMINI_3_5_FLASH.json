@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0305-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Reverse Mobilities and the Construction of Peripheral Otherness: Stigmas, Tourists, and Distinctions in La Plata, Argentina; [Mobilidades inversas e construção de alteridades periféricas: estigmas, turistas e distinções em La Plata, Argentina]; [Movilidades inversas y construcción de otredades periféricas: Estigmas, turistas y distinciones en La Plata, Argentina]",
+    "authors": "Rojas Chediac J.I.",
+    "year": "2026",
+    "doi": "10.5354/0718-8358.2026.77891",
+    "abstract": "This research analyzes the role of reverse mobilities –the arrival of new inhabitants and visitors to consolidated peripheries– as contemporary mechanisms for the production of otherness and social differentiation in urban space. Adopting a qualitative approach, based on in-depth interviews with long-term residents and participant observation in two dissimilar peripheral sectors of the city of La Plata –Los Hornos and City Bell– the study investigates how mobility experiences produce and contest meanings of place and social legitimacy. The analysis identifies three relational figures, the stigmatized, the tourist, and the distinctive, which express different forms of encounter and conflict between divergent spatial trajectories. In Los Hornos, arrivals associated with urban informality reinforce territorial stigma and imaginaries of insecurity; in City Bell, mobilities linked to consumption and real estate revaluation generate processes of distinction and tensions in coexistence between long-term residents and newcomers. It is concluded that reverse mobility operates as a social and symbolic practice that, far from being homogeneous, reorders the moral regimes of belonging, symbolic hierarchies, and spatial boundaries, reaffirming difference as a structuring principle of peripheral space. © 2026 Universidad de Chile. All rights reserved.",
+    "source": "Revista INVI"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

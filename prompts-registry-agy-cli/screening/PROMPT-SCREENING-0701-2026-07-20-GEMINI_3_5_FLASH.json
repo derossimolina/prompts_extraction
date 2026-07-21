@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0701-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Indonesian Cryptocurrencies Legislative Readiness: Lessons from the United States",
+    "authors": "Widhiyanti H.N.; Hussein S.M.; Ganindha R.",
+    "year": "2023",
+    "doi": "10.28946/slrev.Vol7.Iss1.2138.pp150-172",
+    "abstract": "Cryptocurrencies can facilitate cross-border global transfers easily and pseudonymously. It can be converted into fiat currencies, making it suitable for money laundering crimes. This study compared legal regulations in the United States that analysed the readiness of regulations and Indonesia's legal loopholes in responding to the development of the cryptocurrency business. As a result, cryptocurrency in Indonesia is susceptible to being used as a money-laundering tool due to the novelty of the technology, the anonymity it provides its users, and the immaturity of the regulations governing it. Therefore, it is necessary to create a cryptocurrency that can follow the “Travel Rule” and collect and share information about the people who send and receive cryptocurrency, like in the US. The study also argues that passive detection is used to detect the identity of cryptocurrency users through a centralised service. However, several cryptocurrency developers have responded to the increase in pseudonymity tracking methods by developing cryptocurrencies with greater secrecy change. © 2023 Malaysian Institute of Chemistry. All rights reserved.",
+    "source": "Sriwijaya Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

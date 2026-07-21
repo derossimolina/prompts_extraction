@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1363-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating the electro-energetic use of natural gas by gas-to-wire offshore technology: Case study from Brazil",
+    "authors": "Gomes Relva S.; Oliveira da Silva V.; Peyerl D.; Veiga Gimenes A.L.; Molares Udaeta M.E.",
+    "year": "2020",
+    "doi": "10.1016/j.jup.2020.101085",
+    "abstract": "This work aims to analyse, from the point of view of long-term electrical power sector planning, the regulatory aspects for the implementation of offshore gas-to-wire (GtW) technology, focusing on a Brazilian case study and pre-salt fields. The main results show that in terms of implementation, offshore GtW must be auctioned as a structuring project and offshore transmission for the GtW power plant could adopt the same model used for Itaipú transmission or be attached to the Basic Network, GtW also requires a practice of priority dispatch, by a contract of quantity (and not availability). Policy changes are urgently needed to coordinate regulation of the electricity and gas sectors. © 2020 Elsevier Ltd",
+    "source": "Utilities Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

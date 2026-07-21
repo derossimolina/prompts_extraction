@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0902-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money-Laundering Prevention Obligations and Crypto-Assetes. Legislative Actions and Regulatory Opportunities; [Obblighi di prevenzione del riciclaggio e cripto-attività Interventi legislativi e opportunità regolamentari]",
+    "authors": "Soana G.",
+    "year": "2022",
+    "doi": "10.4478/106720",
+    "abstract": "The article analyses how the AML regulation reacted to the crisis caused by the introduction and development of crypto assets. In a field rooted in the regulation of intermediaries, the disintermediation of financial flows permitted by blockchain mined the same validity of the underlying policy strategy. The debate resulting from this crisis and the legislative attempts of fitting the previous approach into the new paradigm, provide an interesting case study to understand how the policy maker can react to similar exogenous shocks. Besides the analysis of the past and current regulation, the article aims at proposing new guidelines for this field. Eminently, as underlined by the MiCa Regulation and the recent FATF Guideline, this is an extremely dynamic area both from a technological and a policy standpoint. The AML regulation in the field of crypto-assets still needs further innovation so to implement a strategy that can address the peculiarities of blockchain's governance model. © Società editrice il Mulino.",
+    "source": "Osservatorio del Diritto Civile e Commerciale"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

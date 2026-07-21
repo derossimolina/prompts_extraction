@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1915-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The new international financial architecture and Caribbean OFCS: Confronting financial stability discourse",
+    "authors": "Marshall D.D.",
+    "year": "2007",
+    "doi": "10.1080/01436590701371629",
+    "abstract": "This article examines the role and force of international finance in contemporary capitalism and the norms being established by international financial governance structures. More than the matter of exclusion, the article argues that financial stability discourse girding issues related to the nature of capital market liberalisation, terrorist financing, money laundering and tax evasion attempts to suture over, erase and/or render illegitimate ideational resistance - particularly by offshore financial centres (OFCS) of the global South. The ongoing experience of the English-speaking Caribbean OFCS is discussed as local operatives have long been simultaneously framing as well as resisting Anglo-American insistence on a new configuration of market ethics, norms and sociality in the virtual world of 'shores' and high finance. This adds to the emerging body of work seeking to discursively unpack financialisation.",
+    "source": "Third World Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

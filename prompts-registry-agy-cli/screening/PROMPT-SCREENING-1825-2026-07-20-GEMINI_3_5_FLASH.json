@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1825-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The territorial dimension of the crisis of housing and the residential real estate waste; [La dimensión territorial de la crisis de la vivienda y el despilfarro inmobiliario residencial]",
+    "authors": "Angulo J.V.; Alfaro D.P.",
+    "year": "2017",
+    "doi": "10.5209/CRLA.54985",
+    "abstract": "The background of this paper is the last real estate bubble and the subsequent and not already finished economic crisis. Considering this context, the main aim of the text is to emphasize the need to abandon a model of urban development mainly based on the real estate business, and foreign to any criteria of rationality, equity and sustainability in the use of the territory and in the construction of the residential space. In this period, housing has been assessed more for its economic value that for the services of accommodation that provides, and its market was the fundamental piece of a model that ignored its role in structuring the territory and its status as an essential element to satisfy a basic human right. The paper proposes a reflection about the roots of the current model, highlighting its most negative consequences such as the waste of spatial resources and the worsening of the access to adequate dwellings. Finally, it is stressed that the assessment of the effects of the actual model, the necessity of new dwellings and the opportunities of using the existing housing stock should be made at the local level.",
+    "source": "Cuadernos de Relaciones Laborales"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0818-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Diffusion of International Anti-Money Laundering Standards into Ethiopian Laws: Issues of Adequacy and Effectiveness",
+    "authors": "Gobena M.A.",
+    "year": "2023",
+    "doi": "10.4314/mlr.v17i2.2",
+    "abstract": "Ethiopia has signed and ratified several international and regional instruments adopted to combat and prevent money laundering (ML) and other forms of organized crime. To express the country’s commitment to implement these instruments and combat the threat of ML and associated predicate offenses to the country’s financial stability and national security, the government of Ethiopia has enacted various anti-money laundering (AML) laws. This article examines the diffusion of the international AML standards into Ethiopia’s legal system and the adequacy of the country's AML legal norms in addressing the structural causes of ML and its predicate offenses. A socio-legal research approach was utilized to conduct the study. It uncovers that Ethiopia’s AML legal norms have evolved primarily because of external pressure. Ethiopia was pressurized to comply with the international AML standards, specifically with the Financial Action Task Force on Money Laundering (FATF) 40 Recommendations. Eventually, the country’s AML norms comply with FATF recommendations. This saved the country from being labeled as a country with strategic AML deficiencies or being blacklisted as a non-cooperative country and territory. It is unlikely, however, to alter the structural causes of ML and its predicate offenses. To curb the peril of ML to Ethiopia’s economy and security, it is necessary to either transform the country’s economy from cash-intensive to cashless or enact comprehensive AML legal norms that reflect the country’s social, political, and economic settings. © 2023, Mizan Law Review. All rights reserved.",
+    "source": "Mizan Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0415-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Institutional trust and the confiscation of real estate assets from organised crime",
+    "authors": "Fiorillo D.; Mosca M.; Pennacchio L.",
+    "year": "2026",
+    "doi": "10.1017/S1744137426100459",
+    "abstract": "This paper analyses whether the confiscation of real estate assets from organised crime affects citizens’ trust in government institutions and the legal system. The case of Italy is considered, where confiscation constitutes a distinctive policy tool against mafia-type organisations. The empirical analysis combines individual-level trust data from the Italian National Institute of Statistics’ Aspects of Daily Life survey with regional data on confiscations from the National Agency for Seized and Confiscated Assets for the period 2014–2022. Using linear and non-linear regression models, along with an instrumental variables approach, we find heterogeneous results. The confiscation of real estate assets from mafia organisations increases trust in government institutions and the legal system in the Southern regions, where organised crime is generally stronger. In Central and Northern regions, the positive effect is weaker and confined to the local tiers of government. Here, confiscations reduce trust in the legal system. © The Author(s), 2026. Published by Cambridge University Press on behalf of Millennium Economics Ltd.",
+    "source": "Journal of Institutional Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

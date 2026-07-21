@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0131-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Disruption in Southern Africa’s Money Laundering Activity by Artificial Intelligence Technologies",
+    "authors": "Masunda M.; Barot H.",
+    "year": "2025",
+    "doi": "10.3390/jrfm18080441",
+    "abstract": "The rise in illicit financial activities across the South Africa–Zimbabwe corridor, with an estimated annual loss of $3.1 billion demands advanced AI solutions to augment traditional detection methods. This study introduces FALCON, a groundbreaking hybrid transformer–GNN model that integrates temporal transaction analysis (TimeGAN) and graph-based entity mapping (GraphSAGE) to detect illicit financial flows with unprecedented precision. By leveraging data from South Africa’s FIC, Zimbabwe’s RBZ, and SWIFT, FALCON achieved 98.7%, surpassing Random Forest (72.1%) and human auditors (64.5%), while reducing false positives to 1.2% (AUC-ROC: 0.992). Tested on 1.8 million transactions, including falsified CTRs, STRs, and Ethereum blockchain data, FALCON uncovered $450 million laundered by 23 shell companies with a cross-border detection precision of 94%, directly mitigating illicit financial flows in Southern Africa. For regulators, FALCON met FAFT standards, yielding 92% court admissibility, and its GDPR-compliant design (ε = 1.2 differential privacy) met stringent legal standards. Deployed on AWS Graviton3, FALCON processed 2 million transactions/second at $0.002 per 1000 transactions, demonstrating real-time scalability, making it cost-effective for financial institutions in emerging markets. As the first AI framework tailored for Southern Africa’s financial ecosystems, FALCON sets a new benchmark for ethical AML solutions in emerging economies with immediate applicability to CBDC supervision. The transparent validation of publicly available data underscores its potential to transform global financial crime detection. © 2025 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

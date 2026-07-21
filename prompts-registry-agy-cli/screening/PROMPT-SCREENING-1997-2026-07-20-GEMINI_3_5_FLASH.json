@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1997-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Facts and conspiracies: The limits of money scandals. A study of the Sindona and Calvi cases; [Faits et conspirations: Les limites du scandale financier: Étude de cas des affaires sindona et Calvi]",
+    "authors": "Jarvis J.; Morselli C.",
+    "year": "2011",
+    "doi": "10.3917/ds.352.0217",
+    "abstract": "The organization of systems of dubious financial operations is often distinct from the images presented in the scandals that expose them. Forms of financial crime are commonly confused with systems of grey (or « above the law») financing construed by a privileged few. Moreover, scandals tend to target a small set of actors perceived as key players who centralize or coordinate relationships between legitimate and criminal milieus. The emphasis is placed on all-encompassing conspiracies while the transactions in question would constitute smaller independent schemes attached primarily by the small world of elite associations. This case study of the scandals linked to Michèle Sindona and Roberto Calvi based on a variety of content and network analyses illustrates such discrepancies in the representation of financial crime.",
+    "source": "Deviance et Societe"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

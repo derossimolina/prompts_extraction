@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1979-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Are there emerging West African criminal networks? The gase of Ghana",
+    "authors": "Aning K.",
+    "year": "2007",
+    "doi": "10.1080/17440570701507729",
+    "abstract": "This paper situates discussions about emerging African Criminal Networks (ACN) within Ghana specifically, and West Africa generally, and seeks to present the initial results of an empirically based study on the activities of transnational organised criminal (TOCs) groups in Ghana. The paper argues that the nature of state and statehood in Africa and its inability to establish effective regulatory mechanisms contributes to the rise of these particular types of criminal groups. It begins by conceptualising the place of Ghanaian and West African criminal groups within the framework of international crime. Furthermore, it undertakes an in-depth analysis of three types of crimes; namely computer and internet crime, drug trafficking and (artisanal) small arms manufacture and smuggling in Ghana. By applying a set of standard variables and criteria, the paper evaluates the growth of TNCs in these three issue-areas and how such activities potentially undermine public institutions like the Ghana Police Service (GPS), customs, excise and preventive services (CEPS), judiciary, banking and political parties and political institutions in Ghana. Finally, it seeks to offer an explanatory framework for the growth and acceptance by local communities of the activities of organised crime in Ghana by situating this within a cultural ethos and the social welfare roles played by those involved in such crimes.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

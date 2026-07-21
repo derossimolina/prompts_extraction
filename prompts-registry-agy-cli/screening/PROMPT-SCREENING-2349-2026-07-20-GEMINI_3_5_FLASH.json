@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2349-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ASSESSING THE INTRODUCTION OF ANTI-MONEY LAUNDERING LAW ON TRADE MISINVOICING: THE CASE OF VIETNAM",
+    "authors": "Toan, BH",
+    "year": "2022",
+    "doi": "10.18488/29.v9i2.3196",
+    "abstract": "This paper aims to investigate the effect of the introduction of the anti-money laundering (AML) law on trade misinvoicing in Vietnam. Trade misinvoicing is the deliberate falsification of the value or quantity of goods and includes overvalued imports and undervalued exports. The AML law can positively or adversely affect trade misinvoicing. Findings are practically important for investigating the real effect of future laws. A panel regression analysis is employed to isolate the effect of the AML law on trade misinvoicing. The hypotheses related to the effect of the introduction of the AML law are empirically investigated. Using panel data from 2000 to 2019, our empirical result is that the enactment of Vietnam's AML accelerates trade misinvoicing. This finding supports the view that individuals and firms are shifting from traditional methods of money laundering through trade-based channels when the State Bank of Vietnam promulgated legislation that focuses on financial intermediaries. This paper specifically concentrates on the effect of Vietnam's AML law on trade misinvoicing. We provide evidence that the introduction of the AML law encourages launderers to lean on cross-border trade to disguise their money. The findings suggest a number of important policy implications for combating money laundering, especially for transition economies, such as Vietnam's.",
+    "source": "ECONOMICS AND FINANCE LETTERS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1052-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mortgage securitization, structuring and moral hazard: Some evidence and some lessons from the great crash",
+    "authors": "Van Order R.",
+    "year": "2018",
+    "doi": "10.53383/100271",
+    "abstract": "Securitization provides borrowers with access to capital markets, most notably as an alternative to bank lending. However, it has also used complicated structures in order to attract investors. Complicated structures can provide, and have provided, vehicles for hiding risk and inducing moral hazard, which were at the center of the Great Crash. This paper provides descriptions of structures and increasing complexity over time. It suggests where moral hazard would have been expected to show up, empirically, and provides some evidence of moral hazard based on the timing of the changes in the structures. © 2018, Global Social Science Institute. All rights reserved.",
+    "source": "International Real Estate Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

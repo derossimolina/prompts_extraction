@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0569-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Data quality issues leading to sub optimal machine learning for money laundering models",
+    "authors": "Gupta A.; Dwivedi D.N.; Shah J.; Jain A.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-05-2021-0049",
+    "abstract": "Purpose: Good quality input data is critical to developing a robust machine learning model for identifying possible money laundering transactions. McKinsey, during one of the conferences of ACAMS, attributed data quality as one of the reasons for struggling artificial intelligence use cases in compliance to data. There were often use concerns raised on data quality of predictors such as wrong transaction codes, industry classification, etc. However, there has not been much discussion on the most critical variable of machine learning, the definition of an event, i.e. the date on which the suspicious activity reports (SAR) is filed. Design/methodology/approach: The team analyzed the transaction behavior of four major banks spread across Asia and Europe. Based on the findings, the team created a synthetic database comprising 2,000 SAR customers mimicking the time of investigation and case closure. In this paper, the authors focused on one very specific area of data quality, the definition of an event, i.e. the SAR/suspicious transaction report. Findings: The analysis of few of the banks in Asia and Europe suggests that this itself can improve the effectiveness of model and reduce the prediction span, i.e. the time lag between money laundering transaction done and prediction of money laundering as an alert for investigation Research limitations/implications: The analysis was done with existing experience of all situations where the time duration between alert and case closure is high (anywhere between 15 days till 10 months). Team could not quantify the impact of this finding due to lack of such actual case observed so far. Originality/value: The key finding from paper suggests that the money launderers typically either increase their level of activity or reduce their activity in the recent quarter. This is not true in terms of real behavior. They typically show a spike in activity through various means during money laundering. This in turn impacts the quality of insights that the model should be trained on. The authors believe that once the financial institutions start speeding up investigations on high risk cases, the scatter plot of SAR behavior will change significantly and will lead to better capture of money laundering behavior and a faster and more precise “catch” rate. © 2021, Abhishek Gupta, Dwijendra Nath Dwivedi, Jigar Shah and Ashish Jain.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

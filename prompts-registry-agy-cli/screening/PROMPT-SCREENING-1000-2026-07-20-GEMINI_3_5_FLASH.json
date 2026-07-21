@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1000-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "BITCOIN AND OTHER VIRTUAL CURRENCIES: SOCIAL, ECONOMIC AND REGULATORY ASPECTS IN THE INFORMATIONAL ERA; [BITCOIN E OUTRAS MOEDAS VIRTUAIS: ASPECTOS SOCIAIS, ECONÔMICOS E REGULATÓRIOS NA ERA INFORMACIONAL]",
+    "authors": "Martins M.G.; Esperandio C.R.; Lessa R.D.",
+    "year": "2022",
+    "doi": "10.26668/revistajur.2316-753X.v1i68.2752",
+    "abstract": "Objective: this paper deals with non-governmental virtual currencies, especially the Bitcoin, within the economic, social and regulatory context of the Information Society, which, among other phenomena, enables the emergence of new forms and models of wealth circulation. Methodology: the text constitutes a qualitative analysis of doctrine and legislation, with results obtained by the inductive method. Results: the anonymity provided by the systems used by cryptocurrencies can encourage the practice of crimes such as money laundering, tax evasion, drug trade, illegal sale of arms and others, which has led some countries to issue regulations on the use of cryptocurrencies. The problem with regulation lies in the fact that it is technically very complex to identify both ownership and operations carried out through this type of asset, and there are even those who claim that such a possibility does not exist, at least with the means and technology currently available. Contributions: in addition to the historical-evolutionary approach of the central theme, the text addresses issues such as the concept of currency; the economic relations in the informational era, with the increasing transactions of virtual currencies in electronic networks; the legal security; monitoring and regulation by a monetary authority to curb the financing of illegal activities, money laundering or possible financial instability in the economy and the technical limits that challenge the effectiveness of this type of regulation. Methodology: the text constitutes a qualitative analysis of doctrine and legislation, with results obtained by the inductive method. © 2022, Centro Universitario Curitiba - UNICURITIBA. All rights reserved.",
+    "source": "Revista Juridica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

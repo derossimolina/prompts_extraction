@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0075-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DOES DIGITAL PAYMENTS REDUCE THE RISK OF MONEY LAUNDERING? THE ROLE OF FINANCIAL SECTOR DEVELOPMENT",
+    "authors": "Eriqat I.O.A.; Khatib S.F.A.; Abbas A.F.; Fayad A.A.S.",
+    "year": "2025",
+    "doi": "10.3846/jbem.2025.24402",
+    "abstract": "This study examines how financial sector development mediates the relationship between digital payments and money laundering. The current study relies on a sample of 120 countries, including both developed and developing economies, for the years 2014, 2017, and 2021. The findings reveal that digital payments, the rule of law, and political stability reduce the risk of money laundering, indicating that the increased use of digital payments helps reduce the risk of money laundering. This suggests that digital transactions, being more traceable and transparent than cash transactions, can help authorities monitor and prevent illicit financial activities more effectively. Regarding the mediation effect of financial sector development, the results show that financial sector development and the rule of law positively affect the density of digital payment transactions. In addition, it revealed that money-laundering risk is lower when the financial system develops and compliance with laws and political stability. These findings provide actionable insights for policymakers, regulators, and financial institutions committed to strengthening anti-money laundering efforts. © 2025 The Author(s). Published by Vilnius Gediminas Technical University.",
+    "source": "Journal of Business Economics and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

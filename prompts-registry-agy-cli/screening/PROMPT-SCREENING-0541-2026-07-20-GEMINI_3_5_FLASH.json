@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0541-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Visual Analysis of Money Laundering in Cryptocurrency Exchange",
+    "authors": "Zhou F.; Chen Y.; Zhu C.; Jiang L.; Liao X.; Zhong Z.; Chen X.; Chen Y.; Zhao Y.",
+    "year": "2024",
+    "doi": "10.1109/TCSS.2022.3231687",
+    "abstract": "Blockchain-based cryptocurrencies, such as Bitcoin (BTC) and Ethereum (ETH), are newly emerging financial assets. Cryptocurrency exchanges are marketplaces for cryptocurrency circulation while becoming a new venue for money laundering. In this work, we cooperate with a cryptocurrency exchange to investigate new solutions for anti-money laundering in cryptocurrency exchanges. First, we learn the domain knowledge of cryptocurrency transactions and summarize data analytical requirements of transaction supervisors in their daily work of anti-money laundering. Then, we propose a visual analysis approach to support their daily work. The approach consists of a new algorithm that automatically detects suspicious money laundering accounts and a multiviewed user interface that visualizes the algorithm results and relevant transaction data. An abacus-inspired visualization is designed in the interface to depict transaction patterns contained in numerous cryptocurrency transactions, which can help supervisors find money laundering clues and deduce the trading tactic adopted by launderers. Finally, an algorithm performance experiment, a case study, and a field study are conducted with real-world data to demonstrate the effectiveness of our solution. © 2014 IEEE.",
+    "source": "IEEE Transactions on Computational Social Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

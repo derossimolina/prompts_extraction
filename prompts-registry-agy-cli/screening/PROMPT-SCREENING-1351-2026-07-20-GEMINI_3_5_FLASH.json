@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1351-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Gadamerian perspective on financial crimes: An issue of historically-rooted prejudices and narrative strategies",
+    "authors": "Dion M.",
+    "year": "2019",
+    "doi": "10.1108/JFC-11-2018-0119",
+    "abstract": "Purpose: The purpose of this paper is to see to what extent Hans-Georg Gadamer’s hermeneutic philosophy could be used to unveil how corporate discourse about financial crimes (in codes of ethics) is closely linked to the process of understanding. Design/methodology/approach: Corporate ethical discourse of 20 business corporations will be analyzed, as it is conveyed within their codes of ethics. The companies came from five countries (USA, Canada, France, Switzerland and Brazil). In the explanatory study, the following industries were represented (two companies by industry): aircrafts/trains, military, airlines, recreational vehicles, soft drinks, cigarettes, pharmaceuticals, beauty products, telecommunications and banks. Findings: Historically-based prejudices in three basic narrative strategies (silence, chosen items and detailed discussion) about financial crimes are related to the mindset, to the basic outlook on corporate self-interest or to an absolutizing attitude. Research limitations/implications: The historically-based prejudices that have been identified in this explanatory study should be analyzed in longitudinal studies. Practical implications: The historically-based prejudices that have been identified in this explanatory study should be analyzed in longitudinal studies. Historically-based prejudices could be strengthened by the way corporate codes of ethics deal with financial crimes. They could, thus, have a deep impact on the organizational culture in the long-run. Originality/value: The paper analyzes the way corporate codes of ethics use given narrative strategies to address financial crimes issues. It also unveils historically-based prejudices that follow from the choice of one or the other narrative strategy. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0591-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Of degens and defrauders: Using open-source investigative tools to investigate decentralized finance frauds and money laundering",
+    "authors": "Trozze A.; Davies T.; Kleinberg B.",
+    "year": "2023",
+    "doi": "10.1016/j.fsidi.2023.301575",
+    "abstract": "Fraud across the decentralized finance (DeFi) ecosystem is growing, with victims losing billions to DeFi scams every year. However, there is a disconnect between the reported value of these scams and associated legal prosecutions. We use open-source investigative tools to (1) investigate potential frauds involving Ethereum tokens using on-chain data and token smart contract analysis, and (2) investigate the ways proceeds from these scams were subsequently laundered. The analysis enabled us to (1) uncover transaction-based evidence of several rug pull and pump-and-dump schemes, and (2) identify their perpetrators’ money laundering tactics and cash-out methods. The rug pulls were less sophisticated than anticipated, money laundering techniques were also rudimentary and many funds ended up at centralized exchanges. This study demonstrates how open-source investigative tools can extract transaction-based evidence that could be used in a court of law to prosecute DeFi frauds. Additionally, we investigate how these funds are subsequently laundered. © 2023 The Authors",
+    "source": "Forensic Science International: Digital Investigation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

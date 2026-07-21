@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1179-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Criminal networks in a digitised world: on the nexus of borderless opportunities and local embeddedness",
+    "authors": "Leukfeldt E.R.; Kleemans E.R.; Kruisbergen E.W.; Roks R.A.",
+    "year": "2019",
+    "doi": "10.1007/s12117-019-09366-7",
+    "abstract": "This article presents the results of empirical analyses of the use of information technology (IT) by organized crime groups. In particular, it explores how the use of IT affects the processes of origin and growth of criminal networks. The empirical data presented in this article consist of 30 large scale criminal investigations into organized crime, including traditional organized crime, traditional organized crime in which IT is an innovative element, low tech cybercrimes and high tech cybercrimes. Networks involved in cybercrimes or traditional crimes with an innovative IT element can be characterized as a mixture of old school criminals that have a long criminal career, and a limited number of technically skilled members. Furthermore, almost all cases have a local dimension. Also the cybercrime cases. Dutch sellers of drugs on online marketplace, for example, mainly work for customers in the Netherlands and surrounding countries. © 2019, Springer Science+Business Media, LLC, part of Springer Nature.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

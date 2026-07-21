@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0089-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Routine activity theory and the dynamics of money laundering: reassessing emerging threats in banking operations",
+    "authors": "Mat Isa Y.; Mohd Sanusi Z.; Prabowo H.Y.; Tarjo T.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-06-2025-0106",
+    "abstract": "Purpose – This study aims to examine a range of factors − encompassing both micro- and macro-level perspectives, as well as institution- and industry-specific characteristics − that may account for the persistent exposure of banks to money laundering risk. This vulnerability persists despite ongoing efforts to curtail the exploitation of the banking sector as a conduit for illicit financial activities. Drawing on routine activity theory, this study analyzes how the convergence of motivated offenders, suitable targets and the absence of capable guardianship within the banking sector facilitates the continued occurrence of money laundering. Design/methodology/approach – This study uses a qualitative research methodology, with a primary focus on the review and analysis of secondary data obtained from reports, official documents and relevant academic literature. Findings – Numerous instances of money laundering demonstrate that, despite the implementation of robust safeguards, banks continue to knowingly or unknowingly internalize money laundering risk within their institutions. Although various risk management strategies have been adopted by banks, alongside regulatory interventions by authorities to shield the banking sector from such risk, complete immunity remains elusive. Accordingly, proactive and adaptive measures are essential to strengthen anti-money laundering efforts and more effectively combat the occurrence of money laundering activities. Practical implications – The findings of this study suggest that banks remain vulnerable to money laundering risk. Consequently, they must continuously strengthen their efforts to assess pervasive threats and refine strategic approaches to effectively mitigate this risk. Originality/value – This study offers a valuable contribution to the literature on money laundering by providing a contemporary analysis of the pervasive threats that banks continue to face. © 2025 Emerald Publishing Limited",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

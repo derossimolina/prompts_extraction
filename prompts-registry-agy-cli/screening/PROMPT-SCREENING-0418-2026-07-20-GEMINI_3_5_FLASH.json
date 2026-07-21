@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0418-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Opportunities to future crime: Scoping the future of money laundering and terrorist financing through cryptoassets",
+    "authors": "Manning M.; Akartuna E.A.; Johnson S.",
+    "year": "2025",
+    "doi": "10.1016/j.techfore.2024.123894",
+    "abstract": "Despite market turbulence, innovation in the cryptoasset ecosystem continues to derive new financial technologies that can facilitate pseudonymous money transfers. Though the money laundering (ML) and terrorist financing (TF) risks of this phenomenon are well documented, rapid innovation consistently generates inadvertent new opportunities for criminal exploitation. This futures-oriented systematic scoping review of 200 publications aims to identify new and emerging: (1) enablers of ML/TF in the cryptoasset space; (2) geopolitical trends that exacerbate these risks; (3) specific criminal methods of cryptoasset-enabled ML/TF; (4) relevant stakeholders; and (5) inherent risk characteristics. This review has two aims: the first is to provide a repository of insights that are relevant for stakeholders with crime prevention obligations, including insights into non-fungible tokens (NFTs), decentralised finance (DeFi), metaverse technologies, central-bank digital currencies (CBDCs), Russia's invasion of Ukraine and North Korea's “Lazarus Group” cyberhackers. The second is to analyse thematically the insights gained to create a checklist-style framework of factors that exacerbate the ML/TF risks of emerging innovation, called the Opportunity-to-future crime (O2FC) Framework. Policymakers and academics can screen new developments against this checklist to determine the nature of their crime threats and priorities for prevention measures and/or future research. To legitimise its use, this framework is backed through crime scientific opportunity theories that strengthen the themes emerging from the review. The ultimate objective is to contribute to the sustainable development of cryptoasset technologies, specifically by motivating pre-emptive prevention strategies that counter projected ML/TF risks before their exploitation becomes mainstream. © 2024 Elsevier Inc.",
+    "source": "Technological Forecasting and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

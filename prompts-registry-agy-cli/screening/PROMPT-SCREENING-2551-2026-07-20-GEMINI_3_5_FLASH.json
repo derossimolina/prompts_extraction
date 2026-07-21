@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2551-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Evidence from auditors about managers' and auditors' earnings management decisions",
+    "authors": "Nelson, MW; Elliott, JA; Tarpley, RL",
+    "year": "2002",
+    "doi": "10.2308/accr.2002.77.s-1.175",
+    "abstract": "This paper reports analyses of data obtained using a field-based questionnaire in which 253 auditors from one Big 5 firm recalled and described 515 specific experiences they had with clients who they believe were attempting to manage earnings. This approach enables us to analyze separately managers' decisions about how to attempt earnings management and auditors' decisions about whether to prevent earnings management by requiring adjustment of the financial statements. Our results indicate that managers are more likely to attempt earnings management, and auditors are less likely to adjust earnings management attempts, which are structured (not structured) with respect to precise (imprecise) standards. We also find that managers are more likely to make attempts that increase current-year income, but auditors are more likely to require that those attempts be adjusted, that managers are more likely to make attempts that decrease current-year income with unstructured transactions and/or when standards are imprecise, and that auditors are more likely to require adjustment of attempts that they identify as material or that are attempted by small clients.",
+    "source": "ACCOUNTING REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

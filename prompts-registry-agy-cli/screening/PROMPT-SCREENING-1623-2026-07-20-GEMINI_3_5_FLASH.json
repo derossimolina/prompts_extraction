@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1623-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Investigation and prosecution of money laundering cases in Malaysia",
+    "authors": "Muhammaddun Mohamed Z.; Ahmad K.",
+    "year": "2012",
+    "doi": "10.1108/13685201211266006",
+    "abstract": "PurposeThe purpose of this paper is to examine money laundering cases investigated by the Central Bank of Malaysia under the Anti&hyphen;Money Laundering and Anti&hyphen;Terrorism Financing Act 2001. Design&sol;methodology&sol;approachThis study analyzes the contents of public releases by the enforcement division of the Central Bank for period 2007 to 2011. Analysis of data is carried out based on three categories&colon; the predicate offence, the perpetrators and current status of the cases. FindingsFindings reveal that most cases investigated by the Central Bank relate to sec 4&lpar;1&rpar; of AMLATFA 2001 and the main predicate offence related to the money laundering charges are on illegal deposit taking. Further it is found that directors of companies are the leading group of people charged under the Act for money laundering. In addition, findings also show that only half of the cases investigated have been charged in court. Research limitations&sol;implicationsData from this research only come from enforcement releases from the Central Bank of Malaysia. Since AMLATFA2001 is administered by multiple agencies, the research may not provide a comprehensive view of all the cases investigated. Future research should look at other agencies and in particular the Royal Police of Malaysia. Practical implicationsFindings from the study suggest that prosecuting money laundering cases by Bank Negara Malaysia are limited to cases with predicate offence of illegal deposit taking. The agency should explore other predicate offences and the concept of &ldquo;irresistible inference&rdquo; to increase its effort in prosecuting money laundering activities in the country. Originality&sol;valueThe paper documents and analyzes the actual cases being investigated for money laundering offences. It provides basis for the standard setters to evaluate their effort to curb money laundering activities in Malaysia. © 2012, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

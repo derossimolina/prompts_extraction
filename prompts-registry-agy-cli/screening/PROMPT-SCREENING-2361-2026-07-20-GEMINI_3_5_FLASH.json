@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2361-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Challenges for financial institutes in implementing robust customer due diligence in Pakistan",
+    "authors": "Sultan, N; Mohamed, N",
+    "year": "2023",
+    "doi": "10.1108/JMLC-06-2022-0095",
+    "abstract": "Purpose This study aims to investigates the challenges faced by Pakistani financial institutes (FIs) and regulators in implementing robust customer due diligence measures. Design/methodology/approach The study adopted a qualitative technique. Twenty-five semi-structured interviews with chief compliance officers and regulators were conducted. Findings The study concluded that the main challenges are name screening, obsolete nature and quality of databases and undocumented, unregistered and unregulated portions of the economy and society. In addition, identification and verification of high-profile customers and beneficial owners, lack of specialised staff and cost of compliance are the significant challenges faced by FIs in Pakistan. Originality/value The Pakistani financial sector is less researched on anti-money laundering front, especially concerning customer due diligence. Further, the social, cultural and economic norms of the Indian sub-continent are more or less the same. Therefore, the study findings could be generalised to the region.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

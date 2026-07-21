@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2121-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Transnational organized crime in West Africa: The additional challenge",
+    "authors": "Mazzitelli A.L.",
+    "year": "2007",
+    "doi": "10.1111/j.1468-2346.2007.00674.x",
+    "abstract": "Despite its vast natural and human resources and the undisputed progress made in the last decade towards the establishment of democratic culture and governing systems, West African countries continue to occupy the bottom ranks of the UN Human Development Index. Similarly, many of them score poorly in World Bank and Transparency International indexes that measure good governance. The international mass media have recently highlighted the role played by the West African region in the transatlantic cocaine trade, as well as in the flow of illegal migrants to Europe. Drugs and migrants are, however, just two of the numerous illicit activities that feed the growth of local and transnational criminal organizations, and the establishing of a culture of quick and easy money that is progressively eroding the foundations of any sustainable and well balanced socio-economic development. The pervasive power of the corruption of criminal organizations, coupled with a general crisis by state actors in the administration of justice and enforcement of the rule of law, contribute towards the progressive diminishing of the credibility of the state as the institution entrusted with the prerogatives of guaranteeing security (of people and investments) and dispensing justice. In this context, the case of Guinea Bissau is probably the clearest example of what West African states may face in the near future if the issues of justice and security are not properly and promptly addressed. If primary responsibilities lie with West African governments and institutions, the international community as a whole should also review its approach to development policies by not only mainstreaming the issues of security and justice in their bilateral and multilateral agendas, but also by making it an essential cornerstone of policies and programmes aimed at supporting good governance and the establishment of states ruled by the law. © 2007 Blackwell Publishing Ltd/The Royal Institute of International Affairs.",
+    "source": "International Affairs"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

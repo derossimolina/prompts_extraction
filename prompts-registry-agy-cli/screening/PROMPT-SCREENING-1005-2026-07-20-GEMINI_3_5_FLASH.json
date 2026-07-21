@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1005-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Challenges in customer due diligence for banks in the UAE",
+    "authors": "ElYacoubi D.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-08-2019-0065",
+    "abstract": "Purpose: The purpose of this paper is to unpack the customer due diligence (CDD) vulnerabilities and to examine and analyze the UAE specific dynamics that make the country exposed to these threats. This research also intends to put on the table suitable solutions and remedial action steps that the UAE government, regulators and financial institutions (FIs) can adopt. Design/methodology/approach: This study is qualitative in nature. Findings: Despite the impressive regulatory framework and the satisfactory practices by FIs, there still remains some UAE specific challenges that make it difficult to undertake CDD for certain customers. The challenges that were identified include difficulties in Arabic names, complications in identifying the beneficial owners, impediments in establishing the source of wealth/funds, concerns with politically exposed persons, the increasing cost of compliance that resulted in a pattern of de-risking within FIs. Research limitations/implications: The international bodies whose mandate is to formulate the necessary anti-money laundering and combating the financing of terrorism policies and regulations for global implementation together with Association of Certified Anti-Money Laundering Specialists (ACAMS) have published sufficient studies on CDD-related issues in the UAE. Yet on the other hand, very limited literature was found by independent scholars. This paper will, therefore, largely reference publications by Financial Action Task Force, the International Narcotics Control Strategy Report and ACAMS. It will also include works by respected law firms that have operations in the UAE, local publications, government documents, academic papers by the International Monetary Fund and the World Bank, legal journals and others. Originality/value: Illicit actors exploit the UAE’s relatively open business environment, a multitude of global banks and exchange houses and global transportation links to undertake illicit financial activity […] the UAE does not have any major anti-money laundering (AML) deficiencies. However, the monitoring of FIs for AML purposes, particularly in the area of CDD, could be improved. This paper unpacks the CDD vulnerabilities and analyzes the UAE specific dynamics that make the country exposed to these threats. This research also puts on the table suitable remedial action steps that the UAE government, regulators and FIs can adopt. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

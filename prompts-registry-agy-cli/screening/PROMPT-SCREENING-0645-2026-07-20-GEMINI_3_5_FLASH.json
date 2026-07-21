@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0645-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering, media and European banks",
+    "authors": "Tiemann M.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-02-2023-0032",
+    "abstract": "Purpose: This paper aims to assess, from an empirical perspective, the research question if public media reports which relate concrete banks to concrete allegations of money laundering have an adverse impact on banks stock prices and what are the drivers of such impact? Design/methodology/approach: The paper makes use of event study methodology and uses the constant mean and the market model. The event window is calibrated towards a five-day window, and the estimation window has a length of 90 days, in line with best academic practices. Drivers are identified by correlation analysis. and the market model uses ordinary least squares regression. Findings: The application of event study methodologies yields the results that stock prices of affected banks generate, at the date of the news appearance, statistically significant negative abnormal returns under both the market model and the constant mean model. As negative abnormal returns have been mainly found at the date of the event itself, the findings confirm that the impacts of money laundering may be severe but short natured. In addition, the paper finds that the identified negative abnormal returns may be driven by the banks’ size in terms of total assets, by the bank’s profitability in terms of return on assets and by the bank’s sustainability risk. Practical implications: The findings have implications in terms of banking and supervisory practices. In specific, the findings help to argue that banking consolidation is needed to lower the impacts of AML cases, as stock prices of larger banks show less sensitivity. In addition, the findings could be used to determine financial sanctions against banks violating AML regulation. Finally, the findings imply that AML news can have severe and fast-moving financial stability considerations and are, therefore, important in crisis situations. Originality/value: As there appears to be no substantial research that applies event study methodology to the money laundering context, the combination of research question and methodology has an innovative character. In addition, there is no clear literature on media and money laundering. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

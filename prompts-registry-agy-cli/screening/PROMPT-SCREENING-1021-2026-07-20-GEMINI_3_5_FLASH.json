@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1021-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Customer identification in currency exchange companies as per FATF recommendations",
+    "authors": "Clavijo Suntura J.H.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-05-2019-0036",
+    "abstract": "Purpose: The purpose of this paper is to determine if customers due to diligence measures laid down in Financial Action Task Force (FATF) Recommendation no. 10 can be applied to customers of currency exchange companies. Design/methodology/approach: Currency exchange financial entities undertake financial transactions with occasional customers, for this reason, this research work is aimed at carrying out a study of the content of FATF Recommendation no. 10 regarding the applicability of due diligence measures to occasional customers. For this purpose, the analytical and interpretative methods have been used. Findings: FATF Recommendation No. 10 about customer due diligence measures has been designed primarily for financial entities with regular customers, however, most customers of financial currency exchange companies are occasional customers. For such financial entities, customer identification is mandatory only for transactions above 15,000 USD/EUR, leaving a potential risk of money laundering for financial transactions below that threshold. Furthermore, within currency exchange companies, risk factor analysis and customers’ identity verification are performed only on regular customers. Originality/value: Customer due diligence measures in currency exchange financial entities should not be subject to the transaction threshold. Moreover, it is necessary to adopt a centralized control system to avoid currency exchange companies infringement of their control systems. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

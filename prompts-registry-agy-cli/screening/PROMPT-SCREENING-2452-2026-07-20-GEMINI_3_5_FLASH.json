@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2452-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Japan's financial mess",
+    "authors": "Lincoln, EJ",
+    "year": "1998",
+    "doi": "10.2307/20048876",
+    "abstract": "Tokyo's economic sluggishness is souring life at home and setting off alarms abroad. Scandal after scandal has revealed shocking malfeasance: unethical banking practices, illegal deals between financial institutions and politicians, and the strong-arm tactics of organized crime. Moreover, Japan's financial sector is swamped by a mind-boggling array of bad debts and underfunded pension liabilities, amounting to as much as $1.5 trillion. Tokyo promises economic stimulus and deregulation, but the results will disappoint. Worse yet, Japan will be reluctant to help bail out its Southeast Asian neighbors and will prove a weak international partner for America.",
+    "source": "FOREIGN AFFAIRS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0010-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enforcing export controls learning from and using the financial system",
+    "authors": "Hilgenstock B.; Ribakova E.; Vlasyuk A.; Wolff G.",
+    "year": "2025",
+    "doi": "10.1111/1758-5899.13463",
+    "abstract": "Russian imports of battlefield goods subject to export controls have surged since mid-2022 and reached levels close to those prior to Russia's full-scale invasion of Ukraine. Russia thus continues to be able to acquire foreign components critical for its military industry. These imports largely occur via mainland China, Hong Kong, Turkey and the United Arab Emirates, while other countries including Armenia, Georgia, Kazakhstan and the Kyrgyz Republic have also seen massive increases in tech imports that likely end up in Russia. The enforcement of export controls faces multifaceted challenges centred around complex supply chains, lack of transparency and opaque financial structures, issues familiar from anti-money laundering (AML) and countering financing of terrorism (CFT) frameworks. We propose using a similar framework in export control enforcement: First, financial institutions need to play a role in monitoring trade in export-controlled goods and blocking illicit transactions. Second, non-financial companies could learn from banks' efforts in the AML/CFT sphere to implement proper due-diligence procedures and to ensure export controls compliance. Public-sector investigations and appropriate fines are critical to increase the incentives for firms to act. Technology sanctions will remain part of the economic statecraft toolbox. The Russia case will test their effectiveness and credibility. © 2024 Durham University and John Wiley & Sons Ltd.",
+    "source": "Global Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

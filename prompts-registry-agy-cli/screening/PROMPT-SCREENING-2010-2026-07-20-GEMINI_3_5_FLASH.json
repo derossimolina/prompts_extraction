@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2010-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Wealth Effects of Diversification and Financial Deal Structuring: Evidence from REIT Property Portfolio Acquisitions",
+    "authors": "Campbell R.D.; Petrova M.; Sirmans C.F.",
+    "year": "2003",
+    "doi": "10.1111/1540-6229.00069",
+    "abstract": "This study examines the strategic characteristics and shareholder wealth effects of a popular vehicle for Real Estate Investment Trust growth in the 1990s: the acquisition of a portfolio of properties from a single seller. We examine a sample of 209 REIT portfolio acquisitions during 1995-2001. We observe a wide variety of financing strategies and find an array of different categories of sellers. Contrary to results reported in real estate transactions of this sort in the past, we find that announcement-period shareholder returns are significantly positive in the aggregate. We present evidence that excess returns to acquirers result from (1) wealth benefits received when companies reconfirm their geographical focus in the acquisition, (2) positive information conveyed by the use of project-specific private debt and (3) a positive signal sent to the market when transactions are financed by stock privately placed with financial institutions.",
+    "source": "Real Estate Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

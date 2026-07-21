@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2119-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Economics, Democracy, and the Distribution of Capital Ownership",
+    "authors": "Ashford R.",
+    "year": "2011",
+    "doi": "10.1007/s12143-011-9092-y",
+    "abstract": "This article holds that widespread, practical access to capital acquisition is essential for sustainable widespread economic prosperity and democracy. The founders of the U.S.A. agreed that sustainable democracy required widespread ownership of land to provide a viable earning capacity sufficient to support robust participation in democratic government. The importance of widespread land ownership to individual prosperity and sustainable democracy was supported not only by the prevailing philosophical views of property, it was also apparent to the common man and woman. Compared to Europe, America offered widespread access to land ownership, higher wages, better work conditions, cheaper staples and greater individual freedom, equal opportunity, prosperity, and political participation. This conviction that widespread access to ownership is a necessary condition for widespread prosperity and sustainable democracy continued throughout most of the nineteenth century, but today public discourse reveals virtually no trace of this once universally held opinion. This article suggests that the disappearance of this conviction can be traced to an erroneous view shaped by neoclassical economics and Keynesian economics. According to this view, (1) the disappearance of the American frontier and industrialization made the goal of widespread capital ownership either impractical or of little or no economic significance and (2) by way of technological advance, sufficient earning capacity and consumer demand to promote growth and sustain democracy can be achieved, without widespread ownership, primarily through jobs and welfare. Although differing in many respects, both mainstream schools, along with Adam Smith’s classical economics, share one common but unstated economic assumption: the broader distribution of capital acquisition (in itself) has no fundamental relationship to the fuller employment of people and capital, the broader distribution of greater individual earning capacity, and growth. Contemporary thinking, shaped by these economic schools, also tacitly assumes that widespread capital ownership is not essential for the sustainable individual earning capacity needed to support robust democracy. This erroneous “ownership-neutrality assumption” (1) contradicts both the views of America’s founders and the colonial experience, and (2) provides theoretical justification for structuring capital markets and capital acquisition transactions to unfairly and dysfunctionally favor existing owners at the expense of broader ownership distribution, more widely shared prosperity, greater efficiency, ecologically friendly growth, and a vital democracy. America’s conscientious founders would be shocked by the diminished importance of the distribution of ownership in the mainstream analysis of prices, efficiency, production, growth, and democracy. Rather than enhancing democracy, they would view the “ownership-neutrality assumption” of mainstream economics as contributing to its deterioration and corruption. They would openly search for economic analysis built on an alternate assumption more consistent with their understanding of the requisite conditions for sustainable democracy. This article advances an economic analysis that suspends the ownership-neutrality assumption, replaces it with a “broader-ownership-growth assumption,” and suggests a voluntary market strategy for substantially broadening capital ownership, enhancing individual earning capacity, and providing the widespread economic prosperity needed for robust democracy. © 2011, Copyright Taylor & Francis.",
+    "source": "Forum for Social Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

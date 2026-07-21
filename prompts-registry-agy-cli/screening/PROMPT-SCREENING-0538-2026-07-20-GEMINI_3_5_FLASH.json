@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0538-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of delay: Evidence from formal out-of-court restructuring",
+    "authors": "Srhoj S.; Kovač D.; Shapiro J.N.; Filer R.K.",
+    "year": "2023",
+    "doi": "10.1016/j.jcorpfin.2022.102319",
+    "abstract": "Different types of bankruptcy restructuring procedures are used in most legal systems to decide the fate of businesses facing financial hardship. We study how bargaining failures in an under-researched type of restructuring procedure, a formal out-of-the court procedure impacts the economic performance of participating firms. Croatia introduced a “pre-bankruptcy settlement” (PBS) process in the wake of the Great Recession of 2007–2009. A novel dataset provides us with annual financial statements for both sides of more than 180,000 debtor–creditor pairs, enabling us to address selection into failed negotiations by matching a rich set of creditor and debtor characteristics. Failures to settle at the PBS stage due to idiosyncratic bargaining problems, which effectively delay entry into the standard bankruptcy procedure, lead to a lower rate of survival among debtors as well as reduced employment, revenue, and profits. We are the first study to track how bargaining failures diffuse through the network of creditors, finding a significant negative effect on small creditors, but not others. Our results highlight the impact of delay and the importance of structuring bankruptcy procedures, to rapidly resolve uncertainty about firms’ future prospects. © 2022 Elsevier B.V.",
+    "source": "Journal of Corporate Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

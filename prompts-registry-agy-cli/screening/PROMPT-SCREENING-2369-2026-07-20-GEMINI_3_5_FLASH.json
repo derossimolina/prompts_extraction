@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2369-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Preventing the use of financial institutions for money laundering and the implications for financial privacy",
+    "authors": "Nguyen, CL",
+    "year": "2018",
+    "doi": "10.1108/JMLC-01-2017-0004",
+    "abstract": "Purpose - This paper aims to discuss the implication of money laundering preventive measures for financial privacy, with the focus on banking secrecy. Design/methodology/approach - This paper, first, sets out the principal measures imposed on financial service providers to prevent money laundering. The interaction between the preventive measures and the desire for financial privacy is then discussed. Findings - The adequate implementation of the preventive measures is highly important for financial institutions to be secure from money laundering. Nonetheless, the enforcement of these measures is becoming much more intrusive into financial privacy. In practice, financial privacy should be weighted fairly against the objectives of preventive measures. Originality/value - This paper would be a good guidance on how to deal with tension and potential conflicts of interests between law enforcement authorities and financial service providers and between the protection of financial privacy and the objectives of the money laundering preventive measures.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

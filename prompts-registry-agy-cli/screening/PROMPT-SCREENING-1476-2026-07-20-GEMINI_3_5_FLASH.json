@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1476-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Use of Bitcoin in Darknet Markets: Examining Facilitative Factors on Bitcoin-Related Crimes",
+    "authors": "Kethineni S.; Cao Y.; Dodge C.",
+    "year": "2018",
+    "doi": "10.1007/s12103-017-9394-6",
+    "abstract": "Bitcoin, created in 2008, has become the most widely accepted virtual currency in the world. Some believe that Bitcoin will play a significant role in both e-commerce and money transfers, whereas others believe that Bitcoin transactions are more likely to be used by criminals creating fraudulent investments and engaging in drug trafficking and money laundering. This study addresses (1) whether the traditional criminological concepts are applicable in explaining criminal activities in virtual space, (2) what factors contribute to Bitcoin-related offenses, and (3) what lessons could be learned from the current study of Bitcoin-related criminal cases. © 2017, Southern Criminal Justice Association.",
+    "source": "American Journal of Criminal Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

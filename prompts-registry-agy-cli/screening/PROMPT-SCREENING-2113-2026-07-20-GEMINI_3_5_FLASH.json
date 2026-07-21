@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2113-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Estimating the cost of compliance of AMLCTF for financial institutions in Australia",
+    "authors": "Sathye M.",
+    "year": "2008",
+    "doi": "10.1108/13590790810907191",
+    "abstract": "Purpose The purpose of this paper is to find out the likely compliance cost of antimoney laundering and counter terrorism financing (AMLCTF) for financial institutions in Australia to help understand the regulatory burden of the legislation. Design/methodology/approach The paper adopts a case study approach. Using the method of analogy, the cost of compliance is estimated. Findings It is found that the legislation brings substantial financial regulatory burden on the financial institutions in Australia. It is also found that the compliance cost is quite substantial and stands at about A$1.02 billion for the banking industry as a whole at 2007 prices. The per capita burden has been estimated at A$50 approximately. The author's estimate compares well with other publicly available estimates. Research limitations/implications Limitations of case study research method apply. Through this case study, prior work on regulatory cost burden on organisations is confirmed – in the context of financial institutions. Practical implications Policy makers and reporting entities the world over would particularly be interested in the findings as it helps gauge the cost impact of regulatory burden the legislation imposes. The compliance cost burden could affect the overall competitiveness of Australian financial institutions particularly because of the small size of the economy in terms of population. Originality/value This is the first paper in the literature that has attempted to estimate the cost of AMLCTF compliance. It is believed that the study could provide an impetus for similar studies in other jurisdictions. © 2008, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

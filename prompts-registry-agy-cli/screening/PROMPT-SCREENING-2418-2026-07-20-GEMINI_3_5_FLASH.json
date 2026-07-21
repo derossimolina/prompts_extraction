@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2418-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Governance and Informal Economies: Informality, Uncertainty and Street Vending in China",
+    "authors": "Jiang, AL; Wang, P",
+    "year": "2022",
+    "doi": "10.1093/bjc/azab112",
+    "abstract": "How can people who work in the informal sector protect property rights and address uncertainties? Street vending forms an essential part of urban economies in developing countries like China, and most street vendors operate outside state regulation. They encounter market-based uncertainties and uncertainties caused by unpredictable enforcement. Empirical data collected in Guangzhou and Guilin suggests that street vendors form private governance organizations to solve resource limitations, allocate pitches and resist government interference. Street vendors who cannot rely on effective private governance organizations may purchase protection from a third party (e.g. agents of the state) to secure informal rights to a particular spot and avoid confiscation of their wares and equipment. This study contributes to existing literature on private governance and informality by empirically examining private governance institutions in an informal economy.",
+    "source": "BRITISH JOURNAL OF CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

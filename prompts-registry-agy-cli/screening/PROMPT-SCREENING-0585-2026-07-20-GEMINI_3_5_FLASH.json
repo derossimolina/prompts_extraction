@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0585-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global Digital Convergence: Impact of Cybersecurity, Business Transparency, Economic Transformation, and AML Efficiency",
+    "authors": "Kuzior A.; Vasylieva T.; Kuzmenko O.; Koibichuk V.; Brożek P.",
+    "year": "2022",
+    "doi": "10.3390/joitmc8040195",
+    "abstract": "The article substantiates the existence of convergence processes in the field of digitization of countries, taking into account the number of Internet users; people with advanced skills; and indicators of infrastructure (network coverage, population covered by at least a 3G mobile network, population covered by at least a 4G mobile network), access (access to ICT at home, active mobile broadband subscriptions, fixed broadband subscriptions), enablers (fixed broadband over 10 Mbps, mobile data and voice basket, high consumption) and barriers (improved broadband access from 256 kbps to 2 Mbps and from 2 Mbps to 10 Mbps mobile data and voice basket, low consumption) of digital development. The methodological basis for determining the sigma convergence of digitization processes is the coefficient of variation. The values of the coefficient of variation confirmed the high level of convergence between the studied countries in terms of the degree of use of the Internet for conducting digital transactions. The developed econometric model, which describes the influence of statistically significant integral indicators of the national cybersecurity level, ease of doing business, and the anti-money laundering index on the country’s digital development level, made it possible to determine the average trend of dependence on the level of digital development. One hundred four countries were considered for the analysis. The conducted study of the impact of digitalization on economic transformations based on developed quantile regressions made it possible to analyze exactly how the level of digital development for countries with a high level of digitalization and for countries with a low level of digitalization development depends on the value of the national cybersecurity indicator and the ease of doing business, and which countries have the least resistance to the risk factors of their involvement in fraudulent schemes for the purpose of legalizing criminal income. © 2022 by the authors.",
+    "source": "Journal of Open Innovation: Technology, Market, and Complexity"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1722-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trust among cybercriminals? Carding forums, uncertainty and implications for policing",
+    "authors": "Yip M.; Webber C.; Shadbolt N.",
+    "year": "2013",
+    "doi": "10.1080/10439463.2013.780227",
+    "abstract": "At the beginning of the twenty-first century, before the power of online social networking became apparent, several studies speculated about the likely structure of organised cybercrime. In the light of new data on cybercriminal organisations, this paper sets out to revisit their claims. This paper examines the structure of organised cybercrime by analysing data from online underground markets previously in operation over the Internet. In order to understand the various structures of organised cybercrime which have manifested, theories are drawn from social psychology, organised crime and transaction cost economics (TCE). Since the focus is on how uncertainty is mitigated in trading among cybercriminals, uncertainty is treated as a cost to the transactions and is used as the unit of analysis to examine the mechanisms cybercriminals use to control two key sources of uncertainty: the quality of merchandise and the identity of the trader. The findings indicate that carding forums facilitate organised cybercrime because they offer a hybrid form of organisational structure that is able to address sources of uncertainty and minimise transaction costs to an extent that allows a competitive underground market to emerge. The findings from this study can be used to examine other online applications that could facilitate the online underground economy. © 2013 Taylor & Francis.",
+    "source": "Policing and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

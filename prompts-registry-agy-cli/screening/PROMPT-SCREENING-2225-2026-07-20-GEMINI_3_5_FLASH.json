@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2225-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Violent Narco-Cartels or US Hegemony? The political economy of the 'war on drugs' in Mexico",
+    "authors": "Mercille J.",
+    "year": "2011",
+    "doi": "10.1080/01436597.2011.619881",
+    "abstract": "Mainstream analysis and commentary on drug trafficking and related violence in Mexico focuses overwhelmingly on the narco-cartels as sources of the problem and presents the US as a well intentioned player helping to conduct a 'war on drugs' out of concern for addiction, crime and violence. This article offers an alternative interpretation, grounded in critical political economy, showing that in addition to fuelling the narcotics industry in Mexico thanks to its large drug consumption and loose firearms regulations, the US shares much responsibility for its expansion thanks to its record of support for some of the main players in the drugs trade, such as the Mexican government and military, and by implementing neoliberal reforms that have increased the size of the narcotics industry. The war on drugs has served as a pretext to intervene in Mexican affairs and to protect US hegemonic projects such as nafta, rather than as a genuine attack on drug problems. In particular, the drugs war has been used repeatedly to repress dissent and popular opposition to neoliberal policies in Mexico. Finally, US banks have increased their profits by laundering drug money from Mexico and elsewhere; the failure to implement tighter regulations testifies to the power of the financial community in the US. © 2011 Copyright Taylor and Francis Group, LLC.",
+    "source": "Third World Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0115-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A study on challenges and improvement strategies for Taiwan’s anti-money laundering and financial fraud prevention mechanisms: Focusing on virtual currency",
+    "authors": "Cho C.-C.; Kao R.-H.; Li J.-D.",
+    "year": "2026",
+    "doi": "10.1177/17488958261443404",
+    "abstract": "The increasing complexity of global financial crimes, driven by the rise of virtual currencies and evolving fraudulent techniques, has posed significant challenges for Taiwan’s anti-money laundering and fraud-prevention mechanisms. The research highlights challenges such as insufficient public awareness, inefficiencies in the Know Your Customer process, and the inability to address emerging fraud schemes that involve virtual currencies. This study examines these issues by reviewing the current anti-money laundering framework, identifying operational deficiencies, and proposing solutions through a literature review and in-depth interviews with financial professionals. Findings reveal that effective anti-money laundering measures require enhanced public education, advanced technological applications such as artificial intelligence and blockchain, and improved personnel training to identify suspicious activities. Furthermore, the study underscores the importance of cross-border cooperation and international coordination in combating transnational financial crimes. The practical recommendations aim to strengthen the robustness, security, and compliance of Taiwan’s financial system while offering insights for the Asia-Pacific region. Theoretically, the research clarifies how anti-money laundering strategies intersect with virtual currencies and offers a framework to guide future studies. © The Author(s) 2026",
+    "source": "Criminology and Criminal Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

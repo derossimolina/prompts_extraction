@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0513-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering risk judgement by compliance officers at financial institutions in Malaysia: the effects of customer risk determinants and regulatory enforcement",
+    "authors": "Jamil A.H.; Mohd-Sanusi Z.; Mat-Isa Y.; Yaacob N.M.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-01-2022-0004",
+    "abstract": "Purpose: This paper aims to provide an empirical analysis of the effects of regulatory enforcement and customer risk determinants on money laundering risk judgment. The study further explores the moderating impact of regulatory enforcement on compliance officers in the banking and money service business (MSB) sectors. The analysis is conducted to find the important factors that contribute to the issues of risk judgement among compliance officers to establish effective anti-money laundering (AML) and countering financing of terrorism compliance at the financial institutions, as highlighted in the National Risk Assessment Report 2017 by the Central Bank of Malaysia. Design/methodology/approach: An experimental study with four different scenarios of case studies distributed to 124 compliance officers at the banking and MSB sectors was conducted via online platforms. The paper uses a quantitative approach via structural equation modelling. Findings: The result shows a significant effect of customer risk determinants and regulatory enforcement on money laundering risk judgement, taking into account competency as the control measure. A further test on the interaction effects of both determinants shows a significant result on the money laundering risk judgement. The empirical evidence indicated that regulatory enforcement influenced compliance officers’ money laundering risk judgement and suspicious transaction report submission. In other words, the banking and MSB sectors’ AML compliance significantly depends on the regulators’ enforcement activity. Research limitations/implications: This study is limited to two independent variables: regulatory enforcement and customer risk determinants. Future studies may consider other factors affecting compliance officers’ money laundering risk judgement, such as technical competency, knowledge management, digitalization and technology and ethical issues. Practical implications: This study provides several theoretical and practical implications. Emphasizing the excellent quality of judgement and, eventually, good quality of reporting the suspicious transactions will not be achieved merely from enforcing fines and punishment, but comprehensive measures must be taken. Increasing the competency and training, educating the compliance officers, supporting the industry and practitioners with incentives and digitalization, enhancing the campaign and awareness among the public and standardizing the policy shall be the good initiatives for the regulatory enforcement to establish. Originality/value: This paper provides a valuable contribution to the body of knowledge and fulfills the significant gaps in the literature on money laundering, not to mention, the integration between behavioural studies and anti-money laundering compliance, which has scarcely been statistically evident from the research studies. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

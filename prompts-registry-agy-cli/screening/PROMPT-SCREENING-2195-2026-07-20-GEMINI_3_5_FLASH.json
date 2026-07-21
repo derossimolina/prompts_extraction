@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2195-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A review of organised crime in electronic finance",
+    "authors": "Gottschalk P.; Dean G.",
+    "year": "2009",
+    "doi": "10.1504/IJEF.2009.024269",
+    "abstract": "Criminal Money Management (CMM) has received increased attention in recent years, as organised crime projects by criminal organisations apply transnational and global electronic finance to run their operations. The purpose of this article is to present the core topics relevant to our understanding of organised crime finances. This exploratory research includes topics such as hawala banking and hawala bankers transferring criminal proceeds, the enterprise paradigm of organised crime, the growth of criminal enterprises, a stage model for criminal organisations and the costs of crime for society. These topics are conceptually framed for the core issue of CMM in this article. © 2009 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Electronic Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

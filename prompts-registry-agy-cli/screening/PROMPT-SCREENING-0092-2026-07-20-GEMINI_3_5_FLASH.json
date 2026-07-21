@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0092-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The scammer's playbook: Exploring the psychological techniques and tactics used by scammers in the social engineering of cryptocurrency fraud",
+    "authors": "Dulisse B.; Fitch C.; Connealy N.",
+    "year": "2026",
+    "doi": "10.1016/j.jeconc.2026.100211",
+    "abstract": "Cryptocurrency fraud represents one of the fastest-growing financial crimes worldwide, yet the psychological mechanisms that enable these scams remain understudied. Drawing on 282 verified victim narratives from California and Wisconsin state crypto scam trackers (2023–2024), this study systematically coded the use of seven psychological tactics (PTacs) and seven psychological techniques (PTechs) previously validated in cyber social engineering research. Fraudulent trading platforms (51.5 %) and pig-butchering schemes (33.7 %) dominated the sample. Across all cases, scammers relied overwhelmingly on impersonation and persuasion techniques paired with fit-and-form and familiarity tactics. On average, 1.77 tactics and 1.86 techniques were deployed per incident; higher psychological complexity (4–6 combined elements) was significantly associated with greater financial losses in fraudulent trading platform scams ($135,346 vs. $63,034, p = .029). These findings demonstrate that cryptocurrency fraud resembles more of a repeatable, psychologically-engineered “playbook” rather than random opportunism by unorganized actors. By revealing consistent patterns of manipulation that scale harm, our study provides an evidence-based roadmap for prevention: psychologically informed user education, platform-level disruption of scripted interaction sequences, standardized narrative reporting in complaint systems, and proactive regulatory alerts keyed to emerging PTac/PTech signatures. Implementing these targeted interventions can materially reduce both victimization rates and aggregate financial losses in digital asset markets. © 2026 The Authors",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

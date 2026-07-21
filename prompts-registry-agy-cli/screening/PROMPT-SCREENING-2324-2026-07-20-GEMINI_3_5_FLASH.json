@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2324-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DOES CRIME IMPACT BANK CARD ACCEPTANCE?",
+    "authors": "Karoubi, B",
+    "year": "2015",
+    "doi": "10.3917/reco.pr2.0056",
+    "abstract": "This paper investigates whether crime impacts the probability of bank card acceptance. We build an indicator composed of theft variables concerning primarily both consumers and merchants. We use a document published by the Home Office, the etat 4001, to associate to each merchant the crime level of his department. We find that a high level of financial crime discourages card acceptance, while a high level of violent crime fosters it. The first effect interpreted to be the result of adverse selection, while the second effect results from a partial internalization of risks borne by consumers.",
+    "source": "REVUE ECONOMIQUE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

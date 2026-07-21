@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1073-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is there a commendable regime for combatting money laundering in international business transactions?",
+    "authors": "Clarke A.E.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-05-2020-0057",
+    "abstract": "Purpose: Money laundering and grand business corruption continue to plague the global economy, accounting for 2%-5% of the global gross domestic product. Illicit funds, produced through grand corruption, are laundered using complex layering schemes that cloak them in legitimacy by concealing their origins. Lamentably, weak anti-money laundering (AML) frameworks promote economic instability, unjust commercial advantages and organized crimes. This study aims to highlight the need for comprehensive anti-corruption and AML frameworks by critiquing the exploitable gaps in the global AML regime created by heterogeneous state-level AML regimes to date. Design/methodology/approach: This study welcomes the United Nations Convention against Corruption (UNCAC) and the financial action task force (FATF) recommendations but underscores the limitations of their effectiveness by investigating state-level enforcement mechanisms to determine these instruments’ true impact or lack thereof. The mutual evaluation reports (MERs) and state-level AML regimes in the UK, the USA and Canada are analyzed to illustrate the distinct implementation of international soft law in domestic legislation. Findings: This study finds that UNCAC and the FATF recommendations are pivotal steps towards the establishment of a global AML regime for international business, albeit, one that remains imperfect because of the inconsistency of state-level AML frameworks. Consequently, international cooperation is needed to navigate and improve the discrepancies in varied AML legislation. Originality/value: The author provides an in-depth and balanced analysis of current state-level AML developments and relies upon the recent 2016-2018 MERs to indicate the successes and flaws of various AML legislation. Therefore, this critique may guide stakeholders to construct robust AML frameworks and contributes to academic research in AML. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0716-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Home sweet home, how money laundering pollutes the real estate market: an agent based model",
+    "authors": "Barone R.",
+    "year": "2023",
+    "doi": "10.1007/s11403-023-00391-y",
+    "abstract": "The aim of the paper is to analyse the role of the real estate market as a dirty money laundering channel for organized crime in Italy. We contribute to the economic literature on house price determinants, providing for the first time an agent-based model to evaluate the impact of money laundering on the amount and the prices of transactions in the Italian residential real estate market. To this purpose, we collected and processed data from the Real Estate Market Observatory of the Italian Revenue Agency, the Italian National Statistical Institute and the European Central Bank for the period 2006–2020. Then, we enriched the data set including for each province if it is a tourist destination, a university site and the corresponding crime rate. Using AgentPy, we built the model that consists of one agent—that can be a buyer (honest or criminal) and a seller—, banks, the real estate properties, and the environment. Buyers and sellers interact randomly according to the Italian market real estate purchase frequencies. We show a reverse relationship between the crime rate index and the percentage of criminal transaction out of the total. Moreover, the average price is higher for criminal transactions with a growing trend as the number of criminals increases. © 2023, The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.",
+    "source": "Journal of Economic Interaction and Coordination"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica modelagem baseada em agentes (ABM) para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo))",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

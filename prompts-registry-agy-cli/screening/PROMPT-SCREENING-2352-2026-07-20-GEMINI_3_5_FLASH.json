@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2352-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Unintended Consequences of Anti-Money-Laundering Regulations",
+    "authors": "Colella, F; Maskus, KE; Peri, A",
+    "year": "2026",
+    "doi": "10.1093/ej/ueaf086",
+    "abstract": "Tighter money-laundering regulations in offshore financial havens may inadvertently spur incentives to launder money domestically. Our study exploits regulations targeting financially based money laundering in Caribbean jurisdictions to examine their impact on the creation of front companies and other money-laundering practices in US counties. Predictions on the effects are ambiguous: stricter regulations could either increase domestic money laundering through substitution or decrease it by disrupting laundering networks. We find strong evidence of substitution. Counties with prior financial exposure to these jurisdictions experience a rise in business activities after regulatory tightening. The effect is greater in sectors at high risk of money laundering, while firms hire fewer workers and inflate revenues. Exposed counties also see higher shares of cash-based and misvalued real-estate transactions. Our work provides the first indirect evidence of real and financial unintended effects of foreign money-laundering regulations.",
+    "source": "ECONOMIC JOURNAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0734-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Why money laundering is nurtured in Ethiopia?",
+    "authors": "Gobena M.A.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-09-2021-0090",
+    "abstract": "Purpose: The purpose of this paper is to examine the divers and facilitators of money laundering in Ethiopia. Specifically, it looks at the risk factors that existed in the country’s economic and political system, which provide an appealing environment for money laundering to grow. Design/methodology/approach: This qualitative study relies on primary data generated from interviewees drawn from the National Bank of Ethiopia, Ethiopian Financial Intelligence Center, Ethiopian Customs Commission, selected financial institutions and certain non-financial businesses and professions and law enforcement agencies, as well as secondary data from government reports, media press, statutes and other online and offline sources. Findings: This study finds that the risk factors for the growth of money laundering in Ethiopia are highly reliant on the country’s economic and political system. Accordingly, the nature of Ethiopia’s economy, which is cash-intensive, loosely regulated economic growth and the raise associated criminality, the development of underground banking activities, scarcity of foreign currency reserves and the existence of societal demand for illicit goods and services are all risk factors for the growth of money laundering. The raise of an elite cartel model type of systematic corruption, limited institutional capacity to prevent and suppress money laundering and the absence of a national identity card system are also identified as risk factors for the rife of money laundering in Ethiopia. Moreover, the geopolitical location of the country, its porous borders, limited cross-border cooperation and information sharing add further fuel to the vulnerability of the country to money laundering and associated predicate offense. Originality/value: To the best of the author’s knowledge, this paper provides a first-of-its-kind analytical perspective on the risk factors for the raise of money laundering in Ethiopia. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

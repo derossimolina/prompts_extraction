@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1663-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The national Church as a historical form of Church-type. Elements of a configurative theorization",
+    "authors": "Turcotte P.-A.",
+    "year": "2012",
+    "doi": "10.1177/0037768612460804",
+    "abstract": "The national Church is characterized by a concentric synthesis of religion, nation, culture and society, in alliance with other social authorities. The socio-religious body it constitutes presents features similar to those of a system's organic whole. Its composition may be described as plural and animated by an esprit de corps. The regulatory social codes structuring its varied social relations contribute to establishing the bond of reciprocity in the distinction. The various mediations implemented in this sense are aimed at periodically revitalizing a tradition in order to maintain an ecclesial body that is at the same time social; all the more so as the national Church is at odds with the conditions of organized religion in contemporary society, its historical characteristics notwithstanding. © The Author(s) 2012.",
+    "source": "Social Compass"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

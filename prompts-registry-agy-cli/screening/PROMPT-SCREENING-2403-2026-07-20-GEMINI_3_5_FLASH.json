@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2403-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Convenience Theory of Cryptocurrency Crime: A Content Analysis of US Federal Court Decisions",
+    "authors": "Braaten, CN; Vaughn, MS",
+    "year": "2021",
+    "doi": "10.1080/01639625.2019.1706706",
+    "abstract": "This article examines cryptocurrency cases decided in the U.S. District and Circuit Courts to determine the applicability of Gottschalk's convenience theory of white-collar crime to cryptocurrency crime litigation and to empirically analyze whether the conditions under which cryptocurrency offenses occurred show support for the convenience theory. Analysis of U.S. federal district and circuit court case law involving cryptocurrency crimes and fraud indicates support for the convenience theory of white-collar crime. Defendants in various schemes were motivated by financial gain, either for the company or for personal use. Their roles and positions in the businesses allowed them access to resources that helped them perpetrate fraud through the following mechanisms: (1) operating front companies; (2) relationship building by defendants; (3) over representing profits that investors would obtain from purchases of virtual currencies, representing that cryptocurrencies were safe and reliable investments when they were risky, and overestimating abilities and capacities to provide services promised to investors in securities fraud; (4) breaching fiduciary duties to their clients and corporate stockholders by misappropriating profits for their own personal gain; and (5) engaging in dark web transactions that guaranteed anonymity. Defendants also employed various neutralization techniques to justify their crimes.",
+    "source": "DEVIANT BEHAVIOR"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

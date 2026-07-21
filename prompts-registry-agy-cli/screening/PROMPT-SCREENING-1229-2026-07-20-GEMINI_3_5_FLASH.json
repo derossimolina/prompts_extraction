@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1229-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Conversion of cashless money into banknotes as a type of economic crime",
+    "authors": "Inshakova A.O.; Goncharova M.V.; Makarenko T.D.; Goncharov A.I.",
+    "year": "2019",
+    "doi": "10.17150/2500-4255.2019.13(4).595-603",
+    "abstract": "The conversion of cashless money into banknotes is described as a type of economic crime. It is proven that such acts should not be qualified as illegal entre-preneurship or illegal banking. The authors examine the elements of these economic crimes. They suggest changing the title of Art. 171 of the Criminal Code of the Russian Federation. They also analyze formal elements of the crime under Art. 172 of the CC of the RF and prove that it has a special category of offender. It is argued that there are no grounds to view the conversion of cashless money into cash as a mock transaction because it is a mistake to think that the transaction does not lead to any legal consequences. The authors show that there is a number of legal facts arising after the conversion of cashless money into banknotes which constitute an actual fictitious deal, although it is not named in legislation. The research is based on the analysis of mainly Russian sources — research publications in legal and economic journals. Besides, the authors have critically assessed the positions of Western legal scholars and economists published in such journals as Journal of Financial Crime, Journal of Economic Surveys, Criminal Justice and Behavior, Journal of Business Ethics, Theory and Decision, Journal of Economic Behavior & Organization. As for the empirical part, they have studied the Decrees of the Plenary Sessions of the Supreme Court of the Russian Federation in 2004 and 2015. Based on the scientific analysis of the constituent elements of the crime of evading taxes, duties, insurance premiums by an organization, the authors argue that the conversion of cashless money into banknotes is carried out by the leaders of commercial organizations with the goal of this criminal evasion. The crime is committed by a group of persons having conspired, as a rule, on a large scale, and is initiated by the head of a commercial company. © 2019, Baikal National University of Economics and Law. All rights reserved.",
+    "source": "Russian journal of criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

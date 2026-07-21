@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1984-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Coordinating for flexibility in e-business supply chains",
+    "authors": "Gosain S.; Malhotra A.; El Sawy O.A.",
+    "year": "2004",
+    "doi": "10.1080/07421222.2004.11045816",
+    "abstract": "The widespread use of information technology (IT) to create electronic linkages among supply chain partners with the objective of reducing transaction costs may have unintended adverse effects on supply chain flexibility. Increasing business dynamics, changing customer preferences, and disruptive technological shifts pose the need for two kinds of flexibility that interenterprise information systems must address - the ability of interenterprise linkages to support changes in offering characteristics (offering flexibility) and the ability to alter linkages to partner with different supply chain players (partnering flexibility). This study explores how enterprises in supply chains may forge supply chain linkages that enable both types of flexibility jointly, and allow them to deal with ubiquitous change. Drawing on March and Simon's coordination theory, we propose two design principles: (1) advance structuring of interorganizational processes and information exchange that allows partnering organizations to be loosely coupled, and (2) IT-supported dynamic adjustment that allows enterprises to quickly sense change and adapt their supply chain linkages. This study reports on a survey of 41 supply chain relationships in the IT industry. For design principle, our empirical investigation of factors shows (1) that modular design of interconnected processes and structured data connectivity are associated with higher supply chain flexibility, and (2) that deep coordination-related knowledge is critical for supply chain flexibility. Also, sharing a broad range of information with partners is detrimental to supply chain flexibility, and organizations should instead focus on improving the quality of information shared. Fo r industry managers, the study provides clear insights for information infrastructure design. To manage their interdependencies, enterprises need to encapsulate their interconnected processes in modular chunks, and support these with IT platforms for information exchange in structured formats. Enterprises also need to nurture their execution capabilities by putting in place the information systems to process information exchanged with partners, augmenting their understanding of factors such as how partner actions need to trigger adaptive responses. For researchers, the study initiates a new stream of theorizing that focuses on the role of the information infrastructure in managing the tension between competing goals of offering flexibility and partnering flexibility. © 2005 M.E. Sharpe, Inc.",
+    "source": "Journal of Management Information Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

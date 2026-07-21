@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1074-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Information systems and technologies in accounting and taxation as a means of integration into the digital economy",
+    "authors": "Izmailov Y.; Pilevych D.; Shevtsiv L.; Petlenko Y.; Driha O.; Lagun A.",
+    "year": "2020",
+    "doi": "10.34218/IJM.11.2.2020.013",
+    "abstract": "In the context of the transition from an industrial society to an information society and the formation of a knowledge economy based on the intensive development of digital technologies, prerequisites have emerged for the emergence of a new neoeconomics information environment with a predominance of intangible value creation factors, new business processes and social and humanistic priorities. Such changes certainly affect the entire system of information support of socio-economic processes, in which accounting, with its functionality for collecting, processing and providing economic information on the activities of business entities, plays a traditionally significant role. The article discusses the main directions of modernization of accounting in the digital economy and the information society. In particular, an assessment is given of the theoretical premises, and the possibility of changing the accounting paradigm, the development of the accounting concept and its elements, the issues of structuring the accounting system by types of accounting are considered, the criteria for their selection and development trends are determined. The key factors of the influence of digital technologies on the methodology and methods of accounting are identified, the possibilities of their expansion and modernization are determined. Also in the context of the development of hybrid and intangible forms of capital, the virtualization of monetary and non-monetary units of value, the expansion of non-financial target characteristics of economic entities, the main trends in the development of accounting objects, criteria for their recognition and metrics are determined. © 2020 IAEME Publication.",
+    "source": "International Journal of Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

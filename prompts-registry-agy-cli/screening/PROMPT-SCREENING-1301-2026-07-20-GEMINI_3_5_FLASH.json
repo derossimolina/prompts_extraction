@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1301-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Impediments affecting the curbing of illicit financial flows of organised crime in developing economies: Policy implications",
+    "authors": "Sotande E.",
+    "year": "2019",
+    "doi": "10.1108/JFC-11-2017-0108",
+    "abstract": "Purpose: The purpose of this paper is to examine the treats hindering war against illicit financial flows of organised crime in developing economies and Nigeria in particular. The examination shows that the impediments facing the fight against money laundering and organised crime financial flows vary from one country to another. It may be lesser in developed economies where most instruments, treaties and best practice recommendations to curb serious crime originated from. However, the impediments against the proceeds of organised crime in developing economies are overwhelming. Design/methodology/approach: The research methodology adopted was qualitative analysis. This was applied through the use and analysis of documents and expert interviews. Findings: The impediments jeopardising the success against organised crime and other related serious crime financial flows in developing economies are devastating. Consequently, the study offered some policy implications to help mitigate these impediments in developing countries. The dynamics and the phenomena of organised crime business model are operated with ingenious strategies within the global states. Therefore, staying in control of the menace and the threats originated from the organised criminal activities would require periodic review of the global initiatives, standards and strategies deployed by the standard setters to combat organised crime and its financial flows in developing and evolving economies. Additionally, the implementing countries should be carried along and allow to make inputs when such initiatives and standards are being developed. Social implications: In Nigeria, there is a clear evidence of “collateral damage” in terms of social justice as result of financial exclusion of many bankable adults of the country that do not possess unique identities for account opening documentation and customer due diligence of the Financial Action Task Force recommendation 10. Originality/value: There have been quite a number of studies on organised crime and still fewer have recognised the need to explore the success or failure of combating the proceeds of crime in developing economies. This study provides answer to these gaps by screening associated risks of fighting the proceeds of organised crime in developing countries and Nigeria in particular. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

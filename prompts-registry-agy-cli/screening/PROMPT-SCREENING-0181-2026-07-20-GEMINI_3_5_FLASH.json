@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0181-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Modernising drug law enforcement in India through legal-tech: comparative insights from Australia and the UK",
+    "authors": "Nayal M.; Bahuguna R.",
+    "year": "2025",
+    "doi": "10.1108/DPRG-06-2025-0193",
+    "abstract": "Purpose – This paper aims to discuss the rise of drug-impaired crime in India. It suggests a legal-tech enforcement framework inspired by Australia and the UK, which use advanced tech for narcotics control. Graphical abstract: Inputs–Core Enforcement–Outputs for a tech-enabled NDPS regime A circular graphical abstract links inputs, enforcement, and outputs in drug control using technology, enforcement measures, and outcomes. The graphical abstract is circular with three sections. Inputs listed on the left include AI surveillance, blockchain evidence, mobile forensics, geospatial mapping, and legal frameworks. Core enforcement listed at the bottom includes data collection, real-time detection, and cross-agency sharing. Outputs on the right include targeted interventions, judicial admissibility, reduced trafficking, public safety, and policy feedback. The circle with the phrase graphical abstract in the centre symbolises the cycle where inputs lead to enforcement, which produces measurable outputs for drug control and regulation. Design/methodology/approach – The study uses a hybrid doctrinal-empirical approach, analysing legal frameworks, roadside drug testing and technology in Australia and the UK. It examines how Artificial Intelligence, blockchain and geospatial tools improve law enforcement. Findings – India’s enforcement faces issues like fragmented digital infrastructure, weak forensic standards and judicial scepticism about tech evidence. The new framework combines AI predictive policing, blockchain evidence management and geospatial analytics to boost efficiency and transparency. Research limitations/implications – The study is limited to two jurisdictions and focuses on legal and policy frameworks rather than operational trials, warranting further empirical validation in the Indian context. Practical implications – The framework offers a roadmap for Indian agencies to adopt digital tools for narcotics control, enhancing forensic processes and inter-agency collaboration. Social implications – Adoption of this framework encourages privacy-respecting, transparent law enforcement consistent with constitutional safeguards, especially the Puttaswamy judgement. Originality/value – To the best of the authors’ knowledge, this is among the first studies to propose an integrated legal-tech model for narcotics enforcement in India, bridging gaps between digital governance, forensic science and legal reform. © 2025 Emerald Publishing Limited",
+    "source": "Digital Policy, Regulation and Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

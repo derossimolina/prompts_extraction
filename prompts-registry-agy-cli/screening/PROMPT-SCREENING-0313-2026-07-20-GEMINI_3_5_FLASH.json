@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0313-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Model is a Map: Reimagining the Placement-Layering-Integration Model",
+    "authors": "Higgs J.; Flowerday S.; Demetis D.; Bradley W.; Chua Y.T.; Morin A.",
+    "year": "2026",
+    "doi": "10.1080/01639625.2026.2613734",
+    "abstract": "The placement-layering-integration model was designed to explain money laundering operations in cash-intensive economies. It continues to influence how money laundering is conceptualized. Increasingly, both the model’s utility and relevance are being questioned. This paper cautions against discarding the model. Instead, we recontextualize the model to demonstrate its applicability to digital economies. Specifically, we argue that the placement stage has two key characterizing properties: the type of illicit proceeds being laundered and the environment in which layering begins. To assess the merit of the recontextualized model, an empirical analysis of Counter-Strike skin sales is combined with crime script analysis to investigate a modern-day money laundering operation. It is demonstrated how the placement-layering-integration model continues to provide meaningful analytic categories with which to analyze certain types of money laundering operations. © 2026 Taylor & Francis Group, LLC.",
+    "source": "Deviant Behavior"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

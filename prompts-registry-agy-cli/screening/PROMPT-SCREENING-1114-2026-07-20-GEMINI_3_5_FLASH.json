@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1114-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The agency dilemma in anti-money laundering regulation",
+    "authors": "Naheem M.A.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-01-2016-0007",
+    "abstract": "Purpose: The purpose of this paper is to provide a comprehensive theoretical framework that can be applied to the application of anti-money laundering (AML) regulation within the banking sector. Design/methodology/approach: The paper is linked to a PhD study to be published in Winter 2015/Spring 2016 that looks at trade-based money laundering and risk assessment using an agent–principal relationship to explain the underlying relationships affected by regulation in a ML context. Findings: The paper finds that imposing regulation and assuming that the banking sector is simply an arm of law enforcement is not an effective approach and could actually contribute toward developing ML schemes that are too complex to be easily detected. Practical implications: The paper has implications for the banking, regulatory and law enforcement areas involved in ML and its detection. Originality/value: The paper offers originality in providing a comprehensive multi-agency framework that is cognisant of all factors affected by AML regulation. It extends beyond existing work that has offered agency insights into various sectors of AML and ML partners. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

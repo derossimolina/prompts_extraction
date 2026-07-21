@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2165-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating money laundering: The death of bank secrecy in the uk",
+    "authors": "Levi M.",
+    "year": "1991",
+    "doi": "10.1093/oxfordjournals.bjc.a048093",
+    "abstract": "The mainstream criminological focus on the policing of the young and the poor leaves unexamined and unexplained some important trends in the regulation of 'upperworld' and/or 'organized' crime. This article examines one facet of such regulation-surveillance over those bank accounts belonging to people who may be involved in 'serious crime'. From an appreciation of the problems involved in protecting criminal money flows we can come to comprehend the necessary conditions for criminal enterprises to continue and for major offenders to get rich-and (even if convicted) to stay rich.Since 1984, when the Police and Criminal Evidence Act was passed, there has been a vast transformation in the range of legislation that invades the privacy of banking records, not just in relation to drug trafficking but also in relation to white-collar and other 'hard-to-convict' crime. The article examines the principal provisions of this legislation and how it has been implemented in practice. It concludes by reviewing likely future trends in controls over money laundering and questions the impact of such legislative moves. © 1991 The Institute for the Study and Treatment of Delinquency.",
+    "source": "British Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1854-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sub-Rosa Privatization and Marketization in the USSR",
+    "authors": "Grossman G.",
+    "year": "1990",
+    "doi": "10.1177/0002716290507001005",
+    "abstract": "In the USSR, conditions for private underground activity have been highly propitious, given the barring, until recently, of nearly all lawful private business, chronic excess demand with fixed prices, high excise taxes, and both pervasive bureaucratic regulation and widespread corruption. State property is vastly misappropriated and exploited, particularly by camouflaged cryptoprivate firms. The underground, generally employing money as the main medium of exchange and functioning through markets, touches very many and on average provides large supplements of goods and - together with bribes, theft, and fraud - income to the public. In the larger operations, illicit money flows up informal structures, often to very high officials. Underground money and aboveground political and administrative power tend to fuse and to spawn, or exploit, organized crime. Vested interests so created are a significant aspect of conservative opposition to perestroika. Under Gorbachev, the underground economy has increased markedly, despite measures both to suppress and to legalize it. © 1990, SAGE PUBLICATIONS. All rights reserved.",
+    "source": "The ANNALS of the American Academy of Political and Social Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0487-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Social observation in miniature: Ruben Östlund’s short films as a model for his feature films",
+    "authors": "Langkjær B.",
+    "year": "2025",
+    "doi": "10.1080/17411548.2023.2224730",
+    "abstract": "This article focuses on Ruben Östlund’s two short films Autobiographical Scene Number 6882 (2005) and Incident by a Bank (2010) and argues that they align intimately with his feature films. This argument has two parts: First, Östlund’s short films have a distinct authorial signature that depends on his portrayal of social interaction that develops in awkward ways, the ‘durative’ long shot and the films’ ironic tone. This signature is visible in his short films as well as in his feature films. In other words, his short films are like his feature films, only in a miniature format. Second (and more surprising), he has not only used his short films to develop the signature of his feature films in terms of motifs and visual style, but also kept the short film storytelling format as an integral and structuring principle of his feature films. This is most salient in his reliance on stand-alone qualities of single but lengthy scenes that may or may not connect in terms of action and causality such as the avalanche scene in Force Majeure and the monkey performance in The Square, but also throughout Involuntary and Triangle of Sadness. © 2023 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Studies in European Cinema"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

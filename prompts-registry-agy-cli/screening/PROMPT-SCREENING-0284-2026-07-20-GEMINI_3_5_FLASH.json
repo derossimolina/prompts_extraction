@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0284-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Criminalized Sovereignty: State Capture and Systemic Corruption Embedded in Economic Globalization",
+    "authors": "Leuprecht C.; Hamilton R.; Ferrill J.",
+    "year": "2026",
+    "doi": "10.1177/00027642261440326",
+    "abstract": "How are elites able to capture a state and offshore exorbitant ill-gotten gains for years, with relative impunity, and with complicity from financial institutions? The conventional ontology of territory provides a possible clue: criminalized sovereignty. Both state and non-state organized criminal activities involve systemic corruption. They then exploit the logic of transnational mobility to launder illicit gains offshore. Yet, by design, state capture differs from non-state organized criminal activities insofar as it is premised on leveraging the instruments of state and rule by law to create an aura of legitimacy for looted state assets by embedding them in the licit global economy. As a proof of concept this article compares the Azerbaijani, PDVSA, and Russian state capture laundromats with money laundering patterns associated with non-state organized criminal activity. Although state capture laundromats share characteristics commonly associated with transnational organized criminal activities and both avail themselves of professional enablers to legitimate illicit gains, state capture laundering networks prove comparatively resilient to detection, despite laundering vast sums at scale. Anti-money laundering regimes do not account for this epistemology of transnational mobility under ontological conditions where territorial sovereignty is criminalized systematically. © 2026 SAGE Publications. This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).",
+    "source": "American Behavioral Scientist"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

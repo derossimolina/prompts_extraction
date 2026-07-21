@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0720-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering in a CBDC world: a game of cats and mice",
+    "authors": "Dupuis D.; Gleason K.; Wang Z.",
+    "year": "2022",
+    "doi": "10.1108/JFC-02-2021-0035",
+    "abstract": "Purpose: The purpose of this study is to describe the present taxonomy of money, summarize potential central bank digital currency (CBDC) regimes that central banks worldwide could adopt and explore the implications of the introduction of each of these CDBC regimes for money laundering through the lens of the regulatory dialectic theory. Design/methodology/approach: The methodology used in the analysis of significant recent events regarding the progress of central banks in establishing a CBDC and the implications for money laundering under a CBDC regime. This paper also reviews the literature regarding the Regulatory Dialectic to highlight potential innovative responses of money launderers to circumvent the controls generated through the implementation of a CBDC. Findings: This study examines the impact of Kane’s regulatory dialectic paradigm on the feasibility of money laundering under a CBDC regime and identifies potential avenues that would be available for those seeking to launder money, based on the form a CBDC would take. Research limitations/implications: This paper is unable as of yet to empirically evaluate anti-money laundering (AML) tactics under a CBDC regime as it has not yet been fully implemented. Practical implications: Many central banks worldwide are evaluating the structure of and introduction of a CBDC. There are a number of forms that a CBDC could take, each of which has implications for individual privacy and for entities involved in AML efforts within financial institutions and the regulatory community. The paper has implications for AML experts who are considering how AML procedures would change under a CBDC regime. Social implications: The regulatory dialectic predicts that regulatory response reactive, rather than proactive when it comes to socially undesirable phenomena. As central banks and governments seek to divert economic activity away from the laundering of the proceeds of illicit activity, there are tradeoffs in terms of a loss of privacy. The regulatory dialectic predicts a corresponding innovative response of those who wish to undermine the controls generated through the establishment of a CBDC. Originality/value: To the authors’ knowledge, this is the first paper to explore the impact of a potential CBDC on money laundering and the potential innovative circumventions within the paradigm of the Regulatory Dialectic. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

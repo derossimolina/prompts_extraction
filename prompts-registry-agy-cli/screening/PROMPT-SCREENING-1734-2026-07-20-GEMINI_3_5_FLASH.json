@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1734-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organised crime and international aid subversion: evidence from Colombia and Afghanistan",
+    "authors": "Bojicic-Dzelilovic V.; Kostovicova D.; Escobar M.; Bjelica J.",
+    "year": "2015",
+    "doi": "10.1080/01436597.2015.1070664",
+    "abstract": "Scholarly attempts to explain aid subversion in post-conflict contexts frame the challenge in terms of corrupt practices and transactions disconnected from local power struggles. Also, they assume a distinction between organised crime and the state. This comparative analysis of aid subversion in Colombia and Afghanistan reveals the limits of such an approach. Focusing on relations that anchor organised crime within local political, social and economic processes, we demonstrate that organised crime is dynamic, driven by multiple motives and endogenous to local power politics. Better understanding of governance arrangements around the organised crime–conflict nexus which enables aid subversion is therefore required. © 2015 Southseries Inc., www.thirdworldquarterly.com.",
+    "source": "Third World Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

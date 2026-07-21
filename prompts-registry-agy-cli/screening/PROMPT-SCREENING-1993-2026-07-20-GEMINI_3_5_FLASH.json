@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1993-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Local laws and venture capital contracting in transition economies: Evidence from Poland",
+    "authors": "Klonowski D.",
+    "year": "2006",
+    "doi": "10.1080/14631370600881929",
+    "abstract": "This study focuses on the legal structuring of venture capital deals in Poland. Three conclusions are derived. First, owing to significant imperfections in the Polish legal infrastructure, local venture capitalists need to consider how to structure their transactions. This represents a unique feature of venture capital investing in emerging markets. The study confirms the existence of three types of legal structures in venture capital investing (i.e. local deals, offshore deals and complex deals), with offshore deals being the predominant category. Second, local venture capitalists display different preferences for various deal structures based on venture capital firms' characteristics. Third, the placement of venture capitalists' rights varies across different legal documents, with the most pronounced difference being observed in local deals. The study is based on a survey of 64 venture capitalists.",
+    "source": "Post-Communist Economies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

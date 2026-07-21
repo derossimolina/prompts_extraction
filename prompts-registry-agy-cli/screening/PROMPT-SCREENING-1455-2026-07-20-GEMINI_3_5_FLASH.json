@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1455-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Industrial district firms do not smile: Structuring the value chain between local and global",
+    "authors": "Bettiol M.; Burlina C.; Chiarvesio M.; Di Maria E.",
+    "year": "2017",
+    "doi": "10.1108/S1571-502720170000030011",
+    "abstract": "Defined as local manufacturing systems, industrial districts have been recognized as particularly important for the location of firms' manufacturing activities intertwined with innovation processes. The debate on the internationalization of production has stressed the low value related to manufacturing within value chain activities (smile framework), emphasizing the need to focus on high value-added activities (R&D or marketing). Following multinational enterprises' internationalization strategies, also district firms have progressively offshored their production phases in the past years. However, recent studies focused on backshoring have revamped the attention on the domestic control of production for firms' competitiveness. This chapter explores district firms' location choices for manufacturing activities between local and global. Based on an empirical analysis of about 260 Italian district firms specialized in mechanics, furniture, and fashion and supported by a case study investigation, our results show that despite district internationalization processes, a non-negligible amount of firms still carry out in-house or through outsourcing - production activities at district level. Larger firmscouple district production and long-term upstream outsourced internationalization activities. The district system confirms its role of pooling specialized competences and product know-how, being decisive for firms' innovation and responsiveness to national and international markets. Backshoring, instead, is a very limited phenomenon and linked to upgrading strategies. © 2017 by Emerald Publishing Limited.",
+    "source": "Advances in International Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

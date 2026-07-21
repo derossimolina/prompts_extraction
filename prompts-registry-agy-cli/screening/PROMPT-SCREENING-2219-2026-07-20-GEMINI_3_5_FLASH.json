@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2219-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Does the informal economy link to organised crime?",
+    "authors": "Ponsaers P.; Shapland J.; Williams C.C.",
+    "year": "2008",
+    "doi": "10.1108/03068290810896262",
+    "abstract": "Purpose – The purpose of this paper is to introduce the topic of the informal economy, exploring its definition from both economic and criminological standpoints. It seeks to consider possible linkages with organised crime and the conditions under which these may be facilitated, with reference to the papers in this double special issue. Design/methodology/approach – The papers in this issue are deliberately from different methodological perspectives, in order to illustrate the need for multidisciplinarity to show both the extent of the informal and criminal economies and their links to geographical and social context. Findings – As well as revealing the endemic nature of corruption in Ukrainian workplaces and the high levels of informal activity undertaken by workers the research found that many people wish for their workplace to become more regulated. Research limitations/implications – The issue can only, for reasons of space, explore a number of facets of the informal economy. The nature of the informal economy depends upon place, time, social and ethnic context, and historical links and trade routes. The issue concentrates upon criminogenic potential, rather than the survival value of informal solutions or their place in cementing household and community economies and interactions. Originality/value – The issue contains papers which reveal new theoretical insights on this rather unresearched and complex topic, as well as new empirical findings. It highlights the impact of internationalisation and globalisation. © 2008, Emerald Group Publishing Limited",
+    "source": "International Journal of Social Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

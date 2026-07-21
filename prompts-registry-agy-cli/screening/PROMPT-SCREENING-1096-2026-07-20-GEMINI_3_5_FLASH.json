@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1096-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Isolating small Belize banks from the global system",
+    "authors": "Duncan P.",
+    "year": "2019",
+    "doi": "10.1108/MF-11-2017-0475",
+    "abstract": "Purpose: The purpose of this paper is to increase insights into the withdrawal of correspondent banks (CBs) from developing markets. Design/methodology/approach: A case study of a small offshore bank in Belize was conducted using information collected from the bank’s CEO and compliance officer through semi-structured interviews. The interview data were triangulated with data from relevant laws in Belize and literature review. Findings: Compliance with international standards is onerous on small banks, but necessary to level the playing field and protect the global system. Practices within small banks effectively combat money laundering, but remain unsung because size and geographic location of banks influence perceptions about the banks. The approach to de-risking was overreaching and unfair. Research limitations/implications: The findings are specific to one offshore bank, but create awareness of Belize banking practices to mitigate money laundering risks. The results could influence regulators, international organizations and CBs to pierce through to the bank level to assess risks and determine CB relationships. Originality/value: This is the first study providing firsthand accounts of efforts by a small Belize bank to comply with international standards and remain connected to the global financial system. The study highlights a critical weakness in employing a risk-based approach to rate banks. © 2018, Emerald Publishing Limited.",
+    "source": "Managerial Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1888-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Experiences in data structuring gained from running a general statistical data bank system",
+    "authors": "Lutz H.",
+    "year": "1984",
+    "doi": "10.3233/SJU-1984-2206",
+    "abstract": "The statistical data bank system of the Austrian Central Statistical Office has given rise to a number of data structuring experiences during the ten years of its operation. On the basis of the scope and usage of the system and its basic structural properties, the experiences gained with the structural main aspects of segments, criteria of classification, retrieval aids, user classes, and the dynamic viewpoint are of particular interest. Starting from considerations which we confined to structural characteristics visible on the user surface of the only part of the system, general findings can be identified which appear to be valid beyond the individual approach taken in Austria. © 1984 IOS Press. All rights Reserved.",
+    "source": "Statistical Journal of the United Nations Economic Commission for Europe"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

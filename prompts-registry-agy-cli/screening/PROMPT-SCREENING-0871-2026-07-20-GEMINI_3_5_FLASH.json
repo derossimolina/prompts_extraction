@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0871-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial fraud detection: the use of visualization techniques in credit card fraud and money laundering domains",
+    "authors": "Lokanan M.E.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-04-2022-0058",
+    "abstract": "Purpose: This paper aims to reviews the literature on applying visualization techniques to detect credit card fraud (CCF) and suspicious money laundering transactions. Design/methodology/approach: In surveying the literature on visual fraud detection in these two domains, this paper reviews: the current use of visualization techniques, the variations of visual analytics used and the challenges of these techniques. Findings: The findings reveal how visual analytics is used to detect outliers in CCF detection and identify links to criminal networks in money laundering transactions. Graph methodology and unsupervised clustering analyses are the most dominant types of visual analytics used for CCF detection. In contrast, network and graph analytics are heavily used in identifying criminal relationships in money laundering transactions. Originality/value: Some common challenges in using visualization techniques to identify fraudulent transactions in both domains relate to data complexity and fraudsters’ ability to evade monitoring mechanisms. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

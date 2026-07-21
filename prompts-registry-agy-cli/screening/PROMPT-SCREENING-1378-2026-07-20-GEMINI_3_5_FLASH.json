@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1378-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Updates on Hong Kong’s anti-money laundering laws 2020",
+    "authors": "Yim F.H.-C.; Lee I.P.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-05-2020-0048",
+    "abstract": "Purpose: The purpose of this paper is to discuss the latest developments of anti-money laundering (AML) laws in terms of case law and to give meaningful response in relation to certain key findings (KFs) and recommendations by the financial action task force contained in its mutual evaluation report dated September 2019. Design/methodology/approach: In terms of AML case law, the authors analyse the latest judgment from the Hong Kong (HK) court of final appeal. In terms of the evaluation report, the authors outline salient points from the KFs and recommendation, commenting on their likelihood of success. Findings: With the developments in AML case law and the KFs identified, HK is expected to maintain its high standard in AML/counter financing of terrorism (CFT) compliance. Originality/value: A robust AML/CFT regime is the bedrock of HK’s reputable status as an international financial centre. This study seeks to illicit meaningful interactions amongst all stakeholders. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1256-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Model of the Russian regions' economic integration: Structure and performance criteria",
+    "authors": "Melnikova T.B.",
+    "year": "2019",
+    "doi": "10.17059/2019-4-8",
+    "abstract": "Modern technologies shape new mechanisms for accumulation and redistribution of capital, increasing the importance of an individual as an economic agent in the processes of integration. Moreover, they create conditions for moving beyond the \"centre-periphery\" system in the differentiation of the integration processes. Considering the stated assumptions, I propose a new structure of the model of the Russian regions' economic integration and develop its performance criteria. The article is based on the methodology of the new theory of economic systems, empirical and statistical research methods. For testing, I used the data of the Central Bank of Russian Federation, the SPARK Information Resource, Federal State Statistics Service, and portals of social media analytics. The proposed model includes object, spatial, process and project economic integrations. The key objects of the economic integration are the individual and the community. Economic integration is impossible without the spatial integration that includes urban and virtual space. Project economic integration is based on assessing the dynamics of the resources' accumulation by the population and communities. The target level of the region's participation in the economic integration is eficient, if each of the performance criteria does not exceed 20 %. The model's testing allowed structuring the Russian regions by the level of the economic integration's performance. Spatial economic integration was identified as one of the least problematic subsystems for all regions. Most of the Russian regions are characterised by the underperformance of the process economic integration, manifested either in the low eficiency of the internal federal labour migration, or in the local population's integration inactivity. One third of the regions is influenced by inter-federal integration processes. The results of the project economic integration indicate two large groups of the Russian regions. One group achieved the performance criterion, while the other is characterised by the prevalence of the population's capital accumulation over the organizations' accumulation. © 2019 Institute of Economics, Ural Branch of the Russian Academy of Sciences. All rights reserved.",
+    "source": "Economy of Regions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

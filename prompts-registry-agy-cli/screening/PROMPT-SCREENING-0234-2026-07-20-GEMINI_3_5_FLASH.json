@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0234-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing the effectiveness of internal auditors in fraud detection and prevention: a study of Somali Deposit Money Banks",
+    "authors": "Sharif A.A.; Osman A.I.",
+    "year": "2026",
+    "doi": "10.1057/s41310-026-00378-8",
+    "abstract": "Internal auditing has evolved from transactional verification to a risk-based assurance and consulting function that is central to corporate governance and fraud control, a shift accelerated by major corporate scandals and the 2008 global financial crisis. This role is particularly consequential in fragile, post-conflict contexts such as Somalia, where Deposit Money Banks operate amid weak governance, reliance on remittances and informal systems (e.g., hawala), and elevated exposure to corruption and financial crime. This study aimed to assess whether internal auditors in Somali Deposit Money Banks are effective in detecting and preventing fraud and to quantify the influence of four determinants: audit competence and expertise, audit process and methodology, organizational independence and authority, and management/board support. Using a quantitative descriptive–correlational design, data were collected via a structured online questionnaire (five-point Likert scale) from 278 internal audit professionals selected through stratified random sampling from a population of 1,000, and analyzed in SPSS v26 using descriptive statistics, Pearson correlations, and multiple regression; construct reliability was acceptable to excellent (Cronbach’s α = 0.78–0.85). Respondents were predominantly male (69.1%), highly educated (95.7% ≥ bachelor’s), yet 20.9% lacked professional certification, and 68.7% had ≤ 6 years’ experience. All four determinants showed statistically significant positive associations with fraud detection and prevention (p = 0.000), with strong correlations overall (r = 0.722–0.801). Regression results indicated the strongest predictive influence for organizational independence (B = 0.423), followed by management support (B = 0.381), audit process—particularly use of data analytics/CAATs (B = 0.358)—and audit competence (B = 0.335). Despite these effects, perceptions of independence (mean = 2.95) and technology use (data analytics/CAATs mean = 2.8) revealed key gaps. Strengthening functional independence (direct reporting to audit committees), protecting auditors from retaliation, and investing in technology-enabled, risk-based methodologies are critical to improving fraud resilience and supporting financial stability and recovery in Somalia. © The Author(s), under exclusive licence to Springer Nature Limited 2026.",
+    "source": "International Journal of Disclosure and Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

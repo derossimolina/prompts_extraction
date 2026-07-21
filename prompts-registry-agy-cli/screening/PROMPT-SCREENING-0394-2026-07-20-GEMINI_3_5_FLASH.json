@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0394-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Terrorist Financing: Traditional vs. Emerging Financial Technologies",
+    "authors": "Jofre M.; Aziani A.; Villa E.",
+    "year": "2026",
+    "doi": "10.1080/09546553.2024.2433635",
+    "abstract": "This study examines the use of traditional systems and emerging financial technologies for terrorist financing based on a dataset comprising 121 cases around the world. While there are speculations that terrorists are largely adopting emerging FinTechs like cryptocurrencies, our exploratory findings indicate that only 7 percent of cases involve such technologies. Traditional payment systems are still dominant, accounting for 93 percent of cases. Terrorist financiers primarily rely on the banking system and employ methods such as foreign shell companies, money transfers, Hawala systems, and high-value commodities. Research and policy implications for law enforcement and public authorities are discussed. © 2024 Taylor & Francis Group, LLC.",
+    "source": "Terrorism and Political Violence"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

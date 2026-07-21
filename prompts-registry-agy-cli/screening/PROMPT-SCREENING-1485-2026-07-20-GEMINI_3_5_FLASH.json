@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1485-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The ethical side of aesthetic: Street art against the Camorra",
+    "authors": "Palermo L.",
+    "year": "2018",
+    "doi": "10.13138/2039-2362/1839",
+    "abstract": "Casapesenna is a small town (near Naples, southern Italy) in the notorious Terra dei Fuochi, land of Mafia and lawlessness. In order to counterbalance the deterioration with the beauty and the illegality with the colour, the University of Campania “Luigi Vanvitelli” and the agency Agrorinasce (an agency for the innovation, development and homeland security for this territory) focused its project on the regeneration of a real estate confiscated from the camorra by using street art and its ability to approach and engage all kind of audiences, thus activating, not only cultural processes, but also social (sense of belonging and historical identity) and economic (development of a territory): from degradation to beauty, from illegality to legality. The site-specific works of two Italian street artists, Giò Pistone and Alberonero have transformed the face of the real estate, metaphorically breaking down the high perimeter walls built by organized crime bosses and transmitting to the citizens a message of colour and hope. Similarly, citizens have appropriated this space, triggering virtuous processes of participation and social inclusion. © 2018, eum - Edizioni Universita di Macerata. All rights reserved.",
+    "source": "Capitale Culturale"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

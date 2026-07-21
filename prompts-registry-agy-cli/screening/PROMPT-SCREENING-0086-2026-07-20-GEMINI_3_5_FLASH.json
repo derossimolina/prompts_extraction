@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0086-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digital green finance models for sustainable urban development: Current trends and future perspectives",
+    "authors": "Opoku A.; Danquah R.D.; Aklashie S.; Larbi J.A.; Qiao Y.",
+    "year": "2026",
+    "doi": "10.3934/GF.2026003",
+    "abstract": "The widening global deficit in sustainable urban infrastructure financing highlights the limitations of conventional financial models. Although green finance instruments and digital financial technologies have expanded rapidly, their roles within financing structures for sustainable urban development remain fragmented and insufficiently synthesized. This study systematically identifies key green finance structures and digital technologies that enhance their operation in facilitating sustainable urban development. The study adopts a mixed-method systematic review conducted in two phases. A total of 113 articles were drawn from the literature for bibliometric analysis, and 33 articles were selected for further systematic analysis. The results of the bibliometric analysis indicate that sustainable urban transitions are propelled by synergistic relationships among governmental policies, green finance structures, and digital technologies. Three dominant themes—organized around government-led initiatives for urban sustainability, financing structures for low-carbon cities, and digital innovations for green finance—were identified. The results from the systematic analysis identified revolving funds and green public–private partnerships as key financing structures. Also, integration of blockchain and tokenization, artificial intelligence and big data analytics, and digital finance platforms into the financing structures are the most viable means of facilitating and expanding green finance for sustainable urban development. The findings of the study provide policymakers and stakeholders with a comprehensive understanding of the complexities of integrating digital innovations into a green financing structure. Furthermore, the study provides a pragmatic foundation for structuring policy and corporate strategies that integrate digital innovation into green finance structures. © 2026 the Author(s), licensee AIMS Press.",
+    "source": "Green Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

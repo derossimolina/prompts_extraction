@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0412-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulatory strategies for combatting money laundering in the era of digital trade",
+    "authors": "Khan A.; Jillani M.A.H.S.; Ullah M.; Khan M.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-07-2024-0113",
+    "abstract": "Purpose: This research paper is an attempt to conduct a rather detailed analysis of the legal approach to money laundering in the digital trade. Undoubtedly, the current research focus is one of the biggest issues of modern times, given the rapid growth of cryptocurrencies and online payment systems. The purpose of the study is to apply the currently available knowledge of the law and propose the respective legal strategies and regulatory responses. Design/methodology/approach: A qualitative methodology is used in the study. It implies the review of the reviewed literature, analysis of different regulatory frameworks, and of different the case studies. The analysis of this material is used to provide an integrated understanding of the issue from a legal, economic and technological perspective. There are primary and secondary resources used to collect data. Findings: The analysis identifies a number of key obstacles to the fight against money laundering in digital trade, including cryptocurrency anonymity, jurisdictional complications and regulatory fragmentation. Despite numerous technological advancements aimed at strengthening anti-money laundering (AML) regulations, persistent violations persist, hindering money laundering detection efforts in the digital commerce segment. Research limitations/implications: The research is limited by its reliance on existing literature and case studies, which may not fully capture the most recent developments in AML regulation and technological advancements. Future research could benefit from empirical data and real-time analysis of regulatory implementations. Originality/value: This research makes a significant contribution to the existing literature, combining many different perspectives to make the work better organized and insightful. The research analyzes the evolving regulatory landscape regarding money laundering in digital trade in detail, yielding highly valuable conclusions for policymakers, regulators and businesses in the industry. The best-practice recommendations provide the best solutions to the problem of increasing financial crimes in digital trade, which have challenged the development of the sector. © 2025, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1996-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fast spinning into oblivion? Recent developments in money-laundering policies and offshore finance centres",
+    "authors": "Hampton M.P.; Levi M.",
+    "year": "1999",
+    "doi": "10.1080/01436599913730",
+    "abstract": "This article examines the growth of money-laundering in conjunction with the associated development of offshore finance centres (OFCS) located in small places such as islands or microstates in the Caribbean and elsewhere. The phenomenal growth of OFCS since the 1960s may be seen in terms of the 'four spaces'. Three of these 'spaces-the secrecy space (confidentiality); the regulatory space; and the political space-can be used to frame an analysis of the growth of offshore finance and the emergence of a suitable environment for international money-laundering. The article then examines recent policy developments concerning money-laundering and OFCS, such as the workings of the Financial Action Task Force (FATF), and the regional Task Forces such as the Caribbean Task Force. Finally, the article explores the changing way 'offshore' is being constructed as exemplified by rising onshore pressure from the OECD, G7, the EU and, most recently, the UK government, with its growing concern demonstrated by the 1998 unprecedented Home Office and FCO reviews of both British Isles and Caribbean OFCS.",
+    "source": "Third World Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

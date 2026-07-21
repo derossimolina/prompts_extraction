@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1154-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Applications of Blockchain in Taxation: New Administrative Opportunities",
+    "authors": "Grundel L.P.; Zhuravleva I.A.; Mandroshchenko O.V.; Kniazeva A.V.; Kosenkova Y.Y.",
+    "year": "2021",
+    "doi": "10.14704/WEB/V18SI04/WEB18139",
+    "abstract": "The purpose of this article is to consider the prospects of using blockchain technology in taxation. The article discusses the essence of blockchain and its possible implementation in the tax system. The study focuses on the benefits of blockchain as one of the most promising methods of improving and simultaneously simplifying the tax system for both the state and taxpayers. The main focus of the study was on the specifics of the implementation of blockchain in tax administration, for example, data structuring, cost-effectiveness, security (fraud detection), decentralized accounting technology (transparency), verification of transfer pricing, and the use of smart contracts. Blockchain can reconstruct accounting and automate the method of payments, transfers, and asset accounting. In the conclusions, the authors identify such potential advantages of implementing blockchain in tax administration as reducing transaction costs, faster, more transparent, and efficient taxation function. © 2021",
+    "source": "Webology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

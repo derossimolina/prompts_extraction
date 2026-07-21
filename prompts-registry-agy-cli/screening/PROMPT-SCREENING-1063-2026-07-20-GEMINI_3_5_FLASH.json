@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1063-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Application of Reverse Evidence for The Crime of Money Laundering Based on The Origin of Narcotics",
+    "authors": "Hartanto D.; Hidayat N.",
+    "year": "2021",
+    "doi": "10.2478/CIRR-2021-0009",
+    "abstract": "The perpetrators of money laundering proceeds from narcotics crimes use banking facilities in carrying out their crime businesses so that banking products offered to the public can potentially be misused and used to benefit the narcotics criminals or to disguise and hide the proceeds of their crimes. The purpose of this study was to analyze the application of reverse evidence for perpetrators of money laundering crimes with drug related crimes in North Sumatra, Indonesia. With a qualitative research approach, the data was collected through interviews, observations, and literature studies, including the related laws. The informants in this study were the officials of the Directorate of Drug Investigation, Lawyers, Academics, Prosecutors, Investigators, Judges, and Members of the North Sumatra House of Representatives. The purposive sampling technique was used to identify the informants. This study raised an important issue of reverse evidence for the crime of money laundering based on the origin of narcotics, highlighting the drawbacks in the related laws. It was also found that the law enforcement process for narcotics criminals is adjusted to the rules contained in Law no. 35 of 2009 concerning Narcotics and Law no. 35 of 2010 on the Crime of Money Laundering in North Sumatra. The inverse burden of proof for perpetrators of money laundering crimes with narcotics originating crimes in North Sumatra is carried out in accordance with the rules contained in Articles 77 and 78 of the Money Laundering Law, where the defendant is given the authority to prove that his assets are not the proceeds of crime. The results of this study also found that there was an increase in the number of perpetrators of narcotics crimes and money laundering in North Sumatra during the last three years. A total of six (6) decisions on money laundering crimes were given in North Sumatra which had a permanent legal force. However, between 2018-2021, only two (2) cases of Money Laundering of narcotics predicate cases have been found but not yet signed nor any sentence given. © 2021, Institute for Development and International Relations. All rights reserved.",
+    "source": "Croatian International Relations Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2535-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Impact of Structural Prescriptions on Joint Venture Survival",
+    "authors": "Kaufmann, J; O'Neill, HM; York, AS",
+    "year": "2006",
+    "doi": "10.1108/19355181200600009",
+    "abstract": "Prior research on joint ventures using both legal and strategic perspectives provides several transaction cost-based prescriptions for structuring joint ventures to minimize the threat of opportunistic behavior by venture partners. However, the effects of these prescriptions on the subsequent survival of the alliance are largely untested. Using survey data from senior managers responsible for alliance participation to explore these relationships, results show that many of the prescriptions that impact venture formation also impact survival, but in a somewhat different and more complex manner than previously thought. Managers desiring to influence the long-term survival of a joint venture should focus on the factors that best fulfill their goals for the partnership. By clarifying these issues we seek to inform our understanding of how the transaction cost-based prescriptions influence alliance survival, enhance managers' ability to capture the gains from this potentially valuable strategic tool, and raise important considerations for future research.",
+    "source": "AMERICAN JOURNAL OF BUSINESS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

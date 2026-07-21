@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0206-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The deceitfulness of Steinhoff’s accounting… and how to fix it?",
+    "authors": "Miller T.",
+    "year": "2025",
+    "doi": "10.1108/EEMCS-04-2025-0192",
+    "abstract": "Learning outcomes – The case aims to assess postgraduate accounting students’ knowledge and application of International Financial Reporting Standards (IFRS), as well as higher-order thinking skills such as the ability to evaluate and apply critical thinking. Case overview/synopsis – This case is set in the months following the revelations of suspected accounting irregularities at Steinhoff International (Steinhoff). Steinhoff was a listed investment holding company, with a South African head office. It held interests in furniture and general merchandise retailers, property and automotive companies. In December 2017, the auditors of Steinhoff refused to sign the 30 September 2017 annual financial statements until certain audit evidence had been provided by Steinhoff management. The CEO of Steinhoff, Markus Jooste resigned with immediate effect, and became the suspected kingpin of alleged accounting deceit spanning several years. The Steinhoff share price lost 90% of its value (€15bn) within two days and never recovered. The case is set in the period following these events. The Steinhoff finance team have requested help from an accounting expert, to try and understand the economic rationale and consequential accounting for various transactions, to publish the next set of financial statements. Complexity academic level – Postgraduate Honours/Masters. Supplementary material – Teaching notes are available for educators only. Subject code – CSS1: Accounting and Finance. © 2025 Emerald Publishing Limited",
+    "source": "Emerald Emerging Markets Case Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

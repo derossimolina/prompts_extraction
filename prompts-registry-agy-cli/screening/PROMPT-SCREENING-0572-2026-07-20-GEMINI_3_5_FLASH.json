@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0572-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering governance and income shifting: Evidence from Australian financial institutions",
+    "authors": "Eulaiwi B.; Khalaf N.S.; Al-Hadi A.; Duong L.; Taylor G.",
+    "year": "2024",
+    "doi": "10.1016/j.econmod.2024.106653",
+    "abstract": "This study investigates the relationship between strength in money laundering governance (MLG) and income shifting incentives using a sample of Australian multinational financial institutions. Firms exhibiting strength in MLG are less likely to engage in income shifting arrangements given that strength in MLG can enhance financial transparency around funding sources, transfers and use. Further, we find that firms with 1) tax havens use, 2) lawsuit and 3) business risk suppress the association between MLG and income shifting. Overall, in terms of economic significance, MLG reduces income shifting incentives by some 15 per cent. Our results are robust using additional tests. This study shows that strength in MLG has important implications in terms of firm managements’ incentive to shift income. Finally, these findings suggest that money laundering controls constitute an important governance mechanism required in the achievement of fairness, equity and opacity in international capital and tax markets. © 2024 The Authors",
+    "source": "Economic Modelling"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

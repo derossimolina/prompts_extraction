@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2078-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Indonesian stakeholder viewpoints of Indonesia's anti-money laundering legislation",
+    "authors": "Rusmin R.; Brown A.M.",
+    "year": "2008",
+    "doi": "10.1108/13685200810889407",
+    "abstract": "PurposeThe purpose of this paper is to gather Indonesian stakeholders' viewpoints of issues arising from Indonesia's recent anti-money laundering (AML) legislation. Design/methodology/approachSemi-structured interviews are conducted to elicit viewpoints about issues raised by Law No. 15 of 2002 on Money Laundering Crimes (as amended by Law No. 25 of 2003). FindingsAlthough there are teething problems with the application of Indonesian AML legislation, many respondents consider the Act as essential in driving out Indonesia's money laundering. The implications for Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) is that by encouraging more training and providing more feedback on suspicious reporting transactions, many Indonesian organizations may be encouraged to join PPATK in stamping out AML practices. Originality/valueThe report is piquant given Indonesia's recent record on corruption and cronyism, external pressure on Indonesia to stamp out money laundering practices, and the apparent success of the PPATK on securing co-chair of the Asia-Pacific Group in AML. By considering Indonesian stakeholder viewpoints of Indonesian legislation, authorities are better able to gauge how limited resources may be spent to fulfill the ambit of that legislation. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

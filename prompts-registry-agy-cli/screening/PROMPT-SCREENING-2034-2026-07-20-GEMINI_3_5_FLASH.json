@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2034-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Implementing the new anti-money laundering directive in Europe: Legal and enforcement issues; the Italian case",
+    "authors": "Costa S.",
+    "year": "2008",
+    "doi": "10.1504/GBER.2008.019985",
+    "abstract": "In this paper, a first assessment of the 2007 reform of the Italian Anti-Money Laundering (AML) law is presented. In light of the relevant literature on AML, the reform seems to improve the Italian AML framework in many ways, but there persist some drawbacks on both the legal and the enforcement sides. As for the former, there are some advances in the definition of Money Laundering (ML) and the institutional framework, but a closer coordination with other specific legislations and some adjustments in the sanctions regime would be needed. On the enforcement side, the risk-based approach and the inclusion of professional associations among AML agents are promising, but the persisting noticeable gap in the number (and significance) of Suspicious Transactions Reports (STRs), both across the categories of agents and the geographic areas, needs to be explored to investigate the possible influence of (polluting) environmental factors hampering the implementation of the AML regulation. © 2008, Inderscience Publishers.",
+    "source": "Global Business and Economics Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

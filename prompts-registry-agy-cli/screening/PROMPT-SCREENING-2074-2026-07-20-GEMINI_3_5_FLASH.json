@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2074-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Transforming international communications strategies",
+    "authors": "Merritt R.L.",
+    "year": "1980",
+    "doi": "10.1080/10584609.1980.9962715",
+    "abstract": "The strategy used by governments to communicate with foreign populations has changed dramatically in the twentieth century. The need perceived by governments to use such a strategy in the first place derived from numerous social changes in the 150 years before World War I, most particularly the increased role played in politics by the masses organized in nation‐states. The shifting strategy of persuasive communication since then forms part of a broader transformation of international political communication which includes technological change, organizational developments,and absolute but not necessarily relative growth in international communications transactions. The predominant strategy developed in World War I was propaganda. It used fairly straightforward appeals to rationality, sense of morality, and such important but readily accessible emotions as hatred. Its excesses, especially the wide dissemination of atrocity stories which did not bear up well under later dispassionate examination, at once made all propaganda suspect and alerted governments to the necessity of refining their communicative techniques for the eventuality of future internationalconflicts. The years before and during World War II saw international communicators—especially Goebbels in Nazi Germany and the Anglo‐American psychological warriors—develop a new strategy which utilized new knowledge about the psychological roots of human behavior. In addition to straightforward appeals to the consciousness of individuals, they sought to manipulate their audiences by playing on their deep‐seated desires and fears. Of particular importance for Nazi Germany were the allegedly racial ties of the individual to a people and the need for figures ofauthority. First major experiments were made in World War II to develop an even more basic strategyof international communication: structuring the situation in which people learn their predispositions, perspectives, and behaviors. Its basic idea is to create situations in which the communicator does not have to tell the targeted audience anything at all, but in which the audience, left to its own devices, can only come to the conclusions desired by the communicator. Thus strategic bombing sought to destroy the morale of the enemy’s home front and, through that action, to weaken its war‐making capacity. The postwar occupation of Germany originally sought to create a new environment in which Germans could be reeducated to democracy. Subsequent emphasis has also been on communications aimed at generating certain predispositions, such as a desire for consumer goods or a particular political style, which then spawn appropriate perspectives and behaviors. This new strategy of structural communication has its limits. The most important of these is the difficulty of controlling all aspects of a foreign population’s communications environment (which includes traditions, face‐to‐face networks, and conflicting sources of information). The potential importance of the strategy nonetheless makes it likely that governments will continue to work toward its development and implementation for their own international political purposes. © 1980 Taylor & Francis Group, LLC.",
+    "source": "Political Communication"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1300-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The leasehold system and drivers of informal land transactions in Bahir Dar city, Ethiopia",
+    "authors": "Derso W.G.; Gebremichael B.",
+    "year": "2022",
+    "doi": "10.1080/17531055.2022.2164428",
+    "abstract": "In Ethiopia, informal land transactions are proliferating in urban centers and triggering wider socio-economic and environmental challenges in the sustainable development of cities. Taking the case of Bahir Dar city, this paper examines informal land transactions in Ethiopia in terms of its rule-structuring processes, roles of actors in the transaction, and factors for its emergence and continued proliferation. Empirical evidence collected through key informant interviews, participant observation, and from secondary sources were analyzed qualitatively. The study reveals that the lease system in Ethiopia is ill-suited to the interests and reality of many urban dwellers and is unable to meet their needs. As a response to the failures of the lease system, residents are increasingly turning to informal land transactions. The success of informal land markets in Bahir Dar is reinforced by the possibility of formalization of land holdings through corrupt practices in local land administration. Moreover, the processes of the informal markets have provided adaptive and responsive alternatives for urban dwellers to access land. Unless land administration shifts to adapt to these realities, informal markets will likely continue to thrive. © 2023 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Journal of Eastern African Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

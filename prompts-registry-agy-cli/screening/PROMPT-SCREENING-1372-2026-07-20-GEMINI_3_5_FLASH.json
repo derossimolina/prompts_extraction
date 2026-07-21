@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1372-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Intelligence-sharing in the context of policing transnational serious and organized crime: a note on policy and practice in an Australian setting",
+    "authors": "Kowalick P.; Connery D.; Sarre R.",
+    "year": "2018",
+    "doi": "10.1080/15614263.2018.1507899",
+    "abstract": "An increasingly globalised world brings with it unprecedented complexities in international intelligence sharing. The continual integration of international markets and services, amid the ongoing disruption of digital technologies, is driving the need for greater collaboration and cooperation between countries. The flows of people, goods, ideas and information are increasing each year in tandem with the global reach of terrorism. Global reliance on the internet for commerce and communication also exposes countries and organizations to cyber-attack. Significant increases in borderless crime, the rising incidence of global political fragility, and shifts in multi-jurisdictional crime all compel law enforcement, intelligence and security agencies to continually re-evaluate existing approaches and policies. The ability of police to attack transnational organized crime at its source, or at a transit point that offers opportunities for effective disruption, is now more important than ever. This essay describes a study conducted by the Australian Strategic Policy Institute that identified a number of crucial issues with Australia’s criminal intelligence efforts offshore. It explains why it is important to foster a culture of offshore criminal intelligence, looks at challenges associated with the current system, and suggests ways to overcome those challenges. The research confirms that Australia’s efforts to collect and disseminate criminal intelligence, as distinct from routine international liaison, is ripe for improvement. © 2018, © 2018 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Police Practice and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

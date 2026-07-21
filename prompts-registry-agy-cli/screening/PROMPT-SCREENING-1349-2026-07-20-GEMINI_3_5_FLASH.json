@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1349-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Convenience orientation and white-collar criminogenity: an empirical study",
+    "authors": "Gottschalk P.",
+    "year": "2018",
+    "doi": "10.1080/01639625.2018.1479918",
+    "abstract": "The theory of convenience suggests that white-collar crime is committed in situations where alternative legitimate actions to avoid problems are more painful and stressful. The extent to which individuals in privileged positions choose to break the law in difficult situations is dependent on their convenience orientation. For example, people with a strong convenience orientation can have a tendency to believe that bankruptcy might be avoided through tax evasion and bank fraud. However, the empirical study in this article provides limited support for the suggestion that convenience orientation has a direct influence on the propensity to crime in terms of criminogenity. Rather, there can be several statistically significant effects from convenience that are indirectly related to criminogenity. The most significant effect is that more conveniently oriented respondents believe that financial crime can solve problems and contribute to exploit possibilities. ©, © Taylor & Francis Group, LLC.",
+    "source": "Deviant Behavior"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

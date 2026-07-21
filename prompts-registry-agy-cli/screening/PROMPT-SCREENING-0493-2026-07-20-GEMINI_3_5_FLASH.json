@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0493-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and the privacy design of central bank digital currency",
+    "authors": "Wang Z.",
+    "year": "2023",
+    "doi": "10.1016/j.red.2023.06.004",
+    "abstract": "This paper studies the implications of money laundering for the optimal design of central bank digital currency (CBDC). I build a general equilibrium framework to explicitly allow money laundering by agents and income audits by a government. I find that as long as CBDC offers less anonymity than cash, introducing CBDC will decrease money laundering. However, if CBDC still offers a relatively high level of anonymity but a low interest rate, then introducing CBDC will decrease the output from not only agents who launder money but also agents who do not. If CBDC instead offers low anonymity and a high interest rate, then introducing CBDC can increase aggregate welfare without lowering output. Furthermore, introducing CBDC needs not increase the funding costs of banks or decrease bank lending. © 2023 Elsevier Inc.",
+    "source": "Review of Economic Dynamics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1909-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring technology outsourcing relationships: Customer concerns, strategies and processes",
+    "authors": "Nagel T.W.; Murphy M.T.",
+    "year": "1996",
+    "doi": "10.1093/ijlit/4.2.151",
+    "abstract": "Outsourcing information technology is an increasingly appealing option for corporations who seek to focus their resources on core activities by shedding responsibility for data processing and related non-strategic functions. Structuring and negotiating a complex outsourcing transaction is a daunting task for even the most sophisticated corporation, however, since it usually faces a highly experienced vendor with far more experience about all aspects of negotiating and performing outsourcing contracts. Unless a corporation comprehensively addresses all the scope, price and performance issues associated with its specific objectives and operations, it will probably fail to meet the original goals of the outsourcing project. Since the information technology industry is characterized by uncertainty and rapid change, the outsourcing relationship developed during this process must be flexible and preserve the organization’s ability to bargain effectively during both the duration of the outsourcing contract and upon its termination. Failure to focus upon critical issues or adopt key processes will inevitably lead to pitfalls which can adversely affect the customer realizing its strategic and commercial objectives. Finally, it is important for the organization to appreciate that the introduction of a third party service provider can itself have a major impact on the organization’s internal processes. Thus, it is often true that outsourcing both drives and is driven by the need for organizational change. © Oxford University Press 1996.",
+    "source": "International Journal of Law and Information Technology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

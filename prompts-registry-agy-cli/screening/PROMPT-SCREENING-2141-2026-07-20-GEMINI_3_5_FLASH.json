@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2141-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A multi-criteria evaluation of factors affecting internet banking in Turkey",
+    "authors": "Onar S.C.; Aktas E.; Topcu Y.I.",
+    "year": "2010",
+    "doi": "10.1007/978-3-642-04045-0_20",
+    "abstract": "This research is based on quantifying adoption of Internet Banking by using an integrated multi-criteria decision aid approach. The analytic network process model, supported by a Delphi-type group-decision-making procedure, is used to conduct a comprehensive evaluation of the challenges to adoption of the Internet Banking by Turkish customers. This paper details all iterative stages of the decision-making process: structuring the problem, constructing the decision model, and analyzing the problem.Utilizing these stages, the study identifies the factors that influence the adoption of Internet Banking by customers, the effects of these factors on each other, and the assessment of the importance of them from the customers' point of view. The results indicate that security and reliability appear to be the most important factors for successful adoption of Internet Banking. Infrastructural competencies and user friendliness are other important factors. © Springer Physica-Verlag Berlin Heidelberg 2010.",
+    "source": "Lecture Notes in Economics and Mathematical Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

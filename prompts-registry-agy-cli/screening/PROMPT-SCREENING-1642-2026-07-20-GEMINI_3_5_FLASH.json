@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1642-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A prioritisation index for blight intervention strategies in residential real estate",
+    "authors": "Ferreira F.A.F.; Spahr R.W.; Sunderman M.A.; Jalali M.S.",
+    "year": "2018",
+    "doi": "10.1080/01605682.2017.1390535",
+    "abstract": "The existence of abandoned or poorly maintained properties, often with overgrowth, litter, and abandoned junk - or \"neighbourhood blight\" as it is sometimes referred to - is a complex and wide-ranging real estate problem. Its detrimental impact on neighbourhood property values, safety and reputation requires an elucidation of where its causes lie, which in turn requires that areas of intervention first be identified. The need is for multidimensional solutions which take into account different stakeholders' interests and perceptions. To address this need, this paper integrates cognitive mapping and multiple criteria decision analysis (MCDA) and, based on the discussion of real world cases with a panel of urban planning experts from the Lisbon municipality in Portugal, constructs a blight intervention prioritisation index. The resulting framework was validated by the participating panel members and a representative of the city council, and is aimed at facilitating strategies for intervention and elimination of residential neighbourhood blight. © 2017 Operational Research Society.",
+    "source": "Journal of the Operational Research Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

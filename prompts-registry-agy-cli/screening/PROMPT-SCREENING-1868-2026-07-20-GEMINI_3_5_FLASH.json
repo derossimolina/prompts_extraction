@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1868-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The structuring of interfirm exchanges in business know-how: Evidence from international collaborative ventures",
+    "authors": "Chi T.; Roehl T.W.",
+    "year": "1997",
+    "doi": "10.1002/(SICI)1099-1468(199706)18:4<279::AID-MDE826>3.0.CO;2-S",
+    "abstract": "This study investigates the effect of transaction cost considerations on the apportionment of residual bearing, and the assignment of managerial control between two firms involved in the exchange of business know-how. Data were collected from contractual agreements between multinational enterprises and indigenous firms that formed collaborative ventures in developing countries. A simultaneous-equation model was employed to test hypotheses that were derived under a theoretical framework based on the new institutional economics. The empirical results are supportive of the hypotheses. © 1997 John Wiley & Sons, Ltd.",
+    "source": "Managerial and Decision Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

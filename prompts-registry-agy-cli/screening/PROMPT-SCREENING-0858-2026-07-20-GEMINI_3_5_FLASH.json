@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0858-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Institutional Matrices: Modeling Organizational Forms of Public-Private Partnerships for Public Goods' Quality Improvement",
+    "authors": "Vaslavskaya I.; Vaslavskiy Y.; Pilipenko A.",
+    "year": "2022",
+    "doi": "10.47750/QAS/23.190.39",
+    "abstract": "The work is devoted to the substantiation of methodological approaches to the structuring of basic forms of public-private partnership: quasi-market, hierarchical and hybrid ones. The choice of forms of partnership of the state and the private business is predetermined by the qualitative parameters of the effective organization of all the stages of infrastructure projects' implementation. It is about the investment component, high-quality management that makes it possible to comply with all stages of project implementation, maximizing utility for all stakeholders, reducing investment losses. Matrix modelling application of organizational forms of public-private partnership improves the quality of investment projects, varying transaction costs and options for property rights exchange. The toolkit of institutional matrices structuring the main forms of public-private partnership makes it possible to assess the elasticity of the economic effect to investment costs for PPP projects, which means achievi ng a qualitative parameter-the coincidence of partners' interests in transactions with public goods. For the purpose of expanding the practice of PPP in the national economy, the quality of project financing in the case of the implementation of socially significant capital-intensive projects is of priority importance. © 2022, SRAC - Romanian Society for Quality. All rights reserved.",
+    "source": "Quality - Access to Success"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

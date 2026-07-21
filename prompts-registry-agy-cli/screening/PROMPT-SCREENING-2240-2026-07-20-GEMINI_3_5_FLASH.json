@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2240-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dark Cities: Illicit finance, anomic urbanism, and social harm",
+    "authors": "Atkinson, R",
+    "year": "2026",
+    "doi": "10.1093/bjc/azag002",
+    "abstract": "Illicit capital flows linked to wealthy individuals, corporations and organized criminal networks are firmly integrated within London's formal financial system and its real estate assets. This article argues that this distinct urban economy, which combines licit and illicit monies, is facilitated by anomic institutional, and political economic, settings. These settings have produced a 'dark city' that has generated a series of shadow harms. These harms include the defunding of social institutions, care, and infrastructural decline, such as large losses of public housing. These outcomes can be linked to the morally ambiguous spaces of those institutions that enable illicit financial flows who operate in the areas of finance, law, corporate life, and real estate. Despite the harms of a dark city condition, mirrored in similar cities globally, these stakeholders remain privileged in an urban political economy that continues to validate the aggressive pursuit of enrichment. Using institutional anomie theory in tandem with cutting-edge intelligence on illicit capital flows, the article develops an analysis of the privileging of capital management systems and the continued sidelining of related social harms in the dark city context.",
+    "source": "BRITISH JOURNAL OF CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

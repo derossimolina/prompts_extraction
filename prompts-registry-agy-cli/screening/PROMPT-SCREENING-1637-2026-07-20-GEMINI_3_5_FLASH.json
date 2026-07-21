@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1637-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Client privilege, compliance and the rule of law: Swedish lawyers and money laundering prevention",
+    "authors": "Helgesson K.S.; Mörth U.",
+    "year": "2018",
+    "doi": "10.1007/s10611-017-9753-8",
+    "abstract": "Can, and will, lawyers police their clients? This article aims to shed light on the private front-line workers of the Financial Action Task Force on money laundering (FATF). The analysis is based on a study of how Swedish lawyers perceive and handle obligations to police clients within FATF style risk-based anti-money laundering/counter terrorism (AML/CTF) regulation. We find that the lawyers were reluctant to taking on the responsibility for AML/CTF, and that their front-line work was directed towards being compliant enough. Relatedly, we identify several practices of separation that serve to mediate between the conflicting aims and interests in the everyday of this form of private policing. Another finding is that the lawyers by and large position themselves as knowledgeable actors, and view risks of AML/CTF as knowable. Nevertheless, lawyers experienced a principle clash between being ‘not banks’, and being front-line workers for FATF. In particular, the lawyers perceived their role as front-line workers to be more complex due to their professional norms and ethics on client privilege, and what they saw as the proper role of lawyers, being in conflict with the obligation to report clients and their transactions. In concluding, we suggest that paying more attention to the everyday experience of front-line workers when devising regulatory tools may be a way to promote engagement in ‘true’ crime prevention on their part. © 2018, The Author(s).",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

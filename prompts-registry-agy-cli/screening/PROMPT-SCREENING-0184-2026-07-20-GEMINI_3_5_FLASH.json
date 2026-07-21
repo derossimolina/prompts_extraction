@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0184-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The power of data: Transforming compliance with anti-money laundering measures in domestic and cross-border payments",
+    "authors": "Rozman A.G.",
+    "year": "2024",
+    "doi": "10.69554/DZKD6763",
+    "abstract": "Financial crime is on the rise. The interconnectedness of global payments is making illicit cross-border transactions increasingly frictionless, while digitisation has not only increased the attack surface but also enabled criminals to employ increasingly sophisticated methods to evade detection, such as social engineering. Compounding the threat is the ever-growing mountain of data being generated, which is threatening to drown detection and prevention efforts. It is clear that a new level of defence is required in the fight against financial crime. This paper argues that the implementation of data-driven technologies, with a focus on artificial intelligence (AI), is a near-term imperative for effective risk-based anti-money laundering (AML) compliance programmes in the payments industry, where legacy AML programmes over-rely on a rule-based approach with a checklist of predetermined rules and indicators to flag potentially suspicious activity. To support the development and implementation of such data-driven enhancements, this paper hones in on the current hurdles, and explains the benefits and technical aspects of AI integration, emphasising the foundational importance of ISO/IEC AI-related standards. Finally, the paper discusses future opportunities for broader collaboration to build stronger collective defences. © Henry Stewart Publications, 1750-1806.",
+    "source": "Journal of Payments Strategy and Systems"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

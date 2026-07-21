@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1105-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Response to money laundering scandal: evidence-informed or perception-driven?",
+    "authors": "Pol R.F.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-01-2019-0007",
+    "abstract": "Purpose: The purpose of this paper is to utilise underused information in anti-money laundering rating data to assist policymaking and research. Design/methodology/approach: This paper explores what evidence “hidden in plain sight” in official anti-money laundering rating data reveals about claims justifying the expansion of money laundering controls in response to European bank scandals. Findings: A perceived lack of international coordination influencing the policy response to a series of alleged anti-money laundering breaches does not accord with the anti-money laundering industry’s own evidence base. Practical implications: Responding to new crises with superficial solutions without addressing fundamental questions with a multi-disciplinary perspective risks repeating and extending a decade-long cycle of ineffectiveness in efforts to mitigate the social and economic harms from profit-motivated crime. Originality/value: This paper draws fresh conclusions from the anti-money laundering industry’s “main” data set, underused in policymaking and research. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2484-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of kidnapping on foreign ownership of firms in Nigeria",
+    "authors": "Ede, O; Okafor, G",
+    "year": "2023",
+    "doi": "10.1002/tie.22328",
+    "abstract": "Nigeria is one of the countries in Sub-Saharan Africa (SSA) that has faced high incidents of kidnapping. As a result of that, some studies have investigated its determinants and economic consequences in Nigeria. However, no study is yet to investigate its impact on the foreign ownership of firms. This is a research void that this article has attempted to fill. Using the World Bank Enterprise Survey and the United Nations Office on Drugs and Crime, we found empirical evidence of the negative impact of kidnapping on the foreign ownership of firms. An increase in the kidnapping rate by one (1 per 100,000 of population) will reduce the foreign ownership of firms by 4.855-10.098% depending on the econometric model. There is also empirical evidence that the impact of kidnapping on foreign ownership will vary by geographical regions in Nigeria and by firm size. Policy implications were deduced from our findings.",
+    "source": "THUNDERBIRD INTERNATIONAL BUSINESS REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

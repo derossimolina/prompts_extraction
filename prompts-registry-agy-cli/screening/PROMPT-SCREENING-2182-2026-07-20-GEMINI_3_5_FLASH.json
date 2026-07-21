@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2182-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Migration and illegal finance",
+    "authors": "Masciandaro D.",
+    "year": "2004",
+    "doi": "10.1108/13685200410809968",
+    "abstract": "Deals with the relationship between migratory flows and financial flows from the viewpoint of economic analysis. Points out the differences between migrants and host populations as this relates to the demand for banking and financial services, for instance the importance to migrants of remittances to their home countries. Analyses the similarities and differences between money laundering and money dirtying &lpar;ie financing terrorism&rpar; and between formal and informal banking systems and the need for concealment. Focuses on the Italian case, exploring whether there is a relationship between the existence of migration and the risk of terrorist financing. Concludes that empirical aggregate analysis cannot support the existence of a link between intensification of migration flow and the risk of financing Islamic terrorism. © 2004, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1078-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Monitor and detect suspicious transactions with database forensics and Dempster-Shafer theory of evidence",
+    "authors": "Khanuja H.K.; Adane D.",
+    "year": "2020",
+    "doi": "10.1504/IJESDF.2020.106302",
+    "abstract": "The digital investigators have now approached databases for investigating the cyber crimes. The illegal financial transactions on the web which goes undetected can now be revealed through database forensics. In response to this, we have proposed a methodology to detect the illegal financial transactions through database audit logs. The aim here is to monitor the database, detect the suspicious transactions and report the risk level of these transactions. Different databases are monitored to extract SQL transactions through their respective audit logs. The SQL transactions obtained are transformed and loaded in a standard XML format which contains financial records along with its metadata. Initially, we process the financial transaction records with rule-based outlier detection algorithm and classifies the transactions as per RBI rules. The suspected transactions obtained as outliers are marked with initial belief values. To verify the uncertainty of the suspected transactions we apply Dempster-Shafer's theory of evidence which combines various evidence of suspected transactions obtained through audit logs. The experiments performed manifest the risk level of suspected transactions. Copyright © 2020 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Electronic Security and Digital Forensics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0452-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financialization versus technologization: Can technology replace finance in global hegemony?; [Financiarización vs. Tecnologización: ¿Puede la tecnología reemplazar a las finanzas en la hegemonía global?]",
+    "authors": "Liu A.",
+    "year": "2026",
+    "doi": "10.1177/19427786251337714",
+    "abstract": "The logic of financial capital has become a dominant structuring force in global hegemony. Drawing on Giovanni Arrighi's theory of systemic cycles of accumulation, financial capital recurrently supersedes productive activities, reshaping global economic and political structures, particularly in the late stages of hegemonic cycles. Meanwhile, technological advancements—especially artificial intelligence, blockchain, and fintech—are often framed as potential disruptors of financial supremacy. Yet their development prompts critical questions: Can technologies achieve systemic autonomy, or will they remain subordinate to the imperatives of financial capital? This paper argues that technologization remains structurally embedded within financialized circuits of capital accumulation rather than achieving systemic independence. The rise of digital finance, venture capital, and high-frequency trading exemplifies how financial markets dictate the trajectory of technological development, prioritizing short-term financial gains over long-term productive innovation. Case studies from fintech and blockchain demonstrate that emerging technologies, rather than decentralizing power, are often co-opted into speculative financial markets, thereby reinforcing existing economic asymmetries. By emphasizing the structural constraints that prevent technologization from supplanting financialization as the primary driver of global economic governance, this study contributes to ongoing debates on the relationship between financial and technological power. The findings suggest that overcoming financial hegemony requires more than technological advancement—it necessitates structural transformations in economic governance, alternative models of innovation, and democratized control over technological development. Future research should explore potential pathways for breaking the financialized grip on technologization, with particular focus on cooperative economic structures, state-led innovation, and alternative financial models that prioritize equitable and sustainable development. © The Author(s) 2025",
+    "source": "Human Geography (United Kingdom)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

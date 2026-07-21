@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1157-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Disintegration of the world trade system: Reasons and consequences",
+    "authors": "Kuznetsov A.V.",
+    "year": "2019",
+    "doi": "10.26794/2587-5671-2019-23-5-50-61",
+    "abstract": "The article presents the study results of the world trade stagnation issues associated with the WTO systemic crisis. The aim of the article is to summarize the main reasons for the world trade system disintegration and to identify feasible directions for the world economic order transformation. The G20 trade-restricting measures were analyzed based on the statistical databases of the WTO and the non-governmental organization Global Trade Alert (GTA). The views of leading domestic and foreign experts on the consequences of liberalization of the world trade in goods and services were summarized. The author systematized the reasons for the world trade system disintegration, including: The US anti-globalization policy aimed at containing the PRC; counteracting unipolar globalization by the Southeast Asian nations; developed countries' rejecting the growing participation of developing countries in redistributing global resources; inefficiency of international organizations in solving problems of global imbalances, inequality and instability of the global financial system. Structuring disintegration processes revealed its main trends: Protectionism, regionalism, trans-regionalism. There were shown mechanisms to keep the US in the European Union due to companies providing professional services to European business. The author evaluated Russia and China's competitive advantages in the production chains of the new technological structure. The areas of cooperation between Russia and the BRICS countries for realizing export potential in agriculture, aviation and nuclear industries were determined. The prospects for trade and economic relations in Eurasia are discussed in terms of changing the economic paradigm and shifting the regulation of the global economy problems to the regional level. © 2018 Finance: Theory and Practice. All rights reserved.",
+    "source": "Finance: Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

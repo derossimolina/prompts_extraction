@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2040-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Why interdiction? Immigration control at the United States-Mexico border",
+    "authors": "Heyman J.M.",
+    "year": "1999",
+    "doi": "10.1080/00343409950078666",
+    "abstract": "International borders are open to some movements and forbid others. These roles appear to be opposites, with intensified cross-border transactions accompanied by a heightened interdiction of unauthorized immigrants and narcotics. This is an outcome of the contradictory political interests and ideas which promote and oppose globalization. These political processes not only shape general policies, but are expressed in the specific tasks and technologies applied by border control agencies. They are revealed through detailed ethnographic fieldwork on US agencies on the Mexican border, including the Immigration and Naturalization Service (INS), its Border Patrol and Inspection branches, the US Customs and the military.",
+    "source": "Regional Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

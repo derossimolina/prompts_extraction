@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0329-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Comparative Analysis of Bitcoin Regulation in Latin American Countries; [Análisis comparativo de la regulación del bitcoin en países de Latinoamérica]",
+    "authors": "Silva-Jug I.A.G.; Aimer Cortez Alejandro K.; Wong Boren A.; Chiquet Jiménez R.",
+    "year": "2025",
+    "doi": "10.14718/revfinanzpolitecon.v17.2025.11",
+    "abstract": "This study aims to analyze the regulations applicable to Bitcoin in force in seven Latin American countries to assess the need to strengthen the regulatory framework and its implementation in the region. For this purpose, a qualitative study was designed with an exploratory scope and a non-experimental cross-sectional approach. Information is collected from secondary sources through the web and a survey of academics from institutions affiliated with the ALAFEC. The results show the regulatory advances regarding cryptocurrencies. Current regulations are described for Argentina, Brazil, Chile, Colombia, El Salvador, Mexico, and Venezuela. All the countries analyzed have mechanisms for the prevention of money laundering, terrorist financing, and the use of resources of illicit origin. Nonetheless, it is necessary to strengthen the current regulations by including mechanisms for the protection of all participants. © 2025 Universidad Catolica de Colombia. All rights reserved.",
+    "source": "Revista Finanzas y Politica Economica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

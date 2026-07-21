@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0273-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Unexpected and Extraordinarily Shallow Coralligenous Banks at the Sinuessa Site, a Heritage of the Campania Coast (SW Italy, Mediterranean Sea)",
+    "authors": "Ferrigno F.; Di Martino G.; Donnarumma L.; Innangi S.; Molisso F.; Rendina F.; Sandulli R.; Tonielli R.; Russo G.F.; Sacchi M.",
+    "year": "2024",
+    "doi": "10.3390/w16202942",
+    "abstract": "Coralligenous bioconstructions are biogenic calcareous formations developing at low irradiance on littoral rocky cliffs or on the deeper sub-horizontal bottom in the Mediterranean Sea. Unusually shallow coralligenous banks on the sandy coast of Sinuessa (Mondragone City, Gulf of Gaeta, SW Italy) were investigated. Their communities and the surrounding biogenic detritus were characterized. Geophysical and acoustic data revealed the presence of coralligenous banks between 7.5 and 15 m depth, showing constant thickness and sub-horizontal geometry, incised by sub-perpendicular channels. Sediment deposits ranging from silty sands to bioclastic gravel occur in the area. The biogenic detritus of the soft bottom sampled around the coralligenous banks is highly heterogeneous. Through the thanatocoenosis analysis of macrozoobenthos, different biocenoses were detected, among which the coralligenous and photophilic habitats are mainly represented, followed by the well-calibrated fine sands and the relit sands. A total of 16 different species and 10 epimegabenthic morphological groups (MGs) were detected on the coralligenous banks, of which 4 are included in European regulation for threatened species. The density of epimegabenthic organisms has an average of 10.34 ± 5.46 individuals or colonies/100 m2. Cladocora caespitosa is the dominant species, with a height of 17 ± 5 cm. This and other structuring species (SS) were larger in size in the sampled sites than in the literature data. Overall, coralligenous had a “medium” health status, with 52% of the individuals or colonies in healthy conditions, compared to 47% with epibiosis phenomena and 1% with entanglement. Longlines were the most common anthropogenic litter, with a density of 2/100 m2. Ad hoc monitoring programs and conservation measures would be desirable to protect and guarantee the well-being of these sensitive and rare shallow bioconstructions. © 2024 by the authors.",
+    "source": "Water (Switzerland)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

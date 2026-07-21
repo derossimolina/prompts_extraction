@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0921-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "To be or not to be? A tale of immigrants’ entrepreneurial journey: the case of Sinorama’s international tourism empire",
+    "authors": "Wang Z.; Badr K.",
+    "year": "2022",
+    "doi": "10.1108/TCJ-11-2019-0112",
+    "abstract": "Theoretical basis: Transnational entrepreneurs (TEs) are individuals that migrate from one country to another, concurrently maintaining business-related linkages with their former country of origin and currently adopted countries and communities. TEs are active social actors who enact networks, ideas, information and practices for the purpose of seeking business opportunities or maintaining businesses within dual-social fields, which, in turn, force them to engage in varied strategies of action to promote their entrepreneurial activities (Drori, Honig & Wright, 2009). This case research focused on the ethic, legal and cultural challenges TE has been facing when operating their business across boards. Research methodology: The data used in this case were collected from mainly third-parties, including the office de la protection du consommateur; Office of consumer protection (OPC), securities and exchange commission (SEC) reports, news as well as marketing materials posted on public media by Sinorama Corp. and Vacances Sinorama. The authors conducted interviews with former employees of Vacances Sinorama to gain the understanding of the owners and the business challenges faced during the years of operation. The authors also communicated with the OPC through to obtain specific case-related information through the Canadian freedom of information channels. Triangulation of such information from multiple resources had been conducted to validate and support the details described in the case content. Case overview/synopsis: A Chinese immigrant couple migrated to Canada and started Vacances Sinorama Inc. (“Vacances Sinorama”) in 2005. The focus of this case is on the expansion of their travel businesses after 2015. In 2016, they established a financing shell company, Sinorama Corporation (“Sinorama Corp.”), in Florida, USA, which became the holding company to the operation subsidiaries. Born during the 1970s and raised in Mainland China, the owners were culturally traditional and operated the company with the values and norms from their heritage culture. Vacances Sinorama successfully penetrated the local tourism market using Web-based technology and aggressive low-pricing strategies after the scaling-up strategies. However, Vacances Sinorama was operating in the red for several consecutive years (2015–2018). Sinorama Corp. received additional capital of US$4.4m by listing a portion of its shares on the NASDAQ over-the-counter market during 2016 and 2017. Canadian regulators began to investigate its operational and financing activities in 2017. They found a comingling of client and operation funds, which directly violated Canadian consumer protection laws. As a result of these violations, the license for Vacances Sinorama was nonrenewed in August 2018. The majority of owners fought to overturn the regulators’ decision and failed at all levels of appeal, administrative and judicial. This entrepreneurial endeavor ended with Vacances Sinorama declaring bankruptcy in October of 2018. Complexity academic level: This multipurpose teaching case aims to assist students from an integrated approach whom are learning about entrepreneurship, international business, business law and business ethics. It is best suited for advanced undergraduate courses in entrepreneurship, business ethics, international business and business law as well as specific teaching modules in MBA courses. © 2022, Emerald Publishing Limited.",
+    "source": "CASE Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

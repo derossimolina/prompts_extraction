@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0404-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From chalkboards to chatbots: generative AI impact on education in emerging economies",
+    "authors": "Virmani N.; Sharma D.; Sahu A.; Garza-Reyes J.A.",
+    "year": "2026",
+    "doi": "10.1080/10494820.2026.2632172",
+    "abstract": "Generative AI (GE-AI) has garnered significant attention across distinct industrial sectors, namely, tourism, banking, healthcare, service marketing, but with a transitional impact in higher educational institutions (HEIs). Emerging economies like India are structuring their education systems and digital literacy programs through the New Education Policy (NEP) 2020 to promote critical thinking, creativity, foundational learning, and equitable education by 2030. In this regard, AI chatbots will open new avenues in teaching and research, but the extent to which they can leverage their transformative potential with ethical and social implications is under research. Hence, this research identified and analyzed five important dimensions encompassing 21 implications to excel GE-AI in HEIs. The study employs fuzzy-Delphi and fuzzy analytic hierarchy process (f-AHP) techniques with the 15 expert panel and 4 considered cases of HEIs to prioritize depicted implications. The findings revealed that enhanced teachers’ productivity and innovative pedagogical tools are the most significant implications. This research enriches the existing body of knowledge and contributes valuable insights for educators and policymakers by promoting constructivist learning, reducing individuals’ hesitation toward technology, and creating dynamic student-centered experiences. © 2026 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Interactive Learning Environments"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

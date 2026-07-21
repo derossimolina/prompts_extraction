@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0533-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptoterrorism: Assessing the Utility of Blockchain Technologies for Terrorist Enterprise",
+    "authors": "Whyte C.",
+    "year": "2023",
+    "doi": "10.1080/1057610X.2018.1531565",
+    "abstract": "Much recent policy discourse has pivoted on the relationship between terrorist campaigns and an emergent feature of the global financial landscape in the form of cryptocurrencies. Cryptocurrencies are a subset of digital currencies that are distributed by the developers thereof. The various unique features of cryptocurrencies have led to discussion in punditry about how terrorists could benefit from this new mode of financial transaction but few policy-oriented works and scholarly assessments exist to outline and assess this claim. This article describes cryptocurrencies, and assesses them in line with the operational realities of terrorist campaigns. I argue that, while there is limited evidence that terrorists are likely to disproportionately benefit from use of cryptocurrencies at present, there do exist unique opportunities for money laundering and revenue generation. © 2019 Taylor & Francis Group, LLC.",
+    "source": "Studies in Conflict and Terrorism"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

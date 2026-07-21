@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0464-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Irregular Warfare in the Western Hemisphere under Trump II",
+    "authors": "Deare C.A.",
+    "year": "2026",
+    "doi": "10.1080/09592318.2026.2619639",
+    "abstract": "The second Trump administration or Trump II promises to build upon the uncertain foundation established in the 2017–2021 timeframe or Trump I. Even more than the standard case of a country-dependent region, the nature of the personal bilateral relationship between Donald Trump and his counterparts is likely to influence his policy decisions. Given that Trump is not guided by ideology but by specific goals known only to him, attempting to anticipate his moves in the Gray Zone is highly challenging. Trump’s concerns with issues such as migration, economics and trade, security, and the competition with China will be the key variables to consider rather than the maintenance of traditional bilateral relationships. Keeping the ‘Make America Great Again’ (MAGA) mantra at the center of analysis, coupled with his transactional modus operandi, will be the essence of the U.S. irregular warfare (IW) approach. © 2026 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Small Wars and Insurgencies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

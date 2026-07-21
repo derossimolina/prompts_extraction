@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0640-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Impact of Extra Liquidity on Firm-Level Employment. An Analysis from an Italian Case Study",
+    "authors": "Dileo I.; Giorno S.D.",
+    "year": "2023",
+    "doi": "10.1430/112975",
+    "abstract": "Research has shown the significant influence of organized crime (oc) on regional development and economic activities, highlighting the increasing erosion of economic performance. Criminal organizations may have access to additional resources, such as liquidity, which they leverage to exploit market failures and vulnerabilities, thereby gaining influence through what is commonly referred to as «criminal welfare». This becomes particularly evident during challenging periods. While scholars have increasingly focused on the consequences of criminal infiltration into firms’ performance indicators, less attention has been paid to its direct or indirect impacts on firm-level employment. The article aims to address a research gap by conducting a quasi-experimental analysis in 2019, comparing two sectors in the province of Bologna with different infiltration incidences. Our findings confirm a correlation between high-incident infiltration sectors and increased liquidity. Additionally, the dynamic shock analysis from 2010 to 2019 reveals that companies with substantial liquidity experience higher employment growth, independent of other performance indicators, potentially preventing bankruptcies, job cuts, or relocations. The implications drawn highlight the importance of policymakers dealing with challenges posed by criminal organizations and money laundering activities. © 2023 Societa Editrice Il Mulino. All rights reserved.",
+    "source": "Industria"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

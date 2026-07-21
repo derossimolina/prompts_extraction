@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0911-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and terror financing: issues and challenges in Pakistan",
+    "authors": "Zia M.A.; Abbas R.Z.; Arshed N.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-11-2020-0126",
+    "abstract": "Purpose: Pakistan is facing the momentous hazard of money laundering and a substantial risk of terror financing, which are seriously threatening its socioeconomic well-being. The purpose of this paper is to gauge the challenges posed by these threats in contrast with the existing potential and expertise of legal entities. It also examines legal and procedural measures enforced as a counter-strategy for terror financing and money laundering and the AMLA 2010 and National Action Plan (NAP) for countering terrorism financing. Design/methodology/approach: This paper uses an analytical and comparative method using figures and comparative data on the success of the NAP and AMLA 2010 as national counterterrorism strategies. Terror financing and anti-money laundering regimes are confronted with grave legal and procedural odds, noncooperation and performance issues and conflicts of interest on the part of the enforcers/politicians. This paper highlights the issues that seriously jeopardize strategies to stop money laundering and terror financing, such as geography, informal financial transfers and exchange systems, un-regulated charities and real estate sectors, the modest performance of enforcement agencies and lukewarm political support for the NAP. Findings: The situation requires the improvement of weak legislation and poor coordination and the adaptation of technological advancements and novel counter-strategies, along with properly trained enforcement personnel. Originality/value: This paper will prove to be a valuable reference for exploring the shortcomings and insights. This will provide useful information for legal and financial practitioners, academicians, research scholars, policymakers and journalists. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

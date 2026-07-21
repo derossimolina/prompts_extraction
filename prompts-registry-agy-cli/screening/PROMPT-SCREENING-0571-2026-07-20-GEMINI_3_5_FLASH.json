@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0571-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Challenges and Forward-Looking Roles of Forensic Accounting in Combating Money Laundering: Evidence from The Developing Market",
+    "authors": "Shbeilat M.K.; Alqatamin R.M.",
+    "year": "2022",
+    "doi": "10.22495/jgrv11i3art10",
+    "abstract": "The spread of money laundering operations and their negative effects on the national economy is a global challenge. Jordan, in which the overall risk of money laundering was assessed to be high (National Anti-Money Laundering and Terrorism Financing Committee [NAMLTFC], 2020), aims to intensify efforts to combat money laundering operations. This study shed light on the role of forensic accountants in combating money laundering, in addition to highlighting potential obstacles they face in performing their duties. The study employed a concurrent mixed method approach that data collection for both the questionnaire and the interviews was conducted simultaneously. The analysis of the study revealed that forensic accounting techniques contribute to combating money laundering operations. The findings also suggest that to better achieve this goal, forensic accountants must be familiar with contemporary techniques in data collection, process, and analysis. In addition, the study revealed several obstacles that limit the desire to work as forensic such as the disproportion of fees with the effort expended especially when the litigation period extends for several years, and loss of time due to non-attendance of witnesses to court. Given that draft companies law mandates companies to declare the real beneficiaries, regulators can invest the insights gained from this study to enhance anti-money laundering cooperation with the International Federation of Accountants (IFAC) by considering giving auditors greater power in examining related-party transactions (IAASB, n.d.) to better identifying real beneficiaries. © 2022, Virtus Interpress. All rights reserved.",
+    "source": "Journal of Governance and Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

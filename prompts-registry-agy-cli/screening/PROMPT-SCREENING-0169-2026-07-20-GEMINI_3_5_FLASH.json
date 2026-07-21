@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0169-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crime and credit: Analyzing the impact of organized crime perceptions on loan restrictions",
+    "authors": "Forgione A.F.; Migliardo C.; Spadaro M.",
+    "year": "2025",
+    "doi": "10.1016/j.iref.2025.104669",
+    "abstract": "This study examines the impact of perceived organized crime on firms’ access to bank loans. The analysis relies on an original survey conducted by the Bank of Italy, involving a representative sample of approximately 1100 Italian firms across all sectors, which investigates firms’ perceptions of organized crime risk and their experiences with credit rationing by banks. The analysis uses three items of perceived crime stand-alone and aggregates them in a composite indicator to reconduct bank credit rationing. Our findings indicate that firms operating in areas and sectors in which organized crime risk is strong are significantly more likely to experience credit rationing. The presence of organized crime seems to distort the credit market by exacerbating adverse selection, and driving banks to adopt risk-averse lending practices. These findings suggest that policymakers and financial institutions should integrate these risks into their assessment models and implement targeted financial measures to mitigate the negative effects of organized crime on credit markets. © 2025 The Authors.",
+    "source": "International Review of Economics and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

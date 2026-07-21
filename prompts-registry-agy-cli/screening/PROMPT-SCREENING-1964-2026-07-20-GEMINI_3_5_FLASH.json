@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1964-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Why worry? The impact of the OECD harmful tax competition initiative on Caribbean offshore financial centres",
+    "authors": "Vlcek W.",
+    "year": "2007",
+    "doi": "10.1080/00358530701463998",
+    "abstract": "The economies of small states are vulnerable to a variety of external factors - economic, political and environmental. One economic/financial factor confronting those small states with offshore financial centres has been the effort by the OECD to eliminate tax arbitrage (harmful tax competition). A related initiative to eliminate money laundering and combat the financing of terrorism has increased the regulatory responsibilities and costs to these small jurisdictions and represents an example for the potential consequences of the OECD project. Using economic data from several Caribbean jurisdictions, this article investigates the direct impact of these international programmes to increase financial regulation upon their financial services industries. Two specific outcomes are demonstrated: a reduction in employment opportunities and a decline in government revenues. At present this situation bodes ill for the continued operation of offshore financial centres as a method towards achieving economic development.",
+    "source": "Round Table"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

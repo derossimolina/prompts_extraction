@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0158-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency-Tax Evasion Nexus: Do Institutions Matter?The Case of G7 Countries",
+    "authors": "Nawaz A.D.; Khan S.; Bhutto N.A.",
+    "year": "2026",
+    "doi": "10.22452/IJIE.vol18no2.7",
+    "abstract": "Cryptocurrencies have faced significant criticism due to their association with tax evasion, money laundering, and criminal activities, such as fraudulent investments, drug trafficking, and terrorism financing. Cryptocurrencies’ decentralised and regulatory bypassing nature raises concerns among regulators, who aim to ensure the integrity of centralised financial systems and institutions. Despite these concerns, cryptocurrencies offer secure, efficient, and low-cost payment methods on a global scale. In light of these contrasting dynamics, this study investigates the role of cryptocurrencies in tax evasion within the Group of Seven (G7) countries. The study provides the latest assessment of tax evasion levels by constructing a novel tax evasion index using the currency demand approach (CDA). Employing panel techniques and utilising data from 2013 to 2020, the research reveals a negative relationship between cryptocurrencies and tax evasion. Additionally, the study highlights the significance of institutional quality in shaping the association between cryptocurrencies and tax evasion. The findings of this study offer valuable insights to policymakers, informing them of the relationship between Bitcoin, governance, and tax evasion. By comprehending the dynamics at play, policymakers can make informed decisions regarding the regulation and oversight of cryptocurrencies, ensuring a balanced approach that addresses concerns while leveraging the benefits offered by these digital assets. © 2026, Faculty of Economics and Administration. All rights reserved.",
+    "source": "Institutions and Economies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

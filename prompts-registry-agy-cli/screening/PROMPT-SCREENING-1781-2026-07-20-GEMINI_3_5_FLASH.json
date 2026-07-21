@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1781-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The determinants of anti-money laundering compliance among the Financial Action Task Force (FATF) member states",
+    "authors": "Mekpor E.S.; Aboagye A.; Welbeck J.",
+    "year": "2018",
+    "doi": "10.1108/JFRC-11-2017-0103",
+    "abstract": "Purpose: This paper aims to compute a measure for anti-money laundering/counter-financing of terrorism (AML/CFT) compliance and investigate its determinants. Design/methodology/approach: Using the Financial Action Task Force (FATF) recommendations and assigning weights to them, the study computes a measure for AML compliance. Further, the determinants of AML compliance were investigated using ordinary least squares (OLS) data of 155 countries between 2004 and 2016. Findings: The findings suggest that AML compliance have slightly improved over the years. Further, the OLS regression results show that technology, regulatory quality, bank concentration, trade openness and financial intelligence center significantly determined and improved AML compliance. Practical implications: From the findings, it is evident that countries that wish to improve the AML compliance should focus more on technology, regulatory quality, structure of the banking sector, size of the economy and institution of financial intelligence center so as to enhance AML compliance. Originality/value: To the best of the author’s knowledge, this paper reveals a first AML/CFT compliance index that measures the cross-country level of AML/CFT compliance from the year 2004 to 2016. Subsequently, this paper adopted an OLS econometric model to identify the key determinants of AML/CFT compliance among member states of FATF. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

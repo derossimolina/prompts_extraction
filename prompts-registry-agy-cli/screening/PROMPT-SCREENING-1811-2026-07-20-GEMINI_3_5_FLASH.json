@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1811-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Reverse money laundering in Russia: clean cash for dirty ends",
+    "authors": "Zabyelina Y.G.",
+    "year": "2015",
+    "doi": "10.1108/JMLC-10-2014-0039",
+    "abstract": "Purpose – The purpose of this paper is to provide an overview of and comment on various aspects of reverse money laundering, whereby, instead of “washing” criminal proceeds to make them legal, legitimate funds are withdrawn from formal circulation and pumped into the informal sector to evade taxes, hand in bribes, pay “under-the-table” salaries and sidestep paperwork. Design/methodology/approach – The paper is divided into two parts. The theoretical part reviews the relevant academic literature and discusses the role of cash as a dominant medium of exchange in the underground economy. The empirical part is grounded on a qualitative analysis of several case studies of fraudulent encashment schemes all of which illustrate how reverse money laundering works. Findings – The findings suggest that fraudulent encashment, a type of reverse money laundering, is performed via bank and non-bank institutions. Importantly, methods and techniques used in conventional forms of money laundering are also used in reverse money laundering schemes. Originality/value – Despite a large volume of literature on money laundering, reverse money laundering remains an understudied area. This paper discusses the peculiarities of illegal transfers of non-cash assets into cash, which have been the pronounced problem in Russia and other post-Soviet countries since the 1990s. © 2015, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

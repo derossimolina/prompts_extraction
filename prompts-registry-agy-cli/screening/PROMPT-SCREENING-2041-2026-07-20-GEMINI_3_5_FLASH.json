@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2041-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global financial governance and the developing anti-money laundering regime: What lessons for International Political Economy",
+    "authors": "Tsingou E.",
+    "year": "2010",
+    "doi": "10.1057/ip.2010.32",
+    "abstract": "The developing anti-money laundering (AML) regime exhibits a specific, non-financial set of policy preoccupations. Yet it is important to examine AML from a global financial governance perspective as the regime essentially imposes controls on the movement of money. This article analyses the political, institutional and regulatory evolution of the regime and argues that it serves to address a need for action on a diverse set of public policy goals (corruption, drug trafficking or terrorism); to relieve financial centres in advanced economies from offshore competitive pressures; and, unintentionally, to shape private sector practices so as to consolidate the position of key market institutions. The article stresses that the achievements with respect to its goals remain modest at best in relation to its ambitions, while important side-effects raise concerns about its role, efficiency and legitimacy. It also examines the possibility that AML has been tacitly accepted as the price for capital mobility. © 2010 Macmillan Publishers Ltd.",
+    "source": "International Politics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

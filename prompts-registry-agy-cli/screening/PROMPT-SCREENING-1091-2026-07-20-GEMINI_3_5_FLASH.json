@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1091-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Comparative analysis of machine learning methods to identify signs of suspicious transactions of credit institutions and their clients",
+    "authors": "Beketnova Y.M.",
+    "year": "2021",
+    "doi": "10.26794/2587-5671-2020-25-5-186-199",
+    "abstract": "In the field of financial monitoring, it is necessary to promptly obtain objective assessments of economic entities (in particular, credit institutions) for effective decision-making. Automation of the process of identifying unscrupulous credit institutions based on machine learning methods will allow regulatory authorities to quickly identify and suppress illegal activities. The aim of the research is to substantiate the possibilities of using machine learning methods and algorithms for the automatic identification of unscrupulous credit institutions. It is required to select a mathematical toolkit for analyzing data on credit institutions, which allows tracking the involvement of a bank in money laundering processes. The paper provides a comparative analysis of the results of processing data on the activities of credit institutions using classification methods - logistic regression, decision trees. The author applies support vector machine and neural network methods, Bayesian networks (Two-Class Bayes Point Machine), and anomaly search - an algorithm of a One-Class Support Vector Machine and a PCA-Based Anomaly Detection algorithm. The study presents the results of solving the problem of classifying credit institutions in terms of possible involvement in money laundering processes, the results of analyzing data on the activities of credit institutions by methods of detecting anomalies. A comparative analysis of the results obtained using various modern algorithms for the classification and search for anomalies is carried out. The author concluded that the PCA-Based Anomaly Detection algorithm showed more accurate results compared to the One-Class Support Vector Machine algorithm. Of the considered classification algorithms, the most accurate results were shown by the Two-Class Boosted Decision Tree (AdaBoost) algorithm. The research results can be used by the Bank of Russia and Rosfinmonitoring to automate the identification of unscrupulous credit institutions. © Beketnova Yu.M., 2021.",
+    "source": "Finance: Theory and Practice"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

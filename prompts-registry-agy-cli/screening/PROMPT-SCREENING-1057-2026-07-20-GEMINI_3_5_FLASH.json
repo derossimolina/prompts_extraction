@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1057-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Currency depreciations in emerging economies: A blessing or a curse for external debt management?",
+    "authors": "Fisera B.; Workie Tiruneh M.; Hojdan D.",
+    "year": "2021",
+    "doi": "10.1016/j.inteco.2021.09.003",
+    "abstract": "We investigate the long-term effect of domestic currency depreciation on external debt for a panel of 41 emerging economies over the years 1999–2019 based on quarterly data. Using heterogeneous panel cointegration methods, we find that domestic currency depreciation leads to an increase in the external debt to GDP ratio over the long-term and it might, therefore, reduce the sustainability of external debt. This is particularly the case for larger depreciations, while smaller depreciations might even reduce the external debt burden over the long-term for more developed emerging economies. Poorer emerging economies face a greater increase in external debt burden following domestic currency depreciation. We also find that higher exchange rate volatility and the use of floating exchange rates contribute to a greater increase in external debt burden over the long-term following currency depreciation. Furthermore, we find asymmetric effects of exchange rate depreciation on external debt: greater central bank independence limits the effect of currency depreciation on external debt, while higher financial development and illicit financial flows augment the effect of depreciation on external debt. © 2021 CEPII (Centre d'Etudes Prospectives et d'Informations Internationales), a center for research and expertise on the world economy",
+    "source": "International Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

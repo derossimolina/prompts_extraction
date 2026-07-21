@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1440-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating the governing law clauses in Sukuk transactions",
+    "authors": "Oseni U.A.; Hassan M.K.",
+    "year": "2015",
+    "doi": "10.1057/jbr.2014.3",
+    "abstract": "The crystallization of the Islamic capital markets (ICM) in the last decade has led to increased acceptance of Islamic financial products in the global market. However, a fundamental question that lies at the intersection of law and ICM that has a far-reaching impact on market practices is the extent to which the governing law clause in a typical Sukuk prospectus protects the interest of the parties and meets the ends of justice. An analogous clause within the governing law provision is the dispute resolution clause, which either makes or mars the whole transaction depending on how it is structured. This article argues that as part of Islamic finance documentation involved in the process of structuring a Sukuk transaction, one important aspect the parties must get right from the beginning is the governing law clause. With the increasing provision of English law as the governing law, a question that readily comes to one's mind is whether it is possible to have an alternative governing law while retaining the choice of jurisdiction clause. In order to create a regulatory environment that is conducive to the prevailing trends in the modern world, this study critically ploughs through the governing law clauses of 10 selected Sukuk prospectuses and makes interesting findings regarding the attitude of draftsmen and their clients. A preliminary finding of this study is the paradigm shift to arbitration as an alternative or precondition to litigation in some of the Sukuk prospectuses reviewed. As there are regional and international arbitral institutions set up exclusively for Islamic finance disputes, it may be more appropriate to resolve any dispute arising from a Sukuk transaction under shari'a-compliant rules and supervised by experts in Islamic law. The interviews conducted for this research with 10 prominent shari'a scholars who have been involved in the certification of Sukuk structures prove this hypothesis, and the qualitative data are consistent with it, albeit with some dissenting views. © 2015 Macmillan Publishers Ltd.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

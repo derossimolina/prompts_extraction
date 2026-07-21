@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0888-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ROLE OF LEGAL REGULATION IN PREVENTING CORRUPTION IN THE MARKET OF DIGITAL FINANCIAL ASSETS IN THE CONTEXT OF SUSTAINABLE DEVELOPMENT; [PAPEL DA REGULAÇÃO LEGAL NA PREVENÇÃO DA CORRUPÇÃO NO MERCADO DE ATIVOS FINANCEIROS DIGITAIS NO CONTEXTO DO DESENVOLVIMENTO SUSTENTÁVEL]",
+    "authors": "Smirnov D.; Baklanova O.; Sagalaeva E.; Zhukov A.; Tereshchenko E.; Dolgopolov K.",
+    "year": "2023",
+    "doi": "10.55908/sdgs.v11i5.557",
+    "abstract": "Objective: The study considers the main trends in the legal regulation of cryptocurrency in different countries. The authors conduct a systematic analysis of the impact of digital financial assets on corruption. Method: The authors have analyzed legal acts and compared data from different countries to study the legal regulation of digital financial assets. Result: The authors have shown that there is no legal regulation of digital financial assets, in particular cryptocurrencies. There are no clear definitions and rules regarding these assets, which causes problems with taxation, money laundering, and the identification of parties to transactions. Conclusion: Based on the data obtained, the authors have substantiated the need for the proper legal regulation of digital financial assets, including cryptocurrencies. The state shall resolve issues related to terminology, legal status, taxation, and cryptocurrency exchange. In addition, the study highlights the importance of KYC and AML mechanisms to prevent corruption and money laundering with the use of digital financial assets. A comprehensive legal framework will provide certainty and protect both individual and institutional investors dealing with digital financial assets. © 2023 Journal of Law and Sustainable Development. All rights reserved.",
+    "source": "Journal of Law and Sustainable Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2482-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring the Interstitial Space of Global Financing Partnerships for Sustainable Development: A Network Analysis",
+    "authors": "Faul, MV; Tchilingirian, JS",
+    "year": "2021",
+    "doi": "10.1080/13563467.2020.1849082",
+    "abstract": "In this article, we theorise global financing partnerships as a 'space between fields' that is generated and structured by the relationships between the actors mobilised into partnership boards from different fields. We investigate the structuring of the space of partnerships through a formal network analysis of a new dataset of 188 board members of 10 global financing partnerships across climate change, education, health and nutrition. Individual board members are analysed with reference to their home organisation and sector, the boards on which they serve, and salient issue areas. Centrality and ERGM analyses reveal that, in contrast to the policy narrative of inclusive and egalitarian partnering, donors (from states, international organisations and private sector) are systematically privileged in the structuring of this partnership space. We identify network mechanisms through which systematic biases in partnership relations perpetuate existing hierarchies, and introduce the concept of 'relational practices' that could counter these mechanisms. Combining a theorisation of partnerships as spaces between fields with network concepts provides a distinct theoretical basis for elucidating the structuring of partnership spaces at the macro-level, through the analysis of individuals' connections at the micro-level and inter-organisational ties at the meso-level.",
+    "source": "NEW POLITICAL ECONOMY"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

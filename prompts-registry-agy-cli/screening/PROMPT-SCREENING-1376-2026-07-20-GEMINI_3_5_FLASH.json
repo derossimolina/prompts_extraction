@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1376-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Curious Case of Stablecoins-Balancing Risks and Rewards?",
+    "authors": "Ferreira A.",
+    "year": "2021",
+    "doi": "10.1093/jiel/jgab036",
+    "abstract": "Stablecoins is a blockchain-driven innovation and a new subset of crypto assets. Even though they could transform how payments are made, regulators paid little attention to them until recently. The announcement of the Libra project in 2019 elevated stablecoins to the top of the regulatory agenda. Libra's global scale and its capacity to reach billions of potential users through a user-centric social network platform that is already seamlessly integrated within the lives of the global population and the potential impact of a global yet fast and cheap payment solution raised many issues and concerns among authorities related to not only financial stability, monetary policy, and competition, but also money laundering, financing of terrorism, and others. Addressing stablecoins has proven challenging for many regulators as they face a difficult task of balancing financial stability, with innovation. This paper analyzes how the official perception of stablecoins has evolved, from dismissiveness and underestimation to serious concern. It evaluates existing regulatory responses, highlights regulatory dilemmas, and makes recommendations regarding future regulatory approaches. To reap the benefits of stablecoin innovation, regulators need to take a broader long-term view of stablecoins beyond the perceived risks and embrace their advantages. Regulations should not stifle this innovation but support a diverse ecosystem of stablecoins and foster competition. © 2021 The Author(s). Published by Oxford University Press.",
+    "source": "Journal of International Economic Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

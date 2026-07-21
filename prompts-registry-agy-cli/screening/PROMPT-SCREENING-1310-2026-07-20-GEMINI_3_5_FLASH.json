@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1310-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Capitalism, criminality and the state: the origins of illegal urban modernity",
+    "authors": "Ridda M.",
+    "year": "2020",
+    "doi": "10.1080/13688790.2020.1751911",
+    "abstract": "This essay argues that criminality provides a critical magnifying lens to understand the network of subversive disconnections and disjunctures in postcolonial cities. By connecting the postcolonial city to the discourse on crime, it investigates the specific relations between exploitation, colonisation and the underworld. As crossroads of the different intersections of power determined by colonialism, decolonisation and globalisation (Rashmi Varma, The Postcolonial City and Its Subjects: London, Nairobi, Bombay, London, Routledge, 2011), postcolonial cities expose the many and varied entanglements between the informal economies in the Global North and South, between the legal and the unofficial. Starting with the assumption that colonialism is predicated upon the principles of Western modernity, this essay frames criminal organisations as forces acting in opposition to and in concurrence with the state. Whereas the discourses on criminality are conventionally employed to reinforce processes of ‘Othering’ and racialisation in fringe locations, they also have the potential to unveil the ‘hidden truths’ of Western urban modernity. To this end, this essay employs Christ Stopped at Eboli (Carlo Levi, London: Penguin, 1947), a novel that unveils the links between exploitation and illegality. The society portrayed in the text shows the manifestations of an ‘unauthorised modernity’ (Iain Chambers, Postcolonial Interruptions: Unauthorized Modernity, London and New York: Rowman and Littlefield, 2017); an alternative view of development that refashions the meaning of what is conventionally regarded as legal and accepted. © 2020, © 2020 The Institute of Postcolonial Studies.",
+    "source": "Postcolonial Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

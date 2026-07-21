@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1928-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bank secrecy, illicit money and offshore financial centers",
+    "authors": "Picard P.M.; Pieretti P.",
+    "year": "2011",
+    "doi": "10.1016/j.jpubeco.2011.01.004",
+    "abstract": "This paper discusses the effects of pressure policies on offshore financial centers as well as their ability to enforce the compliance of those centers with anti-money laundering regulations. Offshore banks can be encouraged to comply with rigorous monitoring of an investor's identity and the origin of his/her funds when pressure creates a sufficiently high risk of reputational harm to the investor. We show that such pressure policies harm both offshore and onshore investors and can benefit both the bank industry and tax administrations. We show that social optimal pressure policies are dichotomous decisions between no pressure at all and a pressure great enough to persuade offshore banks to comply. The delegation of pressure policies to onshore tax institutions may be inefficient. Deeper financial integration fosters compliance by the offshore center. © 2011 Elsevier B.V.",
+    "source": "Journal of Public Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

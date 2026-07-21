@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1702-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The puzzling resilience of transnational organized criminal networks",
+    "authors": "Leuprecht C.; Aulthouse A.; Walther O.",
+    "year": "2016",
+    "doi": "10.1080/15614263.2016.1168600",
+    "abstract": "Abstract: Why is transnational organized crime so difficult to dismantle? While organized crime networks within states have received some attention, actual transnational operations have not. In this article, we study the transnational drug and gun trafficking operations of the Shower Posse, a violent international organized crime syndicate based in Jamaica, whose resilience proves particularly puzzling. We were curious to know whether there is any evidence that international borders have an effect on the structure of illicit networks that cross them. It turns out that transnational drug distribution networks such as the Shower Posse rely on a small number of brokers whose role is to connect otherwise distinct domestic markets. Due to the high transaction costs associated with developing and maintaining transnational movement, the role of such brokers appears particularly important in facilitating the flow of illicit commodities across national borders. These brokers coordinate their own smaller subnetworks, while still maintaining the communication and collaboration necessary to ensure that the overall aims of the network are achieved. © 2016 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Police Practice and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0565-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Comparative Study of Multi-Tiered Dispute Resolution Clauses in Iran and England: Legal Frameworks and Enforceability",
+    "authors": "KhOShNAzAr M.F.; SABBAgh Y.A.",
+    "year": "2024",
+    "doi": "10.54648/EULR2024051",
+    "abstract": "Dispute resolution clause plays a pivotal role in international commercial contracts, shaping the way conflicts are resolved between parties from different legal and cultural backgrounds. this paper conducts a comprehensive comparative analysis of multi-tiered dispute resolution clauses within the legal frameworks of Iran and England. By examining these two distinct jurisdictions, we aim to provide valuable insights into the complexities and nuances of drafting and enforcing such clauses in international contracts. the paper begins by elucidating the concept of multi-tiered dispute resolution clauses and their significance in mitigating potential disputes. It delves into the specific legal framework of Iran and England, exploring the differences in legal systems, and arbitration laws that influence the effectiveness of such clauses in each jurisdiction. this comparative study evaluates the enforceability and practicality of multi-tiered dispute resolution clauses in both countries to illustrate the application and enforcement of these clauses. the findings of this research provide valuable guidance to international businesses and legal practitioners involved in cross-border transactions. It highlights the importance of tailoring dispute resolution clauses to the specific jurisdiction and the need for a nuanced understanding of legal and cultural factors when structuring such provisions. © 2024 Kluwer Law International BV, the Netherlands",
+    "source": "European Business Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

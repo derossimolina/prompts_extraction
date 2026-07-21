@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1318-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International regime of counteraction to laundering of proceeds of crime and financing of terrorism: Two vectors of evolution",
+    "authors": "Fomenko A.; Marchenko E.; Sydorov O.; Zhuravlov D.",
+    "year": "2020",
+    "doi": "10.21003/ea.V181-03",
+    "abstract": "The paper incorporates the substantiation for the two vectors of evolution of international regimes: 1) institutionalization and legal implementation of rules and principles of interaction between the states, which leads a regime to transform into an institution; 2) preservation of the exterior «softness» of the law, which serves as a bedrock for regime, with its de-facto acquisition of all attributes of legitimate legal tools. Illustrated through the example of intergovernmental body FATF, a research has been conducted on specific aspects of development and efficiency in the contemporary conditions of the regime of counteraction to the legalization (laundering) of proceeds of crime and financing of terrorism (AMF/CFT). Political will is a key to success in combating money laundering as a negative social phenomenon. The attempts by certain national leaders to maintain a neutral position or to use the tactics of «silent evasion» or «imitation of intensive activity with the actual total inaction» would lead to disastrous consequences in the nearest future in the majority of the underdeveloped and developing countries where political positions have been obtained by oligarchic clans which acquired their first earnings via illicit criminal activities. Projecting such way of living upon state administration has become a common practice in the post-Socialist states and serves as the most favourable ground for emergence of an entire conglomeration of such pseudo-statesmen. The authors' original term has been introduced into scientific circulation to identify the structure which emerges as a consequence of the development of the regime according to the second vector - «quasi-institutional body of intergovernmental influence». It has been asserted that in the conditions of centralization of the global financial system and growing threats of terrorism and extremism across the world the success of AML/CFT regime largely depends on determining a reasonable balance between strict institutionalization, provisions for compliance of national legal systems with global standards and democratization of foundations of cooperation between member states and inviolability of their sovereignty. © Institute of Society Transformation, 2020.",
+    "source": "Economic Annals-XXI"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

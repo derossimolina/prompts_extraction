@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1431-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The FATF’s customer identification framework: fit for purpose?",
+    "authors": "de Koker L.",
+    "year": "2014",
+    "doi": "10.1108/JMLC-01-2014-0003",
+    "abstract": "Purpose – This paper aims to investigate the purpose, reach and effectiveness of the customer identification framework of the Financial Action Task Force (FATF). Design/methodology/approach – The article draws on relevant research and documents of the FATF, the Basel Committee on Banking Supervision and the Alliance for Financial Inclusion to determine whether compliance with the standards and practices of the FATF would prevent anonymous usage of financial services. Findings – The FATF’s identification principles, guidance and practices resulted in processes that are largely bureaucratic and do not ensure that identity fraud is effectively prevented. Strict identification requirements on the other hand may impact on financial inclusion, leaving the FATF with little leeway to raise its standards. There are potential solutions, but they are longer-term and partial in nature. Originality/value – Current identification and verification practices affect the lives of millions of people around the globe. The measures are being enforced to ensure that users are appropriately identified. This article informs the debate by highlighting the weaknesses of the current approach. © 2014, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

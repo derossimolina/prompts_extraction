@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2437-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Negotiating office lease contracts From a game-theoretical towards a behavioural view",
+    "authors": "Pfrang, DC; Wittig, S",
+    "year": "2008",
+    "doi": "10.1108/17539260810891514",
+    "abstract": "Purpose - The paper aims at modelling a game-theoretical framework that covers the basic mechanisms of lease contract negotiations while making allowance for relevant behavioural aspects. Design/methodology/approach - Based on a review of literature about negotiation processes the work initially models, analyses, and solves lease contract negotiations as basic non-cooperative game situations. It develops a game-theoretical model based on the simple bi-matrix normal form and the Rubinstein bargaining game while successively approximating real estate practice by integrating behavioural concepts. Findings - On a conceptual level the work demonstrates that a game-theoretical modelling of lease contract negotiations allows for a systematic structuring of the conflict situation between landlords and tenants. Different market situations that affect the perception of utility of the negotiating parties, as well as the consequences of mutual concessions and the creation of additional negotiation subjects that enhance the perceived contract utility can be taken into account by integrating simple mental models. On a practical level the paper shows that brokers' influence on the behavior of the negotiating partners can contribute to the efficiency of negotiation processes and the perceived contract utility. It identifies mutual concessions and the creation of incentives and additional negotiation subjects as possibilities to improve the attractiveness of a lease contract and to reach more beneficial contract provisions. Originality/value - The paper offers a systematic examination of bargaining processes between landlords and potential tenants which can help professionals to understand lease contract negotiations as conflict situations and reach more profitable and satisfying results.",
+    "source": "JOURNAL OF EUROPEAN REAL ESTATE RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

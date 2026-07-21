@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1085-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hawala as credit: recognizing how hawala supports the business climate in Afghanistan",
+    "authors": "Rahimi H.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-07-2019-0053",
+    "abstract": "Purpose: The purpose of this study is to explore the role of hawala in supporting Afghanistan’s business climate. It illustrates the use of hawala as credit and its importance for the local merchant community. Design/methodology/approach: The empirical data presented in this article draws from more than 83 semi-structured interviews with Afghan merchants, business leaders, hawaladars and judicial officials, conducted between March and August 2017 in five major provinces of Afghanistan, namely, Kabul, Herat, Balkh, Nangarhar and Kandahar. These five provinces collectively represent half of Afghanistan’s economy, one-third of Afghanistan’s total population and more than four-fifth of Afghanistan’s urban population. The commercial courts that sit in these five provinces hear more than 90% of total commercial disputes in the country. Findings: In Afghanistan, despite their reputation for being the bankers of terrorists and criminals, hawaladars primarily serve Afghan merchants – the overwhelming majority of their customers – helping them cope with an uncertain business climate. Within supply chains, Afghan importers rely on credit-hawala to protect themselves from the interruptions of cash flow that are prevalent throughout the Afghan economy. Practical implications: Drawing on extensive field research, this article highlights how hawala stabilizes financing and markets in Afghanistan, arguing that while hawala regulations are necessary to counter abuse of hawala, regulators must be cognizant of how hawala is used in financing of legitimate businesses, or they will exacerbate the problems of access to credit. Originality/value: While the historical studies of hawala reveal its inextricable link with trade financing, the current hawala literature completely neglects hawala systems’ contemporary financing role. Instead, the literature is completely dominated by the globalization trend of terrorism, money laundering and worker migration. Neglecting the trade financing role of hawala causes policymakers not to appreciate the impacts of hawala regulations on the trade fully. Overlooking hawalas’ role in financing transnational trade also results in the exclusion of an important group of stakeholders – namely, merchant-users of hawala services who are the main beneficiaries of hawaladars’ financing services – from the process of regulation of hawala systems. The main reason that hawala regulations have failed to gain tractions in countries such as Afghanistan is that these regulations have not been cognizant of the multifaceted functions of hawala markets and do not include all stakeholders in the regulation process. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

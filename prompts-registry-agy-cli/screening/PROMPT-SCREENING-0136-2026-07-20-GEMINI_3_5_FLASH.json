@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0136-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A theoretical and systematic examination of finance in strategic niche management",
+    "authors": "O'Connell A.-L.; Schot J.",
+    "year": "2025",
+    "doi": "10.1016/j.eist.2025.100991",
+    "abstract": "Financing sustainable technologies for energy transitions is a major policy focus in the Global South, where financing constraints have long hampered economic development. This paper focuses on Strategic Niche Management (SNM) as a framework to guide policymaking for sustainable innovation and transitions. While finance is central to niche processes, its theoretical role in niche development remains underexplored. To address this gap, we develop the concept of the mediation junction and use a mechanisms-based approach to examine how finance interacts with protected spaces as a multi-scalar, multi-level phenomenon. We map three causal pathways through which interactions shape protected spaces, conceptualise a mediating role to articulate structuring effects and propose a method for identifying finance co-evolution and loci of stability as potential sites for radical change. Key strategic insights include small-scale experiments to challenge entrenched financing structures while safeguarding against financial system destabilisation and reprisals from powerful actors. © 2025",
+    "source": "Environmental Innovation and Societal Transitions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0425-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cybercrime and virtual laundering in video game marketplaces: A Bayesian P-inductive argument",
+    "authors": "Higgs J.; Flowerday S.",
+    "year": "2025",
+    "doi": "10.1016/j.techsoc.2025.102978",
+    "abstract": "Virtual assets distributed in online video games are a novel medium of exchange that are exploited for fraud and money laundering because of the low-risk environment within which the assets are exchanged. Virtual asset marketplaces inadvertently facilitate money laundering operations by functioning as critical entry and exit points for illicit proceeds. While prevailing scholarly discussion emphasizes the suitability of online video games to small-scale laundering operations, this paper challenges that perspective. A three-part argument is formulated which demonstrates the occurrence of large-scale money laundering in the online video gaming ecosystem. Analyzing virtual asset sales on three marketplaces over a 12-month period reveals significant marketplace vulnerabilities which can (and are) exploited by cybercriminals. Employing Bayesian confirmation theory, this paper combines empirical analysis with further corroborating items of evidence to demonstrate the occurrence of large-scale virtual laundering. The results provide scholars, practitioners and regulatory bodies a foundation on which future interdisciplinary research and discussion can build to mitigate cybercrime-related harms inflicted on society. © 2025",
+    "source": "Technology in Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0426-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The magnitude and consequences of money laundering",
+    "authors": "Nazar S.; Raheman A.; Anwar ul Haq M.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-09-2022-0139",
+    "abstract": "Purpose: This study aims to estimate the amount of money laundering (ML) with multiple proxy approaches and measure the effects of ML on various indicators of the economic and financial sectors. Theoretical justifications are recruited from the parasite theory of organised crime. Design/methodology/approach: A quantitative research methodology was used on a balanced panel data set to test the study’s hypothesis through generalised method of moment (GMM). The study sample consisted of 77 countries, and the data was collected for 15 years (2005–2019). Findings: A study has found that 1.23% of global gross domestic product is laundered yearly, and there is no noticeable decline in ML activities. Further study has also found that ML has devastating effects on countries, government revenue, foreign investment, economic development, political and peace conditions, bank liquidity, interest rate volatility and exchange rate volatility. The study has not witnessed the negative consequence of ML on countries’ inflation rates. Practical implications: Estimates of the study guide policymakers about the volume of resources fleeing and helps them to decide the level of response needed. Further findings help them prioritise the response system according to the area most affected. Originality/value: This study is an original contribution by the authors and has studied the effects of ML by computing the amount of ML by four different proxies. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

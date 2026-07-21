@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1253-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "New regulations to counteract money laundering in the trading of works of art. Between the implementation of AMLD V and the systemic solution; [Nowe regulacje dotyczące przeciwdziałania praniu pieniędzy w obrocie dziełami sztuki. Między implementacją V AMLD a rozwiązaniem systemowym]",
+    "authors": "Szafrański W.",
+    "year": "2021",
+    "doi": "10.4467/2450050XSNR.21.006.14595",
+    "abstract": "Implementing the 5th AML (Anti-Money Laundering) Directive in the form of a 2021 amendment to the Act on Counteracting Money Laundering and Terrorism Financing in Poland is of funda-mental importance for the market. It will be binding upon entities such as entrepreneurs operating in the field of trading in works of art, collectors’ items, and antiques covered by transactions worth at least 10,000 euros. The AML Directive presents a fragmentation of the Polish legal regulations on trade and thus the obligations imposed on intermediaries in the art market, depending on whether the regulations are developed based on cultural heritage protection regulations or economic and financial regulations. It shows the in-compatibility of concepts used in both fields and the range of mean-ings of legal concepts that are directly relevant for the law’s applica-tion, and the specification of obligations imposed on entrepreneurs specialized in the trade of what is broadly understood as cultural goods. The essential elements of AML, crucial for entities operating in the art market, were presented. Attention was also paid to further work on trading regulations based on the due diligence model. © 2021, Jagiellonian University Press. All rights reserved.",
+    "source": "Santander Art and Culture Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

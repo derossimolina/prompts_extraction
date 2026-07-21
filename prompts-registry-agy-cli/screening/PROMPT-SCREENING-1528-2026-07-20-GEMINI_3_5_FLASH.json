@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1528-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The limits of material benefits: Remittances and pro-americanism in Mexico; [Los Límites de los beneficios materiales: Remesas y Pro-Americanismo en México]",
+    "authors": "Meseguer C.; Jaupart P.; Aparicio J.",
+    "year": "2017",
+    "doi": "10.1177/1866802x1700900201",
+    "abstract": "We explore how the reception of remittances affects perceptions of the bilateral relationship between Mexico and the United States. Scholars have claimed that the economic benefits of the relationship with the US prevail over imperialistic concerns as a result of the asymmetry of power between the two countries. Empirical research shows that Latin American public opinion is indeed more supportive of the US than theory indicates. However, we identify two gaps in this literature. First, scholars have explored the determinants of generic expressions of sentiment toward the US, overlooking more concrete instances of cooperation between the two countries. Second, scholars have focused on trade and investment and have ignored how the material gains of emigration shape attitudes toward the US. The present paper fills these two gaps by using novel survey data on the bilateral relationship between Mexico and the US. On one hand, we find that while the reception of remittances correlates positively with good sentiments toward the US, the recipients of remittances are consistently more opposed to cooperation with the US in the fight against drug trafficking. We argue that this finding can be explained by the different nature of the migratory phenomenon, and the connection between anti-drug trafficking policies and the close scrutiny of illegal flows of money and people. © 2017, GIGA German Institute of Global and Area Studies. All rights reserved.",
+    "source": "Journal of Politics in Latin America"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

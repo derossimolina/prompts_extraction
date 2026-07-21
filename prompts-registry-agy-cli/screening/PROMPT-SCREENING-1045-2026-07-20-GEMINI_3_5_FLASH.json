@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1045-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrencies and financial crime: solutions from Liechtenstein",
+    "authors": "Teichmann F.M.J.; Falker M.-C.",
+    "year": "2021",
+    "doi": "10.1108/JMLC-05-2020-0060",
+    "abstract": "Purpose: The purpose of this paper is to illustrate how cryptocurrencies are being used as a vehicle for financial crime (such as money laundering, terrorist financing and corruption) and propose a more effective international standard for regulation that uses the Liechtenstein blockchain act as a benchmark. Design/methodology/approach: This paper investigates how cryptocurrencies facilitate financial crime through a qualitative study consisting of interviews with 10 presumed providers of illegal financial services and 18 international compliance experts. Findings: This study shows that cryptocurrencies are a highly suitable vehicle for money laundering, terrorist financing and corruption and that current compliance efforts in the cryptocurrency sector are ineffective. Research limitations/implications: The presented findings illustrate that for a more effective combat of financial crime via cryptocurrency, an international standard for blockchain and cryptocurrency regulation must be created. This paper suggests that Liechtenstein’s innovative and comprehensive blockchain act could be used as a basis for said standard. Practitioners should also consider cooperating transnationally when prosecuting financial crime via cryptocurrency. Originality/value: The fact that cryptocurrencies facilitate financial crime is widely known. However, this study combines the perspectives of both compliance experts and presumed criminals to gain a comprehensive understanding of the techniques that money launderers, terrorist financiers and corrupt public officials use. This paper examines the potential for the innovative Liechtenstein blockchain act, which has, thus, far not received empirical attention, to set the benchmark for international regulations. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

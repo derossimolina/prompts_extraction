@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0755-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Leveraging the Legal Entity Identifier to mitigate the risk of financial crime and enhance fraud prevention in cross-border payments",
+    "authors": "Rowley C.",
+    "year": "2024",
+    "doi": "10.69554/fumw3631",
+    "abstract": "While today’s global digital economy promises a new era of commerce, its sheer complexity also presents opportunities for malicious actors to perpetrate money laundering, terrorism financing, and other forms of financial crime. Despite the escalating compliance costs faced by financial institutions needing to meet increasingly rigorous anti-money laundering (AML), counter-terrorist financing (CTF) and sanction screening obligations, the lack of harmonisation within cross-border data flows inhibits the identification of suspicious actors and exposure of criminal networks. This contributes to a cross-border payments ecosystem that can be broadly characterised by limited trust, high costs, low speed and insufficient transparency. This is leading to increasing industry recognition of the need to promote unified, data-driven approaches to combating financial crime globally. In view of this growing consensus, the Legal Entity Identifier (LEI) is emerging as a key enabler. This paper examines the drivers of this consensus by: (1) detailing findings from key industry organisations, such as the Bank for International Settlements (BIS) and Financial Action Task Force (FATF), outlining the need to increase data quality and standardisation of the data identifiers used within cross-border payment messages to counter complex global criminal enterprises; (2) outlining regulatory and industry momentum to leverage the unique benefits of the LEI within cross-border payment messages, to include an analysis of the implications and opportunities of ongoing initiatives to enhance payment market infrastructures; and (3) demonstrating how, by addressing inconsistencies in how legal entities are identified, connecting a greater range of datasets, and capturing entity relation-ships and ownership structures, the LEI mitigates AML–CFT risks, enhances fraud prevention, and supports more efficient sanction screening in cross-border payments. This is supported by examples of real-world industry initiatives. © Henry Stewart Publications.",
+    "source": "Journal of Payments Strategy and Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

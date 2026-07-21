@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1862-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Evaluation of cyber legislations: trading in the global cyber village",
+    "authors": "Jahankhani H.",
+    "year": "2007",
+    "doi": "10.1504/IJESDF.2007.013588",
+    "abstract": "The menace of organised crime and terrorist activity grows ever more sophisticated as the ability to enter, control and destroy our electronic and security systems grows at an equivalent rate. Cyber-crime (organised criminal acts using microchip and software manipulation) is the world’s biggest growth industry and is now costing an estimated $220 billion loss to organisations and individuals, every year. There are serious threats to nations, governments, corporations and the most vulnerable group of all, individuals. Cyber-crime combines the same methods of traditional crime identifying targets, using surveillance and psychological profiling but has added-in levels of duplicity in that the perpetrator need never actually be at the scene of the crime. Indeed the traditional idea of a criminal gang is meaningless in that the unit may exist but each member resides on a different continent and never needs to physically meet. The types of attack individuals face include confidence-trick telephone calls or actual encounters calculated to extract bank or personal details, computer spyware that opens on accessing the internet, enticing users with offers of non-existent free gifts while copying confidential files and programmes that can infiltrate networks, operating within them undetected, ultimately causing them to crash. Information and services provided on the internet which can be utilised by any person(s) with access bring to fore the concept of legislations. Thus cyber laws and legislations refers to those guidelines and regulations put in place to ensure that information and services so displayed and acquired on the internet meet a standard within the e-society. This paper aims to review these legislations and showcasing their impact and relevance to the society for which they are formulated. Finally, the question whether the current internet legislation is adequate to protect society is also raised. © 2007 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Electronic Security and Digital Forensics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

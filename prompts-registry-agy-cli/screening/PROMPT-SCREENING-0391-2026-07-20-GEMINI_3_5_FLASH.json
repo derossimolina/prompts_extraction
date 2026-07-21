@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0391-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crypto Crashes: An examination of the Binance and FTX scandals and associated accounting challenges",
+    "authors": "Tiwari M.; Zhou Y.; Ferrill J.; Smith M.",
+    "year": "2025",
+    "doi": "10.1016/j.bar.2025.101584",
+    "abstract": "This article offers a comprehensive analysis of the treatment of cryptocurrencies and cryptocurrency exchanges in accounting, emphasizing the challenges they present to traditional accounting and auditing practices within current regulatory frameworks. The cryptocurrency sector has experienced multiple disruptions in recent years. By analysing two case studies representing such disruptions – Binance and FTX – the article presents red flags and extracts crucial lessons to help avoid similar episodes. The article finds that both cases, while distinct from each other, present similar lessons that should be noted by practitioners, regulators, and for the overall structure of blockchain platforms. These include lessons on risk management and investment diversification, corporate governance and ethical practices, transparency and disclosure requirements, and robust compliance frameworks. By examining the operational and financial indicators that were overlooked in these instances, the article aims to inform stakeholders—including investors, practitioners, and regulators—on best practices for cryptocurrency exchanges. It emphasizes the importance of sound corporate governance, effective risk management, and enhanced transparency to improve overall regulatory compliance and auditing effectiveness in the cryptocurrency sector. © 2025 The Authors",
+    "source": "British Accounting Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

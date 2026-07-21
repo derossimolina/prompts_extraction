@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2046-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Role of habitat and landscape in structuring small mammal assemblages in hedgerow networks of contrasted farming landscapes in Brittany, France",
+    "authors": "Michel N.; Burel F.; Legendre P.; Butet A.",
+    "year": "2007",
+    "doi": "10.1007/s10980-007-9103-9",
+    "abstract": "In this study, we investigated the environmental factors driving small mammal (rodents and shrews) assemblages in permanent habitat patches in response to a gradient of agricultural intensification. Small mammals were sampled using a trapping standard method in the hedgerow networks of three contrasted landscapes differing by their level of land-use intensity and hedgerow network density (BOC1: slightly intensified; BOC2: moderately intensified and POL: highly intensified). We hypothesized that habitat and landscape characteristics have to be considered to understand the structure of local community. In that way, we carried out a multi-scale study using environmental variables ranging from local habitat (structure and composition of the hedgerows) to hedgerows neighbourhoods in a radius of 300 m (land cover and connectivity around hedges) and to landscape units (three sites). During 1 year, 24 hedgerows were sampled seven times, representing a total of 1,379 captures (86% of rodents and 14% of shrews) and eight species, dominated by the wood mouse (Apodemus sylvaticus) and the bank vole (Clethrionomys glareolus). Inter-site variability was significant and accounted for 18% of total variation in small mammal species abundances. But intra-site variability was also highlighted: species abundance profiles may differ greatly among hedgerows within a site. The more explanatory variables were identified at the different scales of the study: the landscape unit POL was shown to be an important factor in structuring the community, but the predominant factors explaining differences of abundances among hedgerows were about local habitat. In fact, the width of hedges and the tree species richness appeared to be significant and explaining the greatest part of the total variation of the small mammal community composition. © 2007 Springer Science+Business Media B.V.",
+    "source": "Landscape Ecology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

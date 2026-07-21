@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0416-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "GRA-FIN: New method of large graphs reduction for financial transactions and financial crime analysis",
+    "authors": "Kozik R.; Gocał P.; Choraś M.",
+    "year": "2026",
+    "doi": "10.1016/j.knosys.2026.115943",
+    "abstract": "Context: In this paper, the problem of large-volume financial data (represented as graphs) analysis was tackled in order to effectively detect and counter serious financial crime. Objective: The goal of this work was not only to design and develop an original scientific method to reduce large graphs, but also to apply it in much needed practical application of large financial crime data analysis. This approach allows for reducing graphs while preserving critical information and allows for reducing the cognitive load of end users. Methods: This work proposes an original method of large graphs simplification, combining innovative noise elimination and edge trimming techniques. The proposed edge trimming algorithm uses an assessment of their significance through a scoring mechanism. Results: For evaluation, realistic and diverse datasets were prepared in collaboration with human analysts who are professionals in financial crime analysis. The experiments include various metrics and evaluation methods, ensuring a reliable evaluation. The results of the algorithm were compared with those of other methods in the literature. The method is being deployed in a real system to help analysts and law enforcement agencies to counter complex financial crimes. © 2026 Elsevier B.V.",
+    "source": "Knowledge-Based Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

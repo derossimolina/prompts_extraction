@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1948-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Discussion on the role of epistemic community in Russian AML regime",
+    "authors": "Subbotina N.",
+    "year": "2009",
+    "doi": "10.1108/13685200910973637",
+    "abstract": "PurposeThe purpose of this paper is to open a theoretical discussion on the preventive anti&hyphen;money laundering &lpar;AML&rpar; regime, both international and domestic in Russia, building theoretical assumptions on the role of epistemic community in the AML network in Russia. Design&sol;methodology&sol;approachThe discussion is based on the analysis of the preventive pillar of the AML regime in Russia. Cognitive &lpar;or knowledge&hyphen;based&rpar; approach is used to study domestic AML regime and to reveal the main reason of the network deficiencies in Russia. FindingsThe paper argues that the representatives of banking community in Russia should play the role of epistemic community to foster better understanding of the context and purposes of the AML regime, thus, decreasing uncertainty, facilitating cooperation between the stakeholders, and eventually having a great influence on the quality of the AML regulations elaborated by the policy makers. Research limitations&sol;implicationsThe paper limits its scope to the study of money laundering &lpar;ML&rpar; prevention focusing on the financial institutions – banks – which play the most important role in Russian AML network. Practical implicationsThe paper reveals the roles of the main actors of Russian AML regime play. The ineffectiveness of the regime could be eased by increasing communication and cooperation between the stakeholders. The formal compliance approach used by the regulator in the financial sector supervision has not been effective and should be reviewed with the shift to the reasonable judgment approach used by both supervisor and financial institutions to prevent ML in Russia. Originality&sol;valueStudies of the peculiarities of the AML legislation implementation in different countries is one of the helpful tools to measure the efficiency of the global AML regime. © 2009, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

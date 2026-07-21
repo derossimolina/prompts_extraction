@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0173-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A brief history of financial crime in comparative perspective. The case of the European Union EU and Jordan in the 21st century; [Breve historia de los delitos financieros en perspectiva comparada. El caso de la Unión Europea UE y Jordania en el siglo XXI]",
+    "authors": "Jadallah Khasawneh A.; Faleh Alazzam F.A.; Bani-Meqdad M.A.M.; Khalina O.",
+    "year": "2025",
+    "doi": "10.5281/zenodo.14567291",
+    "abstract": "This article describes the dialectical development of financial crimes in the European Union and Jordan during the 21st century from the perspective of critical criminology. The methodology combines a comparative documentary analysis of legislation, institutional frameworks, and jurisprudence, with a qualitative approach based on legal hermeneutics. Critical criminology questions the social construction of financial crime and explores how structural inequalities and the interests of economic elites have shaped institutional responses. It argues that, despite cultural and legal differences, both the EU and Jordan have experienced selective criminalization that tends to protect the most powerful actors in the financial system. By way of contribution, this study contributes to a critical understanding of how power and inequality influence the conceptualization and social control of economic criminality at the transnational level. In conclusion, if diverse methodologies and theoretical approaches are harmoniously articulated, a more complete vision can be obtained, one that not only identifies the specific characteristics of the phenomenon in each region, but also recognizes the global interconnections that underlie the commission of economic crime as a transnational phenomenon. © 2025, Ediciones Clio. All rights reserved.",
+    "source": "Clio. Revista de Historia, Ciencias Humanas y Pensamiento Critico."
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

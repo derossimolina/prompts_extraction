@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0035-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "(Risk Assessment of Money Laundering and Terrorism Financing in the Labuan International Business and Financial Centre); [PENILAIAN RISIKO PENGUBAHAN WANG HARAM DAN PEMBIAYAAN KEGANASAN DI PUSAT PERNIAGAAN DAN KEWANGAN ANTARABANGSA LABUAN]",
+    "authors": "Mohamad A.A.S.; Tajuddin A.T.M.; Wahid H.",
+    "year": "2025",
+    "doi": "10.32890/uumjls2025.16.2.9",
+    "abstract": "This study assessed the risks of money laundering and terrorist financing at the Labuan International Business and Financial Centre (Labuan IBFC). Using a qualitative approach with document content analysis, this research examined the causes, implications, and risk levels of ML/TF, as well as the effectiveness of enforcement measures taken by authorities. The study also evaluated existing guidelines set by the Malaysian government and international institutions such as the FATF. The findings indicated that Malaysia's strategic location, economic openness, and strong banking secrecy make Labuan IBFC a prime target for ML/TF activities. The study identified those weaknesses in law enforcement and financial transaction monitoring as contributing to high risks. Additionally, the research emphasises the importance of international cooperation and the use of modern technology in detecting and preventing ML/TF. The study suggested several measures to enhance enforcement effectiveness, including updating the legal framework, increasing industry awareness, and adopting a risk-based approach. The proposed policy implications aimed to strengthen the integrity and stability of Malaysia's financial system and reduce ML/TF risks at Labuan IBFC. © 2025 Universiti Utara Malaysia Press. All rights reserved.",
+    "source": "UUM Journal of Legal Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2168-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Overseeing and overlooking: The US federal authorities' response to money laundering and other misconduct at BCCI",
+    "authors": "Passas N.; Groskin R.B.",
+    "year": "2001",
+    "doi": "10.1023/A:1011233704064",
+    "abstract": "This article examines evidence from the case of the Bank of Credit and Commerce International (BCCl) affair, one of the largest international financial frauds in history, to illustrate the effects of a crime-facilitative environment in the international banking community. We argue that the official response to BCCI-related law violations was hampered by (1) A fragmented and compartmentalized approach to regulation and law enforcement; (2) conflicting political and policy objectives among different government agencies; (3) the ability of corporations to buy influence and affect official controls; (4) legal restraints undermining the ability to control transnational offenders. None of these problems has been effectively addressed in the aftermath of the scandal. The chances that such affairs will happen again are therefore quite high.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

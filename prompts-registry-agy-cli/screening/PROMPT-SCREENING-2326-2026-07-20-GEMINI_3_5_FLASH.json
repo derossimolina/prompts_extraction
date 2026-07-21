@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2326-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banks bitten bymortgage fraud . . . butwill bite back",
+    "authors": "Isaacs, M",
+    "year": "2008",
+    "doi": "10.1080/17521440.2008.11427990",
+    "abstract": "The Financial Services Authority recently announced measures to tackle the rising incidence of mortgage fraud, 1 including the expansion of its scheme encouraging lenders to report fraudulent mortgage brokers. It also plans to spot-check 200 mortgage brokers to inspect their financial crime systems and controls. With the Law Society also expressing concern that lawyers are not paying attention to its new guidance (which replaced the Green Card in March 2008), and cases now being brought against valuers and solicitors, mortgage fraud is now firmly back on the agenda. Storm clouds are rising for lenders and professionals who have been involved.",
+    "source": "LAW AND FINANCIAL MARKETS REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1697-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The analysis and containment of organized crime and transnational organized crime: an interview with Ernesto U. Savona",
+    "authors": "Calderoni F.",
+    "year": "2015",
+    "doi": "10.1007/s12117-014-9232-x",
+    "abstract": "This interview with Ernesto Savona was conducted in 2014. It discusses Savona’s background, influences, career and current thinking and activities. After graduating in 1965 in Palermo, he has worked at Rome “La Sapienza”, Trento and Cattolica del Sacro Cuore of Milan universities. His expertise in the study of organized crime led to him being made consultant to the United Nations, the Council of Europe, the European Union and several national governments. From 1990 to 1994 he was visiting fellow and project director at the National Institute of Justice, the Research Center of the U.S. Department of Justice, Washington D.C., where he managed two projects on organized crime and international money laundering. For the term 2003–2004, he has been president of the European Society of Criminology. From 2003 on he has been editor-in-chief of the European Journal on Criminal Policy and Research. For the term 2010/2011 he has been chair of the Global Agenda Council on Organized Crime of the World Economic Forum. In 1994 he set up Transcrime as a research group on transnational crime located in the Catholic University of Milan and the University of Trento. Transcrime analyses organized crime, illegal markets and money laundering, evaluates crime prevention policies, identifies criminogenic opportunities in legislation and develops risk analyses and criminal risk models for both governments and private sector actors such as banks, professionals and business interests. © 2014, Springer Science+Business Media New York.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

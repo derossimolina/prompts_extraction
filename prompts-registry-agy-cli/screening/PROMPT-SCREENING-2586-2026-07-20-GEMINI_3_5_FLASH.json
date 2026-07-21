@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2586-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ECONOMIC POLICY OF THE STATE IN CONDITIONS OF INFORMATIZATION OF HEALTH CARE IN UKRAINE AS AN INTEGRAL PART OF THE SOCIAL SPHERE",
+    "authors": "Arifkhodzhaieva, T; Ponomarenko, I",
+    "year": "2021",
+    "doi": "10.30525/2256-0742/2021-7-5-228-234",
+    "abstract": "The purpose of the article is to analyze domestic and international legal norms on the protection of medical information in order to improve the system of national legislation in the field of health care. The methodological basis of this study is a system of methods, the set of which is determined by the purpose and features of the study: dialectical, systemic, system-structural, analytical-synthetic, comparative-legal methods of analysis of domestic and international legal regulation of economic policy of the state in the conditions of informatization of health care of Ukraine. It argues that Ukraine, seeking to integrate into the European space and building its own strategy of economic development, must be clearly aware of both its capabilities and external factors of influence. The choice of possible alternatives is too complex a task, but the leading idea of socio-economic policy should remain the desire to ensure sustainable economic development of the country. In particular, the following is analyzed: recent international and domestic normative acts regulating state economic policy activities in the field of health care informatization in Ukraine: in particular, General Data Protection Regulation of the European Union (GDPR), CMS Interoperability and Patient Access Final Rule, ONC's Cure Act Final Rule, Order of functioning of the electronic health care system of Ukraine; materials of judicial practice, including materials of cases of the European Court of Human Rights, the results of sociological research. A comparative analysis of the GDPR and the Health Insurance Portability and Accountability Act (HIPAA) was conducted. The main problematic issues of state economic policy in the context of health informatization in Ukraine are highlighted. Compared to previous regulations governing medical data, the GDPR pays much more attention to the implementation of new requirements that have arisen due to the growing digitalization of healthcare, and therefore may contribute to strengthening their protection. Results. It is theoretically substantiated that quality medical reform is possible only with the introduction of modern methods of informatization and, consequently, information protection. As the analysis has shown, currently in Ukraine the legal system providing information protection in the medical sphere needs immediate improvement. This requires: systematizing and codifying national legislation in accordance with European legal norms and international law; developing a comprehensive legislative act, which would regulate the collection, protection and transition of medical information at the legislative level, following the example of GDPR (for structuring the medical information system, ensuring mandatory certification for information protection, development of cryptography/encryption technologies, delimitation of rights of access to information for medical workers, ensuring access to information with mandatory use of electronic signature, medical workers need to take short courses and register with information security specialists (defined access rights and the ability to change the level of access, provide input for identification and authentication), correcting data and entering new information is carried out with a confirmation of electronic signature, develop an algorithm for transferring information between medical institutions).",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1068-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of the Fourth Anti-Money Laundering Directive on the valuation of EU banks",
+    "authors": "Premti A.; Jafarinejad M.; Balani H.",
+    "year": "2021",
+    "doi": "10.1016/j.ribaf.2021.101397",
+    "abstract": "Anti-money laundering regulations have costs and benefits for banks. To better understand how these regulations affect banks, we study the valuation effects of the Fourth Anti-Money Laundering Directive (4AMLD) on a sample of European banks. First, using eight significant 4AMLD-related events between the initial announcement (February 5, 2013) and the final enactment (June 26, 2015), we show that the 4AMLD had a positive valuation effect on European banks and helped reduce their systematic risk. Then, using a cross-sectional model, we find that the positive valuation effect was higher for riskier, larger, and more profitable banks with more non-traditional revenue streams, as well as banks operating in rich countries, countries with less effective corporate governance, and countries with higher perception of corruption. These findings provide a better understanding of how anti-money laundering regulations affect banks in order to assist regulators in shaping future policies, as well as bank managers and investors in making better financial and investment decisions. © 2021 Elsevier B.V.",
+    "source": "Research in International Business and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

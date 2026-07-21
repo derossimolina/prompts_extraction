@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2356-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Jurisdictional challenges in the implementation of customer due diligence in financial institutions of developing countries",
+    "authors": "Sultan, N; Hussain, D; Mohamed, N; Latif, HM; Passas, N",
+    "year": "2025",
+    "doi": "10.1108/QRFM-09-2024-0282",
+    "abstract": "PurposeThe purpose of this study is to investigate the jurisdictional challenges faced by Pakistani financial institutions (FIs) while implementing robust anti-money laundering/counter financing of terrorism regulations concerning customer due diligence.Design/methodology/approachThis study adopted a semi-structured interview technique - the informants include compliance officers from FIs, their regulators and law enforcement agencies.FindingsBecause of its unique geopolitical location and circumstances, including geographical, political, economic, social and cultural, Pakistan faces several challenges. For example, border management and hostility from neighbours coupled with smuggling and trafficking created a challenging environment to implement anti-money laundering/counter financing of terrorism measures. Additionally, the undocumented economy and the massive availability of alternative financial channels made it more difficult. Further, distrust of the public in the financial and public sectors, boosted by uneven tax policies, impedes the implementation. Furthermore, concentration and distrust of FIs resulted in financial exclusion.Originality/valueThere are rare studies on this topic specifically in developing jurisdictions context.",
+    "source": "QUALITATIVE RESEARCH IN FINANCIAL MARKETS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1468-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Shedding Light on Shadow Banking: The Money or Value Transfer Service Regime in Australia and Its Origins",
+    "authors": "Goldbarsht D.",
+    "year": "2018",
+    "doi": "10.1177/0022018318773206",
+    "abstract": "Excessive regulatory practices to combat anti-money laundering (AML) have the potential to ‘de-bank’ entire regions and deprive certain communities of their participation in traditional financial markets. While protecting the integrity of the global financial system and shutting down some illicit activities, this may also facilitate the development of alternative remittance systems (ARSs) and payment mechanisms, the so-called shadow banking systems, where AML compliance is not adequate. This article will critically re-examine the relationship between the overregulation of financial markets and the shift to ARSs. It will propose a new take on ARS to include illicit activities through an international network of financial institutions and the need for the regulators to consider a better methodology for detecting ARSs outside the conventional financial sector to deal with this problem. © The Author(s) 2018.",
+    "source": "Journal of Criminal Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

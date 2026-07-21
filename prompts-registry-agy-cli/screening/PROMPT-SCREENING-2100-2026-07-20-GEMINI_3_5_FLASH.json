@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2100-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Of clouds and clocks and Keynes: Conceptions of reality and the growth of knowledge function of money",
+    "authors": "Wible J.R.",
+    "year": "1995",
+    "doi": "10.1080/09538259500000043",
+    "abstract": "In this paper, John Maynard Keynes' General theory and the concept of money are given an evolutionary interpretation. This interpretation is based on Karl Popper's delightful essay ‘Of clouds and clocks: an approach to the problem of rationality and the freedom of man’. The essay presents two things: Popper's conception of indeterminism and his general theory of abstractions. Popper's general theory concerns the role of abstractions and rule-governed, hierarchical systems of abstractions in structuring an indeterministic and uncertain world. He applies his general theory to science. Popper maintains that science is an abstract, rule-governed, linguistic process that facilitates criticism as a way of learning about our world. Popper calls this the growth of knowledge function of science. Popper's general theory can be applied to Keynes' General theory. Following Popper, I argue for a conception of the economy as a rule-governed, monetary language of commerce that facilitates critically minded inquiry in the domain of ordinary economic transactions. A monetary system facilitates the growth of common-sense knowledge in the economy. I call this the growth of knowledge function of money. An awareness of indeterminism and a growth of knowledge like function of money seem to pervade Keynes' General theory. © 1995, Taylor & Francis Group, LLC. All rights reserved.",
+    "source": "Review of Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

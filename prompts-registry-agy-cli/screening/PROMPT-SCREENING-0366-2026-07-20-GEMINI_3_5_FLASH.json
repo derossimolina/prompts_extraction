@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0366-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The nexus between cocaine trafficking and underground banking",
+    "authors": "Soudijn M.; Harteveld A.; Peters J.; Cuijpers T.",
+    "year": "2025",
+    "doi": "10.1080/17440572.2025.2553242",
+    "abstract": "Court cases and literature about money laundering have shown that numerous drug traffickers are facilitated by underground bankers. However, the extent to which drug trafficking is linked to underground banking remains unclear. To gain a better understanding of this issue, data from a seized encrypted communication service were analysed, comprising 7,140 accounts involved in cocaine trafficking in the Netherlands and 116 accounts offering underground banking services. The analysis resulted in three main findings. Firstly, 7.6% of the cocaine-related accounts had direct contact with underground bankers, while 66% were linked through second-degree connections. Secondly, based on a content search using keywords related to underground banking, these percentages increased to 17.3% for direct contacts and 92.6% for second-degree contacts. Thirdly, community detection showed that between 85% and 95% of the drug trafficking networks were connected to underground bankers. These findings indicate that wholesale cocaine trafficking and underground banking are highly interconnected. © 2025 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

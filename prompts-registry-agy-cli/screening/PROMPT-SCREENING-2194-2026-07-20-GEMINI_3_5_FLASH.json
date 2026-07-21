@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2194-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mafia markers: Assessing organized crime and its impact upon societies",
+    "authors": "van Dijk J.",
+    "year": "2007",
+    "doi": "10.1007/s12117-007-9013-x",
+    "abstract": "This study develops a causal model of the independent effect of organized crime, rule of law, and corruption on national wealth. To measure the level of organized crime a Composite Organized Crime Index (COCI) is constructed combining data on the perceived prevalence of organized crime, unsolved homicides, grand corruption, money-laundering and the extent of the black economy, drawing on the World Economic Forum's annual surveys among CEOs of larger companies, the Merchant International Group's assessments of investment risks in 150 countries, studies by the World Bank Institute, and official crime statistics. The findings of the explorative analysis show that a political strategy of tolerating activities of local criminal groups in the hope of beneficial effects on the wealth of a nation is unlikely to bring the expected results. Although some types of organized crime may bring in significant revenues, tolerating Mafia-type activities implies letting the Trojan horse of racketeering and grand corruption into the walls of government. © 2007 Springer Science & Business Media, LLC.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

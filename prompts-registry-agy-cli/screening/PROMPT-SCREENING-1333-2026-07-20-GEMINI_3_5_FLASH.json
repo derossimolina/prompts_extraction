@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1333-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Unpacking the laundry machine: Why is dirty money in the social club?",
+    "authors": "Nkoane P.",
+    "year": "2019",
+    "doi": "10.1163/17087384-12340035",
+    "abstract": "The article provides an overview of the methods accepted to be critical for the laundering of illicit property, i.e. placement, layering, and integration. This is done to inform the reader of the obscurity the methods provide to illicit property and the possible costs involved. It is submitted that these typical methods would only be necessary when organised criminals launder huge sums of money. The article illustrates that when laundering relatively smaller amounts criminals prefer other cheaper methods to achieve the same end. The article, therefore, undertakes an objective analysis of the techniques of money laundering likely to be orchestrated in the South African social clubs schemes. The focus is on social organisations that engage in collecting money from members to deposit into a single account for a common goal. These organisations are termed stokvels. It is submitted that some of the collected amounts may not come from licit activities and may be highly difficult to identify. The article analyses the reason why people use social clubs and proposes methods that could be used to stall the refining of illicit money in such schemes. © Koninklijke Brill NV, Leiden, 2019",
+    "source": "African Journal of Legal Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2381-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Facebook's Libra is far from broad acceptance as a world currency",
+    "authors": "Iwashita, N",
+    "year": "2021",
+    "doi": "10.1007/s40844-020-00165-2",
+    "abstract": "Facebook's Libra intends to provide a financial infrastructure for the people living in the developing countries in which financial inclusion rates still fall low. Libra plans to stabilize the market by holding legal currencies as collateral. However, markets determine prices, and there is no guarantee that the prices can be controlled as intended. As long as a central authority holds legal currencies as collateral and issues the Libra, it cannot be a decentralized structure like bitcoin. Libra plans to move to a permissionless blockchain within 5 years, but no concrete steps have been proposed yet. Thus, it would be difficult for Libra to be realized and widely accepted as a world currency.",
+    "source": "EVOLUTIONARY AND INSTITUTIONAL ECONOMICS REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

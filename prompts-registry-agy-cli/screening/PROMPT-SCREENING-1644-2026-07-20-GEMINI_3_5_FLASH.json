@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1644-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial Inclusion and Financial Integrity: Aligned Incentives?",
+    "authors": "De Koker L.; Jentzsch N.",
+    "year": "2013",
+    "doi": "10.1016/j.worlddev.2012.11.002",
+    "abstract": "The Financial Action Task Force embraces financial inclusion as complementary to anti-money laundering and counter-terrorist financing, as it enhances transparency. This support is based on the premise that the increased use of formal financial services leads to a reduction of usage of informal services. We present evidence on eight African countries that both are not negatively associated. Moreover, informal employment and cash preference reduce the inclination to use mobile financial services. If an increase in transparency acts as disincentive to use formal services, the alignment of financial inclusion and integrity will fail. © 2012 Elsevier Ltd.",
+    "source": "World Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

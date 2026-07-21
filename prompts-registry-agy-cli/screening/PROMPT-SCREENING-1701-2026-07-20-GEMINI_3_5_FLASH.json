@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1701-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bankrupting Terrorism: The Role of US Anti-terrorism Litigation in the Prevention of Terrorism and Other Hybrid Threats: A Legal Assessment and Outlook",
+    "authors": "Bachmann S.-D.",
+    "year": "2012",
+    "doi": "10.1007/s10991-012-9115-7",
+    "abstract": "Global terrorist networks are dependent on receiving financial support from a variety of sources, including individuals, charities and corporations. Also known as terrorist financing, the potential of terrorism finance to resemble a global threat has been recognised and also its closeness to other international crimes such as money laundering and organized crime. As a result, possible responses have to constitute co-ordinated, multi-lateral and multi faceted actions under the umbrella of a wide range of international stakeholders such as the United Nations Security Council and the Financial Action Task Force. Combating terrorism requires a 'holistic' approach which allows for a mix of possible responses. Besides \"kinetic\" security operations (such as targeted killings) and the adoption of criminal prosecution measures another possible response could be the use of US styled transnational civil litigation by victims of terrorism against both, terrorist groups and their sponsors. Corporations, both profit and non profit, such as banks and other legal entities, as well as individuals, are often complicit in international terrorism in a role of aiders and abettors by providing financial assistance to the perpetrators (cf. UN Al-Qaida Sanctions List: The List established and maintained by the 1267 Committee with respect to individuals, groups, undertakings and other entities associated with Al-Qaida). Such collusion in acts of terrorism gains additional importance against the background of so called \"Hybrid Threats\", NATO's new concept of identifying and countering new threats arising from multi-level threat scenarios. This article discusses the potential impact of US terrorism lawsuits for the global fight against terrorism. © 2012 Springer Science+Business Media B.V.",
+    "source": "Liverpool Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

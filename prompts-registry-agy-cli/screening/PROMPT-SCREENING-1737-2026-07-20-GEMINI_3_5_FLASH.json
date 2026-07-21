@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1737-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "SHARĪʿAH ISSUES IN ISLAMIC CAPITAL MARKETS: ṢUKŪK",
+    "authors": "Lin L.S.; Lahsasna A.; Ahmed R.",
+    "year": "2013",
+    "doi": "10.12816/0002771",
+    "abstract": "The purpose of this paper is to ascertain the prevailing Sharīʿah issues in Islamic capital markets, particularly ṣukūk. Common features of conventional bonds are replicated in ṣukūk via late penalty payment upon default, trading of debt-based ṣukūk, purchase undertaking in equity-based structures and ownership status in assetbased transactions. These features pose Sharīʿah concerns and are discussed in the paper from the perspective of current practices and views of scholars by compiling various references that reveal the diversity of the Sharīʿah. The paper does not claim to provide solutions to the issues of debate; rather it engages in providing an analysis of these Sharīʿah issues. The four issues covered are certainly not exhaustive; more issues are expected to creep up as ṣukūk structures continue to evolve over time. The paper provides value by shedding light upon the discussed issues and it also highlights the need for a balance between growing the ṣukūk market and upholding Sharīʿah in all aspects when structuring ṣukūk. © 2013, International Shari’ah Research Academy for Islamic Finance (ISRA). All rights reserved.",
+    "source": "ISRA International Journal of Islamic Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

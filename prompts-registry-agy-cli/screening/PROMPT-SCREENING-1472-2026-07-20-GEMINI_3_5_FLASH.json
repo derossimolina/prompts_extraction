@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1472-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Personal use, social supply or redistribution? cryptomarket demand on Silk Road 2 and Agora",
+    "authors": "Demant J.; Munksgaard R.; Houborg E.",
+    "year": "2018",
+    "doi": "10.1007/s12117-016-9281-4",
+    "abstract": "In 2011, Silk Road became the first black market, or \"cryptomarket\", for illicit drugs. This study examines two of the largest cryptomarkets which have operated, Silk Road 2.0 and Agora Marketplace. We hypothesize that cryptomarkets cater to buyers who intend to resell or redistribute the products, specifically in the form of social drug dealing, and that larger quantities will be purchased on the cryptomarkets over time. We examine these hypotheses through a descriptive and qualitative assessment of the distribution of drugs sold, and an estimated trend line based on simple linear regression. Data was collected using a custom web crawler which was supplemented with a dataset collected by independent researcher Gwern Branwen, community members and researchers in total spanning the period from February 28th 2014 to April 2015. The observed demand was primarily for quantities intended for personal use or social drug dealing. The majority of sales fell within the lower price ranges, although a significant part of the revenue was generated in price ranges that suggested business-to-business dealing. Furthermore, we found that the sizes of the purchases decreased significantly in both the case of Silk Road 2.0 and Agora Marketplace. The results suggest that cryptomarkets resemble traditional drug markets in terms of the distribution and revenues. As such, it is relevant to include cryptomarkets in discussions about potential reductions of the harmful social consequences of drug markets, as well as in general discussions about drug markets and drug trafficking. © 2016, Springer Science+Business Media New York.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

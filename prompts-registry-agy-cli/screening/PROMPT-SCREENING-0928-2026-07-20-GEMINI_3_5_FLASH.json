@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0928-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of anti-money laundering regulations on inclusive finance: Evidence from Sub-Saharan Africa",
+    "authors": "Ofoeda I.; Tufour J.K.; Nketia E.A.",
+    "year": "2023",
+    "doi": "10.1080/23322039.2023.2235821",
+    "abstract": "This study examined the impact of AML regulations on financial inclusion in Sub-Saharan Africa (SSA). Again, the study assessed whether the level of AML regulatory effectiveness determines the impact of AML regulations on financial inclusion. The study employed the Systems Generalized Methods of Moments (SGMM) estimation technique to assess the influence of AML regulations on financial inclusion for a panel of 44 SSA countries from 2012–2019. Data is sourced from the World Development Indicators and the Basel Institute on Governance. The study showed that AML regulations negatively impact accounts ownership and the number of commercial bank branches whereas AML regulations have a positive impact on the number of commercial bank depositors, the number of commercial bank borrowers, and the number of ATMs. Further, the study provided evidence that AML regulations positively impact the number of commercial bank branches and the number of borrowers in low-effectiveness countries (countries with AML regulations below the mean). In contrast, the study reported that AML regulations have a negative impact on accounts ownership for high-effectiveness countries (countries with AML regulations above the mean), while AML regulations have a positive influence on the number of depositors, the number of commercial bank borrowers and number of ATMs above the mean. The findings of the study imply that the impact of AML regulations on financial inclusion depends on the proxy of financial inclusion and also the extent of AML regulations in SSA countries. The uniqueness of this study is its specific focus on assessing the impact of AML regulations on financial inclusion in SSA. © 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Cogent Economics and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

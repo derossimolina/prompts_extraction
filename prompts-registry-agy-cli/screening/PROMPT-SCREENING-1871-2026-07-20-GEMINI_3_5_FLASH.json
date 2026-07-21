@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1871-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International financial institutions and the new global managerial order",
+    "authors": "Murphy J.",
+    "year": "2008",
+    "doi": "10.1016/j.cpa.2006.08.008",
+    "abstract": "This article is a contribution to the continuing debate within critical accounting and broader critical theory circles about the nature of capitalism in a globalized economic order. It argues that the contemporary economic environment cannot be adequately explained by traditional critical theories of imperialism. Through an analysis of the emergence of Mittal Steel Corporation as the world's largest steel producer, I document how international financial institutions encouraged the success of this new type of transnational corporation that is culturally grounded but not geographically bound to a hegemonic nation-state. The Mittal example suggests that globalization is fundamentally altering the relationship between international capital and the nation-state, and heralding the rise of international financial institutions (IFIs) as key actors in structuring a global, elite-driven order. The IFIs operate outside democratic control and scrutiny, and are able to impose their preferred economic solutions across the world. © 2007 Elsevier Ltd. All rights reserved.",
+    "source": "Critical Perspectives on Accounting"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1306-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Supervisory mandate of central banks and the spate of bank failures: who is to blame?",
+    "authors": "Mugarura N.; Namanya P.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-10-2019-0084",
+    "abstract": "Purpose: This paper aims to examine how central Banks (in the narrow purview of Bank of Uganda) exercise their supervisory mandate to foster an efficient sound business environment for banks to operate efficiently. The authors were motivated to write on the subject of bank supervision because of the closure of Crane Bank and putting it under administration in 2016. The closure of this bank generated a lot of controversies on both sides of the political divide and in the press. Initially, the popular view was that Crane bank was poorly supervised, and as a result, it was exploited by insiders to commit money laundering, fraud, insider dealing, just to mention but a few. This put Bank of Uganda (the Central Bank) in a negative spotlight for failure to provide the required oversight of this bank. In Uganda, the supervision of banks and other financial institutions is the responsibility of Bank of Uganda. Design/methodology/approach: The authors adopted a qualitative research approach using secondary data sources, including books, journal papers and websites, and evaluating primary legislation but also empirical evidence both in Uganda and other jurisdictions. The secondary data was evaluated to draw comparative analyses of causes of banks failures in countries both in Africa, Europe, USA and others jurisdictions across the globe. Findings: It would be onerous to charge central banks with the responsibility of preventing bank failures, even though they would are required to institute measures to prevent banks from collapsing and its ripple effects on the economy. Effective banking supervision is a core factor for the success of every bank, but it cannot single-handedly prevent a bank from collapsing. A well-supervised bank can also fail not necessarily because of inherent weaknesses within its banking supervision, but it could fail because of extraneous factors beyond the control of individual banks. For example, Lehman Brothers Ltd (a highly leveraged of broker dealers) collapsed due to factors beyond its control, the Northern Rock and Royal Bank of Scotland in the UK were nationalised by the British Government. Research limitations/implications: The limitation of the paper was that data on central banks and failed banks both in Uganda and other jurisdictions (the scope of the paper) was overwhelming, and it was daunting to sift through and analyse it in depth. Practical implications: Banks play a fundamental role in the social-economic development of countries, and how they are regulated is significantly important for the stability of economies. They provide loans, guarantees and other financial products to businesses, and they are engines for economic growth and development. Social implications: Banks affect, people, societies, businesses, markets and governments. Therefore, this paper has wider implications for the foregoing constituencies. Originality/value: The originality of the paper is that this paper is unique, draws experiences across jurisdictions and evaluates in the narrow purview of banking regulation in Uganda. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

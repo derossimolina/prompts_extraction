@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1682-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Citizenship, Migration and Opportunity* ",
+    "authors": "Kanbur R.",
+    "year": "2017",
+    "doi": "10.1080/19452829.2017.1349088",
+    "abstract": "The basic global distributional facts of inequality within and between countries are structuring a range of debates on policy issues which have analytical import. This paper raises three such questions: (1) Should Middle Income Countries like India continue to receive concessional development assistance from agencies like the World Bank? (2) Should the borders of richer countries be more open than they currently are to economic migration from poorer countries? (3) How does the equality of opportunity discourse within a country translate to equality of opportunity in a global perspective? But these questions appear not to have been as thoroughly investigated in the capability framework as their urgency and importance demands. They are worthy of deep and sustained investigation by the Human Development and Capability Association’s members, and beyond. © 2017 Human Development and Capability Association.",
+    "source": "Journal of Human Development and Capabilities"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2320-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Non-Conviction Based Asset Recovery in Nigeria: An Additional Tool for Law Enforcement Agencies?",
+    "authors": "Sproat, P; Ward, T; Harvey, J; Turner, S; Shehu, A; Bello, A",
+    "year": "2024",
+    "doi": "10.1007/978-3-031-59547-9_2",
+    "abstract": "Within Nigeria, anti-money laundering and asset recovery powers lie primarily with agencies established under the Corrupt Practices and Related Offences Act 2000, the Economic and Financial Crimes Commission Act 2004 and the Advance Fee Fraud and Other Fraud Related Offences Act 2006. International efforts to recover assets associated with serious and organised crime emanating from Nigeria frequently focus on the proceeds of corruption. Despite the powers of Nigerian authorities and extensive international efforts, relatively few cases of grand corruption are prosecuted successfully, and the value of the assets recovered from financially-motivated criminals are very low in comparison to the value of the proceeds they are said to generate. Kleptocrats and other Politically Exposed Persons have been able to exploit legal loopholes in the criminal courts to avoid or delay conviction, enabling them to conceal massive amounts of stolen wealth in offshore financial centres around the world. The aim of this contribution is to focus on non-conviction based asset recovery and its availability to the Nigerian authorities in their efforts to combat financial crime. Despite extensive debate over the existence of non-conviction based asset recovery-related legislation, we demonstrate such provisions are available, however, we also show that there are many barriers to their effective implementation which may obscure their usefulness.",
+    "source": "FINANCIAL CRIME, LAW AND GOVERNANCE: Navigating Challenges in Different Contexts"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

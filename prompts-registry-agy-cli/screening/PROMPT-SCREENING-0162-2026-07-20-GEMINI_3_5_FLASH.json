@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0162-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hawala in criminal court: the role of law and commercial culture in informal financial exchange",
+    "authors": "Ercanbrack J.G.",
+    "year": "2024",
+    "doi": "10.1007/s10611-024-10162-w",
+    "abstract": "A historically informed understanding of ḥawāla and other varieties of informal value transfer systems (IVTS) requires consideration of the normative and cultural elements which structure and facilitate transactions in globalized financial markets. This paper argues that the Sharia-based normative and cultural framework of ḥawāla is created in the social relations of Muslim networks and that, in a criminal law context, this normativity can be used as a tool to discern between legitimate and illegitimate transactions. The new institutional economists’ (NIE) explanation of ḥawāla, which predominates in scholarly work, neglects this common frame of reference built on community, shared belief, and normative rules and expectations. The NIE views economic institutions through the lens of profitmaking and self-interest centred institutional development. Moreover, in a criminal law context, the profit-oriented perspective of law overlooks the normative characteristics that sometimes appear in the transactional characteristics of these transactions. When evidence of these characteristics is presented to the court, they offer a useful tool to differentiate legitimate from illegitimate transfers of value. Legitimate transfers will frequently be facilitated through dense networks in which the normativity and culture of ḥawāla frame the rules and expectations of parties to the transaction. Criminal transactions, on the other hand, typically involve fewer participants, sometimes from different ethnic and linguistic backgrounds, are profit-orientated, and involve means of enforcement such as the use of violence which traditional networks do not employ. The NIE perspective does not fully account for non-western legal orders or for commercial practices in which exchange remains culturally, historically, and socially embedded. © The Author(s) 2024.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

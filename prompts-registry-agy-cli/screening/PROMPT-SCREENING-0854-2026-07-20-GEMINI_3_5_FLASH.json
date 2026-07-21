@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0854-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Challenges resulting from hawala banking for anti-money laundering and anti-terrorist financing policies of Swiss banks",
+    "authors": "Teichmann F.M.J.; Wittmann C.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-01-2022-0005",
+    "abstract": "Purpose: The purpose of this paper is to illustrate threefold how hawala banking poses a problem for Swiss banks implementing anti-money laundering (AML) and anti-terrorist financing (ATF) policies as a fulfilment of Switzerland’s UN commitment. Design/methodology/approach: The first author interviewed compliance officers and suspected criminals on hawala banking mechanisms. The authors formally recorded interviews with compliance officers, but interviews with suspected criminals were not recorded to maximize their potential forthrightness. In total, the authors conducted 70 formal interviews and developed a questionnaire based on this, which was sent to 200 compliance officers. The authors subjected the interviews to qualitative analysis and developed a system of categories that the authors assessed by means of triangulation. By substantiating proposed theoretical challenges with empirical findings, future recommendations for regulatory procedures are based on analytical evidence. Findings: This study finds that hawala presents significant challenges for AML and ATF policies. Whilst it is possible to mediate the first two challenges laid out herein, it is the third hurdle that proves insurmountable. Ultimately, tolerating hawala banking passively counteracts any active effort made by implementing AML and ATF policies. Originality/value: Whilst the existing literature sufficiently connects hawala banking to terrorist financing, this study details how existing compliance measures are circumvented and the implications on the perceived commitment of Switzerland against financial crime. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

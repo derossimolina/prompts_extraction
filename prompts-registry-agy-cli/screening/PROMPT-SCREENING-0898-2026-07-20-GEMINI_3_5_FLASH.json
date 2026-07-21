@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0898-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Prinsip Perlindungan Konsumen Dalam Penyelenggaraan Kegiatan Usaha Penukaran Valuta Asing Bukan Bank",
+    "authors": "Rahmanda B.; Irawati; Valentika F.F.",
+    "year": "2024",
+    "doi": "10.14710/jphi.v6i1.112-132",
+    "abstract": "Non-bank foreign exchange business activities (KUPVA-BB) in Bali have become a major concern due to their complexity that disrupts the tourism sector. This article reviews the negative impact of illegal money changers on Bali tourism and consumer protection. Illegal money changers pose a risk of counterfeit money circulation, fraud, and adverse exchange rates. Although there are consumer protection regulations, regulations related to illegal money changers are still inadequate. The research method used involved document analysis of Bank Indonesia regulation No. 18/20/PBI/2016 as well as interviews with KUPVA-BB licensing and supervision staff at Bank Indonesia Bali Province. The results show that Bank Indonesia has taken strict measures in dealing with illegal KUPVA-BB, including issuing warnings, sanctions, and revoking licences. Bank Indonesia has also implemented consumer protection standards, including anti-money laundering policies and customer data protection. In conclusion, Bank Indonesia's role in dealing with illegal KUPVA-BB in Bali is crucial to maintaining the stability of the tourism sector and protecting consumers. The steps that have been taken demonstrate Bank Indonesia's commitment to enforcing regulations and providing protection to the public. © 2024, Diponegoro University. All rights reserved.",
+    "source": "Jurnal Pembangunan Hukum Indonesia"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

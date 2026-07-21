@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0619-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Seaports as criminal gateways in contemporary South Korean cinema: illicit globalization and marginalized subjects in The Yellow Sea (2010) and New World (2013)",
+    "authors": "Wagner K.B.; Unger M.A.",
+    "year": "2024",
+    "doi": "10.1080/08873631.2023.2297129",
+    "abstract": "This article examines the seaport as a trope in contemporary cinema in relation to notions of spatiality, illicit globalization, and border studies. We analyze how seaports as social and cultural networks of built environment and infrastructure have become gateways to illicit globalization. We then provide a critical analysis that unbundles these spaces in the film genre of neo-noir out of South Korea. Our focus then zooms in on real organized crime, smuggling, human trafficking and black-market transactions as refracted and bounded in the Korean films The Yellow Sea (2010) and New World (2013). Within these cinematic glamorizations of crime, we find transgressive characters contributing to what we dub “dark neoliberal accumulation” of profit through kinds of unremorseful economic predation at two seaports. Criminals and migrants in these films portend audiences to underworld activities of drug and human trafficking to serve their needs or rescue them from peril. In other ways, we scrutinize the material commodities and shipping containers themselves as having symbolic value and thus providing a commentary on the circuits of low-end global trade through transoceanic routes through Korea and worldwide. © 2024 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Journal of Cultural Geography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

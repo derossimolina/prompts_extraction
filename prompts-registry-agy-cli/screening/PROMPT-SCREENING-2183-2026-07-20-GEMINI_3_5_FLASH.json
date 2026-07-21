@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2183-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organized economic crime and corruption in Urkraine: The problem of countermeasures",
+    "authors": "Kalman A.G.",
+    "year": "2001",
+    "doi": "10.1007/s12117-001-1006-6",
+    "abstract": "The collapse of communism in Ukraine created opportunities for organized criminal groups to expand their economic criminal activities in the \"shadow economy\" by penetrating all levels of public and economic administration. Ukrainian law enforcement agencies are poorly equipped to handle this increase in criminal activity, especially with respect to uncooperative foreign and domestic economic institutions. State machinery for regulation and control of industry and commerce was easily accessible to organized crime through bribing of state officials, who received no supervision during economic restructuring. Notwithstanding the active assistance of corrupt government officials, organized economic crime has benefited from chaos and lost government control as the result of recent economic reforms in Ukraine. Researchers in this study hypothesize that the social and economic disorder, as well as a common and justified mistrust of state officials, fosters a pessimism and erodes moral standards, which in turn fosters criminal activity. Of late, judicial sentencing for those convicted of economic crimes has become lighter while many economic criminal cases are never investigated or prosecuted in the first place. In order to combat large-scale corruption, there must be better supervision of government officials and better monitoring of foreign economic transactions. One of the most disastrous consequences of the collapse of the Ukrainian communist system has been the widespread increase of economic crime. This phenomenon is self-sustaining, penetrating all levels of Ukraine's economy and administrative sectors. Criminal activity helps to sustain the shadow economy in Ukraine, which has been estimated by various sources to constitute 50 to 60 percent of the economy. Law enforcement and administrative efforts have been largely futile in curbing this corruption. Nevertheless, it is possible to overcome the criminal social and economic order that has become ingrained in this \"shadow economy.\" This paper seeks to propose policy solutions for Ukrainian economic crime and corruption that could be implemented at the national level. © 2002 Springer.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

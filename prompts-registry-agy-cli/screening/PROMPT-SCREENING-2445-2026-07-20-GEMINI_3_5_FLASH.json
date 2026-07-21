@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2445-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Investigating the Bitcoin System and Its Properties within the Scope of Business Ethics",
+    "authors": "Kaygin, E; Topçuoglu, E; Özkes, S",
+    "year": "2019",
+    "doi": "10.12711/tjbe.2018.11.2.0020",
+    "abstract": "Digitalization has increased with globalization, the removal of borders between countries, the liberalization of trade, and the rise in Internet and information technologies. In the digital world, many innovations such as working at home without going to work, mobile or internet banking without going to the bank, and shopping for food without going to the market through shopping sites have entered our lives. One of these innovations is the Bitcoin crypto-monetary system, which is a cheap and easy money-transfer and investment instrument and a unit of spending not connected to a central authority. This system has been in our lives since 2008. This study aims to evaluate businesses' and investors' use and retention of Bitcoin as an investment and conversion tool for money transfers and gold/foreign exchange, to evaluate Bitcoin earnings within the scope of mining operations, and then to address these earnings in terms of morality and business ethics. This evaluation explains the use of the Bitcoin system as a means of exchange in the drug market, its current status within the drug market, its use in money-laundering operations, the instant decreases and increases in its value, its use for tax evasion, its high electrical consumption, and its harm to the environment. In addition, the innovation and superiority of block-chain technology has been discussed and an evaluation has been made.",
+    "source": "TURKISH JOURNAL OF BUSINESS ETHICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

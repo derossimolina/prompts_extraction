@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1685-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organised Cybercrime or Cybercrime that is Organised? An Assessment of the Conceptualisation of Financial Cybercrime as Organised Crime",
+    "authors": "Leukfeldt E.R.; Lavorgna A.; Kleemans E.R.",
+    "year": "2017",
+    "doi": "10.1007/s10610-016-9332-z",
+    "abstract": "Criminological research over the last couple of decades has improved our understanding of cybercrimes. However, this body of research is regarded as still theoretically thin and not fully developed; more knowledge on the actors involved, their characteristics, and modus operandi is needed. Some publications recently suggested that organised crime is or might be involved in cybercrimes, which would have important policing implications, but evidence-based research on this point is still scarce and inconclusive. This article seeks to further this path of inquiry by providing a systematic analysis of 40 cases from The Netherlands, Germany, UK, and USA where criminal networks were involved in financial cybercrimes affecting the banking sector. It also assesses whether and to what extent these criminal networks meet the definitions of organised crime and discusses the theoretical and policing implications of our findings. © 2016, The Author(s).",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

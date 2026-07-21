@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2591-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Script Analysis of Open-air Drug Selling: A Systematic Social Observation of CCTV Footage",
+    "authors": "Sytsma, VA; Piza, EL",
+    "year": "2018",
+    "doi": "10.1177/0022427817709502",
+    "abstract": "Objectives: Through the use of closed-circuit television (CCTV) video footage, the current study builds upon the drug transaction work of Piza and Sytsma by developing a crime script for open-air drug selling. Methods: Researchers conducted a systematic social observation of CCTV footage of open-air drug markets in Newark, NJ. The data were used to identify sequential stages of drug transactions. Fisher's exact tests measured whether buyer and seller activities during specific acts of the drug transaction event were related to activities seen in subsequent stages. Results: This study finds three distinct acts to open-air drug events. During the pretransaction act, one party (usually the buyer) initiates the transaction. There must then be an exchange of narcotics for money, which typically occurs in one simultaneous transfer and in one location. There is necessarily posttransaction mobility, with sellers most commonly maintaining their anchor point within the drug territoryparticularly when the interactions are buyer initiated. Conclusions: Results of this study contribute to the crime script and situational crime prevention literatures by demonstrating acts inherent in public drug selling and by advocating for a focus on the posttransaction period and seller anchor points within drug markets through leveraging the sentinel role of police officers.",
+    "source": "JOURNAL OF RESEARCH IN CRIME AND DELINQUENCY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2394-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illicit activity and money laundering from an economic growth perspective: A model and an application to Colombia",
+    "authors": "Loayza, N; Villa, E; Misas, M",
+    "year": "2019",
+    "doi": "10.1016/j.jebo.2017.10.002",
+    "abstract": "This paper contributes to the economic analysis of illicit activities and money laundering. First, it presents a theoretical model of long-run growth that explicitly considers illicit workers, activities, and income, alongside a licit private sector and a functioning government. Second, it generates estimates of the size of illicit income and provides simulated and econometric estimates of the volume of laundered assets in the Colombian economy. In the model, the licit sector operates in a perfectly competitive environment and produces a good through a standard neoclassical production function. The illicit sector operates in an imperfectly competitive environment and is composed of two different activities: The first activity produces an illicit good that nonetheless is valuable in the market (for example illegal drugs); the second does not add value to the economy but only redistributes wealth (for example robbery, kidnapping, and fraud). The paper provides a series of comparative statics exercises to assess the effects of changes in government efficiency, licit sector productivity, and the demand for illegal drugs. From the model, the analysis derives a set of estimable macroeconometric equations to measure the size of laundered assets in the Colombian economy in the period 1985-2013. The paper assembles a dataset whose key components are estimates of illicit income from drug trafficking and common crime. Illicit incomes increased drastically until 2001, reaching a peak of nearly 12% of gross domestic product and then decreasing to less than 2% by 2013. The decline not only overlaps with a period of high economic growth but also occurs after the implementation of Plan Colombia. The dataset is used to estimate the volume of laundered assets in the economy by applying the Kalman filter for the estimation of unobserved dynamic variables onto the derived macroeconometric equations from the model. The findings show that the volume of laundered assets increased from about 8% of gross domestic product in the mid-1980s to a peak of 14% by 2002, and declined to 8% in 2013. (C) 2017 The International Bank for Reconstruction and Development/The World Bank. Published by Elsevier B.V. All rights reserved.",
+    "source": "JOURNAL OF ECONOMIC BEHAVIOR & ORGANIZATION"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

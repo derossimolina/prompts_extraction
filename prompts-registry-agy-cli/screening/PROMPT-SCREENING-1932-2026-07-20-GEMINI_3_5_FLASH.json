@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1932-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fraude fiscal y lavado de capitales",
+    "authors": "Cruz J.A.F.",
+    "year": "2009",
+    "doi": "10.4067/s0718-33992009000100005",
+    "abstract": "Money laundering cannot be fully understood as a legal-social phenomenon if not related to tax fraud. In fact, an approach to international taxation allows the assertion that, as long as what are known as tax havens exist, the effectiveness of any measure against money laundering will be circumscribed to mere symbolic effects. However, in spite of the close relation between tax fraud and money laundering, the execution of a tax offense does not gather the political-criminal characteristics required to assign it to a category of predicate offenses (\"specified unlawful activity\"), except for assuming the existence of an organization exclusively dedicated to carrying out criminal tax frauds.",
+    "source": "Politica Criminal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

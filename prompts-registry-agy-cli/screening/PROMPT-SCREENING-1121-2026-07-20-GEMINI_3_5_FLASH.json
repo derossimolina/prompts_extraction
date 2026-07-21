@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1121-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Peri-urban ways of living in Santiago de Chile: closed residential megaprojects and transformations in daily life; [Modos de habitar periurbano en Santiago de Chile: megaproyectos residenciales cerrados y transformaciones en la vida cotidiana]",
+    "authors": "Pereda V.S.; Piñero A.C.",
+    "year": "2021",
+    "doi": "10.5354/0717-5051.2021.61157",
+    "abstract": "Santiago de Chile has experienced processes of urban expansion characterized by the proliferation of closed residential spaces in its metropolitan periphery. These mega real estate projects encompass large areas of land and urban-scale facilities, a new housing typology that aspires to be a city in itself. Despite the abundant literature in Latin America, in Chile there is little research that explores —from the voice of its own inhabitants—the relationship between this peri-urban residential product and the ways of living of its residents. Through an ethnographic approach based on participant observation sessions and semi-structured interviews, four dimensions are evidenced in which a group of residents has seen their ways of living transformed after arriving in a closed residential space on the metropolitan periphery of Santiago: 1) daily mobility; 2) sociability; 3) daily activities and access to services; 4) neighborhood coexistence and structuring of living. The classic visions of fear of crime and social distinction as engines of residential enclosure are stressed and it is concluded around the growing weight that real estate holdings acquire in the configuration of the peripheries and their modeling effects on the ways of inhabiting contemporary metropolises. © 2021 Universidad de Chile. All rights reserved.",
+    "source": "Revista de Urbanismo"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

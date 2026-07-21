@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2124-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulation of money laundering in Africa: the Nigerian and Zambian approaches",
+    "authors": "Okogbule N.S.",
+    "year": "2007",
+    "doi": "10.1108/13685200710830934",
+    "abstract": "PurposeThe purpose of this paper is to examine the regulatory mechanisms adopted by two African countries, Nigeria and Zambia, in dealing with money laundering in their countries and to suggest ways of enhancing the effectiveness of these mechanisms to serve as veritable models for other African states. Design/methodology/approachThe relevant laws enacted by these states in their efforts to tackle this crime were examined to assess their adequacy or otherwise in this direction. The key provisions of these enactments, namely, the Nigerian Money Laundering Prohibition Act, 2004 and the Zambian Prohibition and Prevention of Money Laundering Act, 2001, were discussed and the similarities and dissimilarities in both enactments highlighted. FindingsIt was found that these enactments have provided the requisite regulatory framework for dealing with this crime in these countries. In particular, both enactments contain novel provisions such as prohibition on cash transactions involving large sums of money, forfeiture of assets obtained from money-laundering transactions, etc. It was also found that, although enacted three years earlier, in 2001, the Zambian enactment is more comprehensive and forward-looking than the Nigerian Act, which was enacted in 2004, as the former provides for the establishment of an investigation unit within the Anti-Money Laundering Authority, provisions that are absent in the Nigerian enactment. Practical implicationsThe implication of this finding is that African states must adopt strict and stringent measures to enhance the enforcement of Money Laundering Laws, with the regulatory mechanisms, which were put in place by these countries in tackling the menace, serving as veritable guideposts. Originality/valueThe paper demonstrates, in a special way, the steps taken by two African states, Nigeria and Zambia, in dealing with money laundering and suggests that, if other states utilize these measures, it will go a long way in improving their capability in the fight against money laundering. It finally suggests proper co-operation and collaboration between African states to make the fight more meaningful. © 2007, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

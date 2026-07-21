@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1437-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A critical analysis of the effects of the Central Bank of Nigeria foreign exchange policy on financial inclusion, anti-money laundering measures and fundamental rights",
+    "authors": "Esoimeme E.E.",
+    "year": "2017",
+    "doi": "10.1108/JMLC-05-2016-0020",
+    "abstract": "Purpose: Following the drop in crude oil prices from a peak of US$114 per barrel in July 2014 to as low as US$33 per barrel in January 2016, the country’s reserves have suffered great pressure from speculative attacks, round tripping and front loading activities by actors in the foreign exchange (forex) market. The fall in oil prices also implied that the Central Bank of Nigeria’s (CBN) monthly foreign earnings had fallen from as high as US$3.2bn to current levels of as low as US$1bn. The net effect of these combined forces unfortunately is the depletion of the nation’s forex reserves. As of June 2014, the stock of forex reserves stood at about US$37.3bn but has declined to around US$28.0bn as of today. To avoid further depletion of reserves, the CBN adopted a number of policies including the prioritisation of the most critical needs for forex. This paper aims to critically analyse the effects of these policies on financial inclusion, anti-money laundering (AML) measures and human rights. Its aim is also to determine whether CBN’s Forex Policy does strike a fair balance between financial stability, inclusion, AML measures and human rights. Design/methodology/approach: This paper relies mainly on primary and secondary data drawn from the public domain. It also relies on documentary research. Findings: This paper determined that the CBN forex policy does not strike a fair balance between financial stability, inclusion, AML measures and human rights. Research limitations/implications: This paper focuses on the effect of the most recent CBN Forex Policies on financial inclusion, AML measures and human rights. It does not address the older policies. Also, it does not address other vulnerable groups like low-income households. Its focus is on the under-served group. Originality/value: While many have written papers on CBN’s forex policies, none of those papers critically analysed the effects of these policies on financial inclusion, AML and fundamental rights. The Lagos Chamber of Commerce and Industry, for example, analysed the impact of these polices on the financial services sector; the manufacturing sector; food and household products; tyre and rubber industry; pharmaceutical sector, oil and gas sector; free trade zone sector; furniture manufacturers; and foam manufacturers. It made no mention of inclusion, money laundering and fundamental rights. Also, Vincent Haruna analysed the effect of these policies on Nigerians, particularly those engaged in international trade, and those who have children studying abroad. He neither specifically addressed financial inclusion nor did he make any mention of human rights and money laundering. © 2017, 2017, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

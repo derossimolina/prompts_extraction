@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0596-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A new deal after COVID-19",
+    "authors": "Pogge T.; Mehta K.",
+    "year": "2022",
+    "doi": "10.1080/14747731.2021.1935020",
+    "abstract": "The COVID-19 pandemic has revealed grave structural faults in our global institutional architecture. We argue that political energies should now be focused on three main areas where transformative reorganizations are realistically achievable. In global health, we propose that monopoly patents be complemented by health impact rewards as an optional alternative incentive for developing and supplying innovative pharmaceuticals. To slow global warming, we propose a common glide path for reducing per-capita emissions, with the option to compensate for temporary excess emissions by financing the achievement of additional emission reductions in poorer countries. For the global financial sector, we propose eliminating fossil-fuel subsidies, reintroducing Glass–Stegall, protecting the fair value of international natural-resource sales, and instituting an alternative minimum tax on corporations, financial transactions taxes and progressive taxes on internationally operating digital businesses. © 2021 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Globalizations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

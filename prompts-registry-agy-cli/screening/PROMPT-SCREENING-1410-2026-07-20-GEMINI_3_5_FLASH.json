@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1410-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The system integration of anti&hyphen;money laundering data reporting and customer relationship management in commercial banks",
+    "authors": "Tang J.; Ai L.",
+    "year": "2013",
+    "doi": "10.1108/JMLC-04-2013-0010",
+    "abstract": "PurposeThis paper proposes to use system integration between customer relationship management &lpar;CRM&rpar; and anti&hyphen;money laundering &lpar;AML&rpar; suspicious data reporting in commercial banks to increase the initiative of suspicious transaction identification, reduce the false reporting rates, and improve the intelligence quality. Design&sol;methodology&sol;approachThis paper introduces the structure of CRM in commercial banks, discusses deficiencies of the current AML data reporting system, and designs the layering of CRM and AML transaction identification module. FindingsThis paper finds that the functions of customer behavior analysis and customer background investigation of CRM system can be redesigned and used for increasing the quality of AML suspicious transaction reporting in commercial banks. Originality&sol;valueThis paper creatively proposes that system integration of CRM and AML suspicious transaction reporting can make a contribution to reducing the AML cost for commercial banks. © 2013, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

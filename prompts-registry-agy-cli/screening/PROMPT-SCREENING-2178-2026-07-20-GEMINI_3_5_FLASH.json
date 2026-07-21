@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2178-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Application of knowledge management technology in customer relationship management",
+    "authors": "Bose R.; Sugumaran V.",
+    "year": "2003",
+    "doi": "10.1002/kpm.163",
+    "abstract": "Given the important role being played by knowledge management (KM) systems in the current customer-centric business environment, there is a lack of a simple and overall framework to integrate the traditional customer relationship management (CRM) functionalities with the management and application of the customer-related knowledge, particularly in the context of marketing decisions. While KM systems manage an organization's knowledge through the process of creating, structuring, disseminating and applying knowledge to enhance organizational performance and create value, traditional CRM have focused on the transactional exchanges to manage customer interactions. True CRM is possible only by integrating them with KM systems to create knowledge-enabled CRM processes that allow companies to evaluate key business measures such as customer satisfaction, customer profitability, or customer loyalty to support their business decisions. Such systems will help marketers address customer needs based on what the marketers know about their customers, rather than on a mass generalization of the characteristics of customers. We address this issue in this paper by proposing an integrated framework for CRM through the application of knowledge management technology. The framework can be the basis for enhancing CRM development. © 2003 John Wiley & Sons, Ltd.",
+    "source": "Knowledge and Process Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

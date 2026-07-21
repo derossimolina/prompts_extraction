@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1707-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Issues and controversies of FATF",
+    "authors": "Melkumyan K.",
+    "year": "2017",
+    "doi": "10.17994/IT.2017.15.1.48.11",
+    "abstract": "Despite the significant contribution of the Financial Action Task Force (FATF) to the combat against transnational money laundering and terrorist financing, the group faces a number of challenges that stem from both the organizational structure and activities of the FATF. The aim of the current article is to systematically assess existing limitations and drawbacks, related to its lack of institutionalization as well as dependence on Member-States. This analysis demonstrates extent to which governments of developed nations could utilize FATF in their interests, while the developing countries pay major costs of its operation. As FATF is limited by mandate, which has to be extended by Member-States regularly it enjoys limited independence and pursues a contradictory approach in assessing money laundering and terrorism financing. One of the main criteria for assigning a state to the category of \"non-cooperative\" appears to be non-compliance of jurisdictions with the anti-offshore Recommendations, which primarily affect the economies of small countries, without providing them alternative sources of income. Meanwhile, a number of developed countries such as the UK and Switzerland, being offshore centers and non-compliant with the same regulations, have never been on the FATF black lists. These examples prove double standards in the activities of the Task Force. Implementation of the international standards greatly depends on the effectiveness of the FATF-style regional bodies (FSRBs), but the level of cooperation between them and FATF is not that high, particularly in the regions that are most vulnerable to terrorist financing. One of the stumbling blocks on the way of cooperation with the FSRBs appears to be the lack of FATF tools that would enable it to make experts of the FSRBs take an active part in the FATF work, as well as to influence their activities through such measures as sanctions. © 2017 Academic Educational Forum on International Relations. All rights reserved.",
+    "source": "Mezhdunarodnye Protsessy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0997-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banks in Kenya and anti-money laundering obligations: the conflicts of interests arising",
+    "authors": "Gikonyo C.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-01-2020-0008",
+    "abstract": "Purpose: Kenya is vulnerable to trade-based and other forms of money laundering. Banks are prime targets for money launderers since they can facilitate the processes of placement, layering and re-integration. Consequently, banks are key in fulfilment of the prohibitory and preventative anti-money laundering (AML) strategies. In executing these obligations, the potential for clashes between the bank following the law and obeying its contractual duties to the client arises. Hence, this paper aims to examine these potential conflicts of interests. Design/methodology/approach: The examination is based on reviewing relevant literature, case law and analysing the Proceeds of Crime and AML Act and its attendant regulations. These form the core of the AML regime imposing obligations on banks. Findings: The analysis indicates the provisions are robust and can assist in addressing money laundering risks faced by banks. Nonetheless, there are identified gaps since the primary AML legislation does not provide guidance on various issues. This can potentially lead to banks facing litigation from customers for failure to honour its duty of secrecy and customer’s instructions. Originality/value: The paper seeks to make a practical and scholarly contribution in considering the issue and possibly filling this gap through advocating for statutory amendment. Subsequently, positive review of the law will help strike a balance between interference in the banker-customer contractual relationship and facilitation of banks fulfilling their prohibitory and enforcement of AML obligations. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

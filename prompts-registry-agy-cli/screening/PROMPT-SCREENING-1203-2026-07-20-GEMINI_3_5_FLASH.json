@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1203-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The many shades of grey in urban governance: How illegality shapes urban planning, policy and development",
+    "authors": "Chiodelli F.; Gentili M.",
+    "year": "2021",
+    "doi": "10.1016/j.polgeo.2020.102309",
+    "abstract": "Most research on urban planning, policy and development only considers legal practices and actors, and treats illegal ones as insignificant anomalies, unable to structurally affect the governance of urban space. However, this approach is inadequate for explaining urban governance in contexts (e.g. several countries in the Global South, the former Soviet bloc and Southern Europe) where illegal practices such as corruption and organized crime infiltration are widespread in many public and economic sectors. This paper addresses the role of illegal actors and practices in urban governance in the Italian context, using urban regime theory as the theoretical frame of reference. The research centres on the analysis of two case studies in the city of Rome (the In-between world investigation of a criminal network that had infiltrated the local administration and shaped several urban policies, and the investigation of episodes of corruption related to the project for the new A.S. Roma soccer stadium). It shows the existence of two shades of ‘grey urban governance’: firstly, the presence of a dark urban regime, centred on a criminal organisation and parallel to the ‘regular’ one; secondly, the use of corruption as a customary practice with which real estate entrepreneurs influence municipal decisions. Overall, this research contributes to moving away from a rhetoric of ‘gentlemanly’ urban capitalism and politics, and suggests the need to revise several aspects of urban regime theory – as well as other approaches to urban governance dynamics in general – in order to incorporate the role of illegal actors and practices. © 2020",
+    "source": "Political Geography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2035-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fixed boundaries, fluid landscapes: British expansion into Northern East Bengal in the 1820s",
+    "authors": "Cederlöf G.",
+    "year": "2009",
+    "doi": "10.1177/001946460904600402",
+    "abstract": "This article focuses on questions of the formation of new polities and ruler-subject relations as a result of British colonial conquest of northern east Bengal and neighbouring states in the early nineteenth century. It emphasises ecological and climatic structuring conditions and is a contribution to research on changing spatial relations and transactions, transformation of hill-plain relations, and collisions between synoptic political visions and knowledge systems, and their implementation on particular landscapes and people. Particular attention is given to the time and place-bound formation of law for the control and access of land and natural resources. The study thus explores the tense relationship between a fluid, continuously changing land-scape and the fixed notions of boundaries, government control and polities held by the British East India Company (EIC) and which they strove to implement in military and fiscal control in northern east Bengal. The study suggests that the means and principles by which bureaucratic control was established formed the basis for a form of fiscal citizenship whereby the subject was acknowledged as a person with rights and in communication with government. Such control was established in the former Nawab's territories which mainly consisted of plains and therefore were landscapes that were intended to be agrarian. It is further suggested that when the neighbouring independent states and autonomous villages were brought under EIC rule, this was done by other means which in turn shaped different ruler-subject relations and eventually paved the way for the formation of dual polities under one government.",
+    "source": "Indian Economic and Social History Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0738-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CORPORATE GOVERNANCE AND ANTI-MONEY LAUNDERING IN THE BANKING SECTOR",
+    "authors": "Abel S.; Makoni T.H.M.; Mukarati J.; Manenge R.; Mokumako T.; Le Roux P.",
+    "year": "2023",
+    "doi": "10.34109/ijefs.202315418",
+    "abstract": "The banking industry is recognised as a crucial element in money laundering due to its confidential and intricate nature. Efforts to combat money laundering have primarily targeted banks to prevent criminals from laundering illicit funds through the financial system. This paper aims to assess the impact of corporate governance on mitigating money laundering, analyse the effectiveness of regulatory measures in combating money laundering, and identify the challenges associated with implementing these regulatory measures. The study employed an explanatory research method and utilised questionnaires as research instruments, along with in-depth interviews. The study revealed that banks agreed on the importance of corporate governance in reducing money laundering. This requires continuous risk assessments by management and the board of directors to identify vulnerabilities and risks related to money laundering. Secondly, the study revealed that all commercial banks in Zimbabwe are compliant with regulatory requirements regarding the prevention of money laundering. This includes the disclosure of transactions that are unexpected, inconsistent with the client’s profile, or lacking legitimate or monetary justification. The study found that banks encountered political interference, inadequate technology, a shortage of skilled personnel, and challenges in integrating AML/CFT into their operations. The study suggests that Boards of Directors should regularly assess the banks’ risk exposure and establish stringent policies to mitigate money laundering. © (2023), (Social Sciences Research Society). All rights reserved.",
+    "source": "International Journal of Economics and Finance Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

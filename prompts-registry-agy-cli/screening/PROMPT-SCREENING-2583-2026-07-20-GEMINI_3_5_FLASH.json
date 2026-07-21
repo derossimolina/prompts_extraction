@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2583-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The need for transparency in financial reporting Implications of off-balance-sheet financing and inferences for the future",
+    "authors": "Lander, GH; Auger, KA",
+    "year": "2008",
+    "doi": "10.1108/18325910810855770",
+    "abstract": "Purpose - The paper's aim is to research and discuss the issue of the lack of transparency in financial reporting and how companies take advantage of accounting rules in ways that inhibit transparency. Design/methodology/approach - A literature review was carried out to see what had been written and discussed. Various legal cases were studied as well as Securities and Exchange Commission (SEC) and Financial Accounting Standards Board (FASB) studies of the impact of off-balance-sheet arrangements allowed by the FASB and SEC. Findings - There are many ways that companies accomplish off-balance-sheet financing by taking advantage of rules-based accounting. If there is not a rule to prevent an entity from handling a particular transaction a certain way, then it is difficult for the auditor to stop it from happening. Research limitations/implications - The paper is of descriptive nature. There are many policy implications from the results of the paper for all regulatory agencies. The economic substance of transactions needs to be communicated. Practical implications - Financial managers and financial consultants need to refocus the structuring of financial transactions so that they comply with generally accepted accounting principles and that the economic substance of financial transactions is communicated. More accountability and ethical awareness needs to be instilled in the individuals who deceitfully structure financial transactions. Regulatory bodies need to ensure more transparency by closing loopholes and better enforcement of accounting standards. Boards of directors, especially the audit committees, need to be sure that a company is communicating the true economic reality of the financial transactions and financial position of the business entity. Off-balance-sheet financing is one of the most significant ways, among others, that the user of financial statements can be misled. It is time for regulatory bodies to eliminate overly rules-based standards, clearly state the economic objective of each standard, and require firms to disclose the economic motivations for the accounting practices they adopt. Originality/value - The value of the paper is that it studies the problems of the lack of transparency in financial reporting. It then suggests that if what is currently being done, (i. e. rules-based accounting), is not working, then a new approach, principles-based accounting needs to be implemented by the regulatory agencies. This paper provides an overview of the lack of financial statement transparency.",
+    "source": "JOURNAL OF ACCOUNTING AND ORGANIZATIONAL CHANGE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

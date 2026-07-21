@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0163-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "LEGAL CONSTRAINTS AND PROCEDURAL SAFEGUARDS OF UNDERCOVER OPERATIONS IN ANTI-MONEY LAUNDERING INVESTIGATIONS: A UAE PERSPECTIVE; [ﺩﻮﻴﻘﻟﺍﺔﻴﻧﻮﻧﺎﻘﻟﺍﺕﺎﻧﺎﻤﻀﻟﺍﻭﺔﻴﺋﺍﺮﺟﻹﺍﺕﺎﻴﻠﻤﻌﻠﻟﺔﻳﺮﺴﻟﺍﻲﻓﺕﺎﻘﻴﻘﺤﺗ ﺔﺤﻓﺎﻜﻣﻞﺴﻏ:ﻝﺍﻮﻣﻷﺍﺭﻮﻈﻨﻣﺔﻟﻭﺩﺕﺍﺭﺎﻣﻹﺍﺔﻴﺑﺮﻌﻟﺍﺓﺪﺤﺘﻤﻟﺍ]; [ПРАВОВІ ОБМЕЖЕННЯ ТА ПРОЦЕДУРНІ ГАРАНТІЇ ТАЄМНИХ ОПЕРАЦІЙ У РОЗСЛІДУВАННЯХ ЩОДО БОРОТЬБИ З ВІДМИВАННЯМ КОШТІВ: ПЕРСПЕКТИВА ОАЕ]",
+    "authors": "Alhawawsheh A.N.; Al Sawy Y.M.; Al Dhaheri L.A.; Alfalahi Q.S.; Taher A.Q.M.; Soltan K.R.A.",
+    "year": "2026",
+    "doi": "10.33327/AJEE-18-9.2-a000196",
+    "abstract": "Background: Covert operations have become indispensable in the fight against financial and cybercrimes, specifically money laundering and the exploitation of digital financial platforms. In the United Arab Emirates (UAE), judicial police officers are legally empowered to utilize undercover techniques, including disguise, impersonation, confidential informants, and transaction surveillance, to detect illicit activities while ostensibly respecting the autonomy of suspects. Despite these provisions, significant ambiguities persist in distinguishing lawful detection from unlawful instigation, posing a risk to due process and the admissibility of evidence. Comparative jurisprudence, particularly from the European Court of Human Rights (ECtHR), emphasizes the necessity of judicial oversight, proportionality, and robust anti-entrapment mechanisms, offering a vital framework for modernizing UAE legal practices. Method: The study employed a descriptive-analytical research design, integrating quantitative and qualitative methodologies. A structured questionnaire was distributed to a sample of 321 specialists spanning the legal, financial, and cyber sectors in the UAE to evaluate expert perceptions regarding the operational effectiveness and ethical implications of undercover agents. Concurrently, a doctrinal analysis of the UAE Federal Decree-Law on Anti-Money Laundering was conducted. This included a rigorous examination of statutory provisions and judicial precedents, and a comparative evaluation against ECtHR standards and European Union (EU) directives, to identify operational, ethical, and legal gaps within the current UAE framework. Results and Conclusions: The study demonstrates that the strategic use of undercover agents significantly enhances the detection and prevention of money laundering within the UAE. Quantitative results confirm strong expert consensus: 76.5% of specialists identify confidential agents as vital for reducing financial crime, and 81% associate their deployment with increased anti-money laundering (AML) effectiveness. However, the research also exposes critical legal and ethical vulnerabilities, particularly when investigative tactics risk overriding a suspect’s free will or manufacturing criminal opportunities. Comparative analysis reveals that ECtHR jurisprudence provides a more robust framework for safeguarding due process, emphasizing mandatory judicial pre-authorization, proportionality, and the categorical exclusion of evidence obtained through entrapment. Although 73.2% of respondents indicated that increasing the effectiveness of local legislation is currently unnecessary, the doctrinal analysis suggests a normative gap that must be addressed to ensure procedural fairness. Consequently, the study recommends revising UAE legislation to clearly define the permissible scope of undercover activity, mandate prosecutorial or judicial oversight, and codify the exclusionary rule. Furthermore, implementing comprehensive training programs focused on legal ethics and human rights is essential to maintain public confidence in the justice system while preserving operational efficacy. © 2026 Ayman Nawwaf Alhawawsheh, Yaser Mohamad Al Sawy, Luma Ali Al Dhaheri, Qusay Salman Alfalahi, Abdulghani Q. M. Taher and Khaled R. A. Soltan.",
+    "source": "Access to Justice in Eastern Europe"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

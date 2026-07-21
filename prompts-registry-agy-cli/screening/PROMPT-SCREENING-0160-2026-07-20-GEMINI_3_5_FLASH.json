@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0160-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal frontiers in the war against money laundering: A doctrinal examination of global approaches",
+    "authors": "Anggriawan R.; Susila M.E.",
+    "year": "2024",
+    "doi": "10.26555/jhn.v15i2.27853",
+    "abstract": "Introduction to The Problem: Black money has a detrimental impact on a nation's macroeconomic and microeconomic, financial system, and international markets. The first idea to surface in the international literature when looking at the historical evolution of black money is money laundering. Criminal organizations employ various tactics to launder illicit funds, aiming to prevent the confiscation of the proceeds of their criminal activities. Purpose/Objective Study: This research delves into international perspectives on countering money laundering, a growing concern that poses threats to the security and stability of nations worldwide, and causes economic uncertainty. The study also investigates the progress and regulations surrounding this matter, along with the efforts of international organizations. Design/Methodology/Approach: The research used doctrinal legal research with employing statutory and conceptual approaches. Findings: This legal research underscores the importance of countries revisiting their domestic legal frameworks in light of the current scenario. The research stresses the importance of global cooperation between countries in effectively addressing money laundering. It urges nations to establish bilateral agreements to enable a seamless flow of information for this purpose. Paper Type: Research Article. © 2024 by Author(s).",
+    "source": "Jurnal Hukum Novelty"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

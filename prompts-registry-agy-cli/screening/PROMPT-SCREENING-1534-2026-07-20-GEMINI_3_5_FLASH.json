@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1534-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Gaining a voice: Storytelling and undocumented youth activism in Chicago",
+    "authors": "Swerts T.",
+    "year": "2015",
+    "doi": "10.17813/1086-671X-20-3-345",
+    "abstract": "In recent years, undocumented youth have come out of the shadows to claim their rights in the United States. By sharing their stories, these youth gained a voice in the public debate. This article integrates insights from the literature on narratives and emotions to study how storytelling is employed within the undocumented youth movement in Chicago. I argue that undocumented youth strategically use storytelling for diverging purposes depending on the context, type of interaction, and audience involved. Based on ethnographic research, I show that storytelling allows them to incorporate new members, mobilize constituencies, and legitimize grievances. In each of these contexts, emotions play a key role in structuring the social transaction between storyteller and audience. Storytelling is thus a community-building, mobilizing, and claims-making practice in social movements. At a broader level, this case study demonstrates the power of storytelling as a political tool for marginalized populations. © 2015 Mobilization: An International Quarterly.",
+    "source": "Mobilization"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

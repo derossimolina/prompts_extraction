@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2022-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Domestic Geographic Variation in Illicit Drug Prices",
+    "authors": "Caulkins J.P.",
+    "year": "1995",
+    "doi": "10.1006/juec.1995.1003",
+    "abstract": "It is conjectured that: (1) because of poor information flows and significant lateral transaction costs, illicit drug prices increase as one moves away from the source of those drugs, and (2) because of economies of scale, illicit drug prices are negatively related to market size. Hypotheses derived from these two conjectures are tested with data provided by the Middle Atlantic-Great Lakes Organized Crime Law Enforcement Network and are generally confirmed. © 1995 Academic Press. All rights reserved.",
+    "source": "Journal of Urban Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

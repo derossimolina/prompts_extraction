@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0909-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Approaching the Danske Bank Scandal in a \"tragedy of the Commons\" Perspective: Implications for Anti-Money Laundering Institutional Design and Regulatory Reforms in Europe",
+    "authors": "Minto A.; Skovmand Rasmussen N.",
+    "year": "2022",
+    "doi": "10.1515/ecfr-2022-0010",
+    "abstract": "Policy- A nd law-makers worry increasingly about how recent money laundering scandals unfolded. There is widespread confusion, though, about what went wrong-\"the failures\"- A nd uncertainty as to how to control and cope with them. This article offers a conceptual framework and legal analysis for examining the underpinning \"failures\", what causes them, and how, if at all, those failures interact with each other. In doing so, it disentangles three layers, namely \"corporate failure\", \"supervisory failure\", and \"political failure\". Historically, scholars have tended to think of each of those failures separately. However, we believe that a greater focus should be devoted to whether and how the three failures exhibit interactions and even feed on one another. This holistic perspective reveals that scandals such as the one in Danske Bank might result from a type of \"tragedy of the commons\"in which each layer-corporate, supervisory, and political-generate significant asymmetries of information between parties and actors, exacerbating the agency problems which pervade financial markets. The article will apply Elinor Ostrom's IAD (Institutional Analysis and Development) framework as to account for the complexity and interconnection in financial markets. Such framework is used to examine the recent developments in policy- A nd law-making in European anti-money laundering legislation. Not only does the IAD framework explain how the supervisor failure escalated and spilled over but it also sheds new light on why it happened. Together these insights are critical in a legal policy evaluation as they allow scholars to look pass the mere effects of the supervisory failure and focus diligently on the underlying causes. From a purely methodological perspective, it thus demonstrates the added value of incorporating an institutional analysis in doctrinal legal research. © 2022 Walter de Gruyter GmbH, Berlin/Boston.",
+    "source": "European Company and Financial Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

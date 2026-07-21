@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2337-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FROM MARKET INTEGRATION TO LAW ENFORCEMENT INTEGRATION: THE ECONOMIC FOUNDATIONS OF EUROPEAN POLICE CO-OPERATION",
+    "authors": "Behruz, H; Hrebeniuk, D; Biriukov, R",
+    "year": "2026",
+    "doi": "10.30525/2256-0742/2026-12-2-229-235",
+    "abstract": "The article analyses the development of police co-operation in Europe as a structural response to the intensification of economic integration within the European Union. It argues that the creation of the internal market-characterised by the removal of internal borders, the liberalisation of capital and goods, regulatory harmonisation and digitalisation-not only increased efficiency and reduced transaction costs for legitimate economic participants, but also produced enforcement externalities and collective action dilemmas in the area of transnationalcrime. The growth in cross-border financialflowsandmobilitywasdrivenby economicinterdependence. This created opportunities for regulatory arbitrage, money laundering, fraud and cyber-enabled economic crime. Consequently, internal security gradually became embedded within the Union's economic governance framework. Drawing on concepts from European integration, particularly liberal intergovernmentalism, the article demonstrates how exposure to economic risks at different levels affected countries' desire to utilise collective enforcement mechanisms. The transition from the TREVI Group's informal coordination to the establishment of Europol was a logical response by Member States to the increasing costs of independently enforcing laws in an increasingly integrated market. Europol's expanding remit, which now encompasses financial crime, counterfeiting, cybercrime and fraud, highlights the importance of countries collaborating to ensure a fair market, maintain financial stability and promote fair competition. The establishment of specialised organisations such as the European Cybercrime Centre demonstrates that law enforcement is adapting to the digital transformation of the European economy. The article concludes that police co-operation has become essential to the EU's economic resilience and strategic autonomy.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

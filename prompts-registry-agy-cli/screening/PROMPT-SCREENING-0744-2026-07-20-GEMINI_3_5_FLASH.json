@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0744-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How money laundering (ML) affects the loan portfolio quality of Islamic banks?",
+    "authors": "Shah I.H.; Aish K.; Kashif I.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-11-2021-0130",
+    "abstract": "Purpose: This research aims to examine the impact of money laundering (ML) and corruption on the asset quality of conventional and Islamic banks. Design/methodology/approach: The current study used the data of conventional and Islamic banks of Pakistan from 2012 to 2018. In this study, we used fully modified ordinary least squares, dynamic ordinary least squares and pooled ordinary least square methods to analyze the data. Findings: The results found that corruption and ML positively affect the conventional banking non-performing loans (NPLs). In contrast, corruption and ML harm the Islamic bank’s loan portfolio quality. Originality/value: To the best of the authors’ knowledge, the relationship between corruption, ML and NPLs in conventional and Islamic banks of Pakistan are examined for the first time. Practical Implications: According to the study’s findings, bank authorities should establish an effective method for monitoring loan activities and developing new and innovative products in Islamic banks. Additionally, the Pakistani government needs to improve anti-corruption and anti-ML policies to earn investors’ trust. © 2021, © Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0543-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Commodity Trade Mispricing: Evidence from Lao P.D.R.",
+    "authors": "Mehrotra R.; Nolintha V.; Sayavong V.",
+    "year": "2023",
+    "doi": "10.1080/08853908.2022.2108170",
+    "abstract": "Trade mispricing is a significant channel for tax base erosion from developing countries; however, evidence based on aggregated annual trade data remains limited. This article combines statistical price filter methods based on legal rules for customs valuation and transfer pricing analysis with extensive commodity sector research to present new evidence of commodity trade mispricing from Laos. Our analysis of transaction-level export data finds significant undervaluation in exports of coffee beans and identifies multiple risks of trade mispricing in copper exports. We identify trade between related firms, regulatory loopholes, and lack of customs valuation capacity as the main drivers of this phenomenon. © 2022 Taylor & Francis Group, LLC.",
+    "source": "International Trade Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

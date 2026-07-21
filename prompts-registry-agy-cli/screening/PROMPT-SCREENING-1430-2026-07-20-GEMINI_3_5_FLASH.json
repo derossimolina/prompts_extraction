@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1430-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Underground banks in NYC, their main clientele and operators: The perspective of Chinese illegal immigrants",
+    "authors": "Zhao L.S.",
+    "year": "2013",
+    "doi": "10.1016/j.ijlcj.2012.11.003",
+    "abstract": "The financial link of the process of illegal immigration is an unexplored area in previous studies. This current work is the first qualitative study to deal with this concern. The study examines the nature of Chinese-operated informal fund transfer systems in the U.S. by investigating the main clientele, operators or owners, location, and operation style of Chinese underground banks. The primary source of data came from in-depth interviews with thirty illegal immigrants in New York City and Philadelphia. The findings show that the emergence of underground banks in the U.S. coincided with the largest tide waves of Abstract: The financial link of the process of illegal immigration is an unexplored area in previous studies. This current work is the first qualitative study to deal with this concern. The study examines the nature of Chinese-operated informal fund transfer systems in the U.S. by investigating the main clientele, operators or owners, location, and operation style of Chinese underground banks. The primary source of data came from in-depth interviews with thirty illegal immigrants in New York City and Philadelphia. The findings show that the emergence of underground banks in the U.S. coincided with the largest tide waves of Chinese illegal immigrants smuggled into the U.S. They served as a preferred means of fund transfers among Chinese illegals due to the unique service they offered, not necessarily because of the clients' illegal status, or coercive means by smuggling groups. The evidence generated from this research provides support for the illegal enterprise perspective. Chinese illegal immigrants smuggled into the U.S. They served as a preferred means of fund transfers among Chinese illegals due to the unique service they offered, not necessarily because of the clients' illegal status, or coercive means by smuggling groups. The evidence generated from this research provides support for the illegal enterprise perspective. © 2012 Elsevier Ltd.",
+    "source": "International Journal of Law, Crime and Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

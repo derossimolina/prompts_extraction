@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1001-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial security of the state",
+    "authors": "Reznik O.; Getmanets O.; Kovalchuk A.; Nastyuk V.; Andriichenko N.",
+    "year": "2020",
+    "doi": "10.9770/jssi.2020.9.3(10)",
+    "abstract": "The article deals with the study of the financial security of the state as a component of its national security. It has been established that financial security is state's ability to react in an adequate and immediate way to internal and external negative financial influences in peacetime and in emergency situations, in particular in the context of a hybrid war. It has been established that the components of the financial security of the state are banking, debt, budget, currency and monetary security. It has been found out that corruption, financial and economic crime, hybrid war, fiscal decentralization, and lack of a strategy to protect the financial and economic interests of the state are threats to the financial security of the states in the present conditions. At the same time, proper protection of the financial security of the state against internal and external threats is possible only in case of quality management of the financial and economic sphere, first of all, this is the identification of threats to the financial security of the state, conducting of financial control, and counteraction and combating against financial and economic crimes, which is the task of law enforcement agencies. The development of the idea of creating a single law enforcement agency of Ukraine empowered to prevent, detect, suspend and investigate financial and economic crimes was considered. For comparison, attention was drawn to foreign experience, namely Italy, Romania, Macedonia, Austria, Croatia, Latvia, Lithuania, for which the activity of such law enforcement agencies is already established practice. The positive aspects which can be implemented in Ukraine as well as in other countries, intending to create a new law enforcement entity, were emphasized. © 2020 General Jonas Zemaitis Military Academy of Lithuania.",
+    "source": "Journal of Security and Sustainability Issues"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

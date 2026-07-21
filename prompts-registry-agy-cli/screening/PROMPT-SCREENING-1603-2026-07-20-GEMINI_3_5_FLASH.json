@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1603-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Building the Social Structure of a Market",
+    "authors": "McKague K.; Zietsma C.; Oliver C.",
+    "year": "2015",
+    "doi": "10.1177/0170840615580011",
+    "abstract": "Motivated by the question of how to develop viable new markets and value chains in the resource-constrained settings of least developed countries, we adopted multi-year qualitative methods to examine the intervention of a nongovernmental organization (NGO) in developing the dairy value chain in Bangladesh. Consistent with the theoretical premise that markets and value chains are social orders, we found that the NGO’s success relied on building the social structure of a market wherein market participants could negotiate relationships and norms of production and exchange and embed them in practices and technologies. To establish social structure among participants as a means of market building, the NGO acquired relevant knowledge, then used contextual bridging (transferring new meanings, practices and structures into a given context in a way that is sensitive to the norms, practices, knowledge and relationships that exist in that context), brokering relationships along the value chain (facilitating introductions and exchanges between value chain members) and funding experimentation (providing resources to test ideas and assumptions about new market practices). Market participants themselves also contributed to the development of the market’s social structure by means of social embedding (building relationships and negotiating norms of exchange and coordination), and material embedding (implementing technologies and practices and integrating market norms into technology). Increased productivity and equity and reduced costs of transactions resulted from the creation of a social structure that, in this case, preceded and enabled the economic structuring of a market rather than the other way around. © 2015, © The Author(s) 2015.",
+    "source": "Organization Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

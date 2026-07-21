@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1278-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Luigi Luzzatti and the making of the Italian monetary system",
+    "authors": "Solari S.",
+    "year": "2020",
+    "doi": "10.3280/SPE2020-002004",
+    "abstract": "After unification (1861) Italy had to face a badly integrated and oddly structured financial system as well as some fragmented or lacking institutions. The financial position of the country was characterised by double deficit in public and external balance. That caused several monetary and financial difficulties. In particular, monetary and banking institutions had to be step-by-step integrated and reorganised to support economic development in this new economic space. Luigi Luzzatti has been one of the main protagonists of this process of institution building. Besides his commitment with trade tariff negotiation and a variety of initiative in industry and environmental protection, he dedicated a wide effort to monetary institutions. He was one of the main supporters of the \"Latin Monetary Union\", which lasted from 1865 to 1928 and contributed to reforms dealing with the problem of the plurality of emission banks and of their control. Luzzatti also engaged in the development of \"popular banks\" to contribute to the structuring of the credit system from the bottom. © 2020 FrancoAngeli. All rights reserved.",
+    "source": "History of Economic Thought and Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

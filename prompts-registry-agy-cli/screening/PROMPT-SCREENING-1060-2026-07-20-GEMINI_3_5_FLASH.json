@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1060-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Do cryptocurrencies enable and facilitate modern slavery?",
+    "authors": "Naheem M.A.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-07-2020-0073",
+    "abstract": "Purpose: The purpose of this paper is to investigate the role of cryptocurrencies in facilitating operations relating to modern slavery and specifically human trafficking. Over the past decade, law enforcement agencies and intergovernmental organisations have established mechanisms, including financial regulations, to curb and identify such operations. Regulation over conventional financial institutions has greatly aided in identifying cross-border and transregional trafficking operations. However, there remains concern over the role of cryptocurrencies in the modern trafficking enterprise. Design/methodology/approach: This paper follows a review of the literature, discussing specific cases that have exposed the role of cryptocurrencies in facilitating human trafficking. This paper first presents a comprehensive discussion on the existing operational mechanism of organisations in human trafficking. Subsequently, it determines the potential use of cryptocurrencies in circumventing detection by law enforcement agencies. Findings: This paper finds that existing controls have allowed law enforcement to identify illicit transactions concerning human trafficking through conventional financial institutions. However, the most effective mechanism of identifying such operations is becoming increasingly difficult with the use of cryptocurrencies. Although there are potential solutions to the issues, cryptocurrencies, and the anonymity they offer, have allowed criminal organisations to evade detection using a more active marketplace through the internet. Research limitations/implications: Law enforcement agencies and regulators must take into account the nature of cryptocurrencies and the limitations of regulations on such global virtual assets. Instead, this paper’s findings suggest alternate methods, including regulation on exchanges, blockchain use for documentation and investments in detection technologies that allow identification of trafficking operations and forced labour. Originality/value: This paper presents existing cases and growing concerns that cannot be quantified in the current circumstance. Further, the paper aims to specifically discuss the role of cryptocurrencies in the existing human trafficking supply chain, offering readers and law enforcement agencies a perspective into criminal organisations’ combination of conventional trafficking operations and modern technological resources. Further, it makes a recommendation to invest in detection mechanisms that are different from the conventional theory based on identification by “following the money”. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

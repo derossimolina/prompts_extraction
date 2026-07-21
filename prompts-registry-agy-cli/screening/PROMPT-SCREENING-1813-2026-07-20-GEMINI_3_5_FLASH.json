@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1813-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How sukuk shapes firm performance",
+    "authors": "Klein P.-O.; Weill L.; Godlewski C.J.",
+    "year": "2018",
+    "doi": "10.1111/twec.12509",
+    "abstract": "With the large expansion of Islamic finance in the recent years, sukuk, which are the Sharia-compliant substitute to conventional bonds, are now becoming more prominent. The aim of this study was to examine the impact of sukuk issuance on firm performance. To do so, we analyse how stock market performance and operating performance (OP) are influenced by issuance of sukuk and bonds on a sample of Malaysian listed companies. We consider the short-term and medium-term stock market reaction through the computation of cumulative abnormal returns and buy-and-hold abnormal returns. We investigate the impact on OP by performing regressions and by calculating abnormal operating performance (AOP) so that we can compare how issuance affects similar firms. We find that sukuk issuance generates a negative stock market reaction both in the short term and in the medium term. We also find evidence that issuing sukuk hampers OP. The analysis of AOP shows that sukuk issuers have better performance than their matched bond issuers, but that sukuk contributes to reduce the gap in performance over time. Overall, our results support the view that sukuk issuance hampers stock market performance, but that it is not attributable to a signalling effect on the bad financial situation of the issuer. We interpret our findings as evidence of adverse selection taking place on the financed projects and agency problems stemming from the specific sukuk structuring with stock market investors more reluctant to invest in sukuk issuers. © 2017 John Wiley & Sons Ltd",
+    "source": "World Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

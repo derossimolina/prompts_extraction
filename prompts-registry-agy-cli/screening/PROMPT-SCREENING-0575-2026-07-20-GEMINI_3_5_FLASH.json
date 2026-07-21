@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0575-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A critical analysis of the anti-money laundering legal and regulatory framework of Mauritius: a comparative study with South Africa",
+    "authors": "Beebeejaun A.; Dulloo L.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-12-2021-0141",
+    "abstract": "Purpose: Indeed, the value of money laundering globally is between 2% and 5% of the world’s gross domestic product, which represents $800bn to $2tn per year. There is therefore a dire and urgent need to curb money laundering offences at both national and international level. As such, the purposes of this research are to critically analyse the anti-money laundering (AML) laws and regulations of Mauritius, to identify loopholes in inherent in the Mauritian system and to suggest recommendations to enhance the AML laws in the country. Design/methodology/approach: To achieve these research objectives, the study will adopt the black letter methodology by analysing laws and regulations on AML of Mauritius and will also conduct a comparative analysis against the corresponding AML laws of South Africa. In fact, South Africa has been selected for the comparison to assess how Africa’s most powerful economic powerhouse is dealing with issues of money laundering and whether Mauritius may implement some of these measures to enhance its legal and regulatory framework on AML. Findings: The research sets out a comprehensive view on the AML legislative framework of South Africa and Mauritius. It has highlighted the mechanisms used in these two countries to combat money laundering is the risk-based approach. Finally, recommendations have been proposed to improve the existing AML frameworks of Mauritius and which can further protect the financial system of the country. However, these suggestions will depend on the evolution of financial crimes within and outside the jurisdiction, and ongoing amendments will always be required to rigidly protect Mauritius from money launderers. Originality/value: At present, to the best of the authors’ knowledge, this study will be amongst the first academic writings on the effectiveness of the legal and regulatory measures undertaken by the Mauritian authorities to deal with AML crimes in the country. The study is carried out with the aim of combining a large amount of empirical, theoretical and factual information that can be of use to various stakeholders and not only to academics. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

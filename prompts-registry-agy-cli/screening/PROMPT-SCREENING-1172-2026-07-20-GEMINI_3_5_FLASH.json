@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1172-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Following the cyber money trail: Global challenges when investigating ransomware attacks and how regulation can help",
+    "authors": "Irwin A.S.M.; Dawson C.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-08-2017-0041",
+    "abstract": "Purpose: The purpose of this paper is to show how global regulation of cryptocurrencies and other cybercurrencies can assist in addressing the challenges of attribution when investigating ransomware attacks and other types of cybercrime using these payment methods. Design/methodology/approach: A literature review, looking at current academic research and discourse on the topic cryptocurrency regulation, is conducted to highlight current thinking and perceived difficulties in implanting a global regulatory framework. In addition, the research explores how governments have addressed the risks posed by cryptocurrencies and how regulation has been implemented. The research focuses on the regulatory approaches of Australia, Europe and the Americas to determine whether they could feasibly address the risks posed by cryptocurrencies and be implemented on a global scale. Findings: To date, few sustained efforts have been made to regulate Bitcoin or other cybercurrencies. Where regulation has been introduced, it has often proven too costly to implement, thereby, stifling Bitcoin industry growth, or too ad hoc to function effectively. These regulatory pitfalls are substantiated by the continuing difficulty faced by law enforcement agencies, in identifying individual Bitcoin users and separating those that are using them for nefarious purposes from those that are using them for legitimate ones. These challenges appear to grow exponentially when it comes to prosecuting criminals for Bitcoin-related offences, due to the enormous lack of agreement within the justice system of most countries as to the appropriate legal definition for Bitcoin. This research highlights three characteristics that will be vital to the success of any global regulatory framework. These are consistency, clarity and cost-effective implementation. A regulatory framework for Bitcoin that lacks any one of these elements will fail to meet the requirements of every stakeholder in the regulatory process. A framework that is too costly to implement will stifle fintech innovation, subsequently depriving national economies of the multitude of potential benefits promised by fostering fintech entrepreneurship. Equally, a framework that is inconsistent will hamper the global cooperation necessary to combat Bitcoin-related crime. Originality/value: This research evaluates research, discourse and regulatory responses from academic and governmental sources and discusses how a global response to cryptocurrency regulation will help address the growing problem of attribution when it comes to ransomware attacks, which has experienced a considerable spike in recent months. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

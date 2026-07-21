@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1435-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Chinese Underground Banks and Their Connections With Crime: A Review and an Appraisal",
+    "authors": "Zhao L.S.",
+    "year": "2012",
+    "doi": "10.1177/1057567712438917",
+    "abstract": "Chinese informal fund transfer systems (IFTS), widely known as underground banks, are one of the two prototypes of unregulated practices of fund transfer which could either use or bypass conventional banking institutions. This article focuses on the type of underground banking systems which primarily deals with foreign exchange and remittance transfer. The article proposes that underground banks are treated as illegal enterprises instead of a component of organized crime. This first qualitative study draws firsthand evidence from interviews made both in mainland China and in the United States. By depicting and analyzing the links of Chinese IFTS to human smuggling and money laundering, this article examines the extent to which the systems are involved in crime. © Georgia State University, College of Health and Human Sciences 2012.",
+    "source": "International Criminal Justice Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

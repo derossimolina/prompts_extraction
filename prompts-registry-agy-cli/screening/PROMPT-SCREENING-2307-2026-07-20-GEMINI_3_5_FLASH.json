@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2307-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global trends and insights into cryptocurrency-related financial crime",
+    "authors": "Al Naqbi, SA; Nobanee, H; Ellili, NOD",
+    "year": "2025",
+    "doi": "10.1016/j.ribaf.2025.102756",
+    "abstract": "This study employs a bibliometric analysis of publications related to cryptocurrency and financial crime, using the Scopus database and VOSviewer. The primary objective was to synthesize literature findings to enhance decision-making processes concerning cryptocurrencies. This analysis covered 424 documents, including book reviews, book chapters, conference papers, and journal articles. Most articles were related to computers and the social sciences. The study identified the most frequently cited documents and the leading nations in terms of citations, document count, and global research partnerships. Cuba had the highest citation count, whereas the United States led in document quantity and international research collaborations. The results suggest the need for robust regulatory frameworks to mitigate cryptocurrency transactions and financial crimes, international collaboration, and partnerships to establish effective regulatory strategies through standardized regulations and comprehensive monitoring systems. Additionally, the financial sector should identify and prevent cryptocurrency attributes that can diminish user anonymity and contribute to increased financial crimes. However, this study only analyzes studies from the Scopus database published between 1996 and 2023, with a focus on cryptocurrencyrelated financial crimes. Future research could explore the psychology behind cryptocurrency fraud, consumer trust in cryptocurrencies, the classification of cryptocurrency fraud by geography and fintech development, and the impact of regulatory changes on cryptocurrency crime prevention.",
+    "source": "RESEARCH IN INTERNATIONAL BUSINESS AND FINANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

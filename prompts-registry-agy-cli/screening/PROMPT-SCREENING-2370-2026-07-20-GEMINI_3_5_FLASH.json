@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2370-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Local intelligence - the missing link in CTF regulation in the banking sector",
+    "authors": "Naheem, MA",
+    "year": "2019",
+    "doi": "10.1108/JMLC-10-2015-0047",
+    "abstract": "Purpose This paper aims to examine the current challenges that banking counter-terrorism financing (CTF) regulation faces in the fight against global terrorism. The paper examines the potential impact on the banking sector of the current civil cases that have been taken against several of the leading global banks by victims and their families. Design/methodology/approach The paper reviews current academic thinking on CTF regulation and analyses these in context of several legal challenges that have been made against some of the larger global banks, including, HSBC, the Arab Bank and NatWest. Findings The paper finds that current approaches towards CTF compliance are no longer a viable option for banks, as court cases have found that additional factors need to be included in risk assessment frameworks. The main finding is that risk-based approaches need to find ways to incorporate local intelligence into their risk systems and that banks can no longer rely on basic tick box compliance measures. Research limitations/implications - There are implications for the banking and regulatory sectors developing anti-money laundering /CTF policies. There are also legal implications for the banking sector who may be seeking to defend accusations of supporting terrorism. Originality/value The paper's originality is that this level of analysis of CTF regulation using legal case studies has not been followed before.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

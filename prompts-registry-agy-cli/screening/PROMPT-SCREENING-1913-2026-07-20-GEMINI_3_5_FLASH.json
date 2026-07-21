@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1913-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A framework for data mining-based anti-money laundering research",
+    "authors": "Gao Z.; Ye M.",
+    "year": "2007",
+    "doi": "10.1108/13685200710746875",
+    "abstract": "PurposeThe purpose of this paper is to propose a framework for data mining (DM)-based anti-money laundering (AML) research. Design/methodology/approachFirst, suspicion data are prepared by using DM techniques. Also, DM methods are compared with traditional investigation techniques. Next, rare transactional patterns are further categorized as unusual/abnormal/anomalous and suspicious patterns whose recognition also includes fraud/outlier detection. Then, in summarizing the reporting of money laundering (ML) crimes, an analysis is made on ML network generation, which involves link analysis, community generation, and network destabilization. Future research directions are derived from a review of literature. FindingsThe key of the framework lies in ML network analysis involving link analysis, community generation, and network destabilization. Originality/valueThe paper offers insights into DM in the context of AML. © 2007, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1392-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The implications of the Brexit from EU and bitcoin",
+    "authors": "Al-Tawil T.N.; Younies H.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-05-2020-0050",
+    "abstract": "Purpose: The purpose of this paper is to tackle the most pressing issues confronting global anti-money laundering (AML) efforts, particularly, the implications of the Brexit from EU and the increasing association of bitcoin and cryptocurrencies with crimes. Design/methodology/approach: This paper will evaluate the implications of Brexit to AML efforts and the threat that cryptocurrencies like bitcoin pose to the financial system. Findings: Instead of banning trade and other transactions using BTC and other cryptocurrencies, financial experts, with the able assistance of IT and mining experts, from all over the world need to convene and tailor an effective regulatory framework. Solid cooperation among the international community, supported by unitary standards and procedures, will help boost the worlds AML/combatting the financing of terrorism (CFT) efforts. As an added bonus, effective regulation, monitoring and control can facilitate more efficient tax collection. Originality/value: Recommendations were advanced about the future of AML/CFT efforts and the need for internationally holistic approaches in combatting these twin scourges on all economies. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

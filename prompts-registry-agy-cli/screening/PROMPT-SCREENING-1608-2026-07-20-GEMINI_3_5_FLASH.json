@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1608-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ijarah contract: a practical dilemma",
+    "authors": "Zafar F.",
+    "year": "2012",
+    "doi": "10.1108/17590811211216078",
+    "abstract": "Purpose - This purpose of this paper is to highlight the weakness in vehicle Ijarah contract. Design/methodology/approach - A real life example of a vehicle Ijarah contract was studied in which a customer gets a car from an Islamic bank and then misuses the system. Findings - The case study provides a path for more research on Ijarah contract for vehicle leasing. Islamic bankers should take into account the amount of down payment requested besides the fulfilment of other criteria. Vehicle Ijarah contract is only appropriate when the amount of deposit or down payment requested is below 40 per cent threshold, otherwise a diminishing Musharakah contract should be preferred. Research limitations/implications - The research is only on one case reported in one of the Islamic banks in Pakistan. The solution is also by only one Shariah scholar. The future research should be on similar contract at entire Islamic Banking Industry. Views of all top Shariah scholars should be taken to mitigate such kind of risks for Islamic banks. Practical implications - This paper would trigger management of all Islamic banks to alter the structure of their vehicle Ijarah contracts. Social implications - Islamic bankers would be warned against making a vehicle Ijarah contract with individuals wanting to contribute more than a down payment, just for the sake of cheating the system. Originality/value - This paper is of great importance to the management of Islamic banks as this would raise flag against any future losses due to loopholes in the structuring of contracts. © 2012, © Emerald Group Publishing Limited.",
+    "source": "Journal of Islamic Accounting and Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2003-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Drugs and Deception: Undercover Infiltration and Dramaturgical Theory",
+    "authors": "Jacobs B.A.",
+    "year": "1992",
+    "doi": "10.1177/001872679204501203",
+    "abstract": "This paper addresses interactional strategies usE, d by undercover narcotics agents during covert drug transactions. Specific emphasis is given to the extent to which these strategies depend on particular drugs involvE, d. In this regard, four narcotics are examinE, d: marijuana, LSD, crack cocaine, and heroin. Discussion revolves around the concept of “interaction as infiltration,” a new reading of dramaturgical theory which considers the relationship between structural (extent of group closure) and qualitative (extent of verbal and nonverbal machination neE, dE, d to deceive) aspects of role performances. Data for this paper were drawn primarily from ethnograpahic interviews with 35 undercover narcotics agents locatE, d in a moderate-sizE, d midwestern (U.S.) municipality. © 1992, Sage Publications. All rights reserved.",
+    "source": "Human Relations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

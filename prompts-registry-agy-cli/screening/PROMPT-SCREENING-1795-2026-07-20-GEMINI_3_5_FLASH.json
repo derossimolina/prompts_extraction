@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1795-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A multi-attribute decision analysis for decommissioning offshore oil and gas platforms",
+    "authors": "Henrion M.; Bernstein B.; Swamy S.",
+    "year": "2015",
+    "doi": "10.1002/ieam.1693",
+    "abstract": "The 27 oil and gas platforms off the coast of southern California are reaching the end of their economic lives. Because their decommissioning involves large costs and potential environmental impacts, this became an issue of public controversy. As part of a larger policy analysis conducted for the State of California, we implemented a decision analysis as a software tool (PLATFORM) to clarify and evaluate decision strategies against a comprehensive set of objectives. Key options selected for in-depth analysis are complete platform removal and partial removal to 85 feet below the water line, with the remaining structure converted in place to an artificial reef to preserve the rich ecosystems supported by the platform's support structure. PLATFORM was instrumental in structuring and performing key analyses of the impacts of each option (e.g., on costs, fishery production, air emissions) and dramatically improved the team's productivity. Sensitivity analysis found that disagreement about preferences, especially about the relative importance of strict compliance with lease agreements, has much greater effects on the preferred option than does uncertainty about specific outcomes, such as decommissioning costs. It found a near-consensus of stakeholders in support of partial removal and \"rigs-to-reefs\" program. The project's results played a role in the decision to pass legislation enabling an expanded California \"rigs-to-reefs\" program that includes a mechanism for sharing cost savings between operators and the state. Integr Environ Assess Manag 2015;X:000-000. © 2015 SETAC.",
+    "source": "Integrated Environmental Assessment and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

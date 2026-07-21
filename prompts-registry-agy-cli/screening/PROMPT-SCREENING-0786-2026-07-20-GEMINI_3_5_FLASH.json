@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0786-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The (un)usual suspects? Exploring the links between illicit financial flows, Russian money laundering and dependent financialization in the Baltic states",
+    "authors": "Pataccini L.",
+    "year": "2024",
+    "doi": "10.1177/10245294231177352",
+    "abstract": "The paper analyses the links between illicit financial flows, money laundering and dependent financialization using the Baltic states as exploratory case studies. Since the restoration of their independence, Estonia, Latvia and Lithuania have been involved in several massive money laundering scandals, with illicit funds flowing mainly from Russia, as well as other former Soviet Republics. Currently, these episodes have taken on a new dimension in light of the Russian invasion of Ukraine. Until recently, the prevailing narrative was that illicit financial flows and money laundering in the Baltic states resulted from a failure in the financial system’s ability to monitor and detect these operations. However, this paper argues that far from being a simple shortcoming, money laundering and illicit financial flows in the Baltic states are products of dependent financialization in two main ways: first, in the decade leading up to the global financial crisis, the overall economic performance and the returns of financial actors in these countries became dependent on foreign capital inflows. This dependency was key to enabling the arrival of illicit financial flows and money laundering from the post-Soviet space, especially after the crisis. Second, due to its comparative advantages and its subordinate position in the international financial system, the banking sector of the Baltic states was used as an intermediary in global financial networks of money laundering for funds from the former USSR, where it assumed most of the financial, legal and reputational risks. Finally, the research also points to the emergence of new risks. © The Author(s) 2023.",
+    "source": "Competition and Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

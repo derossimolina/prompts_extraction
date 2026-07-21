@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1174-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring fund for affordable housing investment in Malaysia: an exploratory research",
+    "authors": "Mohd Daud M.A.; Rosly S.A.; Muhamad Sori Z.",
+    "year": "2021",
+    "doi": "10.1108/IJHMA-03-2020-0024",
+    "abstract": "Purpose: The purpose of this study is to explore potential fund-raising option that can be developed to attract investment in affordable housing initiatives in Malaysia. In doing so, the study undertakes to discuss the viability of the property trust fund structure as an investment vehicle. Design/methodology/approach: The study uses a qualitative design that involves the use of semi-structured questionnaires as a data collection strategy. A total number of ten experts were selected for the interview using critical case sampling scheme based on the purposive sampling strategy. Findings: The study discovers that a dynamic fund structure – one that allows for the fund to evolve with changing circumstances and needs – can be adopted. This fund structure comprises a fund that can be initially established as a closed-ended fund. Then, with sufficient track record, the fund can be transformed into a public real estate investment trust, with the prospect of tapping into capital market via issuance of sukuk in the future. The fund can also adopt mezzanine structure of funding, which may reduce investors’ risks with minimal government intervention. Research limitations/implications: The findings of this study illustrate the potential of fund-raising options from the perspective of institutional investors and regulators. Future research could explore government’s view and focus on the policy options. Practical implications: The findings may provide valuable insight into alternative fund-raising options for affordable housing projects for policymakers and investment banks. Social implications: The fund-raising options incorporate minimal government participation yet pose low risks to investors, creating a low-risk asset suitable for social investment. Originality/value: This study outlines the mechanism to increase affordable housing supply in the market, by attracting institutional investors to invest in this dynamic fund structure initiative. As there are limited discussions on attracting funding for affordable housing developments, it is hoped that this paper will spark further debate and discussion among the academicians and policymakers. © 2020, Emerald Publishing Limited.",
+    "source": "International Journal of Housing Markets and Analysis"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2023-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Brownfield redevelopment features: Applying Fuzzy Delphi",
+    "authors": "Glumac B.; Han Q.; Smeets J.; Schaefer W.",
+    "year": "2011",
+    "doi": "10.1108/17539261111157316",
+    "abstract": "Purpose: A brownfield site is well described by various definitions and the idea to redevelop it is supported by identifying numerous benefits for the society. Further, the existing literature covers a broad range of different aspects of the brownfield redevelopment thus elaborating different features. At present, there is no overview of the brownfield features from the real estate development perspective focusing on the physical, legal and financial aspects of a site and property. This paper aims to address these issues. Design/methodology/approach: At first, this paper contributes with the literature survey after which the features were structured according to the real estate development perspective. Additionally, the authors distinguish different expert groups and show the importance of keeping apart their aggregated opinions. Fuzzy Delphi technique is considered as an excellent method to gather such diverse panel data since it supports expert diversity in its procedure and calculation. Additionally, this method captures the uncertainty due to the human factor in valuation and thus improves the validity of the features quantification. Findings: The survey was among the experts grouped by the specific goals and tasks. This paper presents the findings how the different expert groups value the brownfield features relevant for development potential and what they are. Originality/value: The paper aims to contribute to the complex decision-making process in brownfield redevelopment by identifying, structuring and rating the most relevant features of development potential. The authors introduced the method that highlights the importance of rigorous procedure for the panel data collection and advances the weighting of the features. This is of particular importance for the field of the real estate development appraisal since the present features or variables influence the future marketability and cost of a development. Missing these features seriously endangers the appraisal. A similar threat can influence any econometric model recently extensively used in policymaking. © Emerald Group Publishing Limited.",
+    "source": "Journal of European Real Estate Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

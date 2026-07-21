@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1729-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of offshore financial centres in elite money laundering practices&colon; evidence from Nigeria",
+    "authors": "Julius Otusanya O.; Lauwo S.",
+    "year": "2012",
+    "doi": "10.1108/13685201211238070",
+    "abstract": "PurposeIn addition to contributing to the supply side of corruption in Africa, the West has historically played a major role in laundering the proceeds. The Offshore Financial Centres &lpar;OFCs&rpar; are characterised as jurisdictions that attract a high level of non&hyphen;resident financial activity. The purpose of this paper is to examine how senior political figures, their relatives and close associates have used OFCs in moving funds that may be a product of foreign corruption into Western countries. Design&sol;methodology&sol;approachThe paper locates the role of OFCs within the political economy theory of globalisation to argue that mobility of capital has been promoted by a number of advanced countries and micro&hyphen;states that use their sovereignty and law&hyphen;making powers to create an environment conducive to anti&hyphen;social practices by the major corporations and the political elite. The paper uses publicly available evidence to illuminate the role played by offshore financial centres in facilitating elite money laundering practices. FindingsThe evidence shows that, in pursuit of organisational and personal interest, the offshore financial centres create enabling structures that support illicit activities of the political and economic elite from developing countries. The paper concludes that the establishment of money laundering laws and the creation of anti&hyphen;money laundering agencies had not brought about ethical conduct within the global banking systems. Practical implicationsIt is impossible to quantify the volume of money laundered, but it has been estimated that money laundering may account for as much as 5 per cent of the world economy. Social implicationsSubstantial amounts of illicit money undoubtedly flow out of developing countries. Combating money laundering is a key goal in all democracies, due to its corrosive efforts on the rule of law, economic development, democratic principles, and its serious consequences for people everywhere. Originality&sol;valueThe paper examines predatory practices of the international financial industry in money laundering activities. © 2012, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

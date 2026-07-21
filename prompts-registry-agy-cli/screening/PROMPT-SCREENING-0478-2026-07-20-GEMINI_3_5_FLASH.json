@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0478-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial Crime Scripting: an Analytical Method to Generate, Organise and Systematise Knowledge on the Financial Aspects of Profit-Driven Crime",
+    "authors": "Snaphaan T.; van Ruitenburg T.",
+    "year": "2025",
+    "doi": "10.1007/s10610-023-09571-9",
+    "abstract": "This article presents a further development of the existing crime scripting framework to enhance insight in the financial aspects of profit-driven crime: financial crime scripting. By drawing on the foundations of crime script analysis, financial crime scripting allows to generate, organise and systematise knowledge about the financial aspects of the crime commission processes of a variety of crime types, and accounts for linking the dots with financial crimes, such as bribery, bankruptcy fraud and money laundering. Viewing these financial crimes as supporting or succeeding offences in light of profit-driven crimes, and at the same time providing guidance to analyse these offences as profit-driven crimes in itself, opens the door for detailed analyses without losing sight of the bigger picture, i.e., the interconnectedness with other crimes. This analytical method helps crime researchers to take into account the financial aspects of crime-commission processes in crime script analyses and could help law enforcement agencies and other crime prevention partners to go beyond a proceeds-of-crime approach and put a follow-the-money approach in practice. Financial crime scripting takes full account of the financial aspects of profit-driven crime and puts relevant concepts in broader perspective, enhancing understanding with conceptual clarity. In addition to outlining the framework, the relevance for policy and practice is unravelled and avenues for future research are discussed. © The Author(s) 2024.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

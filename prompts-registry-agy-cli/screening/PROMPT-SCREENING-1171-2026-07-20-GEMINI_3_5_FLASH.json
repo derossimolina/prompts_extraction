@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1171-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Virtual and cryptocurrencies—regulatory and anti-money laundering approaches in the European Union and in Switzerland",
+    "authors": "Frick T.A.",
+    "year": "2019",
+    "doi": "10.1007/s12027-019-00561-1",
+    "abstract": "Cryptocurrencies and virtual currencies gained prominence in 2017 and 2018. The European Union has closely observed developments but has not been proactive in regulating this new phenomenon. In the Fifth Anti-Money Laundering Directive, a definition of virtual currencies was introduced to EU law for the first time. Reports published by the European Securities and Markets Authority and by the European Banking Authority, both in 2019, provide further clarification on the approach being taken at EU level. Switzerland has been at the forefront of crypto developments. The Swiss approach to regulating the crypto world is different from the approach taken e.g., in Malta and Liechtenstein and may serve as an additional inspiration for EU regulators. © 2019, Europäische Rechtsakademie (ERA).",
+    "source": "ERA Forum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

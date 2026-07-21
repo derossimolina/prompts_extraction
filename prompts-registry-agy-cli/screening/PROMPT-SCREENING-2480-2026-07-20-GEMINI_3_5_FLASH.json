@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2480-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of blockchain on the banking sector: A systematic review of applications, challenges, and future directions",
+    "authors": "Said, Y; Khaddar, A; Hassine, L; Eddaoui, A; Chafiq, T",
+    "year": "2026",
+    "doi": "10.1016/j.aglobe.2025.100133",
+    "abstract": "This systematic review evaluates blockchain adoption in the banking and financial sector through 38 peerreviewed studies published between 2020 and 2024. Following PRISMA 2020 and Kitchenham's methodological standards, it provides a transparent synthesis of how blockchain is reshaping payments, settlements, trade finance, KYC/AML processes, data governance, and Central Bank Digital Currencies (CBDCs). Evidence shows consistent gains in transaction speed, reconciliation accuracy, and auditability, confirming blockchain's transition from a disruptive concept to an emerging institutional infrastructure. However, significant challenges persist, including scalability limits, interoperability gaps, regulatory misalignment, and privacy-accountability tensions. The review highlights a shift from pilot experiments toward early industrial integration supported by consortium-based governance and hybrid architectures. It concludes with strategic implications for banks and regulators, emphasizing collaboration, flexible regulatory frameworks, standardized interoperability protocols, and the development of transparent and explainable RegTech solutions.",
+    "source": "ASIA AND THE GLOBAL ECONOMY"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2264-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FEATURES OF FINANCIAL AND LEGAL LIABILITY IN UKRAINE",
+    "authors": "Dubynskyy, O; Dubynskyi, I; Markin, S",
+    "year": "2024",
+    "doi": "10.30525/2256-0742/2024-10-1-72-79",
+    "abstract": "The subject of the study is public relations in the field of financial and legal responsibility in Ukraine. Methodology. The methodological basis of the study is the methods of induction and deduction, the dialecticalmaterialistic method, the method of analysis and synthesis, and the historical method, which allowed for an objective understanding of the content and essence of the issues under study. The aim of the article is to analyse the theoretical aspects of the features of financial and legal liability in Ukraine in order to propose effective ways to improve the mechanism of these procedures. The results of the study have shown that the independence of financial responsibility in Ukraine is emphasised by the relevant criteria, which include the obligation of a person guilty of committing a financial offence to undergo measures of state coercion provided for by the sanctions of financial legislation. Conclusion. Financial responsibility in Ukraine is a legal relationship with a special procedural form of implementation. Financial and legal responsibility is an independent measure of financial sovereignty of the state, has its own legal nature and occupies a certain place in financial legal relations. At the same time, it should be said that liability for violation of financial legislation does not exist only within the framework of financial legislation. Financial responsibility is undoubtedly a type of legal responsibility and is primarily due to the special sphere of sectoral activity of the state and its authorised bodies, which today is considered to be the financial activity of the state, where not all subjects of law are involved, but only subjects of financial law and their financial obligations, which differ only in their ownership, price and public character. Another peculiarity is that, as a rule, financial and legal liability is by its nature restorative, aimed at eliminating negative and other undesirable consequences caused to the financial system of the state. This feature of financial and legal liability reflects the public nature of financial obligations, the fulfilment of which is ensured by the application of financial liability. Some peculiarities that distinguish financial liability in Ukraine are caused by the nature of financial offences that are the basis for financial liability and distinguish financial liability from other types of liability applied both in connection with administrative and disciplinary offences and in connection with criminalised financial crimes and civil offences, the subjects of which are usually independent individual subjects of financial activity, individuals, and companies.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1213-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The British Home Stores pension scheme: privatised looting?",
+    "authors": "Clark I.",
+    "year": "2019",
+    "doi": "10.1111/irj.12261",
+    "abstract": "On entering administration, British Home Stores owed its pension scheme £571 million—a significant employment relations issue of historical wage theft by investor–owner managers. The article locates ‘lawful’ looting of business assets in a framework that builds on Ackerlof and Romer's theory of bankruptcy for profit and connects this to an empirical narrative on business re-structuring at British Home Stores towards administration. © 2019 The Authors Industrial Relations Journal published by Brian Towers (BRITOW) and John Wiley & Sons Ltd",
+    "source": "Industrial Relations Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

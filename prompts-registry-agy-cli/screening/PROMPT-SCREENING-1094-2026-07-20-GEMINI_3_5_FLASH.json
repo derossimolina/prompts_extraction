@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1094-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Prosecuting EU Financial Crimes: The European Public Prosecutor's Office in Comparison to the US Federal Regime",
+    "authors": "Díez C.G.-J.; Herlin-Karnell E.",
+    "year": "2018",
+    "doi": "10.1017/S2071832200023002",
+    "abstract": "Why is the fight against financial crimes such a central task for the EU? The EU has a strong interest to counter financial crimes and fraud against the EU budget as those crimes-so the EU legislator's claim is-hamper the trust in the market and undermine consumer confidence to engage in internal market transactions. In this Article, we aim to discuss the establishment of the European Public Prosecutor Office as a federal agent and the effects of this agent for establishing a robust EU financial crimes regime. Comparisons with the US system of US Attorneys-federal prosecutors-will be drawn to show that this institution has been quite effective at enhancing the protection of US financial market. The Article will then discuss to what extent the EU can, and should, learn from the American experience. We are particularly interested in the strong security focus in the EU and its consequences when it ventures into the area of financial crimes. © 2023 German Law Journal. All rights reserved.",
+    "source": "German Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

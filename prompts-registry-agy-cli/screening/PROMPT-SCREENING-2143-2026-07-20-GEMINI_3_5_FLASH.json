@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2143-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Defining organised crime in Australia and the USA",
+    "authors": "Bersten M.",
+    "year": "1990",
+    "doi": "10.1177/000486589002300104",
+    "abstract": "Although of great importance and widespread usage, the phrase “organised crime” has no settled meaning. It is often defined imprecisely and inadequately, thereby having a misleading and unhelpful effect in the many contexts in which it is used. In this article the leading examples in Australia and the USA of the main types of definitions of organised crime are critically analysed. Through identifying their many and various unsatisfactory features an alternative definition is developed, namely that organised crime is the field of transactions materially connected with markets in illegal goods and services. By way of conclusion, its advantages and application are briefly noted. © 1990, SAGE Publications. All rights reserved.",
+    "source": "Australian & New Zealand Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

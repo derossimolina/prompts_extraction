@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0053-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Real estate revalorization through the rent gap in traditional neighborhoods of Santiago de Querétaro, Mexico; [Revalorisation immobilière par l’écart de rente dans les quartiers traditionnels de Santiago de Querétaro, Mexique]; [Revalorização imobiliária por meio da lacuna de renda nos bairros tradicionais de Santiago de Querétaro, México]; [Revalorización inmobiliaria mediante la brecha de renta en barrios tradicionales de Santiago de Querétaro, México]",
+    "authors": "López-Torres M.G.; Valenzuela-Aguilera A.",
+    "year": "2026",
+    "doi": "10.15446/bitacora.v36n1.122460",
+    "abstract": "This article analyzes urban renewal in the traditional neighborhoods of La Cruz and San Francisquito in Santiago de Querétaro through the lens of rent gap theory. Its objective is to examine how redensification policies and regulatory incentives reshaped real estate market dynamics and land use between 2014 and 2019. Methodologically, the study analyzes residential and short-term rental data, estimated land values, and census and regulatory information to calculate rent capitalization and differentials. The findings show that in La Cruz, the expansion of short-term rentals significantly widened the rent gap, encouraging processes of valorization and population displacement. In San Francisquito, by contrast, valorization is mainly associated with renovated housing and follows a more moderate and deferred trajectory. The article concludes that urban renewal operates as a structuring mechanism of socio-spatial reconfiguration, orienting urban production toward rent maximization and reinforcing patterns of segregation and housing exclusion. © (2026), (Universidad Nacional de Colombia). All rights reserved.",
+    "source": "Bitacora Urbano Territorial"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

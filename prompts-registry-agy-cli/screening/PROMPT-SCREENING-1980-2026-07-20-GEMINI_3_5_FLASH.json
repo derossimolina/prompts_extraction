@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1980-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The puzzle of the Iguazu Tri-Border Area: Many questions and few answers regarding organised crime and terrorism links",
+    "authors": "Costa T.G.; Schulmeister G.H.",
+    "year": "2007",
+    "doi": "10.1080/17440570601121845",
+    "abstract": "It is widely accepted that the Tri-Border Area between Argentina, Brazil and Paraguay is a nexus in global terrorist support, and perhaps even operations. However, it is rather more difficult actually to provide evidence of this connection. The region is certainly a smuggling haven, and has substantial populations from the Middle East. Beyond remittances sent to the Middle East - some of which flows to such organisations as Hezbollah - there is little hard evidence available to the academic researcher. Thus the study of this purported crime-terror nexus provides a valuable opportunity for academic researchers to question the assumptions and assertions of policy-makers and pundits, push for transparency of information on the reality of the region and even help understand the problem better.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

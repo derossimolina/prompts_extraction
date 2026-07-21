@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1072-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Distributing tobacco in the dark: assessing the regional structure and shipping patterns of illicit tobacco in cryptomarkets",
+    "authors": "Munksgaard R.; Décary-Hétu D.; Malm A.; Nouvian A.",
+    "year": "2021",
+    "doi": "10.1080/17440572.2020.1799787",
+    "abstract": "The size of the global market for illicit tobacco products is estimated to be between USD$8.6 and USD$11.6 billion yearly. In addition to an estimated cost of USD$40.5 billion in lost tax revenue the illicit tobacco market further increases the accessibility of a harmful substance for minors and provides a revenue stream for both organised crime and violent political groups. In this paper, we examine how tobacco products are distributed globally through illicit online platform economies known as cryptomarkets. Using data from the cryptomarket Empire, we find tobacco products remain a small niche market exclusively shipping from the EU and that shipping patterns suggest the emergence of new supply routes for end-consumers within Western Europe originating from the UK. We find that the market for tobacco on cryptomarkets remains minimal, as in previous research, compared to the market for drugs. © 2020 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

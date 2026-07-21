@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2314-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crypto Investing: A New Frontier of Gambling and Addiction?",
+    "authors": "Nemlioglu, I; Ding, WJ; Wang, QW",
+    "year": "2024",
+    "doi": "10.1515/9783110981551-004",
+    "abstract": "The extreme volatility of Bitcoin prices in recent years has raised questions about the underlying drivers of this behaviour and whether Bitcoin is a Ponzi scheme. This chapter discusses the role of gambling preference that partially explains the large price swings in cryptocurrency markets. We analyse the properties of crypto assets that are attractive to gamblers and speculators to these markets, and discuss the challenging issues of crypto addiction and cryptocurrency-related financial crimes, and their implications for investors and regulators.",
+    "source": "ADVANCES IN BLOCKCHAIN RESEARCH AND CRYPTOCURRENCY BEHAVIOUR"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

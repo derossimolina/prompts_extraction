@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1804-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "New norms on alternatives to criminal liability and punishment for economic criminalsand drug addicts in russian criminal law",
+    "authors": "Burlakov V.N.; Matveyeva Y.M.",
+    "year": "2017",
+    "doi": "10.17150/2500-4255.2017.11(1).132-145",
+    "abstract": "The paper is devoted to new criminal law norms in Russian legislation. One of the norms regulates exemption from criminal liability for economic crimes (Art. 76.1 of the CC of the RF), the other one - suspended sentences for drug addicts (Art. 82.1 of the CC of the RF). The authors examine social and legal reasons for including these norms in the Criminal Code of the Russian Federation and offer a detailed description of their contents. They present an assessment of changes and amendments introduced in Article 76.1 of the CC of the RF (in the Federal Law edition of June 8, 2015 and the Federal Law of 3 July, 2016), which widen the list of crimes for which exemption from criminal liability is possible and lower the limits for the criminal law sanctions of monetary (financial) character as an obligatory condition for such an exemption. They also conduct a comparative legal analysis of Russian norms and norms providing similar grounds in the legislation of the CIS and Western European countries to trace the sources of criminal policy aimed at the liberalization of legislation. This analysis helped detect some drawbacks in Russian norms. The authors studied and presented court decisions on the use or the absence of use of these norms in different Russian regions to understand how these drawbacks influence the practice of law enforcement, they also studied the emerging law enforcement problems. It turned out that these issues have not only material, but also procedural law character. In conclusion the authors present some suggestions that could help eliminate the drawbacks in these norms and offer recommendations on overcoming disputable points in the practice of their enforcement. The status of these recommendations will be enhanced if they are included in the Resolution of the Plenary Session of the Supreme Court of the Russian Federation «On the Court Practice for Cases Connected with Narcotic Substances, Psychoactive, Potent and Poisonous Substances» of June 15, 2006 No 14. © 2017, Baikal National University of Economics and Law. All rights reserved.",
+    "source": "Russian journal of criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

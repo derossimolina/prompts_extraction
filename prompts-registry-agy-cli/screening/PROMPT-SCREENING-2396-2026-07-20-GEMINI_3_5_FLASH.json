@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2396-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banks and money laundering - certainty at last?",
+    "authors": "Isaacs, M; Wilding, R",
+    "year": "2007",
+    "doi": "10.1080/17521440.2007.11427913",
+    "abstract": "This article addresses how the law has been clarified since Bank of Scotland v A Ltd,(1) and how the law now reconciles the duties owed by banks to their customers and their obligations under antimoney laundering (AML) legislation. Additionally, empirical research undertaken by the second author suggests that, whilst AML requirements are still complex, a shared understanding of them exists. The authors suggest that, combined with the evolved case law outlined, this allows banks to understand and act appropriately when faced with AML issues. It also supports the Financial Services Authority's move to principlesbased regulation and suggests that the move will be successful because the City or the regulatory playing field), through regulatory conversations, has developed into an epistemic community.",
+    "source": "LAW AND FINANCIAL MARKETS REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

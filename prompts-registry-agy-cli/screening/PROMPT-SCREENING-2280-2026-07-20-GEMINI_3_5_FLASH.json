@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2280-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "OFFSHORE TERRITORIES: POSITIVE AND NEGATIVE IMPACTS ON THE GLOBAL ECONOMY",
+    "authors": "Tytko, A; Sukhan, I; Koshchynets, M",
+    "year": "2018",
+    "doi": "10.30525/2256-0742/2018-4-5-352-356",
+    "abstract": "The aim of the article is to analyse and clarify the areas of development of offshore zones in the functioning of the world economic system. The subject of the study is offshore zones and offshore international centres as the locus of laundering of funds obtained by illegal means and their impact on the economy in total. Methodology. The study is based on the use of general scientific and special scientific methods in studying a coherent picture of development and possible trends in the further functioning of offshore zones in the global economic system. General scientific methods such as deduction, induction, analogy, analysis, synthesis enabled to reveal the implication of the world's offshore zones as a system for laundering illegally obtained funds. The comparative method enabled to distinguish the specific features of offshore zones and offshore international centres and to identify common and distinctive features. The prognostic method allowed forming an original outlook on the advantages and disadvantages of offshore activities. Logical-semantic and dogmatic methods enabled to define the concepts of offshore jurisdiction, offshore zone, offshore financial centre and their specific features. The results of the study enabled to consider offshore zones, offshore financial centres and international financial centres, in terms of their specific features, as certain territories and areas of certain states, where under the exclusive conditions of doing business outside the territory of registration, non-resident entities are granted benefits and privileges in doing business, taxation, registration, and financial reporting, as well as an exclusive privilege of confidentiality. Practical implications. In the study, first, the concepts of offshore zone, offshore financial centre, international offshore centre are defined; second, the scientific approaches to their classification are analysed and compared in the specialized literature, the Fifth Directive is considered as the main legal regulation of money laundering and the BEPS Project; third, the author's outlook on the positive and negative features of offshore activities and their impact on the world economy are substantiated. Relevance/originality. The author's approach to the definition of the main features of offshore zones and offshore financial centres through the analysis of their qualitative characteristics is offered to determine the key areas of their development trends.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

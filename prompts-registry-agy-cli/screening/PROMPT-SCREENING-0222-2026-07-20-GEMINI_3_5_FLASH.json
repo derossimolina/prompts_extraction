@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0222-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Beyond the veil: unpacking money laundering through economic models, emerging technologies, and government capture",
+    "authors": "Barone R.; Schneider F.",
+    "year": "2026",
+    "doi": "10.1007/s10101-025-00343-1",
+    "abstract": "Money laundering (ML) remains a complex and pervasive global challenge, with significant economic, social, and political implications. This literature review delves into the evolving landscape of ML and anti-money laundering (AML) efforts, providing a comprehensive analysis across theoretical underpinnings, empirical methodologies, the dual impact of emerging technologies like Artificial Intelligence (AI) and cryptocurrencies, and the systemic challenges posed by government capture. The review clarifies the economic models driving criminal behavior and regulatory countermeasures, highlighting the limitations of current estimation methods while acknowledging the transformative potential of advanced analytics. It critically examines how AI enhances both illicit activities and detection capabilities, and how cryptocurrencies introduce new risks alongside opportunities for enhanced traceability. Furthermore, the analysis underscores how subtle forms of government capture can undermine tax enforcement and facilitate illicit financial flows, acting as a form of \"legal\" money laundering. Moreover, it emphasizes the increasing sophistication of ML schemes, the evolving tools for combating them, and the critical need for a multi-faceted, internationally coordinated, and ethically grounded approach to safeguard the integrity of the global financial system. This includes addressing the \"crying wolf\" problem in suspicious activity reporting. © The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2025.",
+    "source": "Economics of Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

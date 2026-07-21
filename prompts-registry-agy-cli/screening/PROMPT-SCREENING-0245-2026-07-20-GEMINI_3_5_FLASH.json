@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0245-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dispute boards in street lighting concessions: analysis of contractual clauses based on the guidelines of international organizations; [Os comitês de resolução de disputas (dispute boards) nas concessões dos serviços de iluminação pública: análise de cláusulas contratuais a partir das diretrizes de organismos internacionais]",
+    "authors": "Vieira M.P.; Dias M.T.F.",
+    "year": "2024",
+    "doi": "10.5007/2177-7055.2024.e103102",
+    "abstract": "In the context of consensual mechanisms and dispute resolution methods, the paper presents and discusses the literature review, concepts, and types of Dispute Boards involving public administration. In structuring public sector projects, the World Bank and the Dispute Board Resolution Foundation issued guidelines for drafting Dispute Board clauses in public agreements. In Brazil, Caixa Econômica Federal (CEF) and the National Bank for Economic and Social Development – Banco Nacional de Desenvolvimento Econômico e Social (BNDES) have been modeling concession agreements for public lighting services by including such clauses. Thus, the study aimed to identify whether the clauses modeled by CEF and BNDES comply with the guidelines of these international bodies, and if there are standard clauses from CEF and BNDES that are replicated in these agreements. To address these questions, the contractual clauses of 26 public lighting concession agreements were analyzed: 16 from CEF and 10 from BNDES. It was concluded that there is a similarity between the clauses modeled by the Brazilian structurers. However, there is a need to improve these contracts based on the guidelines and recommendations established by those international bodies, which have not been fully incorporated into the clauses of the agreements studied. © 2024, Universidade Federal de Santa Catarina. All rights reserved.",
+    "source": "Sequencia"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

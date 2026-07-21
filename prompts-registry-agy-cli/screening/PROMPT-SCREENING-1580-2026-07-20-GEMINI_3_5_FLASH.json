@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1580-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An analysis of the 'know your customer' policy as an effective tool to combat money laundering: Is it about who or what to know that counts?",
+    "authors": "Tuba M.; Van Der Westhuizen C.",
+    "year": "2014",
+    "doi": "10.1504/IJPLAP.2014.057870",
+    "abstract": "The 'know your customer' (KYC) policy has emerged as an important strategy for a proactive war against money laundering both nationally and internationally. In terms of this policy, financial institutions in most countries are required to identify their clients and the legitimacy of their financial transactions. The main purposes of this policy are profiling the originators of this potentially anti-economic crime as well as tracking the audit trail of any money that flows into our banking systems. However, a closer look at both the international and many of the national anti-money laundering strategies reveals that their regulatory instruments do not address both these purposes for combating money laundering. The question that needs to be asked is whether the buck of KYC policy can effectively stop with financial institutions profiling who their customers are rather than also tracking the trails of money through all the banking systems that money flows into. This paper will analyse both the South African and the international money laundering regulatory frameworks with specific focus on the Financial Action Task Force on Money Laundering and attempts to explore the shortfalls of the KYC policy as an anti-money laundering tool. Copyright © 2014 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Public Law and Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

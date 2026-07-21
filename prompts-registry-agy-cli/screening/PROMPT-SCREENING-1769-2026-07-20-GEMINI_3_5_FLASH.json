@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1769-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cash and carry: the high cost of currency smuggling in the drug trade",
+    "authors": "Soudijn M.; Reuter P.",
+    "year": "2016",
+    "doi": "10.1007/s10611-016-9626-6",
+    "abstract": "This research, based primarily on financial records of Colombian money smugglers found by Dutch police investigators, describes the costs and operations of a segment of the high-level drug trade not previously documented in the scholarly literature. Cocaine traffickers pay brokers to move their revenues from the Netherlands to Colombia. The transfers, almost all in 500 euro notes, amount to hundreds of million of euros annually during the period 2003–2008 and drew on the recruitment of hundreds of individuals not otherwise involved in the drug trade. The total cost of the service (bulk cash smuggling) is over 10 % and could be as high as 17 %. These data also shed light on the workings of criminal labor markets and point to some interesting imperfections. The existence and cost of this segment of the cocaine trade suggests that anti money laundering regulations, and perhaps drug enforcement generally, do significantly raise the costs of smuggling, though not of the retail price. The findings also are evidence of the importance 500 euro notes played in facilitating the drug trade, a claim often made but never previously documented (While the article was under review, the European Central Bank (ECB) came to the decision to phase out the 500 euro note. Also see https://www.ecb.europa.eu/press/pr/date/2016/html/pr160504.en.html). © 2016, Springer Science+Business Media Dordrecht.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

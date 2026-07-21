@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1954-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering - A global obstacle",
+    "authors": "Buchanan B.",
+    "year": "2004",
+    "doi": "10.1016/j.ribaf.2004.02.001",
+    "abstract": "One of the biggest obstacles to maintaining an effective operating international financial system is money laundering. A global phenomenon and international challenge, money laundering is a financial crime that often involves a complex series of transactions and numerous financial institutions across many foreign jurisdictions. In addition, money laundering is also extremely difficult to investigate and prosecute. In this paper, I present a clinical examination of the money laundering process, the international extent of the problem and global efforts to introduce anti-money laundering measures and regulation in recent years. © 2004 Elsevier B.V. All rights reserved.",
+    "source": "Research in International Business and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

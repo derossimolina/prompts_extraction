@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2287-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The anti-money laundering law in Tanzania: Whither the ongoing war against economic crimes?",
+    "authors": "Mniwasa, EE",
+    "year": "2021",
+    "doi": "10.1108/JMLC-09-2020-0099",
+    "abstract": "Purpose This paper aims to explore the evolution of the law for combating economic crimes including money laundering in Tanzania and explore the current developments in the anti-money laundering (AML) law and the ongoing fight against these crimes in Tanzania. Design/methodology/approach A desk-based review of documents on money laundering and its control in Tanzania was conducted. The paper presents qualitative data from the documentary sources. It applies the doctrinal legal research approach to examine, analyze and describe the AML law applicable in Tanzania. The paper uses the law-in-context research approach to explore some non-law aspects of money laundering in Tanzania and interrogate how the law addresses non-law dimensions of money laundering. Policy documents and media reports were analyzed. The thematic data analysis technique was applied, which involved identifying, describing and reporting issues according to the themes emerging from the data. Findings The AML law in Tanzania emerged from the law that was originally enacted to curb economic crimes. The law has evolved for some decades. Its evolution has been driven by domestic factors and foreign drivers which are political, economic and social in nature. The role of the AML law has been changing. Initially, the law was a tool for curbing economic crimes. Recently, the law has acquired a new role, namely, to facilitate the recovery of illicit funds and non-financial assets from offenders and enable the authorities in Tanzania to use those economic resources for developmental purposes. Research limitations/implications The paper underscores the need for the Government of Tanzania to re-consider the broader implications involved in its current efforts to tackle economic crimes and money laundering. The balance between the implementation of the measures to combat money laundering and economic crimes in Tanzania and the importance of protecting rights of persons indicted with those offences should be struck. The AML law should be applied in such a way not to infringe the rights of the accused persons and not to throttle economic activities including the flow of legitimate foreign investments into Tanzania. Originality/value This paper generates insightful information to policymakers, law enforcers, regulators and other stakeholders who undertake activities to tackle money laundering and its control in Tanzania and researchers who study these issues for purposes of providing understanding of the problem and facilitating policy and legal reforms. The paper raises issues that can be explored further in future and contribute to the discourse on money laundering and its control in Tanzania.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

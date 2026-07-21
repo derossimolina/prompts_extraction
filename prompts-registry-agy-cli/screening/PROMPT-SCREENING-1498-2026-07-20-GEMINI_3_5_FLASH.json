@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1498-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The money laundering risks and vulnerabilities associated with MMM Nigeria",
+    "authors": "Esoimeme E.E.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-01-2017-0002",
+    "abstract": "Purpose: This paper aims to help build awareness with the regulatory, enforcement and customs authorities as well as reporting entities about money laundering risks and vulnerabilities of the Mavrodi Mondial Movement (MMM) scheme, and how to mitigate them. Design/methodology/approach: The research took the form of a desk study, which analyzed various documents and reports such as the Financial Action Task Force (FATF) typologies reports in 2006, 2008, 2010, 2013 and 2014 on new payment methods (NPMs) which focused on the potential for NPM to be misused by criminals; the identification of risk factors which can significantly differ from one new payment product or service to another, depending on functionality; and risk mitigants which can be tailored to a particular new payment product or service to address its specific risk profile. Findings: This paper presents the following findings and recommendations: high-risk customers such as politically exposed persons (PEPs) could exploit the non-face-to-face feature of MMM by using the identity of low-risk customers (e.g. pensioners) to open MMM accounts. The Bitcoin funding option may present a higher money laundering risk than Bank wire, MasterCard, Visa Debit and Interac. The electronic nature of Bitcoins provides in principle a good foundation for effective record keeping and the monitoring of transactions. The money laundering risks associated with Goldmoney are very minimal when compared to Bitcoin. MMM Nigeria is therefore recommended to adopt Goldmoney as its preferred method of online payment for MMM transactions. Originality/value: While most publications on MMM are focused on fraud, this paper focuses on the money laundering risks and vulnerabilities associated with the MMM scheme. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

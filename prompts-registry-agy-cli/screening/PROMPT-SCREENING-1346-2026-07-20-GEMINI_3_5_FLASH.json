@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1346-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illicit Financial Flows: Concepts, Measurement, and Evidence",
+    "authors": "Collin M.",
+    "year": "2019",
+    "doi": "10.1093/wbro/lkz007",
+    "abstract": "There is a growing consensus that the presence of illegal and harmful cross-border financial flows is one of the factors impeding economic and human development. In recent years, a new conceptual framework for describing these \"illicit\" financial flows (IFFs) has emerged that combines issues ranging from cross-border money laundering to tax evasion. This article summarizes and clarifies recent empirical work in this area. Three types of studies are considered and critiqued: (i) methods of measuring IFFs, (ii) constructed risk indicators, and (iii) forensic studies that aim to uncover instances where illicit flows have occurred. The article discusses the limitations of all three approaches and proposes ways in which the research agenda on IFFs could be reasonably advanced, given the hidden nature of the subject. © 2019 The Author(s). Published by Oxford University Press on behalf of the International Bank for Reconstruction and Development/The World Bank.",
+    "source": "World Bank Research Observer"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

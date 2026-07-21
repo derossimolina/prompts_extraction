@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2014-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The USA – no longer a haven for the foreign bank",
+    "authors": "Smith I.",
+    "year": "2008",
+    "doi": "10.1108/13685200810889362",
+    "abstract": "PurposeThe purpose of this paper is to examine the current dilemmas facing foreign banks and countries in the pursuit of eradicating money laundering and international financial crimes. Design/methodology/approachThe paper discusses the recently enacted Title III of the USA Patriot Act which regulates foreign banking institutions in order to curb international money laundering. The paper examines the recent decision of the Second Circuit Court of Appeals discussing foreign banks' liability when their depositors have deposited funds obtained as a result of money laundering. FindingsThe US Government can easily forfeit funds derived from or connected to a money laundering offence found in correspondent accounts of foreign banks. Practical implicationsOwing to the great risk of seizure in the US of money laundered funds, foreign banks must decide whether the difficulty of recovering any US seizure from their customers call for them to implement additional security measures or limit contact with American financial institutions. Foreign banks may be required to initiate anti-money laundering programs which exceed what they would have been required to do according to the laws of their home country. Originality/valueThis paper is one of first to examine Title III's effect on innocent foreign banks, as it was written shortly after the interpretation of Title III and its applicability to foreign banks and it examines any defences foreign banks may have in asset forfeiture actions, and any recourse it has in recovering seized funds. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

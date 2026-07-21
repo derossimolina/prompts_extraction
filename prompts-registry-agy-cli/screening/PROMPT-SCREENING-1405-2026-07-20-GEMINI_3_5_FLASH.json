@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1405-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The great exchange: Rapid demonetization in Trinidad and Tobago",
+    "authors": "Hilaire A.; Mahabir R.",
+    "year": "2020",
+    "doi": "10.1016/j.latcb.2020.100019",
+    "abstract": "Trinidad and Tobago executed a surprise demonetization of its largest currency note in December 2019 to address financial crimes. This evaluation of the outcome finds that the exercise was relatively well managed by the authorities within the short time frame established, facilitated by good coordination amongst the banks and widespread public communication. There were some avenues for leakages and sidestepping of the restrictions on conversions, including via an initially unplanned concession allowing low-value exchanges at the Central Bank for all individuals after the banknote was no longer legal tender. Nonetheless, there appears to have been an impact on “black money”, with over 5 per cent of the demonetized notes not being presented for exchange. The early evidence suggests that the exercise affected the demand for cash for transactions and savings, but not digitization. It also contributed valuable information for the detection of tax evasion and money laundering. © 2020",
+    "source": "Latin American Journal of Central Banking"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

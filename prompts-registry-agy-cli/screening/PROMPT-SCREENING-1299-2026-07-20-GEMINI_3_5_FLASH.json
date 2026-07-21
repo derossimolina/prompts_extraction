@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1299-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digital financial services: Prospects and challenges",
+    "authors": "Van Niekerk M.G.; Phaladi N.H.",
+    "year": "2021",
+    "doi": "10.17159/1727-3781/2021/v24i0a10744",
+    "abstract": "Digital financial services (DFSs), being financial services accessed and delivered through digital channels, have grown rapidly in South Africa as well as globally. The adoption of the technology for DFSs has led to an increase in financial inclusion, enabling more individuals and businesses to have access to useful and affordable financial products and services, where payments, savings, credit, investment and insurance are included. Through the Financial Sector Regulation Act 9 of 2017 financial inclusion was statutorily enacted for the first time. The regulators are now empowered to insist that financial institutions take proactive steps to expand financial inclusion and can take the necessary steps to enforce these powers. One of the factors that have an influence on whether consumers will adopt DFSs is consumers’ perspectives of DFSs. Lack of information and knowledge combined with the cost of data negatively influences the adoption of DFSs. The transfer of information to unbanked people in South Africa with regards to DFSs should be enhanced by the state as it strives to improve financial literacy. DFSs are susceptible to financial crimes like fraud, money laundering, terrorist financing, bribery, corruption and market abuse. The challenges that threaten the interests of customers should be addressed by stricter information verification methods when transacting with clients online. Technological detectors and digital identification should be used more effectively to verify customers and to alert authorities to suspicious transactions. Financial institutions might consider authenticating online transactions by thumb-print or a voice recognition system. This paper emphasises that because of the prospects of greater and deeper financial inclusion in South Africa, the use of DFSs has to be improved and developed and the challenges have to be constructively addressed to unleash the true potential thereof. © 2021, North-West Unversity. All rights reserved.",
+    "source": "Potchefstroom Electronic Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

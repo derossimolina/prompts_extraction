@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1965-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of eBay's Buy-It-Now function on bidder behavior",
+    "authors": "Standifird S.S.; Roelofs M.R.; Durham Y.",
+    "year": "2005",
+    "doi": "10.1080/10864415.2005.11044331",
+    "abstract": "The impact of eBay's Buy-lt-Now function on bidder behavior was investigated by conducting auctions of American Eagle silver dollars with and without the function. The study found that eBay buyers did not use the Buy-lt-Now option even when Buy-lt-Now prices were set below prevailing market prices. The entertainment, or \"hedonic,\" benefit associated with eBay auctions may explain this somewhat counterintuitive finding. Firms engaging in e-commerce can take advantage of this phenomenon by structuring transactions to provide consumers with hedonic benefits. Copyright © 2005 M.E. Sharpe, Inc. All rights reserved.",
+    "source": "International Journal of Electronic Commerce"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

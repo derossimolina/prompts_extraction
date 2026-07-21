@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0161-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bitcoin market segmentation and regulatory effect",
+    "authors": "Dufouleur M.",
+    "year": "2026",
+    "doi": "10.1016/j.jimonfin.2026.103570",
+    "abstract": "Abstract: This paper examines how national cryptocurrency regulations affect cross-country Bitcoin price segmentation, local prices, and traded volumes. Using daily data for 22 countries since 2013, we apply a dynamic fixed effects framework to deviations from the law of one price (LOP), controlling for country-specific barriers and global shocks. We distinguish between regulatory frameworks that enhance market functioning (e.g., securities laws, payment system integration, regulatory sandboxes), pro-innovation policies, restrictive measures (e.g., banking bans), and anti-money laundering/countering the financing of terrorism (AML/CFT) rules. Our results show that comprehensive and pro-innovation frameworks reduce price deviations from the USD benchmark, lower local prices, and increase traded volumes, while banking bans fragment markets, depress prices, and reduce volumes. AML/CFT laws exert a consistent downward effect on prices regardless of global conditions. Threshold Auto-Regressive (TAR) models further reveal that highly regulated countries—whether supportive or restrictive—are more sensitive to macro-financial factors such as capital account openness, inflation, relative traded volumes, and remittances, indicating tighter links to the broader financial system. These findings suggest that regulation not only shapes domestic market conditions but also alters the transmission of global and macro-financial shocks into cryptocurrency markets. © 2026 The Author. Published by Elsevier Ltd. This is an open access article under the CC BY license. http://creativecommons.org/licenses/by/4.0/",
+    "source": "Journal of International Money and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

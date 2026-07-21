@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2464-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An artificial-intelligence-based method for assessing service quality: insights from the prosthodontics sector",
+    "authors": "Martins, SM; Ferreira, FAF; Ferreira, JJM; Marques, CSE",
+    "year": "2020",
+    "doi": "10.1108/JOSM-03-2019-0084",
+    "abstract": "Purpose The prosthodontics sector is facing major challenges because of scientific and technological advances that imply a clearer definition of lines of action and decision making processes. Measuring quality of service in this sector is a complex decision problem since the perceptions of three main players need to be considered: patients, dentists and dental technicians. This study sought to develop an artificial-intelligence-based (AI-based) method for assessing service quality in the dental prosthesis sector. Design/methodology/approach Using strategic options development and analysis (SODA), which is grounded on cognitive mapping, and the measuring attractiveness by a categorical based evaluation technique (MACBETH), a constructivist decision support system was designed to facilitate the assessment of service quality in the dental prosthesis sector. The system was tested, and the results were validated both by the members of an expert panel and by the vice-president of the Portuguese association of dental prosthesis technicians. Findings The methodological process developed in this study is extremely versatile and its practical application facilitated the development of an empirically robust evaluation model in this study context. Specifically, the profile analyses carried out in actual clinics allowed the cases in which improvements are needed to be identified. Originality/value Although already applied in the fields of AI and decision making, no prior work reporting the use of SODA and MACBETH for assessing service quality in the prosthodontics sector has been found.",
+    "source": "JOURNAL OF SERVICE MANAGEMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

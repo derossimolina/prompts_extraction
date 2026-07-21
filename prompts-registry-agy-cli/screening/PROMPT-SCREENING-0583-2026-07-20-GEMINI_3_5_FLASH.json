@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0583-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Rising Tide of Financial Crime: A Ponzi Scheme Case Analysis",
+    "authors": "Anggriawan R.; Susila M.E.; Irrynta D.; Sung M.H.",
+    "year": "2023",
+    "doi": "10.15294/lesrev.v7i1.60004",
+    "abstract": "Ponzi scheme is one of the most common types of fraud perpetrated by con artists. The reason for this is that the mode is relatively easy to conceal. In this regard, criminal law plays a significant role in countering fraudulent practices. It serves as an initial warning to individuals who intend to engage in such behavior that they may face harsh penalties if they do so. The study aims to compare and analyze the Ponzi and pyramid schemes in the framework of criminal law enforcement. It also thoroughly investigates the criminal rules and their application to specific cases associated with Ponzi and pyramid schemes in Indonesia. This normative or doctrinal legal research employs statutory, conceptual, and case approach. The study reveals that there is some confusion in the community as well as the legal enforcement officers on the practice of Ponzi and pyramid schemes. As a result of this discrepancy, law enforcement officers may be incorrect in ensnaring an allegation against the offenders, or they may even consider that offenders are innocent. It is also exacerbated by the lack of a single rule that particularly governs the issue of Ponzi schemes, which may result in a legal vacuum. This circumstance might therefore be used by irresponsible persons to create such business companies that use Ponzi schemes and conceal their actions with crypto investment or robot trading software, as recently occurred in Indonesia. © 2023, Universitas Negeri Semarang. All rights reserved.",
+    "source": "Lex Scientia Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

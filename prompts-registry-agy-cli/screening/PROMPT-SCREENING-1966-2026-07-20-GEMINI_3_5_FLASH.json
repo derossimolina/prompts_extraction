@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1966-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The black market in China for tiger products",
+    "authors": "Moyle B.",
+    "year": "2009",
+    "doi": "10.1080/17440570902783921",
+    "abstract": "Poaching of tigers is a major threat to the survival of the species. China is responsible for much of the demand for tiger parts. Poaching occurs because it is profitable and organizations able to procure transport and sell tiger products over thousands of miles and international borders also exist. Unfortunately there is little corresponding data on these organizations. It appears as if these organizations operate to minimize the most significant transaction cost along the supply chain. Tigers are a minority element in a portfolio of wildlife products assembled by smugglers in range states. Within China smugglers specialize in the skins and bones of tigers, and are most likely to operate in small, discrete groups. This is a function of the high coordination and evasion costs of operating in China. The demand for tiger parts has strong cultural and medicinal influences.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

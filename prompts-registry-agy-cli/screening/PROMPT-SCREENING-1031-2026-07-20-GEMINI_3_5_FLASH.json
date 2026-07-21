@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1031-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Recent trends in money laundering and terrorism financing",
+    "authors": "Teichmann F.M.",
+    "year": "2019",
+    "doi": "10.1108/JFRC-03-2018-0042",
+    "abstract": "Purpose: This paper aims to investigate how criminals launder money and finance terrorism through the financial system. Design/methodology/approach: In total, 70 interviews were conducted with criminals and white-collar crime prevention experts, whose responses were subjected to qualitative content analysis. Based on the findings, a quantitative survey of 200 compliance officers was carried out. Findings: The interviews and survey revealed concrete techniques of laundering money and financing terrorism through the financial services industry and its affiliates. Evidently, the compliance mechanisms aimed at preventing money laundering and terrorism financing can be easily circumvented. Research limitations/implications: This study’s findings are limited to the perspectives of 70 interviewees. Hence, it is possible that a study with a larger sample conducted in different countries or at a different time could have yielded different results. Practical implications: Identifying the concrete methods of laundering money and financing terrorism should provide both compliance officers and legislators with valuable insights into criminal activity. By better understanding the specific steps taken by criminals, compliance officers should be able to more effectively combat both money laundering and terrorism financing. Originality/value: While prior literature focuses on the organizations and mechanisms involved in combating money laundering and terrorism financing, this paper instead explores how criminals avoid detection by taking into account existing compliance mechanisms and criminal perspectives. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

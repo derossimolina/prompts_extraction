@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2468-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cops and Twenty-First-Century Robbers",
+    "authors": "May, T; Bhardwa, B",
+    "year": "2018",
+    "doi": "10.1007/978-3-319-69401-6_5",
+    "abstract": "This chapter provides an insight into the challenges faced by enforcement agencies when investigating organised crime groups involved in fraud, including whether and how to prioritise organised crime group fraud cases, the perception that fraud is a 'victimless' crime, the length and complexity of investigations, and the difficulties of working across jurisdictions. The views of enforcement professionals are juxtaposed with those of the 31 offender interviewees. The chapter provides a sombre account of the challenges faced by asset recovery teams when tracing victims' money, money that has dispersed across bank accounts and borders within a matter of minutes. The reader is also provided with the striking comparison between the speed with which organised criminals are able to adapt their business practices and move money across jurisdictions to the world of policing, where investigations are complex, lengthy, and mainly reactive.",
+    "source": "ORGANISED CRIME GROUPS INVOLVED IN FRAUD"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

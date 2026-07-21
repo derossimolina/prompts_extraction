@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1884-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Can corruption and economic crime be controlled in developing countries and if so, is it costeffective?",
+    "authors": "Ksenia G.",
+    "year": "2008",
+    "doi": "10.1108/13590790810866917",
+    "abstract": "Purpose The aim of this paper is to assess international efforts in combating corruption and their implications for developing countries. The paper discusses the globalized character of corruption in the modern world together with methods applicable to combat the problem. Design/methodology/approach The investigation is structured at two levels: the policies are studied at the organizational level and by sector, by looking at money laundering and bribery – two economic crimes that are widespread in the developing world. This identifies major trends in the international instruments to combat corruption and assess their efficiency. The main method is costbenefit analysis. Findings The findings of this paper are: initially positive ideas of enhancing control and prosecution of economic crime are not bringing the expected results. The criminal law enforcement approach chosen by the main international organizations – UN, World Bank, and EU – is not effective. Practical implications Until the approach of the international organizations changes and the priority is given to the principle of prevention rather than punishment, the costs of controlling economic crimes in the developing countries are unnecessarily high and not worthwhile. Originality/value Although the findings sound quite criticizing, they provide insights to possible amendments to the policies implemented. © 2008, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

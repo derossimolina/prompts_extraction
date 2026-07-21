@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2373-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blockchain in Financial Services: Current Status, Adoption Challenges, and Future Vision",
+    "authors": "Miah, A; Rahouti, M; Jagatheesaperumal, SK; Ayyash, M; Xiong, KQ; Fernandez, F; Lekena, M",
+    "year": "2023",
+    "doi": "10.1142/S0219877023300045",
+    "abstract": "Blockchain is undoubtedly considered one of the most innovative technologies in financial services from the past decade. Interests in blockchain technology continue to grow on a daily basis, while many promising blockchain-enabled applications and services continue to draw financial interest in the industrial sector and the broader financial services communities. Blockchain technology has the potential to streamline lending services and banking, decrease counterparty risk, and reduce settlement times and issuance. It indeed enables authenticated documentation and anti-money laundering (AML)/Know Your Client (KYC) data, minimizing operational ventures and allowing real-time/online validation of financial documents. Furthermore, as blockchain matures, it increases the value of a diversified range of industries and institutes with a better return on investment. However, such organizations must continue to adopt rigorous approaches to enhance their financial services and regulate their policies. In this article, we discuss the current status of blockchain-enabled financial services and applications, in addition to the impacts, implications, and regulations of incorporating blockchain technology in the finance industry. We further tackle the adaptation model for blockchain technology in global banking and provide a vision for the next generation of financial services based on this emerging technology.",
+    "source": "INTERNATIONAL JOURNAL OF INNOVATION AND TECHNOLOGY MANAGEMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

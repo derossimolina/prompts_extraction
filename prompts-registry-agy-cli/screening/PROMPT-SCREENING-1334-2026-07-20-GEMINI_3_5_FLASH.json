@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1334-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Traceability in global governance",
+    "authors": "Muirhead J.; Porter T.",
+    "year": "2019",
+    "doi": "10.1111/glob.12237",
+    "abstract": "An increasingly important challenge in global governance, which in some issue areas has been labelled ‘traceability’, has been to track the cross-border travels of objects that are associated with positive or negative effects. However, the common properties and identifiable patterns of variation of traceability across issue areas or industries have been insufficiently explored. We identify key properties of traceability systems, including the variation and interactions between the physical properties of the traced object, the positive or negative effects with which it is associated, the monitoring technology, and the institutionalized power relations that activate and constrain traceability systems. We examine and compare traceability systems for food safety, conflict minerals, pharmaceuticals, carbon emissions, money laundering and financial transactions. Understanding traceability in this way is important not only for these cases, but also for understanding interactions between objects, infrastructures, as well as monitoring and political mechanisms in global governance more generally. © 2019 Global Networks Partnership & John Wiley & Sons Ltd",
+    "source": "Global Networks"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1774-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Rethinking money laundering and drug trafficking: Some implications for investigators, policy makers and researchers",
+    "authors": "Soudijn M.R.J.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-07-2015-0028",
+    "abstract": "Purpose: In accordance with the literature on money laundering, policymakers and researchers often use a model which distinguishes three successive stages: placement, layering and integration. But how well does this model compare to actual investigations of money laundering in relation to large-scale drug trafficking? Design/methodology/approach: The basis is formed by data collected in 2012 for that year’s crime pattern analysis (CPA) for money laundering and cocaine trafficking. In all, 46 structured interviews were conducted. These interviews mostly centred around money laundering, involving the proceeds of drugs crime. As a result of the interviews, the dossiers from 16 criminal investigations were also obtained for further analysis. Findings: Comparing the three-phase model with Dutch investigations on drug trafficking, three observations can be made. First of all, cash plays a larger role than the theoretical model would suggest. Second, the proceeds of crime are often moved abroad, circumventing the legal financial system. And third, money laundering often occurs in much simpler forms than the theory would lead one to suspect. Research limitations/implications: The sources mainly involve criminal investigations into organized drug trafficking. Investigations involving white collar crime and fraud will probably generate different outcomes. Another caveat is that the situation in other countries may differ from the picture that emerges from the Dutch data. Practical implications: Combating money laundering is sometimes a job for specialists, but many forms (involving cash and moving money around) can easily be left to ordinary investigative officers with no financial background. Money laundering therefore needs to be demystified to broaden the opportunities for investigating analyzing and researching money laundering. Furthermore, it is not always practical to depend on Financial Intelligence Unit’s information to start an investigation or to evaluate anti-money laundering efficiency. Originality/value: The literature on money laundering often centres around judicial system, legal issues and theoretical solutions. Empirical data is hard to come by. This article uses information from actual investigations to illustrate aspects of money laundering that can be overlooked. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1025-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Conflict and Victimization in Online Drug Markets",
+    "authors": "Bergeron A.; Décary-Hétu D.; Ouellet M.",
+    "year": "2022",
+    "doi": "10.1080/15564886.2021.1943090",
+    "abstract": "In the criminal underworld, transactions generate risk for the parties involved, but in contrast to legal markets, parties are unable to turn to legal recourse when cheated in a transaction. Past research has found that many strategies can be used to manage conflicts, including self-help strategies (vengeance, discipline and rebellion, avoidance, negotiation, settlement, and tolerance) and third-party interventions. In the context of illicit drug markets, ostracism and threats or actual violence are also strategies that have been observed. In this paper, we surveyed 49 online illicit drug market vendors to explore the conflict experiences of drug dealers who participate in online and offline illicit drug markets. The paper aims to describe the conflict and victimization experiences of online drug dealers and to understand the mitigating effect of technologies on these conflicts. The results indicate that conflict and victimization experiences are rare for online drug dealers, but there are still many situations that are not mitigated by the use of anonymizing technologies like those used on online illicit markets. We demonstrate how these conflicts differ between online and physical drug markets. © 2021 Taylor & Francis Group, LLC.",
+    "source": "Victims and Offenders"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

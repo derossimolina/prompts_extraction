@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2037-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An inter-temporal model of dirty money",
+    "authors": "Azevedo Araujo R.; Belchior S. Moreira T.",
+    "year": "2005",
+    "doi": "10.1108/13685200510700552",
+    "abstract": "Presents a basic model by which a representative agent chooses how to allocate his savings optimally between money of legal origin and dirty money&semi; he holds the laundered dirty money, from which the money laundering process generates a positive transaction cost. Analyses the welfare of such an economy as a result of money laundering, also the conditions for reducing the incentives for this transforming of illegal into legal money: the incentive can be minimised if the effectiveness of anti-money laundering increases. Concludes that the welfare of an economy where there is only legal money is greater than one in which legal and illegal activities coexist. © 2005, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

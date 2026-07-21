@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1611-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Promoting financial inclusion for effective anti-money laundering and counter financing of terrorism (AML/CFT)",
+    "authors": "Shehu A.Y.",
+    "year": "2012",
+    "doi": "10.1007/s10611-011-9351-0",
+    "abstract": "\"Financial inclusion\" is the delivery of financial services at affordable costs, especially to the disadvantaged and low income populations. Financial inclusion has gained some importance in the last few decades as a result of findings on the impact of \"financial exclusion\" on development and especially its correlation to poverty. This paper arguesthat access to financial services contributes to human and economic development; and that financial inclusion and effective AML/CFT are complementary to ensure the safety, integrity and soundness of the financial system and the protection of depositors. It calls for the recognition of country specific characteristics of the derived segments of the society, the risks and national priorities in the application of AML/CFT measures, as well as how financial inclusion has been applied with flexible AML/CFT principles. It concludes that inclusive finance does not necessarily mean that everyone who is eligible uses each of the services, but they should be able to choose to use such services if they wish. © 2012 The Author(s).",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

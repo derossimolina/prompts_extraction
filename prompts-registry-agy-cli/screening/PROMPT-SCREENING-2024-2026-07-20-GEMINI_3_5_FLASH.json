@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2024-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The influence of Christian moral ideology in the development of anti-money laundering compliance in the west and its impact, post 9-11, upon the South Asian Market: An independent evaluation of a modern phenomenon",
+    "authors": "Bosworth-Davies R.",
+    "year": "2008",
+    "doi": "10.1108/13685200810867492",
+    "abstract": "PurposeThe purpose of this paper is to examine how the influence of Western Christian fundamentalist religious ideology has influenced the core thinking behind anti-money laundering (AML) control, and how this polarized set of values makes it more difficult for Asian bankers to understand and empathise with a moral philosophy which does not necessarily come within their own social or cultural experience. Design/methodology/approachThe paper is based upon both empirical research undertaken during travels in South East Asia (SE Asia), and from anecdotal evidence provided by practitioners in the region. FindingsIt was discovered that the long-term implications of US attitudes towards AML control had an effect of putting SE Asian financial institutions at a financial disadvantage when they came to deal with US regulatory demands, and that the question thereby raised was whether the US underpinning philosophies had more to do with financial self-interest, than any real attempt to harness a moral philosophy. Practical implicationsGreater time and effort will have to be found to create a level-playing-field in international standards of AML definition, in order to satisfactorily include the moral precepts of SE Asian practitioners. Originality/valueThe paper seeks to stimulate genuine debate and discussion, and to avoid the retreat into a vague acceptance of un-proven hypotheses. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

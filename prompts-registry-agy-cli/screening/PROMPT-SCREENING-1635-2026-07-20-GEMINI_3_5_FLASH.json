@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1635-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Il Padrino’s dilemma: A simple model of Mafia decision making",
+    "authors": "Wintrobe R.",
+    "year": "2018",
+    "doi": "10.1332/251569118X15214756146929",
+    "abstract": "The major threat to security in the 21st century appears to come from ‘ungoverned spaces’ - areas where governmental control is weak or contested by clans, gangs or terrorist organizations. In a situation where trust in government is weak, the Mafia provides the service of enforcing transactions and protection. The paper builds a model to explain why, even though the Mafia appears to fulfill a valuable function, namely to provide contract enforcement when state support for that is weak, it is nevertheless so destructive. The reason, I suggest, is not simply that the Mafia is a private supplier of a public good (trust) but that it also supplies a public bad (distrust). The Mafia supplies trust by enforcing contracts but it also has to prevent that trust from spreading to those who do not pay. To stop this, the Mafia also supplies distrust. So the Mafia leader always has a choice between two ways of making profits: To supply trust, or to supply distrust. This is Il Padrino’s dilemma. The next and crucial point is that trust tends to get undervalued and distrust overvalued by Mafia leaders. Among the reasons for this are that trust is fragile, while distrust is durable, combined with the peculiar ‘ownership’ structure of the Mafia, which is that the reputation of the organization cannot be capitalized and sold. So the Mafia leader oversupplies distrust and neglects the damages this does to the society in which it operates. This distortion in Il Padrino’s thinking—the undervaluation of trust and overvaluation of distrust relative to their social values—partly explains why the Mafia is so destructive, and why areas where their control is strong tend to remain poor. © 2018, Bristol University Press. All rights reserved.",
+    "source": "Journal of Public Finance and Public Choice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

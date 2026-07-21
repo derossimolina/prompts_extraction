@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0491-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Stock Market Value Estimation: An ARIMA Approach Sub-Sector Analysis at Amman Stock Exchange",
+    "authors": "Ayoub F.; Sammour G.; Hashem A.",
+    "year": "2023",
+    "doi": "10.47750/QAS/24.192.03",
+    "abstract": "This paper aims at identifying the variables to develop a forecasting model for listed banks and Insurance companies in Amman stock Exchanges in Jordan. Time series data were collected over the period 1999 – 2017. The Auto Regressive Integrated Moving Average (ARIMA) technique is utilized to build up the forecasting model for both sectors. The Akaike Information Corrected Criterion (AICC), highest R2, and the residuals auto and partial correlation are used to assess models performance and validation. Consequently, the analysis showed that significant attributes are identified for each sector, while similar variables were used in structuring the forecasting model. © 2023, SRAC - Romanian Society for Quality. All rights reserved.",
+    "source": "Quality - Access to Success"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

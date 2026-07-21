@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0225-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Taming the Tides of Terrorism in the Developing Nations: The Role of Remittances",
+    "authors": "Ajide K.B.; Raheem I.D.",
+    "year": "2025",
+    "doi": "10.1177/00346446251357590",
+    "abstract": "This study investigates the intricate relationship between migrants’ remittances and terrorism, focusing on four countries—India, Nigeria, Pakistan, and the Philippines—spanning the period from 1977 to 2021. Employing robust econometric methods, including fixed-effect negative binomial regression and generalized estimating equations, the study examines whether remittance inflows amplify or mitigate terrorism. The findings reveal a consistent pro-cyclical relationship, with remittances positively associated with terrorism incidents, fatalities, and injuries. However, when the ratio of remittances to gross domestic product is used as a key explanatory variable, evidence emerges of a countercyclical role, where remittances contribute to economic stability and reduce terrorism under specific conditions. Control variables, such as the population size, land area, political institutions, and conflict, significantly influence terrorism dynamics, underscoring the multifaceted nature of the phenomenon. The study highlights the potential misuse of remittance flows in funding terrorism, emphasizing the need for strengthened anti-money laundering and counterterrorism financing measures. It also underscores the importance of democratic governance and conflict resolution in mitigating terrorism. These findings have critical policy implications for developing economies, where remittances play a significant role in economic and social stability. © The Author(s) 2025",
+    "source": "Review of Black Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0423-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Toward a theoretical framework for sustainable third-party logistics provider selection: an exploratory study using AHP in the Turkish machinery industry",
+    "authors": "Ercan E.N.; Jang H.; Park H.",
+    "year": "2026",
+    "doi": "10.1108/JILT-09-2025-0088",
+    "abstract": "Purpose – This study aims to develop a theory-based framework for sustainable third-party logistics (3PL) provider selection by drawing on the resource-based view (RBV), transaction cost economics (TCE) and stakeholder theory. It addresses the research gap between sustainability theory and practical decision-making in logistics outsourcing, focusing on the Turkish machinery industry as an emerging-market setting. Design/methodology/approach – An exploratory study was conducted using a theory-based framework and analytic hierarchy process (AHP) analysis based on expert evaluations. First, a conceptual framework was developed based on a comprehensive literature review. Then, the AHP was applied to prioritize sustainability-related 3PL selection criteria across economic, environmental and social dimensions. Data were collected from a panel of 10 experienced logistics decision-makers in Turkey's machinery sector using pairwise comparisons. Findings – The study finds that economic criteria dominate the 3PL selection process, with cost, quality and reliability ranked as the most influential sub-criteria. Environmental and social dimensions followed, with environmental legal and policy frameworks, green packaging, and health and safety receiving relatively high priority. These results suggest that sustainability considerations are gaining attention, while cost efficiency remains the dominant concern in the studied context. Research limitations/implications – The study is exploratory and limited by a small expert sample size and industry-specific focus. The use of AHP, while effective for preference structuring, does not incorporate empirical performance data. The proposed theoretical model requires further empirical validation across broader contexts. Practical implications – The findings provide a structured basis for practitioners to integrate sustainability considerations into 3PL selection processes. The study offers insights for managers in emerging market settings aiming to balance cost efficiency with environmental and social performance when outsourcing logistics operations. Social implications – The research draws attention to social sustainability elements – such as worker safety, community engagement and employee rights – which remain underexplored in logistics decisions. Promoting these factors can lead to stronger stakeholder alignment and improved corporate responsibility outcomes. Originality/value – This study examines sustainable 3PL provider selection in the Turkish machinery industry by applying established theoretical lenses – RBV, TCE and stakeholder theory – to structure and interpret sustainability-related criteria. Rather than proposing a new theory, the study provides context-specific empirical evidence on how firms prioritize economic, environmental and social considerations when selecting 3PL providers in a capital-intensive manufacturing sector that is closely linked to European markets. By combining a theory-informed framework with AHP-based expert judgments, the study contributes exploratory insights into the trade-offs firms face between cost efficiency, regulatory compliance and workforce-related social concerns. © Elif Nur Ercan, Hyunmi Jang and Ho Park",
+    "source": "Journal of International Logistics and Trade "
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

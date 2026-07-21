@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2505-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Architectural Leadership: The Neglected Core of Organizational Leadership",
+    "authors": "Kollenscher, E; Eden, D; Ronen, B; Farjoun, M",
+    "year": "2017",
+    "doi": "10.1111/emre.12108",
+    "abstract": "The cornerstone of architectural leadership (AL) theory is to structure the organization in service to its strategy so as to improve its capabilities and enhance its value. Rather than relying on the CEO's personal influence, AL centers on structuring and operating core organization-wide processes that diffuse leadership influence across managerial levels and harness the whole organization better to attain its goals. AL is grounded in the academic management literature. It complements theories that focus on targets but neglect the means needed to achieve them. Though most managers spend much of their time dealing with the means while struggling with insufficient infrastructure, existing management theories ignore these issues or say little about them. Architectural leadership theory provides a solution to this lacuna. Applying AL can help managers create value by developing the infrastructure required for strategy implementation.",
+    "source": "EUROPEAN MANAGEMENT REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

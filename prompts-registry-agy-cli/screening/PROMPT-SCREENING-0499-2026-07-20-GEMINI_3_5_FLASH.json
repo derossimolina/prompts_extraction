@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0499-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Economic Consequences of Greylisting by the Financial Action Task Force †",
+    "authors": "de Koker L.; Howell J.; Morris N.",
+    "year": "2023",
+    "doi": "10.3390/risks11050081",
+    "abstract": "This study considers the impact of the FATF’s greylisting process from a market perspective. The results are intended to inform the development of public policy and improvement of market signalling. The study develops a theoretical market impact model and identifies the indicators which may impact banking operations and institutional decisions. It is explicitly market-oriented in that the model seeks to reflect how stakeholders in financial and non-financial markets typically respond to signals sent out by the FATF. The authors find that the FATF’s greylisting signalling has changed over time and distinguish four broad periods reflecting different messaging. The study uses financial, trade, and other variables derived from the World Bank’s ‘World Development Indicators’ databank to explore evidence of impact in each of the different phases of the FATF’s approach to greylisting. The study uses a pooled cross-section and time series approach with fixed effects, based on a sample of 177 countries and 3540 country-years of data from 2000 to 2020. The study examines impacts on net official development assistance, the banking environment (non-performing loans, risk premiums), net foreign assets, indebtedness, and market capitalisation. It finds significant correlations between many financial variables and FATF listing events, including an apparent reduction in development assistance during greylisting periods which endured after the country was delisted. This is of significant concern, as such reductions may impact disproportionately on developing economies. © 2023 by the authors.",
+    "source": "Risks"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

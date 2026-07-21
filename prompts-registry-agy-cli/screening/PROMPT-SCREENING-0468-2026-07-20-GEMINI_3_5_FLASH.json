@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0468-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Coping Strategies of Pastors of the Christian and Missionary Alliance Churches of the Philippines: A Phenomenological Study",
+    "authors": "Cimafranca III P.",
+    "year": "2025",
+    "doi": "10.1007/s11089-025-01277-5",
+    "abstract": "This study explores the lived experiences of six Christian and Missionary Alliance Churches of the Philippines (CAMACOP) pastors as they navigate the multifaceted emotional, relational, and spiritual demands of ministry. Anchored in the transactional theory of stress and coping (Folkman, 2013), the research examines how these faith leaders cognitively assess and respond to ministry-related stressors through adaptive coping strategies. The findings indicate that participants employ a combination of coping mechanisms—such as anchoring in faith, structuring responsibilities, practicing empathy, and reframing perspectives—to address challenges such as personal issues, family strains, and demands in the ministry. Emerging from the analysis is the RISE framework for pastoral resilience, a conceptual model developed from nine themes identified across the six participants. The framework encompasses four interrelated domains: Relational and Interpersonal Coping, Inner Spiritual Anchoring, Strategic Organizational Practices, and Emotional and Psychological Resilience. Together, these domains highlight the integrative and holistic nature of coping within pastoral ministry, weaving together spiritual, relational, organizational, and emotional dimensions. This study underscores resilience as a dynamic, faith-informed process and offers valuable insights for theological education, mental health support services, and future scholarship on clergy well-being. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2025.",
+    "source": "Pastoral Psychology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

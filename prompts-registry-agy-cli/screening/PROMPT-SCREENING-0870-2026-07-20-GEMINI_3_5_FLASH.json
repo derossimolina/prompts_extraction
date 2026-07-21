@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0870-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sustainable supply chain practices and blockchain technology in garment industry: an empirical study on sustainability aspect",
+    "authors": "Shah A.; Soomro M.A.; Zahid Piprani A.; Yu Z.; Tanveer M.",
+    "year": "2023",
+    "doi": "10.1108/JSMA-04-2023-0080",
+    "abstract": "Purpose: The desire of international retail brands to implement sustainable supply chain practices in the fashion value chain and improve suppliers' sustainability efforts; this research paper elucidates the relationship between blockchain technology and sustainability to impact apparel firms' triple bottom line. Design/methodology/approach: For studying the impact of sustainable supply chain practices on the triple bottom line, a survey questionnaire was chosen and sent out to 500 garment companies simultaneously, of which 371 responded. The data collected is cross-sectional. The questionnaire survey was developed keeping in mind a few demographic elements such as experience, age and qualification to generalize the findings. For analysis, SmartPLS is used to run model structuring and regression analysis. Findings: Test runs on model structure confirm the instrument's validity and reliability. Bootstrapping on the theoretical model to test developed hypotheses suggests that supply chain sustainability practices positively affect social, environmental and economic performance in a direct relationship. Further, indirect relation testing conducted to test blockchain technology's moderation influences only the constructs' relations. Research limitations/implications: The clubbing of sustainable supply chain practices and blockchain technology is a novel idea in the apparel industry; however, there are more constructs in the context of practice-based theory and supply chain which impact firm performance. Also, the research limits itself from discussing IT infrastructure and smart contract types that impact the technology's performance. Practical implications: The study provides a framework for interpreting the synergetic influence of SSCP on firm social, environmental and economic performances, which is demanded both by consumers and regulators in an industry. The results suggest that managers sustainably design the production ecosystem, thus eliminating any discrepancy or slackness in the complete chain. Usually, suppliers are ignored, which are precursors in implementing SSCP. Originality/value: The paper studies sustainability problems through ecological modernization theory and practical-based theory giving a unique perspective on the issue faced by the apparel industry and combining sustainable supply chain practices and blockchain. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Strategy and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

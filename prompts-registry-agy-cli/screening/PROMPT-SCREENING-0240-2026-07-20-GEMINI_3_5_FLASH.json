@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0240-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Are beneficial ownership laws important? Exploring the impact of Panama, FinCEN, and Pandora Papers on beneficial ownership laws in the UK and the US",
+    "authors": "Aristodemou M.",
+    "year": "2024",
+    "doi": "10.1016/j.jeconc.2024.100082",
+    "abstract": "Money laundering and reverse money laundering, also known as terrorism financing, have emerged as critical issues in the 21st century, posing threats to security, economic stability, and the integrity of financial systems. This article explores the growing use of anonymous shell companies as a method for executing money laundering and reverse money laundering. It focuses on two key jurisdictions: the United Kingdom (UK) and the United States of America (US). The research draws on case studies published by the International Consortium of Investigative Journalists, including the Panama Papers, FinCEN Files, and Pandora Papers. These case studies have prompted regulatory changes in beneficial ownership This study examines the practical implementation of laws, comparing the approaches of the UK and the US. It addresses the vulnerabilities revealed by the aforementioned case studies and assesses the actions taken by these countries in response to the leaks. The study evaluates the progress achieved in enhancing beneficial ownership regulations and reducing anonymity in shell company creation. In conclusion, this article provides insights and recommendations for future developments in this critical area. © 2024 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

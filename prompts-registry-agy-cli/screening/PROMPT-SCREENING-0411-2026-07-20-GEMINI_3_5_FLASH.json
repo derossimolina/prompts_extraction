@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0411-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Crime Script Analysis of Pao Fen Operations and the Construction of Prevention Strategies",
+    "authors": "Wang F.",
+    "year": "2025",
+    "doi": "10.1177/00111287251363973",
+    "abstract": "Pao Fen has emerged as a prominent cyber-enabled money laundering mechanism across East and Southeast Asia, especially within China’s digital financial system. Characterized by rapid, decentralized fund transfers and heavy reliance on personal bank accounts and mobile payment platforms, Pao Fen operations are deeply embedded in digital infrastructures and criminal subcultures. This study presents the first empirically grounded crime script analysis of Pao Fen, drawing on 235 Chinese criminal court cases to deconstruct the laundering process into six procedural stages: Infrastructure Preparation, Activation and Access Setup, Core Laundering Execution, Conversion and Integration, Network Consolidation and Expansion, and Detection and Termination. The analysis identifies core actions, their components, key actors involved, financial crime elements, tools and props used, as well as potential prevention strategies, all of which illustrate the scalable and persistent nature of these laundering networks. Building on these insights, this study introduces the situational interventions for Pao Fen, which applies traditional situational crime prevention approach to the distinct stages of Pao Fen operations to identify targeted disruption points throughout the laundering process. The findings underlie the need for cross-border policy coordination, real-time detection systems, and targeted intervention strategies that reflect the dynamic behaviors and organizational logics of modern laundering operations. © The Author(s) 2025. This article is distributed under the terms of the Creative Commons Attribution 4.0 Lficense (https://creativecommons.org/licenses/by/4.0/) which permits any use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).",
+    "source": "Crime and Delinquency"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

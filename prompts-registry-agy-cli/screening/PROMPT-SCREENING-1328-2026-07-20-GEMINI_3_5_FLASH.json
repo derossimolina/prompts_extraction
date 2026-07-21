@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1328-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Lifting the veil on beneficial ownership: Challenges of implementing the UK’s registers of beneficial owners",
+    "authors": "Gilmour P.M.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-02-2020-0014",
+    "abstract": "Purpose: This paper aims to critically explore the challenges facing the UK in implementing registers of beneficial owners, a measure mandated by the EU’s anti-money laundering (AML) directive to enhance beneficial ownership transparency. Design/methodology/approach: This study systematically reviews the literature surrounding beneficial ownership transparency to critically analyse the extent to which challenges facing the UK, impact upon its ability to successfully implement registers of beneficial owners. Findings: This study demonstrates that a lack of beneficial ownership transparency facilitates money laundering by concealing corrupt wealth and frustrating authorities’ efforts to trace illicit finance. It demonstrates that implementing registers of beneficial owners may be a superficial approach to tackling the multifaceted problem of money laundering. Better intergovernmental cooperation is required to improve beneficial ownership transparency and to ensure measures to curb offshore money laundering are successful. Research limitations/implications: This research focuses on one aspect of AML control from the UK’s perspective. Further work is needed to investigate the concerns from the perspective of offshore jurisdictions and how global AML rule affects developing economies. Practical implications: The study informs policymakers and other professionals implementing the UK’s registers of beneficial owners to enhance future strategies and better combat offshore money laundering. Originality/value: This is the only study to explore the challenges facing the UK in implementing registers of beneficial owners, thus providing novel insight into the moral, legal and practical dilemmas to imposing AML control. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

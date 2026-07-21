@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2189-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Off-Limits Caribbean: The United States and the European Dependent Territories",
+    "authors": "Sutton P.; Payne A.",
+    "year": "1994",
+    "doi": "10.1177/0002716294533001006",
+    "abstract": "During the 1980s, successful new offshore financial centers developed in the British colonies and the Dutch Antilles. Their growth derived from the general transnationalization of investment and finance in the world economy, but it also became closely linked with the incidence of drug trafficking and criminal money laundering in the region. The United States was inevitably drawn to take an increasing interest in the affairs of the European dependent territories but has had to come to terms with the fact that it cannot regulate the offshore Caribbean without the consent of sovereign European governments. A part of the Caribbean is thus off-limits in respect of the traditional unilateral exercise of U.S. power in the region. The long history of Anglo-American cooperation in the Caribbean and elsewhere has proven useful in respect of the British colonies but now needs to be extended into a broader dialogue embracing the other European powers—including France—to explore what the metropolitan countries can collectively contribute to the security and development of their Caribbean territories. © 1994, SAGE Periodicals Press. All rights reserved.",
+    "source": "The ANNALS of the American Academy of Political and Social Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

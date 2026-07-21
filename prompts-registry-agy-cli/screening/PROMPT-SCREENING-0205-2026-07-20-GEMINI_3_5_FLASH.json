@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0205-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Comparative analysis of roadside drug testing laws and technologies: Policy and enforcement recommendations for India",
+    "authors": "Nayal M.; Bahuguna R.; Aggarwala N.",
+    "year": "2026",
+    "doi": "10.1016/j.ssaho.2026.102644",
+    "abstract": "India faces a critical challenge of drug-impaired driving, with over 1500 fatal intoxicated driving crashes reported by the National Crime Records Bureau in 2024. Pilot initiatives in Maharashtra and Kerala show promise but underline the need for a unified legal and technological enforcement framework. This study compares international best practices from the US, UK, and Australia, focusing on detection accuracy, legal admissibility, ethical safeguards, officer training, and public perception. Effective enforcement relies on validated oral fluid testing, rapid toxicology, blockchain-verified legal records, and interoperable cloud systems. The UK's statutory limits and officer training ensure legal clarity; Australia's zero-tolerance model maximises deterrence; the US, despite diverse technologies, faces inconsistency. India's system remains fragmented under the Narcotic Drugs and Psychotropic Substances (NDPS) Act and Motor Vehicles Act, weakened by unvalidated devices, unclear post-2019 laws, poor coordination, and inadequate Article 21 protections. The comparative analysis reveals that while India's current framework suffers from fragmented legal authority, unvalidated detection practices, and weak inter-agency coordination, the US, UK, and Australian models demonstrate complementary strengths in officer training, statutory clarity, technological validation, and institutional oversight—insights that directly inform the design of the proposed “Safe Drive India 1.0” framework. The study proposes a phased “Safe Drive India 1.0” pilot that integrates standardised oral fluid kits, AI-based behavioural impairment analysis with privacy safeguards, blockchain-based evidence management, and coordinated digital enforcement platforms. It emphasises constitutional compliance, procedural transparency, and oversight through a National Drug-Impaired Driving Observatory. This study aims to (i) comparatively examine roadside drug testing laws and enforcement practices in the US, the UK, and Australia; (ii) identify legal, institutional, and evidentiary gaps in India's existing framework governing drug-impaired driving; (iii) evaluate the feasibility of integrating behavioural detection technologies within constitutional and procedural safeguards; and (iv) propose a phased legal–technological–institutional reform model, titled “Safe Drive India 1.0,” tailored to the Indian context. Key contributions include a comparative framework, an integrated legal-technological-ethical model, and policy recommendations for reform, institutional strengthening, and rights-conscious enforcement. This roadmap supports India in developing scientifically validated, legally robust roadside drug testing systems that enhance public safety while upholding individual liberties within its federal structure. © 2026 The Authors.",
+    "source": "Social Sciences and Humanities Open"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

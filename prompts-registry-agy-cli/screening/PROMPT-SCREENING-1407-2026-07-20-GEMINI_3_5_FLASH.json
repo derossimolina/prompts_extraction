@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1407-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blockchain initiatives and implementation",
+    "authors": "Mundra S.",
+    "year": "2018",
+    "doi": "10.3233/ISU-180022",
+    "abstract": "All professionals should consider the use of blockchain as a new and exciting arrow in their quiver when it comes to program risk management. In fact, even recently as several months ago, The National Institute of Standards and Technology (NIST), published a draft paper discussing and defining blockchain and its role in security. Traditional program structuring and deployment will not work well for blockchain technology. When we implement a new technology, we need to understand first what it is, potential use cases such as tracking the provenance and transfer of a digital asset, what we hope to accomplish, and then how we can implement to reduce the most risk to the organization. This includes determining if blockchain encryption is a good fit for the assets (using a flowchart), determining if the organization is ready for the change (change management) and the role of training as bookends to the program (first initial training, then development of SOPs and user training once the blockchain has been deployed). This paper discusses how to reduce risk to the organization, as a poorly-planned implementation can create turmoil and waste lots of time and money including a loose structure that can be applied as a baseline and then customized based on the needs of the organization. © 2018 - IOS Press and the authors.",
+    "source": "Information Services and Use"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

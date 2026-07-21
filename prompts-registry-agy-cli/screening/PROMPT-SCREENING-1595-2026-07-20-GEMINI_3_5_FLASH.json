@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1595-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "New developments in Hong Kong’s anti-money laundering laws",
+    "authors": "Kwok D.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-06-2015-0023",
+    "abstract": "Purpose: The purpose of this paper is to discuss briefly new developments in Hong Kong’s (HK) Anti-Money Laundering (AML) laws, both in terms of case law and legislation. Design/methodology/approach: In terms of case law, the author discusses two decisions given by HK’s Court of Final Appeal relating to the dealing of proceeds of crime offence. Also, a guideline case on sentencing is also examined. In terms of legislation, the author briefly outlines the main provisions of the newly enacted AML and Counter-Terrorist Financing (Financial Institutions) Ordinance. Findings: As suggested by the Financial Action Task Force, new measures need to be put in place. The AML laws, as they presently stand, need further improvement. Originality/value: A good AML regime is necessary as HK continues to thrive as a major financial/banking centre in Asia. This paper seeks to encourage more discussion on the topic. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

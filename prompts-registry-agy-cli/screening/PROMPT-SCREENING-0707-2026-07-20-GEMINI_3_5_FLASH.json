@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0707-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Management of agricultural land use sustainability at the local level using GIS technologies and special map material; [Управление устойчивостью аграрного землепользования на локальном уровне с использованием ГИС-технологий и специального картографического материала]",
+    "authors": "Tatarintsev V.V.; Lebedeva L.V.; Syzdykova G.D.; Inkarov D.S.",
+    "year": "2023",
+    "doi": "10.21177/1998-4502-2023-15-4-864-876",
+    "abstract": "The purpose of the study: analysis of geoecological factors and conditions affecting the sustainability of agricultural land use in the forest-steppe zone of the Altai Krai and its assessment. Research methods: The main scientific method of this study was system analysis, which was used to study the agricultural landscape management system. Methods of analysis and synthesis were used to identify structural units of land management, structuring the land information system (LIS) and special cartographic material, as well as studying the structure of agricultural landscapes. We also used the cartographic method in the design of unique map diagrams and information analysis in modeling agricultural land use. Research results. Based on the results of a long-term assessment of the sustainability of three agricultural land uses located in different natural and climatic zones, the conditions and factors that form the basis of the agricultural land use management system using GIS technologies were established. We found out that in order to manage the sustainability of agricultural landscapes, the mandatory information layers included in the data bank of a geographic information system (land information system) must include the following special cartographic materials: maps (scale 1:10000 or 1:25000) - landscape, soil, slope steepness, erosion, types of areas, tracts, lands, as well as the geomorphological profile of the surface. By processing materials with an information system, it is possible to implement at least 10 models for managing the sustainability of agricultural land use, which involve varying the structure of lands, lands, crop rotations, a set of crops, farming systems, a list of agro-, phyto-, reclamation techniques and measures aimed at achieving ecological and economic balance and, as a consequence, the efficiency of use of land resources. Conclusions. 1. Based on long-term spatio-temporal studies of agricultural landscapes of agricultural enterprises, a mandatory set of special cartographic materials of the geographic information system data bank has been determined, aimed at managing the sustainability of agricultural land use. 2. Using unique cartographic materials as an example, the possibility of modeling management scenarios in different natural conditions, characterized by different stability and efficiency, is shown. Modeling of agricultural land use makes it possible to determine capital investments and economic costs (economic and agronomic sustainability) when implementing the selected model, created on the basis of an analysis of the limiting factors of the territory. 3. The results of scientific research can be used in managing the sustainability of agricultural land use at the level of a municipal district and agricultural organization. © 2023 North Caucasian Institute of Mining and Metallurgy, State Technological University. All rights reserved.",
+    "source": "Sustainable Development of Mountain Territories"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

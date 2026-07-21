@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1211-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Inter-vulnerability of financial institutions and households in the system of national financial security assessment",
+    "authors": "Alifanova E.N.; Nivorozhkina L.I.; Evlakhova Yu.S.",
+    "year": "2019",
+    "doi": "10.35808/ijeba/366",
+    "abstract": "Purpose: The aim of this article is to study the concept of financial institutions and households' interrelation of vulnerabilities to the risk of money laundering and the integration of this concept into the methodology of a national ML/TF (Money Laundering and Terrorist Financing) risk assessment. Design/Methodology/Approach: At the theoretical and methodological levels, authors utilized a risk-based approach, which involves the separation of the object of study in risk levels and its impact on each risk level. At the methodological and analytical levels, authors utilized methods of grouping, descriptive analysis, comparison, synthesis, and graphic visualization of data. Findings: The most significant scientific results obtained in the course of the study include: proprietary algorithm for calculating the intensity coefficient of threats to national financial security, which practical approval on data of 27 countries allowed determining the structure of threats to financial security in the international landscape in the period 2013-2018; originally developed questionnaire on the assessment of the risks of deviations in the financial behavior of households and individuals. Originality/Value: The key findings are targeted at their widespread application in assessing money laundering risks at the national and international levels, in developing strategic documents on the development of systems to fight money laundering and terrorist financing. The methodology for identifying the propensity to deviations of financial behavior, based on a questionnaire survey, could serve as the basis for developing scoring systems. © 2019 International Strategic Management Association. All rights reserved.",
+    "source": "International Journal of Economics and Business Administration"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

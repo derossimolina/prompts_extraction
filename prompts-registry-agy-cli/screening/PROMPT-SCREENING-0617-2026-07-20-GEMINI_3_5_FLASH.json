@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0617-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Are Bankers “Crying Wolf”? Type I, Type II Errors and Deterrence in Anti-Money Laundering: The Italian Case",
+    "authors": "dalla Pellegrina L.; Di Maio G.; Masciandaro D.; Saraceno M.",
+    "year": "2023",
+    "doi": "10.1007/s40797-022-00195-2",
+    "abstract": "Excessive and useless reporting, called the “crying wolf effect,” is a crucial shortcoming that any anti-money laundering (AML) design aims to address. For this reason, in recent years, AML policies in both the US and Europe have switched from a rule-based to a risk-based approach. This study theoretically and empirically investigates whether the risk-based approach delivers the expected results. The theoretical model shows that a trade-off can emerge between accuracy (fewer type-I and type-II errors) and deterrence. The empirical analysis, conducted after the risk-based approach was introduced in Italy, confirms this trade-off. More specifically, deterrence seems a priority, whereas accuracy is sacrificed. In this respect, the data suggest that Italian bankers are likely to “cry wolf.” © 2022, The Author(s).",
+    "source": "Italian Economic Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

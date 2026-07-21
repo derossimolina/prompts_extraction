@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2559-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Making the information systems outsourcing decision: A transaction cost approach to analyzing outsourcing decision problems",
+    "authors": "Ngwenyama, OK; Bryson, N",
+    "year": "1999",
+    "doi": "10.1016/S0377-2217(97)00171-9",
+    "abstract": "During the last several years outsourcing has emerged as a major issue in information systems management. As competitive forces impinge on business firms, senior managers are re-structuring their organizations with an eye on attaining or maintaining competitive advantage. Various strategies to IS outsourcing have emerged, for example, some outsourcers contract with a sole vendor while others contract with several. To date no studies have been done to determine which strategies are appropriate under what conditions. And while some firms have achieved varying degrees of success with any of these strategies, many have encountered significant difficulties. How then are managers to choose from a set of options that which is most appropriate for their firm? Outsourcing problems are complex and entail considerable implications for the strategy of the firm. A wrong decision can result in loss of core competencies and capabilities, and exposure to unexpected risks. Although many articles have appeared on outsourcing, few have extended the discussion beyond simple cost-benefit analysis. In this paper we discuss a transaction cost theory approach to the analysis of outsourcing decision making. Our approach provides managers with a strategy and techniques for analyzing some of the more subtle issues they may face when dealing with complex outsourcing decisions problems. (C) 1999 Elsevier Science B.V. All rights reserved.",
+    "source": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

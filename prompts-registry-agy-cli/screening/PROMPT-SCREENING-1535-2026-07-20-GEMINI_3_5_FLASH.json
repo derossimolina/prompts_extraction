@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1535-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The monetary impact of regulating banking and financial sectors by FATF on non-cooperative countries and territories",
+    "authors": "Shahin W.N.; El-Achkar E.; Shehab R.",
+    "year": "2012",
+    "doi": "10.1057/jbr.2011.17",
+    "abstract": "This article analyzes the monetary consequences of the banking and financial regulatory restrictions imposed in February 2000 by the Financial Action Task Force on money laundering (FATF) on 23 nations placed on the list of Non-Cooperative Countries and Territories (NCCTs) for not meeting many of the 25 criteria established to combat money laundering and the financing of terrorism. Countries introducing new measures to meet several of the criteria related to banking regulation and additional tightening of financial secrecy were de-listed from the list of NCCTs in as early as 2001 with the last country being de-listed in October 2006. The regulatory measures may have had money, banking and other economic implications motivating an empirical investigation of the issue. Evaluating the experience of the NCCTs with the international regulation of banking and financial sectors aims at determining the monetary impact of the measures. The impact, if any, could possibly require a change in current and future monetary policy conduct in each of these countries. Additionally, the process of identifying what is now known as countries with AML/CFT (anti-money laundering/ counter financing of terrorism) deficiencies is an ongoing declared strategy requiring deriving policy lessons for future regulation. The results reached show that unlike some results in the literature, the measures did not seem to have significantly impacted the monetary variables in the NCCTs. This serves to shed additional light on the monetary policy conduct after introducing these measures and allows further regulation by FATF of banking and financial sectors in countries with AML/CFT deficiencies without concerns about necessarily impacting monetary variables.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

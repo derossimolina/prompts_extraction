@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2222-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Knowledge-based anti-money laundering: A software agent bank application",
+    "authors": "Gao S.; Xu D.; Wang H.; Green P.",
+    "year": "2009",
+    "doi": "10.1108/13673270910942709",
+    "abstract": "Purpose - Criminal elements in today's technology-driven society are using every means available at their disposal to launder the proceeds from their illegal activities. While many anti-money laundering (AML) solutions have been in place for some time within the financial community, they face the challenge to adapt to the ever-changing risk and methods in relation to money laundering (ML). This research seeks to focus on ML control and prevention, which aim to automate the monitoring and diagnosing of ML schemes in order to report suspicious activities to banks. Design/methodology/approach - The research adopted the technology of intelligent agents to provide a more adaptive, flexible, and knowledge-based solution for AML. Findings - Based on the analysis of monitoring, diagnosing, and reporting of ML activities occurring in electronic transactions, several types of intelligent agents are proposed and a multi-agent framework is presented for AML. Furthermore, business knowledge such as business rules and strategies are extracted from AML practice, and applied to the design of individual agents to make them act autonomously and collaboratively to fulfil the goal of ML detection. Practical implications - The proposed multi-agent framework is a stand-alone system, which can be integrated by banks to combat ML. Although it is a uni-bank framework at present, it can be extended to multi-bank application in the future. Originality/value - The research explores the approach of applying an intelligent agent for knowledge-based AML in an electronic transaction environment for banks. By separating business logic from the business model, such a business-rules approach can enhance the flexibility and adaptability of the agent-based AML system. © Emerald Group Publishing Limited.",
+    "source": "Journal of Knowledge Management"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo))",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

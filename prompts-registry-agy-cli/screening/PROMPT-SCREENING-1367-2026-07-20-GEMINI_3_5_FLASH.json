@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1367-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Impact of Legislative Policies on the Judicial Reorganization Procedure and the Risk of Illegal Financing in Romania",
+    "authors": "Gavrila S.P.; Florin T.",
+    "year": "2020",
+    "doi": "10.1007/978-3-030-53536-0_16",
+    "abstract": "The purpose of this study is to analyze the judicial reorganization process in Romania and how the state supports the companies in financial difficulty. Judicial reorganization has been created as a legal tool for traders in insolvency but whose businesses are capable of overcoming difficult times. In line with the European vision, in order to give firms in difficulty a second chance, the Romanian legislature adopted a normative act aimed at facilitating access to this second chance for traders. Almost 5 years after the adoption of this law, although it was considered to be one of the most progressive European laws in the matter, following the tendency of traders to use judicial reorganization for the purpose of disregarding budgetary obligations, but also the risk of financing illegal activities in the field of organized crime, the Romanian legislature wants to amend legislation in the sense of to guarantee the recovery of these budgetary obligations. On the other hand, the proposed legislative amendments do not respond to the criticism of the insolvency practitioners regarding the adoption of fiscal measures capable of actually encouraging judicial reorganization. © Springer Nature Switzerland AG 2020.",
+    "source": "Eurasian Studies in Business and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

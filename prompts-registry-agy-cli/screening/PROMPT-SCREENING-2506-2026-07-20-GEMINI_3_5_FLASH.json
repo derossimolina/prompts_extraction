@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2506-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Police Investigations Into Financial-Economic Cybercriminal Networks: The Experiences and Perceptions of Dutch Law Enforcement",
+    "authors": "Bekkers, L; Leukfeldt, R; Kleemans, E",
+    "year": "2025",
+    "doi": "10.1007/s10610-025-09615-2",
+    "abstract": "Nowadays, the number of victims of cybercrime is substantial, especially regarding forms of online fraud. This means that a large share of the time and effort of the police should also be focused on such crimes. Indeed, in some countries, cybercrime is prioritized in security policy and police practice. However, clearance rates are low and police investigations struggle to reach the offenders that use money mules. More scientific research on the response of law enforcement can help to improve and strengthen the current approach. The aim of the current study is therefore to better understand the experiences and perceptions of experts of Dutch public and (semi-)private organizations regarding police investigations into locally embedded cybercriminal networks that use money mules. We conducted interviews with 31 professionals, primarily from the police, the Public Prosecution Service, and private financial institutions. The interviews revealed that, at the time of data collection, money mules were used for the offenses of phishing, bank helpdesk fraud, online consumer fraud, and friend-in-need fraud. Respondents highlighted the need for direct and proactive investigation into the higher layers of cybercriminal networks, although efforts should also be made to better investigate money mules locally and regionally. According to respondents, this requires a strong local government and efficient cooperation within the police force and with private parties. However, a lack of priority, knowledge, and capacity to deal with cybercrime cases is observed, especially among local police teams. The main findings are considered within the light of previous literature and practical implications are discussed.",
+    "source": "EUROPEAN JOURNAL ON CRIMINAL POLICY AND RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

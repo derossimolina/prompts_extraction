@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1065-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The incidence of drug trafficking in the upper echelons of the peruvian government; [A incidência do narcotráfico nas altas esferas de governo peruano]; [La incidencia del narcotráfico en las altas esferas del gobierno peruano]",
+    "authors": "Bermúdez-Tapia M.; Sierra-Zamora P.A.",
+    "year": "2021",
+    "doi": "10.14718/NovumJus.2021.15.2.10",
+    "abstract": "From the mid-eighties of the last century to the present, drug trafficking has generated a severe economic, political and social impact in Peru. In 2018, as a result of a police prosecutor's investigation, the relationship between a gang of drug traffickers with some officials of the Judicial Power, Public Ministry and National Council of the Magistracy, who had close ties in the other State entities, was discovered, which accredited the presence of such agents linked to drug trafficking in the high spheres of power. The consequences have weakened democracy in the country because the influence of drug trafficking could be related to members of the Congress of the Republic and even the national government. Consequently, the State implemented a series of normative and institutional actions to limit the influence of drug trafficking and modified the criminal-civil legislation that regulates financial and banking control and the disposition of real estate linked to money laundering cases, deactivating the National Council of the Magistracy and dismissing the majority of officials from high judicial entities in the country. © 2021, Universidad Catolica de Colombia. All rights reserved.",
+    "source": "Novum Jus"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

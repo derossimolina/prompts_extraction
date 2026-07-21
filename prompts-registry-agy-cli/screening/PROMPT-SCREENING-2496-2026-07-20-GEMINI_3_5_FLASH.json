@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2496-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Collaboration between Law Enforcement Agencies in Combating Cybercrime: Implications of a Taiwanese Case Study about ATM Hacking",
+    "authors": "Wang, SYK; Hsieh, ML; Chang, CKM; Jiang, PS; Dallier, DJ",
+    "year": "2021",
+    "doi": "10.1177/0306624X20952391",
+    "abstract": "An increasing number of cybercrimes has presented new global challenges to law enforcement agencies that traditionally operate within designated geographical jurisdictions and patrol territories. The borderless nature of cyberspace has brought substantial opportunities-both legal and illegal-to its users, and many local law enforcement agencies have encountered motivated offenders taking advantage of the globally connected Internet and causing damage locally and transnationally. This study examines a high-profile case of European criminals who hacked into a Taiwanese financial institution-First Commercial Bank (FCB)-and programmed its ATMs to spit out cash netting the thieves $2.6 million US dollars in 2016 summer. Before the incident of FCB, this European criminal group committed more than a hundred similar ATMs hackings, victimizing dozens of financial institutions across several European countries, and profiting over one billion Euros. FCB is the only case revealing specific details about the modus operandi of ATM hacking thus far, in addition to disclosing reactions from law enforcement. By analyzing qualitative data collected from different branches of law enforcement involved in the investigations, this unique case study underscores the importance of national-local law enforcement collaboration in fighting transnational cybercrime. Empirical implications are particularly valuable in the law enforcement context of turf jealousies when defending homeland security.",
+    "source": "INTERNATIONAL JOURNAL OF OFFENDER THERAPY AND COMPARATIVE CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

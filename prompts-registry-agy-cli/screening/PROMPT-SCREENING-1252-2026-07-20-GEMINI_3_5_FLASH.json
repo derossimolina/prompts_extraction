@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1252-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Does fiduciary duty to creditors reduce debt covenant violation avoidance behavior?",
+    "authors": "Levi S.; Segal B.; Segal D.",
+    "year": "2021",
+    "doi": "10.1111/jbfa.12509",
+    "abstract": "Financial reports should provide useful information to shareholders and creditors. Directors, however, normally owe fiduciary duties to equity holders and not creditors. We examine whether this slant in fiduciary duties affects the extent to which firms use financial engineering to circumvent debt covenant violation. By avoiding debt covenant violation, firms prevent creditors from taking actions to reduce bankruptcy risk and recover their investment, and allow the firm to continue operating for the benefit of equity holders. We find that a Delaware court ruling that imposed fiduciary duties toward creditors led to a decrease in financial engineering and debt covenant avoidance in Delaware firms. We also show that board quality lowers financial engineering and debt covenant avoidance by firms only when their directors owe a legal fiduciary duty to creditors. Collectively, our results suggest that unless directors are required to protect creditors’ interest, they are likely to take actions to circumvent debt covenant violations. © 2020 John Wiley & Sons Ltd",
+    "source": "Journal of Business Finance and Accounting"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

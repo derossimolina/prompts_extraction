@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2388-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Virtual currencies and money laundering: existing and prospects for jurisdictions that comprehensively prohibited virtual currencies like Pakistan",
+    "authors": "Sultan, N; Mohamed, N; Martin, M; Latif, HM",
+    "year": "2024",
+    "doi": "10.1108/JMLC-02-2023-0024",
+    "abstract": "PurposeThis study aims to examine the Financial Action Task Force's recommendations on virtual currencies (VCs) and how Pakistan has responded to them. Design/methodology/approachQualitative document and jurisprudence analysis techniques were used to achieve the study's goal. FindingsAccording to this study, VCs are modern FinTech that no jurisdiction can ignore. However, Pakistan has not adopted regulations to govern VCs but comprehensively prohibits their use. It is primarily due to the apathy of various regimes and regulators. Furthermore, the geographical location, undocumented economy and rampant corruption could facilitate the abuse of VCs for money laundering. Originality/valueThis study has provided a significant overview for developing regulations for VCs in Pakistan and other developing jurisdictions with the same characteristics.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

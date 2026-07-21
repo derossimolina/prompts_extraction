@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2423-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enforcement of US judgments against domestic and offshore trusts and trustees",
+    "authors": "Prudhoe, T; Notebaert, J",
+    "year": "2011",
+    "doi": "10.1093/tandt/ttr033",
+    "abstract": "This article examines the enforcement tools available to US courts. It analyses how US courts enforce judgments across stage lines, and the treatment of trusts in US legislation and court decisions. It also looks at enforcement in the international context, and considers principles of fraudulent conveyance; bankruptcy law, and laws and agreements about money laundering, which have been used to enforce US judgments obtained against offshore trusts and trustees.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2072-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Balancing financial threats and legal interests in money-laundering policy",
+    "authors": "Van Duyne P.C.; Groenhuijsen M.S.; Schudelaro A.A.P.",
+    "year": "2005",
+    "doi": "10.1007/s10611-005-5984-1",
+    "abstract": "The fight against money laundering has been energetically introduced and developed into a global enforcement regime. Various economic and financial justifications have been put forward, which are not self-evident. The simple and basic foundation is that ill-gotten profits should not remain in the possession of the criminal. Nevertheless, the cause of fighting money laundering is loaded with arguments about the staggering size and the undermining effects of the crime-money, for which there is no empirical evidence. The arguments concerning the integrity of the financial system, usually taken at face value, proves to be less than coherent. Nevertheless, these (globally) politically accepted arguments prove to be effective in overruling a more careful balancing of legal interests and foundations, like the all-encompassing breadth of the money-laundering approach. This approach is compared with the computer crime legislation, in which restraint was balanced with the requirement to update the legal tools to an adequate level of effectiveness in an electronic criminal environment. This clarity contrasts strongly with the rhetoric of the money-laundering policy, in which we find neither restraint nor clarity. © Springer 2005.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

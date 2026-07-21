@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1087-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International tax planning within the structure of corporate entities owned by the shareholder-individuals through Panama Papers destinations",
+    "authors": "Nerudova D.; Solilova V.; Litzman M.; Janský P.",
+    "year": "2020",
+    "doi": "10.1111/dpr.12403",
+    "abstract": "Motivation: The Panama Papers scandal highlighted the scale of financial secrecy, anonymous ownership and shell companies and their role in profit shifting and tax avoidance. We show the importance of international tax planning within the structure of corporate entities owned by shareholder-individuals through Panama Papers destinations. Purpose: To identify profit-shifting channels and to estimate related government revenue losses to European Union Member States. Methods: Using company data from the Amadeus/Orbis database (Bureau Van Dijk, n.d.a, n.d.b), we applied micro-data analysis to the financial statements of multinational companies (MNEs) owned by shareholder-individuals. Two groups—one with and the other without links to Panama Papers tax havens—alongside an analysis of profit-shifting indicators. Findings: Profit is generally shifted by moving operating revenues or costs, though the use of debt channels is also important. Also, groups linked to tax havens pay significantly less tax per unit of profit before tax, and require less operating revenue to achieve higher profits. Finally, related government revenue losses were assessed at EUR 8.67 billion. Policy implication: Our results are relevant to the European Commission’s Comprehensive Common Consolidated Corporate Tax Base (CCCCTB) as it aims to counter profit shifting out of the European Union (EU) into tax havens. Further, our research highlights the importance of setting up registries of ultimate beneficiary owners in EU Member States. © The Authors 2018. Development Policy Review © 2018 Overseas Development Institute",
+    "source": "Development Policy Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

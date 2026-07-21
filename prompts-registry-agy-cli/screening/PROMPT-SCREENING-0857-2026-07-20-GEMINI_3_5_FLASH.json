@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0857-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mexico: Remittances, Organized Crime and US Drug Overdose Crisis in Borderlands (2015-2021); [México: remesas, crimen organizado y la crisis de sobredosis de Drogas en las zonas fronterizas de Estados Unidos (2015-2021)]",
+    "authors": "Guzmán G.R.; Acevedo M.A.E.; Hernández P.E.R.",
+    "year": "2023",
+    "doi": "10.22201/cisan.24487228e.2023.1.602",
+    "abstract": "The present article aims at shedding some light to the question whether Mexicos boom in remittances between 2015 and 2021 was the result of low rates of unemployment in the USA or of higher revenues of drug trafficking made by Mexican Criminal Groups. We found that Mexican migration to the USA took off up 2019 and accelerated with Covid-19 pandemic. Since higher rates of unemployment matched with larger number of remittances and a spike in drug overdose deaths in the USA, a hypothesis aroused stating that Mexican remittances could be related to drug trafficking revenues. An Exploratory Data Analysis (EDA) found a normal negative correlation (not causation) between US-unemployment rate and remittances from 2015 to 2019 but an abnormal negative correlation from 2020 to 2021. We conclude that the record level in Mexican remittances between 2020 and 2021 could be the result of an increase in Mexican migration but also from a windfall in drug trafficking earnings mirrored in a spike of drug overdose deaths in the USA. © 2023, Norteamerica. All Rights Reserved.",
+    "source": "Norteamerica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

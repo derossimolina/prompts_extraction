@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1735-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Nuclear power plant financing post-Fukushima, and international investment law",
+    "authors": "Joyner D.H.",
+    "year": "2014",
+    "doi": "10.1093/jwelb/jwt012",
+    "abstract": "The essential thesis of this article is that, as corporate and project finance trends continue in nuclear power plant financing, resulting in diversified and much broader and more complex structures of foreign investment, international investment law will become increasingly relevant to and influential upon these transactions. This in turn will spawn a new wave of disputes based in international investment law claims, before international arbitral tribunals including the ICSID. After discussing the 2011 Fukushima nuclear disaster, and the first international investment law case directly related to an investment in a nuclear power plant, the article begins by describing recent trends in the financing of nuclear power plants. These trends include a shift from almost exclusively sovereign-assumed financing cost and risk, to other financing models which increasingly access global capital markets, and spread risk among a larger and more diverse set of investors. It then proceeds to review and consider the international legal sources addressing nuclear energy development and related international trade and investment transactions, focusing on the sources of international investment law. It considers both the primary ways in which the current trends in nuclear power plant financing are making international investment law increasingly relevant to nuclear-power-plant-related investments, as well as the secondary effect this increasing relevance will likely have upon future structuring of financing arrangements for new nuclear power plants. The article provides detailed consideration of the application of international investment law to foreign investments in nuclear power plants, including areas in which host states of such investments are most likely to experience increased exposure to liability due to current financing trends. It concludes with a further consideration of the secondary effects caused by this increased host state exposure to liability, including effects on future structuring of financing arrangements for new nuclear power plants, and effects on (re)negotiations of international investment law instruments between actual or potential host states, and states that are actual or potential home states of nuclear vendors and investors. © The Author 2013. Published by Oxford University Press on behalf of the AIPN. All rights reserved.",
+    "source": "Journal of World Energy Law and Business"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

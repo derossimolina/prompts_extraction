@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2206-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Privatizing economic crime enforcement: exploring the role of private sector investigative agencies in combating money laundering",
+    "authors": "Schneider S.",
+    "year": "2006",
+    "doi": "10.1080/10439460600812065",
+    "abstract": "This research explores the role played by private sector financial investigative agencies (FIA) in combating money laundering in Canada and abroad. For the purposes of this study, a FIA refers to accounting-based, private sector organizations that provide investigative, risk management, consulting and litigation support services addressing economic crime. FIAs offer a broad array of anti-money laundering services to corporate and government clients, including risk assessments, legislative compliance consulting, corporate due diligence, suspicious transaction detection and reporting, investigations, as well as asset tracing and recovery. This emergent “anti-money laundering industry” is unique in that it is ultimately concerned with economic, organized, and terrorist crimes. These crimes are much more complex, multi-jurisdictional and threatening to mass society than the “street-level” property crime that is the overwhelming focus of the private policing sector. With the advent and growth of this cottage industry, the focus of the private policing sector now stretches from the most rudimentary disorder and property crime problems all the way to complex, highly-organized and multi-jurisdictional criminal and national security issues. What's more, this anti-money laundering industry has contributed to not only the ongoing fragmentation of policing in society, but with increased attention being paid to detecting terrorist financing, it has perhaps initiated a similar fragmentation of national security enforcement. This study recommends that public policies and programmes be developed that nurture an increased and more formal role for FIAs within the context of a partnership with government agencies. © 2006 Taylor & Francis.",
+    "source": "Policing and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

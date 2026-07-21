@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0363-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Working with pride in the shadow of shame: Emotional dissonance and identity work during a corporate scandal",
+    "authors": "Frandsen S.; Grant J.; Kärreman D.",
+    "year": "2025",
+    "doi": "10.1177/00187267241227819",
+    "abstract": "The relationship between emotions and identity work is well established, yet the dynamic between emotional dissonance and identity work remains under-researched in organizational studies. We explore this relationship in the context of organizational scandal, examining the required and experienced emotions of organizational members when ‘working in the shadow of shame’. Drawing on an in-depth ethnographic study of Danske Bank collected at the peak of its money-laundering scandal, the article makes two contributions to the emerging interest in the intertwined nature of emotions and identity in organizations. First, we challenge the literature on emotional dissonance by demonstrating that employees do not attempt to resolve or reduce their emotional dissonance, but instead sustain it. Second, we advance the literature on identity work by showing how emotional dissonance can be understood as a trigger and resource for strategic and preferred identity work to maintain a positive social identity and self-identity. © The Author(s) 2024.",
+    "source": "Human Relations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

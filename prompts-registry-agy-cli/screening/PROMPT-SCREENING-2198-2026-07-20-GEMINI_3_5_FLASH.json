@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2198-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The wealth effects of the USA Patriot Act: evidence from the banking and thrift industries",
+    "authors": "Dolar B.; Shughart W.F., II",
+    "year": "2007",
+    "doi": "10.1108/13685200710763470",
+    "abstract": "PurposeTitle III of the USA Patriot Act obligated the private sector to take a more active role in deterring money laundering and disrupting terrorist financing. Complying with the new law has increased the cost of doing business dramatically for firms in the financial services industry. This study aims to apply a heterogeneous-firm model of regulation to test whether the anti-money laundering (AML) provisions of the Patriot Act redistributed wealth within the commercial banking and thrift sectors. Design/methodology/approachThe paper analyzes a dataset comprising more than 150,000 observations. FindingsThe empirical evidence suggests that, owing to scale economies in regulatory compliance, the burden has fallen more heavily on smaller institutions. Moreover, the study does not find that the rules written to implement Title III have differentially impacted banks and thrifts at greater risk of being targeted by money launderers, as a public-interest theory of regulation would predict. Originality/valueThe paper focuses on the AML provisions of the USA Patriot Act. © 2007, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

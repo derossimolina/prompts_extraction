@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2237-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The sub-Saharan Africa's unrecorded international trade. Somme methodological and conceptual problems; [Le commerce international informel en Afrique sub-saharienne. Quelques problèmes méthodologiques et conceptuels]",
+    "authors": "Ellis S.; MacGaffey J.",
+    "year": "1997",
+    "doi": "10.3406/cea.1997.1985",
+    "abstract": "Africa's informal economies have grown so extensive that it is no longer possible to regard them as marginal to formal economies nor only as factors of local importance. Moreover the label \"informal\" itself is only one of several adjectives on offer, all of them to some extent inexact, to describe movements of goods and services which are not officially recorded, and which in some cases are illegal. The inter-continental reach of these \"informal\" economies deserves further study. This poses considerable technical problems which are examined here. Much can be gleaned from available statistics even on semiclandestine or totally clandestine trades, such as in ivory or narcotics. It is also possible, particularly using anthropological techniques, to study small groups of petty traders living overseas.",
+    "source": "Cahiers d'Etudes Africaines"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

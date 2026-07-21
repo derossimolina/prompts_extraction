@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1111-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Halkbank and OFAC: a sanctions evasion case study",
+    "authors": "Scott B.F.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-12-2018-0074",
+    "abstract": "Purpose: The purpose of this paper is to use two recent US prosecutions of Turkish nationals for sanctions evasion, the Zarrab and Atilla cases, as case studies of recent developments in US sanctions law and law enforcement. Design/methodology/approach: This paper uses primary sources (pleadings and other court documents) to articulate the key facts and arguments in the Zarrab and Atilla cases and to explain the sanctions evasion methodologies used by the group. This paper then draws out the lessons of these cases for the practice of financial crime compliance in banking institutions. Findings: This paper highlights the expanding scope of US sanctions laws and the challenges for banks in complying with them. In particular, it shows the similarities between sanctions evasion and other financial crime methodologies, arguing that banks need to become more interdisciplinary in their operational approach to financial crime. Originality/value: The Zarrab and Atilla cases are of international significance in sanction law. This paper is the first in-depth case study of these cases from a legal and compliance perspective. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

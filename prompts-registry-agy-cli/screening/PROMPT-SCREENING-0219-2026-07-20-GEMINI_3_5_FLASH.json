@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0219-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sequencing Finance for Climate Resilience: Instruments, Institutions and Hong Kong's Role in Mobilising Private Capital in Southeast Asia",
+    "authors": "Delina L.; Widia M.; Boedijanto O.; Macagba S.; Castro J.; Lam R.",
+    "year": "2026",
+    "doi": "10.1002/bse.70473",
+    "abstract": "This paper investigates innovative financing strategies to mobilise private capital for climate adaptation, emphasising Hong Kong's role in advancing efforts across Southeast Asia. Using expert interviews and case studies, it addresses two key questions: which financial instruments can strengthen public–private collaboration, and what best practices can overcome barriers to private-sector engagement. Findings highlight blended finance—through adaptation and green bonds, insurance pooling and guarantee facilities—as essential for reshaping risk-return profiles and attracting investment. Effectiveness, however, depends on alignment with project economics and integration into robust governance frameworks. Persistent challenges, including information asymmetries, discontinuous hazard and performance data, inadequate capacity for project preparation and misaligned return expectations, continue to impede progress. Experts recommend a sequenced approach: first, invest in open data systems, standardised metrics and project preparation facilities; then pilot demonstrator projects with transparent concessional support and independent verification; and finally, scale successful initiatives through market instruments. Hong Kong's comparative advantage in transaction structuring, bond markets and investor convening positions it as a regional catalyst. The paper proposes a pragmatic framework for public–private (philanthropic) partnerships combining instrument matching, capacity building, transparent guarantees and equity safeguards. These insights offer actionable guidance for policymakers, development banks and investors seeking to expand bankable adaptation projects and build climate resilience. © 2025 The Author(s). Business Strategy and the Environment published by ERP Environment and John Wiley & Sons Ltd.",
+    "source": "Business Strategy and the Environment"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2490-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "STRUCTURING AND GOVERNING ALLIANCES: NEW DIRECTIONS FOR RESEARCH",
+    "authors": "Contractor, FJ; Reuer, JJ",
+    "year": "2014",
+    "doi": "10.1002/gsj.1082",
+    "abstract": "The purpose of this article is to identify a future research agenda relating to the structure and governance of international alliances. Despite emerging research that is being carried out on topics related to the structuring, management, and governance of domestic and international collaborations, much remains unknown and warrants future work. The new directions in alliance research partially stem from the recent greater availability of databases that contain actual contract details. We also relate some of the contributions of the articles in the special issue to the research agenda we are calling for. Copyright (C) 2014 Strategic Management Society.",
+    "source": "GLOBAL STRATEGY JOURNAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

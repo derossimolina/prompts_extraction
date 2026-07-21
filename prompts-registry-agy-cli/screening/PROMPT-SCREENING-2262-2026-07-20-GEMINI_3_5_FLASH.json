@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2262-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Discerning Novel Value Chains in Financial Malware",
+    "authors": "van Wegberg, RS; Klievink, AJ; van Eeten, MJG",
+    "year": "2017",
+    "doi": "10.1007/s10610-017-9336-3",
+    "abstract": "Fraud with online payment services is an ongoing problem, with significant financial-economic and societal impact. One of the main modus operandi is financial malware that compromises consumer and corporate devices, thereby potentially undermining the security of critical financial systems. Recent research into the underground economy has shown that cybercriminals are organised around highly specialised tasks, such as pay-per-install markets for infected machines, malware-as-a-service and money mule recruitment. Setting up a successful financial malware scheme requires the aligning of many moving parts. Analysing how cybercrime groups acquire, combine and align these parts into value chains can greatly benefit from existing insights into the economics of online crime. Using transaction cost economics, this paper illustrates the business model behind financial malware and presents three novel value chains therein. For this purpose, we use a conceptual synthesis of the state-of-the-art of the literature on financial malware, underground markets and (cyber)crime economics, as well as today's banking practice.",
+    "source": "EUROPEAN JOURNAL ON CRIMINAL POLICY AND RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

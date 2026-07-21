@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2061-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating the cross&hyphen;border movement of prepaid cards",
+    "authors": "Linn C.J.",
+    "year": "2008",
+    "doi": "10.1108/13685200810867474",
+    "abstract": "PurposeThe term &ldquo;prepaid card&rdquo; refers to the pre&hyphen;payment of value process, i.e. pay now and extract value later, and describes most of the prepaid&sol;stored value products available today. These cards have largely supplanted paper gift certificates and travelers checks, and are used as alternatives for traditional paper&hyphen;based transactions such as payroll payments, cross&hyphen;border remittances, and government assistance or welfare benefit programs. However, the same attributes that make open&hyphen;system prepaid cards attractive to legitimate customers make them attractive to money launderers. The purpose of this paper is to make the case for subjecting certain prepaid card products &lpar;but not all&rpar; to Report of International Transportation of Currency or Monetary Instruments &lpar;CMIR&rpar; requirements. Design&sol;methodology&sol;approachAddresses how the US law&hyphen;enforcement agencies might reconstruct the CMIR enforcement regime to address the unique challenges that prepaid card products present. FindingsThe money laundering threat posed by these products is not immediate, but it is not conjectural either. US law&hyphen;enforcement agencies &lpar;and perhaps ultimately the courts&rpar; will be required to address the fourth amendment and privacy issues that may arise when a customs officer &ldquo;searches&rdquo; a prepaid card by swiping it and ascertaining the value of the funds associated with that card. Originality&sol;valueThe paper is of value by showing that problem issues can be surmounted, provided the enforcement regime is narrowly targeted to include only those prepaid card products that bear the closest resemblance to currency, and provided the funds associated with those products are maintained in pooled accounts. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

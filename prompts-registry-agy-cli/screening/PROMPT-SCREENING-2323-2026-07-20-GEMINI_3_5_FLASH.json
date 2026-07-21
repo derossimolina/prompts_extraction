@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2323-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Social Harm and the Vagaries of Financial Regulation in the UK",
+    "authors": "Ruggiero, V",
+    "year": "2015",
+    "doi": "10.5204/ijcjsd.v3i2.232",
+    "abstract": "The premise of this article is that financial crises, whether they occur as a result of legitimate of illegitimate conduct, cause social harm and victimisation. The 2008 bank crisis is a clear indication of this, as some of the financial operations determining it possessed a criminal nature while some did not. This article is concerned with both typologies, namely with illicit and licit harmful behaviour adopted by financial actors. After some general introductory notes, the first section of the paper focuses on the measures proposed or adopted in response to the 2008 crisis in the UK. This is followed by the presentation of a number of recent cases proving that, despite recent regulatory efforts, large loopholes are still present which allow forms of financial crime to thrive. Some final observations on the difficulties encountered by regulatory attempts complete the paper.",
+    "source": "INTERNATIONAL JOURNAL FOR CRIME JUSTICE AND SOCIAL DEMOCRACY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

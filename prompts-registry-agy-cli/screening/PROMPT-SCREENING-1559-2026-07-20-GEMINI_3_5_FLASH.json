@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1559-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Model migrations: Mobility and boundary crossings in regional climate prediction",
+    "authors": "Mahony M.; Hulme M.",
+    "year": "2012",
+    "doi": "10.1111/j.1475-5661.2011.00473.x",
+    "abstract": "The Hadley Centre's PRECIS regional climate modelling system has been designed to fulfil the informational requirements of adaptation and development planners in the 'global south'. Drawing on recent insights from science and technology studies and the geography of science concerning the mobility of scientific knowledge, this study investigates the institutional and discursive associations that enable the PRECIS modelling system to move between its UK birthplace and new sites of climate simulation. Document analysis and interviews with key personnel reveal the construction of regional climate modelling as an obligatory passage point for those seeking to adapt to future climates in developing countries. Furthermore, the operation of PRECIS across the boundaries of intersecting scientific and political worlds imbues the model with a level of epistemic power that has enabled the partial re-shaping of the global geographies of climate knowledge production. This new structuring of scientific practice is potentially empowering through the redistribution of climate modelling expertise, yet it may also contribute to the construction of climate prediction as a limit to adaptation. We argue that it furthers an epistemic hegemony that renders alternative 'ways of knowing' the climate either subordinate to or dependent upon the epistemic community centred on the Intergovernmental Panel on Climate Change and global governance mechanisms. The study illuminates the potential for geographers of science to make normative interventions in debates around the interplay of space, knowledge and power in contexts of environmental deliberation and governance. © 2011 The Authors. Transactions of the Institute of British Geographers © 2011 Royal Geographical Society (with the Institute of British Geographers).",
+    "source": "Transactions of the Institute of British Geographers"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica modelagem baseada em agentes (ABM) para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo))",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

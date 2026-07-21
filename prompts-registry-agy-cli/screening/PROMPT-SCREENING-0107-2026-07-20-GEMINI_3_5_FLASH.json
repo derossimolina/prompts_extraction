@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0107-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploring illicit personal information trading behind telecom fraud in China",
+    "authors": "Chen G.; Liu Q.; Chen G.; Huang A.",
+    "year": "2025",
+    "doi": "10.1057/s41599-025-05972-9",
+    "abstract": "Illicit personal information trading, a hallmark of internet dark and gray industries, has deeply infiltrated the global criminal economic system, serving as a critical driver and “raw material factory” for numerous offenses. This study focuses on its role as the core enabler of China’s telecom fraud criminal ecosystem, revealing its systemic characteristics and multi-dimensional evolutionary patterns, with significant theoretical and practical implications. Utilizing telecom fraud case data and anonymous network transaction data, this research employs analytical description and Event Logic Graph (ELG) to systematically uncover the operational mechanisms and evolutionary rules of illicit personal information trading. The findings demonstrate a pronounced “data capitalization” feature within this trade, empirically validating the cybercrime economics law of “data-as-criminal-capital”. The constructed “communication-fund flow-transaction” evolution model reveals a paradigm shift from traditional tool reliance to technology-driven operations: communication modes migrated from traditional channels to hybrid Telegram API and Tor+Signal architectures; fund flow evolved from fiat cash to USDT mixing and money laundering via “Pao Fen” platforms; transaction models upgraded from bulk sales to “customized subscription” services. This illicit trade has matured into an industrialized division of labor: upstream actors steal full-lifecycle data via automated scripts; midstream processes and packages standardized data products; downstream legitimizes criminal proceeds through diverse money laundering methods. This research not only deepens the understanding of cybercrime economics but also, by uncovering the evolutionary pathways of the criminal ecosystem and its industrial chain structure, provides crucial theoretical foundations and practical targets for formulating targeted governance strategies and building a global collaborative regulatory framework. © The Author(s) 2025.",
+    "source": "Humanities and Social Sciences Communications"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0523-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crime script analysis of drug importation into Australia facilitated by the dark net",
+    "authors": "Morgenthaler E.; Leclerc B.",
+    "year": "2023",
+    "doi": "10.1080/17440572.2023.2212592",
+    "abstract": "A growing facilitator of drug trafficking are dark net markets, which enable transactions between sellers and buyers of illicit drugs around the world. This study aimed to develop a crime script for drug importation into Australia and identify potential crime prevention points within the crime script. To achieve this, a content analysis of 18 Australian court sentencing transcripts was conducted. The final crime script consisted of five general steps taken by offenders (preparation, access, purchasing, receiving and storage) followed by three script tracks based on the purpose of importation (selling on the dark net domestically, selling offline and personal use). This study will contribute to the current knowledge of the crime commission process of buyers on the dark net by focusing on online and offline steps, and the importation in the Australian context. Through these insights, this study will conclude by looking at potential specific and tailored crime prevention measures. © 2023 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

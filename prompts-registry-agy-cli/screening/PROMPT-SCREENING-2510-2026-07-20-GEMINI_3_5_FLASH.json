@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2510-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The evolution of partnering in open innovation: from transactions to communities",
+    "authors": "McFarthing, KG",
+    "year": "2013",
+    "doi": "10.1533/9780857097248.3.235",
+    "abstract": "The selection, engagement and management of partnerships are crucial to the success of open innovation, and factors related to this are described. Increasingly partnerships are becoming more complex and sophisticated, and evolving to incorporate elements of community. Approaches to the building and structuring of relationships are addressed, together with the development of ecosystems. Embracing the intangible human factors described in this chapter as well as the tangible facts will be key to maintaining success in the future.",
+    "source": "OPEN INNOVATION IN THE FOOD AND BEVERAGE INDUSTRY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

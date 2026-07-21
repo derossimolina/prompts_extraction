@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0671-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Compliant or not compliant? The challenges of anti-money laundering regulations in crypto assets: the case of Switzerland",
+    "authors": "Renda A.; Caneppele S.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-04-2023-0078",
+    "abstract": "Purpose: Criminals have quickly discovered the advantage of crypto assets, with its pseudo-anonymity, untraceability and the ability to freely exchange crypto assets across borders, which makes it an ideal tool for money laundering activities. Switzerland has a technology-neutral framework, and crypto assets are regulated by the existing anti-money laundering (AML) legislation. The purpose of this paper is to gain insights into the industry adoption of measurements to prevent money laundering through crypto assets and if they are compliant with national and international AML regulations. Design/methodology/approach: Semi-structured expert interviews were conducted with participants having expertise in compliance, AML and crypto assets with focus on Switzerland. The interviews were analyzed using the thematic analysis. Findings: The experts have a general consensus that Switzerland is a pioneer when it comes to regulating crypto assets. It is perceived that legislations are released without industry consultation and that AML processes for fiat transactions also work for crypto assets, which is not the case. The results show that the industry wants a consortium to fight money laundering in crypto assets in Switzerland. The current measures to identify money laundering are not optimal, yet, it is the best solution and according to national and international regulations the businesses are perceived to be compliant. Originality/value: This paper offers new insights on the challenges of AML regulations in crypto assets, given the limited information available. It also provides good practice examples for addressing these challenges, benefiting policymakers, regulators and practitioners in the crypto asset ecosystem. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

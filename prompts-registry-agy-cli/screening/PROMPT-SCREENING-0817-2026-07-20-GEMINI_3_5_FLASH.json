@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0817-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From tax havens to cryptocurrencies: secrecy-seeking capital in the global economy",
+    "authors": "Ylönen M.; Raudla R.; Babic M.",
+    "year": "2024",
+    "doi": "10.1080/09692290.2023.2232392",
+    "abstract": "The global backlash against tax havens has pushed secrecy-seeking capital to explore alternative opportunities in non-tax-haven countries and new financial technologies (FinTech). We identify two major corporate practices—organizational ring-fencing and swarming—that have enabled secrecy-seeking capital to adapt to new regulatory realities and illustrate these practices empirically with the extreme case of Estonia. In the 2010s, several Nordic banks turned their Estonian offices into hotbeds of high-risk transactions, ring-fencing their Baltic affiliates from their group-level systems and generating several money laundering scandals with global repercussions. More recently, secrecy-seeking capital ‘swarmed’ into Estonia’s large cryptocurrency sector and thereby thwarted effective supervision of the activities of the firms involved. Neither swarming nor organizational ring-fencing have been sufficiently explained by existing approaches in International Political Economy (IPE) as new core practices of secrecy-seeking capital. We study both practices in a mixed-methods research design and provide novel empirical insights to illuminate this phenomenon. In filling this gap, our study paves the way for a second generation of global tax governance scholarship amidst the cryptocurrency and FinTech boom, and calls for a research agenda that addresses these new practices that take advantage of the lack of administrative capabilities in non-tax-haven jurisdictions. © 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Review of International Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

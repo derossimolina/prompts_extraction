@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0062-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Use of Artificial Intelligence to Detect Suspicious Transactions in the Anti-Money Laundering System",
+    "authors": "Al-Ababneh H.A.; Nuralieva C.; Usmanalieva G.; Kovalenko M.; Fedorovych B.",
+    "year": "2024",
+    "doi": "10.14505/tpref.v15.4(32).19",
+    "abstract": "Artificial intelligence (AI) is being actively implemented in anti-money laundering (AML) systems due to its potential to improve the detection of suspicious transactions. The article examines AI's effectiveness in detecting and reducing financial crimes of private military companies. The research employs machine learning (ML) algorithms and neural networks, anomaly detection methods, and economic impact assessment. A combination of supervised and unsupervised learning methods enables the creation of accurate predictive models for detecting money laundering anomalies. The results show that AI models outperform traditional rule-based systems, reducing false positives by 30% and increasing high-risk detection by 25%. This proves the advantages of AI over conventional anti-money laundering methods, which often cannot adapt quickly. The research emphasizes the transformative impact of AI on anti-money laundering systems, optimizing accuracy and resource allocation. Further research should focus on improving AI algorithms and their application in new financial technologies. © 2024, ASERS Publishing House. All rights reserved.",
+    "source": "Theoretical and Practical Research in the Economic Fields"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

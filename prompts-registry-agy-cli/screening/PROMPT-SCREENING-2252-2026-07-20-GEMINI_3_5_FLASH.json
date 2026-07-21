@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2252-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Recharacterizing Corruption to Encompass Illicit Financial Flows",
+    "authors": "Gathii, JT",
+    "year": "2019",
+    "doi": "10.1017/aju.2019.60",
+    "abstract": "Anticorruption treaties generally define corruption as the abuse of entrusted power for private gain. As such, global anticorruption efforts primarily target transactions involving the bribery of governmental officials. The definition excludes transactions in which multinational corporations deprive developing states of revenue by failing to pay taxes and other monies due. Yet such transactions are equally injurious to the development agenda of poor states. This essay argues that corruption should be redefined to encompass illicit financial flows, a term used by a growing network of tax and economic justice groups to refer to money that is illegally earned, transferred or used. Transactions such as trade misinvoicing, base-erosion, and abusive transfer pricing to illegally earn additional income undermine the ability of poor states to raise revenue for development. Expanding the definition of corruption would create a more realistic picture of the role of corporate actors and their involvement in corrupt and illicit dealings. It would also bring equivalency to the treatment of corporate actors and public officials. By focusing on illicit dealings involving corporate actors, this essay challenges the partial definition of corruption adopted in the heyday of the Washington Consensus, when skepticism about the role of the state, rather than of private actors, prevailed.",
+    "source": "AJIL UNBOUND"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

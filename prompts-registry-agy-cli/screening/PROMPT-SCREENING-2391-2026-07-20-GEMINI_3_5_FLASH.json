@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2391-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sanctions screening: the quest for efficiency and effectiveness",
+    "authors": "Evans, J",
+    "year": "2010",
+    "doi": "10.21314/JOP.2010.080",
+    "abstract": "Regulators are having to clamp down further with more stringent demands for payments filtering and higher fines for violations. With between 3% and 6% of all payments appearing to be high risk and therefore requiring significant anti-money laundering resources to investigate, this is an issue that will affect all banks. Not only do they now have to adhere to tougher regimes, but the subsequent operational burden is vast. This paper discusses the range of regulations and regulatory bodies in place and the challenges faced by financial institutions due to the fragmented nature of the sanctions screening landscape. From there, the paper looks at the operational burden then created by the combination of increased regulation and higher volumes of payments needing to be scanned. It also highlights pitfalls of spiralling sanctions screening budgets when increasing the amount of payments scanned and the risks of fines should any illegal payments be missed. Finally, a solution that allows institutions to effectively and efficiently scan all relevant payments, without massively increasing spend, is recommended.",
+    "source": "JOURNAL OF OPERATIONAL RISK"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

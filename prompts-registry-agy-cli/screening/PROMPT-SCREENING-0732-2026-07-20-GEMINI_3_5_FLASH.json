@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0732-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Single Supervisory Mechanism (SSM) and the EU Anti-Money Laundering framework compared: governance, rules, challenges and opportunities",
+    "authors": "Schiavo G.L.",
+    "year": "2022",
+    "doi": "10.1057/s41261-021-00166-0",
+    "abstract": "The governance models of banking supervision in the Single Supervisory Mechanism (SSM) and Anti-Money Laundering (AML) have been subject to relevant developments in recent years. These have reshaped institutional and rule designs in the European Union, especially the relation between the national and supranational level. Since 2014, the European Central Bank (ECB) has supranational tasks and powers for the direct supervision of credit institutions, while the AML framework remains a national supervisory model with some EU harmonisation of the substantive rules. This article attempts to compare the two governance models by looking at the two systems through an assessment of their current tasks, objectives, responsibilities and powers. The article shows that there are multiple differences visible with regard to the multilevel cooperation and exercise of tasks and powers in the two models as well as divergent ways in which they will develop in future. It also demonstrates that there are challenges and opportunities in the designs and rules of the two systems. © 2021, The Author(s), under exclusive licence to Springer Nature Limited.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2460-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Threats, crisis management, and new technologies",
+    "authors": "Fernández-Osorio, AE; Acevedo-Navas, C; Hodge-Dupre, E",
+    "year": "2025",
+    "doi": "10.21830/19006586.1548",
+    "abstract": "This editorial examines the complex and volatile global security landscape, with an emphasis on Latin America. The region is at a critical juncture, where historical conflicts are exacerbated by the rise of transnational organized crime, political polarization, and new threats such as cyberwarfare and environmental crisis. Likewise, new technologies represent a double-edged sword: they offer states innovative defense capabilities, while empowering criminal actors, who are often quicker to adopt social networks, encrypted communications, drones, and cryptocurrencies, among other technologies, to achieve their goals. As addressing this complex environment requires transcending traditional security paradigms, it calls for more agile crisis management, strengthening international cooperation, and adopting a holistic approach that integrates security with inclusive development and the rule of law to ensure a more stable future.",
+    "source": "REVISTA CIENTIFICA GENERAL JOSE MARIA CORDOVA"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

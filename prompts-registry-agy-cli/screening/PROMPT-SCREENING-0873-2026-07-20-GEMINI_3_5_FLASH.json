@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0873-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enabling African loots: tracking the laundering of Nigerian kleptocrats’ ill-gotten gains in western financial centres",
+    "authors": "Prelec T.; de Oliveira R.S.",
+    "year": "2023",
+    "doi": "10.1057/s41268-023-00292-4",
+    "abstract": "This paper aims to provide evidence and analysis of the conveyor belt that allows Politically Exposed Persons (PEPs) to rehabilitate their money in western financial centres, while inserting Nigerian material into debates about transnational kleptocracy. It fleshes out the chain of service provision going from developing countries to western boutique firms or 'rogue' providers, ultimately reaching out to the large blue-chip firms that are instrumental for the validation of PEP wealth and reputations. We use an interpretive practice tracing methodology to elucidate the steps leading to money-laundering, relying on data from a wealth of primary and secondary sources as well as a wider dataset of residential real estate purchases. On the basis of these empirical insights, we find that enabling practices cannot be neatly situated in a dichotomy of lawful and unlawful behaviour. Given that the current assumptions lack nuance, the policy response is likewise skewed, often looking to identify the ‘exception to the rule’ rather than appreciating the more systemic nature of the problem. Consequently, we argue that there is a need for a conceptual shift in the way professional enablers are framed and analysed, suggesting that their environment can be more helpfully divided into upstream and downstream roles. © 2023, Springer Nature Limited.",
+    "source": "Journal of International Relations and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

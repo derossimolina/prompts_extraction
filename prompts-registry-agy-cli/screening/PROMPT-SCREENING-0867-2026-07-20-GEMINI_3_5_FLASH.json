@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0867-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal Support of Artificial Intelligence in Countering Anti-Money Laundering and Terrorism Financing Regimes in the BRICS Plus Countries",
+    "authors": "Aksenova M.",
+    "year": "2024",
+    "doi": "10.21684/2412-2343-2024-11-3-92-116",
+    "abstract": "The increasing integration of artificial intelligence technologies into the financial structures of the BRICS Plus countries (comprising the original member countries of Brazil, Russia, India, China, and South Africa as well as the four new member countries of Egypt, Ethiopia, Iran, and the United Arab Emirates) presents both opportunities and challenges in combating economic crimes, which include money laundering and terrorism financing. This article explores the complex regulatory landscape that governs the application of artificial intelligence in these efforts. It examines how artificial intelligence can enhance the performance of anti-money laundering and counter-terrorism financing frameworks by enabling the evaluation of massive datasets, the identification of anomalous transaction patterns, and the automation of compliance procedures. Simultaneously, the article addresses the highly challenging situations that arise when using artificial intelligence. For instance, these technologies can make it difficult to understand the fluctuation of illicit price ranges, thereby complicating efforts to determine their origins and destinations. Through a comparative analysis of the frameworks throughout the BRICS Plus countries, this research highlights the varying levels of regulatory readiness of these frameworks and proposes pathways for harmonizing artificial intelligence-driven economic security measures. The overarching goal of an artificial intelligence model is to enhance both the effectiveness and the integrity of the financial sectors in the BRICS Plus consortium, necessitating a collaborative approach to combating financial crimes in an increasing number of digital economies across the world. © Aksenova M.",
+    "source": "BRICS Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

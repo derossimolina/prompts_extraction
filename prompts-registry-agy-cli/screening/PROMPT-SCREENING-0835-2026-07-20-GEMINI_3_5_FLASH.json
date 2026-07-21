@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0835-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bibliometric analysis of Journal of Money Laundering Control: emerging trends and a way forward",
+    "authors": "Saxena C.; Kumar P.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-06-2022-0075",
+    "abstract": "Purpose: The purpose of this study is to provide a bibliometric analysis of the Journal of Money Laundering and Control (JMLC) from 2010 to 2021 and map its way forward. Design/methodology/approach: A range of bibliometric techniques have been used to analyse the performance of JMLC from Volume 14 (Issue 1) to Volume 24 (Issue 4). The Scopus database has been used to analyse the documents of JMLC. A total of 294 documents are reviewed. The bibliographic data has been analysed using the software VOS viewer and R-studio (Biblioshine) to assess the trend of publications, word growth, keyword co-occurrence, citation analysis, most prolific authors and authors’ impact. Findings: JMLC’s academic contributions, influence and impact have grown progressively. The thematic structure of the journal has evolved into six bibliographic clusters, noted as prevention of corruption due to money laundering; compliance and regulation of money laundering; customer due diligence; role of Financial Action Task Force (FATF) in the financial system of developing countries; control of terrorism and terrorist financing; and role of money laundering in the proceeds of crime. Research limitations/implications: The constraint of this endeavour largely arises from its selection of bibliographic data being confined to Scopus. Practical implications: The results of the study would help the current and future authors to understand the emerging themes in the field of money laundering and control. They are also going to help the editors of the journals of this domain to understand the emerging themes and how the published documents are going to contribute the society, throwing light on the controlling and compliance part of money laundering. Future research directions are provided in tackling the problem of money laundering, corruption, terrorism, crime, etc. with the help of financial intelligence, strong FATF all around the world, machine learning, Bitcoin exchange management and global knowledge management. Originality/value: To the best of the authors’ knowledge, this is the first objective assessment of the journal. Thus, the results of the study are useful to past and prospective authors, editorial board members, editors, readers and reviewers to gain a one-stop understanding of anti-money laundering actions through the contributions of JMLC. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

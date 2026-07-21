@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0241-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CRYPTOCURRENCY USAGE AND ITS RELATIONSHIP WITH TAX EVASION IN THE GREEK ECONOMY",
+    "authors": "Kolydas A.; Kontsas S.; Kalogiannidis S.",
+    "year": "2025",
+    "doi": "10.35774/jee2025.04.690",
+    "abstract": "The research aims to find out how cryptocurrency aids tax evasion in Greece, the socio-economic factors contributing to the practice, and the efficiency of the Greek taxation legislation in deterring such conduct. A total of 359 questionnaires were completed by respondents who engage in cryptocurrencies in Greece. Cross correlational statistical analysis and multiple regression analysis were used to test the relationship of cryptocurrency usage, anonymity, tax policies and socio-economic factors and their impact on tax evasion. Also, sociodemographic factors such as income levels and education levels greatly affected the ability to engage in tax evasion. The study provides a validation that the frequency of cryptocurrency usage, anonymity, ineffectual tax laws, socio-economic factors have a positive correlation with tax evasion rates and influence tax dodging in Greece. Based on the issues highlighted in this study, the following steps are advised for the improvement of the Greek anti-money laundering and combating the financing of terrorism regime: i) improve the regulation and enforcement measures concerning cryptocurrencies, ii) enhance the transparency of the cryptocurrency transactions, and iii) address the socio-economic circumstances that enable tax evasion. © Andreas Kolydas, Stamatis Kontsas, Stavros Kalogiannidis, 2025.",
+    "source": "Journal of European Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

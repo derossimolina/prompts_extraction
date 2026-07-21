@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1874-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Can information technology help in the search for money laundering? the views of financial companies",
+    "authors": "Gill M.; Taylor G.",
+    "year": "2003",
+    "doi": "10.1057/palgrave.cpcs.8140145",
+    "abstract": "The fight against money laundering has taken a variety of forms. One crucial element is the production by finance companies of 'Suspicious Transaction Reports', which provide information for investigation agencies. Clearly, the greater the grounds of suspicion-or more specifically, the more evidence there is to support a belief that a transaction is illegal-the better the base for enforcement action. Yet very little is known about how finance companies generate intelligence about suspicion from the billions of transactions that pass through accounts each day. This paper considers this issue, reports on finance companies' experiences and views, and specifically assesses the role of IT in this process. The findings suggest that in tackling money laundering IT does not yet play a major role, and many, including users of dedicated systems, are sceptical about its value. The paper concludes that this may reflect more a lack of understanding about 'suspicion' than a weakness of IT systems per se. © 2003 Perpetuity Press Ltd.",
+    "source": "Crime Prevention and Community Safety"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

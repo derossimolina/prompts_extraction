@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2558-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Different expectations: A comparative history of structure, experience, and strategic alliances in the US and UK poultry sectors, 1920-1990",
+    "authors": "Godley, AC; Hamilton, S",
+    "year": "2020",
+    "doi": "10.1002/sej.1334",
+    "abstract": "Research Summary This comparative historical analysis demonstrates how memory and reflexive interpretations of the past can shape entrepreneurial willingness to collaborate with larger firms in an industry. Emphasizing the importance of spatial metaphors and periodization for developing historical knowledge, the paper focuses on how the historical space of experience explains how entrepreneurs make strategic choices regarding collaboration under conditions of complexity and uncertainty. Comparing the U.S. and U.K. emerging poultry sectors offers a methodologically novel analysis of an important but little-studied agribusiness sector, offering a dual reading that compares two versions of historical reasoning both theoretically and empirically. Managerial Summary Historical experience matters to entrepreneurs, shaping their expectations about markets and opportunities, including possibilities for strategic alliances with larger firms. Rather than assuming that the events of the past structurally determine entrepreneurial expectations for the future, we demonstrate how experience, interpretation, and memory shape the nature of competition and collaboration in emerging industries. Our approach relies on the comparative method, suggesting a new way to consider how uses of the past might shape entrepreneurship in industries other than the U.S. and U.K. poultry industries that serve as our empirical focus.",
+    "source": "STRATEGIC ENTREPRENEURSHIP JOURNAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

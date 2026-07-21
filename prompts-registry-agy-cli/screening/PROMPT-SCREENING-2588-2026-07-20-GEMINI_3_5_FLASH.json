@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2588-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE POSITION OF THE FINANCIAL COMPONENT IN THE PARADIGM OF MODERN ECONOMIC DIPLOMACY",
+    "authors": "Flissak, K; Glukhova, D",
+    "year": "2021",
+    "doi": "10.30525/2256-0742/2021-7-3-186-194",
+    "abstract": "At the beginning of the 21st century, most subjects of international economic relations announced a course to liberalize the world economy both as a whole and as its individual components. At the same time, under the influence of geopolitical and geo-economic aspirations, state instruments of a protectionist nature were increasingly used. Global economic development has become a hostage to such processes. In such circumstances, the efficiency of individual business entities has begun to decline. Innovative tools were needed to prevent this. One of them was economic diplomacy, which has acquired a special role in providing the promotion of the interests of both national economies as a whole and their individual subjects. At the same time, economic diplomacy itself covers different areas of economic activity and not all of them are investigated to the same extent. The purpose of the article is to study and analyze the financial component of economic diplomacy in modern conditions, the specifics of its formation and development, aimed at improving the national system of promoting national interests both within the state and abroad. To achieve this goal, the research is focused on the following tasks: to consider and analyze the theoretical basis of the financial component of economic diplomacy, to highlight its manifestations in various forms of international economic relations, to determine the main imperatives of state support for international investment partnership. Special attention is paid to the issues of external borrowing and the movement of public debt funds from the point of view of the influence of economic diplomacy on them. Based on the results of this review, a whole number of theoretical conclusions were made, which at the same time establish the basis for further research of the considered problem. Methodology. In the process of preparing the article, methods of scientific abstraction, observation, analysis and synthesis, generalization, as well as statistical and economic methods were used to assess a number of financial and economic indicators of state development in order to identify the weaknesses and prospects for the impact of economic diplomacy tools on them. The information and analytical base for the study are materials and analytical reports of international organizations dealing with the issues under consideration (UNCTAD, IMF, World Bank), regulatory and statistical data of state authorities of Ukraine and the United States, the results of scientific research of modern scientists from different countries. The results of the study show that providing the proper efficiency of foreign economic activity requires the use of a set of tools to promote and support its subjects. Economic diplomacy plays a significant role in this sphere. The development level of international economic relations actualizes the justification of the modern paradigm of the financial component, mechanisms for applying the tools of economic diplomacy in financial issues. All this requires a clear delineation and structuring of object-by-object areas and directions of efforts. Only on this basis, an effective mechanism for implementing the financial component of economic diplomacy can be formed. The practical implications of the scientific research are to find out the current state of economic diplomacy mechanisms in the financial sphere, trends in their development, and potential consequences for other states (including Ukraine). Value/originality. The studied mechanisms and practice of using economic diplomacy in the sphere of the financial component, in particular in issues of interstate investment partnership, external government borrowing, and work with public debt deserve attention from the relevant state structures of Ukraine on the implementation of tools and standards of economic diplomacy in this area. In addition, this study can serve as a basis for further research, since the considered problem contains the significant potential for further investigations in subsequent scientific publications.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

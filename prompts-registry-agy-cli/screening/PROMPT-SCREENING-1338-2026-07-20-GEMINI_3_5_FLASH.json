@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1338-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How the Global and Gulf Financial Crises Affected Pakistan: Ten-year Review0",
+    "authors": "Javed S.A.; Shaukat B.; Ahmad I.",
+    "year": "2021",
+    "doi": "10.1111/imig.12789",
+    "abstract": "We show that the impact of global financial crisis (GFC) on Pakistan's economy mainly transmitted through Gulf Financial Crisis (GCC). In this regard, we assess the effects of both the global and Gulf financial crises on remittances, workers' emigration, return migration, national savings and foreign investment. Applying Exploratory Data Analysis (EDA) before (2000–07) and after GFC (2008–18), we demonstrate that Pakistan witnessed remarkably low FDI inflows and labour force emigration along with higher return migration rates after the crises. Investment from the UAE and other Gulf countries declined eightfold immediate after the global financial crisis, contributing considerably to the decline of the country's GDP growth during 2008–10. There was significant curtailment in emigration volumes and spurts in return migration after 2012, because of the Gulf oil price crisis. The positive trend in remittances until 2015 seems to be influenced by post-9/11 anti-money laundering legislation and depreciation of the rupee. © 2020 The Authors. International Migration © 2020 IOM",
+    "source": "International Migration"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

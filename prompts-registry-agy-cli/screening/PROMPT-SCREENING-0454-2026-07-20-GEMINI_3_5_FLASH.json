@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0454-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enhancing banking performance through regulatory technology: Analyzing cost reduction, sustainability, and profitability in Bangladesh's banking sector",
+    "authors": "Mamun M.A.A.; Dhar B.K.; Islam H.; Rana M.; Saha S.; Biswas A.K.; Karim R.",
+    "year": "2025",
+    "doi": "10.1016/j.sftr.2025.101234",
+    "abstract": "This study investigates the impact of Regulatory Technology (RegTech) adoption on cost reduction, sustainability, and profitability in the Bangladeshi banking sector. Using Structural Equation Modeling (SEM), the research analyzes the relationships between various RegTech components—such as RegTech for Anti-Money Laundering (RAML), Regulatory Reporting (RR), Compliance (COMP), Transaction Monitoring (TM), and Risk Management (RM)—and key banking performance metrics, including cost reduction (CR), sustainability (SUS), and profitability (PROFIT). The findings reveal significant direct effects of COMP, TM, and RM on CR, as well as notable influences of RAML, TM, and RM on SUS, underscoring their pivotal roles in enhancing operational efficiency. Additionally, indirect effects mediated by CR and SUS on PROFIT were observed, with RM and RAML demonstrating the strongest positive influence. A positive relationship was also found when SUS mediated the effects of TM and RM on PROFIT. This study contributes to the growing body of literature on RegTech by providing empirical evidence of its impact in an emerging market context—specifically, Bangladesh. It highlights how RegTech can optimize compliance processes, promote operational sustainability, and enhance financial performance, offering valuable insights for policymakers and banking institutions in developing economies seeking to leverage technology for regulatory compliance and efficiency. © 2025 The Author(s)",
+    "source": "Sustainable Futures"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

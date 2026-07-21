@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1010-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organized crime, suspicious transaction reporting and anti-money laundering regulation",
+    "authors": "dalla Pellegrina L.; Di Maio G.; Masciandaro D.; Saraceno M.",
+    "year": "2020",
+    "doi": "10.1080/00343404.2020.1772963",
+    "abstract": "This study investigates the efficiency of suspicious transaction reporting activity to a financial intelligence unit as a means to deter money laundering. Baseline and two-province theoretical models are used to frame the empirical analysis. The latter examines the relationship between suspicious transaction reporting and the vulnerability of Italian provinces to money laundering from 2009 to 2013. Instrumental variables and spatial analysis are exploited to identify the role of suspicious transaction reporting on vulnerability. The results provide a positive assessment of the risk-based mechanism of reporting suspicious operations to the financial intelligence unit, although ‘congestion’ problems from overreporting are observed. © 2020, © 2020 Regional Studies Association.",
+    "source": "Regional Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

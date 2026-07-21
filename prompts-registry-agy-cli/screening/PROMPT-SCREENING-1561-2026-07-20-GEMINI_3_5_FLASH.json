@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1561-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Offshoring at Home? Domestic Use of Shell Companies for Corruption",
+    "authors": "Jancsics D.",
+    "year": "2017",
+    "doi": "10.1080/10999922.2016.1200412",
+    "abstract": "The recent “Panama Papers” leak has revealed that public figures in several countries use offshore shell companies in order to hide their real wealth behind murky foreign ownership structures. Less well known is the fact that corrupt policy makers also use shell companies in their own home countries that function as intermediaries to divert public resources for private benefit. Based on a qualitative empirical analysis, this paper describes how corporate vehicles are used by corrupt government officials in contemporary Hungary. One can distinguish “live” shell and “empty” shell companies. Live shells are used by governing elites to build clientele networks or to provide monopolistic market positions for oligarchs. Empty shells are technical vehicles used by local government actors to create valuable assets that can be sold for extra profit. Onshore shell entities are shown to be essential organizational structures supporting governmental corruption. © 2017, Copyright © American Society for Public Administration.",
+    "source": "Public Integrity"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

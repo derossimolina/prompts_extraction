@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1751-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The application of third party guarantee in structuring Ṣukūk in the Islamic capital market: A preliminary literature survey",
+    "authors": "Issoufou C.; Oseni U.A.",
+    "year": "2015",
+    "doi": "10.5901/mjss.2015.v6n5p130",
+    "abstract": "In the Islamic capital market, the ṣukūk (Islamic investment certificates) segment is considered by key stakeholders in the Islamic financial services industry as the most vibrant segment in the global Islamic financial system. This paper provides a preliminary literature survey on the application of third party guarantee in Islamic capital market with specific reference to ṣukūk transactions. The methodology adopted in this study leverages on the dynamics of comparative jurisprudential analysis of the different schools of thought in Islamic law from the classical to the modern jurists. Though this aspect of Islamic capital market is relatively in its infancy stage of development, the Islamic financial services industry is fraught with diverse practices where a perceptible disconnect is noticed between juristic ideals and practical application of third party guarantee in ṣukūk structuring. Therefore, the paper finds that though the use of third party guarantee is permissible in Islamic capital market, there is however a proviso which must be adhered to – the voluntary nature of the guarantee. The guarantee should be provided without charging any fee, and this is applicable in commonly used sukuk products such as ṣukūk al-ijārah, ṣukūk al-muārabah, and ṣukūk al-istiṣnā‘. It is however permissible to impose a compensatory fee in ṣukūk al-istiṣnā‘ in the case of failure to deliver the subject matter of the contract on the due date and the contractee has suffered a damage. © 2015, Mediterranean Center of Social and Educational Research. All rights reserved.",
+    "source": "Mediterranean Journal of Social Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

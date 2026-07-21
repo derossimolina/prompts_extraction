@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0484-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Do corporate imitation behaviors of CSR practices affect bank loan contracting? Evidence from a text-based measure",
+    "authors": "Cao W.; Shan Y.G.; Song J.",
+    "year": "2025",
+    "doi": "10.1108/IJMF-04-2025-0173",
+    "abstract": "Purpose – Corporate imitation of corporate social responsibility (CSR) practices may attract significant attention from commercial banks. While prior research has deepened the understanding of the determinants of corporate imitation of CSR practices, the relationship between corporate imitation of CSR practices and bank credit loans remains largely unexplored. This study aims to examine whether commercial banks take corporate imitation of CSR practices into account when structuring bank loan contracts. Design/methodology/approach – This study utilizes social responsibility reports of Chinese listed companies from 2007 to 2022 and employs a text-based machine learning approach to quantify the extent of corporate imitation of CSR practices. Loan financing data is extracted from corporate loan announcements, and hypothesis testing is conducted using an ordinary least squares regression model. Findings – This study finds that corporate imitation behaviors of CSR practices enhance the scale of bank credit loans by reducing banks' expectations of future operational risks and subsequent monitoring costs. Furthermore, these behaviors significantly increase the scale of long-term corporate loans and reduce the costs of borrowing. Notably, the influence of corporate imitation behaviors of CSR practices on bank loan decisions is more pronounced in state-owned enterprises, companies with high analyst coverage and heavily polluting industries. Specifically, these behaviors also substantially increase the scale of equity financing and trade credit financing. Additionally, results from the method of moments quantile regression indicate the varying capabilities of firms at different quantiles to secure bank loans due to their imitation behaviors of CSR practices. Originality/value – This study contributes to the literature on bank loan contracting and the economic consequences of corporate imitation of CSR practices by highlighting the impact of such imitation on bank loan financing volume from the perspective of bank loan contracting. © 2025 Emerald Publishing Limited",
+    "source": "International Journal of Managerial Finance"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

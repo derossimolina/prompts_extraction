@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2539-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Artificial intelligence, digital transformation and cybersecurity in the banking sector: A multi-stakeholder cognition-driven framework",
+    "authors": "Rodrigues, ARD; Ferreira, FAF; Teixeira, FJCSN; Zopounidis, C",
+    "year": "2022",
+    "doi": "10.1016/j.ribaf.2022.101616",
+    "abstract": "Traditional banking institutions are currently under great pressure from their stakeholders to adapt to new technologies. However, due to this sector's inherent nature, data security cannot be jeopardized. Users must place great trust in their bank branches-a necessary feature of relationships between banking institutions and their clients. Banks' reputation also directly affects their success, ability to attract new customers, and retention of existing ones. These issues mean that making decisions regarding how to deal with the challenges of incorporating artificial intelligence (AI), digital transformation and cybersecurity into the banking sector is quite complex. This study sought to develop a realistic decision-support model by combining cognitive mapping and the decision-making trial and evaluation laboratory (DEMATEL) method in order to address this topic. Group sessions with an expert panel were conducted to apply the methodological procedures, thereby allowing realism to be incorporated into the final results.",
+    "source": "RESEARCH IN INTERNATIONAL BUSINESS AND FINANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0319-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "External commercial borrowings and trade-based money laundering: a forensic risk analysis with evidence from India",
+    "authors": "Singh R.; Barot H.B.",
+    "year": "2026",
+    "doi": "10.1108/JMLC-10-2025-0179",
+    "abstract": "Purpose – This paper examines the potential misuse of external commercial borrowings (ECBs) as channels for trade-based money laundering (TBML), using India as a case study. While ECBs are an essential source of foreign capital, especially in developing economies, their intersection with TBML risks remains largely unexplored in academic and regulatory discourse. Design/methodology/approach – The study uses a policy and data-based analytical approach. It reviews Reserve Bank of India (RBI) circulars, Foreign Exchange Management Act (FEMA) regulations and international anti-money laundering (AML) guidelines to identify areas where current safeguards may be inadequate. A simple four-layer forensic risk framework is then applied to RBI’s published ECB data to highlight combinations of lender type, sector and loan maturity that tend to show higher exposure to TBML-related risks. In this context, forensic refers to a structured, evidence-based method of risk detection rather than an investigative audit. Findings – The analysis reveals that ECBs involving related-party lenders or funds routed through opaque jurisdictions are more likely to conceal trade-linked laundering activity. These patterns are most observed in sectors such as finance, petroleum and metals. Although the current FEMA and RBI frameworks are strong on debt control and end-use restrictions, they remain weak in linking capital flows with trade-level data. Practical implications – The paper proposes a four-layer forensic risk assessment framework that combines regulatory data with red-flag typologies. The framework provides a model for other emerging economies to strike a balance between external finance and AML safeguards. Originality/value – This paper is one of the first to examine ECBs from a money laundering risk perspective, combining policy review with data-driven risk scoring. It provides a practical approach for regulators in emerging economies to strike a balance between the need for foreign capital and enhanced AML oversight. © 2026 Emerald Publishing Limited",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1373-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Using anti-money laundering measures to curb pension fraud in Nigeria",
+    "authors": "Esoimeme E.E.",
+    "year": "2020",
+    "doi": "10.1108/JFC-12-2018-0126",
+    "abstract": "Purpose: The purpose of this paper is to propose a new approach to curbing pension fraud in Nigeria. The approach involves the use of anti-money laundering tools, procedures and expertise to advance the fight against pension fraud in Nigeria. The guidance is non-binding and does not override the purview of the National Pension Commission. The intention is to build on the revised procedures on the processing of death benefits and to complement existing circulars and guidelines issued by the National Pension Commission, including in particular the guidelines for compliance officers. Design/methodology/approach: The analysis took the form of a desk study, which analyzed various documents and reports, such as the Financial Action Task Force (2012-2018), International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation (the FATF Recommendations); the Financial Action Task Force Guidance on the Risk-Based Approach to Combating Money Laundering and Terrorist Financing: High Level Principles and Procedures; National Pension Commission Regulations for Compliance Officers; the Joint Money Laundering Steering Group Guidance for the United Kingdom Financial Sector Part I, June 2017 [Amended December 2017] and the Federal Financial Institutions Examination Council (FFIEC) Bank Secrecy Act/Anti-Money Laundering Examination Manual 2014. Findings: This paper determined that a strong due diligence process where the owner of the pension account and the next-of-kin/legal beneficiary are duly identified before the establishment of a business relationship is capable of reducing the risks associated with pension fraud to the barest minimum. This paper also determined that anti-money laundering measures, such as record keeping, suspicious transactions reporting, training for anti-fraud/money laundering compliance and an independent audit of systems and controls can help curb pension fraud. Research limitations/implications: Pension fraud involves the use of deceit or misrepresentation in connection with a pension claim. There are many different kinds of pension fraud, but the type where the fraud is aimed at stealing a person’s pension funds is what this paper is concerned with. Originality/value: Although most publications on pension fraud are focused on anti-fraud measures, this paper focuses on the anti-money laundering measures which can be used by Pension Fund Administrators to curb pension fraud. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

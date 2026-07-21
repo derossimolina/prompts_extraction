@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2303-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Measuring financial crimeDenunciation and conviction of dirty money in Switzerland",
+    "authors": "Chaudieu, K; Amicelle, A",
+    "year": "2018",
+    "doi": "10.4000/champpenal.10091",
+    "abstract": "This article questions the relationships between the main actors of the fight against dirty money i.e. the reporting entities, the financial intelligence unit and criminal prosecution authorities. It is based on an original access to official data about suspicious transaction reports in Switzerland. Such data sheds light on critical elements in relation to crime-related statistics on money laundering that offers a new way forward to envisage the measure of financial crime as an exploration of the constant tension between illegalities and delinquency.",
+    "source": "CHAMP PENAL-PENAL FIELD"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

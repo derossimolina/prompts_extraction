@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0886-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "On the potential of a graph attention network in money laundering detection",
+    "authors": "Sheu G.-Y.; Li C.-Y.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-07-2021-0076",
+    "abstract": "Purpose: In a classroom, a support vector machines model with a linear kernel, a neural network and the k-nearest neighbors algorithm failed to detect simulated money laundering accounts generated from the Panama papers data set of the offshore leak database. This study aims to resolve this failure. Design/methodology/approach: Build a graph attention network having three modules as a new money laundering detection tool. A feature extraction module encodes these input data to create a weighted graph structure. In it, directed edges and their end vertices denote financial transactions. Each directed edge has weights for storing the frequency of money transactions and other significant features. Social network metrics are features of nodes for characterizing an account’s roles in a money laundering typology. A graph attention module implements a self-attention mechanism for highlighting target nodes. A classification module further filters out such targets using the biased rectified linear unit function. Findings: Resulted from the highlighting of nodes using a self-attention mechanism, the proposed graph attention network outperforms a Naïve Bayes classifier, the random forest method and a support vector machines model with a radial kernel in detecting money laundering accounts. The Naïve Bayes classifier produces second accurate classifications. Originality/value: This paper develops a new money laundering detection tool, which outperforms existing methods. This new tool produces more accurate detections of money laundering, perfects warns of money laundering accounts or links and provides sharp efficiency in processing financial transaction records without being afraid of their amount. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

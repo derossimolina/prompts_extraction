@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2421-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulatory Arbitrage and Non-Judicial Debt Collection in Central and Eastern Europe Tax Sheltering and Potential Money Laundering",
+    "authors": "Stanescu, CG; Bogdan, C",
+    "year": "2021",
+    "doi": "10.1515/ael-2019-0055",
+    "abstract": "Non-judicial recovery of debts is now rampant in Central and Eastern Europe (CEE). The reason is two-fold. On the one hand, the significant number of defaults in the poorer areas of Europe makes the CEE region a very attractive market for debt-collection. On the other hand, the activity is almost entirely unregulated, especially regarding abusive debt collection practices. The CEE region still lacks mature, strong, and experienced supervisory agencies that could tackle borderline activities. This enables companies involved in debt collection to comply easily with the minimal legal provisions and to circumvent the actual purpose of the law, including through tax sheltering and money laundering. The main argument developed in the paper is that the debt collection system it is designed to maximize profits, minimize tax base and, potentially, can serve as money laundering mechanism. The system functions in a triadic relationship: the debt-seller (a credit institution), the debt-buyer (usually an investment company), and the debt-administrator (a debt-collection agency, either fully owned by, or under the control of the debt-buyer), where debt portfolios are purchased at huge discounts (varying between 90 and 95% of face value). By revealing the mechanism used by debt-collectors, the paper calls for legislative intervention to seal the gap and ensure adequate taxation of debt-collection activities. The nature of regulatory arbitrage involved relates both to tax law as well as to regulatory standards, such as licensing requirements. Debt buyers benefit from the EU passport rule, make high returns on their 'investments' and optimize their taxes on profits obtained. Debt administrators perform their activity at almost no liability and no tax payable to the state. This mechanism creates favorable premises for money laundering and financing of illegal activities, as the web of offshore companies behind the debt-buyer renders the verification of the origin of their investment money extremely difficult. Using Romania as a case study, the paper addresses not only the aforementioned practices and risks, but also the potential reasons behind the state's inability either to adopt adequate legislation, or to enforce it. In doing so, the paper employs empirical evidence regarding the activity of ten Romanian debt collection agencies and relevant case law thereof. The paper concludes with the authors' proposal for a potential solution, which can be extended beyond Romania.",
+    "source": "ACCOUNTING ECONOMICS AND LAW-A CONVIVIUM"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0696-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banks’ internal governance obligations vis-à-vis money laundering risks emerging from the new technology-enabled means to transfer funds or value (“crypto assets”)",
+    "authors": "Minto A.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-04-2024-0068",
+    "abstract": "Purpose: The new technology-enabled means to transfer funds or value via crypto assets have prompted regulators and supervisors to question the effectiveness of the anti-money laundering (AML) regulatory framework. This paper aims to examine the recent developments of the EU AML legislation – leading up to the 2021 AML package – focusing in particular on the banks’ internal governance obligations. Design/methodology/approach: The analysis is based on the legal dogmatic methodology and is therefore conducted thanks to a critical exam of the current and upcoming EU policy and legislation, taking into account the relevant literature and case-law. Findings: The recent regulatory developments, culminating in the AML regulation, are strengthening the causal links between ML risk assessment–ML risk exposure–ML risk management, via internal governance procedures. One of the major AML regulatory strategies to react to the new challenges brought up by crypto assets amounts to a stricter and more demanding AML risk management regime imposed on banks. Originality/value: The originality of this article lies in the analysis of the causal connection between money laundering risk identification and internal governance obligations. In particular, this article examines how the risk assessment will be shaping the organizational procedures, processes and internal functions necessary to manage the money laundering risks. © 2024, Andrea Minto.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

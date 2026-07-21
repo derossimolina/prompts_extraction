@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0170-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Practice Briefing: Strategic partnering for low-constraint investors: selection, alignment and governance in practice",
+    "authors": "Wiegelmann T.; Schwab W.H.",
+    "year": "2026",
+    "doi": "10.1108/JPIF-01-2026-0010",
+    "abstract": "Purpose – The paper examines Low-Constraint Investors' (LCIs') approach to the design, selection and governance of strategic institutional real estate investment partnerships. LCIs differ in their mission (long-horizon), capital profile (outsized portion of their balance sheet funding long-dated liabilities and goals) and risk budget (higher tolerance for illiquid investment risks, volatility, complexity, scale, duration and uncertainty). LCIs include select sovereign wealth funds, public pensions, endowments, large family offices and life insurance companies that operate with long-term mandates and stable and growing capital bases: they are natural liquidity generators. LCIs often rely on external partners to access, execute and manage investment strategies. Well-structured partnerships allow for greater LCI optionality (e.g. timing of investments and recovery, asset selection, risk budgeting, workout plans if needed, programme extensions and curtailments) and greater capital stability and flexibility for execution partners (relaxation of programme maturity deadlines, greater flexibility around investment timings, broader investment themes). Both sides benefit from long-term, growing relationships that allow them to focus more on investing and less on capital raising. The paper considers how LCIs evaluate partnering models, align with external counterparts and govern long-term collaboration. It offers potential execution partners guidance on how to engage effectively with LCI capital. Design/methodology/approach – The paper adopts an expert opinion approach, drawing on insights from two senior industry practitioners. The first is a global real estate executive with over 25 years' leadership experience as CEO, CIO and Global Head of Real Estate across multi-billion-dollar investment platforms. The second is a co-founder of a real estate investment and asset management boutique (later acquired by a listed global firm) with 25 years of sector experience. The paper synthesises institutional observations, behavioural patterns and governance practices derived from real-world partnering engagements and strategic programme design. Findings – Strategic partnering is a core enabler for LCIs to operationalise their investment objectives. Effective deployment often depends on the selection and governance of capable external partners. The paper identifies primary partnering models and maps their suitability based on control, integration, governance complexity and strategic repeatability. Partner selection is shown to address behavioural alignment, infrastructure quality and strategic fit. Sustained alignment over time requires deliberate incentive structuring, adaptive governance and institutional oversight capacity. Without these, investors may face style drift and underperformance. Practical implications – The paper offers tools to align partner capabilities with investor intent, assess and select among partner models and govern investment programmes. Asset managers, co-investment partners and operators can better position themselves with LCI capital and understand the behavioural expectations such capital typically carries. Originality/value – The paper provides a new perspective on how LCIs can approach strategic partnerships in real estate. Instead of focusing only on performance or transaction-level decisions, it looks at partnerships as long-term, structural components of investment strategy. The paper offers clear, practical considerations that help LCIs build more effective relationships with external partners. It also helps managers and operators understand how LCIs think, what they value and how to successfully work with them over time. © 2026 Emerald Publishing Limited.",
+    "source": "Journal of Property Investment and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1034-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Evolving strategies for the structuring of working capital loans during covid times: An analysis of select indian private sector banks; [Estrategias evolutivas para la estructuración de los préstamos de capital circulante en tiempos de crisis: un análisis de algunos bancos del sector privado de la India]",
+    "authors": "Sehdev B.; Raman T.V.; Ranawat M.",
+    "year": "2021",
+    "doi": "10.25115/eea.v39i12.5580",
+    "abstract": "Predicting human behavior is a difficult task, yet bankers perform this regularly while sanctioning working capital loans, so that money advanced is recoverable. For this, they try to assess credit worthiness of clients based on past performance through financials and banking habits amongst other parameters. Clients also look at fees and instalment burden, duration of loan, etc. However, with the adverse impact of Covid pandemic on earning capacities, banks need to relook at the way they structure loans. This perspective, which has evolved with the pandemic, needs to be explored. With this in mind, an undisguised structured questionnaire was administered on 322 respondents who had availed working capital loans from top five private sector banks of India. The selection was done using stratified random and judgemental sampling techniques. Thereafter, correlation and multiple regression analysis were used on SPSS platform to understand relationship between various credit parameters assessed by both the parties to a loan and then structure a best-fit loan. The study suggested that customer-focused, risk-adjusted analysis for working capital loans should be undertaken to reduce nonperforming assets and improve asset portfolio quality of banks. © 2021 Galenos Publishing House. All rights reserved.",
+    "source": "Estudios de Economia Aplicada"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

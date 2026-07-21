@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0195-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enhancing AML compliance: a machine learning approach to suspicious activity detection through routine activity theory",
+    "authors": "Lokanan M.E.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-07-2024-0114",
+    "abstract": "Purpose This study explores the application of machine learning (ML) algorithms to enhance the detection and reporting of Suspicious Activity Reports (SARs) in California’s financial sector. This research aims to improve anti-money laundering (AML) compliance by evaluating the effectiveness of advanced ML techniques, specifically CatBoost and Decision Tree algorithms, in identifying suspicious financial transactions. Design/methodology/approach This research uses a comprehensive methodological framework involving the analysis of 45,000 SAR filings from financial institutions and regulatory agencies in California, dating back to 2018. Various ML algorithms, including linear regression, random forest, decision tree and CatBoost, are used to analyze SAR filing patterns and predict suspicious transactions. Findings The findings reveal that CatBoost outperforms other models, offering a better fit to the data and higher predictive accuracy with a low RMSE and high cross-validation scores. The Decision Tree algorithm also demonstrates significant promise but is slightly less effective than CatBoost. This study confirms that ML algorithms, particularly CatBoost, significantly improve the detection and reporting of suspicious financial activities, thereby enhancing AML compliance. Originality/value This research contributes to the literature by integrating advanced ML techniques into AML compliance, moving beyond traditional statistical approaches. The findings provide practical implications for financial institutions, highlighting the potential of ML algorithms to enhance the effectiveness of SAR filings and bolster regulatory efforts in mitigating financial crime. This study underscores the value of ML in developing targeted policies to curb illicit financial activities and advance AML analytical capabilities. © 2025 Emerald Publishing Limited",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

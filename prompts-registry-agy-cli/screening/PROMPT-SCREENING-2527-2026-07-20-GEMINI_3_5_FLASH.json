@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2527-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The forces that will change the post-covided public administration: transparency 2.0, blockchain and smart contracts",
+    "authors": "Nóbrega, M; Heinen, J",
+    "year": "2021",
+    "doi": "10.21056/aec.v21i85.1405",
+    "abstract": "The paper aims to investigate the main changes that will require a new posture by the Public Administration in the current scenario perpetrated by the COVID-19 pandemic. The unpredictable events that have repercussions in different nations certainly will need new behaviors of the Government, with the purpose of allowing a better adaptation that the social and economic sector will require of public managers. Themes such as the future of the relationship between the State and society, mainly through digital instruments that make interactions faster and transparent; the structuring of technologies and what are the prospects for their implementation by the Public Administration; as well as post-crisis administrative ordering will be important subjects studied during the research. To do so, adopt the deductive and exploratory approach method, such as debating the theme from theoretical-dogmatic premises that support the conclusions drawn.",
+    "source": "A&C-REVISTA DE DIREITO ADMINISTRATIVO & CONSTITUCIONAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

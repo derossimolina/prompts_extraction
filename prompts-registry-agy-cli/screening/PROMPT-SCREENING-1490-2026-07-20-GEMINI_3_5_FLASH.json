@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1490-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The exploitation of offshore financial centres: Banking confidentiality and money laundering",
+    "authors": "Young M.A.",
+    "year": "2013",
+    "doi": "10.1108/JMLC-01-2013-0004",
+    "abstract": "PurposeThe paper aims to highlight the relationship between money laundering and banking confidentiality in offshore financial centres – particularly following the recent publicity and BBC expose surrounding the criminal use of offshore financial centres. It proposes that there has long been concern over the illegitimate uses of offshore financial centres and that the continuing exploitation of them by criminals is, in part, attributed to the West's use of these financial hotspots. The paper outlines the previous attempts by global regulatory bodies to curb money laundering in offshore financial centres and explores some of the reasons for the continuation of money laundering in offshore financial centres. Design&sol;methodology&sol;approachThe paper was compiled by accessing and analysing primary and secondary data which is publicly available. The analysed data were complemented by the author's new theory of the West's collusion with offshore financial centres as a possible reason for the superficial commitment to anti&hyphen;money laundering laws and guidelines. FindingsThe findings in the paper conclude that even though there have been global efforts to combat money laundering in offshore financial centres, there is little commitment from the offshore financial centres themselves, and the West, to effectively implement anti&hyphen;money laundering regulations. Originality&sol;valueThis paper fulfils a gap in the literature by exploring the relationship between the West and offshore financial centres – more specifically the West's continued use of these centres acts as an incentive to avoid relaxing tight banking confidentiality laws. Further research in this area is needed to assess the full impact of the West's relationship with offshore financial centres. © 2013, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

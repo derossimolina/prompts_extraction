@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0670-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combating terrorist financing in Switzerland in the light of current changes in Afghanistan",
+    "authors": "Teichmann F.; Boticiu S.R.",
+    "year": "2023",
+    "doi": "10.1108/JFC-04-2022-0079",
+    "abstract": "Purpose: This paper aims to examine the current situation in Afghanistan after the rapid withdrawal of US troops and the Taliban takeover of the country, and how this has shed new light on the financing of terrorism. Design/methodology/approach: Informal interviews were conducted with alleged perpetrators as well as formal interviews with compliance experts to further investigate the subject of terrorist financing in the wake of the latest changes in Afghanistan and terrorist financing through hawala banking. The interviewees were analysed through a qualitative analysis. Findings: Based on the interviews, it was concluded that both illegal and legal sources of income could be used by terrorist financiers. This study also shows why hawala represents a significant challenge for counter-terrorist financing policies. Originality/value: While existing literature sufficiently links parallel banking systems, such as hawala, to terrorist financing, this study shows the implications for Switzerland’s perceived commitment against financial crime in light of current changes in Afghanistan, and in addition, certain dogmatic weaknesses of Article 260quinquies of the Swiss Penal Code are critically analysed. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

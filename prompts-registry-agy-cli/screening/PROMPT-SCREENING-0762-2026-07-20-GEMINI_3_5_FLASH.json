@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0762-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digitalization and money laundering: the moderating effects of ethical behaviour of firms and corruption",
+    "authors": "Khelil I.; El Ammari A.; Bouraoui M.A.; Khlif H.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-01-2023-0015",
+    "abstract": "Purpose: This paper aims to investigate the relationship between digitalization and money laundering and tests whether ethical behaviour of firms and corruption moderate this association. Design/methodology/approach: The sample includes 114 countries during 2016. Basel Anti-Money Laundering Report for 2016 is used to collect data concerning money laundering. Digitalization proxies are collected from digital adoption index from the World Bank for 2016. Finally, the remaining variables are gathered from the Global Competitiveness Report for the same year. Findings: Results show negative and significant associations between the overall digitalization score and sub-scores dealing with digitalization adoption by businesses, people and government and money laundering. When testing for the moderating effect of corruption, the negative and significant association remains stable for both low and high corrupt environments for the overall digitalization score and sub-scores dealing digitalization adoption by businesses and people and money laundering. Similarly, ethical behaviour of firms does not moderate the association between digitalization (overall index and digitalization by business and people) and money laundering, as the relationship remains negative and significant for low and high ethical behaviour sub-samples. By contrast, the association becomes insignificant between digitalization adoption by government and money laundering for countries characterized by high corruption and low ethical behaviour of firms, while it is negative and significant for countries characterized by low corruption and high ethical behaviour firms. Originality/value: These findings confirm that digitalization effort represents a crucial arm to combat money laundering. It also emphasizes the interrelation that may exist between digitalization effort in governmental institutions and institutional environment, as low levels of money laundering cannot be reached if the digitalization effort undertaken by governments is not supported by low corruption and ethical business environment. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

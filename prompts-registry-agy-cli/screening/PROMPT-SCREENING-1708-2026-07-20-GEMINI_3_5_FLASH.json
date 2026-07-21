@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1708-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "First steps towards regulating Bitcoin and other virtual currencies in the EU; [EU-regulierung von Bitcoin und anderen virtuellen Währungen: Erste Schritte]",
+    "authors": "Read O.; Gräslund K.",
+    "year": "2018",
+    "doi": "10.1007/s10273-018-2323-6",
+    "abstract": "Bitcoin and other virtual currencies are becoming increasingly important. They are not money but are being used by a growing group of people as a means of payment and investment. Central banks and regulatory authorities have identified risks and see a need for regulation. Regulation areas with a high priority in the EU concern consumer protection, Anti-Money Laundering (AML) and Countering the Financing of Terrorism (CFT). The EU institutions are currently revamping the AML Directive in order to include virtual currencies for the first time. An international coordination on the regulation of virtual currencies is on the agenda of Finance Ministers and Central Bank Governors of G20 countries. © 2018, Springer Verlag. All rights reserved.",
+    "source": "Wirtschaftsdienst"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

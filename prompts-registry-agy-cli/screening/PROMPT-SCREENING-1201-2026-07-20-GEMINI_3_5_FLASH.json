@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1201-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ambidextrous organizations in the banking sector: an empirical verification of banks’ performance and conceptual development",
+    "authors": "Campanella F.; Del Giudice M.; Thrassou A.; Vrontis D.",
+    "year": "2020",
+    "doi": "10.1080/09585192.2016.1239122",
+    "abstract": "The aim of the research is to identify the relationship between organizational ambidexterity (OA) and firm performance, based on a large-scale empirical study incorporating 3883 commercial and investment banks across 28 European countries. In parallel, it seeks to investigate and comprehend the potential effects of exploration and exploitation on performance. Through the classification analysis method, it is found that banks with high return on equity are typified by the OA transformative determinants of having high structuring, high levels of research and development expenses and being highly procedural. The research further combines the primary research findings with meta-synthetic theoretical research and experts’ interviews to compile, reconcile and integrate existing notions into a comprehensive strategic internal management framework for ambidextrous organizations. The value and originality of the work stem from its specific contributions to OA knowledge and the fact that it is based on a contemporary large-scale data-set of enhanced reliability and validity. Its conceptual framework adds further value through the provision of a scientifically based platform for a more advanced understanding of OA and its systemic organizational application, and a solid foundation for further research. Moreover, the research transcribes the findings into explicit elucidations of executive worth for industry application. © 2016, © 2016 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "International Journal of Human Resource Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

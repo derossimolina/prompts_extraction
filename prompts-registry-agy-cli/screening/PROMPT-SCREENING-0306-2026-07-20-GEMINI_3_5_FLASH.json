@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0306-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring e-wallet Shariah parameters: comparative insights based on Indonesian and Malaysian electronic-money rulings with a focus on the LinkAja Syariah e-wallet",
+    "authors": "Mat Radzi R.; W. Ramli W.N.; Rahmawati L.; Tantriana D.",
+    "year": "2025",
+    "doi": "10.1108/JIABR-07-2024-0249",
+    "abstract": "Purpose: This study aims to develop Shariah-compliant e-wallet parameters by comparing Shariah rulings on e-money practices in Indonesia and Malaysia, with a specific focus on using the LinkAja Syariah e-wallet as a benchmark. Design/methodology/approach: This study is based on a qualitative research methodology based on a documentary review of Shariah rulings regarding e-money issued by the National Shariah Council–Indonesian Ulema Council (DSN-MUI) and the Shariah Advisory Council of Bank Negara Malaysia. Additionally, this study has adopted the strategy of examining the operational framework of the LinkAja Syariah e-wallet using the case study method. Findings: This study has proposed six parameters that should be considered in structuring e-wallet transactions to comply with Shariah principles. These parameters include the Shariah contract for each contracting party, the management of users’ funds, rewards or promotional activities, the listing of Shariah-compliant items in e-wallet transactions, users’ responsibility and the appointment of a Shariah Advisory Panel to oversee all transactions and activities in e-wallets in line with Shariah principles. Practical implications: The study’s findings and recommendations are useful for Islamic fintech banks and non-bank service providers, including regulators, in structuring Shariah-compliant e-wallet transactions. Originality/value: Although Fintech services that promote e-wallets have shown promising levels of demand in both countries, providers offering Shariah-compliant instruments remain somewhat limited. Furthermore, there are currently no specific parameters or guidelines specifically designed for Shariah-compliant e-wallets in Indonesia, Malaysia or on an international scale. This is despite the existence of fatwa institutions such as the Accounting and Auditing Organization for Islamic Financial Institutions. © 2025, Emerald Publishing Limited.",
+    "source": "Journal of Islamic Accounting and Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

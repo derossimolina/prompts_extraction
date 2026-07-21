@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1776-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illegal police protection and the market for stolen vehicles in Buenos Aires",
+    "authors": "Dewey M.",
+    "year": "2012",
+    "doi": "10.1017/S0022216X12000831",
+    "abstract": "In comparison to some illegal enterprises whose operations generate decisive moral rejection on the part of the public, vehicle theft remains an illicit underground activity that citizens largely tolerate or even exploit. In the province of Buenos Aires, the persistence, depth and breadth of transactions related to this black market cannot be explained without referring to the role of the state police. This article uses a theoretical approach to illegal police protection in order to understand the complicity between the police and criminals as fundamental to the market for stolen cars in the province. Using data from in-depth interviews and official documents, the article examines how exactly the police protect thieves, dismantlers and distributors of cars and/or auto parts. It analyses three elements that condition the sale of illegal protection to criminals by the police: threats and selective implementation of penalties; control of consequences; and bureaucratic falsification. © 2012 Cambridge University Press.",
+    "source": "Journal of Latin American Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

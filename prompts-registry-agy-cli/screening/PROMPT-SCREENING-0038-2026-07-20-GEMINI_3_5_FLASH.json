@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0038-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Deep Learning Predictions for Bitcoin Market Price and Illegitimate Activity Classification",
+    "authors": "Ibraheem M.R.; Hassan E.; Abed S.A.; Kamil I.S.; Talaat F.M.",
+    "year": "2025",
+    "doi": "10.1007/s10614-025-11093-x",
+    "abstract": "The rapid growth of Bitcoin and other cryptocurrencies has revolutionized financial systems, offering decentralized and transparent transaction mechanisms. However, this innovation has also attracted illicit activities, such as money laundering and fraud, due to the pseudonymous nature of blockchain transactions. Addressing these challenges requires advanced analytical tools to monitor market trends and detect fraudulent behavior effectively. Blockchain technology, which underpins Bitcoin, ensures transactional integrity and tamper-resistance through a distributed ledger system secured by cryptographic hash linking and consensus mechanisms. Bitcoin's Proof-of-Work (PoW) protocol further enhances security by enabling anonymous and immutable transaction recording. Analyzing Bitcoin's historical data is critical not only for financial ecosystems but also for identifying and mitigating illicit activities within the network. This study proposes a deep learning-based framework to accurately classify illegitimate entities and predict Bitcoin market prices. By leveraging additional parameters and features inherent to Bitcoin transactions, the model distinguishes between legitimate and fraudulent activities with high precision. The data undergoes comprehensive pre-processing, including cleaning, transformation, and dimensionality reduction via Principal Component Analysis (PCA). The proposed deep learning model achieves exceptional performance, with an average prediction accuracy of 96.5%, an AUC of 0.996, a DSC of 95.4%, a sensitivity of 95.3%, a specificity of 89.3%, and a precision of 96.6%, outperforming traditional methods such as Generalized Linear Models (GLM), random forests, and decision trees. © The Author(s) 2025.",
+    "source": "Computational Economics"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

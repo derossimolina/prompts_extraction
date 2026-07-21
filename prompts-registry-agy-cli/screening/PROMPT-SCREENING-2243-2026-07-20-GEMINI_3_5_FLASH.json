@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2243-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ORGANIZED CRIME IN THE FINANCIAL SYSTEM: FOREIGN EXPERIENCE",
+    "authors": "Markov, M; Yemets, O; Forostyanyi, A",
+    "year": "2018",
+    "doi": "10.30525/2256-0742/2018-4-5-188-199",
+    "abstract": "The aim of the article is to analyse combating organized crime in the financial system of Ukraine and abroad; develop specific proposals to optimize the legislative provision of such activities on the basis of the study of positive foreign experience with a view to its further implementation into the relevant legal regulations of our state. The subject of the study is the interrogation of legal regulations of leading foreign countries that regulate the issue of combating organized crime in the financial sphere, the principles of the activities of these countries' respective organizations aimed at counteracting organized crime in the financial system, as well as state mechanisms for countering organized crime in the US financial system, European and other countries. Methodology. The study is based on general scientific and special-scientific methods and techniques of scientific knowledge. The dialectical method enabled to formulate the definition and determine the essence of the subjects in the system of combating crime, as well as mechanisms of anti-shadowing of the Ukrainian economy. The normative-dogmatic method enabled to interpret the content of legal regulations of domestic legislation that regulate the issue of organized crime in the financial system. The comparative legal method enabled to compare doctrinal approaches to the issue of organized crime in the financial system of Ukraine and abroad. The same method was used to analyse legislation of foreign countries regarding the issue under the study. Methods of analysis and synthesis enabled to study individual units of the institute of organized crime in the financial system. The sociological method was used to evaluate the results of the survey, conducted among employees of the National Police of Ukraine, on the need to take into account foreign experience in counteracting organized crime in the financial system. The method of legal modelling allowed making proposals regarding the improvement of the institute for combating organized crime in the financial system of Ukraine. Practical implications. The analysis of foreign experience of police activity, as well as special bodies and organizations, in combating organized crime in the financial system, carried out on the basis of a comparative legal study of principles, provided for in the international legal documents and their use in the police activities of democratic states, determined the expediency of their implementation in the police activities of the bodies of the National Police of Ukraine. Relevance/originality. The study proved that the legal basis for combating organized crime in the financial system of the examined states is the constitution and national laws, as well as specialized legal regulations, which define the status, rights and duties, the responsibility of employees of special subjects in combating organized crime in the financial system. In addition, in foreign countries, competencies are clearly distributed between national and special authorities to exclude duplication of powers. In view of the proved necessity of creating an effective system of counteraction to organized crime in the financial system of Ukraine, positive foreign experience implementation can become the driving force to strengthen the rule of law and legal order in our state.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

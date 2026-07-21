@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1609-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The risks and rewards of organized crime investments in real estate",
+    "authors": "Dugato M.; Favarin S.; Giommoni L.",
+    "year": "2015",
+    "doi": "10.1093/bjc/azv002",
+    "abstract": "Despite growing interest in organized crime's infiltration of the legal economy, research to date has paid little attention to the investments of criminal organizations in real estate. Using data on confiscated assets in 8,092 Italian municipalities between 2000 and 2012, this paper aims to remedy this lack of knowledge. Applying a risk-reward approach, based on the rational choice perspective, the analysis highlights what drives Italian mafia groups' investments in the real estate sector. The results obtained support the validity of the rational choice perspective by showing how criminal organizations weigh risks and rewards in their decisions to invest in real estate. © The Author 2015. Published by Oxford University Press. All rights reserved.",
+    "source": "British Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

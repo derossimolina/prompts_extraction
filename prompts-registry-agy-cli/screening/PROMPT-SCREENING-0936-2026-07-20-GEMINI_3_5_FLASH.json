@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0936-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fair value accounting practices in the banking industry: a possible opportunity to launder money through manipulated performance",
+    "authors": "Perera K.L.W.; Ajward R.; Jayasekara S.D.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-06-2021-0064",
+    "abstract": "Purpose: The purpose of this paper is to discuss the possible money laundering threats in fair value accounting practices giving particular attention to the list of predicate offences under recommendations of Financial Action Task Force (FATF). Design/methodology/approach: This paper discusses case studies related to global accounting scandals and link outcomes of those scandals with the list of predicate offences given in FATF recommendations to build propositions. Findings: The analysis reveals that legal proceedings on major accounting scandals show that legal proceedings have been restricted owing to a lack of evidence because of the technicality of frauds. Often the authorities have failed to prove cases under the list of current predicate offences which can be linked to accounting malpractices, i.e. fraud. Therefore, policymakers are required to revisit the list of predicate offences and the feasibility of considering accounting malpractices as a predicate offence to strengthen the corporate governance practices in regulated institutions. The adoption of fair value accounting practices provides opportunities to managers to adopt earnings management practices under a fair value accounting regime to maintain stable performance. The fair value practice recognizes unrealized gains which are not based on transactions giving bank managers an opportunity to repeat the outcomes of the discussed accounting scandals. Therefore, it is essential to criminalize accounting malpractices to strengthen the corporate governance practices in the banking industry and prevent possible accounting scandals. Research limitations/implications: This study was designed to discuss the implications of fair value accounting practices on possible opportunities of money laundering. This paper provides only a viewpoint based on the analysis. Therefore, an empirical analysis is required to establish the authors’ views in a fair value accounting regime. Originality/value: This paper is an original work done by the authors which discuss the implications of fair value accounting practices on possible money laundering. The views are original ideas of the authors in this context. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

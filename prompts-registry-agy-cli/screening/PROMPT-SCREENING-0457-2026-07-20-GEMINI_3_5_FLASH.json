@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0457-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing Financial Systemic Risk Through Shareholder Networks",
+    "authors": "Daniel R.M.; K. A F.; M B.",
+    "year": "2026",
+    "doi": "10.1007/s10614-025-11306-3",
+    "abstract": "This paper introduces a network-based framework for assessing systemic financial risk by constructing and analyzing shareholder networks from publicly available market data. By mapping relationships between major institutional shareholders and the companies they hold significant stakes in, the study visualizes interconnectedness and identifies shareholders whose distress could trigger cascading shocks across firms. The model uses fuzzy graph modeling with min-max normalization to convert shareholding magnitudes into membership weights, and applies threshold-based pruning to remove passive links and isolate substantive control pathways. Multi centrality analysis combined with path strength computations highlights entities with disproportionate influence, while structural irregularity measures such as Laplacian energy and degree irregularity quantify concentration and imbalance in ownership topology. These methods reveal patterns consistent with nominee ownership, trust-based holdings, and layered structures that can obscure fund origin and enable manipulation. By linking irregularity metrics and pruned maximum strength paths to potential shock propagation, the framework supports early warning and regulatory surveillance, improving transparency and aiding detection of market manipulation and money laundering. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2026.",
+    "source": "Computational Economics"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1678-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mafia, sport and betting: Dangerous liaisons; [Mafias, sport et Paris: les liaisons dangereuses]",
+    "authors": "Kalb C.",
+    "year": "2015",
+    "doi": "10.3917/rpve.543.0013",
+    "abstract": "Manipulation of sports competitions has become the new threat for professional sports organizations on a global scale. Usually still unknown from the general public, match fixing cases developed with the sports betting and Internet boom, a little bit less than 10 years ago. Sport couldn't anticipate this fast move and has been confronted head-on by this new phenomenon. Today, Organized Crime uses sport and betting in a diversification strategy of its traditional activities like drug trafficking, racketeering and prostitution. There are some solutions but it is difficult to implement them in an international environment where tax havens and private interests often rule the world. This article aims at describing the complexity of manipulation of sports competitions through a concrete case: \"Calcioscommesse\" (Italy).",
+    "source": "Reflets et Perspectives de la Vie Economique"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

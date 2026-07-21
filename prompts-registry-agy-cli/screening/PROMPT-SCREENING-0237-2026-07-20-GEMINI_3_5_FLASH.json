@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0237-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From (Possible) Detection to Action: The Real-World Impact of Suspicious Transaction Reports in Italy",
+    "authors": "Nazzari M.; Aziani A.",
+    "year": "2025",
+    "doi": "10.1007/s10611-025-10220-x",
+    "abstract": "The global threat posed by serious crimes has led to the development of a far-reaching anti-money laundering regime worldwide. Since the late 1990s, scholars have questioned the effectiveness of this regime, critiquing its underlying assumptions and operational mechanisms. However, few analyses have focused on suspicious transactions reports (STRs), a key pillar of this system. This study examines the effectiveness of STRs within the Italian anti-money laundering framework by analyzing data from multiple institutional sources between 2009 and 2021. Findings are that, on average, one out of every 16 STRs contributed relevant information to ongoing criminal proceedings, while one out of every 99 reports led to new criminal investigations. Additionally, 2% of STRs supported proceedings or preventive measures against mafia-type organized crime, and 15% of all money laundering investigations conducted by the Economic Crime Police originated from STRs. Approximately 88% of new criminal proceedings prompted by STRs were related to offenses other than money laundering, such as fraud, loansharking, and tax evasion. The analysis also highlights a potential decline in reporting accuracy amidst a surge in volume. Implications for research and policy are discussed. © The Author(s), under exclusive licence to Springer Nature B.V. 2025.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

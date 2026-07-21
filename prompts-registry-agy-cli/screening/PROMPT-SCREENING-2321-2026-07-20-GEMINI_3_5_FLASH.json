@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2321-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Comparative Analysis of Money Laundering Crimes in Indonesia through Cryptocurrency",
+    "authors": "Manthovani, R",
+    "year": "2023",
+    "doi": "10.5281/zenodo.4766612",
+    "abstract": "Cryptocurrency, the most recent digital transaction tool, has significantly enhanced the efficiency and cost-effectiveness of financial transactions. However, it has also enabled individuals engaged in illicit activities to perpetrate a wide range of financial offences. In recent years, cryptocurrency has become increasingly recognised as a prominent instrument facilitating money laundering endeavours on a global scale. The utilisation of cryptocurrency as a means of payment remains unauthorised by the Indonesian government. But the legislative framework of the nation acknowledges cryptocurrency as a viable financial asset. Since the year 2017, there has been a prevalent occurrence of cryptocurrency exchange within the country of Indonesia. The prevalence of cryptocurrency circulation in the country is extensive, despite its lack of legal recognition within the country's legal framework. The Republic of Indonesia has encountered significant challenges in relation to the illicit practise of money laundering facilitated through the use of cryptocurrency. The objective of the current study is to examine instances of money laundering facilitated through cryptocurrency in Indonesia, as well as the legal frameworks implemented by the country to govern financial crimes. The research employs a qualitative methodology, incorporating both primary and secondary data sources, and conducting content analysis. This study examines the laws and legal frameworks governing the regulation of cryptocurrency exchanges in Indonesia and the United Kingdom, with the aim of identifying any potential regulatory gaps or loopholes. Furthermore, various legal recommendations have been proposed to enhance the civil law framework in Indonesia from a legal standpoint.",
+    "source": "INTERNATIONAL JOURNAL OF CYBER CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

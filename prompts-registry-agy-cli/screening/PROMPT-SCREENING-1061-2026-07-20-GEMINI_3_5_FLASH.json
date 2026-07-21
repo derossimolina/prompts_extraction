@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1061-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Factor analysis of financial crime-related issues",
+    "authors": "Iwasokun G.B.; Akinyede R.O.; Fadamiro C.F.; Bello O.A.",
+    "year": "2019",
+    "doi": "10.1108/JFC-11-2017-0120",
+    "abstract": "Purpose: The purpose of this paper is to propose indices that were freely considered as relevant for the analysis of financial crime-related issues in Nigeria and list them in the questionnaire that was administered across the six geo-political zones of the country to obtain relevant data that are useful for factor analysis of financial crime-related issues. Design/methodology/approach: The research methodology involved data survey, preparation and normalization. Followed by principal component analysis-based factor analysis and then, results and interpretation. Findings: The results of factor analysis placed high premium on government policies and regulations, responses and management, capacity building and awareness and litigation as the major issues for safe and secure financial system in Nigeria. Findings from the research also established that systemic ways of ensuring that citizens adopt technical know-how for national development rather than committing crimes should be introduced and enforced by the Nigerian government. Originality/value: The research formulated some indices and established some models for the analysis. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

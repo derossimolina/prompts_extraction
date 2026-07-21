@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1265-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money talks money laundering choices of organized crime offenders in a digital age",
+    "authors": "Kruisbergen E.W.; Leukfeldt E.R.; Kleemans E.R.; Roks R.A.",
+    "year": "2019",
+    "doi": "10.1080/0735648X.2019.1692420",
+    "abstract": "In this explorative study we provide empirical insight into how organized crime offenders use IT to launder their money. Our empirical data consist of 30 large-scale criminal investigations into organized crime. These cases are part of the most recent, fifth data sweep of the Dutch Organized Crime Monitor (DOCM). We do not focus on cybercrime alone. Instead, we explore the financial aspects of criminal operations in a broad range of types of organized crime, i.e. from ‘traditional’ types of organized crime, such as offline drug smuggling, to cybercrime. Regarding the spending of criminal proceeds (consumption and investment), the analyses show several similarities and no major differences between traditional crime and cybercrime. When it comes to concealing criminal earnings (money laundering), we do see important differences. Financial innovation, such as the use of cryptocurrencies, seems to be limited to cases of IT-related crime. One of the most striking similarities between cybercrime and traditional crime is the offenders’ preference for cash. In the analysed cases, malware and phishing offenders as well as online drug traffickers change their digital currencies for cash, at least in part. © 2019, © 2019 Midwestern Criminal Justice Association.",
+    "source": "Journal of Crime and Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

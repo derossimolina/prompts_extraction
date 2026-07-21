@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1042-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "All states are equal, but some are more equal than others; [Todos os estados são iguais, mas alguns são mais iguais que os outros]",
+    "authors": "Neiva P.; Hiroi T.",
+    "year": "2020",
+    "doi": "10.1590/3510301/2020",
+    "abstract": "This paper aims to identify the weight of the individual states in occupying the most critical positions in the country throughout the republican period. Our main argument is that the wealthier states, especially Sao Paulo, despite being underrepresented in the Federal Senate and the Chamber of Deputies, prevailed in the occupation of other more critical positions, such as those of President of the Republic, ministers of economic affairs, presidents of the Central Bank and presidents of the Chamber of Deputies. Hence, we contribute to a better understanding of the Brazilian federative arrangement, which has been analyzed mainly with the perspective of autonomy or of the dependence of territorial subunits in relation to the Union. Little has been done to understand the contribution of such subunits to the structuring of central power. © Associacao Nacional de Pos-Graduacao e Pesquisa em Ciencias Sociais - ANPOCS.",
+    "source": "Revista Brasileira de Ciencias Sociais"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

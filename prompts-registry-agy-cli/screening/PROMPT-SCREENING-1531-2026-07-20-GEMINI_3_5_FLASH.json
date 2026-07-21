@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1531-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Credit Risk Spreads in Local and Foreign Currencies",
+    "authors": "Galai D.; Wiener Z.",
+    "year": "2012",
+    "doi": "10.1111/j.1538-4616.2012.00514.x",
+    "abstract": "Governments, corporations, and even small firms raise and denominate capital in different currencies. We examine the micro-level factors that should be considered by a borrower when structuring debt denominated in various currencies. This paper will show how the currency composition of debt affects the cost of debt through the interaction with the risk of company's assets. We look at the currency mismatch in the firm and analyze its credit spread within a Merton's type model with bankruptcy. We show that foreign currency borrowing is cheaper when the exchange rate is positively correlated with the return on the company's assets. The determining factor is not just whether a given company is an exporter or importer, but rather the statistical correlation between the rate of return on the firm's assets and changes in the exchange rate. © 2012 The Ohio State University.",
+    "source": "Journal of Money, Credit and Banking"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

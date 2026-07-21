@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2269-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Identifying and Structuring the Factors Affecting Sustainable Banking Resources with Using Interpretive Structural Modeling",
+    "authors": "Mousavi, SM; Yamoula, A; Khoshroo, M",
+    "year": "2017",
+    "doi": "10.5937/intrev1704034M",
+    "abstract": "Considering the recent developments in banking system, banks are able to increase their power of partnership in different areas of manufacturing, industrial, agricultural and else by attracting more resource approach, and creating competitive advantage, which result in expansion and increase of earnings or benefits of the bank as well as creating competitive advantage. Considering the limitation on resources and time, the ability to jointly invest in all of the influential factors on creating sustainable banking resources cannot be achieved. The main aim of the present research is to provide a model of the influential factors on creating sustainable banking resources so with usage of which, managers can identify the factors that have the highest influence on the others and plan on the them. For this purpose, 10 influencing factors on creating sustainable banking resources such as financial risks, amount and quality of equity, amount of assets, etc. by taking into account the relevant studies as well as benefiting from specialist's opinions are chosen. Then the influential structure of these factors with usage of interpretive structural modeling method is drawn. The obtained results show that management of equities and human resources, are the most influential factors on providing sustainable banking resources.",
+    "source": "INTERNATIONAL REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

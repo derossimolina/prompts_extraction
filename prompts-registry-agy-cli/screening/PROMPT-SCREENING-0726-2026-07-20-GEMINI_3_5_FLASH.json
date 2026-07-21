@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0726-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "COMPLIANCE IN EXTRAJUDICIAL SERVICES: AN ANTICORRUPTION STRATEGY; [COMPLIANCE NAS SERVENTIAS EXTRAJUDICIAIS: UMA ESTRATÉGIA ANTICORRUPÇÃO]; [CUMPLIMIENTO EN SERVICIOS EXTRAJUDICIALES: UNA ESTRATEGIA ANTICORRUPCIÓN]",
+    "authors": "Garbaccio G.L.; Lodi G.; de Melo Bandeira G.N.C.S.",
+    "year": "2023",
+    "doi": "10.14210/nej.v28n2.p178-205",
+    "abstract": "Contextualization: Corruption and money laundering have long been a concern for several countries, including Brazil. Numerous measures have been adopted to try to curb such practices, both internationally and nationally. In this context, this research focuses on the analysis of how compliance in extrajudicial services can contribute to preventing crimes of money laundering and the financing of terrorism, in the light of Provision nº 88/2019 of the CNJ. Given the importance of combating money laundering and corruption to maintain the integrity and transparency of the financial and economic system, as well as the fundamental role of notaries and registrars in preventing these illicit practices, since they are responsible for verifying the authenticity of documents and transactions, this study is justified. Objective: This article has the general objective of finding out how Extrajudicial Services and compliance strategies can contribute to the fight against corruption and money laundering. Method: To carry out this research, we used the inductive approach method, bibliographical research, exploratory research, and the qualitative analysis procedure. Results: It is concluded that, given the sui generis legal nature of extrajudicial services combined with compliance strategies, notaries and registrars can contribute to the prevention of corruption and money laundering through the supervision of the acts they perform, adequately serving the which prescribes Provision No. 88/2019, of the CNJ. © 2023, UNIVALI. All rights reserved.",
+    "source": "Novos Estudos Juridicos"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

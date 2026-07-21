@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1359-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The viability of international anti-criminal finance frameworks: The effect of mass refugee migration and the growth of the informal financial sector",
+    "authors": "Fazlur Rahman N.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-09-2018-0059",
+    "abstract": "Purpose: The purpose of this paper is to draw attention to the effect of the growing informal financial sector (IFS) on the effectiveness of anti-criminal finance laws. Specifically, the growth of the IFS has been brought on by the unprecedented rise in refugee and migrant movement around the world. This paper will focus on how refugee smuggling in the Eastern Mediterranean and Western Balkan region – and the consequent rise of the IFS – has affected the suitability of apply anti-money laundering and financial action task force frameworks in these countries. Design/methodology/approach: It assesses the effectiveness of national and international legal documents on anti-criminal finance. It also uses data sets and analyses secondary and primary sources to estimate the size and importance of the IFS. Findings: The exponential and rapid growth of the IFS has undermined efforts to prevent the financing of trafficking, terrorism, corruption and money-laundering. The present legal devices to address criminal finance has been wholly inadequate and counter-productive. Research limitations/implications: There are limited reliable or accurate data available on the IFS, how much money goes through it or how important it is to criminal activities such as money laundering or terrorist finance. Without field-research, this study remains exploratory. Practical implications: The growth of the IFS and migratory movement is a complex dilemma that must be accounted for when seeking to truly improve anti-criminal finance laws, especially in developing and transition countries. Originality/value: This paper demonstrates the importance of considering the IFS and migratory and refugee movements in creating legal instruments to combat financial crime. It also suggests a direction for future research. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

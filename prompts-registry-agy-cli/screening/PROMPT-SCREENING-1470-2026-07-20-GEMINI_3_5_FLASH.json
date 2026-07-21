@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1470-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploring the Ethical Dimension of Hawala",
+    "authors": "Redín D.M.; Calderón R.; Ferrero I.",
+    "year": "2014",
+    "doi": "10.1007/s10551-013-1874-0",
+    "abstract": "The aim of this paper is to explore the ethical dimension of hawala, an ancient informal financial practice rooted in Islamic moral traditions. Widely used in countries with an Islamic background and their diasporas, hawala is considered an important vehicle for the financial and economic development of some less developed countries. Nevertheless, in Western countries, hawala is regarded with suspicion due its controversial ethical nature. Unlike other Islamic financial institutions, the controversial questions are not the legitimacy of profit sources or the interest charged, but rather the lack of transparency that surrounds hawala transactions. Yet, the literature on hawala has neglected its ethical perspective. Our study delves into this dimension with a critical approach, using the Triple Font Theory, grounded on virtue ethics. We conclude that if hawala transactions are carried out with honesty, and fairness, this practice deserves a positive ethical appraisal. However, it is necessary to implement efficient regulatory measures to guarantee that the system is not abused by money launders and criminals. In practice, it becomes imperative to bring over a change in the regulatory approach to hawala toward a more ethically, culturally, and economically sensitive strategy. Thus, future research should focus on how “hyper-norms” or fundamental principles inherent to humanity, which are common to both “formal” and “informal,” “Western” and “non-Western” financial practices, could run the new AML/CTF regulation agenda. © 2013, Springer Science+Business Media Dordrecht.",
+    "source": "Journal of Business Ethics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

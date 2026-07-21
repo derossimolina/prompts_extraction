@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1669-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "TBML suspicious activity reports – a financial intelligence unit perspective",
+    "authors": "Naheem M.A.",
+    "year": "2018",
+    "doi": "10.1108/JFC-10-2016-0064",
+    "abstract": "Purpose: The purpose of this paper is to share research data from the Financial Intelligence sector on trade-based money laundering (TBML), as a way to better inform banking risk assessment and the submission of suspicious activity reports (SARs). Design/methodology/approach: The research data formed part of a bigger project on TBML banking risk assessment for improving the detection of TBML activity. This paper analysed the data from an online survey carried out among the financial intelligence staff from financial intelligence units (FIUs) and some external financial intelligence agencies. The aim was to determine which areas of banking SARs needed to be improved or enhanced to support FIU investigations. Findings: The research found that FIUs do use the data supplied to them, in particular the SARs. The research also found that more data would be appreciated from banks especially in relation to beneficial ownership information and politically exposed persons data. The findings highlighted that contact between banks and FIUs was limited and restricted to a couple of key individuals, whereas the increased requirement for intelligence and more data would suggest that this relationship needs to be expanded and strengthened. Research limitations/implications: The main limitation was the restricted scope of the survey (only focussed on TBML) and was broad in depth, and perhaps a local FIU survey would be useful to look at specific country recommendations. Similar research also needs to be conducted on other forms of ML activity. The research identified the need for more information on beneficial ownership information; however, other work needs to be done on how exactly banks can access this data. Practical implications: The main outcome from the research was the need for SARs to contain more detailed information on beneficial ownership and politically exposed persons data. This needs to be incorporated into a specific risk assessment tool for TBML that considers not only the client but also relevant business partners and silent partners/shell companies used by the client. This research is part of a bigger research project that has developed a risk matrix tool for TBML and can be linked into this work. Originality/value: The paper used original data collected by the researcher from 49 FIU and financial intelligence staff across the globe. The timely presentation of the results and the nature of the sample means that this is relevant and useful data to be presented to the banking sector. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

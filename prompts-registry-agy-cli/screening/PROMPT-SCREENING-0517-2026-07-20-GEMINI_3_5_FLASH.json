@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0517-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE CONTEMPORARY CHALLENGES OF THE RECOVERY OF ASSETS ABROAD AND INTERNATIONAL LEGAL COOPERATION; [OS DESAFIOS CONTEMPORÂNEOS DA RECUPERAÇÃO DE ATIVOS NO EXTERIOR E A COOPERAÇÃO JURÍDICA INTERNACIONAL]",
+    "authors": "Paluma T.; Vilarroel I.E.; Ferreira E.H.",
+    "year": "2022",
+    "doi": "10.26668/revistajur.2316-753X.v4i71.6154",
+    "abstract": "Objectives: The present scientific study seeks, from the outline of the current panorama of the recovery of assets abroad, especially the performance of the National Department of Asset Recovery and International Legal Cooperation-DRCI, an organ of the Ministry of Justice and Public Security-MJSP, as an authority Brazilian central government, to discuss the challenges concerning the effective repatriation of values in contemporary international society, marked by the fragmentation of national states, economic complexity, progressive overcoming of national borders and the use of economic mechanisms for the concealment of assets, such as trusts, shell companies, shares, investment funds and cryptocurrencies Methodology: The research has a legal-theoretical nature and was carried out using a deductive method and a qualitative approach, by examining the relevance of legal cooperation between nation-states for the recovery of assets abroad and related current issues. It is also applied research, based on the investigation of concrete elements, with an exploratory objective and the use of bibliographic and documentary procedures. Results: The recovery of assets abroad faces difficulties relevant to the complex fabric of contemporary global society, such as the fragmentation of national borders and the recurrent creation of legal apparatus that facilitate the diversion and concealment of values. In this scenario, effective international legal cooperation is essential for combating corruption and repatriating amounts diverted abroad, through strategic and concatenated transnational action that allows the detection, investigation, investigation, location and, finally, recovery of the removed assets illegally. Contributions: The debate proposed by the investigation contributes to the promotion of reflections on the relevance of international legal cooperation for the recovery of assets abroad in contemporary global society and for the improvement of the state apparatus, of the institutions active in the matter, such as the National Department of Recovery of Assets and International Legal Cooperation-DRCI, and the instruments available for a more efficient and effective recovery of expatriate assets. © 2022, Centro Universitario Curitiba - UNICURITIBA. All rights reserved.",
+    "source": "Revista Juridica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

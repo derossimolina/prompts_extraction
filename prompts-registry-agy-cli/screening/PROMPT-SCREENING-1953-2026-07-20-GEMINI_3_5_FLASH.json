@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1953-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Role of Producer Services in Industrial and Regional Development: The Nordic Case",
+    "authors": "Sjøholt P.",
+    "year": "1994",
+    "doi": "10.1177/096977649400100202",
+    "abstract": "The principal focus of this article is producer-related services, their growing need in enterprises and the ways in which this need is being satisfied through different transactional forms (by being internalized or externalized). This leads to a discussion of whether the substantial services growth during the early and mid-1980s was genuine or merely reflected changes of transactional forms. Growth and its regional reper cussions are analysed by uncovering how the changes were a consequence of cyclical changes, new general conditions or frames of reference (deregulation), re structuring of enterprises and the role of financial operations and transactions. Changing trends and pat terns at the start of the 1990s are then examined in the light not only of recession but also of new possible structural readjustments in production systems, and the changing role of financial institutions. Regional impacts are examined by analyses of recent data, mainly from Norway but also from other Nordic countries. © 1994, Sage Publications. All rights reserved.",
+    "source": "European Urban and Regional Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

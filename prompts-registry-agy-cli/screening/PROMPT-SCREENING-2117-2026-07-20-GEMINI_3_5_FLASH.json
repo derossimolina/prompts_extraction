@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2117-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti&hyphen;terrorist finance provisions in Jordan&colon; important step but insufficient",
+    "authors": "Malkawi B.H.; Malkawi H.O.",
+    "year": "2007",
+    "doi": "10.1108/13685200710746884",
+    "abstract": "PurposeThe purpose of this paper is to examine the anti&hyphen;terrorist finance provisions in the Penal Law as well as the vulnerabilities in place that hamper more effective regime. Design&sol;methodology&sol;approachThe paper identifies the pre&hyphen;September 11 legal structure in Jordan regarding terrorist finance. Since, then the amended Penal Law, promulgated on October 8, 2001, has emerged as the principal tool in addressing terrorist finance activities. The paper is divided into five sections covering pre&hyphen;existing statutory provisions on terrorist finance, Jordan's counterterrorist financing regime including money laundering law and directives, the anti&hyphen;terrorist finance provisions in the Penal with its constituent elements, Jordan's accession to the United Nations Convention for the Suppression of the Financing of Terrorism, and finally the paper provides a set of conclusions. FindingsThere are still many loopholes to close in Jordan's anti&hyphen;terrorist finance initiatives. There is a need for greater enforcement of existing provisions with an eye to expanding the scope of article 147&lpar;2&rpar; of the Penal Law to include Islamic banks, hawala, charities, and zakat. A clear definition of the term &ldquo;terrorist activity&rdquo; should be supplied in article 147&lpar;2&rpar; and penalties for terrorist finance offense should be tightened. Research limitations&sol;implicationsLack of publications or research on the subject of terrorist finance in Jordan in Arabic. Practical implicationsThis paper will be very helpful for any individual interested in the legal regime of anti&hyphen;terrorist financing as it exists in Jordan. Originality&sol;valueThis paper meets a need for an understanding of the Jordanian legal regime as applied to anti&hyphen;terrorist financing and offers insights to lawyers and academics. © 2007, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0584-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money Laundering Considerations in Blockchain-based Maritime Trade and Commerce",
+    "authors": "Chuah J.C.T.",
+    "year": "2023",
+    "doi": "10.1017/err.2022.21",
+    "abstract": "There is much to be welcomed concerning the role blockchain technology can play in modernising and enhancing international trade, creating a more level playing field and reducing costs. However, it goes without say that the technology also brings with it the risk of abuse leading to trade-based money laundering. This article explores how anti-money-laundering legislation should respond to the use of blockchain technology in shipping and trade. Maritime trade poses unique challenges because of several significant factors: the fact that it concerns large sums but many linked trading transactions over the same goods; its use of documents and involvement of numerous faceless entities; and its cross-border setting. Drawing on tried and tested forms of blockchain technology-based trade transactions, this work examines the fault lines in the current regulatory system and questions how best these gaps should be remedied. It also stresses that even states that have banned the issue and trade of cryptoassets might not be immune to these new challenges. © 2022 The Author(s).",
+    "source": "European Journal of Risk Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

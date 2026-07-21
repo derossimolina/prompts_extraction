@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1015-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cooperation between Russia and Turkey in Modern Economic Conditions; [Новые форматы инвестиционного сотрудничества между Россией и Турцией в современных экономических условиях]",
+    "authors": "Umarov H.S.",
+    "year": "2022",
+    "doi": "10.14530/SE.2022.3.168-193",
+    "abstract": "The deterioration of Russia’s trade and economic relations with international partners due to the aggravation of the geopolitical situation in Ukraine increases the importance of diversification of key sectors of the Russian economy. Russia’s search for new strategic partners increases the pace of cooperation with the Republic of Turkey. The subject of the study is the study of the advantages of the Russian-Turkish strategic partnership, the basis of which is mutual interest in building up economic and geopolitical potential. The key objectives of the study will be to study the current investment climate, the stages of implementation of investment cooperation between Russia and Turkey in various sectors of the economy, analysis of the dynamics of foreign direct investment, mutual investment, trade turnover, exports and imports between the countries. Such research methods as observation, comparative analysis, generalization, historical method will be used in the work. The author will refer to the materials of Russian and foreign experts in the field of international economics, finance, investment deposits, statistical data on export, import, mutual turnover, foreign direct investment (FDI) between Russia and Turkey, obtained from the reporting documents of the Turkish Statistical Institute (TurkStat), the World Bank (The World Bank), the United Nations (UN), the Turkish Construction Union (Turkish Construction Union). The main result of the study will be the structuring of factors affecting the dynamics of bilateral investment cooperation. The results of the study can be useful to representatives of business organizations, business owners and managers, specialists in the field of economics and finance. Formulating the main conclusions of the study, the author notes the priority of mutually beneficial Russian-Turkish partnership on key economic issues. © 2022 Vestnik Dermatologii i Venerologii. All rights reserved.",
+    "source": "Spatial Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

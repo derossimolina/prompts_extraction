@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1897-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "What influences hazard mitigation? Household decision making about wildfire risks in Arizona's white mountains",
+    "authors": "Collins T.",
+    "year": "2008",
+    "doi": "10.1080/00330120802211737",
+    "abstract": "Through a study of human response to wildfire hazards, this article addresses the question: What influences hazard mitigation? Results from a household-level multiple regression analysis using structured survey, hazard exposure, and secondary data reveal that social vulnerability, place dependency, and contextual influences are important determinants of mitigation of wildfire hazards. Lower income and renter households engage in less mitigation than higher income and homeowner households; these findings reflect underlying issues of social vulnerability. The role of place dependency as a catalyst for mitigation is illustrated by results showing that longer term, full-time, and resource-dependent residents implement more mitigation measures than shorter term, part-time, and resource-independent residents. In relation to contextual influences, results reveal that apartment complexes and gated residential settings impede mitigation and dwelling cash value motivates mitigation at the household level. Findings suggest that wildfire protection programs, which have traditionally focused on public education, must be expanded to increase levels of household hazard mitigation. Interventions should target gatekeepers from the real estate, government planning, and residential property management institutions that are partly responsible for structuring residents' lives. For example, the provision of public cost-sharing programs could help alleviate the financial burdens of mitigation for low- and fixed-income households, and in contexts where renter-landlord tenure arrangements prevail (e.g., apartment complexes), mitigation plans could be more effectively implemented through collaboration among owners, property managers, and residents.",
+    "source": "Professional Geographer"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

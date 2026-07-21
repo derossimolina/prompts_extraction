@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1516-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Does the broadly defined ambit of money laundering offences globally, a recipe for confusion than clarity?",
+    "authors": "Mugarura N.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-06-2015-0024",
+    "abstract": "Purpose: The purpose of this paper is to articulate that ill-defined global prohibition regimes such as anti-money laundering (AML) could potentially cause more harm than good. The author has carried out a scoping review of some anti-money laundering regimes such as the USA PATRIOT Act to demonstrate how they have been harnessed in some jurisdictions. It deconstructs the broad scope in which money laundering offences are conceptualized and applied by different jurisdictions and its inherent challenges. It has scoped a wide range of issues, often articulating the inherent controversies in some engendered AML regimes such as the USA PATRIOT Act (2001) and its revised Know Your Customer (KYC) model. Design/methodology/approach: This paper was undertaken by straddling a wide range of issues in relation to the shortcomings that are inherent in AML regulatory regimes and their application in practice. However, the analysis focuses on the failures of some AML regimes concentrating largely on the UK and US jurisdictions and, occasionally, drawing examples from African countries. It uses examples from a small sample of countries and then hypothesized that if a regulatory regime is broadly defined, it could cause confusion in its application, let alone being counterproductive to the purpose it was adopted to achieve. It might, therefore, not be very helpful in streamlining how desired norms should be harnessed in practice. Findings: The findings of this paper have correlated that broadly and ill-defined regulatory regimes are bound to cause confusion and controversies, let alone being counterproductive to the purpose they were adopted to achieve. The USA PATRIOT Act and KYC are some of the few examples, whereby ill-defined regulatory regimes have provided a recipe for controversies and tensions between regulatory domains and citizens. For instance, the surveillance mandate to US regulatory authorities under the USA PATRIOT Act has generated tensions between citizens and banks. Cases have been filed against banks for over-exercising their powers and interfering with the individual freedoms of US citizens. Research limitations/implications: The paper was written largely based on analysis of secondary data on AML regimes and the controversies their application often generates in some countries. For instance, the USA PATRIOT Act has generated tensions between the USA and foreign states, banks and citizens, because of excessive use of its surveillance mandate on the privacy of individuals. Bearing this challenge in mind, it would have been better for the analysis to focus on many countries and, probably, interview bankers and internalize their views accordingly. Practical implications: The paper is informative. It could be used for making desired policy changes and enhancing research on global regulatory regimes and how they are evolved and applied in practice. It has practical relevance for banks, researchers, students, policy/oversight institutions and governments and it is therefore a worthy read. Social implications: The regulation of money laundering crimes is imperative, because, if left unchecked, it can undermine economies, governments and people and erode the fabric of society. However, as much as it is imperative to enact the desired rules to curtail the threat of money laundering and its predicate offences or even forestall it, regimes should be evolved with caution not to alienate the very purpose they were adopted to achieve. For instance, if the application of engendered rules generates tensions between citizens and regulatory authorities, it cannot reflect well not only on the government’s image but can also be counterproductive. Originality/value: The paper was written using primary and secondary data sources but evaluated using empirical evidence drawn from different jurisdictions. It is therefore original because it is written and evaluated in its unique way to extend the parameters of knowledge on evolution and conceptualization of money laundering regimes. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

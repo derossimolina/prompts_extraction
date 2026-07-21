@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0863-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial crimes in the real estate sector in Austria, Germany, Liechtenstein and Switzerland",
+    "authors": "Teichmann F.M.J.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-05-2019-0044",
+    "abstract": "Purpose: The purpose of this paper is to demonstrate how criminals commit financial crimes in the real estate business in Austria, Germany, Liechtenstein and Switzerland. Design/methodology/approach: A qualitative content analysis of 100 semi-standardized expert interviews with both criminals and prevention experts and a quantitative survey of 200 compliance officers led to the identification of specific money laundering techniques in the real estate sector. Findings: Real estate companies in German-speaking countries in Europe continue to be extraordinarily suitable for money laundering and other financial crimes. In particular, they can be used for placement, layering and integration, as well as for violations of the tax code. Most importantly, however, they are vehicles for one of the very few profitable methods of laundering money. Research limitations/implications: As the qualitative findings are based on semi-standardized interviews, they are limited to the perspectives of 100 interviewees. Practical implications: The identification of gaps in existing anti-money laundering mechanisms is intended to provide compliance officers, law enforcement agencies and legislators with valuable insights into how criminals operate. Originality/value: While the existing literature focuses on organizations combating money laundering and on improving anti-money laundering measures, this paper describes how money launderers operate to avoid getting caught. Both prevention and criminal perspectives are taken into account. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

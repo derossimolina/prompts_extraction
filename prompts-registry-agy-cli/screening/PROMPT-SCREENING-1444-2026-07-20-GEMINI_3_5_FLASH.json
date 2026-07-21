@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1444-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Leader-member exchange and employee creativity: Knowledge sharing: the moderated mediating role of psychological contract",
+    "authors": "Liao S.-H.; Chen C.-C.",
+    "year": "2018",
+    "doi": "10.1108/LODJ-05-2017-0129",
+    "abstract": "Purpose: The purpose of this paper is to test the mediating role of LMX in the relationship between knowledge sharing and employee creativity and the extent to which this mediating role is moderated by transactional psychological contract. Design/methodology/approach: A total of 286 employees working at the theme park in Taiwan and then analyzed using a structuring equation model with SPSS 12.0, LISREL 8.8 and SPSS PROCESS. Findings: Results suggested that LMX mediated the relationship between knowledge sharing and employee creativity. Also, results suggested that transactional psychological contract moderated this mediating pathway: low transactional psychological contract increases the mediating role of LMX. Furthermore, the study showed that LMX can buffer the negative effects of transactional psychological contract on employee creative performance. Originality/value: The originality of this study is to explore whether there is a moderated mediation model relationship among research variables and contributed to the LMX literature because there are few studies to discuss how knowledge sharing might stimulate creative outcome through LMX. © 2018, Emerald Publishing Limited.",
+    "source": "Leadership and Organization Development Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

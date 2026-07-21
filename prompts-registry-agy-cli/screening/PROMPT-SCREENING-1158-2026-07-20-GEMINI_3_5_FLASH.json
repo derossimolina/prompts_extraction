@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1158-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Suing the banks for financing terror: a case study of Linde v. Arab Bank",
+    "authors": "Rivera J.W.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-07-2018-0044",
+    "abstract": "Purpose: This paper aims to attempt to tie in specific events into the case of Linde v. Arab Bank to provide a greater context. This case is the first where a US court held a bank civilly liable for providing financial support to a terrorist organization, but to do so, the court had to decide on several factors, involving as follows: the application of the anti-terrorism act; the sufficiency of evidence; and the causation of the plaintiffs’ damages. Design/methodology/approach: This paper is a case study of Linde v. Arab Bank. It also takes an in-depth view of one particular terrorist attack that was alleged to have been financed by Arab Bank PLC. This paper reviewed similar legal cases, law review articles on the subject, congressional and government reports, congressional testimony and open source news involving the case and the terrorist incidents involved. Findings: The court, in this case, ruled in favor of holding Arab Bank liable for money laundering and terrorist financing, which allowed American families to sue the bank for the loss of their loved ones. Originality/value: This paper focuses on a unique issue involved in money laundering and terrorist financing. It is not fully a legal paper or a traditional academic paper. It is also unique in that case studies are rare in criminal justice and criminology journals. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

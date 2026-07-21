@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1399-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Taming the blockchain beast? Regulatory implications for the cryptocurrency Market",
+    "authors": "Shanaev S.; Sharma S.; Ghimire B.; Shuraeva A.",
+    "year": "2020",
+    "doi": "10.1016/j.ribaf.2019.101080",
+    "abstract": "This paper uses a unique dataset of 120 regulatory events from five classes to test the relevance of the regulatory framework for cryptocurrency value. Time-series market-wide estimates and panel estimates for 300 individual coins and tokens show statistically and economically significant impact of anti-money laundering and issuance regulation. Tighter regulation and more active role of government decrease cryptocurrency prices, evidencing that potentially lower risks and wider adoption commonly attributed to the establishment of the regulatory framework do not compensate for respective efficiency and consumer utility losses. The market is generally efficient in reflecting regulatory information in cryptocurrency prices. © 2019 Elsevier B.V.",
+    "source": "Research in International Business and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

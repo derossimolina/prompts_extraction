@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0407-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crypto assets and CBDCs in Latin America and the Caribbean: Opportunities and risks",
+    "authors": "Bespalova O.; Appendino M.; Bhattacharya R.; Clevy Aguilar J.F.; Geng N.; Komatsuzaki T.; Lesniak J.; Lian W.; Marcelino S.; Villafuerte M.; Yakhshilikov Y.",
+    "year": "2025",
+    "doi": "10.1016/j.latcb.2024.100157",
+    "abstract": "After providing a general overview of the nature, pros, and cons of crypto assets and CBDCs, this paper focuses on documenting their recent experience in LAC. The region records a high interest in unbacked crypto assets and stablecoins and its authorities’ policy responses have varied substantially, ranging from the introduction of Bitcoin as legal tender in El Salvador to their prohibition in many other countries worried about their impact on financial stability, currency/asset substitution, tax evasion, corruption, and money laundering. This paper also describes briefly the results of a survey on CBDCs’ introduction plans and crypto assets regulation. Finally, this paper presents some general lessons and policy recommendations for the region on the regulation of crypto assets, digital currencies and cross-border payments, and on the potential introduction of CBDCs. © 2024",
+    "source": "Latin American Journal of Central Banking"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

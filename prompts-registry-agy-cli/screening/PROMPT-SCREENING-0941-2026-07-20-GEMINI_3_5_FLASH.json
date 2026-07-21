@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0941-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sustaining Innovation and Regulation: The Eco-System of Decentralized and Centralized Finance",
+    "authors": "Mergaliyeva L.L.; Primbetova S.C.",
+    "year": "2024",
+    "doi": "10.51176/1997-9967-2024-4-20-37",
+    "abstract": "This study examines the ongoing debate between Decentralized Finance (DeFi) and Centralized Finance (CeFi), analysing their unique advantages and challenges within the rapidly evolving financial landscape. The objective of this research is to argue for the convergence of DeFi and CeFi to create an innovative and secure financial ecosystem that balances accessibility with security, using Kazakhstan as a case study. The study employs comparative analysis and case-study methodology to explore Kazakhstan’s regulatory approach to digital assets. The focus is on understanding how licensing, anti-money laundering (AML) protocols, and consumer protection measures can support the integration of DeFi and CeFi. Primary data includes an analysis of Kazakhstan’s regulatory framework for digital assets, statistical data on AML implementation, and levels of consumer protection within the country. Findings indicate that a hybrid regulatory model effectively bridges the operational differences between DeFi and CeFi, fostering inclusivity and economic growth while safeguarding consumer interests. Kazakhstan’s regulatory focus on licensing and AML protocols illustrates that a balanced regulatory approach can accommodate both technological progress and necessary protections for financial participants. The study concludes that a convergence of DeFi and CeFi through a hybrid regulatory model can lay the foundation for a sustainable digital financial environment that is accessible, innovative, and secure. Future studies are encouraged to explore the role of emerging technologies, such as quantum computing, and examine the socio-economic impacts of DeFi-CeFi integration on financial inclusivity for underserved populations. © 2024, Institute of Economics Committee of Science MSHE RK. All rights reserved.",
+    "source": "Economy: strategy and practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

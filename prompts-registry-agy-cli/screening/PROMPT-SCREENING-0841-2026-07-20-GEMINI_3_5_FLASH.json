@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0841-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Artificial intelligence impact on banks clients and employees in an Asian developing country",
+    "authors": "Boustani N.M.",
+    "year": "2022",
+    "doi": "10.1108/JABS-09-2020-0376",
+    "abstract": "Purpose: The purpose of this paper is to discuss the application of artificial intelligence (AI) in banking sector, its impact on banks employees and consumer behavior alike when buying financial services and the importance of (AI) for delivering social services in a western Asian developing country: Lebanon. The author tried to respond to the following problematics: Would AI be able to replace man power in customer service? and would AI change the job of the banker and render the bank more profitable? Design/methodology/approach: The data collected and analyzed was used in a quantitative research-based models with the application of hypothesis regression models. The results obtained has helped despite the fact of its innovative framework, AI cannot replace the role of humans when it comes to client’s interactions with banks employees. Findings: AI elevates the quality of banking transactions to an upper edge. Some of the technical banking jobs might be in jeopardy with AI, as the technology can be easily replaced with human resources, but when emotional intelligence is required for banks clients/employee’s relationship management, AI has been found with no ability to supersede. Research limitations/implications: Researchers in the future can also compare large banks called alpha banks to smaller banks in the same developing country to further test the possibility of adopting innovation and change through AI in different sizes of banks with larger number of employees, financial resources and corporate clients. Practical implications: Fears regarding impact on employment were detected, AI could render many banks’ jobs obsolete in the coming years, asserting that AI and robotics “reduce the need for staff in roles such as back office functions. Data suggests that the proliferation of AI could be accompanied by a rise in banking jobs. It may also be the case that only the most mundane jobs such as data entry will be sacrificed for machine superiority. While a rise in job numbers associated with higher AI-adoption rates seems ideal, some evidence suggests that most financial institutions are not yet fully confident in how to effectively apply the technology for the best results but at the same time seemed to be receptive to using AI and machine learning in their organization. Social implications: This study was conducted and limited to one developing Asian country, it would be useful to stretch this study covering other countries in the region to dive into more diversified results that could trigger researchers to compare more the adoption of AI in Asian countries and evaluating its impact with respect to different countries size and/or level of development in addition to other demographics and criteria. Originality/value: Financial institutions are increasingly using artificial neural network systems to detect fraud and charges that do not meet the standard. The AI is used to: organize transactions; keep accounts; invest in stocks; optimize portfolios, etc. Reducing the number of frauds and financial crimes in Lebanon by monitoring user behavior to detect abnormal changes or anomalies in addition to the possible rectification of human economic behavior in the Asian region, this could add a great value and high originality to the research. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Asia Business Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1620-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial intelligent investigations in combating money laundering crime: An Indonesian legal perspective",
+    "authors": "Lukito A.S.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-09-2014-0029",
+    "abstract": "Purpose – The purpose of this paper is to analyze the functions of financial intelligent investigations by the Indonesian financial intelligent unit in conjunction with the participating reporting parties, to consider the obstacles and challenges to reduce money laundering cases in Indonesia, realizing that the role of the financial intelligent investigations not only conducted by Indonesian Financial Intelligent Unit itself but the active participation from reporting parties such as banking institution. The function of financial intelligent unit in supervising and monitoring cash financial transactions is importance in fight against economic crimes, particularly in the anti-money laundering regime. Design/methodology/approach – This paper explores the Indonesian laws on prevention and eradication on money laundering crime and analyzing the importance role of financial intelligent investigations and disruption of money laundering crime. Findings – The financial intelligent investigations will become an important strategy to combating the economic crime such as money laundering and corruption. The new perspective is needed to developing the good synergy in the financial intelligent unit and reporting parties to maximizing the eradication of money laundering cases. Practical implications – The paper can be a source to explore about the money laundering eradication based on Indonesia legal perspective. Originality/value – This paper gives contributions by encouraging the financial intelligent unit in conjunction with all the financial institutions to disrupt any money laundering activities, which is associated to other predicate crimes and attempting to conceal the illegal funds derived from illegal activities that commonly happened in Indonesia. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

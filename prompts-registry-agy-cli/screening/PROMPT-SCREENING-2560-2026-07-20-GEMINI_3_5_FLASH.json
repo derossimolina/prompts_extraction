@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2560-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Environmental licensing for offshore wind farms: Guidelines and policy implications for new markets",
+    "authors": "de Vasconcelos, RM; Silva, LLC; González, MOA; Santiso, AM; de Melo, DC",
+    "year": "2022",
+    "doi": "10.1016/j.enpol.2022.113248",
+    "abstract": "Offshore wind energy is a key driver of the global energy transition towards climate change. The regulatory framework in environmental licensing for renewable energy sources is specific for each country, however there are basic elements that can be replicated for new markets. This article aims to propose guidelines and policy implications in environmental licensing for offshore wind projects for new markets based on the state of the art and lessons learned from three mature countries and one emerging market. The research involved three phases: literature review on sustainable development and environmental licensing procedures for offshore wind farms; research cases in the United Kingdom, Germany, Denmark, and Taiwan; and the structuring of guidelines and policy implications. As a result, eight guidelines and their policy implications are proposed, among them: (i) Establishment of a national offshore wind energy production target; (ii) Mapping of marine offshore wind zones; (iii) Adoption of a one-stop-shop procedure; (iv) Development of a guide for environmental licensing for offshore wind farms; and others. In conclusion, the establishment of a regulatory framework in environmental licensing for offshore wind projects, based on sustainable development principles and good practices of leading markets, guides public policies of new markets to have a greater probability of sustainable development.",
+    "source": "ENERGY POLICY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

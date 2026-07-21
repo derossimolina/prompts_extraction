@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2274-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DIGITAL CURRENCY AS AN ATTRIBUTE OF CRIMINAL ECONOMY IN THE MODERN SOCIETY",
+    "authors": "Stepanenko, DA; Stepanenko, AS",
+    "year": "2022",
+    "doi": "10.17150/2500-4255.2022.16(2).173-184",
+    "abstract": "The digitalization of economy is transforming the existing mechanisms of currency, monetary, credit circulation and determining the development vector of modern social systems. The digitalization and digital instruments, acting as triggers of economic growth and socio-economic prosperity in the modern society, pose systemic and non-systemic risks to public well-being. This research demonstrates that the most well-known manifestations of economic relations' digitization - digital currencies - have practically become an attribute of criminal economy at the current stage of social development. The object of the study is the digitalization of economic and financial relations concerning the means of payment and exchange, the subject of the study is digital currencies as the most widely known manifestation of the digitalization of economic and financial systems in the world today. The goal of the study is a theoretical analysis of digital currencies from the standpoint of their use for illegal and unlawful activities. The objectives fulfilled in the process of achieving this goal consist in analyzing statistical data and analytical reports,studying the opinions of Russian and foreign researchers in this area, and formulating scientifically grounded conclusions. The solution of the research problem required grouping different types of unlawful and illegal activities by main areas of their manifestation and monitoring the circulation of digital currencies in these segments. As a result of their theoretical research, the authors concluded that digital currencies belong to illegal activities in the general volume of trade, and stimulate the development of an informal economy; they also assessed the current situation in Russia in the sphere of circulation and payment.",
+    "source": "RUSSIAN JOURNAL OF CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

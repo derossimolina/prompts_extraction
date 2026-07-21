@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1687-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Toward a new model of money laundering: Is the “placement, layering, integration” model obsolete?",
+    "authors": "Cassella S.D.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-09-2017-0045",
+    "abstract": "Purpose: The criminal money laundering statutes grew out of the experience drug investigators had in tracking the proceeds of illegal drug transactions. Frequently, the cash was disguised as legitimate proceeds or hidden in a way that concealed the true owner and was then moved into the legitimate stream of commerce or returned to the country where the drugs originated to keep the scheme going. This led to training investigators to believe that money laundering always occurred in three stages: placement, layering and integration. That model, however, has little application to most money laundering scenarios, including those that involve funds already in electronic form when the laundering process begins. This paper aims to take a broader look at money laundering and suggests an accordingly broader approach to identifying money laundering transactions. Design/methodology/approach: A review of the origins of the current paradigm. Findings: The current paradigm is obsolete. Originality/value: A broader approach to training is needed. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0552-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Business process prioritization criteria: a case study in the financial market",
+    "authors": "Santos R.P.; Salgado T.M.; Pereira V.R.",
+    "year": "2022",
+    "doi": "10.1108/RAUSP-07-2020-0155",
+    "abstract": "Purpose: This paper aims to analyze and examine how an organization from the financial sector prioritizes its business processes and what criteria are adopted to select the most appropriate process for improvement projects. Design/methodology/approach: This descriptive research is based on an exploratory approach. Qualitative methodology was applied to a case study through on-site observation, documentation analysis and semi-structured interviews. Findings: The results confirm criteria mentioned in the literature, such as financial aspects and strategic impacts, but also raised a new critical issue: automation potential of manual processes, reflecting the current movement of process automation. Research limitations/implications: As a limitation of this study, it is worth mentioning the application in only one organization in the financial market and the small number of respondents, even though they occupy leadership positions in the organization. Practical implications: As a practical implication, the present work offers a direction for managers of the financial sector in structuring and applying models for prioritizing processes aimed at organizational efficiency. Social implications: Automation solutions for process improvement need careful study to minimize impacts in human resources reduction. In this sense, the eligibility of a process for automation must be carefully considered. Originality/value: This paper presents the evolution of the process prioritization model adopted by a large institution in the financial market, which has a significant presence in the Brazilian and international markets as a commercial and wholesale bank. © 2021, Robson Porfírio dos Santos, Thaiane Martins Salgado and Veridiana Rotondaro Pereira and Veridiana Rotondaro Pereira.",
+    "source": "RAUSP Management Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

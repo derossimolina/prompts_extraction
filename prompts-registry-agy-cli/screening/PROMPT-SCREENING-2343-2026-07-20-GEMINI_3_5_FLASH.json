@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2343-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Panama: reasons for the popularity of private interest foundations",
+    "authors": "Jerjen, E",
+    "year": "2009",
+    "doi": "10.1093/tandt/ttp046",
+    "abstract": "This article describes how and why Panama, despite the global financial crisis, is still prospering. It has a flexible and investor-friendly legislation and continues to use the territorial concept of taxation. Yet, Panama is one of the most regulated financial centres in today's offshore world and the country remains firm towards crimes such as money laundering and terrorism financing. Furthermore, with respect to taxation, the Republic of Panama underlined in its Statement to the OECD dated March 25 2009 that it is not a tax haven and that it is only under definite circumstances committed to actively participate in bilateral and multilateral forums regarding international taxation agendas. All this together makes Panama probably one of the most popular offshore jurisdictions, which will further enhance the popularity of the Panama Interest Foundation.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

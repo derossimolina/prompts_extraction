@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2229-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Elective Mortgage Prepayment: Termination and Curtailment",
+    "authors": "Chinloy P.",
+    "year": "1993",
+    "doi": "10.1111/1540-6229.00613",
+    "abstract": "Mortgage‐prepayment risk underlies the structuring of mortgage‐backed derivative securities, such as tranched real estate mortgage investment conduits. This prepayment comes either from mortgage termination or from curtailment, where the borrower retains the existing mortgage and prepays a portion. There are differences in cash flows from the two types of prepayment. In termination, the loan disappears from a pool, and the scheduled payment to investors in the pool is reduced. In curtailment, the loan survives, and the scheduled payment is unchanged but the term is reduced. There are implications for structuring mortgages and derivative securities. The prepayment decision is embedded in an in‐tertemporal household utility maximization framework where choices are made between refinancing, making the regular payment, default or curtailment. Empirical results are presented for Government National Mortgage Association (GNMA) pools, and an algorithm is presented that separates the termination and curtailment components, facilitating the development of derivative securities. Copyright © 1993, Wiley Blackwell. All rights reserved",
+    "source": "Real Estate Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

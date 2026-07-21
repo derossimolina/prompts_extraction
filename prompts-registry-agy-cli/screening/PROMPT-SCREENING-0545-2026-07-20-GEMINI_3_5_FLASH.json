@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0545-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combating the crimes of money laundering and terrorism financing in Nigeria: a legal approach for combating the menace",
+    "authors": "Olujobi O.J.; Yebisi E.T.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-12-2021-0143",
+    "abstract": "Purpose: This study aims to investigate the Federal Government’s failure to combat money laundering and terrorism financing and the various hurdles to enforce the Money Laundering (Prohibition) Act, 2012 (as amended), effectively, which prohibits illegal earnings criminally induced investments in and out of Nigeria. This has had an impact on the country’s economic potential and its image in the international community. Despite many anti-corruption laws criminalising money laundering and terrorism financing, it is rated among the nations with the highest poverty index despite its immense natural resources. Design/methodology/approach: This study uses a conceptual legal method to help a doctrinal library-based investigation by using existing material. This study also makes use of main and secondary legislation, such as the Constitution, the Money Laundering (Prohibition) (Amended) Act 2012 and the Terrorism (Prevention) Act 2013 (as amended), as well as case law, international conventions, textbooks and peer-reviewed publications. A comparison of anti-money laundering legislation in Canada, the UK, Hong Kong, China and Nigeria was conducted, with lessons learned for Nigeria’s anti-money laundering and anti-terrorism financing laws. According to the findings, the Act is silent on the criminal use of legitimate earnings to fund terrorism and cultism. Findings: There is no well-defined legal framework for asset recovery and confiscation. In Nigeria’s legal system, this evident void must be addressed immediately. To supplement existing efforts to prevent money laundering, the research develops a hybrid model that incorporates the inputs of government representatives and civil society organisations. This study suggests a complete revision of the Act to eliminate ambiguity and focus on the goals of global anti-money laundering and anti-terrorist funding restrictions. Research limitations/implications: One of the limitations of this study is the paucity of literature and data on money laundering and terrorist financing in Nigeria due to the secrecy around the crimes, which do not give room for the collection of statistical data and due to the transactional nature of the crimes. This is not to submit that no attempts have been made in the past or recent times to quantify the global value of money laundering and its effects on Nigeria’s economy. Such attempts have been inconclusive and inaccurate. Practical implications: The dearth of records on the magnitude of money laundering in Nigeria has limited generalising the research findings due to the limited access to some required information. However, this study is suitable for adoption in other sectors of the economy in dealing with clandestineness in money laundering and terrorism financing. Future researchers are commended to use the quantitative assessment method to appraise the effects of money laundering and terrorist financing laws and policies in Africa to supplement the current literature in the field. Originality/value: The research develops a hybrid model that incorporates the inputs of government representatives and civil society organisations. This study suggests a complete revision of the Act to eliminate ambiguity and focus on the goals of global anti-money laundering and anti-terrorist funding restrictions. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

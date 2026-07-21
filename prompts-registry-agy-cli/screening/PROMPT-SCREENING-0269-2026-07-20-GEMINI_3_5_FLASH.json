@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0269-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fraud in the Digital Space: A Comparative Study of Jinayah Fiqh and Indonesian Criminal Law",
+    "authors": "Ahyani H.; Parhan; Muhtolib; Berizi A.; Nurhasana; Adnan N.I.M.",
+    "year": "2025",
+    "doi": "10.28918/jhi.v23i1.02",
+    "abstract": "The development of digital technology has opened the door to various forms of digital crime, including schemes involving fictitious job offers, illegal crypto investments and fake refunds that financially harm victims and potentially lead to money laundering offenses. This article examines digital fraud in Indonesia by comparing Islamic criminal law (Fiqh Jinayah) with Indonesian positive law. This normative juridical research employs statutory, conceptual, comparative, and case study approaches. The findings reveal that the “Remote Mining Network” case illustrates how perpetrators exploit digital anonymity to evade legal oversight. Such practices violate Islamic legal norms, including the prohibitions against gharar (uncertainty) and tadlis (deception), which align with the elements of fraud as defined in the Indonesian Penal Code and the Law on Electronic Information and Transactions. The article concludes that both Islamic and national criminal law aim to protect public interests and individual property rights (hifz al-mal). This study contributes to the development of contemporary fiqh jinayah, while also supporting efforts to enhance legal literacy and protect Muslim communities from the risks of digital crime, in accordance with the principle of hifz al-mal within the framework of maqaṣid al-shari‘ah © 2025, Faculty of Sharia, Universitas Islam Negeri K.H. Abdurrahman Wahid Pekalongan. All rights reserved.",
+    "source": "Jurnal Hukum Islam"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

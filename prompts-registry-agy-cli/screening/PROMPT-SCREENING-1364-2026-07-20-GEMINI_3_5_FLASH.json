@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1364-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mapping hawala risks around the world: the use of a composite indicator",
+    "authors": "Han C.R.; Leeuw B.; Nelen H.",
+    "year": "2022",
+    "doi": "10.1080/17440572.2022.2098120",
+    "abstract": "The aim of this study is to map the landscape of risk faced by each country with respect to the presence and prosperity of informal fund transfer (IFT) systems. This study constructed a composite indicator to assess IFT risks of the 121 countries. The IFT risk that this study intended to gauge is not crime risk(s) that IFT systems cause but risk that IFT systems operate and prosper in given countries. The IFT risk indicator was developed with eleven variables extracted from public domain datasets regarding migration, access to formal financial institutions, AML/CFT measures, and societal attitudes towards informality. Routine activity theory was used to derive the factors associated with IFT risk. This study found that the level of IFT risk is associated with their levels of economic development. The main advantage of the IFT risk indicator is that it can gauge ‘nuanced’ differences in IFT risks among countries. © 2022 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0961-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-Money Laundering Regulation and Practice of Islamic Banks in the United Arab Emirates: A Case Study",
+    "authors": "Kumar A.",
+    "year": "2020",
+    "doi": "10.1515/ldr-2020-0048",
+    "abstract": "Banks are key institutions in the economic development of a country, but they are prone to money laundering (ML) as well. Such incidents could lead to sanctions and loss of reputation. To mitigate such risks, banks are required to follow Anti-Money Laundering (AML) regulations. Presently, there are no separate or specific AML regulatory requirements for Islamic banks (IBs). Apart from regulations, understanding practices also help explicate compliance to laws (spirit), by those who apply it. Since the AML practices of IBs have not been systematically analysed, we look at their practices (the United Arab Emirates) to understand whether they have adopted specific AML processes. Owing to the lack of literature on such practices, a survey was carried out using a standard questionnaire. The questionnaire was supplied to the AML/compliance departments, and the results are based on a sample size of three banks. The survey results show that the IBs adopt Know Your Customer (KYC) and Customer Due Diligence (CDD) to check laundering. Crucially, questions pertaining to the AML risk arising from the potential vested interest/s (theoretical) that the IBs themselves are likely to have in the venture remain unanswered. © 2020 De Gruyter. All rights reserved.",
+    "source": "Law and Development Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

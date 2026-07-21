@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2570-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Effect of BIM application maturity on relational norms in construction projects: mediating role of transaction characteristics",
+    "authors": "Hua, YY; Kang, ML; Guo, WQ; Zhang, SJ",
+    "year": "2026",
+    "doi": "10.1108/ECAM-03-2025-0500",
+    "abstract": "Purpose The integration of Building Information Modeling (BIM) exerts a significant transformation on collaborative paradigms among project stakeholders, manifested through both formal contract and informal relational norms. Specifically, while conventional contract designs exhibit rigidity in structuring participant roles and responsibilities, relational norms demonstrate greater adaptability in BIM-enabled environments. Therefore, this study proposes how BIM application maturity impacts the three dimensions of relational norms, advancing knowledge about the antecedent influences on relational norms.Design/methodology/approach This study establishes a theoretical framework to investigate how BIM application maturity influences three relational norm dimensions (information exchange, solidarity, flexibility) through transaction characteristics (task interdependence and quality performance ambiguity). To validate the framework, this study collected 180 valid questionnaires from relevant practitioners in the construction industry in China and analyzed the direct effects and mediated effects by adopting the PLS-SEM method.Findings BIM application maturity has a significant positive effect on the three dimensions of relational norms (information exchange, solidarity, flexibility). BIM application maturity enhances information exchange by heightening task interdependence and reducing quality performance ambiguity, but only task interdependence mediates its effects on solidarity and flexibility.Originality/value This study integrates technical factors as endogenous variables within relational exchange theory. It bridges the theory's sociological foundations with construction digitalization realities, offering a novel lens to explain how socio-technical systems co-evolve relational governance paradigms. The findings equip practitioners with actionable insights to strategically deploy BIM for optimizing task structures that foster reciprocity, thereby contributing to the formation of good relational norms and enriching research on relationship governance.",
+    "source": "ENGINEERING CONSTRUCTION AND ARCHITECTURAL MANAGEMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

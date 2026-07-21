@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0714-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering obligations and dismissal of bankers: evidence from Malaysia",
+    "authors": "A. Rahman A.; Abdul Wahab H.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-06-2021-0062",
+    "abstract": "Purpose: This paper aims to analyse the anti-money laundering (AML) obligations imposed on bankers as the main reporting entities under the AML regime in Malaysia. Apart from discussing the relevant provisions, several court cases were also examined to identify the problems which arise in the implementation of the law and the risk of dismissal that bankers may face. Design/methodology/approach: This paper mainly relies on statutes and court cases as its primary sources of information. It is supported by secondary data to justify the analysis. This paper also uses an analytical descriptive approach to analyse relevant provisions from statutes and to examine current court cases regarding the implementation of the AML obligations on bankers. Findings: It is submitted that the AML legislation imposes a significant burden of reporting requirements on the bankers, failure of which may justify the dismissal or termination of their services. In other words, the law has not only altered the way bankers deal with their customers but also poses substantial legal risks to their security of tenure. Indeed, getting the right balance between the need to combat money laundering and the interests of bankers is a difficult exercise. Originality/value: This paper provides an analysis of the liability of bankers under Malaysian AML laws. It is hoped that the content of this paper can provide some insight into this particular area for bankers, enforcement authorities, practitioners, academics, policymakers and legal advisers, not only in Malaysia but also elsewhere. The findings of this paper also highlight the risks that bankers may face for non-compliance with the reporting obligations under the AML laws. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

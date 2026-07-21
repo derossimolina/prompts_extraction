@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1506-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Understanding science and technology information users through transaction log analysis",
+    "authors": "Park M.; Lee T.",
+    "year": "2013",
+    "doi": "10.1108/07378831311303976",
+    "abstract": "This study seeks to provide insight into user interaction with a webbased information system of science and technology, as extending the largescale research of search queries. Ultimately, this study aims to gain knowledge of user behavior in order to improve the IR system for the users. The paper quantitatively analyzed queries submitted to a webbased IR system in science and technology. The data were collected in a full oneyear period beginning on Friday, 1 January 2010 through on Friday, 31 December 2010. More than 7,240,000 queries and 20,700,000 records were quantitatively analyzed in this period for this study. In general, queries themselves tend to be short and simple (1.4 terms) for the webbased IR system in science and technology. This indicates that users tend to invest a minimum of effort (cognitive and physical) and time in structuring their information needs to look for information on the system. However, user sessions on the IR system are longer (8.2 queries) than on web search engines. Most search sessions last less than 30 minutes with a mean of 24 minutes and 15 seconds, a minimum of one second, a maximum of ten hours, and a mode of ten seconds. Regarding the topic trends in science and technology, Life Science ranked first in 2010. Environment ranked first and Life Science, 11th in 2009. The authors have presented a study which has characterized users' searching behaviors of an information system in science and technology over a full oneyear period, and suggested improvement issues in user interface and search functionality for the system. From this recent exploratory analysis, the authors believe that the user behavioral characteristics are valuable in monitoring the patterns and trends in use of an information system in the field of science and technology. © 2013, Emerald Group Publishing Limited",
+    "source": "Library Hi Tech"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

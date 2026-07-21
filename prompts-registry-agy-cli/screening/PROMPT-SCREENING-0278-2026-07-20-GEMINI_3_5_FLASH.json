@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0278-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal and regulatory challenges in addressing high-tech crimes in the banking sector: developing a cybersecurity risk assessment framework for Vietnam",
+    "authors": "Bui L.V.",
+    "year": "2026",
+    "doi": "10.1057/s41261-025-00302-0",
+    "abstract": "High-technology crime in the banking sector has become increasingly transnational, data-intensive, and regulation-sensitive, posing challenges that extend beyond technical detection to governance, compliance, and supervisory accountability. While much of the scholarly literature emphasizes machine learning and predictive accuracy, the supervisory value of risk frameworks in emerging markets lies in their ability to remain auditable, law-anchored, and governance-ready. This paper addresses that gap by developing a comprehensive cybersecurity and financial-crime risk-assessment framework tailored to Vietnam’s banking sector. The framework explicitly maps binding regulatory instruments including cybersecurity law, anti-money laundering and counter-terrorist financing (AML/CFT) provisions, and data-governance requirements into operational control criteria with article- and section-level traceability. Risk is systematically organized across three layers: threats and exposures, control systems, and consequences, ensuring both legal coherence and operational applicability. The methodology emphasizes transparency and reproducibility, relying exclusively on public sources such as codified texts, national and cross-border statistics, sectoral incident reporting, and well-documented case studies. Validation is implemented through a three-stage protocol: (i) a Delphi panel to establish expert consensus on domain weights and cutoffs; (ii) inter-rater reliability testing using standardized scenarios to measure scoring consistency; and (iii) sensitivity and stress testing to probe the robustness of results under perturbations of legal salience and corridor exposure. Supplementary case-based scoring of public incidents provides applied demonstrations, reinforcing the framework’s capacity to generate governance-grade insights without reliance on proprietary transaction data. The findings yield a supervision-grade instrument that makes error-cost asymmetries explicit, particularly the higher regulatory cost of false negatives (FN) compared to false positives (FP) in AML/CFT contexts while operationalizing statutory obligations for data localization, third-country transfers, and suspicious transaction reporting. By embedding corridor-specific oversight, explainability artifacts for reviewer workflows, and proportionality mechanisms anchored in public corridor intelligence, the framework equips both banks and regulators with a deployable tool for prioritizing remediation, harmonizing oversight documentation, and preparing for in-country validation within regulatory sandboxes. More broadly, it demonstrates a replicable pathway for emerging markets to align supervisory technology with global standards while preserving transparency, auditability, and contextual sensitivity. © The Author(s) 2026.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

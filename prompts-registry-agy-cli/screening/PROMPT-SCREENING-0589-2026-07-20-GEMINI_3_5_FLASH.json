@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0589-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FINANCIAL STATEMENT ANOMALY DETECTION BASED ON BENFORD LAW AND BENEISH MODEL: CASE OF A PUBLIC SECTOR HOSPITAL",
+    "authors": "Arslan Ü.; Tunca Çalıyurt K.; Bozkuş Kahyaoğlu S.",
+    "year": "2024",
+    "doi": "10.1080/07366981.2024.2312018",
+    "abstract": "Public financial management reforms played an important role in the restructuring of social institutions and organizations. Researchers examined the effects of the reform according to their expertise. However, the research has focused on the results and the effects of the results rather than focusing on the starting point of the actions of the main actors who are the source of knowledge. In our research, first of all, the social life world of a public hospital was schematized. The hospital information management system (HIS) data, where the main actor actions are recorded at the starting point of the information source, was accessed and the accuracy of these data was analyzed with Benford’s Law, which can be considered as data mining. There are two databases (subsystems) in the public hospital where sales revenues are tracked. These are HIS and uniform accounting system (UAS). The information produced in HIS consists of unstructured data. By structuring this data with accounting information, HIS financial statement variables were created. Logit analysis, which is considered one of the machine learning techniques, was performed using the HIS financial statement variables and the existing UAS financial statement variables Beneish Model. It was found that there is a statistically significant difference between HIS financial statements and UAS financial statements. It is argued that this difference can be eliminated by using accounting language (accounting coding system). © Copyright 2024 Taylor & Francis–All rights reserved.",
+    "source": "EDPACS"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

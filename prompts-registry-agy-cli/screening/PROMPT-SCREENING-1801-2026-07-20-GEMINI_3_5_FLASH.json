@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1801-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "SHARĪ ʿAH COMPLIANCE OF ISLAMIC CREDIT CARDS RECONSIDERED: A CASE STUDY OF MALAYSIA",
+    "authors": "Razak S.A.B.A.",
+    "year": "2015",
+    "doi": "10.12816/0021397",
+    "abstract": "Many structures have been proposed by Islamic banks in Malaysia for Islamic credit cards including murābaḥah (sale with mark-up), bayʿ al-ʿīnah (sale and immediate buy-back) and tawarruq (tripartite sale). However, recently, some Islamic financial institutions have employed the contracts of ijārah (leasing), ujrah (fee) and mushārakah mutanāqiṣah (diminishingpartnership) as an alternative for structuring Islamic credit cards. This paper aims to examine a new structure for an Islamic credit card offered by an Islamic bank in Malaysia using the contract of ujrah and kafālah bi al-ujr (guarantee with fee). This paper is qualitative in nature and employs a case study to examine the Sharīʿah issues arising from this structure. Based on the case study presented, the paper finds that the structure combines three contracts—namely, qard (loan), kafālah (guarantee) and ujr (fee). The Sharī'ah issues relate to the monthly management charges, cash withdrawal management charges and the combination of sale and loan contracts. It is observed that the actual monthly management charges (AMMCs) and actual cash withdrawal management charges (ACWMCs) are comparable to ribā al-qard since the bank imposes fees tied to the amount of outstanding balance. Meanwhile, the issue of combination of contracts arises as the product combines qard (non-exchange contract) with kafālah bi al-ujr (exchange contract) in one deal. This combination was prohibited by the Prophet (SAW) as it has been used as a method for circumventing the prohibibion of ribā (interest). This study proposes that the bank may retain the fixed monthly management charges (FMMCs) and fixed monthly cash withdrawal charges (FMCWCs), but it has to eliminate the AMMCs and ACWMCs as they amount to ribā. In order to resolve the controversial issue of combining exchange and non-exchange contracts, it is proposed that the contract of kafālah bi al-ujr be replaced with the concept of takāful (Islamic insurance). Thus, with some improvements and modifications required in the structure of the Islamic credit card examined, this paper looks into ways of maintaining the Sharī'ah compliance of the product. © 2015, International Shari’ah Research Academy for Islamic Finance (ISRA). All rights reserved.",
+    "source": "ISRA International Journal of Islamic Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

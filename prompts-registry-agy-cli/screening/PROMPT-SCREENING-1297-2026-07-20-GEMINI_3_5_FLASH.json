@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1297-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrencies and Fraudulent Transactions: Risks, Practices, and Legislation for Their Prevention in Europe and Spain",
+    "authors": "Sanz-Bas D.; del Rosal C.; Náñez Alonso S.L.; Echarte Fernández M.Á.",
+    "year": "2021",
+    "doi": "10.3390/laws10030057",
+    "abstract": "Cryptocurrencies have been developing very rapidly in recent years, and their use is becoming more and more widespread in different areas. The use of digital currencies for legal uses is advancing along with technological development, but, at the same time, criminal activities are also emerging to take advantage of this boom. The aim of this paper has been, first, to analyze the various ways in which individuals and criminal organizations have taken advantage of the phenomenon of cryptocurrencies to carry out fraudulent activities such as laundering money of illicit origin and, second, to provide an overview of the legal tools that have been developed in this regard in Europe and, more specifically, in Spain to combat these activities. Undoubtedly, cryptocurrencies bring great benefits to the economy, but it is also necessary to know the risks and abuses that have been developed to prevent them. © 2021 by the authors.",
+    "source": "Laws"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

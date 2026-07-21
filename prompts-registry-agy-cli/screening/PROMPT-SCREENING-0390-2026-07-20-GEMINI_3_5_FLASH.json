@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0390-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Challenges of blockchain application in the financial sector: a qualitative study",
+    "authors": "Banerjee S.S.; Chandani A.",
+    "year": "2025",
+    "doi": "10.1108/JEAS-10-2021-0200",
+    "abstract": "Purpose: The novel blockchain technology can be leveraged, owing to the growth in computing power and its widespread applications. This study aims to understand the challenges of adopting blockchain technology in the financial sector, organise them into a model and classify them for systematic address. Design/methodology/approach: Interpretive Structural Modeling (ISM) has been carried out along with MICMAC (Matrice d’impacts croisés multiplication appliquée á un classment) analysis to hierarchically structure blockchain adoption problems and categorise the challenges into four classes-autonomous, dependent, linkage and independent for better addressing. The study also uses content analysis using NVivo software. Findings: The digraph depicts the hierarchical challenge model. Vulnerability to financial crimes and glitches, privacy issues and geopolitical tensions due to cross-border transactions are the dependent variables. Complex architecture to comprehend, code and fix, the need for new financial intermediaries, complexity in auditing and the lack of unified governance and coordination among institutions and regulators are the independent variables. The digraph, which is also justified by the qualitative content analysis, is beneficial for stakeholders to systematically address the interdependent challenges associated with blockchain implementations in finance to foster its favourable adoption. Practical implications: The challenges in the adoption of blockchain should be resolved to allow the implementation of this technology in various finance domains. This study enables organisations to carry out resource planning and systematically address these challenges to leverage the advantages of blockchain. Social implications: The results of the present study can help in promoting the proliferation of blockchain for faster, cost-effective, transparent and secure financial transactions and foster innovative and new business models for economic growth. Originality/value: The development of technology has brought about significant changes in the financial sector. Blockchain is a technological advancement that aims to bring security and transparency to transactions. There has been no research leveraging ISM-MICMAC to hierarchically organise and classify the blockchain challenges in the financial sector, a critical one. The research also uses content analysis which is seldom found along with ISM-MICMAC. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Economic and Administrative Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

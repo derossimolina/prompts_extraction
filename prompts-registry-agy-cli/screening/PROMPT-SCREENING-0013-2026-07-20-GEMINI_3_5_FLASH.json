@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0013-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The effect of board of directors’ characteristics on anti-money laundering: Evidence from banks sector",
+    "authors": "Elhefni A.H.M.; Alnor N.H.A.; Al-Matari E.M.; Mohammed O.A.A.; Ahmed A.",
+    "year": "2024",
+    "doi": "10.18488/11.v13i4.3921",
+    "abstract": "This study aims to investigate how board composition affects banks' efforts to combat money laundering. It was an applied research study using a descriptive and correlational design. All banks operate in the Arab world. We used screening procedures to select a sample of banks. The findings indicate the inclusion of board members with expertise in compliance, law, or finance has a favorable effect on financial institutions' AML initiatives. Board members who have experience in the financial sector or who have specific knowledge of anti-money laundering laws improve the results of anti-money laundering efforts, thereby avoiding fines for their companies. The Board of Director’s knowledge of anti-money laundering legislation, its ability to ensure the bank’s adherence to national and international anti-money laundering laws, and its flexibility in responding to regulatory modifications positively impact the commitment to anti-money laundering. The Board of Directors is the controller of the institution and therefore has the main role in combating money laundering. A board of directors committed to combating money laundering keeps the entire organization compliant and avoids the risks of money laundering. © 2024 Conscientia Beam. All Rights Reserved.",
+    "source": "International Journal of Management and Sustainability"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

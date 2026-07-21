@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1108-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Using quantitative methods to identify security and unusual business operations",
+    "authors": "Korauš A.; Gombár M.; Kelemen P.; Backa S.",
+    "year": "2019",
+    "doi": "10.9770/jesi.2019.6.3(3)",
+    "abstract": "Financial institutions are the first vertical level in the fight against money laundering and to improve security. Therefore, it is essential that tools are available to enable effective detection and analysis of suspicious transactions, or unusual business operations. These, in line with the legislative requirements, report to responsible entities-FIUs representing the second vertical plane in the fight against money laundering. However, special software tools are available for obligated persons, especially for financial institutions that carry out tens of millions of financial transactions a day. These can trigger the alert to most unusual operations. The software automatically creates customer profiles, including expected behavior and executed transactions. Using advanced statistical analyses, it identifies unusual business operations, i.e. financial transactions significantly different from those carried out in the past. It is very useful to apply software support in form of electronic detection of indicators of legalization of crime proceeds. However, the output of such support software requires a more detailed and demanding investigation of the nature of operation and is based on the use of special algorithms based on mathematical and statistical methods. The software builds on the results of scientific research. © 2019 by author(s) and VsI Entrepreneurship and Sustainability Center.",
+    "source": "Entrepreneurship and Sustainability Issues"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

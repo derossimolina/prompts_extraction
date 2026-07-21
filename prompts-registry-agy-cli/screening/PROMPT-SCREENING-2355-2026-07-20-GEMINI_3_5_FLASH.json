@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2355-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Law Effects To The Restrictions Imposed To The Use Of Cash And Precious Metals In Real Estate Transactions In Mexico",
+    "authors": "Vega, DP; Cañizalez, RR; Camino, BG",
+    "year": "2020",
+    "doi": "10.15174/cj.v9i18.351",
+    "abstract": "The main objective of this article, is to infer the legal consequence, in Civil Law, to the infractions against the prohibition imposed by the anti-money laundering law, in terms of payments. In order to achieve this, a critical analysis is done to some of the legal dispositions that prevent and sanction money laundering, in particular, those present in the Federal Law for the Prevention and Identification of Operations with Resources with an Illegal Origin. From that analysis, a dissertation is elaborated about the legal status of real estate transactions, payed in amounts that exceed those permitted by the law. It is concluded, that this hyper prohibitionist scheme, leaves as a result, many situations in which legal uncertainty is the main characteristic, for those people that don't belong to the prototype of subject that the law is targeted to.",
+    "source": "CIENCIA JURIDICA"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

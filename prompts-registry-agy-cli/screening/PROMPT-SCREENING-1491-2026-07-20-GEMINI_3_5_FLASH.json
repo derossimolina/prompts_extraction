@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1491-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Laundering cash, whitewashing reputations",
+    "authors": "Cooley A.; Heathershaw J.; Sharman J.C.",
+    "year": "2018",
+    "doi": "10.1353/jod.2018.0003",
+    "abstract": "A growing body of analysis has explored how kleptocrats systematically capture and loot their domestic state institutions, but scholars and policy makers have paid less attention to how globalization enables grand corruption, as well as the laundering of kleptocrats’ finances and reputations. Shell companies and new forms of international investment, such as luxury real-estate purchases, serve to launder the ill-gotten gains of kleptocrats and disimbed them from their country of origin. Critically, this normalization of “everyday kleptocracy” depends heavily on transnational professional intermediaries: Western public-relations agents, lobbyists and lawyers help to recast kleptocrats as internationally respected businesspeople and philanthropic cosmopolitans. The resulting web of relationships makes up a “transnational uncivil society,” which bends global-governance institutions to work in its favor. © 2018 National Endowment for Democracy and Johns Hopkins University Press.",
+    "source": "Journal of Democracy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

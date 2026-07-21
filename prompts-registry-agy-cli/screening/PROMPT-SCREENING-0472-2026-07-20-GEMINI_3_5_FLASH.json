@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0472-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An Analysis of the use of Cyberspace to Perpetrate Crime in the Financial Sector amid the COVID-19 Pandemic",
+    "authors": "Odeku K.O.; Mashiane K.",
+    "year": "2024",
+    "doi": "10.31920/2516-2713/2024/7n3a6",
+    "abstract": "The Coronavirus Disease (COVID-19) is a contagious virus that spreads across the globe and originated in Wuhan, China. The rapid transmission of COVID-19 led the World Health Organisation (WHO) to declare it a pandemic on March 11, 2020. The impact of the COVID-19 pandemic extended beyond health, leading to lockdowns, travel restrictions, and social distancing. As a result, the financial sector, particularly the banking and insurance industries, experienced significant disruptions. With physical services suspended, employees were compelled to work remotely, utilising cyberspace to deliver services to customers and clients. While cybercrimes were prevalent before COVID-19, the COVID-19 pandemic created an opportunity for cybercriminals to take advantage of weaknesses in the online environment to commit financial crimes. The paper examines the various illicit operations carried out via online transactions during the COVID-19 outbreak, focusing only on financial sectors such as banks and insurance. The study aims to identify trends and patterns in cybercrimes targeting the financial sector and provide insight for policymakers to combat and protect the financial sector from future threats. The research study utilises qualitative research methodology, where relevant scholarly works were hugely sourced from Google Scholar search engine, legal articles, and books. The paper also looks at the various solutions, measures, and interventions implemented by the industry to address and counter illegal activities. As the financial sector navigates this new landscape, robust cybersecurity measures must be adopted to protect against evolving cyber threats and ensure financial stability. © 2024 Adonis and Abbey Publishers Ltd. All rights reserved.",
+    "source": "Journal of African Films and Diaspora Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

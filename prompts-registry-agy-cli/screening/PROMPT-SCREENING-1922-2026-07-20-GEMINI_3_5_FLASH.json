@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1922-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The money laundering risk posed by low&hyphen;risk financial products in South Africa: Findings and guidelines",
+    "authors": "de Koker L.",
+    "year": "2009",
+    "doi": "10.1108/13685200910996038",
+    "abstract": "PurposeThe purpose of this paper is to investigate the level and nature of criminal abuse of financial products that are classified as posing a low anti&hyphen;money laundering&sol;combating of financing of terrorists &lpar;AML&sol;CFT&rpar; risk in South Africa to determine the effectiveness of the simplified due diligence measures that apply to these products. Design&sol;methodology&sol;approachThe paper presents empirical research on the views of bank officials and law enforcement officials regarding the criminal abuse of South African financial products that are subject to simplified customer due diligence controls. FindingsSouth Africa's AML&sol;CFT laws allow certain deposit&hyphen;taking institutions and money remitters to implement simplified customer due diligence measures in relation to specific low&hyphen;risk products that are mainly designed to allow previously unbanked persons to access financial services. The paper finds that the products have been abused by criminals but that the incidence of such abuse and the amounts involved are low. The paper investigates possible weaknesses in the current system that allow limited criminal abuse to occur. It concludes with a number of guidelines that emerge from the study and are of value to regulators that wish to implement a similar system. Originality&sol;valueThe South African AML&sol;CFT scheme in relation to low&hyphen;risk products is of interest to many international regulators that are grappling with the interplay between effective AML&sol;CFT controls and the impact of strict controls on the ability of socially and economically excluded persons to access appropriate financial services. This paper provides evidence that appropriately designed controls can facilitate financial inclusion while limiting the risk of criminal abuse. © 2009, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

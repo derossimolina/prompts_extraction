@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2514-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "State ownership and the structuring of lease arrangements",
+    "authors": "Zhang, SS; Liu, C",
+    "year": "2020",
+    "doi": "10.1016/j.jcorpfin.2020.101597",
+    "abstract": "The existing literature provides extensive evidence that firms intentionally structured lease arrangements to achieve off-balance-sheet accounting treatment prior to ASU 842 (FASB, 2016) and IFRS 16 (IASB, 2016). However, this study finds the opposite for Chinese state-owned enterprises (SOEs): compared to non-SOEs, SOEs in China have a higher tendency to use finance leases rather than operating leases. This result remains significant after we control for the possibility that Chinese capital providers are discriminatively extending credit to SOEs in the form of finance leases. We explain SOEs' preference for finance leases by their executives' empire building incentives. Such incentives are created by the executives' hunger for compensation, promotion and subsidies, which are determined by the government. Consistently, we find that SOEs' engagement in finance leases increases with their incentives to expand the firms' size. And indeed, SOE executives obtain more compensation and subsidies by growing their firms with finance leases. Finally, we find that SOEs with higher borrowing costs structure more finance lease arrangements. Such structuring further increases SOEs' financial leverage and, to some extent, decreases their corporate value. Taken together, these results suggest that the benefit of the ASU 842 (or IFRS 16), which aims to bring leased assets onto the balance sheet, may be impaired in situations where executives have strong incentives to build empires.",
+    "source": "JOURNAL OF CORPORATE FINANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

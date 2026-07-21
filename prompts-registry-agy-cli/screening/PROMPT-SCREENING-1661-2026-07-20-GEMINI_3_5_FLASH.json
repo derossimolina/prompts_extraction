@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1661-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The viability of enforcement mechanisms under money laundering and anti&hyphen;terrorism offences in Malaysia: An overview",
+    "authors": "Dhillon G.; Ahmad R.; Rahman A.; Yih Miin N.",
+    "year": "2013",
+    "doi": "10.1108/13685201311318511",
+    "abstract": "PurposeThe purpose of this paper is to give a better insight to the legal society, practitioners and legislators of the working mechanisms of money laundering activities, as well as the functionalities of the Anti&hyphen;Money Laundering and Anti&hyphen;terrorism Financing Act 2003 &lpar;AMLATFA&rpar; in Malaysia, in curbing money laundering and terrorism funding activities. At the same time, the paper provides an overview on the applicability and practicability of the enforcement mechanisms in Malaysia by exploring legislations from different jurisdictions that are more developed. Design&sol;methodology&sol;approachThe paper achieves this by having a cross&hyphen;sectional analysis onto the legislation in Malaysia such as AMLATFA and also similar legislations found in countries such as the UK. A complete insight is further gained by having interviews with experts in the judiciary, Bank Negara, as well as the experts from the Attorney General's Chamber in Malaysia regarding their insight into the subject matter. Last but not least, the authors also surveyed into the different points of view from journal articles in Malaysia and globally. FindingsMalaysia has a legal framework for curbing money laundering but the current AMLATFA provisions are considered to have failed to be effectively enforced. A more comprehensive, specific and well elaborated legal framework will have to be laid down in order to create a better platform for the prosecutors to bring a good case against these money launderers. Practical implicationsThis paper will give a deeper insight to the legal society of the capability of AMLATFA and the lack of it, in curbing money laundering in Malaysia and, at the same time, creating awareness among policy makers of the difficulties faced by the enforcement bureaus in prosecuting these money launderers due to the lacunas in the current law. Originality&sol;valueThis paper could be useful source of information for practitioners, academics, policymakers and students and a guide for any possible future amendments to the current insufficiency. © 2013, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

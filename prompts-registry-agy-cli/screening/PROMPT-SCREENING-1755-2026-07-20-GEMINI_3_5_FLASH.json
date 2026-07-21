@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1755-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Criminality in the field of banking fraud",
+    "authors": "Bică G.; Dragomiroiu G.",
+    "year": "2015",
+    "doi": "10.14505/jarle.v6.4(14).02",
+    "abstract": "The current period brought not only an accentuated globalization of markets and world economic and financial crisis, but additionally turned vulnerable the banking environment in the sense that, on the one hand, they made more difficult the access to money of the system, in search of financing funds and, on the other hand, have forced banks to harden more the loan conditions. Both categories of actors involved in the banking market-banks and customers fall prey of the financial crisis. Consequently, in a given context, the ways to circumvent the banking provisions are ahead for those in need of funds and, relatedly, for the heads or officials of banking entities interested in obtaining undeserved earnings by granting, based on commission, certain criminal acts, bank loans without legal compliance. Economic and financial criminality, by the extent of the damage and the number of losers, produces an obvious imbalance in society at large, with direct impact on the social climate of a country. The increase in the capital revenues resulted from extensive organized crime has led to increased need to recycle these funds, so they reached the alarming situation that the underworld leaders and operators involved in the money laundering could, in some countries of the world, control and influence important sectors of the national economy. Fraud in the finance and banking field is particularly complex both in terms of the necessary investigations to establish the truth and administration of the rules of evidence, namely restoring the previous situation by recovering all debts. It also should be noted here that the investigative difficulty thereof, lies in the fact that, most often, a bank fraud is masked by other types of financial transactions by interposing commercial companies often of the letterbox companies, curtain or screen type, or by means of compensation payments to commercial, professional or international financial entities, which requires good cooperation with structures of banking, administrative or foreign judicial investigations, something that remains, very often an elusive goal. Referring to fraud as a way of circumventing the bank, it is considered the amount of illegal actions and maneuvers carried out by bankers through banking entity that is directly prejudiced by clandestine transfer of some sources directly benefiting bankers or other persons. © 2015, ASERS Publishing House. All rights reserved.",
+    "source": "Journal of Advanced Research in Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

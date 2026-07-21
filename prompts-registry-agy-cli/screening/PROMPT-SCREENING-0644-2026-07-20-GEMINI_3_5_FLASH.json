@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0644-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Role of Extrinsic Motivation in Securing Actors' Compliance with the International Anti-Money Laundering/Counterterrorist Financing Regime",
+    "authors": "Alshamsi R.",
+    "year": "2023",
+    "doi": "10.1163/19426720-02903001",
+    "abstract": "The effectiveness of the Financial Action Task Force (FATF) international regime to govern anti-money laundering (AML) and counterterrorist financing (CTF) has been questioned since its establishment. In theory, the FATF's network of multilevel actors should protect the integrity of the international financial system. The empirical evidence in this article shows that the FATF has made a difference in ensuring states' (official) compliance with its measures, using extrinsic motivation tools; for example, ranking noncompliant states. However, it argues that such motivation only ensures actors' minimum compliance, meaning that the regime's effectiveness is suboptimal, while fostering intrinsic motivation would improve actors' performance. Therefore, it is essential to understand why actors comply with the FATF approach and how they could be persuaded to achieve better compliance so that the regime's effectiveness is feasible. This article explores these questions, using interviews with thirty practitioners in three locations, supported by a qualitative analysis of documentary data. © Reem Alshamsi, 2023.",
+    "source": "Global Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

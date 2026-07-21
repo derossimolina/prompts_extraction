@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0479-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "AI-Empowered Responsive Regulation for Preventing Future Crimes: An Empirical Inquiry into the Regulatory Pyramid to Combat Future Crimes in China and Southeast Asia",
+    "authors": "Sun J.; Gu S.; Su R.",
+    "year": "2026",
+    "doi": "10.1007/s11417-025-09477-x",
+    "abstract": "The rapid evolution of AI-enabled future crimes, including synthetic identity fraud, deepfake scams, and cryptocurrency-based money laundering, has exposed critical gaps in traditional regulatory frameworks. Yet, few studies have examined how multi-layered responsive policing strategies can protect potential victims of future crimes in China and Southeast Asia, where digital payment adoption is surging. This article fills this gap by empirically investigating AI-empowered responsive regulation, drawing on 30 in-depth interviews with frontline police officers and 12 senior digital experts from major digital platforms in China and Southeast Asia. Our study introduces a novel AI-empowered “regulatory pyramid” framework, synthesizing insights from law enforcement and private-sector cybersecurity innovations to combat modular, adaptive, and decentralized crime networks. The AI-empowered regulatory pyramid is a set of tech-driven responsive policing at three layers: (1) AI-empowered capacity building for protecting potential victims, (2) restorative community policing disrupting cyber money mule networks, and (3) incapacitative policing targeting cybercrime syndicates. Empirical evidence indicates all three levels of responsive policing have been observed and are available in China, but cyberfraud policing practices in Southeast Asia often focus on capacity building due to a lack of state capacity and resources, which explains why the strict policing enforcement in China led to the relocation of cyberfraud criminals from China to Southeast Asia and the rise of transnational future crimes. We also found that while escalating enforcement via AI-empowered strategies yields short-term deterrence in China, long-term resilience depends on poverty-alleviation-oriented capacity-building and cross-border police cooperation against transnational future crimes. © The Author(s) 2025.",
+    "source": "Asian Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

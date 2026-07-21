@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0546-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Impact of informal remittance channels in Bangladesh: Understanding the role of hundi in financial crime beyond economic aspects",
+    "authors": "Anima M.T.; Chandra Nath N.; Dalia S.D.",
+    "year": "2023",
+    "doi": "10.1016/j.jeconc.2023.100030",
+    "abstract": "Despite the existence of legal and regulated systems, a significant proportion of Bangladeshi immigrants choose to utilize informal channels for the purpose of transferring funds. This practice has the potential to result in macroeconomic ramifications for Bangladesh. The rise of Hundi in Bangladesh has emerged as a noteworthy economic issue in recent times, particularly owing to its detrimental impact on the nation's foreign reserve and its utilization as a conduit for money launderers to unlawfully move funds abroad. The primary objective of this research is to analyze the implications of Hundi as a means of facilitating illicit financial operations. This study utilizes a qualitative research approach and a purposive sample consisting of 16 hundi dealers, 23 customers, and 7 senior bank officials working in the banking intelligence sector to investigate the hundi system's role in money laundering, despite the difficulties in accessing influential hundi dealers involved in significant transactions. The findings underscore the adverse economic consequences of Hundi, as it bypasses formal channels, thereby failing to contribute to Bangladesh's foreign reserves. Furthermore, it points out the exploitation of Hundi as a means for money laundering, enabling the assimilation of illicit funds into the legitimate economy, and supporting unlawful endeavors such as overseas property acquisition. The recommendations put forth suggest the implementation of strategies to enhance digital transactions, the establishment of a dedicated remittance application, and the design of a user-friendly agent banking system within the formal banking sector. © 2023 The Authors",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

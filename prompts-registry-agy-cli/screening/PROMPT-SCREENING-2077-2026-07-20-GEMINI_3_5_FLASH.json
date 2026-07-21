@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2077-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From statistics to data management – the French difficulties",
+    "authors": "Malinvaud E.",
+    "year": "1983",
+    "doi": "10.3233/SJU-1983-1302",
+    "abstract": "Modern technology used in data processing has created a challenge to national statistical services. Two aspects are particularly noteworthy. Firstly, owing to the relative ease of producing data, economic and social information is generated increasingly outside statistical offices. With an accompanying need for new approaches to questions of data processing and consistency within the national information system. Secondly, the emergence of data banks render primary statistical information accessible to outside users; consequently, statistical offices have to reconsider such questions as production lags, the provision of assistance in data interpretation and confidentiality of data.The potentialities offered by new data processing facilities are as yet unmastered. New data sources have become available, particularly in the area of administrative information kept by public authorities outside the statistical system. This circumstance necessitates the finding of a new balance between the use of administrative files by statistical offices and statistical surveys. The requirement of adapting statistical services to an ‘industrial’ mode of data production implies the conversion of data bases into data banks with the corresponding supply of adequate meta-data information and the re-structuring of time-consuming processes used in the collection of primary data and the compilation of aggregate information.A second major task relates to the re-examination of the co-ordinate role of statistical offices. The objective of a consistent national information system can only be achieved if statistical offices are given the possibility to co-ordinate basic information effectively. Particular problems arise in exerting sufficient statistical influence on the definitional and other methodological underpinnings of administrative files as well as on their management. It has to be recognized in this task that such files are kept for specific purposes.While the confidentiality of nominal personal data has to be and will be preserved in statistical services, available social and economic information also has to be seen as public property. The provision of an integrated and transparent body of information is a challenge to society as a whole, for the mere availability of data has to be supplemented with the necessary tools that permit the structuring and understanding of information. © 1983 IOS Press. All rights Reserved.",
+    "source": "Statistical Journal of the United Nations Economic Commission for Europe"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

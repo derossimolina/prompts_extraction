@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2413-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Practice Briefing: Mergers and Acquisitions in real estate asset management (Part 2) - process design and execution",
+    "authors": "Wiegelmann, T; Glauerdt, R",
+    "year": "2025",
+    "doi": "10.1108/JPIF-04-2025-0053",
+    "abstract": "Purpose - The paper examines the execution phase of M&A transactions in the real estate asset management sector, building on Wiegelmann/Glauerdt (2025), which addressed strategic motivations, valuation, and transaction structuring. It focuses on core execution stages: preparation, marketing, due diligence, negotiation and closing, while also touching on post-merger integration from a process perspective. By outlining typical workflows, key deliverables and stakeholder dynamics, the paper offers a structured and practice-oriented framework for M&A process design and execution. Design/methodology/approach - The paper follows an expert opinion-based methodology, drawing on the experience of two seasoned practitioners: a managing director with over 20 years in investment banking, and a real estate professional with 25 years of sector experience, who co-founded a real estate investment and asset management boutique that was acquired by a listed global investment firm. The findings reflect direct transactional experience and best practices observed across multiple transactions. Findings - The paper outlines the essential execution levers that determine the outcome of M&A transactions in real estate asset management. It demonstrates that transaction success depends not only on technical preparation and due diligence discipline, but also equally on early alignment of expectations, the thoughtful design of process architecture, and proactive management of stakeholder complexity, including limited partners, regulators and internal governance bodies. Practical implications - The process design and execution considerations presented provide actionable guidance for corporate development teams, founders, investors and advisors involved in M&A execution in real estate asset management. Originality/value - The originality of this paper lies in its focus on M&A process design and execution. It shifts the lens from strategic intent to process delivery, contributing to a more professionalised and execution-aware approach in a sector where people, governance and continuity are key value drivers.",
+    "source": "JOURNAL OF PROPERTY INVESTMENT & FINANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

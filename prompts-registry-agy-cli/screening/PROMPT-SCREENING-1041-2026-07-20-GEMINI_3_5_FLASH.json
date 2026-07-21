@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1041-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Big data and risk management in business processes: implications for corporate real estate",
+    "authors": "Battisti E.; Shams S.M.R.; Sakka G.; Miglietta N.",
+    "year": "2020",
+    "doi": "10.1108/BPMJ-03-2019-0125",
+    "abstract": "Purpose: The purpose of this paper is to improve understanding of the integration between big data (BD) and risk management (RM) in business processes (BPs), with special reference to corporate real estate (CRE). Design/methodology/approach: This conceptual study follows, methodologically, the structuring inter-textual coherence process – specifically, the synthesised coherence tactical approach. It draws heavily on theoretical evidence published, mainly, in the corporate finance and the business management literature. Findings: A new conceptual framework is presented for CRE to proactively develop insights into the potential benefits of using BD as a business strategy/instrument. The approach was found to strengthen decision-making processes and encourage better RM – with significant consequences, in particular, for business process management (BPM). Specifically, by recognising the potential uses of BD, it is also possible to redefine the processes with advantages in terms of RM. Originality/value: This study contributes to the literature in the fields of real estate, RM, BPM and digital transformation. To the best knowledge of authors, although the literature has examined the concepts of BD, RM and BP, no prior studies have comprehensively examined these three elements and their conjoint contribution to CRE. In particular, the study highlights how the automation of data-intensive activities and the analysis of such data (in both structured and unstructured forms), as a means of supporting decision making, can lead to better efficiency in RM and optimisation of processes. © 2019, Emerald Publishing Limited.",
+    "source": "Business Process Management Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

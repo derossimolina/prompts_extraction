@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1754-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk of money laundering in the US: HSBC case study",
+    "authors": "Naheem M.A.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-01-2015-0003",
+    "abstract": "Purpose: This paper uses a case study approach using the Permanent Sub Committee on Investigations (PSI) report on HBUS to determine where gaps in anti-money laundering (AML) regulation and compliance are within the banking sector. Design/methodology/approach: The PSI highlighted five areas of serious weakness and fundamental flaws in the HBUS AML risk assessment. This paper examines the governance response that led to these weaknesses and applies a rationale decision-making theoretical framework to explain it. Findings: The report found that corporate culture and attitude at the governance level were key factors in the difficulties that HBUS faced. Research limitations/implications: This paper focuses on one case, albeit one of the largest banks in the global banking sector. Although generalisations are limited, the report does highlight areas to consider with all banks. Practical implications: The implications that are identified are aimed at banks and auditing firms that have to work alongside governance structure within banks. The role of internal audit is raised and has future implications for how risk assessment is undertaken and how AML compliance frameworks are devised and reported on. Social implications: A stronger social corporate responsibility attitude is suggested that considers the wider social impacts of supporting criminal transactions, even inadvertently, by inappropriate and under-resourced AML risk-assessment frameworks. Originality/value: The detailed analysis of one case that considers the governance response to AML regulation is new in this paper, and the detailed recommendations for improving and developing stronger AML risk-assessment frameworks apply to the banking, financial services and auditing professions. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

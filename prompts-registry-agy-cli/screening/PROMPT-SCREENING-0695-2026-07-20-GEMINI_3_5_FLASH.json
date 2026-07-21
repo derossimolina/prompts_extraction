@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0695-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Resourcing, sensemaking and legitimizing: blockchain technology-enhanced market practices",
+    "authors": "Russo-Spena T.; Mele C.; Pels J.",
+    "year": "2023",
+    "doi": "10.1108/JBIM-09-2021-0452",
+    "abstract": "Purpose: This paper aims to focus on how the use of new technologies disrupts markets. To date, marketing literature has lacked studies investigating the link between market practices and new technologies. The study adopts the blockchain technology (BcT) context to elicit novel technology-enhanced market practices. Design/methodology/approach: The authors adopt a qualitative multimethod research design to engage in interpretative theorizing. They investigated 77 companies and used the Gioia method for the data coding and analysis. Findings: The study of the adoption of blockchain prompts three technology-enhanced market practices. The latter offers new ways of resourcing by removing constraints and expanding actors’ network and knowledge to integrate resources; sensemaking by expressing new language and assigning novel meaning to represent markets; and legitimizing, by structuring new rules and trusting new mechanisms to institutionalize markets. Research limitations/implications: The technology-enhanced market practices are distinct from extant market practices as well as related, thus, enriching and complementing them. Therefore, this work expands the understanding of the mechanisms of how markets work. Originality/value: This study is the first, to the best of the authors’ knowledge, to focus on how BcT features affect market practices. BcT market practices entail how actors perform, share and interpret symbols and objects and set rules for how markets should work. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Business and Industrial Marketing"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

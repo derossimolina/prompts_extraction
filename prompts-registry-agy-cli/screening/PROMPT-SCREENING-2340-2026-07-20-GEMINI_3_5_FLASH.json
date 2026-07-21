@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2340-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The inter-institutional governance of money laundering: an in-depth look at Chile following re-democratisation",
+    "authors": "Solar, C",
+    "year": "2015",
+    "doi": "10.1080/17440572.2015.1078241",
+    "abstract": "Chile began its re-democratisation process in 1990 with a profound lack of counter-money laundering standards. Over time, the nascent political order was compelled to build institutions and generate norms in light of the security principles promoted by foreign actors. However, Chile's reluctance, for instance, to not create a financial intelligence unit (FIU) until 2003, put the country in a particular stance for assessing criminal proceedings. This article reviews the construction of Chile's governance of money laundering and focuses specifically on the role played by the Unidad de Analisis Financiero (UAF, Chile's FIU) in maximising inter-institutional governing relations. The paper reviews three periods of time: the institutionalisation era (1990-2002), the UAF's formative years (2003-2008) and the policy-building phase (2009-2014). The research concludes by exploring how Chile's case adds to our qualitative knowledge on democratic network governance.",
+    "source": "GLOBAL CRIME"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

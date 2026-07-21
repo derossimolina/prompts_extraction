@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2076-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Critical view of the French's legal framework to fight money laundering: The obligations of monitoring and reporting of chartered accountants and statutory auditors; [Regards critiques sur le dispositif de lutte contre le blanchiment de capitaux : Les obligations de vigilance et de déclaration des professionnels de l'expertise comptable et du commissariataux comptes]",
+    "authors": "André C.",
+    "year": "2011",
+    "doi": "10.3917/ride.245.0075",
+    "abstract": "The French legal framework set forth to fi ght money laundering and the fi nancing of terrorism has undergone substantial changes over the past year with the objective to be more effi cient. The professionals legally bounded to monitor and report suspected fi nancial transactions is growing every year and will certainly increase in the years to come. At the same time, the ordinance 2009-104 of January 30th 2009 set forth policies aiming at protecting the global fi nancial system against money laundering and the fi nancing of terrorism. This ordinance has fostered the system by increasing the monitoring obligation of the professionals involved in the process (chartered accountants and statutory auditors) on the one hand, and by broadening the scope of the obligation of reporting suspected fi nancial transactions on the other hand. Although the legal framework was tightened, the number of suspected fi nancial transactions reported remains minor. Hence, the suspected transactions reported by the chartered accountants and the statutory auditors range only from 0,13 % to 0,03 % of the total of the declarations received by the TRACFIN in 2008. In view of the important role of those professionals in the regulation of the economy, substantial progress could and should be made in monitoring and reporting the suspected fi nancial transactions. This paper expresses a critical view of the French legal system of fi ghting money laundering and the fi nancing of terrorism. © De Boeck Université. Tous droits réservés pour tous pays.",
+    "source": "Revue Internationale de Droit Economique"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

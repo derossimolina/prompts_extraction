@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0042-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Who is responsible—and for what? An antenarrative perspective on organizational members’ crisis sensemaking of responsibility during a corporate scandal",
+    "authors": "Frandsen S.; Svane M.; Maria Humle D.",
+    "year": "2024",
+    "doi": "10.1177/00187267231205781",
+    "abstract": "We investigate organizational members’ crisis sensemaking and construction of responsibility at the peak of a corporate scandal. We focus on those organizational members, who are not directly involved in the scandal but are still affected by it, as they are questioned about their collective and moral responsibility for being members of an organization that has engaged in wrongdoing. Our study is based on interviews with and observations of frontline employees and their managers at Danske Banke—a bank involved in a money laundering scandal of historical magnitude. We propose an antenarrative crisis sensemaking framework that enables us to contribute to the literature on crisis sensemaking in two significant ways. First, we advance existing knowledge on crisis sensemaking by focusing on the less visible, unfinished, fragmented, and polyphonic sensemaking of organizational members during a corporate scandal. Second, we demonstrate that organizational members at the peak of a scandal place responsibility in different timespaces as they construct others’ and their own responsibility both retrospectively and prospectively. © The Author(s) 2023.",
+    "source": "Human Relations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

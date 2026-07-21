@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2466-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Terrorism and police countermeasures in the fight against the Novo Cangaço",
+    "authors": "Bevilacqua, S; Cukla, AR; Gamarra, DFT",
+    "year": "2024",
+    "doi": "10.47741/17943108.664",
+    "abstract": "In the last five years, around 150 bank robbers have died in clashes with Brazilian police. This wave of violence became known as Novo Canga & ccedil;o. Despite the gangs using explosives, rifles and .50 machine guns, this wave of terror was not classified as terrorism in Brazil. The objective of this research is to investigate this type of organised crime and its similarity to the concept of global terrorism. This is a comprehensive review of how the Novo Canga & ccedil;o (new bandit) is understood. We investigated around 18 thousand articles and highlighted four distinct groupings to explain what terrorism is in the modern world. The findings from interviews allowed us to understand that it is only possible to classify a terrorist act under current laws if there is an attack on public events or public facilities. We interviewed police and military personnel with experience in combatting this variant of modern horror. Our conclusions indicate that this wave of violence associated with drug trafficking should be classified as terrorism. Considering these points, we believe that the Novo Canga & ccedil;o is a form of terrorism, given its connection with drug trafficking and political movements. The use of explosives, the siege of cities, the use of hostages and violence aimed at causing terror and commotion also reinforce this definition. Such theft practices may cease to exist due to the disappearance of paper money, but the legacy will remain and serve as a lesson for those who wish to commit similar crimes. We also emphasise that this type of crime could soon inspire other gangs to commit violent crimes in Latin America.",
+    "source": "REVISTA CRIMINALIDAD"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0881-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illicit financial flows and developing countries: A review of methods and evidence",
+    "authors": "Brandt K.",
+    "year": "2023",
+    "doi": "10.1111/joes.12518",
+    "abstract": "Illicit financial flows (IFFs) constitute a major challenge for development in low-income countries, as domestic resource mobilization is imperative for providing crucial public services. The current paper focuses exclusively on the economic dimension of IFFs, thereby excluding topics as drugs trade, money laundering, and human trafficking. While several methods offer to measure the magnitude of IFFs, each has its benefits and drawbacks. Critically, methods based on the balance of payments identity may capture licit as well as illicit flows, and a method based on macroeconomic trade discrepancies suffers from doubtful assumptions. The most convincing estimate to date demonstrates that individuals hold financial assets worth around 10% of global GDP in tax havens. Evidence further indicates that developing countries are more exposed to individuals and multinational enterprises illicitly transferring money out of the country. © 2022 The Authors. Journal of Economic Surveys published by John Wiley & Sons Ltd.",
+    "source": "Journal of Economic Surveys"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

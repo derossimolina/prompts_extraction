@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0221-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Convenience propositions for white-collar offenders: Perceptions of seriousness in Romania",
+    "authors": "Urzicã A.-L.; Gottschalk P.",
+    "year": "2024",
+    "doi": "10.1016/j.jeconc.2024.100083",
+    "abstract": "Perception of white-collar crime seriousness varies from unfortunate incidents that can be excused to a major crime that needs harsh punishment. Students at a university in Romania were asked about their perceptions of seriousness. On a scale from 1 (not serious) to 7 (extremely serious) most students responded by very serious (6) on most questionnaire items. Responses indicate that individual greed to benefit the person is the most serious, while a rational choice of crime is the least serious. This study concludes that students consider white-collar crime to be less serious when people involved use financial wrongdoings as a last resort to avoid personal/organizational bankruptcy. they seem more indulgent when financial crime is a result of omission/concealment of criminal activity. © 2024 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

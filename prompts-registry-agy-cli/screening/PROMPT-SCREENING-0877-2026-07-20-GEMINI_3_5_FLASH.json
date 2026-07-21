@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0877-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Pecunia olet. Cash usage and the underground economy",
+    "authors": "Giammatteo M.; Iezzi S.; Zizza R.",
+    "year": "2022",
+    "doi": "10.1016/j.jebo.2022.10.005",
+    "abstract": "This paper explores the role of cash usage in feeding the underground economy by using a unique dataset that combines, at province level, official estimates of Italian firms’ underreporting with data on cash transactions drawn from the aggregate anti-money laundering reports filed to the Italian Financial Intelligence Unit (UIF) by banks. In order to derive causal evidence, we apply two different econometric strategies: an instrumental variable approach and a difference-in-difference approach, which exploits the change in the maximum threshold for cash transactions introduced in 2016, thereby providing a measure of the effect of such policy on tax evasion. We find that an increase in cash usage translates, other things being equal, into a higher level of underreporting by firms, and that raising the cash threshold in 2016 – a measure motivated by the objective of boosting spending – had the side effect of leading to a larger underground economy. © 2022 Elsevier B.V.",
+    "source": "Journal of Economic Behavior and Organization"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

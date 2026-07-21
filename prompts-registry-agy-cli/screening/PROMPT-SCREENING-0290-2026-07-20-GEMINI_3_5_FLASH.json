@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0290-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of gossip and money in Fyodor Dostoevsky’s The Insulted and Injured, The Idiot and Evdokiia Rostopchina’s “Rank and Money” («Chiny i Den’gi» (1838))",
+    "authors": "Khokholova N.",
+    "year": "2025",
+    "doi": "10.1007/s11212-024-09643-4",
+    "abstract": "Money and gossip in nineteenth-century Russian fiction act as combined forces that disrupt the narrative and the relationships between the main characters. The motifs of money are prominent in the novels of both major and minor Russian writers and when seen side by side, the function of the motifs of money becomes clear as a genre marker. The two writers discussed in this paper are Fyodor Dostoevsky and Yevdokia Rostopchina. By placing their works side by side, it becomes evident that their treatment of money represents a similar artistic response to the changing world of Russian social relations in the nineteenth century and the emergence of a new value system replacing that of the old estate culture. More than that, the treatment of money in combination with the prominence of gossip as a structuring device, which moves the plots in Rostopchina’s and Dostoevsky’s novels, reflects the development of the novel as a genre. Rostopchina’s seemingly compliant demeanor conceals a more intricate and subversive agenda. Through her strategic use of feminine masquerade, Rostopchina not only anticipated modern theories of gender as a social construct but also employed a timeless tactic of encoding subversive messages within seemingly conventional works. What is of particular interest in this paper is the incorporation of the society tale into the novel and how this reflects the transformation of value in the nineteenth-century Russian novel. © This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply 2024.",
+    "source": "Studies in East European Thought"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

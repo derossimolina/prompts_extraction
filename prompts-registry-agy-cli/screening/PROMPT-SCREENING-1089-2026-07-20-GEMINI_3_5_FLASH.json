@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1089-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A framework for analyzing international business and legal ethical standards",
+    "authors": "Gaughan P.H.; Javalgi R.R.G.",
+    "year": "2018",
+    "doi": "10.1016/j.bushor.2018.07.003",
+    "abstract": "Globalization increasingly brings businesses and legal providers together. With the help of lawyers, savvy businesspeople can complete complicated international transactions or create multinational networks of related corporations. This isolates risk, facilitates local business transactions, and carefully tailors localized ownership structures. However, these globalization activities can also facilitate activities such as international jurisdiction shopping, tax evasion, money laundering, and even terrorist financing. The resultant challenges undermine the ability of all parties to both compete and pursue ethical behavior across national markets. This article develops a framework for analyzing international business and legal ethics. Specifically, we focus on four key topics: (1) how globalization impacts both business and legal ethics; (2) the special role played by national interests in shaping the applicable ethics and legal standards; (3) a framework to explain how the configuration of international business networks and related legal services can have dramatic ethical implications; and (4) applicable issues identified in the Panama Papers and the Paradise Papers. © 2018 Kelley School of Business, Indiana University",
+    "source": "Business Horizons"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

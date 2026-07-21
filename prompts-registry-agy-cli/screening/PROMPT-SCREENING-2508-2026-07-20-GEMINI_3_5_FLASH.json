@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2508-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ON THE CRIME PREVENTION POTENTIAL OF UNIVERSAL GENOMIC REGISTRATION",
+    "authors": "Aminev, FG; Chemeris, AV; Khomutov, SV",
+    "year": "2022",
+    "doi": "10.17150/2500-4255.2022.16(4).505-511",
+    "abstract": "The examined problem is highly relevant because an unfavorable criminogenic situation - with growing organized crime, extremism and terrorism - strengthens the role of preventing crime through a system of criminalistic registration. One of the effective areas of criminalistic prevention is genomic registration. The authors show that in case of a large-scale implementation of genomic registration through the creation of a DNA database of all citizens, a person planning a crime will be aware of the inevitability of their identification and the establishment of their involvement in the action. This could lead to a multifold reduction in the number of crimes. Special attention is paid to the possibilities of using the potential of a universal genomic registration for fighting crimes of corruption (specifically, for identifying the persons who held documents and banknotes in their hands). Topical problems of organizing, accumulating and using universal genomic registration in investigating and preventing extremist crimes are analyzed. Mathematical calculations were conducted to prove the effectiveness of universal genomic registration in identifying persons involved in crimes and, thus, in creating a strong feeling of the inevitability of punishment among all population groups. The authors analyze public opinion regarding the idea of universal genomic registration and the age at which such registration should take place. They also develop recommendations for solving organizational and methodological problems connected with such registration, and identify opportunities for improving the quality of investigating and solving crimes through a smart organization of a universal genomic registration of Russian population, including a wider international cooperation in this sphere. The article contains a brief overview of the achievements of Russian genetic scientists in creating codes, SNP panels, and IT support of universal genomic registration.",
+    "source": "RUSSIAN JOURNAL OF CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

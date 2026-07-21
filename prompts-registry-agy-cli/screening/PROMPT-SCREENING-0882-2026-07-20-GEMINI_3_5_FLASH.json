@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0882-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Transnational gangs and criminal remittances: a conceptual framework",
+    "authors": "Paarlberg M.A.",
+    "year": "2022",
+    "doi": "10.1186/s40878-022-00297-x",
+    "abstract": "Policy responses to transnational criminal organizations (TCOs) within migrant receiving countries often conflate all organizations which conduct illegal activity in multiple countries based on the mafia or cartel model. This model imagines the TCO to be the most evolved form of organized crime: deeply institutionalized, well resourced, hierarchically structured, highly profitable, and diversified in their criminal activities. Such a model informs law enforcement and immigration policies which are often draconian and counterproductive to citizen security. In reality, transnational crime is highly varied in organization, activities, scope, and membership. A major TCO type that defies the mafia archetype is the transnational gang. This study seeks to nuance our understanding of TCOs, illustrated by case studies of two transnational gangs, MS-13 and Satudarah, by advancing the concept of criminal remittances to locate agency in transnationalization. As the case studies demonstrate, for transnational gangs, the remittance of criminal activity is not at the organization level but at the individual and state level. Thus the transnationalization of crime can itself be the product of state foreign and migration policies. © 2022, The Author(s).",
+    "source": "Comparative Migration Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

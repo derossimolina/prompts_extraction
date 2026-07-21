@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1641-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial reporting and economic implications of statements of financial standards No. 132(R) and No. 158",
+    "authors": "Komissarov S.",
+    "year": "2014",
+    "doi": "10.1108/RAF-08-2011-0023",
+    "abstract": "Purpose - The purpose of this paper is to address two questions: did adoption of Statements of Financial Accounting Standards No. 132(R) and No. 158 affect neutrality of the financial reporting with regard to the disclosed expected rate of return (ERR) on pension assets assumptions, and did pension asset allocations change in response to the new recognition and disclosure requirements? Design/methodology/approach - The author uses several measures of association between reported expected return and pension assets allocations to assess neutrality of the reported ERR. The series of tests explores changes in correlations between asset allocations and expected rates of return and changes in the implied risk premiums following adoption of Statements No. 132(R) and No. 158. Granger causality analysis is used to explore the second research question: did pension asset allocations change in response to the new recognition and disclosure requirements? Findings - The empirical results are consistent with improved neutrality of financial reporting following adoption of Standard No. 132(R). There were no detectable changes in neutrality following adoption of Standard No. 158. While the data are consistent with portfolio allocations changing to a greater degree than did expected rates of return following Statement No. 132(R) adoption, the effect appears short-lived. Originality/value - The overall results are consistent with Standard 132(R) having a positive effect on the neutrality of the reported ERR. Also, there is no evidence of persistent and systematic structuring of transactions around preferred financial reporting outcomes. Copyright © 2014 Emerald Group Publishing Limited. All rights reserved.",
+    "source": "Review of Accounting and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

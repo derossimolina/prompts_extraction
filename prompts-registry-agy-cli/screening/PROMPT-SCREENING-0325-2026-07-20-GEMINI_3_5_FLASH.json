@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0325-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The nexus between corruption and money laundering: deconstructing the Toledo-Odebrecht network in Peru",
+    "authors": "Jacopo C.",
+    "year": "2024",
+    "doi": "10.1007/s12117-021-09439-6",
+    "abstract": "The paper targets the nexus between corruption and money laundering. Scholars and practitioners recently observed how offshore financial centers and financial infrastructures have become central in facilitating corruption and other criminal activities. Offshore vehicles often serve to conceal the connections between business people and politically exposed persons. Secrecy jurisdictions and service providers have emerged as key actors in these illicit schemes. The paper explores the following questions: How do money laundering activities and offshore financial infrastructures sustain corruption? Who are the key actors involved, how do they interact, and their division of labor? How do actors and clusters govern the social-financial web of relations? It applies a combination of social network analysis (SNA) and network ethnography to the corrupt connection between the former Peruvian President Alejandro Toledo and the Brazilian construction giant Odebrecht Group. The research analyzes publicly available data from the Lava Jato and Ecoteva investigations in Brazil and Peru. It deconstructs the illicit scheme's mechanisms step-by-step, uncovers the functions of different actors and clusters, and illuminates the social norms and informal governance practices that regulate the exchange. The research highlights how the financial infrastructures of the private and public spheres are integrated and analyzes the informal governance system designed to control the transnational corruption network. The study makes it possible to understand how the nexus between corruption and money laundering works. It also supports the emerging understanding of corruption as a collective, transnational and financially advanced phenomenon. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2021.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0623-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Non-Conventional Migration: An Evolving Pattern in South Asia",
+    "authors": "Ullah A.K.M.A.; Akram Hossain M.; Huque A.S.",
+    "year": "2022",
+    "doi": "10.1177/00219096211008468",
+    "abstract": "The circumstances prevailing in South Asia (SA) have led to a plateauing migration stream that has resulted in several categories of migrants. The underlying factors driving migration have been identical in all the countries of SA. In recent years, however, poverty, conflicts, political and religious persecution, natural disasters and climate change have emerged as the most prominent drivers. External migration flow from SA has more than doubled between 2000 and 2015. This is a dynamic region, with millions (over 38m in 2017) of people crossing borders, both intra-regionally and extra-regionally. In recent years, wealthy citizens from SA have begun to move out of their countries with the intention of settling down elsewhere. This tendency has raised concerns among the policy makers because they create the grounds for reverse remittance flows. This research is meant to identify and contribute to the discourse of a new category of migrants (non-conventional migration) who are different from those in the conventional migration stream that included economic and forced migration. This research has crucial policy implications for both origin and destination countries. © The Author(s) 2021.",
+    "source": "Journal of Asian and African Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

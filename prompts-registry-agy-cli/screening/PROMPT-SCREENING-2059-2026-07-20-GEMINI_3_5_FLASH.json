@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2059-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Public-private partners against crime: Governance, surveillance and the limits of corporate accountability",
+    "authors": "Helgesson K.S.",
+    "year": "2011",
+    "doi": "10.24908/ss.v8i4.4183",
+    "abstract": "Recent risk-based regulation on anti-money laundering emphasises the need for private business actors to be more actively engaged in preventative efforts. This proposed public-private partnership against crime raises important questions of how to balance values and interests as it situates business actors in an intricate position at the centre of conflicting claims and attributions. Based on an interview study of the banking industry in Sweden, this article analyses how surveillance for the state in relation to anti-money laundering is implemented into the business-as-usual of business actors. The findings support the initial assumption that the role of agent of the state is in conflict with the role of being an agent for private principals. However, a complementary tentative conclusion is that the demands of one principal could also be beneficial for promoting the interests of the other principal. Finally, it is suggested that making oneself more accountable may, in fact, be a means to limit corporate accountability. © The author, 2011.",
+    "source": "Surveillance and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0989-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Social cryptocurrencies as model for enhancing sustainable development",
+    "authors": "Mora H.; Morales-Morales M.R.; Pujol-López F.A.; Mollá-Sirvent R.",
+    "year": "2021",
+    "doi": "10.1108/K-05-2020-0259",
+    "abstract": "Purpose: Growing inequality and socioeconomic and environmental degradation concerns forces us to think about how innovative technologies can contribute to reduce this problem. This study aims to analyze the potential of social cryptocurrencies to enhance the community development and cooperation between small businesses of the near environment. The evolution of these technology-based schemes could be key factors for generating innovative social enterprises, improving the quality of life in the community; in this way generate a conceptual model to sustainable development, while being more transparent, efficient and scalable as they are supported by technological applications. Design/methodology/approach: Based on an in-depth study of the relevant literature, a conceptual model was designed. The concept of social cryptocurrency is proposed as a new approach to virtual currencies for social purposes and sustainable development. Findings: The key findings point out that actors such as innovation and social entrepreneurship will come together in a new generation of social currencies, extending cryptocurrency technology to social business domains. Research limitations/implications: The impact of this will result in a better quality of life for society and the achievement of several sustainable development goals. However, a limitation would be that its scope depends on certain characteristics of the local environment. Furthermore, the proposed model will require validation in later phases through social experiments. Originality/value: The main contribution of this paper is in structuring a formal model that, based on empirical experiences and the use of the technology that underlies cryptocurrencies, proposes a set of constituent elements and characterizes them to contribute to achievement of sustainable development. © 2021, Emerald Publishing Limited.",
+    "source": "Kybernetes"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

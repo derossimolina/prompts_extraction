@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0521-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Open banking and inclusive finance in the European Union: perspectives from the Dutch stakeholder ecosystem",
+    "authors": "Preziuso M.; Koefer F.; Ehrenhard M.",
+    "year": "2023",
+    "doi": "10.1186/s40854-023-00522-1",
+    "abstract": "In the European Union (EU), the revised Payment Services Directive (PSD2) aims to provide more convenient and customized financial products through open banking (OB) platforms. However, little attention has been paid to the role of OB in improving the financial well-being of the growing number of the EU’s underserved groups, which currently constitute approximately a quarter of its population. This study examines how the PSD2 and OB impact inclusive finance in the EU based on the perspectives of the Netherlands’ ecosystem, one of the leaders in the EU’s financial technology (FinTech) landscape. A fundamental distinction can be drawn between the OB users and the ecosystem’s players. Regarding the impact of financial services on the users’ inclusivity, while the PSD2 strengthens the infrastructure necessary for financial inclusion, many challenges remain, mainly because it was not designed for this purpose. This study identifies several areas of improvement that include adjustments to the know your customer and anti-money laundering processes for underserved customers, innovative ways to communicate the PSD2’s potential, and the regulation of technology providers’ activities to build trust. Meanwhile, from the ecosystem’s position, there is a need to strengthen and improve microfinance regulation according to the opportunities provided by the PSD2 to support microfinance institutions (MFIs) in scaling up and reaching underserved clients across borders with innovative services. OB improvements can also be achieved by organizations formed by MFIs and FinTechs in collaboration with banks. Such hybrid institutions will combine the best features of each of them: knowledge of the needs of local underserved clients from MFIs, technological innovations from FinTechs, and large and trusted customer bases, infrastructures, and access to institutional investments and governments from banks. Finally, an EU inclusive OB sector depends on the centrality of trusted regulators as coordination bodies. © 2023, The Author(s).",
+    "source": "Financial Innovation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0379-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Searching for Smurfs: Testing if Money Launderers Know Alert Thresholds",
+    "authors": "Jensen R.I.T.; Ferwerda J.; Wewer C.R.",
+    "year": "2025",
+    "doi": "10.1007/s10940-025-09617-7",
+    "abstract": "Objectives: To combat money laundering, banks raise and review alerts on transactions that exceed confidential thresholds. However, the thresholds may be leaked to criminals, allowing them to break up large transactions into amounts under the thresholds. This paper introduces a data-driven approach to detect the phenomenon, popularly known as smurfing. Methods: Our approach compares an observed transaction distribution to a counterfactual distribution estimated using a high-degree polynomial. We investigate the approach with simulation experiments and real transaction data from a systemically important Danish bank. Results: Our simulation experiments suggest that the approach can detect smurfing when as little as 0.1-0.5% of all transactions are subject to smurfing. On the real transaction data, we find no evidence of smurfing and, thus, no evidence of leaked thresholds. Conclusions: Our approach may be used to test if transaction thresholds have been leaked. This has practical implications for criminal justice and anti-money laundering (AML) systems. If criminals gain knowledge of AML alert thresholds, the effectiveness of the systems may be undermined. An implementation of our approach is available online, providing a free and easy-to-use tool for banks and financial supervisors. The null result obtained on our real data helps raise confidence in (though it cannot prove the effectiveness of) anti-money laundering efforts. © The Author(s) 2025.",
+    "source": "Journal of Quantitative Criminology"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica modelagem baseada em agentes (ABM) para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo), Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

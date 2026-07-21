@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1275-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering and moral intensity in suspicious activity reporting: An application of Jones’ issue contingent model",
+    "authors": "Coombs-Goodfellow B.; Lokanan M.E.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-09-2017-0048",
+    "abstract": "Purpose: This paper aims to examine the influence Jones’ Moral Intensity Model (1991) has on the decision-making process of anti-money laundering (AML) compliance officers charged with reporting suspicious money laundering transactions in Jersey. Design/methodology/approach: Ten interviews were conducted to elicit participants’ views on the six dimensions of moral intensity and their influence on the compliance officers’ decision to submit a suspicious activity report (SAR) of potential money laundering. Findings: The findings indicate that the officers’ moral intensity to submit a SAR seems to be heavily influenced by issue-specific contextual factors. Contexts (legal and legislative mandates) seem to have more of an effect on the moral intent and actions of the officers rather than directly affecting the decision to submit a report of a suspicious money laundering transaction. Research limitations/implications: The paper lays the groundwork for further work in this area and calls on researchers to develop instruments that can enhance the measurements of the dimensions of moral intensity. Practical implications: The setting (AML in the financial sector) is both timely and extremely interesting to keep studying, particularly in Jersey because of its dubious sensitive particularities. Originality/value: The study is the first to examine Jersey AML sector through the lens of moral intensity. In this sense, the paper poses interesting questions, namely, to explore the dynamic complexities experienced by compliance officers in Jersey to detect and report suspicious money laundering activities and the decision-making criteria of actually submitting a SAR. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

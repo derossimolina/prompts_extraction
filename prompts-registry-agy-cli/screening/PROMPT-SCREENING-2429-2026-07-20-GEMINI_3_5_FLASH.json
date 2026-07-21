@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2429-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Practice Briefing: Strategic partnering models for low-constraint investors: typology and structural design",
+    "authors": "Wiegelmann, T; Schwab, WH",
+    "year": "2026",
+    "doi": "10.1108/JPIF-01-2026-0009",
+    "abstract": "Purpose- The paper examines how low-constraint investors (LCIs) design, select and govern strategic real estate investment partnerships. LCIs are defined by long-horizon mandates, balance-sheet structures anchored by long-dated liabilities and investment missions and risk budgets that may accommodate illiquidity, volatility, complexity and duration. This group includes selected sovereign wealth funds, public pension schemes, life insurers, endowments and large family offices. LCI institutions are typically characterised by stable and expanding capital bases and the capacity to act as natural liquidity providers. Many are positive cash-flow generators. LCIs commonly access real estate markets through external execution partnerships. Well-structured partnership models enhance LCI optionality, supporting flexibility in investment pacing, recovery planning and programme extension or contraction, while providing execution partners with capital stability, flexible deployment windows and broader investment scopes. These features support relationship dynamics that favour long-term collaboration over transactional engagement. The paper discusses how LCIs evaluate alternative partnering models, establish alignment with external execution partners and govern strategic relationships over time. It offers practical guidance for execution partners on structuring and maintaining effective partnerships with LCI capital. Design/methodology/approach- The paper adopts an expert opinion approach, drawing on insights from two senior industry practitioners. The first is a global real estate executive with over 25 years' leadership experience as CEO, CIO and Global Head of Real Estate across multi-billion-dollar investment platforms. The second is a co-founder of a real estate investment and asset management boutique (later acquired by a listed global firm) with 25 years of sector experience. Their combined perspectives inform a synthesis of institutional practices, behavioural patterns and governance models observed in real-world partnering arrangements and strategic programme design. Findings- Strategic partnering is a core mechanism for LCIs to translate long-term objectives into executable investment programmes. The paper identifies primary partnering archetypes, mapping their suitability against dimensions such as control, integration depth, governance complexity and scalability. Partner selection is shown to hinge on behavioural alignment, operational infrastructure and strategic compatibility. Maintaining alignment over time requires deliberate incentive design, adaptive governance and institutional oversight capacity. In their absence, partnerships risk style drift, misalignment and performance erosion. Practical implications- The paper offers practical tools to help LCIs and counterparties align capabilities with intent, select appropriate partnering models and implement governance structures that reinforce strategic continuity. It clarifies how to manage the behavioural and institutional expectations inherent in such relationships. Originality/value- The paper reframes strategic partnerships not as vehicles for transactional performance but as structural components of institutional investment strategy. It provides LCIs and their partners with a framework for understanding and governing collaboration as a durable, evolving system.",
+    "source": "JOURNAL OF PROPERTY INVESTMENT & FINANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

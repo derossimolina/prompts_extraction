@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1792-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and Greek banking payment and settlement systems",
+    "authors": "Repousis S.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-12-2014-0049",
+    "abstract": "Purpose – The purpose of this paper is to identify, categorize and describe the Greek banking payment and settlement systems and the way to SEPA. Also, the purpose is to describe authorities that supervise money laundering through Greek payment systems and identify major categories of suspicious transaction reports and amounts of criminal assets per each category. Design/methodology/approach – The Bank of Greece, central bank of Greece, has explicit tasks in the field of payment and settlement systems. In Greece, there are three payment and settlement systems: large-value payment system (TARGET2), retail payment systems and securities settlement systems. Findings – TARGET2 is based on a technically centralized platform (single shared platform – SSP), which is provided by the central banks of Germany, France and Italy, and it replaces the decentralized structure of the original TARGET system. Migration on TARGET2 took place in Greece on May 19, 2008. Ongoing cooperation between the European System of Central Banks and the banking community through extensive consultations facilitated the smooth migration to TARGET2. Retail payment systems consist of DIAS credit transfers, direct debits, check, ATM transactions and card payments. During the year 2013, DIAS cleared 144.13 million payment transactions with a total value of €184.1 billion. Most of the transactions were credit transfers SEPA compliant. Securities settlement systems operate on the delivery versus payment principle, whereby sales of securities and respective payments are affected simultaneously, as well as the principle of dual notice. Migration of Greek data systems toward SEPA through a regulatory framework will promote the use of common European standards and business practices for a fully automated and efficient processing of payment instruments. Bank of Greece and Greek Anti-Money Laundering and Counter Terrorist Financing Authority are responsible authorities to supervise illegal activity through bank payment systems. Data show that Greek bank payment systems were used during 2012 for tax evasion and for offences that result in imprisonment for over six months. Practical implications – Above findings are useful for information technology management, legislative and compliance authorities, investors and person that operate transactions with Greek banking payment and settlement systems. Originality/value – To the best of the author’s knowledge, it is the first study about Greek banking payment systems. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

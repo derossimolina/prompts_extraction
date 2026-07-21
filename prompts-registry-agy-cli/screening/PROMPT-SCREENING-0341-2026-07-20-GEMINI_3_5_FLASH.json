@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0341-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Harnessing machine learning for money laundering detection: a criminological theory-centric approach",
+    "authors": "Ramadhan S.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-04-2024-0083",
+    "abstract": "Purpose: The purpose of this study is to develop and evaluate the effectiveness of the criminology-centric machine learning (CCTML) framework in detecting money laundering activities by integrating criminological theories with machine learning techniques. Design/methodology/approach: This study uses a mixed-methods approach, this research synthesizes qualitative insights from expert interviews and literature reviews with quantitative analysis using machine learning models. Criminology-centric features are engineered based on established theories to capture behaviors indicative of money laundering. Various machine learning algorithms, including Voting Ensemble, XGBoost, Random Forest and LightGBM, are evaluated for their effectiveness in detecting financial crimes. Findings: The findings of the study demonstrate that the CCTML approach consistently outperforms common machine learning models in detecting money laundering activities across various evaluation metrics, including area under the curve, log loss, Matthews correlation coefficient, precision, recall and balanced accuracy. The integration of criminological insights into machine learning models significantly enhances their predictive accuracy and reliability. Originality/value: This research synthesizes diverse criminological insights into a cohesive framework known as CCTML. This approach goes beyond common feature engineering by incorporating complex behavioral patterns and social dynamics, thereby enhancing the accuracy and transparency of money laundering detection systems. By leveraging state-of-the-art machine learning algorithms and explainable artificial intelligence (AI) techniques, CCTML not only improves predictive capabilities but also ensures that model decisions are interpretable and fair. Explainable AI helps CCTML reveal why certain transactions are flagged, aiding investigators in identifying key suspects. Furthermore, this study contributes a comprehensive anti-money laundering framework that integrates ethical considerations, promoting a more robust and just approach to combating financial crimes. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2359-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Challenges of Implementing Anti-Money Laundering Regulation: An Empirical Analysis",
+    "authors": "Zavoli, I; King, C",
+    "year": "2021",
+    "doi": "10.1111/1468-2230.12628",
+    "abstract": "For over three decades, money laundering has been an area of concern for policymakers and law enforcement, with significant efforts undertaken at national and international levels to combat it. Recently, laundering of criminal proceeds using real property has attracted increased attention amongst policymakers. Various efforts are now being undertaken to tackle money laundering in the UK property market, but there are still significant difficulties in its practical implementation. Drawing upon semi-structured interviews with estate agents and compliance officials, this study identifies critical aspects of AML compliance that are particularly problematic for those involved in it. In so doing, this article delivers a new perspective, by analysing data gathered with the first empirical study on the implementation of AML obligations in practice (in the UK property market) since the introduction of the 2017 Money Laundering Regulations.",
+    "source": "MODERN LAW REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

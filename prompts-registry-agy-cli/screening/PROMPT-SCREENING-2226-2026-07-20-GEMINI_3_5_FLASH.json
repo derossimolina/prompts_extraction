@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2226-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax havens and criminology",
+    "authors": "Deneault A.",
+    "year": "2007",
+    "doi": "10.1080/17440570701507802",
+    "abstract": "For more then thirty years, \"tax havens\" have allowed major players form the political and financial spheres, as well as from the criminal one, to act in a \"sovereign\" way, that is to say, in a determinant way, so that their decisions become decisive in the historical course. \"Offshore sovereignty\" designates the opportunities that actors off all stripes have in the offshore centres, legal havens, free zones and free ports of the world, to conduct their activities unhampered by state structures, which they do by investing their money in recognized economic entities, or financing political parties.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2199-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Possible economic consequences of digital cash",
+    "authors": "Tanaka T.",
+    "year": "1996",
+    "doi": "10.5210/fm.v1i2.474",
+    "abstract": "Digital cash brings benefits as well as problems. One major advantage of digital cash is its increased efficiency opening new opportunities, especially for small businesses. On the other hand, it will encourage potentially the worsening of problems over taxation and money laundering. In turn, these problems may alter foreign exchange rates, disturb money supplies, and encourage an overall financial crisis. The transnationality of digital cash - the ability of digital cash to flow freely across national borders - encourages these benefits and problems, and could have significant repercussions internationally. From an economic view, this transnationality is the most important characteristic of digital cash. If digital cash behaved like traditional currencies, circulating within a national border and controlled by a central monetary authority, there would be few economic implications that would be worth analyzing. In this scenario, digital cash would be nothing more than a convenient transaction method such as a credit card. However, digital cash's very transnationality has the potential to cause conflict between cyberspace and nation states. If digital cash spreads successfully in the next century, its history may be written as a transcript of economic battles between nation states. Copyright © 1996, First Monday.",
+    "source": "First Monday"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

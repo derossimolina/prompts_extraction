@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1427-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Does saying 'yes' to capital inflows necessarily mean good business? The effect of antimoney laundering regulations in the latin american and the caribbean economies",
+    "authors": "Farías M.E.; de Almeida M.A.",
+    "year": "2014",
+    "doi": "10.1111/ecpo.12028",
+    "abstract": "This study explores the level of compliance and the subsequent economic performance of states in the context of anti-money laundering (AML) regulations. Following Holmstrom and Tirole (1997) and Obstfeld and Rogoff (1998), we examine why countries admit illicit flows of money and the economic costs of these transactions. Analyzing 36 Latin American and Caribbean jurisdictions between 1960 and 2010, we find that poor institutional performance by a jurisdiction (AML ratings, blacklists with non-cooperator countries, and corruption indicators) affects negatively the investment ratio to GDP, the FDI ratio to GDP, and financial development (ratio of credit markets to GDP). These findings are novel in the literature, offering an important contribution to the debate on financial regulatory convergence. © 2013 John Wiley & Sons Ltd.",
+    "source": "Economics and Politics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

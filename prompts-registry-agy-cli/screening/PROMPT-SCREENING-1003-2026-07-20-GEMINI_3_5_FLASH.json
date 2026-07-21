@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1003-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How to boost place branding leveraging on community relations: An exploration of the banking sector in Ghana",
+    "authors": "Palazzo M.; Deigh L.; Foroudi P.; Siano A.",
+    "year": "2020",
+    "doi": "10.1108/QMR-01-2018-0013",
+    "abstract": "Purpose: This paper aims to explore the relationship between community relations (CR) and the concept of place branding (PB) by analysing several companies in a developing sub-Saharan country – Ghana, and developing a framework that links the selected concepts together. Design/methodology/approach: The paper provides an analysis based on a multiple case study approach, with an interpretivist analysis of secondary and primary data derived from archival documents and in-depth interviews of corporate social responsibility (CSR) and brand managers from purposefully selected cases of private financial institutions. The data gathered were qualitatively analysed to identify and interpret common themes about CR, PB and other relevant factors such as culture. Based on analysis of the qualitative data, a comprehensive framework for CR and PB was formulated. Findings: Findings show that in the developing sub-Saharan country Ghana, the process of establishing a place brand is complex because of influences exerted on CR practices by culture, management agenda of private organisations, government intervention and the fragmentation of efforts to generate a coherent dialogue with numerous stakeholders. Practical implications: The study shows that managers can leverage on an array of CR elements, including moral and ethical obligations of the company, provision of economic benefits, integration, common goals between the corporation and its communities, responsibility to stakeholders, proactive action, partnerships across sector lines and active leadership, to boost PB. Thus, this research will help policymakers, country brand managers and communication professionals in structuring a proper PB starting from the efforts made in the CR field. Originality/value: This research can be considered one of the few studies undertaken with a view to understanding and developing a CR framework that links with PB in a developing country. The study identifies several important moderators of PB and factors influencing CR. All issues are approached from the study of PB that promotes economic, commercial and political interests at home and abroad. © 2020, Emerald Publishing Limited.",
+    "source": "Qualitative Market Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

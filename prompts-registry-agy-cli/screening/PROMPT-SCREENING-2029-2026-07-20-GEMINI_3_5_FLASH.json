@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2029-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The influence of complex systems interactions on barrier Island dune vegetation pattern and process",
+    "authors": "Stallins J.A.; Parker A.J.",
+    "year": "2003",
+    "doi": "10.1111/1467-8306.93102",
+    "abstract": "Studies of dune vegetation patterns have emphasized two structuring agents: local environmental gradients that shape the prominent zonation of coastal plant species, and disturbance patches initiated by overwash during coastal storms. For dune systems of two barrier islands in the Georgia Bight, we investigate how the interplay of these two conceptual frames generate patterns in (1) longitudinal (along-shore) and transverse (across-shore) compositional variability and (2) the arrangement of species along transverse gradients. We describe how this interplay constitutes a complex biogeomorphic system in which disturbance and recovery along gradients reinforce one another in positive feedback. Topographic and cover data were sampled within strip transects aligned perpendicular to the shoreline at study sites along a frequently storm-overwashed microtidal (South Core Banks, North Carolina) and an infrequently overwashed mesotidal (Sapelo Island, Georgia) barrier island. Multiresponse permutation procedures revealed that Sapelo has significantly greater transect-level longitudinal and transverse compositional variability. Nonmetric multidimensional scaling indicated that a single dominant transverse species gradient characterizes South Core, versus two spatially intersecting vegetation gradients for Sapelo. On South Core, reduced relief promoted by plant species of horizontally extensive growth forms reinforces the spread of overwash events across the landscape, thus overlaying disturbance and recovery gradients. Species-mediated dune topographic roughness on Sapelo buffers the dune vegetation from potential stand-wide disturbances, thereby juxtaposing disturbance and recovery gradients to a greater extent. We discuss the benefit of incorporating a complex adaptive-systems framework into the reductionist methodologies invoked in field-based biogeographical studies. © 2003 by Association of American Geographers.",
+    "source": "Annals of the Association of American Geographers"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

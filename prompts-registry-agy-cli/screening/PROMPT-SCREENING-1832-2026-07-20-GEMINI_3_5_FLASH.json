@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1832-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering prevention and banking cooperation regarding due diligence on customers compliance: Financial action task force recommendation no 17 analysis and identification of some obstacles for its implementation; [Prevención del lavado de activos y colaboración interbancaria en el cumplimiento de las medidas de debida diligencia: Análisis de la recomendación no 17 del grupo de acción financiera internacional e identificación de algunos obstáculos para su implementación]",
+    "authors": "Milos A.T.",
+    "year": "2016",
+    "doi": "10.4067/S0718-34372016000200007",
+    "abstract": "Banks must undertake due diligence measures on customers in the frame of money laundering prevention. Under the Recommendation No 17, the Financial Action Task Force (FATF) allows States to admit a financial institution to rely on due diligence procedures performed by other financial institutions or introducers. The aim of this paper is to analyse the FATF Recommendation No 17 regarding this issue, and to identify some potential obstacles on its implementation and compliance between banks.",
+    "source": "Revista Chilena de Derecho"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

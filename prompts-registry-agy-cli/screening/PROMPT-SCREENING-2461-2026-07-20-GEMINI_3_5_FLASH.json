@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2461-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DIGITAL TRANSFORMATION OF GLOBAL BANKING: CHALLENGES AND PROSPECTS",
+    "authors": "Shkodina, I; Derid, I; Zelenko, O",
+    "year": "2019",
+    "doi": "10.18371/fcaptp.v3i30.179680",
+    "abstract": "Based on the analysis of trends and threats of digital transformation of global banking, we concluded that there is an unevenness of digitization of banking in different regions. The development of digital technology has an impact on the global banking market, its structure and services. Cloud technology, blockchain and Big Data, artificial intelligence, biometrics, and open source APIs are used by financial institutions both in routine client work (optical character recognition, language, voice, customer image and face recognition, etc.), and in complex analysis of unstructured data sets (pattern recognition in money laundering transactions, counter-terrorism financing). The major segments where the biggest changes were made - are retail, corporate banking, payments, bank transactions, investment banking, and infrastructure projects. There are considered the concept of open banking, its impact on the ecosystem of financial market. The use of digital technologies, on the one hand, increases competition and market efficiency, and on the other, creates new systemic risks to financial stability and integrity. The main obstacles to digital transformation are not technological ones, but the differences in the organizational culture of traditional banks and fintech, different strategic vision of top management, lack of qualified personnel, which makes it difficult for banks to transform for cooperation. The use of digital technology increases the systemic risks associated with cyber security, fraud and ethical issues. In order to reduce the fraud, it is important to improve the verification procedures: the integration of offline and online modes, the use of implicit factors, and consumer biometric behaviour. Given the likelihood of recession in the coming years, geopolitical problems, trade and currency wars, traditional banks need to transform their businesses in line with new trends. In modern global world, there are not the largest banks that the competitive advantages get but the ones that are the most adapted to changes.",
+    "source": "FINANCIAL AND CREDIT ACTIVITY-PROBLEMS OF THEORY AND PRACTICE"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

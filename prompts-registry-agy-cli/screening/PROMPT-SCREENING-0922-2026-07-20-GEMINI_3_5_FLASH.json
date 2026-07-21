@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0922-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "In search of the owner: Regulating through transparency",
+    "authors": "Konovalova M.; Tuck P.; Ormeño Pérez R.",
+    "year": "2023",
+    "doi": "10.1016/j.cpa.2022.102421",
+    "abstract": "It has been argued that obscurity in ownership structures has created an opportunity for illegal activities, such as tax evasion, money laundering, and corruption, to go unnoticed. We examine the impact of international transparency initiatives on practitioners and the regulatory landscape in the national context of Seychelles. This article shows how the ambiguities and undesirable effects surrounding transparency become not an exception but, rather, a rule, a necessary and inescapable necessity of the pursuit of visibility. In particular, we explore the transparency of beneficial ownership standards which aim to eliminate the difficulty, if not impossibility, of tracing assets and financial flows to the actual owners. Using theoretical insights of Deleuze, we investigate the engagement with beneficial ownership transparency standards, and the transformative capabilities of transparency in the national setting. We substantiate our argument empirically through a single case study of Seychelles, informed by semi-structured interviews and documentary material, which has benefitted from an in-depth understanding of the setting as an international financial centre. © 2022 Elsevier Ltd",
+    "source": "Critical Perspectives on Accounting"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

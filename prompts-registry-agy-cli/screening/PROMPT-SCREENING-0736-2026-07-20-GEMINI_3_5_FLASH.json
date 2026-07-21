@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0736-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Law enforcement, social demands and reputation risks as drivers of compliance functions: a comparative analysis of the largest banks’ disclosures in the UK and Brazil",
+    "authors": "de Souza M.C.S.; de Souza R.S.",
+    "year": "2024",
+    "doi": "10.1007/s10611-023-10116-8",
+    "abstract": "Given the recent recurring cases of financial crime worldwide, national and international regulators have enacted new regulatory instruments intended to prevent or inhibit unlawful acts by banks and their representatives. These stricter regulations regarding the operations of financial institutions have reinforced the importance of best practices and the role of compliance within banks. Nonetheless, regulations regarding compliance structures and functions are not yet mandatory and give great flexibility to banks to define how they will set their compliance programmes. This research aims to understand how compliance functions have been implemented in the two largest banks in the UK and Brazil as a governance mechanism to fight financial crimes such as bribery and corruption. Document analyses of websites and financial reports of these banks examine disclosures provided by these corporations and shed light on the main drivers influencing their transparency regarding compliance functions, roles and responsibilities and their connections to the bank’s operations and profitability goals. This research demonstrates that the implementation and enhancement of compliance functions in UK and Brazilian banks are driven by attempts to respond to regulatory requirements, social demands and as a reputational risk instrument, reflecting different levels of development in each institution. The maturity of these disclosures demonstrates that Brazilian banks present a more reactive attitude, justifying their investments in compliance according to minimum law requirements, while banks in the UK tend to have a more proactive perspective on their compliance initiatives, reinforcing their importance for the bank’s competitive advantage and long-term continuity beyond regulatory compliance. © Crown 2023.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

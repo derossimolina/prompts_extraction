@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1414-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Alternative delivery channels of Islami Bank Bangladesh limited: Usage, challenges, and prospects",
+    "authors": "Amin R.",
+    "year": "2018",
+    "doi": "10.12816/0051169",
+    "abstract": "Branchless access point to the banking institutions, one of the financial service providers, is known as Alternative Delivery Channel. This paper aims at examining usage, challenges, and prospects of ADC products of Islami Bank Bangladesh Limited. Data were collected from secondary sources only as annual reports, published articles, conference papers, books, and banking websites. According to this study, diffusion rate of ADC products as Online Banking, ATM Card, SMS Banking, Internet- Banking, Mobile-Cash, Electronic Fund Transfer, and Real Time Gross Settlement of IBBL is on growing. The findings also show that huge risk and insecurity as network failure, money laundering, and terrorist financing are involved in automated banking system. The concluding remarks show that compliance of ICT rules and regulations, not depending on single switch to transact data, introducing chip card instead of magnetic stripe, adopting EMV and encryption techniques, skilled IT committee, availability of internet bandwidth will help the banks to confront these risks and challenges successfully. © 2018, Islamic Bank Training and Research Academy.",
+    "source": "Journal of Islamic Economics, Banking and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

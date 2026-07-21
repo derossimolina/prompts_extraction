@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1281-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The mutual support of commercial and environmental policies at internal legal criminal order for the repression of international bribery; [O apoio mútuo das políticas comerciais e ambientais na ordem jurídico-penal interna para a repressão do suborno internacional]",
+    "authors": "de Souza C.M.",
+    "year": "2022",
+    "doi": "10.5007/2177-7055.2022.e93122",
+    "abstract": "This article aims to demonstrate that the criminal control of global trade, through the criminalization of international bribery, includes the protection of the environment. In this sense, under the model of the global risk society, transnational criminality interferes in the choice of the legal good and in the form of its penal protection, which is excessively advanced and abstract. However, the structuring of the legal asset cannot, absolutely, be dissociated from the reality that determines its existence. From a culturalist theoretical basis, the adequacy of the criminal legislation of the States to international measures to combat crime is an imperative commitment. But, how to adapt the criminal legislation of the signatory States of the Conventions against corruption to the Conventions of protection of the environment in the context of the international trade? It is assumed that the adequacy of criminal legislation requires the inclusion of the environment in the discussion of the legal interest protected at bribery in international commercial transactions. Therefore, the adequacy of legislation does not constitute a unified approach, as there will always be some cultural difference to be evaluated and considered in this process. © 2022, Universidade Federal de Santa Catarina. All rights reserved.",
+    "source": "Sequencia"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

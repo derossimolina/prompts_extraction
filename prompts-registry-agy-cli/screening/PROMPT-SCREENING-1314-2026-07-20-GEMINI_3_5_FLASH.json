@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1314-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banks’ Digital Challenges",
+    "authors": "Stavrova E.",
+    "year": "2021",
+    "doi": "10.21272/bel.5(3).87-96.2021",
+    "abstract": "Digital currencies make transfers in digital markets, providing transaction participants with many advantages: easy access to markets, maintaining the identity of participants in transfer transactions, even their application is constantly expanding when buying new and innovative goods. Banks are an integral and significant part of this turnover, which gives them additional advantages and direct effects and exposes them to additional difficulties and dangers. The increased interest in them was noted mainly due to the continuous growth of their market rate and the additional growth of cryptocurrency extraction. Most transactions with them are based on the regulations of the applicable law. Still, the possibility of being the object of a crime has provoked a backlash from financial supervisors to protect the rights of other market participants and especially banks as the most accessible of all. Although it is a legal system in place to prevent banking institutions from being involved in money laundering operations, digital currencies are now a new opportunity with the specific advantages that ensure their smooth transfer to the network. The leading business companies such as TESLA have offered the opportunity to buy electric cars with digital currencies, with the growing demand for cryptocurrency services. Partly aided by the rising value of essential natural resources, important components for building information infrastructure, and the Covid-19 pandemic, significant financial institutions have permanently established themselves in digital markets such as JPMorgan, BNY Mellon, and Morgan Stanley, BlackRock and many others. Despite the targeted actions of state regulatory institutions, whose duty is to ensure the public good “cybersecurity”, the mass entry into these markets leaves consumers relatively unprotected. Money laundering or terrorist financing often provokes crises among regulatory institutions because they are usually accompanied by arms deals, drug trafficking, tax evasion, and others, as well as tax fraud, terrorism, and drug trafficking. A current application of digital currencies is their use to pay for services related to cyber attacks on financial institutions, objects of national security, etc. when the entire population suffers the damage. The new roles of financial institutions in the digital markets strengthen the notion of compliance as possible risk threats, realizing through compliance functions to automate and implement the integrated approach to all types of risk that accompanies the movement of digital financial assets. For some banking intermediaries, this has changed their cybersecurity strategy. © 2021 by the author.",
+    "source": "Business Ethics and Leadership"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

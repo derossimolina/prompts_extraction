@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0705-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Virtual money laundering: policy implications of the proliferation in the illicit use of cryptocurrency",
+    "authors": "Leuprecht C.; Jenkins C.; Hamilton R.",
+    "year": "2023",
+    "doi": "10.1108/JFC-07-2022-0161",
+    "abstract": "Purpose: This study aims to explain how cryptocurrency is leveraged for illicit purposes across the global financial system. Specifically, it establishes how cryptocurrency has been changing the nature of transnational and domestic money laundering (ML). It then assesses the effectiveness of conventional anti-money laundering (AML) policy and legislation against the proliferation of crypto laundering, using Canada as a critical case study. Design/methodology/approach: Data was collected from court cases and secondary sources to build cross-case trends of cryptocurrency use in ML. Illicit International Political Economy forms the theoretical foundation for this study, whose contribution is situated in the current literature on crypto-ML. Findings: This study finds that Bitcoin is common among crypto-money launderers, though most also use some form of alt-coin, and that the use of third-party currency exchanges is a prevalent method to create illicit funds and conceal proceeds of crime. The findings validate two hypotheses that illicit use of crypto is prevalent in the first two stages of ML, and that crypto is most often used in conjunction with other fiat currencies. Although law enforcement is improving on monitoring and understanding popular cryptocurrencies such as Bitcoin, alt-coins pose a significant challenge for criminal intelligence. New regulations for third-party currency exchanges are having a positive impact on curtailing crypto-laundering but are shown to be insufficient per se to contain the use of crypto in criminal activity. Originality/value: This study contributes to a more robust understanding of the use of virtual currency in transnational and domestic ML. It contributes to an emerging body of literature on the role of technological change in enabling the global flow of illicit funds. It also informs public policy on virtual currency in general, and on AML regulation in Canada in particular. © 2020, Christian Leuprecht, Caitlyn Jenkins and Rhianna Hamilton.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

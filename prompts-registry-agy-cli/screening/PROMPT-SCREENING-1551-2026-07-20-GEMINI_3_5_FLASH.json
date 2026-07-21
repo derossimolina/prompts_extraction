@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1551-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The shift to online tobacco trafficking",
+    "authors": "Décary-Hétu D.; Mousseau V.; Rguioui I.",
+    "year": "2018",
+    "doi": "10.5281/zenodo.1467842",
+    "abstract": "The illicit trade of tobacco products is a global phenomenon that has impacted the public health, the public finances and the security of nation states. A wide array of actors is involved in the illicit trade of tobacco, ranging from the individuals who bring home a few extra cartons of cigarettes while on a trip to the organized criminal organization of the mafia or terrorist type. The latter appears to be responsible for a very significant part of the illicit tobacco trade. While organized traffickers have traditionally used ports and roads to carry out their activities, a new generation of traffickers has turned to the Internet as a distribution channel for tobacco products. These traffickers are active on online illicit marketplaces known as cryptomarkets. While cryptomarkets have developed expertise in the sale of illicit drugs online, they are at the same time diversifying their activities into many new areas such as financial fraud, identity fraud and tobacco trafficking. The general aim of this paper is to describe and understand the shift to cryptomarkets in tobacco trafficking. Our results demonstrate that tobacco traffickers are involved in polytrafficking and that some do generate important revenues from their online illicit activities. © 2018 International Journal of Cyber Criminology.",
+    "source": "International Journal of Cyber Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

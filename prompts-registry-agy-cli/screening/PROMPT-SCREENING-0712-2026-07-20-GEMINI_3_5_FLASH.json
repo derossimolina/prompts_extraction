@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0712-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Explaining prosecution outcomes for cryptocurrency-based financial crimes",
+    "authors": "Trozze A.; Davies T.; Kleinberg B.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-10-2021-0119",
+    "abstract": "Purpose: Cryptocurrencies have been used to commit various offences, but enforcement efforts remain underdeveloped relative to the value of these crimes. This paper aims to examine factors associated with outcomes of US-based cryptocurrency financial crime prosecutions. Design/methodology/approach: The authors studied the 37 resolved cryptocurrency-based financial crime cases in the USA to date, exploring the impact of offence, defendant and evidence characteristics on the mode of disposition and penalties. The authors used bivariate analyses and logistic regression models to determine relationships among these variables. Findings: The presence of individual defendants only (rather than a corporate defendant or combination thereof) and the use of only a cryptocurrency other than Bitcoin in committing a crime each made a case less likely to be resolved by dismissal, trial or summary or default judgement. Originality/value: This paper is the first to examine variables contributing to financial crime prosecution outcomes and has implications for prosecutorial decision-making, resource allocation and the prevention and detection of financial offences involving cryptocurrencies. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

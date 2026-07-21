@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1655-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Analysis of ETF bid-ask spread components",
+    "authors": "Ivanov S.I.",
+    "year": "2016",
+    "doi": "10.1016/j.qref.2016.02.004",
+    "abstract": "In this study we examine on intradaily basis (milliseconds) the largest 100 ETFs’ bid-ask spread components in the period March 21, 2014 to April 17, 2014. We document that ETFs have lower proportion of adverse selection in the bid-ask spread relative to stocks, which also means that the order processing cost component is higher in ETFs. This suggests that uninformed investors prefer to trade ETFs relative to individual stocks. The data in our study also suggests a U-shaped form of the adverse selection component across four categories of ETF trading volume and not a monotone decreasing relation from lowest to highest trading volume ETFs. Fixed-income ETFs have the highest adverse selection component coefficient whereas real estate ETFs have the lowest. Additionally, mutual fund structured ETFs have lower adverse selection component coefficient than the trust structured ETFs. We also document that ETFs with more quotes have lower adverse selection; whereas ETFs with higher average bid price, higher expense ratio and trust structuring of the ETF have higher adverse selection component of the bid-ask spread. © 2016 Board of Trustees of the University of Illinois",
+    "source": "Quarterly Review of Economics and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

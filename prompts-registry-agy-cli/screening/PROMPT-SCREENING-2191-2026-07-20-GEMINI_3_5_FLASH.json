@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2191-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The financial institution as a racketeering enterprise&colon; RICO and beyond",
+    "authors": "Cihlar F.P.",
+    "year": "2010",
+    "doi": "10.1108/13685201011034069",
+    "abstract": "PurposeThe purpose of this paper is to introduce the reader to Section 901&lpar;a&rpar; of the Organized Crime Control Act of 1970, which deals with &ldquo;Racketeer Influenced and Corrupt Organizations&rdquo; and is popularly known as the &ldquo;RICO&rdquo; statute. Design&sol;methodology&sol;approachRICO was designed to protect legitimate enterprises from infiltration by organized crime. The paper discusses one case in which a bank, the Bank of Credit and Commerce International &lpar;BCCI&rpar;, was found to have violated RICO by engaging in prohibited racketeering activities and a second case in which another bank, UBS AG, engaged in activities criminal under US law. The paper then details some of the activities of the two banks and explores the remedies available under RICO. FindingsFollowing the failure of BCCI, the US filed a criminal information against the bank that included a forfeiture allegation under Section 1963 of RICO. In February of 2009, UBS AG, Switzerland's largest bank, entered into a Deferred Prosecution Agreement with the US Department of Justice, under the terms of which the bank agreed to waive indictment and consented to the filing of an information charging the bank with participating in a conspiracy to defraud the USA and its agency, the Internal Revenue Service, in violation of 18 USC 371. Originality&sol;valueBCCI may be something of an extreme case in terms of the breadth and scope of the illegal activities in which it engaged. But, it is not the only example of a bank gone wrong. Unfortunately, abuses can and do continue, although not every case may end with RICO forfeiture. Indeed, in a recent case with faint echoes of BCCI, RICO did not come into play at all. © 2010, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

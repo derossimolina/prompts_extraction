@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1706-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "'All right, I'll do anything for good clothes': Jean Rhys and Fashion",
+    "authors": "Joannou M.",
+    "year": "2012",
+    "doi": "10.1080/09574042.2012.739849",
+    "abstract": "This essay establishes the cultural, intellectual and historical contexts of Jean Rhys's engagement with sartorial fashion and addresses her characters' fascination with the sartorial in relation to modernism's refusal of the stable, unitary self. The author analyses the ways in which the thinking of the avant-garde in art and literature and the avant-garde in fashion converged in the 1920s and 1930s. Attention is paid to Virginia Woolf and to the fashion designer Coco Chanel and the ubiquitous 'little black dress' in Rhys's European fictions between The Left Bank and Other Stories (1927) and Good Morning, Midnight (1939). Rhys's engagement with fashion is considered as a structuring absence in recent research on modernism and the city. © 2012 Copyright Taylor and Francis Group, LLC.",
+    "source": "Women"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

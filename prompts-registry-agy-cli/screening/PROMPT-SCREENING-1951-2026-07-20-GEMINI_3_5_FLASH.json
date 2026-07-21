@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1951-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The resurgence of cost and management accounting: a review of some recent developments in practice, theories and case research methods",
+    "authors": "Spicer B.H.",
+    "year": "1992",
+    "doi": "10.1016/S1044-5005(92)70001-8",
+    "abstract": "In recent years there has been a remarkable resurgence in the practice and theory of cost and management accounting. Changes in competition and technology, and the economic deregulation of industry in many countries, has placed significant strains on organizations and their cost and management accounting systems. How cost and management accounting systems are being (and can be) redesigned to respond to these changes is of considerable interest to managers and management accountants. There are many opportunities for management accounting researchers to study these changes and through their research contribute to them. The objective of this paper is to provide a critical review of (1) the variety for purposes researchers have for studying practice; (2) the role theory has to play in guiding, structuring, and disciplining studies of practice; and (3) the important, emerging role of both descriptive/exploratory and informing/explanatory case and field research in the study of practice. Particular attention is given to demonstrating how emerging case and field research is (and can be) linked to practice, theory and other empirical research in cost and management accounting. © 1992, Academic Press Limited. All rights reserved.",
+    "source": "Management Accounting Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

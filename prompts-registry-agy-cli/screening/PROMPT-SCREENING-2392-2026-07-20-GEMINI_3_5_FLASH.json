@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2392-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The moral discourse of banks about money laundering: an analysis of the narrative from Paul Ricoeur's philosophical perspective",
+    "authors": "Dion, M",
+    "year": "2012",
+    "doi": "10.1111/j.1467-8608.2012.01655.x",
+    "abstract": "In this paper, we will use Ricoeur's philosophy in order to present money laundering as a metaphor and a narrative. We will firstly analyze the corporate moral discourse of 10 banks about money laundering. We have selected 10 banks that have codes of ethics and a corporate moral discourse about money laundering. The banks come from six countries: United States (2), Canada (2), Switzerland (2), Spain (2), Germany (1), and Belgium (1). We will see how their moral discourse about money laundering contributes to deepen the understanding of money laundering as a narrative. Then, we will see to what extent Ricoeur's philosophy could help us to better understand the moral discourse of banks. We will describe the main components of money laundering as a narrative.",
+    "source": "BUSINESS ETHICS-A EUROPEAN REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

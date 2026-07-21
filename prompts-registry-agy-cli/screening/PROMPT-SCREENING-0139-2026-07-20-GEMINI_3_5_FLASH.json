@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0139-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Virtual assets and the prevention of money laundering: a critical and comparative analysis of the laws of Mauritius, Japan and South Africa",
+    "authors": "Beebeejaun A.; Mahadew B.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-05-2023-0091",
+    "abstract": "Purpose: Due to their particular nature, virtual assets (VA) are vulnerable to financial crimes such as money laundering and if the appropriate legal mechanisms are not established, this may result in the financial collapse of various economies. To this effect, best practices and standards have been published by some international organisations such as the Financial Action Task Force and IMF which are now domesticated in the national laws of several countries. Therefore, the purpose of this study is to analyse the anti-money laundering (AML) legislative framework in the context of VA in three countries, namely, Mauritius, Japan and South Africa. Design/methodology/approach: To achieve the research objective, the Mauritian AML laws in the context of VA were compared with the corresponding laws of some other countries, namely, Japan and South Africa. As such, a qualitative research method was adopted. In particular, the black letter approach was used to examine the relevant laws of these countries. A comparative analysis was conducted concerning the relevance of AML laws for each country when dealing with VA with the view of suggesting recommendations for Mauritian stakeholders to adopt to enhance the existing AML legal and regulatory framework. Findings: The comparative study conducted has revealed that there are both similarities and divergences among the AML framework of the three countries further to which this research recommends that the Mauritian laws must be amended concerning the duration of information storage on VA, the definition of VA, advertisement by VA service providers and the electronic submission of annual reports. The Mauritian regulatory bodies also need to play a more active role in their joint collaboration to monitor suspicious VA transactions to combat money laundering. Originality/value: At present, this study will be among the first academic writings on the efficiency of AML laws in the context of VA in Mauritius and also, because existing literature is quite scarce on assessing the adequacy of AML legislation in developing countries, this research aims at filling in the gap in literature. This study is carried out with the aim of combining a large amount of empirical, theoretical and factual information that can be of use to various stakeholders and not only to academics. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

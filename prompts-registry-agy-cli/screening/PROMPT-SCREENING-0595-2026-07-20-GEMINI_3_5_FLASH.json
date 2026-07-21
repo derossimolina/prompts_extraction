@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0595-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Certainties and Uncertainties Surrounding Central Bank Digital Currencies (CBDC) vis-à-vis the EU Anti-Money Laundering Regulatory Framework",
+    "authors": "Minto A.",
+    "year": "2023",
+    "doi": "10.1515/ecfr-2024-0020",
+    "abstract": "Technology keeps evolving, offering opportunities to the private sector to develop new products and systems to exchange funds or value (i.e. crypto assets). In the quest to exploit technological advancement and keep up with an increasing digitized financial market, central banks have been exploring the possibility to issue a digital form of the traditional fiat currency (so-called central bank digital currency - \"CBDC\"). As CBDC projects are progressing and shaping up, a host of legal and regulatory questions arise. This article aims to examine the regulatory implications of CBDCs vis-à-vis the European Anti-Money Laundering (AML) regulatory framework. It explores the recent developments of the European AML regulatory framework spurred by financial innovation and technology, taking into account both the current (i.e. Directive 2018/843/EU (\"AMLD4\"), as amended by Directive 2015/849/EU (\"AMLD5\") and upcoming (i.e. Regulation (EU) 2024/1624 - the \"AMLR\") legislation. It emphasizes the coordination between the EU AML legislation with the new substantive EU regime on crypto assets (the \"MiCAR\") as well as with the new \"payment services package\"(the European Commission proposal for a \"PSD3\"and \"PSR\"). The analysis delves into the European Commission Proposal for a regulation on the establishment of the Digital Euro, adopting a functional approach that explains the diversified AML treatment of the \"offline\"(bearer-based) and \"online\"use (account-based) of the digital euro. In so doing, the article examines the legal characterization of \"cash\"for AML purposes and the potential consequences for the Digital Euro. © 2024 Walter de Gruyter GmbH, Berlin/Boston.",
+    "source": "European Company and Financial Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

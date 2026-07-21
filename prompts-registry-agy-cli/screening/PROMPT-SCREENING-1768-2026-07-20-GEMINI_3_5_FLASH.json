@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1768-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The FSA, “credible deterrence”, and criminal enforcement – a “haphazard pursuit”?",
+    "authors": "Wilson G.; Wilson S.",
+    "year": "2013",
+    "doi": "10.1108/JFC-02-2013-0007",
+    "abstract": "– Located within growing scholarly interest in linking the global financial crisis with revelations of financial crime, this piece utilises Roman Tomasic's suggestion that the financial crisis has marked something of a turning point in regulatory responses to financial crime worldwide. Tomasic attributes this to changing attitudes towards light-touch regulation and risk assessment, and the demand for existing agencies to be replaced with new tougher authorities. In the UK, this can be illustrated by the imminent replacement of the FSA with the Financial Conduct Authority (FCA). The paper aims to discuss these issues. – Discussion of the FSA's financial crime fighting activity is an important forecast for the likely directional focus of the FCA in this regard. A focus only on “market abuse” enforcement within this arises on account of the effects for financial systems widely attributed to this activity, with threats to systemic stability being a hallmark of the 2007-2008 financial crisis. This methodology also encourages coherence in focus and management of sources within the article. Market abuse enforcement provides a lens for exploring the FSA's adoption of the philosophy and ethos of “credible deterrence”, and FCA commitment to retain it, and ultimately for applying the hypothesis of the “haphazard pursuit of financial crime” to pre-crisis criminal enforcement relating to financial crime undertaken by the FSA. – The FSA and FCA appear acutely aware that the financial crisis has marked something of a turning point for the enforcement of financial crime, and for signalling changes in approach, for the reasons explored by Tomasic. Tomasic correctly identifies factors encouraging a range of undesirable practices pre-crisis, and ones signalling tougher and more sustained attention being paid to financial crime henceforth. It is noted that, pre-crisis, the FSA's pursuit of criminal enforcement of market abuse was conscious, comprehensively resourced, well publicised, and actually extensive. – This exploration of the FSA's criminal enforcement of market abuse given the Authority's own perceptions that it was not, and could never be, a “mainstream” criminal prosecutor considers the likely lasting legacy of this determined pursuit, when domestic politics and pan-European policies suggested against this. This is likely to be enormously valuable as the FCA undertakes this task in a domestic arena which is markedly in contrast from this, and where European agendas are pushing in favour of criminal enforcement, with the “more Europe, or less” debate providing a further dimension of interest. © 2013, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

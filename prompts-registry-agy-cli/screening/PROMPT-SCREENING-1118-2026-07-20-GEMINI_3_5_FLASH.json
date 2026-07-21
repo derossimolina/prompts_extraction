@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1118-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How can supervisors and banks promote a culture of strong governance and ethical behaviour?",
+    "authors": "Walter S.",
+    "year": "2020",
+    "doi": "10.69554/rlsr2317",
+    "abstract": "This paper elaborates on the centrality of governance, culture and ethics for banks’ strategic planning and decision-making. Good governance, risk culture and ethical behaviours help promote a more sustainable business model over the full business cycle and during periods of structural change. This is especially relevant in a rapidly changing financial landscape, where banks should ensure that their governance and control frameworks embrace existing and emerging risks, such as anti-money laundering, IT (information technology) risk and cyber and non-financial risks. Governance, culture and ethics are neither observable nor measurable directly as they comprise mainly qualitative elements. From the supervisor perspective, this calls for the development of specific tools to identify the more tangible factors that characterise the soundness of a bank’s governance and culture. The paper describes the approaches developed by European Central Bank (ECB) Banking Supervision on this issue since its inception. The paper also provides an overview of the progress and challenges faced by banks in the areas of governance and culture, five years after the implementation of the Single Supervisory Mechanism. Overall, banks have already introduced several improvements in the design of their governance and culture frameworks. In particular, their awareness of governance and the importance that they attribute to it have also increased over the past years. Banks, however, still need to make efforts in order to ensure that these improvements are implemented efficiently and effectively across the organisation and contribute to strengthening their risk culture. The journey towards improving governance and culture in banks has been a long one. Supervisors will continue promoting progress in governance and risk culture through peer benchmarking, clarification of sound practices and continuous industry dialogue. To this end, some concrete examples of bad and good practices in the areas of governance and culture are presented at the end of this paper. © Henry Stewart Publications 1752-8887 (2020).",
+    "source": "Journal of Risk Management in Financial Institutions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

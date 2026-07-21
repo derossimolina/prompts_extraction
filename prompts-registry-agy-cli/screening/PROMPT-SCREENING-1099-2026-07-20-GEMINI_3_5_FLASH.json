@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1099-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A novel dynamic approach to identifying suspicious customers in money transactions",
+    "authors": "Shaikh A.K.; Nazir A.",
+    "year": "2020",
+    "doi": "10.1504/IJBIDM.2020.108762",
+    "abstract": "Money laundering activity causes a negative impact on the development of the national economy. Anti-money laundering (AML) solutions within financial institutions facilitate to control it in a suitable way. However, one of the fundamental challenges in AML solution is to identify real suspicious transactions. To identify these types of transactions, existing research uses pre-defined rules and statistical approaches that help to detect the suspicious transactions. However, due to the fixed and predetermined rules, it is highly probable that a normal customer can be identified as suspicious customers. To overcome the above limitations, a novel dynamic approach to identifying suspicious customers in money transactions is proposed that is based on dynamic analysis of customer profile features to identify suspicious transactions. The experiment has been executed with real bank customers and their transactions data and the results of the experiment provide promising outcomes in terms of accuracy. Copyright © 2020 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Business Intelligence and Data Mining"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

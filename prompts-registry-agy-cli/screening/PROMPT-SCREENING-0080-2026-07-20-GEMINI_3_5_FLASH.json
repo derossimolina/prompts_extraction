@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0080-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptoassets as a Threat to State Sovereignty in the Field of Enforcement and Insolvency; [Kryptoaktywa jako zagrożenie dla suwerenności państwa w obszarze egzekucji i niewypłacalności]",
+    "authors": "Cahlík M.; Kurtinová S.; Kozieł M.; Kohajda M.",
+    "year": "2026",
+    "doi": "10.18778/1508-2008.29.04",
+    "abstract": "Cryptoassets, as a novel manifestation of financial technology, pose a challenge to traditional legal frameworks, especially in their decentralised nature and the unique way they are held and transferred. Their emergence requires a re-examination of regulatory principles and mechanisms of rights protection in an environment where decentralisation signifies the absence of centralised control. This article examines cryptoassets as a potential threat to state sovereignty within the domains of foreclosure, enforcement, and insolvency. It analyses the legislative challenges arising from the increasing prevalence of cryptoassets and evaluates the applicability of traditional enforcement law instruments to these new technological contexts. This article also integrates empirical findings from the Czech legal environment into the broader theoretical discourse on financial crime and the erosion of state authority caused by decentralised financial systems operating across national jurisdictions Particular attention is devoted to the technical characteristics of cryptoassets, their legal classification, and the practical obstacles encountered in enforcement and insolvency proceedings, especially in situations where debtors refuse or are unable to provide access to their digital assets. The analysis also incorporates available statistics on enforcement proceedings and evaluates the Czech legal framework governing cryptoassets, focusing on its implications for the effectiveness of enforcement and insolvency processes. The research employs both primary and secondary methods, including legal and technical analysis, modelling of real scenarios, and an examination of the relevant legislative instruments. © by the Author",
+    "source": "Comparative Economic Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

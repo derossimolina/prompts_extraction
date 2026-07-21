@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0531-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering measures and financial sector development: Empirical evidence from Africa",
+    "authors": "Antwi S.; Tetteh A.B.; Armah P.; Dankwah E.O.",
+    "year": "2023",
+    "doi": "10.1080/23322039.2023.2209957",
+    "abstract": "The study’s main objective was to evaluate the link between anti-money laundering (AML) regulations and financial sector development (FSD) in Africa and to test the nonlinearities in the AML regulations-FSD nexus. Panel data of 51 African countries from the World Bank’s indicators, the IMF, and the Basel Institute on Governance over the period 2012 to 2019 were used. The study employs the two-step system GMM and the dynamic panel threshold regression in estimating the model. The Hansen test and Arellano—Bond test for AR (2) were conducted to check for the robustness of the model specification. The study employed STATA 15 in analysing the study. The analysis shows that anti-money laundering regulation positively influences African financial sector development. However, the study found a significant positive coefficient for AML below the threshold value at a 1% significant level and a significant negative coefficient for AML above the threshold. This indicates that AML laws favour financial sector development below the threshold, but this link disappears for regimes with high AML requirements in Africa. This suggests that excessive AML structures might discourage financial sector development in Africa due to the cost associated with AML. Financial institutions in Africa should invest in technology solutions to support financial crime compliance efforts in combating criminal crimes involving digital payments, cryptocurrency, third parties and trafficking of proceeds and other crime-related activities such as drug trafficking, corruption, terrorism, arms dealing, confiscation of their illegal funds and bribery. © 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Cogent Economics and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

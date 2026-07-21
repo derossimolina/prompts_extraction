@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2503-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Does indebtedness influence health? A preliminary inquiry",
+    "authors": "Jacoby, MB",
+    "year": "2002",
+    "doi": "10.1111/j.1748-720X.2002.tb00426.x",
+    "abstract": "This article considers whether indebtedness influences health. The author discusses data from various disciplines, examining the potential correlation between financial strain and health, and considers how the law might be partially responsible for this relationship, either by structuring indebtedness or as a pathway between indebtedness and poorer health.",
+    "source": "JOURNAL OF LAW MEDICINE & ETHICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0950-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From payday to payoff: Exploring the money laundering strategies of cybercriminals",
+    "authors": "Nazzari M.",
+    "year": "2023",
+    "doi": "10.1007/s12117-023-09505-1",
+    "abstract": "Cybercriminals are commonly assumed to engage in cybercrime for monetary rewards. Like traditional offenders, they must launder their illicit proceeds to obscure the permanent trails in online environments. The mainstream narrative argues that these offenders engage in complex money laundering schemes because of the use of new technologies. However, empirical research on the money laundering activities associated with cybercrime has been scarce. To address this knowledge gap, the present study analyzes money laundering transactions from 182 Bitcoin addresses belonging to 56 members of the Conti ransomware group using blockchain analysis. The results show that offenders are quite unsophisticated when laundering their illicit proceeds. Most of the addresses transact directly with an entity (52%) and concentrate 80% or more of the illicit proceeds in one singular service (69%). In terms of destinations, exchanges and dark web services are the preferred choices, being involved in 71% and 30% of the transactions respectively. Conversely, the use of mixers is more limited (8%). There are significant differences in money laundering strategies used by offenders based on the amounts of illicit proceeds to launder. Implications for research and policy are discussed. © 2023, The Author(s).",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

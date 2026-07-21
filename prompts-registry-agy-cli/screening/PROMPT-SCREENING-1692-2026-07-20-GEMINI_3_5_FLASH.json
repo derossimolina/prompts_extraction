@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1692-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Violent Crime and Capital Market Punishment: How Violent Crime Affects the Supply of Debt to Municipal Mexico",
+    "authors": "Benton A.L.",
+    "year": "2017",
+    "doi": "10.1007/s12116-017-9256-8",
+    "abstract": "Research shows that violent and organized crime reduces foreign direct investment and that armed conflict lowers sovereign credit ratings. Building on these insights, I argue that violent crime reduces financial institutions’ confidence in the capacity of governments to repay loans, raising the costs attached to loans, and reducing government debt through a “supply-side” logic. Yet, this logic is difficult to test. Governments can render lenders indifferent to violent crime by accepting higher borrowing costs, resulting in no observed relationship between them. It is for this reason that analysis of the effect of violent crime on government credit ratings alone cannot tell us much about its effect on actual government debt. In this study, I explain how analysis of subnational debt from welfare-minded public banks and profit-minded private lenders can distinguish the supply-side logic from the null hypothesis. Cross-sectional time-series analysis of homicide rates and municipal debt in Mexico demonstrates support for the supply-side logic. Evidence of the supply-side logic reveals that those governments most in need of cost-efficient financing are most likely to be charged higher prices for it or priced out of capital markets altogether, signaling the need for market intervention in these cases. © 2017, Springer Science+Business Media, LLC.",
+    "source": "Studies in Comparative International Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

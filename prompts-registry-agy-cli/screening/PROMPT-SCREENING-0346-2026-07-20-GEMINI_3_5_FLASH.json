@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0346-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Super apps as catalysts: designing value constellations in open and digital ecosystems",
+    "authors": "Fasnacht D.",
+    "year": "2026",
+    "doi": "10.1108/JBS-06-2024-0105",
+    "abstract": "Purpose – As organisational boundaries blur and industries converge, executives increasingly face the challenge of competing and collaborating within open and digital ecosystems. This study aims to examine how platforms evolve into super apps through a staged process of cross-sector expansion and ecosystem orchestration, and how regulatory, governance and trust-related constraints shape this evolutionary trajectory. Design/methodology/approach – This study used exploratory, qualitative case-based research design, drawing on longitudinal interview data, field visits, consulting engagements, internal materials and secondary sources from two leading super app ecosystems: Tencent’s WeChat and Ant Group’s Alipay. Findings – Super apps emerge as ecosystem catalysts after successfully navigating four evolutionary trajectories. Platforms firstly establish a trusted core service that secures legitimacy and transactional reliability. Secondly, they expand into adjacent domains by deploying boundary resources and integrating third-party services. Thirdly, they transition into multi-sided ecosystem orchestration, structuring competition and collaboration while balancing openness and control. Finally, they enter a phase of governance redesign and co-adaptation, recalibrating compliance, risk and trust infrastructures in response to regulatory scrutiny and increasing ecosystem complexity. Practical implications – The staged model highlights four managerial inflection points: consolidating trust before expansion, scaling through modular boundary resources, calibrating openness as multi-sided competition intensifies and proactively redesigning governance under institutional pressure. Social implications – Super apps become embedded in everyday life, they influence financial inclusion and service accessibility. Their expansion also intensifies concerns regarding data governance, privacy protection and regulatory oversight. Originality/value – This study advances strategy by providing an integrative process model of super app evolution. By linking constellation design principles (competition, collaboration, co-innovation, co-adaptation) to distinct evolutionary stages, it reframes super apps as dynamically configured ecosystems whose catalytic role emerges through deliberate governance and continuous adaptation under constraint. © 2026 Emerald Publishing Limited",
+    "source": "Journal of Business Strategy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

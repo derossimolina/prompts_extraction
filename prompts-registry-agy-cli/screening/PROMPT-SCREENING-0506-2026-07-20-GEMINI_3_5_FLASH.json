@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0506-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mafia doesn't live here anymore: Antimafia policies and housing prices",
+    "authors": "Calamunci F.M.; Ferrante L.; Scebba R.; Torrisi G.",
+    "year": "2023",
+    "doi": "10.1111/jors.12647",
+    "abstract": "It is well known that the value of a house depends both on the physical characteristics and on some features of the neighborhood in which it is located. If so, organized-crime activities can significantly affect urban real estate values. Antimafia policies, in turn, can be intended as a tool to influence those external features. This paper compares the effects on real estate values of the two main antimafia policies implemented in Italy since the 1990s at the municipal level. While we do not find any significant effect of dismissal policies on house prices, we find a statistically significant effect of reassignment policies depending on the specific destination of confiscated property. © 2023 The Authors. Journal of Regional Science published by Wiley Periodicals LLC.",
+    "source": "Journal of Regional Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

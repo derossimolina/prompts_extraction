@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0321-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Centralized exchanges vs. decentralized exchanges in cryptocurrency markets: A systematic literature review",
+    "authors": "Hägele S.",
+    "year": "2024",
+    "doi": "10.1007/s12525-024-00714-2",
+    "abstract": "Research on cryptocurrency exchanges, consisting of both centralized exchanges (CEXs) and decentralized exchanges (DEXs), has seen a significant increase in contributions in recent years, driven by growing interest in the conceptual design of cryptocurrency markets. Through a comprehensive review of literature published between January 2019 and September 2023, I identify and analyze different dimensions of the ongoing CEX vs. DEX debate. While DEXs emphasize decentralization, user control, and resistance to censorship, CEXs offer higher liquidity, advanced trading features, and a more established track record. Regulatory challenges, such as Know Your Customer (KYC) and Anti-Money Laundering (AML) compliance, also feature prominently in the literature and influence the choice of exchange for both traders and policymakers. In addition, I observe a growing interest in the design of pricing functions for CEXs and DEXs, particularly in the area of automated market makers (AMMs). Finally, based on my findings, I outline future research opportunities in this context and derive research gaps as well as recommended actions for practitioners. © The Author(s) 2024.",
+    "source": "Electronic Markets"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

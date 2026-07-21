@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1227-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A framework for modeling the knowledge of workplace relocation",
+    "authors": "Hassanain M.A.; Ibrahim A.M.",
+    "year": "2021",
+    "doi": "10.1108/JCRE-01-2020-0001",
+    "abstract": "Purpose: The purpose of this study is to propose a framework model for workplace relocation. Design/methodology/approach: Published literature was reviewed to comprehend the broad aspects of workplace relocation. The current practices of workplace relocation were investigated by corporate real estate (CRE) professionals. A generic framework model was developed to guide organizations upon the process of workplace relocation, over its lifecycle. The framework is validated by semi-structured interviews, conducted to ascertain its importance and applicability. Findings: A validated integration definition for function modeling framework for the process of workplace relocation was developed. It consisted of three systematic processes, aligned with its lifecycle, namely, initiate the pre-relocation activities; implement the relocation activities; and conduct the post-relocation activities. Originality/value: The workplace is a linkage between people, business processes and information technology, that provides a physical medium for interactions and provision of services. Workplace relocation is an opportunity to introduce elements of change. Yet the process of workplace relocation has been under-valued by practitioners in the CRE industry. The developed framework can be adopted as a standardized process for the relocation of workplace facilities. In terms of clearly structuring the workplace relocation processes, the study contributes to making these processes more transparent and aids accountability for decision-making. It is a time-saver and guiding model for organizations endeavoring on relocation. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Corporate Real Estate"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

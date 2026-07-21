@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0796-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Uncovering the depths of trade-based money laundering: evidence from a seaport in Bangladesh",
+    "authors": "Milon M.N.U.; Zafarullah H.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-03-2023-0063",
+    "abstract": "Purpose: Money laundering (ML) is a major criminal offence stemming from unethical practices by personnel on the ground at Chattogram Port, an important import and export facility in Bangladesh. Because money can be more easily laundered through imports, it is necessary to investigate the dubious process in this sector. This study aims to identify the items most regularly used for easy ML and the factors contributing to their vulnerability. Design/methodology/approach: This research uses a qualitative approach and analyses information from primary sources. Data is obtained from customs officials, port authority personnel, importers and customs brokers through semi-structured questionnaires. Although there are many techniques for ML, this study only found three most overwhelming: under-invoicing, over-invoicing and misdeclaration. A few case studies have been used based on newspaper reports and the internet to triangulate the qualitative data. Findings: Four import items – food products, garments, capital machinery and chemicals – have a higher risk of ML. This study also revealed that money launderers prefer under-invoicing food and garment items. Misdeclaration is more commonly associated with capital machinery and chemical items. Over-invoicing, on the other hand, is only prevalent in government purchases. The port authorities need to pay particular attention to these issues. Research limitations/implications: As ML is an ongoing activity that changes over time, the findings of this research are circumscribed by the data collected at a single point in time. Additionally, this research did not consider alternative laundering methods. Practical implications: The research results can provide a basis for creating effective anti-money laundering (AML) strategies to assist with sustainable economic growth. Social implications: Developing effective AML measures can help combat corruption and establish good governance in the country and support human well-being. Originality/value: This paper presents original research findings based on technical analysis. The Chattogram Port Authority and the National Board of Revenue have accepted and used the main findings in a collaborative action plan to tackle ML. The Bangladesh Bank, the country’s central bank, has also incorporated the necessary guidelines and regulations into the Money Laundering Prevention Act, 2012. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

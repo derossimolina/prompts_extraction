@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2577-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mergers and acquisitions in family businesses: current literature and future insights",
+    "authors": "Worek, M",
+    "year": "2017",
+    "doi": "10.1108/JFBM-04-2016-0009",
+    "abstract": "Purpose - The purpose of this paper is to examine the current state of literature concerning mergers and acquisitions (M&A) in family businesses and to highlight areas for future research. Design/methodology/approach - This literature review systematically analyses the findings of 41 journal articles on M&A in family businesses, identifying key thematic categories according to the main topics of the studies. Findings - This study finds that it is important to distinguish and examine the type of governance, such as family and non-family, when studying M&A issues, because their distinctive features influence their strategic choices, business goals, and, thus, M&A behavior. Three topic areas are identified in existing research: M&A propensity, process, and performance. Furthermore, methodological and definitional issues regarding the findings are discussed. Research limitations/implications - The findings imply that owing to their idiosyncratic nature, the use of alternative theoretical frameworks in addition to agency theory is encouraged in future studies in order to better capture the nature of family businesses. In general, further research on M&A issues in family business settings is needed, especially in the pre-merger phase, which is crucial to M&A performance. Social implications - Overlooking particular issues that may arise in the context of transactions involving family businesses may lead to problems in M&A processes. Recognizing the importance of these issues in such transactions has important value for practitioners supporting family businesses in M&A processes. Originality/value - This study takes the first step in analyzing the literature on M&A in family businesses, establishing linkages between family business, corporate governance, and financial management literature, and structuring the existing research to highlight opportunities with relevance for both theory and practice.",
+    "source": "JOURNAL OF FAMILY BUSINESS MANAGEMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

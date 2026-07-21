@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0134-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An Artificial Intelligence-Driven Temporal Network Analysis of Myanmar’s Cyber Scam Ecosystem",
+    "authors": "Akartuna E.A.; Manning M.G.",
+    "year": "2026",
+    "doi": "10.1007/s11417-025-09474-0",
+    "abstract": "Since the 2010s, organised crime groups in Southeast Asia have increasingly engaged in industrial-scale cyber scams, often perpetrated in areas with limited governance through dedicated compounds staffed by labour trafficking victims. The estimated annual global losses to scams perpetrated through these compounds (most notably so-called “pig butchering” romance scams) exceed tens of billions of US dollars. Meanwhile, they continue to embrace a range of transformative technologies such as artificial intelligence, deepfakes and cryptocurrencies. Focusing on the situation in Myanmar, this article explores the use of large language models for open-source intelligence gathering and network construction, achieving time and cost reductions of an estimated 96.6% and 99.5% respectively compared to manual research methods. We show that this method is effective in uncovering the complex ecosystem of individuals, armed groups, crime syndicates, complicit government officials, special economic zones and other related entities sustaining these industrialised fraud operations. Computing and drawing insights from centrality measures and multivariate quality assignment procedures, we note that the network remains resilient and prone to crime displacement even amid a rise in law enforcement action since 2024. We motivate this LLM-assisted network-driven approach as a useful methodological augmentation to wider horizon scanning efforts designed to anticipate the future directions of complex crimes. By providing dynamic, temporal and holistic insights into criminal infrastructures and how they have adapted to past disruptions, we explore how such analyses provide additional perspectives and contextual grounding for environmental foresight work, particularly for crimes situated within a complex interplay of conflict, geopolitics, digital technologies and unparalleled profits. © The Author(s), under exclusive licence to Springer Nature B.V. 2025.",
+    "source": "Asian Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

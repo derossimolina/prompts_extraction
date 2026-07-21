@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0037-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Terrorism Financing Modus Operandi in Indonesia",
+    "authors": "Mursyid A.M.; Ghoni M.H.; Utari I.S.; Niravita A.; Azzam M.",
+    "year": "2025",
+    "doi": "10.15294/ijcls.v10i2.29593",
+    "abstract": "The dynamics of radicalism and terrorism in Indonesia never cease. Even at the end of 2024, Densus 88 Antiterror arrested a number of perpetrators involved in various terrorist activities. This shows that radicalism and terrorism continue to develop through small cells that spread radical ideology. And, if we let our guard down, they will certainly carry out acts of terrorism using various schemes. To support these radical-terrorist activities, significant funding is required. There are at least two main channels: legal and illegal. Legal fund-raising by radical terrorist groups is carried out through certain disguised methods, such as donations, charity boxes, and some legal businesses. On the other hand, the illegal channel is known as \"fai',\" where they justify using methods such as robbery, theft, fraud, and others. Law Number 9 of 2013 on the Eradication and Prevention of Terrorism Financing Crimes serves as the legal basis for prosecuting terrorism financing activities. This study successfully uncovered various financing terrorism schemes. It was found in the field that radical groups still rely on legitimate businesses to fund their radical activities. In addition to conventional businesses, they utilise social media and virtual platforms to collect and transfer funds. They are more likely to use cryptocurrency, specifically Bitcoin, due to its anonymity and the difficulty in tracking it. Non-conventional methods such as cyber fraud in the form of investment scams, as well as cybercrimes like hacking websites and conducting other cyberattacks, can generate funds. © Author(s).",
+    "source": "Indonesian Journal of Criminal Law Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

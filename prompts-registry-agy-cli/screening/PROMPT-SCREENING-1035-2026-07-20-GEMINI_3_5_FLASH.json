@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1035-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Distributed Internet voting architecture: A thin client approach to Internet voting",
+    "authors": "Helm J.E.",
+    "year": "2021",
+    "doi": "10.1177/0268396220978983",
+    "abstract": "Principles required for secure electronic voting using the Internet are known and published. Although the Internet voting functionalities and technologies are well-defined, none of the existing state-sponsored Internet voting approaches in use incorporate a total Internet-based system approach that includes voter registration, the voting process, and vote counting. The distributed Internet voting architecture concept discussed in this article uses a novel thin client approach to Internet voting. The architecture uses existing technologies and knowledge to create a viable whole system approach to Internet voting. This article describes various aspects and processes necessary to support an integrated approach. The application programming interface software for many of the critical functions was developed in Python and functionality tested. A virtual network, including a cloud-based functionality, was created and used to evaluate the various conceptual aspects of the proposed architecture. This included the concepts associated with programming and accessing smart cards, capturing and saving fingerprint data, structuring virtual private networks using tunneling and Internet Protocol Security, encrypting ballots using asymmetric encryption, using symmetric encryption for secret cookies, thin client interaction, and creating hash functions to be used within a blockchain structure in a Merkle tree architecture. The systems’ primary user targets are individuals remotely located from their home voting precincts and senior citizens who have limited mobility and mostly reside in assisted living facilities. The research supports the contention that a cybersecure Internet voting system that significantly reduces the opportunity for mail-in voter fraud, helps to ensure privacy for the voter, including nonrepudiation, nonattribution, receipt freeness, and vote acknowledgment can be created using existing technology. © Association for Information Technology Trust 2021.",
+    "source": "Journal of Information Technology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

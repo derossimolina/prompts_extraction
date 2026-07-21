@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0065-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Understanding criminogenic features: case studies of cryptocurrencies-based financial crimes",
+    "authors": "Carletti R.; Luo X.; Adelopo I.",
+    "year": "2025",
+    "doi": "10.1108/JFC-06-2024-0176",
+    "abstract": "Purpose: This paper aims to comprehensively examine the intricate relationship between cryptocurrency and criminal enterprises, shedding light on the methods, mechanisms and implications of cryptocurrency use in various financial crimes. Design/methodology/approach: This paper conducts a thematic analysis of 51 cryptocurrency-related financial crime cases to identify criminogenic features of cryptocurrencies, key tools and features of cryptocurrency-related financial crimes. Based on the case study, policy-changing recommendations and big-data analytics tools are proposed for law enforcement agencies to combat cryptocurrency crimes. Findings: This study found that decentralisation, pseudo-anonymity and borderless nature of cryptocurrencies enable cross-border financial flows and make transaction tracking a complex challenge. Popularity and market capitalisation used to play a dominant role in criminals’ choice of cryptocurrency as Bitcoin was associated with most cryptocurrency-related crimes before 2019. An increasing number of other cryptocurrencies, such as privacy coins and stablecoins, have been utilised for financial crimes recently. Cryptocurrency has also become an essential source of terrorist financing. Research limitations/implications: Due to the open access to cryptocurrency transaction data, powerful big-data analytics tools should be developed to help law enforcement departments proactively detect cryptocurrency-related crimes. Practical implications: It is important and urgent for cryptocurrency exchange companies, mixing services and wallet providers to implement strict anti-money laundering and know-your-customer measures to help combat cryptocurrency-related crimes and create a sustainable future for cryptocurrencies. Originality/value: There is a lack of studies to reveal the current trend of cryptocurrency crimes; the relationship between criminogenic features of cryptocurrency and types of financial crimes; as well as the approaches used to facilitate different types of cryptocurrency-related financial crimes. These gaps will be addressed through thematic analysis on 51 crypto crime cases. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2462-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Offshore financial centres: the political economy of regulation",
+    "authors": "Masciandaro, D",
+    "year": "2008",
+    "doi": "10.1007/s10657-008-9075-5",
+    "abstract": "This paper claims that the regulation profile of the Offshore Financial Centres (OFCs) with respect to the international standards defined to prevent potentially harmful phenomena-such as aggressive taxation, financial instability, money laundering and terrorism finance-depends on their specific structural features. In the designing of the regulatory framework the OFCs policymakers define the optimal degree of compliance maximizing a political cost benefit function. A simple model shows that the policymaker convenience to establish an OFC jurisdiction can depend on peculiar country endowments, consistently with a path-dependency approach. The model is empirically tested using a 222 countries' sample, using different classifications of OFCs. On the one hand we find that the probability to be an OFC is greater with higher political stability, lower crime level, lower voice in international organizations, and if the country is characterized by a Common Law juridical system. Furthermore a low resource endowment seems to have a slightly influence on the choices to be an OFC. On the other hand it seems not to be crucial to use English as official language, to be a former colony, and also the geographical position it is not fundamental. The results are used for an overall assessment of the adequacy of the international policy aimed to fill the regulation gap, raising doubts on the persistency of the name and shame approach.",
+    "source": "EUROPEAN JOURNAL OF LAW AND ECONOMICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

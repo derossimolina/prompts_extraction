@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2476-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DE- SHADOWING OF THE ECONOMY IN THE FIELD OF NON- BANK FINANCIAL INSTITUTIONS",
+    "authors": "Buha, V; Svir, P; Tkachenko, R",
+    "year": "2023",
+    "doi": "10.30525/2256-0742/2023-9-1-27-34",
+    "abstract": "The purpose of the article is to define the de-shadowing of the economy in the sphere of non-bank financial institutions. The author presents the peculiarities of the domestic shadow economy and defines the concept of the shadow economy in the non-banking financial sector, identifies the components of the shadow economy, and proposes measures to overcome shadow economic processes. Subject of the research de-shadowing economy in the sphere of activities of non-banking financial institutions. The shadow economy in the NFI is a complex socio-economic phenomenon, which is presented as a set of uncontrolled and unregulated, both illegal and legal, but immoral financial and economic relations in the sphere of activity of the NFI, which are in conflict with the legislation in force and are characterised by deliberate illegal acts of individuals, committed with the aim of concealing their income from the state and its bodies, making profits, evading taxes, etc. The shadow economy has three components: the informal, the hidden and the underground (criminal) economy. The informal economy is characterised by unregulated production of goods and provision of services; the hidden economy is the legal production and sale of unregistered goods and services; the underground (criminal) economy - prohibited activities (corruption, drug trafficking, etc.). Methodology - the article uses general scientific methods of formal logic (analysis, synthesis, deduction, induction, analogy, abstraction and modeling). It should be noted that the content analysis method made it possible to determine the influence of the shadow economy on the commission of violations in the field of activity of NFIs, to show in a qualitative and quantitative ratio, in general, the trends in the level of spread of violations in their activities. Results. The definition of the concept of the shadow economy in the non-banking financial sphere is given - it is a complex socio-economic phenomenon, which is a set of uncontrolled and unregulated, both illegal and legal, but immoral financial and economic relations in the sphere of activity of NFIs, which are in conflict with the legislation in force and are characterised by deliberate illegal actions of persons with the purpose of concealing their income from the state and its bodies, making profits, evading taxes, etc.; the components of the shadow economy are defined; it has been proved that Ukraine has a fairly extensive shadow economy in its economy, which actually serves as the basis of the country's entire financial policy. The NBU acts as a state regulator of social relations arising during the conduct of economic activities related to finance (public or private).",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

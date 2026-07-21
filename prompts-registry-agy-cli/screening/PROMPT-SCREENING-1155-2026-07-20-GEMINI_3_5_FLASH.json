@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1155-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Creating a Market Where There Is None: Spatial Practices of Street Vendors in Dar es Salaam, Tanzania",
+    "authors": "Malefakis A.",
+    "year": "2019",
+    "doi": "10.1111/ciso.12206",
+    "abstract": "Although practices of mobile street vendors might appear fleeting, they are not transient and without effect on the urban landscape. The spatial practices of street vending transform public spaces into markets by inscribing the vendors’ knowledge necessary to conduct business in the urban landscape. With reference to ethnographic material on mobile street vendors in Dar es Salaam, Tanzania, I will show how street traders learned to locate the relevant social, material, and symbolic goods and people at specific nodes in the spatiotemporal dynamic of the city and jointly created an understanding of the relations of these elements to one another and to themselves. By means of a shared jargon vocabulary with which they named places, customer groups, or kinds of encounters, the vendors inscribed their experiential knowledge into urban space and thus transformed it into a market as an epistemic landscape, a layer of meaning and knowledge that spanned the spatiotemporal topography of the city and allowed the vendors to organize their practices. The concept of the epistemic landscape refers to the structuring potential of recursive spatial practices and emphasizes the socially and culturally creative potential of street vending. [Africa; Tanzania; Urban Economy; Informal Economy; Street Vending; Temporality; Practice; Space; Knowledge; Landscape]. © 2019 by the American Anthropological Association",
+    "source": "City and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

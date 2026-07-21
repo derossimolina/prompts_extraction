@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1662-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulation of prevention money laundering relating to time must be now to costumers. Reflections from his application by the issuing bank a documentary credit; [La regulación de prevención del lavado de activos relativa al momento en que se debe conocer a los clientes. Reflexiones derivadas de su aplicación por el banco emisor de un crédito documentario]",
+    "authors": "Milos Á.T.",
+    "year": "2016",
+    "doi": "10.4067/S0718-00122016000200002",
+    "abstract": "This paper analyzes the anti-money laundering regulation about the moment in which a bank has to know his customers. It is particularly focused in the role of an issuing bank in a documentary credit operation. The thoughts mentioned are aimed to strengthen the preventive role of the antimoney laundering provitions, taking into account how this international means of payment is conducted according to the Private Law.",
+    "source": "Ius et Praxis"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

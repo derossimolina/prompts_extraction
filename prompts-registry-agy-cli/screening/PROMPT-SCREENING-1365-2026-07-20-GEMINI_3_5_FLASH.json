@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1365-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Seychelles: Prospects, Probity and Legacy–Governance under Transnational Pressures",
+    "authors": "Robinson A.",
+    "year": "2019",
+    "doi": "10.1080/00358533.2019.1618612",
+    "abstract": "Seychelles has a stable economy, which has a basis for solid growth. Its tourism sector is robust and competitive. The government is boosting Seychelles’ future as an offshore financial centre, although its domestic oversight is weak, and headwinds are developing. More concerning, argues this article, is the fishing sector where overfishing threatens the tuna stock. Future success in these three sectors will heavily depend on the direction and strengthening of governance, which will be conditioned by international competitive pressure. Perhaps Seychelles’ biggest challenge is finding sufficient skilled personnel to build governance. Meanwhile, the country is battling transnational concerns, including money laundering, international tax evasion, profit shifting, transfer pricing and illegal fishing. Seychelles’ governance, under staff shortage pressures, will be stretched to step-up quickly to any heightening of these hazards. A Seychelles’ strength is its political focus on economic strategy. It is a multi-party democracy with solid institutions. But politics risks greater volatility. Former ruler René remains an active godfather in politics. His interests are under pressure from an assertive opposition. How he reacts will determine future stability. © 2019, © 2019 The Round Table Ltd.",
+    "source": "Round Table"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

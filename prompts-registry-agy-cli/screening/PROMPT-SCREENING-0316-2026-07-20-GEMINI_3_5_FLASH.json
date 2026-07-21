@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0316-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Privacy and national security issues relating to the introduction of a central bank digital currency in Australia",
+    "authors": "Michail N.; Selvadurai N.; Goldbarsht D.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-05-2025-0079",
+    "abstract": "Purpose – The purpose of this paper is to analyse privacy and national surveillance laws in Australia, including but not limited to the federal Privacy Act 1988 and the federal Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF), to determine whether a tension exists between these two statutes within the context of the deployment of central bank digital currency (CBDC) in Australia. Design/methodology/approach – The paper adopts doctrinal and normative approaches for analysis of the relevant legislations. Furthermore, the paper adopts a functionalist theoretical perspective to interrogate the interrelationship between regulation and society. Findings – The paper suggests that the relevant legislations contain undefined terms, such as “reasonable grounds”, which may give the appearance of a balanced approach to the interactions between privacy and national surveillance laws within the context of deployment of CBDCs. The paper argues that lack of definition of these terms, however, renders the terms ineffective, leading to a potential regulatory overreach. The paper recommends administrators need internal policies and procedures that would give clear guidance on the possible meanings of those legislative terms to achieve the balance desired between privacy and national security requirements in Australia when deploying CBDCs. It is suggested that internal policies are to base suspicion on factual basis for decision-makers to have reasonable grounds for contravening privacy legislations. This may be achieved through requiring decision-makers to justify their decisions and consider alternative options before infringing on privacy, thus enhancing accountability. Furthermore, it is suggested that the transparency and traceability provided by distributed ledger technologies will compel decision-makers to assess the benefits of privacy violations against their costs, promoting a balanced approach to surveillance and personal data disclosure. Originality – The originality of the paper lies in its seminal analysis of the interaction of privacy an anti-money laundering laws in the context of the introduction of a central bank digital currency. © 2025 Emerald Publishing Limited",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

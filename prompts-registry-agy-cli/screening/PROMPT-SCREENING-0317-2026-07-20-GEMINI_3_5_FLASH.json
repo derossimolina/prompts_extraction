@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0317-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Defiance as an image restoration strategy: refining the reputation risk management framework",
+    "authors": "Sathye M.",
+    "year": "2024",
+    "doi": "10.1108/QRAM-12-2023-0249",
+    "abstract": "Purpose: This study aims to develop an understanding of strategies used by two major banks in Australia to manage reputation risk after court proceedings were initiated by the government for serious breaches of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006. Design/methodology/approach: The study is grounded in the corporate social responsibility (CSR) and image restoration literature. Thematic analysis of court proceedings, banks’ annual report suites (which include sustainability reports) and media reports was undertaken using the conceptual framework of reputation risk management (RRM). Findings: A major new strategy of image restoration – defiance – emerged. It is contended that the existing RRM framework needs to be refined. Similarly, in the reducing effectiveness strategy, two new sub-strategies need to be included: refusal to acknowledge an incident as reputational damage and acceptance of the statutory penalty without legally challenging it. The banks also used traditional strategies of the RRM framework, such as reducing effectiveness by minimisation, bolstering, corrective action and mortification. Originality/value: Trustworthiness and confidence are at the core of modern banking. Banks use CSR disclosures as the principal means for image restoration. The present paper explores the link between extant CSR literature and RRM. © 2024, Emerald Publishing Limited.",
+    "source": "Qualitative Research in Accounting and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1901-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The threats that terrorist and subversive organisations pose, particularly by penetration, to the stability and integrity of financial institutions and markets",
+    "authors": "de Koster P.",
+    "year": "2010",
+    "doi": "10.1108/13685201011034078",
+    "abstract": "PurposeThe purpose of this paper is to give a current overview of the threats that terrorist and subversive organisations pose to the stability and integrity of financial institutions and markets and to put forward new measures to efficiently and effectively fight terrorists and terrorist organisations. Design&sol;methodology&sol;approachThe paper starts from the statement by several experts that criminal and terrorist organisations have managed to organise themselves and have accumulated significant financial resources to integrate them into the financial system. The author uses the own experience as Deputy Director of the Belgium Financial Intelligence Processing Unit, the FATP experience and the practical experience of the Belgium Financial Intelligence Processing Unit &lpar;the paper includes practical case studies&rpar; to identify these threats and new measures. FindingsThe paper concludes that the traditional approach of fighting money laundering and terrorism financing has its limits and must be complemented in order to be efficient and defeat terrorists or at least decrease their ability to act. The paper proposes a new approach to complement the traditional approach of fighting money laundering and terrorism financing. Originality&sol;valueConvictions for terrorism or terrorism financing, as well as seizures and confiscations of dirty money remain very limited. Criminal and terrorist organisations are always very active all over the world. This paper is not only consequently very important to identify threats but also to identify and propose new measures to efficiently and effectively fight terrorists and terrorist organisations. © 2010, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

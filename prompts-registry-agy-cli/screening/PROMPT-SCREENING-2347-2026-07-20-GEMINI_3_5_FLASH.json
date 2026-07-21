@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2347-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "PREDICATE OFFENCES OF MONEY LAUNDERING AND ANTI MONEY LAUNDERING PRACTICES IN BANGLADESH AMONG SOUTH ASIAN COUNTRIES",
+    "authors": "Islam, MS; Eva, SA; Hossain, MZ",
+    "year": "2017",
+    "doi": "10.1515/sbe-2017-0037",
+    "abstract": "The purpose of the study is to identify the main reasons of money laundering in Bangladesh among the twenty seven predicate offences of money laundering prescribed by Bangladesh Bank and position of Bangladesh among South Asian Countries regarding anti-money laundering practices. Besides, an anti-money laundering model has been developed to combat against money laundering as 14 percent bankers think that only existing know your customer form and transaction profile of banking sector are not enough to detect money laundering. To conduct the study, 91 bankers have been surveyed to take response through structured questionnaire regarding their opinion about the predicate offences of money laundering and sufficiency of existing KYC form of banking sector to detect money laundering. From the responses, factor analysis, test of hypothesis, correlation and regression analysis have been conducted using SPSS software. The study identifies that predicate offences of money laundering can be minimized mainly through scrutinizing the activities of local criminals with foreign network and strict anti-corruption measures through automation in National Board of Revenue, strict policy adoption of criminal detection and support from foreign experts. Besides, regression model shows that only six predicate offences of money laundering explains 87.2 percent of money laundering that should get more emphasize to combat against money laundering. From the comparative analysis, it has been found that Bangladesh in holding better position just after India among six South Asian Countries according to Basel AML Index score. This study provides a complete understanding of the position of Bangladesh in case of money laundering and anti-money laundering practices. The integration of four domains, i.e. AML model development, factor analysis, econometric analysis and comparative analysis of AML index will provide insights to managers and policy makers about the money laundering scenario in Bangladesh.",
+    "source": "STUDIES IN BUSINESS AND ECONOMICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

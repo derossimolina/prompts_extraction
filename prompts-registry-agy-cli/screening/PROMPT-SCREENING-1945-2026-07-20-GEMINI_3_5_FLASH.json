@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1945-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trade-based money laundering and terrorist financing",
+    "authors": "Zdanowicz J.S.",
+    "year": "2009",
+    "doi": "10.2202/1555-5879.1419",
+    "abstract": "Money laundering can be defined, generally, as the process of concealing the existence, illegal source, or application of income derived from a criminal activity, and the subsequent disguising of the source of that income to make it appear legitimate. Deception is the heart of money laundering. The use of international trade to move money, undetected, from one country to another is one of the oldest techniques used to circumvent government scrutiny. International trade as a means of laundering money is also a technique generally ignored by most government law enforcement agencies. This article details how false international trade invoicing is used to move money across borders, undetected. This research details how the statistical analysis of the U.S. trade database can assist in measuring illegal money flows. It also details some statistical techniques that may be used to detect and monitor these abnormal transactions. © 2009 by bepress.",
+    "source": "Review of Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

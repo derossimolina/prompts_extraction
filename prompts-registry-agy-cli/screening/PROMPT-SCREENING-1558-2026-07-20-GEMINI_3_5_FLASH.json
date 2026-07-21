@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1558-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The independent's edge in an illegal drug distribution setting: Levitt and Venkatesh revisited",
+    "authors": "Morselli C.; Paquet-Clouston M.; Provost C.",
+    "year": "2017",
+    "doi": "10.1016/j.socnet.2017.04.003",
+    "abstract": "Popular imagery and scholarly research have differed significantly in their perceptions and understanding of the structure and scope of organized crime and gang settings. While the common image is that of the corporate-like or formal criminal organization, past research has been more likely to argue and demonstrate in favour of market and network flexibility. In this study, we pursue this latter line of inquiry by demonstrating the market and network features that shape illegal drug distribution settings. In doing so, we rely on the Quebec Hells Angels accounting books for a one-year period, which brings us within the same empirical domain as Levitt and Venkatesh's (2000) study of the Black Knights in 1990s Chicago. Our study sways from the main premise that oriented the Black Knight's case study—namely that performance within the illegal drug distribution structure was directly tied to that organization's rigid hierarchical structure. While the Hells Angels can be analyzed as a corporation, this does not mean that Hells Angels members are, by definition, at an advantage because of their organizational status in the illegal drug distribution setting in which some members are active. What our findings indicate is that a participant's ability to adapt to market dynamics and take on a core network position within an illegal drug market (cocaine, in this study) matter most. Overall, we demonstrate that: 1) Quebec's cocaine market was structured primarily around traditional market forces; 2) the transaction network around the Hells Angels was not centralized around a single person or small group of people; 3) Hells Angels members were not the most active participants; and 4) being a Hells Angels member did not increase one's volume of transactions within the network—quite differently, core network positioning did. © 2017 Elsevier B.V.",
+    "source": "Social Networks"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

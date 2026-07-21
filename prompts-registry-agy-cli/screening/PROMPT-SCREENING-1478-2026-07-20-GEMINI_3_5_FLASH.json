@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1478-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Land Grabbing as Security Mercantilism in International Relations",
+    "authors": "McMichael P.",
+    "year": "2013",
+    "doi": "10.1080/14747731.2013.760925",
+    "abstract": "International studies routinely consign agri-food relations to the analytical margins, despite the substantive historical impact of the agri-food frontiers and provisioning on the structuring of the interstate system. As a case in point, current restructuring of the food regime and its global political-economic coordinates is expressed through the process of 'land grabbing'. Here, the crisis of the WTO-centered corporate food regime, which has neoliberalized Southern agriculture while sustaining Northern agro-food subsidies, is manifest in a new form of mercantilism of commandeering offshore land for supplies of food, feed, and fuel. This article examines the content and implications of this new 'security mercantilism', which both affirms and contradicts a neoliberal order, anticipating a shift in international relations around resource grabbing. © 2013 Copyright Taylor and Francis Group, LLC.",
+    "source": "Globalizations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

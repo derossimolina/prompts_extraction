@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1266-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering through the strategic management of accounting transactions",
+    "authors": "Ravenda D.; Valencia-Silva M.M.; Argiles-Bosch J.M.; García-Blandón J.",
+    "year": "2019",
+    "doi": "10.1016/j.cpa.2018.08.003",
+    "abstract": "We develop new transaction management (TRM)proxies, to find empirical evidence of the strategic management of accounting transactions, aiming to carry out money laundering activities, within a sample of 355 firms controlled by Italian Mafias. Our results reveal that, using a cluster analysis, Mafia-controlled firms can be classified into two different groups corresponding to real firms and shell firms, based on specific assumptions on their distinctive peculiarities. Importantly, our regression estimations provide evidence of different TRM practices of these firms, which may be linked to specific money laundering activities. Finally, the seizure of Mafia-controlled firms and their assignment to legal administrators only have a significant impact on TRM within Mafia-controlled shell firms, whereas the null impact on TRM, within Mafia-controlled real firms, casts doubt on the ability of legal administrators to completely deter money laundering. This study proposes new TRM proxies, based on the nature of the expenditure transaction, which could be used by authorities as accounting red flags of money laundering activities. Furthermore, this study may support critical arguments against the orthodox view of the anti-money laundering role of accounting and the suitability of traditional TRM proxies to depict practices within firms sharing common traits with Mafia-controlled firms. Indeed, these firms may engage in TRM for illicit and/or opportunistic purposes, when the external scrutiny is weak, their financial statements are irrelevant for trading with stakeholders, because of competitive advantages or dominant market positions, and they can count on colluded actors as counterparties of money laundering transactions. © 2018 Elsevier Ltd",
+    "source": "Critical Perspectives on Accounting"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

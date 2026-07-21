@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2431-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "RANKING RESIDENTIAL NEIGHBORHOODS BASED ON THEIR SUSTAINABILITY: A CM-BWM APPROACH",
+    "authors": "Andrade, FMC; Ferreira, FAF; Correia, RJC",
+    "year": "2022",
+    "doi": "10.3846/ijspm.2022.18310",
+    "abstract": "Population growth and rapid urbanization have consequences that are reflected in the economic, environmental, and social stability of city-residential neighborhoods. These impacts directly affect not only residents but also real estate markets and local governments. The professionals working in the latter entities have become increasingly concerned about urban sustainability and its strategic integration into their plans. Strategies have been implemented that focus on both addressing negative aspects of residential neighborhoods and enhancing positive features that can contribute to the con-tinuous improvement of locals' living conditions. This study applies the multiple-criteria decision analysis approach and a combination of cognitive mapping and the best-worst method (BWM) to identify the most relevant criteria and use these to rank residential neighborhoods according to their sustainability. To apply the selected techniques, two group meetings were held with a panel of decision makers. The results were validated by the panel members and the Funchal City Council councilor for urbanism, who concurred that the proposed ranking system facilitates the identification of the most sustain-able residential neighborhoods. The contributions and limitations of the methodological approach are also discussed.",
+    "source": "INTERNATIONAL JOURNAL OF STRATEGIC PROPERTY MANAGEMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

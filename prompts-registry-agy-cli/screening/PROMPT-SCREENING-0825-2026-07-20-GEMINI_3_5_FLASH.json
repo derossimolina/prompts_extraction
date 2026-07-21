@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0825-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fraud prevention in the Indonesian banking sector using anti-fraud strategy",
+    "authors": "Shonhadji N.; Irwandi S.A.",
+    "year": "2024",
+    "doi": "10.21511/bbs.19(1).2024.02",
+    "abstract": "Fraud and financial crimes involving banking employees have become serious and complex problems throughout the world, including Indonesia. This study aimed to analyze a fraud prevention through anti-fraud strategy and modified situational crime prevention theory. Data were obtained using a questionnaire distributed and interviewed to accounting officers, marketing departments, customer services, tellers, operational supervisors and risk management of banks in Indonesia. Respondent filled in 217 questionnaires completely. The data analysis technique used is a path analysis technique with the WarpPLS. The results show that anti-fraud strategies have a positive effect on fraud prevention. Banking in Indonesia has succeeded in implementing anti-fraud strategy through a whistleblowing policy, which focuses on efforts to protect whistleblowers and disclose potential fraud, compliance with the implementation of internal controls in activity units, and the proper functioning of risk management. The modified situational crime prevention theory also has a positive effect, and religiosity is a moderating variable. The results have also informed that banks have attempted to create conditions and awareness for perpetrators that the benefits of fraud are less and not commensurate with the high risks borne, and narrowing opportunities and providing strict sanctions to perpetrators can prevent fraud. © 2024 LLC CPC Business Perspectives. All rights reserved.",
+    "source": "Banks and Bank Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

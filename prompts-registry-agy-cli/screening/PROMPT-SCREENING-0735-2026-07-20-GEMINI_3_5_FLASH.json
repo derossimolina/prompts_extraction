@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0735-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Compliance requirements in the future EU anti-money laundering and countering the financing of terrorism framework",
+    "authors": "Kaiser R.",
+    "year": "2024",
+    "doi": "10.69554/lptq3527",
+    "abstract": "As gatekeepers of the financial system, financial institutions and payment service providers play a pivotal role in detecting suspicious activities and transactions. Recognising the inefficiencies and ineffectiveness of the current EU Framework for Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT), in 2021 the European Commission issued a package to address these issues and improve the framework. This package is very likely to be adopted by the EU co-legislators in Q1 2024. It encompasses four legislative instruments: (1) the proposed AML/CFT Regulation will harmonise the rules and obligations for the private sector (COM/2021/420 final); (2) the proposed AML/CFT Directive will harmonise tasks and powers of public authorities (COM/2021/423 final replacing the existing Directive 2015/849/ EU); (3) the proposed AML Authority Regulation will establish the Authority for Anti-Money Laundering and Countering the Financing of Terrorism, amending Regulations (EU) No. 1093/2010, (EU) 1094/2010, (EU) 1095/2010 COM/2021/421 final); and (4) a proposal to recast the Fund Transfer Regulation to trace the transfer of crypto-assets (COM/2021/422 final reviewing Regulation 2015/847/EU). This paper will describe each of these legal instruments, with a focus on the AML/CFT Regulation, which provides financial institutions and payment service providers with a new ‘AML Rulebook’. © Henry Stewart Publications.",
+    "source": "Journal of Payments Strategy and Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

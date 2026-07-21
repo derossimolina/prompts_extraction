@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0417-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax statute of limitations as a cause for the extinction for punishability in crimes against the Brazilian national financial system? A hermeneutic problem; [¿Prescripción del crédito tributario como causa de extinción de punibilidad en los delitos contra el orden tributario brasileño? Un problema hermenéutico]",
+    "authors": "de Carvalho I.L.; de Souza Dantas M.B.",
+    "year": "2024",
+    "doi": "10.5281/zenodo.13822634",
+    "abstract": "The research analyzes whether the statute of limitations on tax credit can be interpreted as a cause for extinguishing the punishability of offenses against the tax order, a controversial issue in doctrine. The brazilian Superior Court of Justice holds that this is not possible. The issue is whether the statute of limitations on tax credit should extinguish punishability in criminal law. This study is relevant because the tax credit expiration period is common and affects many individuals. The objective is to verify if it can be considered as a hypothesis for extinguishing punishability and to identify the hermeneutic technique for such recognition. The research uses a deductive, qualitative, exploratory method with bibliographic and documentary procedures. It concludes that the extinguishing cause of Article 9, § 2, of Law No. 10.684/2003 can be applied, by analogy, to the statute of limitations on tax credit, based on a normative-structuring methodology. © 2024, Xurists in Action Association. All rights reserved.",
+    "source": "Cadernos de Dereito Actual"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

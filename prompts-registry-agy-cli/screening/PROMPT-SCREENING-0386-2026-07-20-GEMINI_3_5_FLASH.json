@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0386-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The institutionalisation of social criteria in banking. The concept of social banking: A qualitative comparative analysis (QCA); [La institucionalización de los criterios sociales en el sector bancario. El concepto de banca social: Un análisis cualitativo comparado (QCA)]",
+    "authors": "Cotelo Ouréns Y.",
+    "year": "2025",
+    "doi": "10.3989/arbor.2025.813.2904",
+    "abstract": "This article contributes to clarifying the concept of social banking by analysing the different ways in which social and sustainable criteria are institutionalised in banking organisations. Its main contribution is found in the novel prioritisation of its determinants through identification of the necessary and sufficient characteristics that define social banking. With this objective, it develops a structuring of approaches that addresses its roots, development and evolution to then examine its specific characteristics and operationalise these in dimensions: triple objective (social, environmental and economic), social economy, inclusion, governance and practical banking. Through a qualitative comparative analysis, it analyses the non-financial reports of 19 Spanish banking entities in 2022, whose results reveal alternative equivalent configurations of these dimensions. These configurations are made up of the triple objective and participatory governance dimensions, alternatively combined with banking practice with criteria or financial inclusion or social economy. It concludes that different combinations of dimensions lead to alternative institutionalisations of social and sustainable criteria, empirically determining that the terminological diversity found around social banking refers to different configurations of the same social banking phenomenon. © 2025 CSIC.",
+    "source": "Arbor"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

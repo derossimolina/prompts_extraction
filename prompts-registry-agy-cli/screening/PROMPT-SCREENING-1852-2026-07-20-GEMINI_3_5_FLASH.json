@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1852-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Universal Postal Union's strategy for fighting \"Snail mail\" fraud may be the key to making e-commerce safer",
+    "authors": "Vial V.",
+    "year": "2008",
+    "doi": "10.1002/joe.20211",
+    "abstract": "Open networks, high-tech or low-tech, are by their nature vulnerable to fraudulent use, and e-commerce platforms are increasingly targets of illegal activity. An international security initiative to reduce drug trafficking through the mails has devised strategies that could also be useful for protecting companies and consumers from online fraud. The author examines the characteristics of networks that make them vulnerable to abuse, and examines the Universal Postal Union's security scheme for working with national postal services to develop a comprehensive database of illegal transactions and upgrade screening processes for detecting them. Finally the author proposes a general framework of action for private companies. © 2008 Wiley Periodicals, Inc.",
+    "source": "Global Business and Organizational Excellence"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

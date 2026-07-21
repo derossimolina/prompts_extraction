@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1120-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Determining the level of bank connectivity for combating money laundering, terrorist financing and proliferation of weapons of mass destruction",
+    "authors": "Vnukova N.; Kavun S.; Kolodiziev O.; Achkasova S.; Hontar D.",
+    "year": "2019",
+    "doi": "10.21511/bbs.14(4).2019.05",
+    "abstract": "The study aims at developing an approach to determining the bank connectivity level. This will contribute to implementing a risk-oriented approach to counteracting money laundering, terrorist financing and the proliferation of mass destruction weapons. The article proposes to assess the degree of bank connectivity and determine the impact of these circumstances on money laundering risk using banks from foreign banking groups, whose capital share in the Ukrainian banking system amounts to more than 40 percent. Using the resulting correlation dependencies, two-dimensional binary matrices were constructed, which became the basis for creating graphs of links between banks. The institutions under study are found to be predominantly connected in terms of their sets (varieties), since the average proportion of banks with close direct links is over half, and the non-connectivity coefficient for them is about 40%. Each surveyed bank, on average, has direct links with eight other banks and inverse links with four other banks. Considering banks as tops of the graph, one can assume that there is a hidden relationship between some banks. This approach allows calculating all existing relationships between banks to assess risk. Transforming the graph from non-oriented to oriented made it possible to identify and clearly demonstrate possible directions of links between the investigated financial institutions, which should be further verified to determine the risk of money laundering, terrorist financing, etc. © 2019 Nataliya M. Vnukova, Sergii V. Kavun, Oleh M. Kolodiziev, Svitlana A. Achkasova, Daria D. Hontar.",
+    "source": "Banks and Bank Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

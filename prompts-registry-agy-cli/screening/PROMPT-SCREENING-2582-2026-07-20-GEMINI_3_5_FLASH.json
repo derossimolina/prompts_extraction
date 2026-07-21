@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2582-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ensuring Shariah compliance in the Fintech: a comprehensive analysis from Indonesia",
+    "authors": "Faizi, F; Rohim, ANR; Surbakti, MHS; Munir, M; Qulsum, UQ",
+    "year": "2025",
+    "doi": "10.1108/QRFM-05-2025-0129",
+    "abstract": "PurposeThis study aims to explore the strategies used by Islamic fintech platforms in Indonesia to ensure Shariah compliance and examines the role of regulatory bodies in enhancing and enforcing these practices. The proliferation of Islamic fintech platforms in Indonesia has reshaped the financial landscape by offering innovative solutions that adhere to Islamic principles. This study delves into the multifaceted strategies adopted by these platforms to ensure Shariah compliance and highlights the critical role that regulatory bodies play in supporting and supervising these efforts.Design/methodology/approachThis study used a qualitative methodology in the form of exploratory research. This approach was selected for its potential to facilitate the investigation of phenomena that have not been thoroughly elucidated and to contribute to enhancing knowledge and addressing research gaps in this field. The study involved key stakeholders with a comprehensive understanding of the research problem. Data were collected through semi-structured interviews, using a purposive sampling technique. The study included 11 informants, comprising Islamic fintech practitioners, Shariah Supervisory Board (SSB) members and academicians. The interview data were analyzed using NVivo 14, a qualitative data analysis software.FindingsThis study reveals that successful Shariah compliance in Islamic fintech involves a multifaceted approach, including the careful structuring of products, the implementation of Shariah contracts and the establishment of robust internal audit and risk assessment processes. The research highlights the critical role of the SSB in product vetting, risk management and ongoing compliance monitoring. It also emphasizes the importance of continuous staff training to ensure a comprehensive understanding of Islamic principles throughout organizations. Furthermore, this study underscores the crucial role of regulatory bodies in fostering an environment that encourages innovation while maintaining strict adherence to Islamic law.Research limitations/implicationsThe findings have significant implications for the development of Shariah-compliant fintech products and services, not only in Indonesia but also in other jurisdictions with significant Muslim populations. This is particularly pertinent given the growing demand for financial solutions that align with Islamic principles, which prohibit interest (riba), excessive uncertainty (gharar) and gambling (maysir).Originality/valueThis study provides valuable insights for practitioners, regulators and scholars in the field of Islamic finance, offering a roadmap for ethical and compliant integration of financial technology within the framework of Islamic law.",
+    "source": "QUALITATIVE RESEARCH IN FINANCIAL MARKETS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

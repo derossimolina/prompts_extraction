@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1690-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering in Ukraine: Tax evasion, embezzlement, illicit international flows and state capture",
+    "authors": "Stack G.",
+    "year": "2015",
+    "doi": "10.1108/JMLC-05-2014-0013",
+    "abstract": "Purpose – This paper aims to examine the role in tax evasion and corruption played in Ukraine by money-laundering organisations called “conversion centres”: networks of sham firms and banks implementing “black cash” schemes that facilitate tax evasion by the private sector and embezzlement by the state sector. The paper describes their embedding both in a post-Soviet state as well as in the international political economy. Design/methodology/approach – It draws on scholarship, journalist investigations, court records, government agency reports and other open source data and interviews with market participants. It first describes “conversion centres” as an ideal type and then presents three case studies, focusing on international financial flows and the domestic political setting. Findings – Ukraine’s conversion centres generate significant international flows of dirty money handled by specialised foreign banks mostly in the Baltic states. Domestically, conversion centres thrive through state capture, resulting from their facilitation of embezzlement by state actors. Research limitations/implications – Open source data and investigative methods make it possible to conduct empirical research in crime and corruption in the post-Soviet context. As open sources expand, the scope for such enquiry will increase. Originality/value – This is the first empirical description of “black cash” money-laundering platforms in terms of embedding in a post-Soviet state and in the international financial system. © 2015, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

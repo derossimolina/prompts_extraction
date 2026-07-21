@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0957-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing the introduction of anti-money laundering regulations on bank stock valuation: An empirical analysis",
+    "authors": "Balani H.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-03-2018-0021",
+    "abstract": "Purpose: This paper aims to analyze the impact of the introduction of anti-money laundering (AML) regulations on bank stock valuations in the USA. Regulations can have a negative impact on financial returns as a result of increased operational costs, potentially driving down stock valuations and loss of profitability. However, regulations can also have a positive impact on valuations because of greater oversight and increased investor confidence. Findings are useful for assessing the market impact of future regulations. Design/methodology/approach: Event studies and cross-sectional regression analysis are used to determine the impact on bank stock valuations together with specific characteristics of bank size and geographic headquarter location of the bank for identified AML regulations. Hypothesis related to the impact of the introduction of AML regulations are empirically tested based on the statistical significance of cumulative abnormal returns of markets. Findings: AML regulations introduced in 1998 had a positive impact on bank stock valuations, while the USA PATRIOT Act legislation of 2001 had a negative impact. These findings suggest that recent AML regulation is a cost compliance burden for banks, where the costs of operations outweigh the benefits of improved processes. Larger banks see a more negative impact on their bank stock valuations compared to smaller banks, suggesting the market perceives greater cost and less profit for larger banks. Results also show that the location of bank’s headquarters does not significantly impact bank stock valuations. Originality/value: This paper specifically focuses on the impact of AML regulations on the US banking sector, providing investors, academics and regulators additional insight on the market dynamics of regulations. Identifying whether the introduction of regulations has a significant impact on a bank’s performance will provide both banks and regulators clarity as to the net benefits associated with the current and future AML legislation. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

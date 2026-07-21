@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2449-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The obligations of the bank with regard to the sums deposited in a trust account",
+    "authors": "Lacoursière, M",
+    "year": "2016",
+    "doi": "10.7202/1036168ar",
+    "abstract": "Bank accounts are the main tool used for financial transactions, since payment orders must transfer through them. In some circumstances, the beneficiary of a transaction will ask a third party, called a trustee, to be in charge of the administration of his/her property. This may be the case when an elderly person does business with an investment broker, or advances monies to a lawyer or a notary. The legal relationship then becomes triangular and includes: the bank (where the account is held), the mandatary (trustee) and the beneficiary. As shown by the notorious Earl Jones case, a mandatary may act in his/her own interest and contrary to his/her client's interest. Since the recourse of the beneficiary in such a case may be fruitless (insolvency or -bankruptcy), the bank then becomes the preferred target of a beneficiary who has suffered a loss. This paper analyses the rights and obligations of the bank in such circumstances. Based on the duty under Canadian law to report suspicious transactions relating to money laundering, we examine the possibility of imposing a similar duty on financial institutions when a trustee performs improper transactions that result in a loss to an elderly person.",
+    "source": "REVUE GENERAL DE DROIT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

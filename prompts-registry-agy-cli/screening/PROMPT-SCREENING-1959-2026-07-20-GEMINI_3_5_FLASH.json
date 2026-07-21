@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1959-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Earnings management through transaction structuring: Contingent convertible debt and diluted earnings per share",
+    "authors": "Marquardt C.; Wiedman C.; O'Brien P.C.",
+    "year": "2005",
+    "doi": "10.1111/j.1475-679x.2005.00168.x",
+    "abstract": "In this article we examine whether firms structure their convertible bond transactions to manage diluted earnings per share (EPS). We find that the likelihood of firms issuing contingent convertible bonds (COCOs), which are often excluded from diluted EPS calculations under Statement of Financial Accounting Standard (SFAS) 128, is significantly associated with the reduction that would occur in diluted EPS if the bonds were traditionally structured. We also document that firms' use of EPS-based compensation contracts significantly affects the likelihood of COCO issuance and find weak evidence that reputation costs, measured using earnings restatement data, play a role in the structuring decision. These results are robust to controlling for alternative motivations for issuing COCOs, including tax and dilution arguments. In addition, an examination of announcement returns reveals that investors view the net benefits and costs of COCOs as offsetting one another. Our results contribute to the literature on earnings management, diluted EPS, financial reporting costs, and financial innovation. Copyright ©, University of Chicago on behalf of the Institute of Professional Accounting, 2005.",
+    "source": "Journal of Accounting Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

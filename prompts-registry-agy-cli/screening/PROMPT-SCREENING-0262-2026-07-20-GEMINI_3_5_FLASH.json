@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0262-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Snails ahead! Metaphors of change and distributed prefiguration in the degrowth movement",
+    "authors": "Saglietti C.; Brabant C.; Holmén J.",
+    "year": "2026",
+    "doi": "10.1016/j.futures.2025.103726",
+    "abstract": "What can just and sustainable futures look like? How can transformative processes be navigated to embody these futures? Are these represented by a snail going ahead slowly, a snake shedding skin, or an old oak tree harbouring great diversity? In this research, we focus on the metaphors used by pluriversal alternatives to explore and enact desirable futures through distributed prefiguration, which manifest across various currents of the degrowth movement. We analyse the resulting imaginaries and transformative strategies through their metaphors of change, since several heuristics and models for change highlight the role of metaphors for deep transformations. Metaphors underpin worldviews and mental models, and are fundamental to interpreting the world, organising cognitive landscapes, and structuring societal systems. Building on transformation studies and cognitive metaphor theory, we use the discourse dynamics framework to surface and interpret metaphors of change used by activists and researchers in the degrowth movement. From the analysis of an international survey, a participatory activity, and interviews, it emerges that the imaginaries and strategies among degrowth proponents draw mostly on relational root metaphors and ecological or societal domains. The imaginaries suggest that degrowth can inspire deep transformations on the interrelated planes of material transactions, human and more-than-human interactions, social structures, and inner being. The transformative strategies are classified as symbiotic, ruptural, interstitial, intermingling, and enabling. Considering the means-ends coherence, the balance between unity in directionality and openness to plurality is discussed in relation to hegemony-transcending transformations, to inspire new ways of thinking, acting, and relating in prefigurative efforts. © 2025 The Authors",
+    "source": "Futures"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

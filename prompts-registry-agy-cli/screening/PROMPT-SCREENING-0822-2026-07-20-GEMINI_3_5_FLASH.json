@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0822-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Adapting cybersecurity practice to reduce wildlife cybercrime",
+    "authors": "Haas T.C.",
+    "year": "2023",
+    "doi": "10.1093/cybsec/tyad004",
+    "abstract": "Wildlife trafficking is driving many species to extinction and is overwhelming law enforcement efforts to stop it. At least a 2-fold increase in the number of traffickers who are put out of business is needed to help avoid these extinctions. A cybersecurity-based solution described in this article consists of a large international confederation of criminal investigators collecting intelligence on persons involved in wildlife trafficking, analyzing it, and then recommending to law enforcement (a) cybercriminals to detain, (b) cybercriminals to surveil, and (c) where and when to intercept cybercriminal-initiated wire transfers and shipments of wildlife products. Wildlife traffickers nowadays often use the internet to commit their cybercrimes. Prosecuting such crimes is challenging. Indeed, one of the top five challenges in cybersecurity is to develop methods for pursuing cybercriminals and bringing them to justice through the acquisition of digital evidence that links specific individuals to specific illegal acts. The proposed confederation finds two lists of wildlife cybercriminals to remove. The first is found by computing centrality measures on the statistically estimated (reconstructed) current social network of wildlife cybercriminals to identify those criminals whose removal would, according to social network theory, maximally disrupt the syndicate’s operations. This list contains criminals identified as kingpins, and/or information brokers. The second list consists of those m criminals whose removal results in the largest simulator-computed drop in poaching of the trafficked species over the next year. Database access control is a form of information security (InfoSec), or data security—a chief component of cybersecurity. Here, a distributed form of information security is developed for keeping a confederation’s criminal intelligence database secure from unauthorized access and insider threats. This procedure uses only peer-to-peer transactions. The illegal trade in rhino horn is used to illustrate how this confederation would use criminal intelligence from several countries to first build a simulation of the political–ecological system that contains the trafficking operation, and then use this statistically fitted simulator to identify those traffickers to remove, wire transfers to block, and wildlife product shipments to seize. All software to implement this federated database and its access control procedure is freely available. © The Author(s) 2023. Published by Oxford University Press.",
+    "source": "Journal of Cybersecurity"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica modelagem baseada em agentes (ABM) para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo), Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

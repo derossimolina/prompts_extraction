@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0949-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Place-Based Small Business Support and its Implications for Neighborhood Revitalization",
+    "authors": "Shybalkina I.",
+    "year": "2022",
+    "doi": "10.1177/08912424221123501",
+    "abstract": "Policy makers utilize various place-based interventions to reduce spatial inequality. In particular, there has been increasing attention to supporting small businesses in distressed places, but the lack of evidence makes it difficult to justify these public investments. The author investigates the Neighborhood Opportunity Fund (NOF), which has been providing grants for physical improvements to businesses in a low-income part of Chicago since 2017. Event studies are used to quantify the program's impacts on new business licenses, jobs, building permits, the commercial real estate market, and crime. The NOF increased construction and remodeling activity and decreased narcotics crimes around establishments receiving grants. Under some circumstances, it led to new business formation and increased demand for real estate. However, no evidence was found of a relationship between the NOF and jobs or total crimes in the larger area. This study is the first step to understanding how place-based small-business support programs affect neighborhoods. © The Author(s) 2022.",
+    "source": "Economic Development Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

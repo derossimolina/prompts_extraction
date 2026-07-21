@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1391-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The determinants of corporate disclosures of anti-money laundering initiatives by Kenyan commercial banks",
+    "authors": "Mathuva D.; Kiragu S.; Barako D.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-01-2020-0001",
+    "abstract": "Purpose: This study aims to examine the extent and drivers of anti-money laundering (AML) disclosures in the audited annual reports of regional listed banks in Kenya. Design/methodology/approach: Using the Financial Action Task Force recommendations and other guidelines, the authors develop an AML disclosure index that is used to score the extent of AML disclosures by banks. A sample of 15 listed regional banks in Kenya over the period of 2007-2017 is used. Using this sample, the authors performed fixed-effects regressions to identify the significant determinants of AML disclosures. Findings: The study establishes a low level of AML disclosures in the audited annual reports of sampled banks. The extent to which the AML disclosures improved across three distinct regulatory regimes over the period of 2007-2017 is reported. The authors find that the AML disclosures are largely driven by corporate governance (board size and audit committee size) and the ratio of diaspora remittances to GDP. Practical implications: Owing to the global nature of money laundering activities, the study suggests that the Central Bank of Kenya needs to internationalize AML regulations and follow internationally accepted best practices in AML to respond to emerging trends in money laundering and related crimes. Originality/value: To the best knowledge of the researchers, this is perhaps the first study to examine the drivers of AML disclosures by banks in a developing economy in the East and Southern African region. Given the global nature of money laundering, the study makes an important and original contribution to the body of knowledge with potential for replication in other jurisdictions. The findings will also form a basis for developing an AML reporting or disclosure framework. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1230-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Virtual Currencies: New Challenges to the Right to Privacy? An Assessment under the v AML Directive and the GDPR",
+    "authors": "De Vido S.",
+    "year": "2020",
+    "doi": "10.1515/gj-2019-0045",
+    "abstract": "The purpose of this article is to analyse virtual currencies, with specific regard to Bitcoins, in light of a specific human right, the right to privacy. In the first part, this contribution will reflect on the effectiveness of the Fifth European Union Anti-Money Laundering Directive (V AML Directive) in 'regulating' the exchange between fiat and virtual currencies for the purpose of anti-money laundering and counter-terrorist financing. In the second part, it will explore whether the General Data Protection Regulation (GDPR) is applicable or not to the virtual currencies network. © 2020 Walter de Gruyter GmbH, Berlin/Boston 2020.",
+    "source": "Global Jurist"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

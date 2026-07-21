@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1217-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financing of terrorism through the banking system",
+    "authors": "Teichmann F.M.J.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-07-2017-0026",
+    "abstract": "Purpose: The purpose of this paper is to illustrate that it remains feasible for terrorists to use the banking system to transfer funds to finance their activities. Design/methodology/approach: Based upon a qualitative content analysis of 15 informal interviews with financiers of terrorism and 15 formal interviews with compliance experts and law enforcement officers, concrete methods of financing terrorism through the banking system can be described. Findings: Even though banks have implemented strict control mechanisms, they often do not give the same attention to terrorism financing as they do to money laundering. Recently, refugees and “tourists” may have been involved in terrorism financing. When it comes to transferring larger amounts of money, terrorists do not necessarily act in their own name, but rather hire “straw men”. Some terrorists have proceeded to set up real companies in Turkey. Terrorists can explain why funds need to be transferred from Europe to Turkey through “charitable contributions”. Transfers of large amounts of money can also be facilitated by lawsuits. Research limitations/implications: The findings are based on semi-standardized interviews limited to the perspectives of the 30 interviewees. Practical implications: The identification of gaps in current terrorism-financing prevention mechanisms provides both compliance officers and legislators with valuable insights. Originality/value: Whilst the existing literature focuses on understanding the channels terrorists can use to finance their activities and on developing prevention mechanisms, this paper emphasizes that terrorists can still use the banking system to accomplish their goals. This paper illustrates ways terrorists can transfer funds through banks. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

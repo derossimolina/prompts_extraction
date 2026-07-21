@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2379-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trade based money laundering: A primer for banking staff",
+    "authors": "Naheem, MA",
+    "year": "2017",
+    "doi": "10.1057/jdg.2015.21",
+    "abstract": "Purpose: What are the reason(s) for writing the paper and the aims of the research? - This article provides a detailed overview of the risks associated with trade-based money laundering and in particular the use of free trade zones. The purpose of the article is to inform the development of risk-based assessments within the banking sector on trade-based money laundering. It offers findings from research conducted by the author and other academic findings on areas to focus on in risk assessment. Design/Methodology/Approach: How are the objectives achieved? Include the main method(s) used for the research. What is the approach to the topic and what is the theoretical or subject scope of the article? - The article uses a number of sources of secondary data, including FATF reports, the Wolfsberg Principles and current research into TBML and the banking sector. It also uses findings from research by the author. The subject scope is trade-based money laundering (TBML). Findings: What was found in the course of the work? This will refer to analysis, discussion, or results - The main findings from the analysis are that banks have a greater legal and regulatory responsibility towards detecting and reporting suspicious transactions than they would have previously considered. This includes identifying the source and purpose of fund transfers related to trade and shipping finance and establishing the beneficial ownership of clients and the businesses in which they are working. The article highlights the inherent risks associated with free trade zones and the need for a greater level of awareness across all units of the bank on risk assessment from TBML crimes. Research limitations/implications (if applicable): If research is reported on in the article this section must be completed and should include suggestions for future research and any identified limitations in the research process - The article is a viewpoint paper but is based on forthcoming research by the author and uses an extensive literature-based research analysis. Practical implications (if applicable): What outcomes and implications for practice, applications and consequences are identified? How will the research impact upon business or enterprise? What changes to practice should be made as a result of this research? What is the commercial or economic impact? Not all papers will have practical implications - The research article has identified a number of implications to the banking sector on addressing Anti-Money Laundering (AML) deficiencies, especially the need to improve standards of beneficial ownership verification and CDD checks for business clients involved in trading and shipping. It also has implications for IT development within this sector for all agencies working on TBML crimes. Social implications (if applicable): What will be the impact on society of this research? How will it influence public attitudes? How will it influence (corporate) social responsibility or environmental issues? How could it inform public or industry policy? How might it affect the quality of life? Not all papers will have social implications - This article has implications for the global banking sector. It will also influence approaches to AML regulation, risk assessment and audit within the broader financial services sector. In addition it has implications for agencies working on TBML, including law enforcement, customs, governments and tax and revenue investigators. Originality/Value: What is new in the article? State the value of the article and to whom - The originality of this article is the in-depth discussion on TBML and banking risk assessment processes.",
+    "source": "INTERNATIONAL JOURNAL OF DISCLOSURE AND GOVERNANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

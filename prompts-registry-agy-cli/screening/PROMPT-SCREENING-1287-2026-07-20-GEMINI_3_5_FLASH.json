@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1287-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The regime against money laundering: a call for scientific modelling",
+    "authors": "Sotande E.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-11-2017-0066",
+    "abstract": "Purpose: The purpose of this paper is to examine the magnitude of the global problem of money laundering and the scholarly critics of money laundering concept. The paper further explores the scientific modelling to combat money laundering transactions. Design/methodology/approach: The research methodology adopted was qualitative analysis. This was applied through the use and analysis of documents and expert interviews. Findings: The paper reveals how the global displacement on the fight against money laundering is being determined by “attractiveness index”. This attractiveness index is the dark side affecting anti-money laundering (AML) concept within developing economies. The critics of the AML accounts for major discrepancies associated with the context of the term AML regimes and international standards to combat illicit financial flows. Social implications: The regimes against money laundering compel countries to adopt the same recommendations and standards and were not given opportunity to proffer their own creative alternatives within their own circumstances. Originality/value: The paper suggests AML Transaction Validation Model in the quest to combat illicit financial flows originated from organized and serious crime within the global jurisdictions. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

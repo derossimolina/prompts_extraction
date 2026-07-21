@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0389-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Quo Vadis legal shielding: examining the abuse of attorney immunity as a corporate enabler in Indonesia’s money laundering landscape",
+    "authors": "Sihombing L.A.",
+    "year": "2026",
+    "doi": "10.1080/23311886.2026.2637242",
+    "abstract": "The misuse of attorney immunity as a corporate enabler in money laundering threatens Indonesia’s macroeconomic stability, causing inflation, significant fiscal losses, and hindered asset recovery. This study aims to identify the root causes of legal contradictions, analyze the systemic impacts of this abuse, and formulate a regulatory harmonization model. Employing a normative legal methodology, the research utilizes hierarchical regulatory examination, philosophical conflict deconstruction, and comparative studies. The findings reveal that the contradiction between absolute attorney immunity (Law No. 18/2003) and the audit authority of the Financial Transaction Reports and Analysis Center/PPATK (Law No. 8/2010) creates a legal vacuum exploited to reject audits of suspicious transactions. Furthermore, non-compliance with FATF Recommendation 22 risks designating Indonesia as a high-risk jurisdiction, potentially triggering global financial isolation and increased borrowing costs. To mitigate the symbiosis of vulnerability between weak non-bank sector compliance and legal shielding, urgent regulatory harmonization is required. The study concludes that implementing “break-glass immunity” and accessory liability clauses is crucial to prevent legal practitioners from functioning as facilitators of illicit financial flows, thereby protecting Indonesia’s economic sovereignty. © 2026 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Cogent Social Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

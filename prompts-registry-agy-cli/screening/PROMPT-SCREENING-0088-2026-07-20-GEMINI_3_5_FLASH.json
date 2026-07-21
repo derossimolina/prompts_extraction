@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0088-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "LEGAL CERTAINTY FOR AI-RELATED CRIMES IN INDONESIA’S BANKING SECTOR",
+    "authors": "Damayanti F.; Arifin R.",
+    "year": "2026",
+    "doi": "10.21098/jcli.v5i2.421",
+    "abstract": "As the integration of artificial intelligence (AI) into Indonesia’s rapidly evolving financial sector accelerates, the country faces critical challenges in ensuring legal certainty and protecting personal security. The rise of AI technologies in banking, fintech, and investment platforms introduces new complexities in regulatory oversight, particularly in preventing crimes such as fraud, money laundering, and cybersecurity breaches. This study examines legal certainty in the regulation of AI-related crimes in Indonesia’s banking sector and its implications for personal security. The increasing use of AI in financial services has created regulatory challenges, particularly regarding personal data protection, fraud, and accountability. This research employs a normative juridical method with a statutory approach, analysing relevant Indonesian laws, including the Personal Data Protection Law, the Banking Law, the Electronic Information and Transactions Law, and the Financial Services Authority regulations. The findings reveal a legal vacuum in addressing AI-facilitated crimes, particularly regarding the allocation of responsibility and preventive mechanisms. Although existing regulations provide partial protection, they do not yet accommodate the specific risks posed by AI technologies in banking. This regulatory lacuna threatens legal certainty and personal security, particularly the right to privacy. This study highlights the urgency of developing explicit AI-related criminal laws for the financial sector to balance innovation and protection. This research is limited to doctrinal legal analysis and does not include empirical data, which may be explored in future studies. © 2026, Bank Indonesia Institute. All rights reserved.",
+    "source": "Journal of Central Banking Law and Institutions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0289-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "South Africa Aims to Increase Financial Inclusion to 90 Percent by 2030: Plausible or a Mere Ideal?",
+    "authors": "Ncube M.",
+    "year": "2024",
+    "doi": "10.17159/1727-3781/2024/v27i0a18144",
+    "abstract": "According to the National Development Plan (NDP) Vision 2030 of South Africa, South Africa aims to increase financial inclusion for everyone to 90 percent by 2030. However, a few challenges have arisen over the course of the years after the drafting of the NDP Vision 2030. This article will first trace some of these challenges under the category of practices that diminish the integrity of banks in South Africa. These challenges include banking fraud (phishing and vishing), automated teller machine (ATM) bombings and cash in transit heists (CITs), the unfair treatment of banking customers as well as the greylisting of South Africa by the Financial Action Task Force (FATF) resulting in failure to fully complying with international standards regarding the prevention of money laundering (ML), terrorist financing (TF) and proliferation financing (PF). It is also apparent that there are no clear guidelines or protocols that accompany the NDP Vision 2030 to comprehensively detail how the 90 percent financial inclusion target for all people in South Africa will be attained. In addition to this, the NDP does not provide any consequences to the stakeholders responsible for the promotion of financial inclusion and/or any exigency plans should 90 percent fail to be achieved by 2030. Undoubtedly, the above-mentioned challenges to financial inclusion place doubt on the achievement of 90 percent financial inclusion by 2030. This article aims to critically investigate these challenges that may have the potential to hinder the optimum achievement of financial inclusion in contemporary South Africa. Furthermore, this article will critically analyse the relevant legislation as well as related policies and regulations aimed at promoting financial inclusion in South Africa. Ultimately, the article will propose measures which may be useful in attaining 90 percent financial inclusion in South Africa by 2030 as per the NDP Vision 2030. © 2024, North-West Unversity. All rights reserved.",
+    "source": "Potchefstroom Electronic Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

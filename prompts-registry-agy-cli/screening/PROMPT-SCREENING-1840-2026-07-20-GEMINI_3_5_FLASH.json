@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1840-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing the efficiency of the anti&hyphen;money laundering regulation&colon; an incentive&hyphen;based approach",
+    "authors": "Azevedo Araujo R.",
+    "year": "2008",
+    "doi": "10.1108/13685200810844505",
+    "abstract": "PurposeTo assess the efficiency of the anti&hyphen;money laundering regulation by using an incentive&hyphen;based approach. Design&sol;methodology&sol;approachIt is designed a mechanism in which competent authority is the principal and the financial institutions are the agents. FindingsThe analysis shows that despite the efforts of the authorities to combat money laundering the efficiency of an incentive&hyphen;based approach has been damaged by the existence of hidden information related to the ability or willingness of banks to cope with money&hyphen;laundering prevention. Research limitations&sol;implicationsThe contract approach adopted to assess the efficiency of the regulation may highlight the efficiency properties of international schemes of combat against money laundering. But, it is subject to limitations related to the hidden information. Practical implicationsThis is a theoretical result that points out to the necessity of creating financial intelligence units in order to concentrated the efforts of collecting information about the willingness or ability of banks to cope with money laundering prevention. Originality&sol;valueThe paper presents an attempt to apply an incentive theoretic approach to evaluate the efficiency of a scheme of combating money laundering. Besides, it reveals the fragile connections in the framework to combat money laundering. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

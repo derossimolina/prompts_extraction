@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1129-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The necessity of anti-money laundering standards for Iranian auditors",
+    "authors": "Salehi M.; Molla Imeny V.; Khaleghi Baygi A.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-05-2019-0034",
+    "abstract": "Purpose: According to the last public statement of FATF (2018), Iran has some significant deficiencies in its anti-money laundering (AML) regime, especially in suspicious transaction reporting. In this research, the author tries to empirically show that Iranian auditors do not a response to AML cases effectively and adopting an AML standard is required for Iranian auditors. Therefore, it helps to improve one of the deficiencies of Iran’s AML regime. Design/methodology/approach: To collect data, the author designed and developed a questionnaire and the questionnaire sent to all partners of Iranian auditing firms, which have authorization from the Iranian Association of Certified Public Accountants on December 2018. Findings: The finding shows most of the sample auditors’ claim that it is necessary to have an AML standard and it can be helpful for them. Furthermore, most of the Iranian auditors in money laundering cases, which companies are involved do nothing except filling the checklist of Anti-Money Laundering Implementing Regulations for Business and Non-business Companies (2012). Originality/value: The results of the current research make clear the necessity of adopting an AML standard for Iranian auditors and recommend Iranian authorities to improve Iran’s AML regime. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

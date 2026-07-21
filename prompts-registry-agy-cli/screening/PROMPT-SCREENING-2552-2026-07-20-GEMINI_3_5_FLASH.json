@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2552-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financing the Newsvendor: Supplier vs. Bank, and the Structure of Optimal Trade Credit Contracts",
+    "authors": "Kouvelis, P; Zhao, WH",
+    "year": "2012",
+    "doi": "10.1287/opre.1120.1040",
+    "abstract": "We consider a supply chain with a retailer and a supplier: A newsvendor-like retailer has a single opportunity to order a product from a supplier to satisfy future uncertain demand. Both the retailer and supplier are capital constrained and in need of short-term financing. In the presence of bankruptcy risks for both the retailer and supplier, we model their strategic interaction as a Stackelberg game with the supplier as the leader. We use the supplier early payment discount scheme as a decision framework to analyze all decisions involved in optimally structuring the trade credit contract (discounted wholesale price if paying early, financing rate if delaying payment) from the supplier's perspective. Under mild assumptions we conclude that a risk-neutral supplier should always finance the retailer at rates less than or equal to the risk-free rate. The retailer, if offered an optimally structured trade credit contract, will always prefer supplier financing to bank financing. Furthermore, under optimal trade credit contracts, both the supplier's profit and supply chain efficiency improve, and the retailer might improve his profits relative to under bank financing (or equivalently, a rich retailer under wholesale price contracts), depending on his current wealth (working capital and collateral).",
+    "source": "OPERATIONS RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

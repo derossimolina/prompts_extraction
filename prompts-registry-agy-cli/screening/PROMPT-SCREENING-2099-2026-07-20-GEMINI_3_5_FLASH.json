@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2099-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Wa'd-based total return swap: Sharia compliant or not?",
+    "authors": "Atallah C.C.; Ghoul W.A.",
+    "year": "2011",
+    "doi": "10.3905/jod.2011.19.2.071",
+    "abstract": "Islam prohibits riba, leverage, and speculation in financial transactions; however, this was not enough to safeguard Islamic investment portfolios during the global financial crisis, partly due to concentration. Deutsche Bank was first to promote using a unilateral promise (wa'd) in Islamic financial structuring for widening the spectrum of Islamic investment choices. Deutsche Bank's \"White Paper\" in 2007 outlined an investment \"structure\" that facilitates the issuance of \"sharia- compliant\" securities, thus enabling investors' access to additional asset classes. In \"the structure,\" which is a \"total return swap,\" a wa'd is used to swap the return of two separate baskets of assets, one, sharia compliant (halal), the second, non-halal. The total return swap product has been controversial because it gives Muslim investors access to non-halal assets. We explore the wa'd's use in structuring \"Islamic total return swaps,\" the sharia compliance of these products, and the risk exposures involved. Alternative solutions that accomplish sharia's objectives are proposed for diversifying and hedging Islamic portfolios.",
+    "source": "Journal of Derivatives"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

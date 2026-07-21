@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1461-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hybridity and genre in transnational latin aamerican cinemas",
+    "authors": "Alalvaray L.",
+    "year": "2013",
+    "doi": "10.1386/trac.4.1.67_1",
+    "abstract": "By examining some of the functions of what we may call transnational genre films in the Latin American context, this work attempts both to contribute to and extend the study of media counter-flows. To this end, I refer to the notion of hybridity in the transnational cinema environment to then examine the structuring of genre films in two specific national contexts: Argentina and Mexico. I argue for Latin American genre films as unstable contact zones of a wide variety of national, regional and transnational determinants, and in which hybridity may serve as a strategy to inscribe local agency in transactions of differential economic and cultural power. © 2013 Intellect Ltd Article.",
+    "source": "Transnational Cinemas"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

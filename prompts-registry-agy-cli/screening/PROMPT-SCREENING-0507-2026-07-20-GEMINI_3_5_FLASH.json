@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0507-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Non-linear impact of globalization on financial crimes: a case of developing economies",
+    "authors": "Amjad R.M.; Rafay A.; Arshed N.; Munir M.; Amjad M.M.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-03-2021-0023",
+    "abstract": "Purpose: The Financial Action Task Force defines money laundering as “processing of these criminal proceeds to disguise their illegal origin”. This is the major portion of financial crime that has ties across borders and like all financial crimes which are well planned and camouflaged, this crime is difficult to detect and deter. Over the years, on one side, globalization has provided development opportunities, it has also become one reason for the pervasiveness of money laundering. This has led to a disturbance in the global financial system and social unrest as proceeds from money laundering are being used in terrorism. The purpose of this study is to explore the non linear effect of globalization on financial crime in the form of money laundering. Design/methodology/approach: An investigation based on 119 developing countries from the time period of 1985 till 2015 is conducted in this study. The panel quantile regression model was used to estimate antecedents of money laundering. Findings: The study confirmed that globalization follows an inverted U-shaped relationship with money laundering. Furthermore, indicators such as investment portfolio and socioeconomic conditions have a significant effect on money laundering. Originality/value: The panel quantile regression model was used to estimate antecedents of money laundering. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

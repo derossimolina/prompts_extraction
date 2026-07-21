@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2398-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Shooting down the price: Evidence from Mafia homicides and housing prices",
+    "authors": "Battisti, M; Bernardo, G; Lavezzi, AM; Maggio, G",
+    "year": "2022",
+    "doi": "10.1111/pirs.12664",
+    "abstract": "In this paper, we estimate the effect of the homicides by the Camorra, the Neapolitan Mafia, on housing prices in Naples. The study develops on a unique panel data set at the administrative district level for the period 2002-2018 of geo-localized homicides involving innocent victims (denoted as IVH), which are treated as exogenous shocks that negatively affect housing demand. We find that the occurrence of such homicides causes a decrease in housing prices in the range of 2.5-3.8 percentage points. This effect decreases with the distance from an IVH and over time. These results are robust to the utilization of different econometric specifications and to the considerations of possible confounding factors such as other types of textitCamorra homicides.",
+    "source": "PAPERS IN REGIONAL SCIENCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

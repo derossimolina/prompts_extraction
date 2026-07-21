@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1767-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The processes of globalization and transnational organized crime",
+    "authors": "Sabatino M.",
+    "year": "2016",
+    "doi": "10.18374/JIBE-16-2.6",
+    "abstract": "The purpose of this paper is to analyse and update the relationship between the globalization process in the global economy, which is affecting our modern society, and the transnational organized crime. Transnational organized crime represents a serious threat to financial and economic system of all countries and organisations for international cooperation and it must be efficiently opposed both at European and international level, in order to allow the globalization process to benefit from the instruments of governance capable to exploit the advantages and reduce the negative and inauspicious consequences. Therefore, the aim is to provide some indications on how to combat the phenomenon of transnational criminality trying to reply to some questions connected with each other such as the reason why transnational criminality has increasingly obtained importance and, above all what we can do to prevent and contrast this dangerous phenomenon. In the first part, some attempts to define the transnational organized crime phenomenon will be examined, trying to specify the complexity and the dangerousness of its peculiarities. Subsequently some statistic will be provided in order to comprehend the impact of transnational criminality. In following part we will be focusing on the relations between transnational criminality and the phenomena that has arisen as a consequence of the globalization process of the economy typical of our society in last few years. Finally some conclusive considerations related to the international and European cooperation in the field of crime and criminal justice will be dealt with. International cooperation is the prerequisite for a global governance of “crime”. If instruments and mechanisms for international cooperation could be established, it would be easier to sort this problem out. © 2016, International Academy of Business and Economics. All rights reserved.",
+    "source": "Journal of International Business and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

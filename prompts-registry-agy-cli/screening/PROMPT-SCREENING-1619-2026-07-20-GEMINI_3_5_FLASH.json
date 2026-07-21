@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1619-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring of sources of attracting capital to agricultural production as a prerequisite for the formation of an effective investment mechanism in the agricultural sector",
+    "authors": "Novak I.; Verniuk N.; Novak Y.",
+    "year": "2016",
+    "doi": "10.21003/ea.V159-06",
+    "abstract": "The Ukrainian agricultural sector suffers a sharp lack of financing which has negative consequences and is followed up with technical and technological backwardness and a decreasing level of competitiveness. The authors substantiate the necessity of the formation of an effective investment mechanism which should be based on the optimum combination of sources of domestic and foreign investments. The article deals with a structural and logical scheme of determination potential sources of investment capital in the agricultural sector of Ukraine. A negative trend in public funding which resulted in negative consequences for the Ukrainian village and the relevant infrastructure, as well as the development of depressed areas is revealed. The authors emphasise on loan problems and note the importance of the development of domestic corporations in the agricultural sector. Relations with international financial organisations, the leading role of which belongs to the International Monetary Fund, the World Bank (the largest share in the distribution of credit resources is owned by the International Bank for Reconstruction and Development) and the European Bank for Reconstruction and Development are analysed. As a result of the conducted analysis, it is recommended to attract alternative sources of investment in the agricultural sector, as well as funds of institutional investors and multinational corporations. The authors have proved a need to work out an economic and mathematical model that will select the best source of investment to achieve the optimal production outcomes and develop the social sphere with regard to characteristics of the investee. © 2016 Institute of Society Transformation.",
+    "source": "Economic Annals-XXI"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1215-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Formal, Financial and Fraught Route to Global Digital Identity Governance",
+    "authors": "Campbell-Verduyn M.; Hütten M.",
+    "year": "2021",
+    "doi": "10.3389/fbloc.2021.627641",
+    "abstract": "How can we understand the progressive, piecemeal emergence of global digital identity governance? Examining the activities of the Financial Action Task Force (FATF) - an intergovernmental organization at the center of global anti-money laundering and counter-the-financing of terrorism governance-this paper advances a two-fold argument. First, the FATF shapes how, where and who is involved in developing key standards of acceptability underpinning digital identity governance in blockchain activities. While not itself directly involved in the actual coding of blockchain protocols, the FATF influences the location and type of centralized modes of control over digital identity governance. Drawing on the notion of protocological control from media studies, we illustrate how centralized control emerging in global digital identity governance emanates from the global governance of financial flows long considered by international organizations like the FATF. Second, we suggest that governance by blockchains persistently shapes the ability of the FATF to stem illicit international financial flows. In highlighting both the influence of FATF on blockchain governance and blockchain governance on the FATF, we draw together two strands of literature that have been considered separately in an analysis of the formal, financial and fraught route to global digital identity governance. Copyright © 2021 Campbell-Verduyn and Hütten.",
+    "source": "Frontiers in Blockchain"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

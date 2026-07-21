@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2350-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fourth EU AML Directive: What is Missing? Section 319 PATRIOT Act and the New EU AML Directive",
+    "authors": "Canestri, D",
+    "year": "2015",
+    "doi": "10.1163/15718174-23032069",
+    "abstract": "EU Member States are updating their anti-money laundering (AML) regimes by implementing a fourth anti money laundering directive (4th AMLD). However, an assessment of various AML enforcement regimes reveals that not European, but USA regulations are the most effective. The USA'S AML legislation grants the USA authorities extraterritorial power, which allows them to impose USA requirements on any foreign financial institution that has a correspondent relationship with a USA bank. This long-arm approach is mainly based on Section 319 of the patriot Act. Despite the clear success of Section 319, EU legislators have avoided introducing a similar norm into the latest EU directive. The author analyses why the USA' effective extraterritorial practice has not been introduced into the 4th AMLD. Arguing for the adoption of extraterritorial AML practice by the EU, the author then goes on to outline which reforms the EU should introduce if it wishes to follow the path already taken by the USA.",
+    "source": "EUROPEAN JOURNAL OF CRIME CRIMINAL LAW AND CRIMINAL JUSTICE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

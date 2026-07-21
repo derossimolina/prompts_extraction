@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0698-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Uzbek Migrant Workers in Korea: The Impact of Remittances on Uzbekistan Trade and Economic Growth",
+    "authors": "Shin M.-K.; Kim H.",
+    "year": "2022",
+    "doi": "10.20294/jgbt.2022.18.2.17",
+    "abstract": "Purpose – The purpose of this paper is to explore the impact of Uzbekistan migrant remittances to their origin country and suggest policy implications. Design/Methodology/Approach – This paper reviews previous research. Based on the understanding of the status of and challenges to labor migrants, this paper examines the effects of remittances of labor migrants from Korea to Uzbekistan. Findings – This paper draws some findings. Most migrants crossed the border for better nutrition for the family in the developing world. For Uzbek migrant workers in Korea, a majority are from rural areas of Uz-bekistan. Migrant families need remittances for their poor households. In particular, household consumption, schooling, healthcare, vital necessities, expenditure on own and children’s marriages, real estate, and other basic services are reliant on money from Korea to Uzbekistan by labor migrants. Research Implications – Based on the findings of the paper, this paper gives implications that both the gov-ernments of Korea and Uzbekistan should acknowledge migrant problems and try to solve the challenges faced by Uzbek labor migrants. Additionally, this paper found that a better migration policy is necessary. Through a better migration policy, the data quality and quantity can be achieved for the future monitoring of migration. Organizations in charge need to perform more surveys or investigations with administrative sup-port to households to publicize difficulties related to migrants or remittances. This paper also emphasizes the control of illegal migration and money transfers to reduce human trafficking and financial crimes by record-ing proper official remittance inflows. This paper will help researchers in the future find better immigration policies to protect labor migrants and to promote development of their origin countries. © 2022 International Academy of Global Business and Trade. All rights reserved.",
+    "source": "Journal of Global Business and Trade"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0536-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The institutionalization of the fight against white-collar crime in Switzerland, 1970-1990",
+    "authors": "Giddey T.",
+    "year": "2022",
+    "doi": "10.1080/00076791.2020.1856077",
+    "abstract": "During the 1970s and 1980s, economic and financial crime turned into a societal issue in Switzerland. The perpetrators of white-collar crime often enjoyed total impunity: legal proceedings were very time consuming, authorities in charge of judicial investigation were under-resourced. This paper investigates how the political and judicial authorities responded to this challenge. By the end of the 1980s, a strong shift towards a more specialized handling of financial crime by public prosecutors occurred. Specialized departments were set up and judges were trained in commercial matters. This transformation breached with a long tradition of leniency and inefficient judicial handling of economic crime. Based on archival evidence, this paper sheds new light on the drivers of an institutionalization process which affected not only the Swiss financial centre, but also all the global judicial proceedings which relied on it. Professionalizing the response to financial crime also aimed at restoring the corporate reputation of Swiss financial firms, in a context of growing competition among offshore financial centers. © 2020 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Business History"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

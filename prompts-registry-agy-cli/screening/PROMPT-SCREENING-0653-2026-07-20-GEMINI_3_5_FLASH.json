@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0653-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Considerations on the Construction of Future Financial Regulations in the Field of Initial Coin Offering",
+    "authors": "Szwajdler P.",
+    "year": "2022",
+    "doi": "10.1007/s40804-021-00225-z",
+    "abstract": "Legal issues of ICOs are significant in the contemporary financial world because this method of capital formation is becoming widespread. In spite of the significance of ICOs, there are no financial regulations in this field in the most important legal systems. Therefore, research concerning future legal provisions in the area of ICOs is needed. This paper concerns issues related to the scope and structure of future financial regulations applicable to ICOs. The author focuses on principles on which legal provisions in the field of ICOs should be based. National, European and international matters are discussed separately in this work. Matters regarding a future international organisation competent in issues of crypto-assets are elaborated. Furthermore, the author proposes to create a model convention on cryptocurrencies and bilateral agreements on the exchange of information in crypto-asset matters. Disclosure obligations, anti-manipulation provisions and anti-money laundering principles are also set out. Moreover, the author discusses issues regarding audit requirements, special methods of registration and innovative payment rules for crypto-asset purposes. Finally, recommendations concerning ICOs are made separately for national, European and international purposes. The author believes that the conclusions in this paper can be useful not only for legislators but also for international actors, European institutions and legal researchers. © 2021, The Author(s).",
+    "source": "European Business Organization Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

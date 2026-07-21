@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0821-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Implementing Anti-money-laundering Goals: New Technologies or Coordination between Related Agencies?; [实现反洗钱目标: 新技术还是相关机构之间的协调?]",
+    "authors": "Liu M.; Kit Sam F.; Guan J.; Lau Y.-Y.",
+    "year": "2022",
+    "doi": "10.1080/19388160.2022.2042449",
+    "abstract": "This paper is to investigate whether anti-money-laundering (AML) improvement in a gaming tourism destination is driven by the integration of new technologies, or by other factors such as financial inclusion and close coordination between companies and related government bodies. The quantitative method of ordinary least squares (OLS) multivariate regression is applied to determine the degree to which money-laundering activities in Macau reduced between 2007 and 2017. This study reveals a strong positive relationship between the number of suspicious transaction reports (STRs) and the amount of private-sector domestic credit as a percentage of GDP. The relationship between investment in IT as a percentage of GDP and the number of STRs is statistically insignificant, but there is a positive association with the number of STRs in the gaming tourism industry. Close coordination between industry players and various AML agencies has also had a positive impact on STR detection. Besides, this study will be of benefit to the gaming tourism destination, showing that casinos can cooperate openly with financial institutions and government bodies to fight money laundering, which will help to ensure that gaming tourism destination maintains a positive image sustainably. © 2022 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Journal of China Tourism Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

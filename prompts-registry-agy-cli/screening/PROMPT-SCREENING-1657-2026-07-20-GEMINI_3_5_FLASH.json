@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1657-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legitimacy of the Summer 2017 GCC crisis and Qatar’s AML framework",
+    "authors": "Naheem M.A.",
+    "year": "2017",
+    "doi": "10.1108/JMLC-07-2017-0032",
+    "abstract": "Purpose: In June 2017, members of the Gulf Cooperation Council (GCC) ended diplomatic ties with Qatar. There is a legitimate concern about the accusation levied on Qatar. This paper aims to analyse the progress Qatar’s financial system has made with respect to its anti-money laundering (AML) and counter-terrorist financing (CFT) regulations, which further serves as the country’s effort to combating the financing of terrorism (CTF). The paper further wishes to advance the discussion by considering the legitimate goals of the aforementioned bodies and their discourse on creating national and international obligations towards reducing terrorist financing through robust AML frameworks. Design/methodology/approach: The paper analyses Qatar’s legislative and regulatory overhaul following the Financial Action Task Force’s Mutual Evaluation Report. Qatar had distinctively strengthened its approach against Money Laundering and Terrorist Financing. The paper takes an ex ante approach by understanding Qatar’s “strategic deficiencies” before the FATF’s mutual evaluation. Subsequently, the paper studies independent international evaluations of Qatar’s AML/CTF legislation and regulation. Findings: The paper finds Qatar in significant compliance to the recommendations of the various international bodies, including the Financial Action Task Force (FATF), Basel AML Index, IMF’s financial sector reviews, United Nations and independent reports on AML progress from regulatory bodies around the world. None of these organizations present obligatory rules but have set and determined and international standard for AML/CTF laws. Originality/value: The primary aim is to draw parallels between Qatar’s regulatory AML and CTF efforts through the country’s compliance with international initiatives, such as the FATF guidelines, Basel AML Index, IMF’s financial sector reviews, United Nations and independent reports on AML progress from regulatory bodies around the world. © 2017, 2017, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

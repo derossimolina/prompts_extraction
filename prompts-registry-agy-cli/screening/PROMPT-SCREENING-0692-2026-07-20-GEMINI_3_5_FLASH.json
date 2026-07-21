@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0692-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Impact of Digitalization on International Financial Security in Conditions of Sustainable Development; [Wpływ cyfryzacji na międzynarodowe bezpieczeństwo finansowe w warunkach zrównowazonego rozwoju]",
+    "authors": "Desyatnyuk O.; Naumenko M.; Lytovchenko I.; Beketov O.",
+    "year": "2024",
+    "doi": "10.35784/preko.5325",
+    "abstract": "The implementation of digital technologies in financial security allows you to automate and accelerate the processes of ensuring security. Electronic monitoring and analytics systems can quickly identify suspicious transactions and vulnerabilities, facilitating a prompt response to threats. That is why the topic of the current research is relevant and timely. The purpose of the study is to present the main components of the digitization process of international financial security in the context of sustainable development, with an emphasis on the formation of a comprehensive methodological approach to the analysis of the issue. The methods used in this research include the observation method to identify the main features of the digitization process of international financial security, the forecasting method to identify the main trends in the development of digital security, and the methods of analysis, synthesis, deduction, and induction to visually present the results of the research. Additionally, the graphic method is utilized to display a comprehensive methodological approach and illustrate the research results. During the course of the research, the basic components of the process of digitizing financial security were analysed, and an assessment of strengths and weaknesses was conducted. Additionally, opportunities and threats related to the process of digitizing international financial security were determined. The priority areas for the digitization of international financial security in the context of sustainable development have been identified. The main results of the study include the development of a comprehensive methodological approach to the process of digitalizing international financial security under conditions of sustainable development. The study also yields the following conclusions regarding the development of digitization: the utilization of analytical tools and artificial intelligence in financial security improves the accuracy of detecting fraud, money laundering, and other financial crimes; digital technologies facilitate access to financial services in remote and less developed regions; digital technologies enable cost optimization for ensuring financial security through automation and efficient resource utilization. © 2024, Politechnika Lubelska. All rights reserved.",
+    "source": "Problemy Ekorozwoju"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2331-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FSA and Norwich Union: another step in the evolution of principles-based regulation",
+    "authors": "Truesdale, A",
+    "year": "2008",
+    "doi": "10.1080/17521440.2008.11427952",
+    "abstract": "The FSA has fined Norwich Union Life (NUL) 1.26m pound for failures relating to information security that placed their customers at risk of financial crime. The failures were exploited by criminals who were able to impersonate customers, and, via contact with NUL's call centres, obtain and in some cases alter confidential customer information - including customers' contact addresses and full bank account details. This is the highest fine imposed to date for a breach of information security requirements, and this case puts the emphasis firmly on the development of internal policies as a driver of enforcement consequences. It is not enough to have compliance policies in place: firms must ensure compliance strategies are properly embedded within their businesses at all levels.",
+    "source": "LAW AND FINANCIAL MARKETS REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

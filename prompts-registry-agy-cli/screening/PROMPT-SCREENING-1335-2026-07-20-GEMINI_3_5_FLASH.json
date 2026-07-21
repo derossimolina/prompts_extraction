@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1335-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Investigating the impact of audit features on money laundering: Evidence from Iranian stock exchange companies",
+    "authors": "Mohammadi S.; Naghshbandi N.; Moridahmadibezdi Z.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-09-2019-0072",
+    "abstract": "Purpose: The purpose of the present study is to investigate the impact of audit features, including audit quality, audit fees and auditor tenure on money laundering in Iranian stock companies. Design/methodology/approach: This research is descriptive-correlational and applied in terms of purpose. To evaluate the audit features, variables including audit quality, audit fee and auditor tenure were used. The statistical population of this study includes all companies listed in Tehran Stock Exchange and the research period from 2012 to 2018. A sample of 150 companies was selected by the screening method. In this study, logistic regression and Eviews 10 software were used for data analysis and hypothesis testing. Findings: The results showed that variables including audit quality, normal audit fee and auditor tenure have a significant effect on money laundering. Originality/value: Observing money laundering rules and regulations for businesses involves is a critical issue. In auditing the financial statements of the business units subject to these laws, the auditor reviews their actions to obtain reasonable assurance of guaranteeing the money laundering laws, evaluates their effectiveness and gains approval of managers regarding observing laundering regulations. In this regard, the auditor is required to report definitive or suspected money-laundering cases or its certain or suspected evidence to the relevant authorities. Although the law prohibits the auditor from disclosing such matters to the client, it is not necessary. It seems that even if the auditors perform non-audit functions, they should report money laundering or suspicious operations and transactions. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

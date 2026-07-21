@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2107-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Norms and power in marketing relationships: Alternative theories and empirical evidence",
+    "authors": "Berthon P.; Pitt L.F.; Ewing M.T.; Bakkeland G.",
+    "year": "2003",
+    "doi": "10.1016/S0148-2963(01)00255-7",
+    "abstract": "This study extends understanding of the role of relational norms and governance mechanisms in marketing dyads. Heide and John (1992) explored the role of norms in structuring economically efficient relationships between independent firms. Specifically, they examined the relationship dyad from the perspective of a strong buyer facing a large number of small suppliers, finding that norms can serve as a governance mechanism, which safeguard against opportunistic behaviour in the presence of transaction-specific assets. However, questions remain as to the generalisability of these findings and the explanatory power of the relational norm perspective vis-à-vis other theories. The current research seeks to address these issues by focusing on the inverse and compliment of the study of Heide and John (1992) namely, it investigates the role of relational norms in the context of a strong supplier facing a large number of small buyers. Building on a theoretical foundation of transaction cost analysis (TCA), relational norms, and power-dependence theory, a set of hypotheses is proposed and operationalised in a multiple linear model. It is found that norms do not play a significant role in the research context, a result suggesting that mechanisms other than norms are at work. Alternative theoretical perspectives are offered to explain the results and managerial implications are discussed. © 2003 Elsevier Science Inc. All rights reserved.",
+    "source": "Journal of Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

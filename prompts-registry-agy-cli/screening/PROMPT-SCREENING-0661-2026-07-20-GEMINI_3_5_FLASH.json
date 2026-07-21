@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0661-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Diaspora/Return Experience and the Informal Economy of Fuqing Immigrants to Japan during China’ Reform and Opening-up",
+    "authors": "Chen T.-Y.; Zhang Z.-J.",
+    "year": "2024",
+    "doi": "10.6163/TJEAS.202406_21(1).0004",
+    "abstract": "During the beginning of China’s reform and opening-up, a significant number of new Chinese immigrants went to Japan for survival, and the Fuqing community is one of the most representative among them. However, many Fuqing people”going abroad” to Japan lack legal residency status, some of them engaging in informal economy, leading to controversy. Their living conditions and development strategies are worthy of discussion. From the perspective of transnationalism, this paper combining interviews and sociological theories, to explore their diaspora experiences and informal economy of Chinese immigrants to Japan. First, we outline the historical and policy background of Fuqing new immigrants to Japan. Second, through oral narratives from 14 interviewees, depict various experiences of new Chinese immigrants in Japan, thereby conducting theoretical analysis. The social networks formed through shared diaspora/return experiences are important resources for immigrant entrepreneurship. However, most existing literature focused on cross border governance and overseas Chinese hometown development, providing superficial analyses of immigrant entrepreneurship and often neglecting sensitive issues like the informal economy. Against the backdrop of the significant economic disparities between China and Japan at the end of the 20 century and the substantial profits of the informal economy, Fuqing immigrants accumulated capital at any cost, which adversely affected the development of Chinese and Japanese immigrant’s community and transnational governance. Based on amounts of in-depth interviews, we point out that immigrant social networks can both facilitate and hinder success. Although it helps immigrants survive and start businesses in Japan in the early stage, the close network and the profit-driven development mindset have also served as a breeding ground for transnational financial crimes. © 2024, College of International Studies and Social Sciences, National Taiwan Normal University. All rights reserved.",
+    "source": "Taiwan Journal of East Asian Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

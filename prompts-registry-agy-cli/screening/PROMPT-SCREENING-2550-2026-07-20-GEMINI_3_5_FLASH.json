@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2550-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sukuk Default and Issues in Their Resolution: The Case of Villamar Sukuk",
+    "authors": "Ali, SS",
+    "year": "2017",
+    "doi": "10.1007/978-3-319-59342-5_4",
+    "abstract": "Several high-profile Sukuk have defaulted in recent years. The phenomenon has created upheaval in the sukuk market and affected its development and investors' confidence. Smooth resolution of default and bankruptcy is quite important for the financial instruments and their markets. The purpose of this study is to understand the nature and causes of the difficulties encountered in quick settlement of defaulted sukuk. It also aims to identify the Shariah issues faced in the resolution and settlement processes. Specifically, we focus on Villamar Sukuk. It was a Musharakah sukuk launched in 2008, after the issuance of the 2007 AAOIFI revised Shariah standard for sukuk. The Villamar sukuk was unique in that it was a Musharakah sukuk without the buyback promise, thus complying with this aspect of the AAOIFI's revised sukuk standard. The paper analyzes the following: How a Musharakah sukuk can ever default? What operational and structuring factors cause delay in default resolution of a Musharakah sukuk? The paper derives several lessons from this episode and proposes regulatory and governance measures that can improve resolution of sukuk default and expedite their settlement.",
+    "source": "DEVELOPMENTS IN ISLAMIC FINANCE: CHALLENGES AND INITIATIVES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

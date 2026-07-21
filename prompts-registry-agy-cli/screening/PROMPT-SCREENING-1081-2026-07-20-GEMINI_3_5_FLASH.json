@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1081-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A constructivist model of bank branch front-office employee evaluation: An FCM-SD-based approach",
+    "authors": "PAES DE FARIA A.C.C.; Ferreira F.A.F.; Dias P.J.V.L.; Çipi A.",
+    "year": "2020",
+    "doi": "10.3846/tede.2020.11883",
+    "abstract": "The banking sector is one of the primary drivers of economic development. This sector has been affected by various crises throughout its history – most recently, the 2008 financial and economic crisis. In response, banking institutions have had to make diverse changes to their procedures and deal with new concerns related to changes within markets. One of the main recent developments in this sector is the new commercial function assigned to bank branch front-office employees, who have become responsible for selling financial products and services, as well as recruiting and retaining clients. As a result, the sector needs new employee performance evaluation methods in line with banks and staff members’ requirements. This study combined fuzzy cognitive mapping techniques and the system dynamics (SD) approach to develop a well-informed performance analysis system for assessing bank branch front-office employees. The proposed system was validated by the Business Process Management Competence Center director at Millennium BCP – a Portuguese private banking corporation. The main difference between the model constructed in the present research and current evaluation practices is that the criteria were collected directly from multiple specialists working at different commercial banks, who deal daily with this decision problem. The model’s theoretical and practical implications are also discussed. © 2020 The Author(s). Published by VGTU Press.",
+    "source": "Technological and Economic Development of Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

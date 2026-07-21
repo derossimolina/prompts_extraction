@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1243-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Analysis of Bahrain’s anti-money laundering (AML) and combatting of terrorist financing (CTF) practices",
+    "authors": "Naheem M.A.",
+    "year": "2021",
+    "doi": "10.1108/JMLC-04-2018-0033",
+    "abstract": "Purpose: This paper aims to examine the level of anti-money laundering (AML) and combatting terrorist financing (CTF) practices incorporated within the legal framework of the Kingdom of Bahrain. The paper also studies the application of AML/CTF legislation in regulatory practice and implementation. Bahrain is an important state within the Middle-East region and is an integral part to the Gulf Cooperation Council (GCC). The paper analyzes Bahrain’s compliance to international AML/CTF standards and presents recommendations on remaining deficiencies. Design/methodology/approach: The paper studies the level of AML/CTF legislation enacted by the Kingdom of Bahrain by first examining the regulatory application, and then, the level of implementation. To understand the level of AML/CTF implementation, the paper uses literature on increased prosecution, penalties and reports for AML/CTF crimes in the Kingdom of Bahrain. In addition, the paper analyzes Bahrain’s compliance level to international standards of AML/CTF legislation and regulation. Findings: The paper finds evidence of significant progress in the application of best practices of AML/CTF within the Kingdom of Bahrain. The paper also finds an increase in levels of implementation – i.e. suspicious transaction reports, investigations and prosecutions – with respect to AML/CTF violations. Additionally, the paper finds a limited number of deficiencies in Bahrain’s effort to establish strong reporting and enforcement mechanisms. Practical implications: Bahrain is an important member of the international trade network and one of the fastest growing non-oil economies in the region. The country sought to diversify the economy, with more industry- and service-intensive sectors. The level of AML/CTF implementation represents an important risk-averse approach to financial services in the country. Evidence of the country’s strengthening approach is an important factor in determining foreign investment confidence and the country’s policy on combatting terrorism financing. Originality/value: Commentators have previously recognized key deficiencies in Bahrain’s enactment and application of AML/CTF legislation. However, the analysis does not incorporate externalities arising from regulatory delay in domestic AML/CTF policy. The following paper studies the progress made by Bahrain since 2000-2001 and subsequent attempts at improving enforcement to maintain international compliance. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

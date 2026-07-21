@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0180-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dimension Expansion for Learning Money Laundering Activities Hidden in Transaction Network",
+    "authors": "Song J.; Zhang S.; Park J.; Gu Y.; Yu G.",
+    "year": "2026",
+    "doi": "10.1109/TCSS.2025.3599534",
+    "abstract": "Due to the anonymity and decentralization inherent in blockchains, they have gradually become a new breeding ground for money laundering. Anti-money laundering (AML) in blockchains is urgently needed. A conventional AML method involves analyzing transaction features derived from blockchain records that define money transfers within a transaction network. However, this method often fails to identify all illicit transactions, as some are obscured within the network due to their indistinguishable features compared to both known licit and illicit transactions. Fortunately, all transactions involve at least two addresses (accounts), and the account features of illicit transactions are distinguishable because they reflect the social information of the parties involved. This insight provides a pathway to uncover hidden illicit transactions. In this article, we propose the account enhanced transactions classification (ATC) model to enhance the performance of illicit transaction detection. The ATC expands the dimensionality of transaction feature vectors by concatenating the corresponding accounts, represented as a variable number of high-dimensional feature vectors. In addition, ATC employs clustering, pooling, and persistent homology techniques to address the challenges associated with learning from these dimension-expanded features. Experimental results on the Elliptic++ dataset demonstrate the advantages of ATC with an accuracy of 98.28%, precision of 99.64%, recall of 91.85%, and an F1 score of 95.59%, significantly outperforming other comparative methods. © 2014 IEEE.",
+    "source": "IEEE Transactions on Computational Social Systems"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

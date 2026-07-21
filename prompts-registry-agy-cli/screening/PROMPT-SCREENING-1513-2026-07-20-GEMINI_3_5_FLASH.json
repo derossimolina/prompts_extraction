@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1513-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illegal gambling businesses & organized crime: an analysis of federal convictions",
+    "authors": "Albanese J.S.",
+    "year": "2018",
+    "doi": "10.1007/s12117-017-9302-y",
+    "abstract": "Illegal gambling operations have been alleged to support organized crime and victimize participants, rather than benefit them. This is said to occur through cheating in the games provided, defrauding the government of tax revenue, and funding other illicit and criminal activities. What has been missing is a systematic analysis of actual cases involving illegal gambling businesses to determine precisely who is involved, how these businesses operate, the nature of the threat posed, and the law enforcement response to it. The analysis reported here examines all federal convictions involving operation of illegal gambling businesses during a single year. There were more than 80 persons charged and convicted of participation in illegal gambling businesses, centered around 40 distinct enterprises. The results indicate that illegal gambling businesses in the United States are long-term operations consisting of four general types, and that enforcement of existing laws, particularly related to illegal online sports betting, are not working effectively. © 2017, Springer Science+Business Media New York.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

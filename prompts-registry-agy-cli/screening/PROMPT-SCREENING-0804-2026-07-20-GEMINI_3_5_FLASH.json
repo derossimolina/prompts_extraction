@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0804-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "URGENSI PENGESAHAN UNDANG-UNDANG PERAMPASAN ASET TINDAK PIDANA DALAM MENCEGAH DAN MEMBERANTAS TINDAK PIDANA PENCUCIAN UANG",
+    "authors": "Abdulgani R.K.",
+    "year": "2023",
+    "doi": "10.23969/litigasi.v24i1.7129",
+    "abstract": "A form of crime that often occurs in Indonesia is money laundering. Indonesia is declared as one of the Non-Cooperative Countries and Territories (NCTTs) countries with the threat of sanctions for termination of international banks with Indonesian banks, other countries will reject Letters of Credit (L/C) issued by Indonesian banks and Indonesian financial institutions will be charged high fees in every financial transaction with foreign institutions. Indonesia itself only criminalized money laundering in 2002 with the enactment of Law Number 15 of 2002. The Criminal Asset Forfeiture Bill is carried out by the in rem forfeiture method by asserting that a legal action is taken against the asset, not against the individual (in rem personam) with emphasis on assets allegedly derived or used in criminal acts. Allowing criminal actors to continue to control the proceeds and instruments (assets) of criminal acts will provide opportunities for criminal actors or other parties to enjoy the proceeds of crime and reuse the proceeds of crime for other crimes, so that the Criminal Asset Forfeiture Bill is indispensable in preventing and eradicating Money Laundering. © 2023, JURNAL LITIGASI.",
+    "source": "Jurnal Litigasi"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

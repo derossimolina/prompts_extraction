@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1298-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering with cryptocurrency: open doors and the regulatory dialectic",
+    "authors": "Dupuis D.; Gleason K.",
+    "year": "2021",
+    "doi": "10.1108/JFC-06-2020-0113",
+    "abstract": "Purpose: The purpose of this study is to describe the opportunities and limitations of cryptocurrencies as a tool for money laundering through six currently available “open doors” (exchange mechanisms). The authors link the regulatory dialectic paradigm to know your customer and anti-money laundering evasion techniques, highlight six tactics to launder funds with virtual assets and investigate potential law enforcement and regulatory alternates used to reduce the incidence of money laundering with digital coins. Design/methodology/approach: The methodology used is the analysis of significant recent events and the availability of “fintech” crime-fighting tools and a literature review focusing on the application of the regulatory dialectic to innovations in existing crypto-asset markets that make them compelling to money launderers. Findings: The authors examine the illicit use of cryptocurrency through Kane’s regulatory dialectic paradigm, identify a number of avenues for crypto to fiat exchange that are still available for those seeking to launder money using digital coins, review recently “closed doors” and make recommendations regarding the regulation of crypto-related markets that may assist in making them less desirable for potential criminals. Research limitations/implications: The research is constrained by the state of the market for crypto to fiat exchange as of time of writing; the technology and products to launder money using these open doors is continually changing (as predicted by the regulatory dialectic). Social implications: The regulatory dialectic predicts that regulatory response is reactive and often increasingly burdensome or oppressive. There is continuous innovation in the cryptocurrency market, which seeks to preserve privacy and anonymity with which regulators seek to keep up. From a social perspective, the response of bank regulators worldwide to existing open doors for crypto to fiat exchange used for money laundering may prove costly to individuals engaging in legitimate transactions, as well as financial criminals and may also erode the ability of individuals to maintain privacy regarding their financial information. Originality/value: To the authors’ knowledge, there are yet no broad overview regarding the feasibility of money laundering across crypto-related assets within the paradigm of the regulatory dialectic. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

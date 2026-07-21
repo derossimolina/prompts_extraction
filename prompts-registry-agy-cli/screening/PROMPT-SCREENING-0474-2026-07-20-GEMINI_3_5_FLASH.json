@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0474-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DEVELOPMENT AND INTEGRATION OF DIGITAL CURRENCIES IN THE VIRTUAL ASSET MARKET; [РОЗВИТОК ТА ІНТЕГРАЦІЯ ЦИФРОВИХ ВАЛЮТ У ДІЯЛЬНІСТЬ РИНКУ ВІРТУАЛЬНИХ АКТИВІВ]",
+    "authors": "Iefymenko T.I.; Dmytrenko T.L.",
+    "year": "2025",
+    "doi": "10.15407/scine21.02.003",
+    "abstract": "Introduction. In the evolving digital economy, a diverse range of tools plays a pivotal role, including virtual assets, central bank digital currencies (CBDCs), private currencies issued by commercial banks, and instruments from private financial groups. A key requirement for the harmonious and efficient functioning of this ecosystem is the establishment of a comprehensive legal framework governing their circulation, accompanied by robust public and private governance mechanisms. Effective regulation of this sector is critical for maintaining the integrity of payment systems and financial markets, safeguarding investor interests, and promoting overall financial stability. Problem Statement. The advent of digital finance is reshaping approaches to public-private governance. From a legal perspective, legislative frameworks must address the dual challenges of mitigating the misuse of new financial tools in criminal schemes while fostering innovation. This necessitates implementing targeted preventive measures, modernizing crime-fighting activities, and adopting contemporary regulatory approaches, such as regulatory sandboxes, to facilitate innovation. Purpose. This research aims to outline national priorities for the development of digital finance, emphasizing the importance of collaborative efforts in managing the circulation of CBDCs and virtual assets. Materials and Methods. The study employs a combination of general scientific and specialized methods, including analysis, synthesis, grouping, description, and comparison of CBDCs and virtual assets. It also involves the theoretical generalization of the concept of digital assets. Results. The findings highlight the urgent need to advance the National Bank of Ukraine’s e-hryvnia project to enhance the transparency of virtual asset circulation, legalize the virtual asset market in Ukraine in compliance with FATF standards, and strengthen anti-money laundering and counter-financing of terrorism (AML/CFT) procedures. Conclusions. Implementing regulatory frameworks for the virtual asset market, fostering its integration with banking institutions and payment systems, and introducing the e-hryvnia will bolster Ukraine’s financial security. These measures will also support the country’s reconstruction, modernization, and integration into the European Union. © Publisher PH “Akademperiodyka” of the NAS of Ukraine, 2025.",
+    "source": "Science and Innovation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

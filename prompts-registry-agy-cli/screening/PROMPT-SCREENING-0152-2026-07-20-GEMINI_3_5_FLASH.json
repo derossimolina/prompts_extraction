@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0152-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Transnational Criminal Enterprise: a Qualitative Social Network Analysis of the Production and Trade in Falsified Medicines",
+    "authors": "Hamill H.",
+    "year": "2025",
+    "doi": "10.1017/S000397562510009X",
+    "abstract": "This article investigates the organization of a transnational criminal enterprise through a detailed case study of Operation Singapore, a network producing and trafficking falsified pharmaceuticals from China to the United Kingdom. Drawing on law enforcement records, court transcripts, digital communications, and expert interviews, the study maps the structure and strategies of this criminal enterprise. It applies Peter Reuter’s theory of criminal organization, and Niles Breuer and Federico Varese’s typology of network forms to show how functional roles shape organizational structure: production was hierarchical and security-driven, while distribution was decentralized and transactional. Trust was not based on kinship or ethnicity but constructed through moral appeals and restricted information flows. The case reveals how criminal actors exploit legal frameworks and commercial infrastructures to mask illegal activity and blur boundaries between legal and illegal markets. These findings challenge static models of organized crime and call for a more dynamic, relational understanding of criminal enterprise. © The Author(s), 2025. Published by Cambridge University Press.éennes de Sociologie/European Journal of Sociology.",
+    "source": "Archives Europeennes de Sociologie"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

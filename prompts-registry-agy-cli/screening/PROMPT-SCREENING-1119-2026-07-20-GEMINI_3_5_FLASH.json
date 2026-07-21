@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1119-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Problem Penyidikan Tindak Pidana Pencucian Uang yang Berasal dari Predicate Crime Perbankan",
+    "authors": "Nuryanto A.D.",
+    "year": "2019",
+    "doi": "10.20961/bestuur.v7i1.43437",
+    "abstract": "The problem of investigating criminal acts of laundering from criminal origin of banking crime has several problems including synergy between investigators not yet integrated, between investigators of the Indonesian National Police, Financial Services Authority, and Attorney General, there is still overlap in authority of the three investigating institutions. Investigations can be conducted at each stage, at the placement, layering, and integration stages. Investigations can be carried out by each investigating institution, this really depends on the case of the case. First: Corruption case, then, then the money was laundered, it turns out that the predicate credit is the act of banking crime then the KPK Investigation Commission and the Financial Services Authority are involved. The second money laundry then prediakate the origin of banking crime then the police and the Financial Services Authority. Third, if a banking crime is first discovered and then conducted a money laundering, the initial investigator is the new Police Financial Services Authority. Money Laundering can also have an impact on the loss of state revenues from the tax sector, distrust of the market and the international world to the Indonesian state, the climate of investors being unwilling to invest in Indonesia. © Società Editrice Il Mulino.",
+    "source": "Bestuur"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

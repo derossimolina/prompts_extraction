@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0365-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Drivers of cryptocurrency regulation: cross-country empirical evidence from US congress data",
+    "authors": "Feridun M.",
+    "year": "2025",
+    "doi": "10.1080/13504851.2024.2332593",
+    "abstract": "This article undertakes a cross-country empirical analysis of the cryptocurrency regulations from around the world based on a data set drawn from the November 2021 Update of the United States Law Library of Congress report on the regulation of cryptocurrencies around the world. Based on the cross-country information provided in the report, a binary variable was constructed to reflect cryptocurrency regulations in the form of an application of tax legislation and/or anti-money laundering and counter-terrorist financing (AML/CFT) laws at the jurisdiction level. Results of cross-country logit regressions show that cryptocurrency regulation is significantly and positively associated with perceptions of corruption and bribery and significantly and negatively associated with AML/CFT framework and price stability policy. © 2024 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Applied Economics Letters"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

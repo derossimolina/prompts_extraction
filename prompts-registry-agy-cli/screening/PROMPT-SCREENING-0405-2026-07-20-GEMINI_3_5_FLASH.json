@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0405-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Unveiling the influence of host-country religiosity on the completion of cross-border merger and acquisition deals",
+    "authors": "Zuo Z.; Zheng W.; Wang C.; Su J.; Desai M.N.",
+    "year": "2025",
+    "doi": "10.1016/j.ibusrev.2025.102483",
+    "abstract": "While international business (IB) literature highlights the impact of religious distance on cross-border mergers and acquisitions (CBMAs), limited research has examined how host-country religiosity, defined as the popularity and devoutness of religious beliefs, affects the completion of inward CBMA deals. Using a propensity score matching (PSM) approach and analyzing 4290 CBMA transactions across 105 host countries from 1999 to 2019, we find that higher levels of host-country religiosity reduce the likelihood of CBMA deal completion, independent of religious distance. We further identify increased distrust toward foreign acquirers as a key mediating mechanism. However, a stage-by-stage acquisition strategy, rather than a one-off, full-control approach, mitigates the negative impact of religiosity on deal completion. Our findings contribute to CBMA research by positioning host-country religiosity as a critical determinant of deal outcomes, revealing social trust as a mediating factor, and highlighting the moderating role of acquisition structuring. © 2025 The Authors",
+    "source": "International Business Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

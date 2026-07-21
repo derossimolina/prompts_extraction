@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2455-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Analog and Digital World",
+    "authors": "Price, DJ",
+    "year": "2008",
+    "doi": "10.1007/978-1-59745-577-0_1",
+    "abstract": "Digital devices shape every aspect of our lives-from online banking to ordering milk when your refrigerator detects you are low. These advances in technologies have been used to advance and improve our daily lives and, truly, the way in which we live. Unfortunately, these advances also have a dark side. Electronic devices are the new weapons of choice used by today's criminals. These activities range from sophisticated network intrusion to money laundering to exploiting children. Criminals attempt to hide behind digital zeros and ones in an effort to protect their identities while exploiting the identities of others. It is the responsibility of law enforcement and corporate America to understand digital devices and how to uncover a criminal's true identity through specialized training, sophisticated software, and a little bit of luck. This chapter will introduce you to the world of digital information. It will briefly describe the basic fundamentals of digital and analog devices. It is not the intent of this chapter to cover every aspect of digital devices but rather to present a solid foundation of understanding for further detailed study of the subject matter. Let us start from the beginning; understanding the impact of mathematics.",
+    "source": "HANDBOOK OF DIGITAL AND MULTIMEDIA FORENSIC EVIDENCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

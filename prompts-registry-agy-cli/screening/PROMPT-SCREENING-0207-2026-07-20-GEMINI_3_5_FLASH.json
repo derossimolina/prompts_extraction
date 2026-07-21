@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0207-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Accounting scripts and the politics of compliance: Understanding accountants’ roles in anti-money laundering through sentiment and script theory",
+    "authors": "Lokanan M.E.",
+    "year": "2026",
+    "doi": "10.1016/j.jeconc.2026.100207",
+    "abstract": "This study explores the role of accountants in anti-money laundering (AML) compliance within Canada's non-banking financial institutions, specifically focusing on the real estate, luxury vehicles, and gaming sectors. By utilizing a unique combination of machine learning (ML) and deep learning (DL) algorithms, along with natural language processing techniques, the research conducts sentiment analysis on the testimonies of accountants who appeared at the Cullen Commission inquiry. Supported by semi-structured interviews with key gatekeepers, this study provides a comprehensive understanding of accountants' perspectives and experiences in AML compliance. The sentiment analysis, utilizing both ML and DL models, reveals a predominance of positive sentiments among the testimonies, indicating overall satisfaction with regulatory frameworks and participation in AML initiatives. Neutral sentiments emphasize the provision of factual descriptions of procedures and regulations, while negative sentiments highlight concerns regarding the effectiveness of AML measures. Applying script theory as a cognitive framework, the study categorizes accountants' cognitive processing into three stages: preexisting schemata, assimilation, and accommodation. These stages illustrate the progression of accountants' perspectives and strategies in response to AML compliance challenges, ranging from reliance on previous experiences and beliefs to the integration of new information and adjustment to regulatory changes. The findings offer fresh insights into the field of accounting scholarship, particularly in critical accounting research. The utilization of advanced DL methods in sentiment analysis represents a methodological innovation, allowing for a deeper comprehension of accountants' roles in AML compliance. © 2026",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

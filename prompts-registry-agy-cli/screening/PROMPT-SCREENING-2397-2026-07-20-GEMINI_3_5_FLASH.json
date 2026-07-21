@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2397-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Analysing the Investigation and Prosecution of Cryptocurrency Crime as Provided for by the South African Cybercrimes Bill",
+    "authors": "Reddy, E",
+    "year": "2020",
+    "doi": "10.1093/slr/hmz001",
+    "abstract": "The purpose of this article is to determine the effectiveness of the Cybercrimes Bill of 2018 in investigating and prosecuting cryptocurrency crime. The method used to determine this enquiry is based on the analysis of certain criminal, procedural, and investigatory support provisions of the bill, accompanied by recommendations where necessary. An analysis of the Cybercrimes Bill of 2018 in its entirety falls outside the scope of this article. The significance of this enquiry rests on the increasing use of cryptocurrencies in criminal activity (including money laundering, investment scams, fraud, hacking, and cyber extortion). The investigation and prosecution of such criminal activity may be exacerbated by the unique characteristics inherent in a cryptocurrency; a cryptocurrency is an unregulated, online, encrypted (and thus pseudonymous) 'currency' denominated in its own units of value. Cryptocurrencies are thus an international online 'currency' with multijurisdictional presence. Any criminal activity associated with its use will therefore invariably possess a cyber-element. Such criminal activity will thus need to be addressed from a legal basis that caters for the criminal and procedural processes necessary in the investigation and subsequent prosecution of such crime.",
+    "source": "STATUTE LAW REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

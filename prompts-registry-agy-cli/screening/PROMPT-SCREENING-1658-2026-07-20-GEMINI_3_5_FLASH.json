@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1658-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Building an economic field with supranational supports? Lessons from wine production in Romania",
+    "authors": "Roger A.",
+    "year": "2013",
+    "doi": "10.1080/03906701.2013.856163",
+    "abstract": "In empirical studies of the real estate market, Pierre Bourdieu shows that the structuring of the 'economic field' is closely linked to that of the 'bureaucratic field'. Through its regulatory activity, government plays a part in the legitimation of particular forms of economic activity as well as in the construction of the resulting hierarchies. This analytical framework is generally applied at the level of the State. Our point is to extend the scope of that analysis. An extension of the bureaucratic field can be characterized if one takes the view that international and supranational administrations play an active role in the organization of economic activities. In order to assess the relevance of this interpretative standpoint, light is shed on the case of the Romanian wine-making economy. The aim is to study a sectoral policy over which the European Commission has recently taken control and to measure its effects within a new Member State. This perspective is even more informative because Romanian wine production is being restructured: new operators have made their presence felt over the last decade, while the national government has lacked the means to make a determined effort to place these operators within a hierarchy. The Commission offers support to various agents who speak on behalf of Romanian 'wine-making interests' and influences the directions taken by conflicts between these interests. At the same time, it maintains a structural contradiction which prevents the formation of an economic field in the full sense of the term: the points at issue are defined in such a way as to conflict with the shape of any stable coalition between the dominant agents. The demonstration is supported by qualitative data collected during field studies carried out in 2010 and 2011. © 2013 University of Rome 'La Sapienza'.",
+    "source": "International Review of Sociology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1676-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Gift exchange with saints in medieval icelandic miracle stories",
+    "authors": "Zori D.",
+    "year": "2016",
+    "doi": "10.1484/J.VIATOR.5.109468",
+    "abstract": "Employing anthropological perspectives on gift giving, I analyze exchanges between Icelandic saints and their devotees in the miracle stories of Saints Jón and Þórlákr. Norms of reciprocal gift giving offered a framework for seeking saintly assistance that involved predictable stages, including vows, counterpledges, and pledge-confirmations, followed by gifts and counter-gifts. I highlight the need for equity in gift exchange and the negotiations between devotees and saints seeking materially and/or symbolically balanced exchange. The examples discussed underscore the role of reciprocal exchange in structuring the miracle stories, the consequences of failed saintly gift transactions, and the Church’s role in promoting a reciprocal understanding of saintly worship. Counter-gifting of material goods by the devotee to the saints’ cathedrals directed wealth towards the Church, but I contend that the pivotal outcome of saintly gift exchange conducted according to traditional norms was the cementation of socio-political relationships between saints, devotees and the mediating clergy. © 2015, Brepols Publishers. All rights reserved.",
+    "source": "Viator - Medieval and Renaissance Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

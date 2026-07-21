@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0069-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Technology Emergence as a Structuring Process: A Complexity Theory Perspective on Blockchain",
+    "authors": "Marku E.; Di Guardo M.C.; Patriotta G.; Allen D.G.",
+    "year": "2025",
+    "doi": "10.1177/01492063241247496",
+    "abstract": "Drawing on complexity theory, we investigate the structuring processes and underlying mechanisms underpinning the emergence of a new technology. Empirically, we track the emergence of blockchain technology by examining international patents issued between 2009 and 2020. Our results indicate that technology emergence follows an evolutionary trajectory that progresses from disordered to structured interactions among the technological elements, culminating in the formation of a technological core that acts as a pole of attraction for further interactions and delineates boundaries within the technological domain. Technology structuring is fueled by what we term “technology fitness” and “self-reinforcing” mechanisms that progressively transform primitive structures into more complex, self-organized configurations. Our study offers a novel framework of technology emergence, highlighting how dispersed bits of technological knowledge gradually aggregate into complex structures that define the specific trajectory of a particular domain. © The Author(s) 2024. This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).",
+    "source": "Journal of Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2585-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Morgan Stanley Roundtable on Private Equity and Its Import for Public Companies",
+    "authors": "Jensen, M; Kaplan, S; Ferenbach, C; Feldberg, M; Moon, J; Hoesterey, B; Davis, C",
+    "year": "2006",
+    "doi": "10.1111/j.1745-6622.2006.00096.x",
+    "abstract": "The role of private equity in global capital markets appears to be expanding at an extraordinary rate. Morgan Stanley estimates that there are now some 2,700 private equity funds that either have raised, or are in the process of raising, a total of $500 billion. With this abundance of available equity capital, the willingness of private equity firms to participate in club deals, and the leverage that can be put on top of the equity, private equity buyers now appear able and willing to pay higher prices for assets than ever before. And thanks in part to this new purchasing power, private equity transactions reportedly account for a quarter of all global M&A activity as well as a third of the high yield and IPO markets. The stock of capital now devoted to private equity reflects the demonstrated ability of at least the most reputable buyout firms to produce consistently high rates of returns for their limited partners. Although a talent for identifying and purchasing undervalued assets may be part of the story, the ability to produce such returns on a consistent basis implies an ability to add value, to improve the performance of the operating companies they invest in and control. And in this roundtable, a small group of academics and practitioners address two main questions: How does private equity add value? And are there lessons for public companies in the success of private companies? According to the panelists, the answer to the first question appears to have changed somewhat over time. The consensus was that most of the value added by the LBO firms of the '80s was created during the initial structuring of the deals, a process described by Steve Kaplan as financial and governance engineering, which includes not only aggressive use of leverage and powerful equity incentives for operating managements, but active oversight by a small, intensely interested board of directors. In the past ten years, however, these standard LBO features have been complemented by increased attention to operational engineering, to the point where today's buyout firms feel obligated, like classic venture capitalists, to acquire and tout their own operating expertise. In response to the second of the two questions, Michael Jensen argues that much of the approach and benefits of private equity-particularly the adjustments of financial policies and stronger managerial incentives-can be replicated by public companies. And although some of these benefits have already been realized, much more remains to be done. Perhaps the biggest challenge, however, is finding a way to transfer to public companies the board-level expertise, incentives, and degree of engagement that characterize companies run by private equity investors.",
+    "source": "JOURNAL OF APPLIED CORPORATE FINANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

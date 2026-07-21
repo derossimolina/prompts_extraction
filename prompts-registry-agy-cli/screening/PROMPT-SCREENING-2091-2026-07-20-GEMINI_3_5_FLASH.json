@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2091-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Social meaning and material transaction: The Wanano-Tukano of Brazil and Colombia",
+    "authors": "Chernela J.M.",
+    "year": "1992",
+    "doi": "10.1016/0278-4165(92)90016-5",
+    "abstract": "In the northwest Amazon strict boundaries between kin groups, maintained by language and specialized manufacture, create difference within an otherwise culturally homogeneous system. Highly decorated trade items of the Eastern Tukanoan populations of the area, sent with wives to in-law groups, carry a complex array of stylistic messages that serve to identify the affiliation and origin of the maker. The Tukanoan case is one example of an exchange network in which social relations, not spatial proximity, structure the distribution of goods in significant ways. Manufactured goods, for example, never move toward \"insiders,\" but always toward \"outsiders.\" The case bears significance for studies of style and identification as well as the role of kinship in structuring group behavior, including movement of personnel and goods in space and time. © 1992.",
+    "source": "Journal of Anthropological Archaeology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

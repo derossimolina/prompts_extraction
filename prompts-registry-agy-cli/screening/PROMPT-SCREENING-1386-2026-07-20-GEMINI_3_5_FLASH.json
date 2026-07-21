@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1386-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulation as both enabler of technology use and global competitive tool: The Gibraltar case",
+    "authors": "Scholl H.J.; Bolívar M.P.R.",
+    "year": "2019",
+    "doi": "10.1016/j.giq.2019.05.003",
+    "abstract": "Distributed ledger technologies (DLTs) such as Blockchain appear to have disruptive economic potential to traditional finance-sector and non-financial markets as the success of crypto currencies demonstrates. While traditional financial and securities markets are highly regulated, DLT transactions and exchanges have so far widely remained unregulated, which potentially poses major threats to individual investors and, via money laundering, terrorist financing, and tax evasion, to society at large. Governments have been taking different approaches to monitoring and regulating the fledgling DLT provision arena. However, the small jurisdiction of Gibraltar, an affluent self-governed and self-financed British overseas territory with a population of 34,000 at the Southern tip of the Iberian Peninsula has taken a proactive approach. What makes this case stand out is that Gibraltar is not only is the first jurisdiction worldwide to regulate general DLT provision, but it is rather using the regulation as a competitive tool and a means for creating new public value. The study inquires the potential benefits and challenges to this particular approach to DLT provision regulation, and it investigates and presents the various facets of public value generation, which might serve as a poster child for fast and smart regulation in the digital age. © 2019 Elsevier Inc.",
+    "source": "Government Information Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

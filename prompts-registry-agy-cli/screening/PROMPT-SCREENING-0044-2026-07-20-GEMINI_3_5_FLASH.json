@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0044-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Data Mining-based Financial Statement Fraud Detection: Systematic Literature Review and Meta-analysis to Estimate Data Sample Mapping of Fraudulent Companies Against Non-fraudulent Companies",
+    "authors": "Gupta S.; Mehta S.K.",
+    "year": "2024",
+    "doi": "10.1177/0972150920984857",
+    "abstract": "Data mining techniques have proven quite effective not only in detecting financial statement frauds but also in discovering other financial crimes, such as credit card frauds, loan and security frauds, corporate frauds, bank and insurance frauds, etc. Classification of data mining techniques, in recent years, has been accepted as one of the most credible methodologies for the detection of symptoms of financial statement frauds through scanning the published financial statements of companies. The retrieved literature that has used data mining classification techniques can be broadly categorized on the basis of the type of technique applied, as statistical techniques and machine learning techniques. The biggest challenge in executing the classification process using data mining techniques lies in collecting the data sample of fraudulent companies and mapping the sample of fraudulent companies against non-fraudulent companies. In this article, a systematic literature review (SLR) of studies from the area of financial statement fraud detection has been conducted. The review has considered research articles published between 1995 and 2020. Further, a meta-analysis has been performed to establish the effect of data sample mapping of fraudulent companies against non-fraudulent companies on the classification methods through comparing the overall classification accuracy reported in the literature. The retrieved literature indicates that a fraudulent sample can either be equally paired with non-fraudulent sample (1:1 data mapping) or be unequally mapped using 1:many ratio to increase the sample size proportionally. Based on the meta-analysis of the research articles, it can be concluded that machine learning approaches, in comparison to statistical approaches, can achieve better classification accuracy, particularly when the availability of sample data is low. High classification accuracy can be obtained with even a 1:1 mapping data set using machine learning classification approaches. © 2021 IMI.",
+    "source": "Global Business Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

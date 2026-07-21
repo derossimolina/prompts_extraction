@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2084-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global anti-money laundering standards and developing economies: The regulation of mobile money",
+    "authors": "Vlcek W.",
+    "year": "2011",
+    "doi": "10.1111/j.1467-7679.2011.00540.x",
+    "abstract": "This article discusses the confluence of international initiatives to counter money laundering and terrorist finance with migrant remittances and the growing use of mobile telephone technology for more than making a call. The experiences of Kenya and the Philippines with mobile telephone-based financial services are outlined as potential models consistent with the 'risk-based' approach now promoted by the Financial Action Task Force (FATF), one objective being to encourage the implementation of regulation of m-money services by recognising the development and social-welfare opportunities offered by the technology in the context of a developing economy. © The Author 2011. Development Policy Review © 2011 Overseas Development Institute.",
+    "source": "Development Policy Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

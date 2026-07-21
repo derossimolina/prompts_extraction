@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1458-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Implementation of the concept of “politically exposed persons (PEPs)” in India",
+    "authors": "Chhina R.K.",
+    "year": "2017",
+    "doi": "10.1108/JMLC-01-2016-0001",
+    "abstract": "Purpose: The purpose of this paper is to critically examine the concept of “politically exposed persons (PEPs)” as provided under the Indian anti-money laundering (AML) regime, particularly focussing on the Reserve Bank of India guidelines to its supervised banks on dealing with the potential money laundering risks posed by PEPs. Design/methodology/approach: The definition of PEPs as provided by international standard setters and the concept as defined by the Indian AML regime was examined to examine the extend of the compliance of the Indian AML regime with the mandatory requirements of revised 2012 Financial Action Task Force (FATF) recommendations and other international standards. Findings: The paper clearly establishes that the current AML regime of India does not fully comply with the mandatory requirements of the revised 2012 FATF recommendations, and the RBI guidelines do not provide any clear indications to its supervised banks on the effective development and implementation of AML PEPs control. The paper argues that it is high time for India to increase its regulatory focus on the issue of PEPs and to expand its definition of PEPs by including both domestic PEPs and “close associates” of PEPs within the definition. Originality/value: The paper demonstrates in an exceptional way that despite variations in the scope of the PEPs definition at an international level, all the standard setters have included certain key individuals (both domestic and foreign PEPs and “close associates” of PEPs) within the scope of the definition and how the legal and regulatory requirements in India are falling short of compliance even with these minimum key requirements. By adopting a step-by-step approach in critically examining the current legal and regulatory requirements enforced on banks in India to efficiently deal with the money laundering risks posed by PEPs, the paper makes a valuable contribution in highlighting the steps that might be taken to strengthen PEPs’ AML controls in India. © 2017, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

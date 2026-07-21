@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0270-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blockchain Fraud Behaviors Detection Technology: A Survey; [区块链欺诈行为识别技术综述]",
+    "authors": "Li G.; Chen Z.; Bian J.; Zhou J.; Wu W.",
+    "year": "2024",
+    "doi": "10.19363/J.cnki.cn10-1380/tn.2024.07.01",
+    "abstract": "In recent years, the rapid development of blockchain technology and industry has engendered fresh vigor for economic and technological innovation. However, this also catalyzed the proliferation of fraudulent practices, which have posed a threat to the technology's reputation and progression as well as brings financial loss to subscribers. As a result, it is crucial to detect and prevent fraud behaviors to safeguard the benign development of blockchain technology and application. On the other hand, blockchain fraud behaviors is anonymous, diverse and complex, which poses enormous challenges to the detection methods, and quite many different approaches have been proposed to address these challenges. This paper summarizes the relevant literature in the past five years, to clearly present the latest progress of blockchain fraud behavior detection technologies. In consideration of the diversity of detection technologies, this paper adopts a two-level classification framework. Firstly, the fraud behaviors are classified into different categories based on business scenarios, involving blockchain money laundering, initial coin offering, Ponzi schemes and phishing scams, and totally eight types behaviors. And then, for each category, the corresponding detection techniques are analyzed and discussed. By analyzing and summarizing, this paper views the detection technologies from specific scenarios and constructs a generalized technical architecture. The detection technologies are discussed in detail based on this architecture, covering blockchain transaction graph construction technologies, feature engineering technologies, fraud behavior detection technologies and models. This paper also discusses the fraud behavior detection efforts in the decentralized ecosystem of blockchain, including cross-chain money laundering, decentralized platform token scam, etc, which has become popular in recent years. These fraud behaviors have high complexity and detection difficulty, and related detection technologies are still lacking, which urgently require more attention. Finally, this paper analyzes the future technology trends based on the challenges and difficulties faced by the current blockchain fraud behavior detection work. © 2024 Chinese Academy of Sciences. All rights reserved.",
+    "source": "Journal of Cyber Security"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

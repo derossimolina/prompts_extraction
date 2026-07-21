@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0731-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banking Digitalization: (Re)Thinking Strategies and Trends Using Problem Structuring Methods",
+    "authors": "Rodrigues J.F.C.; Ferreira F.A.F.; Pereira L.F.; Carayannis E.G.; Ferreira J.J.M.",
+    "year": "2022",
+    "doi": "10.1109/TEM.2020.2993171",
+    "abstract": "Digital transformation is becoming more common in an increasingly digital world, which has contributed to significant changes in business processes around the globe. In the banking industry, this approach allows banking institutions to provide improved customer experiences. However, the determinants of successful banking digitalization are still unclear, as are their cause-and-effect relationships. This article sought to apply problem structuring methods, namely, fuzzy cognitive mapping and system dynamics, to develop a conceptual model that can be applied to analyses of banking industry digitalization. The results are based on two group sessions that were held with a panel of decision makers who deal with banking digitalization processes on a daily basis. The findings were validated by a senior staff member responsible for banking project assessment and development at Caixa Geral de Depósitos S.A. - a Portuguese state-owned banking corporation. The approach adopted in this article is unique because digitalization determinants were collected and analyzed based on the participants' know-how and experience. Static and dynamic analyses produced a deeper, broader understanding of the dynamic cause-and-effect relationships between the identified determinants of banking digitalization, giving rise to a realistic model that can be used to support relevant decision-making processes. © 1988-2012 IEEE.",
+    "source": "IEEE Transactions on Engineering Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

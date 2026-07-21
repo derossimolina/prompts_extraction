@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0279-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "It is time to build robust cross-industry anti-fraud and scam capabilities",
+    "authors": "Musciotto F.; Neri M.; Soramäki K.",
+    "year": "2025",
+    "doi": "10.69554/DETD4288",
+    "abstract": "Recent years have seen a significant acceleration in the adoption of instant payment systems around the world, with about one-fifth of the global share of payments being processed instantly. These systems bring unprecedented speed and efficiency to the payments market, offering greater convenience for consumers. At the same time, however, they also enable fraudsters to operate more effectively. As a result, both the speed and volume of fraud have increased. In 2024 alone, global fraud losses were estimated to exceed US$1tn; almost 1 per cent of global GDP. The perpetrators are increasingly transnational criminal organisations using complex, multi-bank transaction schemes to conceal the destination of illicit funds. As a result, no single bank can gain full visibility of these networks through its own data alone. Standard rule-based and statistical approaches to fraud detection, relying on siloed bank-level data, are limited in effectiveness because they fail to capture network dimensions. This paper argues that the issue can only be addressed effectively through a holistic view of payment data at national and cross-border levels. This can be achieved by consolidating a shared data hub that enables: (1) real-time tracing and tracking of fund movements, allowing faster recovery for victims, quicker identification of mule accounts, and lower costs; and (2) more accurate fraud detection and risk scoring using graph-based data features. Moreover, when cross-industry and transnational utilities are built on such a hub, they enable mitigation and prevention strategies to operate synergistically, with each strengthening the other in a self-reinforcing cycle of resilience. This article is also included in the Business & Management Collection which can be accessed at http://hstalks/business. © Henry Stewart Publications,.",
+    "source": "Journal of Payments Strategy and Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0467-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The correlation of Financial Action Task Force recommendations: the perception of compliance officers concerning the deployment of third parties and Fintech for customer due diligence",
+    "authors": "Sultan N.; Mohamed N.; Chisunga D.; Satar A.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-08-2024-0135",
+    "abstract": "Purpose: This study aims to explore the challenges financial institutions face in deploying third parties and financial technologies to perform customer due diligence. Design/methodology/approach: This study applied a qualitative technique and interviewed 25 compliance officers from different financial institutes and their regulators. Findings: This study found that the third-party recommendation of the Financial Action Task Force is restrictive, contradictory, time-consuming and seriously lacks standardisation. Furthermore, this recommendation restricts the use of modern Fintechs. This recommendation has posed significant challenges for the adoption of Fintechs, international banking/onboarding, digital onboarding and financial inclusion. Practical implications: Thus, revisiting the Financial Action Task Force Recommendations 17 and 15 in correlation with Recommendation 10 is suggested. Originality/value: The Recommendation 17 is rarely discussed in details, especially in developing courtiers’ context. © 2025, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

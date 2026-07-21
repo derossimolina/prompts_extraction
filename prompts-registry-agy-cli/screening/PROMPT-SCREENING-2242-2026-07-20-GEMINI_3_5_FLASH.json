@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2242-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "TRADE-BASED MONEY LAUNDERING: RESPONDING TO AN EMERGING THREAT",
+    "authors": "McSkimming, S",
+    "year": "2010",
+    "doi": "10.21153/dlr2010vol15no1art116",
+    "abstract": "Concerted global effort has made the financial system an increasingly hostile and risky environment in which to launder illicit funds. As a result, offenders are increasingly turning to money laundering typologies that operate outside the financial system - primarily, trade-based money laundering. Despite this, enforcement agencies are ill-equipped to systematically detect and prevent trade-based financial crime. This paper makes several observations. The first is that, while little has been done to prevent trade-based financial crime, there is also little evidence of its ill effect. Further, there has been little consideration as to whether systematic monitoring of the trade system would be cost-effective, relative to the number of offenders detected and the harm prevented. Without such analysis, it is almost impossible to reach a measured and balanced view on appropriate policy settings. The second is that, even if monitoring were to be implemented, the analytical methodologies that are currently used have major flaws. They not only rely on data that is often of poor quality, but may also be worryingly easy to circumvent. This too raises serious questions about the effectiveness of the proposed policy responses to trade-based money laundering. The difficulties associated with data monitoring also raise the spectre of a significant increase in the number of physical, and therefore costly, inspections of trade goods.",
+    "source": "DEAKIN LAW REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

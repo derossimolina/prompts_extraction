@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0924-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banking’s new frontier: overcoming anti-money laundering challenges with innovative technology",
+    "authors": "Thommandru A.; Chakka B.",
+    "year": "2024",
+    "doi": "10.1504/IJIPM.2024.139658",
+    "abstract": "Emerging technology can help in mitigating money laundering and other financial crimes. Blockchain is considered one of the world’s best-known emerging technologies. It can change many processes, payments between peer-to-peer, trade agreements and reducing compliance cost. The banking sector is identified as the main means for laundering illicit money, banks generally have access to both banking mechanism and legal authority to make decisions. Money launderers and those financing terrorism are conveniently accessing financial institutions and making their profitable channel of loopholes in its mechanism like manipulating know-your-customer (KYC). To bridge this gap this current paper focuses on issues of compliance and anti-money laundering policies in the banking sector by using blockchain; the paper keenly focuses on KYC manipulation and the financial burden on banks for anti-money laundering (AML) compliance policies. This work examines the fault lines in the current financial system followed by regulators and questions how better these gaps could be remedied. This research uniquely relates to the capability of blockchain technology to bring banking systems with recalibrated mode of compliances polices. Copyright © 2024 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Intellectual Property Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

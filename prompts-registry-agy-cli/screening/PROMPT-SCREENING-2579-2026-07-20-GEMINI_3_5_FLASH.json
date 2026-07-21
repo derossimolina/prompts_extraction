@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2579-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "BUSINESS SPLITTING: LEGAL ISSUES",
+    "authors": "Volkov, AV; Blinkov, OE",
+    "year": "2019",
+    "doi": "10.17072/1995-4190-2019-44-261-280",
+    "abstract": "Introduction: the paper deals with theoretical and practical issues of application practice for the new Article 54.1 of the Tax Code of the Russian Federation. Purpose: to analyze the ways of splitting a business and explain their relationship with the abuse of civil and tax rights taking judicial practice into consideration. Methods: theoretical methods of formal and dialectical logic, empirical methods of interpretation, comparison and description; specific scientific methods were also used. Results: the author conducted a scientific analysis of the business split procedure, described the abuse patterns (schemes) used by taxpayers. Signs of unjustified tax benefits and the income consolidation principle are discussed in relation to the current judicial practice. Conclusions: The author has formulated the concept of 'interrelated parties' income consolidation'. This is an extraordinary consequence for a tax offense which can be applied at the instigation of a tax authority and solely by the court in compliance with Article 54.1 of the Tax Code of the Russian Federation (right exercise limits), as well as Articles 1 and 10 of the Civil Code of the Russian Federation (prohibition of the right abuse) and only following the recognition of all the 'split' and false' organizations as a single right holder, thereby neglecting their unfair establishment (separation) and functioning as false (dummy) entities within or shortly before the tax audit period. The author also proposed amending Article 54.1 of the Tax Code of the Russian Federation 'Limits of the Exercise of Rights Relating to the Assessment of the Tax Base and/or the Amount of Tax, Fees, Insurance Contributions' to include the following clause: If dummy entities and/or fictitious transactions (operations) are revealed by a tax authority, the taxpayer's tax liability shall be adjusted proceeding from his reasonable behavior as if the taxpayer did not go beyond the limits of the fair exercise of rights'.",
+    "source": "VESTNIK PERMSKOGO UNIVERSITETA-JURIDICHESKIE NAUKI"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

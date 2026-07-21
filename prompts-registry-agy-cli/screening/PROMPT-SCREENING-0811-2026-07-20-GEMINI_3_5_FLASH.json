@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0811-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bekämpfung von Cybercrime Der Spagat zwischen Massendaten und HighTech Crime anhand von zwei Beispielen",
+    "authors": "May A.",
+    "year": "2023",
+    "doi": "10.1515/mks-2022-0034",
+    "abstract": "The article uses two investigation complexes of the Center against Internet and Computer Crime of the General Public Prosecutor's Office in Frankfurt/Main as ex¬amples to illustrate the challenges investigators have to face in the field of cybercrime. The takedown of the EMOTET botnet is intended to illustrate not only the technical and legal expertise required for this, but also to show that such proceedings can only be brought to a successful conclu¬sion through the complex interaction of investigators from a wide range of fields with representatives of companies and IT researchers. The example of the crypto cell phone procedure »EncroChat« will be used to illustrate how law enforcement agencies - often under enormous time pres¬sure - have to react to new phenomena, what difficulties the evidence-proof acquisition and processing of mass data, especially from abroad, poses and what challenges investi¬gators face in the fight against organized crime. © 2023 Walter de Gruyter GmbH. All rights reserved.",
+    "source": "Monatsschrift fur Kriminologie und Strafrechtsreform"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

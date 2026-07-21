@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1581-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of offshore jurisdict ions in Russia",
+    "authors": "Wilson K.",
+    "year": "2015",
+    "doi": "10.17589/2309-8678-2015-3-2-119-136",
+    "abstract": "This paper will examine the interaction between offshore jurisdictions and Russia, with particular emphasis on the role played by the British Virgin Islands in structuring offshore transactions. This paper will look at popular narratives about offshore jurisdictions, including traditional arguments about round-tripping and corruption, before examining the legal rationale for the use of offshore structures in Russia. It will be argued that the use of offshore jurisdictions arose as a response to deficiencies in the Russian legal system, particularly in terms of Russian law as it relates to property rights, and the related problem of enforcing such rights. In contrast to these perceived deficiencies in the Russian legal framework, offshore jurisdictions provided a stable and modern legal environment, the use of which allowed Russian investors to gain access to Western common law principles of corporate governance, property rights and shareholder rights. © 2015, Supporting Academic Initiatives Foundation. All rights reserved.",
+    "source": "Russian Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

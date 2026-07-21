@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1716-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hybrid economies and statebuilding: On the resilience of the extralegal",
+    "authors": "Strazzari F.; Kamphuis B.",
+    "year": "2012",
+    "doi": "10.1163/19426720-01801006",
+    "abstract": "How do informal and criminal economies transform over time, and what are the roles of armed conflict and \"postconflict\" intervention in this process? Based on four cases of contemporary statebuilding, this article explores the persistence and pervasiveness of extralegal economies in the face of intrusive international intervention and reflects on the implications for state formation. It observes that acting beyond the law is no prerogative of unmodern locals sitting in the antechamber of (liberally assisted) formal processes. The type of hybrid economic governance that emerges from the postconflict convergence of various levels of authority is often characterized by the selective reproduction of extralegal economic practices whose effects go well beyond the informal sector and crime boom typically registered in the immediate aftermath of violent conflicts.",
+    "source": "Global Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

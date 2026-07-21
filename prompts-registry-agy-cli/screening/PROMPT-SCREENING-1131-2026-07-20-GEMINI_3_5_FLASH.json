@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1131-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial Crime on Investigation in Industrial Revolution 4.0 Era",
+    "authors": "Sukardi",
+    "year": "2020",
+    "doi": "10.6000/1929-4409.2020.09.66",
+    "abstract": "The advancement of digital technology in the industrial 4.0 era has impacted the growth of economic and financial crime, especially financial technology, or Fintech. It was not followed by legal development to overcome these impacts; therefore, to overcome a gap in financial crime that uses digital technology as a tool in committing crimes, new effective and efficient concepts and methods are needed. One fitting theory is the notion of following the money utilizing the method of a financial crime investigation. This approach uses investigative audit and forensic accounting to trace assets over the profits of the crime. However, to implement the method, it is necessary to modify the substance of the legal system to shift the orientation from the orientation of proof of error to proving the proceeds of crime. The article finds that in the aspect of structure, a synergistic and harmonious coordination system is needed between law enforcers and all related parties. While in the aspect of legal culture, the development of community economic infrastructure is needed, especially business transactions that support data-based systems. © 2020 Lifescience Global.",
+    "source": "International Journal of Criminology and Sociology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

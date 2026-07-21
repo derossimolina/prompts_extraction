@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0475-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Adapting Regulatory Compliance in Zimbabwe's Banking Sector to the Financial Technology Revolution: Lessons from South Africa",
+    "authors": "Marange P.; Hamadziripi F.",
+    "year": "2026",
+    "doi": "10.17159/1727-3781/2026/v29i0a21383",
+    "abstract": "The recent rapid growth of financial technology (FinTech) innovations in Zimbabwe's banking sector has brought about significant transformations that have challenged traditional regulatory compliance requirements and procedures. Some of the key FinTech innovations in Zimbabwe include mobile payments, digital wallets, blockchain technology, virtual currencies, and peer-to-peer lending platforms. In some instances these FinTech innovations have resulted in regulators facing challenges relating to consumer protection, cybersecurity, data privacy and compliance with anti-money laundering and counter terrorism financing (AML/CFT) regulations. To this end, certain regulatory initiatives have been undertaken to facilitate FinTech experimentation and collaboration with industry stakeholders to strike a balance between innovation and compliance. These initiatives include regulatory sandboxes and innovation hubs. This article examines how FinTech innovations are shaping regulatory compliance in Zimbabwe's banking sector. In addition, the article explores how bank regulators are adapting to these changes to foster innovation on the one hand while ensuring consumer protection and financial stability on the other. Furthermore, it emphasises the importance of building regulatory capacity and technological expertise to effectively adapt to the evolving FinTech landscape. By exploring these aspects, the article provides insights into the transformative effect of the FinTech revolution on regulatory compliance in Zimbabwe's banking industry and proffers recommendations for a regulatory framework that promotes innovation while safeguarding stakeholders' interests. © 2026, North-West Unversity. All rights reserved.",
+    "source": "Potchefstroom Electronic Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

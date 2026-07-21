@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2526-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DO NORMS MATTER IN MARKETING RELATIONSHIPS",
+    "authors": "HEIDE, JB; JOHN, G",
+    "year": "1992",
+    "doi": "10.2307/1252040",
+    "abstract": "Transaction cost analysis is rapidly becoming an important theoretical paradigm in marketing. However, the accumulation of transaction cost studies has been accompanied by a growing body of criticism, primarily directed toward its underlying behavioral norm of opportunism. That norm is a serious theoretical deficiency, not only because it may be descriptively inaccurate, but also because it limits the applicability of the theoretical framework. The authors show that norms play a very significant role in structuring economically efficient relationships between independent firms. In the absence of supportive norms, it is not possible for parties whose specific assets are at risk to acquire vertical control as per the transaction cost prescription. Instead, those parties lose control because of their dependence. An empirical test of conceptual model in a sample of manufacturer-supplier relationships shows good support for the authors' hypotheses.",
+    "source": "JOURNAL OF MARKETING"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

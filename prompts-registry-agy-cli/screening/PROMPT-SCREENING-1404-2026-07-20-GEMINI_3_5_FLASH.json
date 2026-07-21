@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1404-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Immunization strategies for funding multiple inflation-linked retirement income benefits",
+    "authors": "Simões C.; Oliveira L.; Bravo J.M.",
+    "year": "2021",
+    "doi": "10.3390/risks9040060",
+    "abstract": "Protecting against unexpected yield curve, inflation, and longevity shifts are some of the most critical issues institutional and private investors must solve when managing post-retirement income benefits. This paper empirically investigates the performance of alternative immunization strategies for funding targeted multiple liabilities that are fixed in timing but random in size (inflation-linked), i.e., that change stochastically according to consumer price or wage level indexes. The immunization procedure is based on a targeted minimax strategy considering the M-Absolute as the interest rate risk measure. We investigate to what extent the inflation-hedging properties of ILBs in asset liability management strategies targeted to immunize multiple liabilities of random size are superior to that of nominal bonds. We use two alternative datasets comprising daily closing prices for U.S. Treasuries and U.S. inflation-linked bonds from 2000 to 2018. The immunization performance is tested over 3-year and 5-year investment horizons, uses real and not simulated bond data and takes into consideration the impact of transaction costs in the performance of immunization strategies and in the selection of optimal investment strategies. The results show that the multiple liability immunization strategy using inflation-linked bonds outperforms the equivalent strategy using nominal bonds and is robust even in a nearly zero interest rate scenario. These results have important implications in the design and structuring of ALM liability-driven investment strategies, particularly for retirement income providers such as pension schemes or life insurance companies. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.",
+    "source": "Risks"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

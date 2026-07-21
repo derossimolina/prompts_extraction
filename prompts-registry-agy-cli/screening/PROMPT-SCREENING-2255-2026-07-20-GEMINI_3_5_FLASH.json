@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2255-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial Markets: From the Tragedy of Commons to Balanced Regulation",
+    "authors": "Podrugina, AV; Tabakh, AV",
+    "year": "2020",
+    "doi": "10.17323/1996-7845-2020-02-08",
+    "abstract": "Nowadays the global financial system faces a triple challenge: the threat of a new systemic financial crisis at both global and regional levels; difficulties of constant adaptation of existing financial business and regulatory practices to intensive technological innovations; direct and hidden consequences of excessive political influence on the financial system through sanctions and selectively applied practices for sanction purposes. Improving the quality of financial regulation will require deeper cooperation between regulators of leading economies and a proactive position of the financial industry, as well as the decentralization of financial regulation. However, it is unlikely that this will happen at the global level. Financial stability became a key goal of global financial regulation in the post-crisis period. We consider financial stability as the tragedy of commons. The article describes the main trends of financial markets regulation after the crisis: transformation of global financial architecture, anti-money laundering and counter-terrorism financing practices (AML/CT), financial sanctions. The article analyzes the existing failures of modern post-crisis financial regulation: credit crunch, reduction in the effectiveness of monetary policy, regulatory arbitrage, and increased compliance costs (AML/CT legislation, tax legislation, and the sanctions regime). In the future we expect simultaneous trends of harmonization and standardization of requirements in traditional sectors of financial markets (including traditional institutions of the shadow banking sector), but at the same time regulatory arbitrage' will induce new financial technologies in order to reduce regulatory costs. The crisis triggered by the coronavirus pandemic in 2020 despite its non financial nature will almost inevitably have a major impact on financial markets and their regulation. Possible steps to eliminate failures in the financial regulation system are proposed, including recommendations for international organizations.",
+    "source": "VESTNIK MEZHDUNARODNYKH ORGANIZATSII-INTERNATIONAL ORGANISATIONS RESEARCH JOURNAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

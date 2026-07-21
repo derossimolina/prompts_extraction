@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0186-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Strategies to govern the imperative of artificial intelligence in payment systems: Integrating trust, security and European regulatory compliance",
+    "authors": "Trifiletti M.",
+    "year": "2025",
+    "doi": "10.69554/IVAD7481",
+    "abstract": "The increasing integration of artificial intelligence (AI) into cyber-security solutions offers transformative potential for threat detection and mitigation. However, the widespread adoption of such systems raises crucial questions related to trust, particularly given their inherent complexity and potential opacity. This paper explores the nexus between trust and AI-based security solutions, analysing conceptual, methodological and ethical—legal challenges. Through an interdisciplinary review and an in-depth analysis of the relevant literature and European Union legislation, including the General Data Protection Regulation (GDPR, Regulation (EU) 2016/679), the proposed Artificial Intelligence Act (AI Act, COM(2021) 206 final), the Payment Services Directives; including the second Payment Services Directive (PSD2, Directive (EU) 2015/2366) and the proposed third Payment Services Directive (PSD3, 2023), the proposed Payment Services Regulation (PSR, 2023), the Digital Operational Resilience Act (DORA, Regulation (EU) 2022/2554), and the Digital Markets Act (DMA, Regulation (EU) 2022/1925), alongside emerging regulatory concepts like TIBER-EU (Threat Intelligence-Based Ethical Red Teaming, 2018) and the Anti-Money Laundering Authority (AMLA, legislative package proposed in 2024), framework, the requirements and implications for the design, development and implementation of reliable and compliant AI-based security systems are identified. The PSR is crucial as it sets out security requirements (eg strong customer authentication), defines fraud liability rules (an area evolving with new regulations), and promotes innovation (eg open banking). The DMA, while not directly regulating AI, potentially reshapes the competitive environment in the payments industry by imposing greater openness and transparency for gatekeepers, indirectly influencing the development and application of AI in this space. This research argues that while existing regulations provide a foundation, the rapid evolution of AI, particularly generative AI and agentic AI, introduces new complexities that necessitate a more proactive and integrated governance approach to sustain user trust and operational resilience. The paper provides a strategic conceptual framework for addressing these evolving trust challenges and proposes future directions for research and practice in the field of AI-enhanced cyber security and payments. This article is also included in the Business & Management Collection which can be accessed at http://hstalks/business. © Henry Stewart Publications, 1750-1806.",
+    "source": "Journal of Payments Strategy and Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

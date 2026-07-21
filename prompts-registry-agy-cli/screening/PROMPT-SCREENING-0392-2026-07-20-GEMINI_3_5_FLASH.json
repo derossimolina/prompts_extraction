@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0392-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "When do foreign regulatory interventions trigger market disciplinary effects? Evidence from anti-money laundering regulation violations",
+    "authors": "Schertler A.; Tillema S.",
+    "year": "2026",
+    "doi": "10.1016/j.intfin.2026.102339",
+    "abstract": "We investigate under which circumstances foreign regulatory interventions in banks have market disciplinary effects like those of domestic interventions. We focus on the influence of banks’ dependence on the host country and their familiarity with local regulations. Based on hand-collected data about violations of anti-money laundering regulations by large European and North American banks, we find that, like domestic news, foreign news about regulatory interventions has a negative effect on stock prices and institutional holdings. Institutional investors’ divestitures are stronger for banks with greater dependence on the foreign regulator’s country. However, contrary to what might be expected according to the liability of foreignness literature, a bank’s lack of familiarity with the regulatory environment in the host country does not seem to play a role among the large banks that we investigated. © 2026 The Author(s).",
+    "source": "Journal of International Financial Markets, Institutions and Money"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1983-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The money laundering control act and proposed amendments: Its impact on the casino industry",
+    "authors": "Mills J.",
+    "year": "1991",
+    "doi": "10.1007/BF01023748",
+    "abstract": "In their efforts to track unreported income, Congress passed the Money Laundering Control Act in 1985. Because they are often involved in large cash transactions, casinos were required to report on cash transactions in amounts of $10,000 or more in much the same manner as banks and other financial institutions. However, because of the unique nature of cash and chip transactions within modern casinos, the Act, or state variants of it, have created significant compliance costs for casinos. This analysis examines the implications of the Act for the casino gaming industry, and evaluates some of the recent suggested Amendments to the Act. © 1991 Human Sciences Press, Inc.",
+    "source": "Journal of Gambling Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

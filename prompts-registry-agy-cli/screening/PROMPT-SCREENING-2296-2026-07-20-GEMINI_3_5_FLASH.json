@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2296-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is money laundering a true problem in China?",
+    "authors": "Ping, H",
+    "year": "2006",
+    "doi": "10.1177/0306624X05277663",
+    "abstract": "Money laundering was stipulated as an offense by Chinese criminal law more than 10 years ago. However, the judicial situation is such that no one has yet been prosecuted for it. This article describes the phenomena that are closely related to money laundering, namely the current situation of the predicate offences and other factors conducive to money laundering such as corruption, underground bank shops, and shell companies. Based on these facts, the article infers that money laundering is a real problem in China. Then it explores the reasons why case examples of money laundering are not available. Finally, this article presents some of the factors necessary in the investigation of money laundering.",
+    "source": "INTERNATIONAL JOURNAL OF OFFENDER THERAPY AND COMPARATIVE CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1597-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blocks as digital entities: A standards perspective",
+    "authors": "Lyons P.A.; Kahn R.E.",
+    "year": "2018",
+    "doi": "10.3233/ISU-180021",
+    "abstract": "The notion of thoughts, ideas and other information fixed in a tangible medium of expression for purposes of reproducing, displaying or communicating the information to others has its origins in antiquity. Both the information itself and its symbolic expression are purely conceptual entities until fixed in a material object. When an intangible means of expression, in which symbolic logic is represented as or converted to machine-independent data structures in digital form, and structured as digital objects (i.e., digital entities), this implementation may be viewed as the logical equivalent of fixation in a material object; and, in this context, we are viewing a block as a particular way of structuring a digital object, and a blockchain in itself as a digital object that incorporates one or more objects. In considering the development of commerce based on the Digital Object (DO) Architecture, an interesting area for exploration and development has been introduced around the concept of mobile computer programs configured as digital objects. This technology may play an important role in the management of software embedded in new Internet of Things (IoT) devices such as microcontrollers, where issues have arisen with respect to the interoperability of such software with other resources in the developing IoT. There have been many efforts over the years to evolve the Internet to embrace new technology, such as the DO Architecture, and we hope this trend continues unabated. © 2018 - IOS Press and the authors.",
+    "source": "Information Services and Use"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

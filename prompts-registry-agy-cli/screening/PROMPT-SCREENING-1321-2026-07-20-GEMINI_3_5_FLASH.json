@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1321-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Relationship lending during a trust crisis on the interbank market: A friend in need is a friend indeed",
+    "authors": "Degryse H.; Karas A.; Schoors K.",
+    "year": "2019",
+    "doi": "10.1016/j.econlet.2019.03.019",
+    "abstract": "We exploit uncertainty regarding banks’ involvement in money laundering activities as a natural experiment to study the functioning of the interbank market in uncertain times. We show that bank couples with a stronger relationship (i.e., more frequent and reciprocal interactions before the event)are more likely to continue lending to one another, and at lower interest rates. This is in line with a “helping hand” or “flight to friends” hypothesis during crisis. © 2019 Elsevier B.V.",
+    "source": "Economics Letters"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

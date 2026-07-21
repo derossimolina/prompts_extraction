@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1902-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Understanding cybercrime perpetrators and the strategies they employ in Nigeria",
+    "authors": "Aransiola J.O.; Asindemade S.O.",
+    "year": "2011",
+    "doi": "10.1089/cyber.2010.0307",
+    "abstract": "A lot has been written on cybercrime and its prevention, but the problem has proved particularly resilient to remedial action. Desperate and vulnerable individuals in every continent continue to fall into its trap. Despite this, there is dearth of descriptive study that attempts to unravel the strategies employed by the perpetrators in Nigeria, as an important precondition for workable and reliable policy direction to address the problem. This article has filled this gap by using data from 40 cybercrime perpetrators selected with snowballing technique. The findings revealed that most of the cybercrime perpetrators in Nigeria are between the age of 22 and 29 years who were undergraduates and have distinctive lifestyles from other youths. Their strategies include collaboration with security agents and bank officials, local and international networking, and the use of voodoo that is, traditional supernatural power. It was clear that most perpetrators of cybercrime were involved in on-line dating and buying and selling with fake identity among others. The article discussed the need for reorientation of Nigerian youths in higher institutions, and various methods as guiding principles for potential victims. It recommended a complete reorganization of the Nigerian Police Force and Economic and Financial Crime Commission, as some of the officers in the institutions aid and abet cybercrime. It finally suggested a review of the Nigerian law guiding the operations of banking, poster agencies, and various speed post services in the country, as these are necessary preconditions to effectively combat the problem. © Copyright 2011, Mary Ann Liebert, Inc.",
+    "source": "Cyberpsychology, Behavior, and Social Networking"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

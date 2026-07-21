@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1849-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating transformational branchless banking: Dispatches from the policy frontlines",
+    "authors": "Prochaska K.; Brix L.",
+    "year": "2008",
+    "doi": "10.3362/1755-1986.2008.004",
+    "abstract": "Branchless banking - using information and communication technologies and retail channels to reduce the costs of delivering financial services - holds great promise for clients beyond the reach of traditional banks. Much of the current buzz involves mobile phone banking and retail agents serving as \"banking correspondents\" equipped with point-of-sale terminals. Policy makers and regulators share a common challenge in formulating proportionate policies that foster innovation and scale without compromising safety. Finding the right approach to supervising activities of banks and nonbanks (e.g. mobile phone companies) who outsource conventional banking transactions to retail agents, as well as risk-sensitive regimes for combating money laundering and terrorist financing, are important preconditions for branchless banking for poor people to be legally and economically feasible. Policy makers must also consider issues such as proportionate regulation for issuing e-money and other stored-value instruments, consumer protection, inclusive payment systems, and competition among a diversity of providers. © Practical Action Publishing, 2008.",
+    "source": "Enterprise Development and Microfinance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

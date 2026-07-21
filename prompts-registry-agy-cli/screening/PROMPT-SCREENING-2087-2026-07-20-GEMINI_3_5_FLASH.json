@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2087-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Coping with intractable controversies: The case for problem structuring in policy design and analysis",
+    "authors": "Hisschemöller M.; Hoppe R.",
+    "year": "1995",
+    "doi": "10.1007/BF02832229",
+    "abstract": "Intractable controversies and other types of policy disagreements correspond to policy problems with a different structure. The more structured a problem is, the more consensus there is about which values and information are at stake in the process of problem solving. Policymakers like to treat problems in as structured a way as possible. Three policy strategies are described to move away from the unstructured to the more structured problem type. However, policymakers run the risk of oversimplifying an ill-structured problem, which means that elements of the problem situation relevant to other actors are overlooked or denied. Hence, policy controversies may become intractable. The remedy is a fourth strategy, characterised by problem structuring. This strategy requires political participation of actors with different views on the problem, and an argued political problem choice. © 1995 Transaction Publishers.",
+    "source": "Knowledge and Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

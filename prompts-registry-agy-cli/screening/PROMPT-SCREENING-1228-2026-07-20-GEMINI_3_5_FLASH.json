@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1228-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DLT-based enhancement of cross-border payment efficiency–a legal and regulatory perspective",
+    "authors": "Zetzsche D.A.; Anker-Sørensen L.; Passador M.L.; Wehrli A.",
+    "year": "2021",
+    "doi": "10.1080/17521440.2022.2065809",
+    "abstract": "Financial law and regulation have, to date, assumed that regulated activities and functions are concentrated in a single legal entity responsible and accountable for operations and compliance. Even with regard to financial market infrastructure where the regulatory perspective acknowledges the need for interoperability of many entities as a system, each entity is subject to its own rules and regulations, and can thus meet its own compliance requirements independent of other system participants. The entity-focused regulatory paradigm is under pressure in the world of DLT-based payment arrangements where some ledgers, and thus the performance of the services as such, are distributed. DLT arrangements could provide an alternative to the traditional reliance on a mutually trusted central entity to transfer funds and enable the creation of new foundational infrastructures by distributing technical functions or linking existing systems. As such, we identify and outline concepts for use cases where DLT is potentially improving the efficiency of cross-border payments, namely a Best Execution DLT, a DLT application for a Network of Central Banks, a DLT as an AML/KYC utility, as well as DLT arrangements for an Identity Platform, a Small Payments Platform and, finally, an Interoperability Platform connecting multiple closed-loop and proprietary banking systems. Despite the wide-ranging interest in DLT-based payment systems, research so far has focused on technical concepts and lacked legal details. This article seeks to fill this gap by providing an initial analysis of the legal challenges related to DLT-based payment systems. From a legal perspective, the distribution of functions in DLTs comes with new risks created from the joint performance of services and functions as main characteristic of a distributed ledger, and the need for additional agreements, ongoing coordination across, and governance arrangements among the nodes. Further, in a cross-border context, multiple regulators and courts of various countries (asking for compliance with their own set of rules and regular reporting) will be involved. All of these must decide whether for compliance with any single rule they look at the DLT as a whole (herein called ‘the ledger perspective’) or each individual node (that is each institution participating in the DLT, herein called ‘the node perspective’). Moreover, financial and private law must provide for risk allocation, liability, responsibility and accountability for all legal obligations related to each function and activity. This article examines the extent to which the ledger perspective or the node perspective should prevail against the backdrop of a range of DLT use cases, resulting in policy recommendations for regulators. In this article, we propose the adoption of what we call an enabling approach for payment systems: ledger operators must specify in a Plan of Operations subject to regulatory approval to which rights and obligations the ledger perspective applies; in the absence of such a stipulation, rules apply based on the node perspective. However, for systemic risk controls, AML/CFT, data protection and governance, as well as DLT governance, we propose a reversed default rule in which the ledger perspective prevails in the absence of rules stipulating that the node perspective applies. Finally, in private law matters, we propose protecting consumers and SME clients through a standardised payment services contract structure, without mandating details. © 2022 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Law and Financial Markets Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

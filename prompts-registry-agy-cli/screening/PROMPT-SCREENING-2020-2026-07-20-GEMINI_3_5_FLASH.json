@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2020-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Special legal features of the Islamic wa'd or pledge: Comparison with the conventional law on promise within the sphere of Islamic finance",
+    "authors": "Wisham I.; Muneeza A.; Hassan R.",
+    "year": "2011",
+    "doi": "10.1108/17542431111133445",
+    "abstract": "Purpose – The purpose of this paper is to theoretically assess the legal position of the Islamic doctrine of wa'd (or pledge) in relation to 'aqd (within the sphere of Islamic finance), and compare it with the conventional viewpoint, while discussing the several modes/means/usages in terms of applied Shariah. Design/methodology/approach – The paper utilizes a doctrinal approach to focus on the theoretical aspect of the concept while attempting to suggest practical adaptation and structuring, enabling smoother and more efficient use. The status quo was dependent on the wa'd being an operational instrument in today's world and further development in terms of bridging the understanding was the approach. Findings – Before invoking the legal validity of wa'd in a court, it is important to view the practice of wa'd to be a dominant ideology utilized in Islamic finance. The first advocate who called for the practice of the binding promise in commutative financial contracts was probably Sheikh Mustafa Al-Zarqa who adopted the position that if it was admissible, for the unilateral promise (wa'd) to be binding in donations, then, in his view, it was even more justifiable for the wa'd to be binding in commutative contracts. According to the preponderant opinion among Maliki scholars, a unilateral promise is as binding as a contract if the reason was mentioned in it or the contract was initiated based on the promise, a view shared by scholars such as Imam Bukhari. The other point of view, according to contemporary jurists such as Al-Syntiqi and Dr Muhamed Sulaiman opine that a unilateral promise would not create any liability upon the promisor and it also does not confer any right to the promisee, although from religion point of view, it is recommended to fulfill it. Practical implications – Fully understanding the modus operandi of a wa'd in key as today, wa'd has established itself within the domain of several transactions under Islamic banking and finance, such as replicating conventional short selling, structuring FOREX markets option and even operating in a double wa'd structure. Originality/value – The paper would prove useful and informative on the theoratical aspect of the concept especially to students starting out in Islamic finance. For those already well versed or immersed in the field, the paper would certainly provide ideas and exploratory suggestions into the development of the concept in terms of enhancement. © 2011, Emerald Group Publishing Limited",
+    "source": "International Journal of Law and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

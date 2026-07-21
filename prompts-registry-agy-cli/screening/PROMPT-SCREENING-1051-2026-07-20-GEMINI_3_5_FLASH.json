@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1051-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Unveiling the power behind cryptocurrency mining in Venezuela: A fragile energy infrastructure and precarious labor",
+    "authors": "Rosales A.",
+    "year": "2021",
+    "doi": "10.1016/j.erss.2021.102167",
+    "abstract": "In the aftermath of the global financial crisis (2008–2010), peer-to-peer online payment mechanisms emerged as a way to avoid financial intermediaries and untrusted centralized state authorities. Cryptocurrencies proliferated among like-minded individuals, generally depicted by scholars as anarcho-capitalists. Much social science literature has focused on governance and technical puzzles that these new market tools bring about as well as on the risks associated with the problems of trust, security, money laundering and illegal financing. In this article, I shift gaze to center on the material underpinnings of cryptocurrencies, such as energy systems and infrastructure, as well as how cryptocurrencies can expand in contexts of crisis in peripheral societies. I focus on the case of Venezuela to explain some of these processes in the rise and expansion of cryptocurrency markets that have remained at the margins of energy and political economy discussions. A deep dive into Venezuela allows us to de-virtualize our understandings of cryptocurrencies. It redirects our attention to infrastructure, energy, rent, and precarious conditions of living in a crumbling rentier society, shedding light on the use and expansion of cryptocurrencies in a nominally socialist country. © 2021 Elsevier Ltd",
+    "source": "Energy Research and Social Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0852-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Third-party and creditor rights: provisional attachment under §5 of the Indian PMLA, 2002",
+    "authors": "Sethi S.; Davis K.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-01-2022-0006",
+    "abstract": "Purpose: The purpose of this paper is to consider the effect of the Prevention of Money Laundering Act (PMLA), 2002 on the property rights of third parties, by evaluating whether the interpretation of the scheme of the PMLA, 2002 results in a deprivation of rights, by virtue of the provision for the provisional attachment of property.[AQ3] In doing so, this paper attempts to consider two sub-categories of third parties that stand affected by §5 of the PMLA, 2002. Design/methodology/approach: Primarily the authors analyse diverging judgements and case law across various high courts to evaluate the position of law with regards to attachment of property. To reach a precise legal conclusion, the authors consider the composite scheme of the PMLA, 2002 in their analysis. Findings: It has been concluded that there is a clear lack of judicial cohesion in the interpretation of the PMLA, 2002, and in the absence of a judgement by the Supreme Court of India, enforcement authorities have failed to correctly identify the boundaries of the offence of money laundering, resulting in a dangerous deprivation of rights. Originality/value: This paper fills a vacuum of detailed scholarship on anti-money laundering provisions in India, while also being contemporaneously relevant, as it considers the effects of the PMLA, 2002 on bona fide economic transactions and secured creditors. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

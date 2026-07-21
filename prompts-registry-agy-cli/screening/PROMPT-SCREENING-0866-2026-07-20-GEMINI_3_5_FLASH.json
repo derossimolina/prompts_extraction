@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0866-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "New Financial Action Task Force Recommendations to Fight Corruption and Money Laundering",
+    "authors": "Yeh S.S.",
+    "year": "2022",
+    "doi": "10.3390/laws11010008",
+    "abstract": "A model Anticorruption Protocol to the United Nations Convention against Corruption (APUNCAC) would implement international requirements to report the beneficial ownership of funds involved in certain financial transactions. The purpose is to discourage laundering of illicit funds by attaching legal consequences to each failure to obtain and submit a required report of beneficial ownership, and each failure by a front man who poses as a beneficial owner to supply true information regarding the identity of the actual beneficial owner. This article is the fourth in a series of articles describing APUNCAC’s anti-money laundering (AML) provisions and focus on beneficial owner transparency. The companion articles focused on issues regarding international jurisdiction and enforcement of APUNCAC regarding distant offshore personnel and illustrated the application of APUNCAC to specific money laundering channels. This article translates APUNCAC’s key provisions into proposed Financial Action Task Force (FATF) recommendations, provides guidance regarding the necessary domestic conforming legislation, responds to frequently asked questions, and discusses the rationale for expansion of existing FATF recommendations. © 2022 by the author. Licensee MDPI, Basel, Switzerland.",
+    "source": "Laws"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

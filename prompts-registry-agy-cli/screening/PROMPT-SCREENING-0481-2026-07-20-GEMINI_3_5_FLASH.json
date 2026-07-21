@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0481-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Methods for estimating illicit financial flows using public drug and cash seizure data",
+    "authors": "Englund C.",
+    "year": "2026",
+    "doi": "10.1108/JMLC-06-2025-0097",
+    "abstract": "Purpose – This study aims to grow the literature on illicit finance by developing methodologies for estimating the size and impact of illicit finance using public drug and cash seizure data. Design/methodology/approach – Using drug seizure data, the paper lays out an approach to estimating the monthly financial flows associated with three drug types. After estimating the monthly flows for these narcotics, this paper uses a gravity model for money laundering demand to estimate the distance that these funds travel from their point of origin for laundering. The analysis also explores the relationship between drug seizures and cash seizures to draw inferences about trafficking patterns. Findings – The findings suggest that approximately $750m in laundered illicit funds are generated from wholesale drug trafficking in the USA each month and suggest that only a small fraction of this value has been seized in the period studied. Approximately half of these funds are likely laundered within 50 miles of the recipient. Additional data on cash seizures is used to illustrate that when illicit funds are exported, traffickers often use similar routes to those used for drug trafficking. Cash seizures show significant correlation with drug seizures, often occurring near southern border areas. Originality/value – This paper uses a novel approach to examine data from US Customs and Border Protection. It also updates and applies Walker’s (2009) gravity model approach using novel data from the World Bank (2024) and the 2024 FATF Consolidated Assessment Ratings. © 2026 Emerald Publishing Limited",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

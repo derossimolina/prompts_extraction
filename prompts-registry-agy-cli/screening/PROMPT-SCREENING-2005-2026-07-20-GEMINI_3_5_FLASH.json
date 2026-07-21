@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2005-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The new rurality: Globalization, peasants and the paradoxes of landscapes",
+    "authors": "Hecht S.",
+    "year": "2010",
+    "doi": "10.1016/j.landusepol.2009.08.010",
+    "abstract": "Deforestation captures most of the headlines, but there are also processes of forest expansion that are widespread in Latin America. This paper explores why this process is so invisible. Globalization plays an increasingly important role in structuring rural economies. This paper analyses how global integration of many types, ranging from remittances, state transfers, skilling and markets produced forest recovery in peasant landscapes. © 2009 Elsevier Ltd. All rights reserved.",
+    "source": "Land Use Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0307-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Explainability and operational resilience in the design of central bank digital currencies: A new generation of money-laundering deterrence software",
+    "authors": "Lazcano I.C.",
+    "year": "2024",
+    "doi": "10.69554/bdtd2604",
+    "abstract": "It has been argued that technologies such as blockchain could provide financial systems and societies with a better infrastructural solution to process information and identify illegal transactions. Building on this idea, this paper argues that if payment systems are to take advantage of the properties that define distributed ledger technologies, they must build on those models that have delivered improved trust in our economies. Accordingly, the model presented in this paper is based on a universal digital ID that could be interoperable among different jurisdictions. Such a digital ID would rely on an explainable framework structured around an understanding of the role played by central banks, intellectual property rights and personal data protection in the processing of information. Understanding the interaction between these elements may be the first step towards a better understanding of the infrastructures employed to tackle illegal activities, which could in turn contribute to the successful development of the standards on which the next generation of suspicious transaction or order reports will be based. © Henry Stewart Publications, 1750-1806.",
+    "source": "Journal of Payments Strategy and Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

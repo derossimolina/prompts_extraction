@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1858-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Alliance structuring behavior: Relative influence of alliance type and specific alliance experience",
+    "authors": "Rahman N.; Korn H.J.",
+    "year": "2010",
+    "doi": "10.1108/00251741011043939",
+    "abstract": "Purpose: Further understanding of structural hierarchy is critically needed to assess the usefulness of different alliance structures. This study goes beyond transaction cost reasoning and incorporates social exchange theoretic perspective with the aim of capturing the concurrent relationships of alliance type and specific alliance experience with hierarchy of alliance structure. Design/methodology/approach: Logistic regression analysis of data on 402 strategic alliances is used to test the two hypotheses advanced in the paper. Findings: The social-exchange-based hypothesis is supported - specific alliance experience is negatively related to hierarchy of alliance structure. The transaction-cost-based hypothesis is not supported - hierarchy of alliance structure is not greater in horizontal alliances than in vertical alliances. Research limitations/implications: Strategic alliances with different purposes, such as R&D, supply procurement, marketing, co-production, and co-development, may have different industry norms of structuring alliances. This study does not account for these underlying differences within strategic alliances. Practical implications: The social exchange theory-based variable (i.e. specific alliance experience) has a more salient influence on alliance structure than does the transaction cost-based variable (i.e. alliance type). The findings signal the relative importance of communal harmony compared to competitive rivalry. Originality/value: The paper shows that results suggest that high bureaucratic costs of more hierarchical structures diminish the transaction cost economizing benefits of such structures. This is especially the case when alliances are not expected to experience very high levels of relational hazards (usually in vertical alliances). It appears that partnering firms' concerns with high bureaucratic costs may at times exceed the marginal benefits of control and coordination of exceedingly hierarchical alliance structures. © Emerald Group Publishing Limited.",
+    "source": "Management Decision"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

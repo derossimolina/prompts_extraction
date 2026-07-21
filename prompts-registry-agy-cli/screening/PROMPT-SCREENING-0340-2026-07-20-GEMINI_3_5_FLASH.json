@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0340-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enhancing and Validating a Framework to Curb Illicit Financial Flows (IFFs)",
+    "authors": "Netshisaulu N.N.; van der Poll H.M.; van der Poll J.A.",
+    "year": "2024",
+    "doi": "10.3390/jrfm17080322",
+    "abstract": "This article examines illicit financial flows (IFFs) perpetuated in financial statements to develop a framework to curb IFFs. IFFs create opacity, impeding economic progress through investment deterrents and financial uncertainty. Through a comprehensive literature review and the synthesis of sets of qualitative propositions, the researchers previously developed a conceptual framework to address IFFs, and the purpose of the present article is to strengthen and validate the framework among stakeholders in the financial and audit sectors. Following a mixed inductive and deductive research approach and a qualitative methodological choice, the researchers conducted interviews among practitioners to enhance the framework, followed by a focus group to validate the framework. IFF challenges that emerged are tax evasion, for example, investments in untraceable offshore accounts, harming the economy, and bitcoins not being subject to regulation everywhere in the world and being used by cryptocurrency criminals to transfer IFFs to nations with lax regulations. Internationally, IFF risks are also determined by geographical position, trade links, and porous borders among countries that emerged as further challenges, calling for entities to execute existing policies, improve tax enforcement methods, apply cross-border coordination, and practice financial reporting transparency aimed at combatting IFF practices. On the strength of these, the industry surveys significantly enhanced the conceptual framework. © 2024 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

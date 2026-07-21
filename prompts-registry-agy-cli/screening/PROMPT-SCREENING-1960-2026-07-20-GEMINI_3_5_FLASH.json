@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1960-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Innovative upstream investments and input supply contracts",
+    "authors": "Kerkvliet J.; Shogren J.F.",
+    "year": "2001",
+    "doi": "10.1016/s1048-4736(01)13011-0",
+    "abstract": "We explore how a cost-minimizing buyer innovates through the use of both a mix of transaction modes - contracts and spot markets - to secure a single input, given endogenous choice of upstream investments. We broadly define innovation as the internal structuring of how a firm purchases its inputs given it has the option of making innovative upstream investments that affect both the contract vendor's costs and the buyer's reservation spot market price within a risky external environment. The model examines the use of transaction-specific upstream investments that reduces the input vendor's costs, truncates the distribution of spot market prices and allows the buyer to take advantage of the synergy between the two modes. © 2001.",
+    "source": "Advances in the Study of Entrepreneurship, Innovation, and Economic Growth"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1495-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banking on Nonproliferation improving the implementation of financial sanctions",
+    "authors": "Ouagrham-Gormley S.B.",
+    "year": "2012",
+    "doi": "10.1080/10736700.2012.690963",
+    "abstract": "In the past decade, governments have increasingly relied on financial sanctions to counter the proliferation of weapons of mass destruction. By targeting not only individuals and entities involved in illicit activities, but also banks that allow transactions to occur, financial sanctions were expected to stanch the flow of funds that support proliferation and compel compliance with international law-notably by Iran. Ten years later, Iran's nuclear program has advanced, calling into question the effectiveness of financial sanctions. Previous research evaluating the effectiveness of financial sanctions has focused on the impact of sanctions on the targeted country or on the enforcement of sanctions by the international community. Little attention has been devoted to their implementation by banks and government agencies. Based on interviews with US and European bank and government representatives, this article argues that the inefficiency of financial sanctions is due to shortcomings in training and information support from governments to financial institutions; governments on both sides of the Atlantic have provided little or no assistance to enable banks to identify patterns of proliferation financing and implement the sanctions regime. To transform financial sanctions into effective nonproliferation tools, governments need to play a greater role in their implementation. © 2012 Monterey Institute of International Studies, James Martin Center for Nonproliferation Studies.",
+    "source": "Nonproliferation Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

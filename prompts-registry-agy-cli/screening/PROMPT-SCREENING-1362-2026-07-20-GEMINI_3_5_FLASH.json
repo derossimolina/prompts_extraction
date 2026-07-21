@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1362-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Italian CCB Reform and Usury Credit Risk: A Quantitative Analysis",
+    "authors": "Barone R.",
+    "year": "2018",
+    "doi": "10.1007/s40797-018-0071-9",
+    "abstract": "The aim of the paper is twofold. First of all, it highlights some weakness in the new reform of the Italian cooperative credit banks (i.e. Law n. 49 of 08 April, 2016). Furthermore, after a sectioning of the cooperative credit trends during recent years, it aims to emphasize a possible risk deriving from the new reform of the Italian cooperative credit banks. In particular, we evaluated the possible effect of such reform in terms of an increase in the supply and demand credit outside the legal/formal channel. For this purpose, we take into account the role played by local banks, and in particular cooperative credit, in the supply of loans to small- and medium-sized enterprises. It is well known that the individuals most exposed to the risk of usury credit belong to this category. Considering that the foundation of cooperative credit, rural and artisan banks had an essential role in the fight against usury, we estimated the possible risk of illegal credit that could originate from the Italian cooperative credit banks reform. To this end, we proposed a dynamical model with an embedded mortgage plan featuring a variable usurious rate. This rate is a function of time, and it influences the probability for the usurer to gain the collateral. The guarantee is the main scope of the usurer because it allows to pursue his/her money laundering purposes. © 2018, Società Italiana degli Economisti (Italian Economic Association).",
+    "source": "Italian Economic Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

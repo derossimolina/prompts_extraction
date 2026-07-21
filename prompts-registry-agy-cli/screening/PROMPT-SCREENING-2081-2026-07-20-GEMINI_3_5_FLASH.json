@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2081-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Foreign operations of U.S. banks: Impact of environmental differences and ownership advantages on organizational form preferences",
+    "authors": "Parkhe A.; Miller S.R.",
+    "year": "1998",
+    "doi": "10.1016/S1075-4253(98)00002-7",
+    "abstract": "U.S. banks have long faced restrictions imposed by the Glass-Steagall Act of 1933. This act erected barriers between commercial and investment banking. Although the barriers have been eroding recently, the U.S. banking system is still considered restrictive compared with countries that permit banks to perform a broad range of financial services (i.e., universal banking). As banking becomes increasingly global, this regulatory difference faced by U.S. banks becomes more important in that it selectively handicaps U.S. banks and forces them to become more competitive so that they can continue to deliver a comprehensive package of financial products to their corporate customers. In their efforts to become more competitive, coordination and structuring of foreign operations are key strategic tools. For example, foreign branches and subsidiaries have different capabilities and costs. So the choice of organizational form preferences (branches versus subsidiaries) in host countries can affect the global reach and competitiveness of U.S. banks. In this study, therefore, we examined how U.S. banks structure their foreign operations. Specifically, we tested the influence of host countries' banking (financial) system development and regulations on U.S. banks' organizational form preferences (the combination of branches and subsidiaries established by a bank in a host country). We found that a bank's size, globalization, product diversity, and charter value influence organizational form preferences within and across different host-country banking environments. Our results are consistent with the concept of natural adaptation and flexibility, or in this case, \"banking environment\" flexibility. © 1998 Elsevier Science Inc.",
+    "source": "Journal of International Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

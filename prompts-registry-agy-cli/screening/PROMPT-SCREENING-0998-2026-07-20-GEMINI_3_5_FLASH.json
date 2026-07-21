@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0998-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dampening corruption and money laundering: emissions from soft laws",
+    "authors": "Ekwueme E.",
+    "year": "2021",
+    "doi": "10.1108/JMLC-10-2020-0115",
+    "abstract": "Purpose: The purpose of this paper is to bring to the fore that soft laws should be taken very seriously because they have demonstrated their importance in helping to reduce corruption and money laundering. Liberalisation of the markets and globalisation, undoubtedly, enabled the increase in the volume of commercial and economic interactions among natural and legal persons. As a result, the generation of profits and losses are noticeable. However, it became evident that some of the actors involved in corruption endeavour to dock the regulatory radars by way of laundering their illicit wealth. It is as a result of this, that the authorities reacted to checkmate this by way of fashioning out legislations that have cross-border and national characteristics. However, it was as a result of the inadequacies noticeable in the Conventions and their inability to contain the malaise that the soft laws surfaced to fill the lacunae to help dampen the momentum of corruption and money laundering. These significant soft laws include but not limited to the Financial Action Task Force (FATF), Organisation of Economic Development and Cooperation (OECD), Basel Committee on Banking Supervision (BCBS), Wolfsberg Group (WG) and International Chamber of Commerce (ICC). Although reservations were raised as to the composition of their decision-making apparatus, it is evident that countries still adhere to their pronouncements by way of adaptation, and they have made significant contributions in reducing corruption and money laundering. Design/methodology/approach: This paper relies on primary legal documentations such as but not limited to the Financial Action Task Force, Basel Committee on Banking Supervision, Organisation of Economic Cooperation and Development, Wolfsberg Group, International Chamber of Commerce, the United Nations Convention on Corruption 2003, the Foreign Corrupt Practices Act 1977 and the United Kingdom Bribery Act 2010. Findings: There is undoubtedly glaring indications that soft laws have made very significant impact to slow down the level of corruption and money laundering in many polities. It is evidently clear that most countries usually adapt the nuances of these laws into their domestic legislations in order not to be frozen out from the financial and economic activities of the dominant wider members. Evidentially, some of these countries may have been excluded from the core decision-making apparatus of the organisations with particular reference to mostly the developing countries. On the whole, the soft laws are a welcome relief in view of the impact that they have made. Research limitations/implications: This paper is addressed to policy makers who are concerned on the negative implications of the scourge of money laundering and corruption. They should continue to inculcate the emissions that usually come from soft laws when formulating their policies in planning for economic growth. Originality/value: The originality of this paper lies on the fact that it is essential that we awaken the importance of soft laws in containing the malaise as it has become evident that excuses have been made that it was forced on some of the recipient participants. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

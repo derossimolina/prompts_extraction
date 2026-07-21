@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1423-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessment of the impact of the narcotics market on the regional socio-economic development",
+    "authors": "Klevakin A.N.",
+    "year": "2018",
+    "doi": "10.17059/2018-1-20",
+    "abstract": "The article considers the market of narcotics as a part of the formal and informal economy. By narcotics, the author means psychoactive substances and plants containing them, which are banned, subject to control or non-prohibited, but have a psychophysical effect on human body. Drug-related psychoactive substances are classified according to the prohibition criterion and restrictions on a turnover with reference to the illegal (criminal) or shadow economy. The author considers the illegal drug market as a latent self-organizing system of socio-economic relations of criminal and shadow nature. Such market is oriented towards the turnover of potentially illegal or dangerous psychoactive substances, which are prohibited or restricted for use in non-medical purposes. The analysis of the state and development of the drug situation on the territory of the entities of the Ural Federal District confirms the relevance of the problem of drug abuse. In recent years, the primary incidence of drug addiction and harmful drug use among the adolescents aged 15-17 have grown. Synthetic narcotics and psychotropic substances of high narcogenicity dominate in the current drug market. Over the past 5 years, the average cost of a single dose of drug remains virtually unchanged. This reflects the conditional balance of purchasing power and competition in the drug market. The disparity in the volume of seized cannabis drugs and the number of cannabinoid users observed by medical institutions suggests a high level of latency in this category of drug users. To assess the degree of negative impact of the drug market, the author proposes to use a method of calculating the socioeconomic costs of the consequences of drug addiction. The methodology is supplemented with tools for determining the number of psychoactive substances consumers on the basis of the mass of these substances withdrawn from illicit trafficking, using the concentration and recalculation coefficients. The author develops a methodology for assessing the economic effect from medical and social rehabilitation of drug-dependant persons. This methodology allows to economically substantiate the development of the national rehabilitation system and determine the economic costs to be reduced from its implementation. As a result of approbation of the methodologies, the author has determined the limiting coefficient of latency of persons, consuming psychoactive substances for non-medical purposes. Furthermore, these methodologies have allowed to define the share of the persons, who successfully completed medical and social rehabilitation. The excess of this share demostrates the positive economic effect of rehabilitation programs. The proposed methods can be applied in economic calculations to justify the establishment and functioning of drug addiction medical and social rehabilitation centres in the subjects of the Federation and to assess their performance. © 2018 Institute of Economics, Ural Branch of the Russian Academy of Sciences. All rights reserved.",
+    "source": "Economy of Regions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

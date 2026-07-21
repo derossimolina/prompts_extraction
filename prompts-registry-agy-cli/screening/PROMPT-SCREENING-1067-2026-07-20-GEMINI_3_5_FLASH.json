@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1067-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering law in ethiopia: Issues of enforcement with specific reference to banks",
+    "authors": "Jember K.M.",
+    "year": "2020",
+    "doi": "10.4314/mlr.v14i1.3",
+    "abstract": "Banks are among the institutions which take the leading role in the combat against the crime of money laundering. They, however, remain highly vulnerable to an ever growing means and mechanisms of perpetration of the crime. This reality demands a continuous adoption of necessary measures. In what appears to be responding to this demand, Ethiopia has enacted several laws that impose obligation on banks to take preventive measures that can prevent the manipulation of the financial system towards the commission of laundering. This article examines whether banks (both private and public) in Ethiopia are implementing measures intended to prevent money laundering. Secondly, it examines the relationship and collaboration between banks and the regulatory organs (such as the Financial Intelligence Center and the National Bank of Ethiopia) in identifying and safeguarding against the schemes that allow the use of banks as intermediaries in the commission of money laundering. © 2020, St Mary's University. All rights reserved.",
+    "source": "Mizan Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

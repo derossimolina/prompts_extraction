@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0196-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A critical analysis of Somalia’s current antimoney laundering and counter financing of terrorism regime: a comparative study with Malaysia",
+    "authors": "Hersi A.H.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-05-2023-0090",
+    "abstract": "Purpose: Concerns on money laundering (ML) and terrorist financing increased, as ML accounted 2%–5% of the global GDP, with Switzerland, the USA, Canada, India and Russia having high laundering rates. Banks were fined over US$320bn in 2008, but money laundering still accounted for 3.6% of global GDP in 2009, thereby indicating the need for effective regimes. Therefore, this study aims to critically analyze the antimoney laundering (AML)/CFT regime of Somalia, identify loopholes in the regime, raise awareness and propose recommendations for regime improvement. Design/methodology/approach: The qualitative research approach is used to compare Somalia’s AML/CFT regime with the corresponding regime of Malaysia through the black letter method combined with document analysis. Malaysia is selected as a benchmark for two reasons: firstly, it is an Islamic country like Somalia, and secondly, Malaysia has complied with integrity-related standards. Findings: This study revealed that an impactful AML/CTF regime is reached by closing loopholes in the law, reevaluating and improving regulatory agencies and measures, facilitating formal financial services and collaborating with regional and international standard setters. According to the results, Somalia AML/CFT regime is counterproductive in criminalizing offenses; regulating digital currencies and mobile money, disclosures and nonfinancial business and provisions; and governing training requirements for regulatory agencies and financial institutions. Originality/value: To the best of the author’s knowledge, this paper is the first of its kind in the study of Somalia’s regime building. Also, this study incorporates rich scholarly discourse on effective regime building. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2387-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "United States v. Santos: the US Supreme Court rewrites the money laundering statute",
+    "authors": "Cassella, SD",
+    "year": "2009",
+    "doi": "10.1108/13685200910973619",
+    "abstract": "Purpose - The purpose of this paper is to inform an international audience of the difficulties prosecutors in the USA have encountered in light of a decision of the US Supreme Court limiting the application of the federal anti-money laundering statute to cases where a criminal enterprise generated profits. Design/methodology/approach - The paper summarizes the law in the USA regarding money laundering prosecutions before the decision in the United States v. Santos, outlines the decision of the Supreme Court, and organizes the post-Santos case law into categories setting forth the divergent views of what the decision means and how it is to be applied. Findings - The case law in the USA regarding money laundering prosecutions is now quite unsettled. Courts have taken different views as to whether the government must now prove that the funds being laundered by or on behalf of a criminal represent the profits of the criminal enterprise as opposed to its gross receipts. Research limitations/implications - The case law on this issue continues to develop at a rapid pace. It is necessary to cut off the research on this issue to complete the paper, but the reader should be aware that new cases are being issued in rapid order. Practical implications - Prosecutors in the USA now face several obstacles in bringing money launderers to justice. Decisions in closed cases may be reopened as defendants argue that their convictions are obtained under an incorrect view of the law. Going forward, prosecutors are uncertain whether the government must prove that a criminal enterprise is profitable before they can obtain a conviction for money laundering. Originality/value - Prior to Santos, it is assumed that it is an offense to launder the gross receipts of a crime or criminal scheme. Santos cases grave doubt on that assumption, holding that in at least some cases, the laundering offense will apply only where the financial transaction involves the net profits of an offense. This is an object lesson in the confusion that can result from inartful legislative drafting. It also provides a guide to the current state of the law and suggests how prosecutors in the USA are dealing with the problem pending any legislative correction.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

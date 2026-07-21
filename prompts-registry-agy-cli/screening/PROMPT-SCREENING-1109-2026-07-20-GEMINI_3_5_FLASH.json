@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1109-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Deficient regimes of anti-money laundering and countering the financing of terrorism: An analysis of short term economic implications",
+    "authors": "Jayasekara S.D.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-02-2020-0015",
+    "abstract": "Purpose: The purposes of this paper are to discuss the short-term economic impact of the jurisdictions that have been identified as deficient countries in terms of the regime of anti-money laundering and countering the financing of terrorism and to identify the probable reasons for the poor results of mutual evaluation reports of the deficient countries. Design/methodology/approach: This study uses a case study approach to discuss the short-term economic impact of the countries that are under the International Co-operation Review Group (ICRG) process due to poor results of mutual evaluation reports. The sample of countries for the study was selected based on the Financial Action Task Force (FATF) listing as of November 30, 2019. The objectives of the study are expected to be achieved by discussing the issues of these jurisdictions based on publicly available information. However, this study will not consider the long-term economic impact on the countries due to the observed short-term nature of the ICRG process. Findings: This analysis reveals that the ICRG process affects countries in two different perspectives. First, there are implications on the financial system of a deficient country as a result of identifying it as a high-risk country. Second, there are some other forms of economic implications due to the rigorous ICRG process. The downgrading of the sovereign rating by international and credit rating agencies is one of such implications that result in adding a risk premium to the country. This results in increased transaction costs and borrowing costs of deficient countries. Besides, it appears that the ICRG process impacts the capital and currency markets of deficient countries as a result of enhanced due diligence process on fund transfers and limitations in corresponding banking relationships. However, despite these difficulties, some countries have been identified more than once for the ICRG process. Therefore, such countries have to take measures to strengthen the anti-money laundering and countering the financing of terrorism (AML/CFT) regime to avoid future listing. However, long-term sustainability of the countries that were removed from the FATF grey-listing is also questionable under the current FATF methodology of evaluating countries because of the level of effectiveness depends on the judgment of assessors on the risk and context of countries rather the technical compliance. Research limitations/implications: This study was limited to the countries that were in the grey list as of November 30, 2019. The countries exited from the list have not been considered for the study. Originality/value: This paper is an original work done by the author by discussing the issues of the ICRG process in respect of deficient countries in view of strengthening the AML/CFT regimes of such countries. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

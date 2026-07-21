@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0121-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An analysis of the challenges in combatting money laundering within Bureaux de Change establishments in Botswana",
+    "authors": "Mokone P.P.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-06-2024-0100",
+    "abstract": "Purpose: Financial institutions such as Bureaux de Change are susceptible to money laundering, posing a significant risk to a nation’s financial stability and security if not properly regulated and supervised. Botswana is a member of the Financial Action Task Force (FATF), a global organisation that sets standards, promotes policies to prevent money laundering, terrorist financing and arms proliferation, all to safeguard the global financial system. Efforts have been made to incorporate FATF recommendations on money laundering into the fiscal laws of Botswana. However, some deficiencies still remain. Although there are no recorded cases of money laundering in Botswana, Bureaux de Change entities are susceptible to it as their business involves cash transactions and rapid money transactions. This paper aims to analyse the challenges faced by Bureaux de Change entities in combating money laundering in Botswana. This will be done by assessing the effectiveness of the current regulatory framework and role of the regulatory authorities in combating money laundering within Bureaux de Change entities. Design/methodology/approach: This paper provides a comprehensive examination of the obstacles faced by Bureaux de Change entities in Botswana when it comes to combating money laundering. A qualitative research method and doctrinal research method are both used in this context. Findings: It is hoped that policymakers and other relevant persons will adopt the recommendations provided in the paper to enhance the curbing of money laundering in Botswana. Research limitations/implications: This paper is only limited to the regulation of money laundering within the Bureaux de Change entities in Botswana and does not provide empirical research. Practical implications: This paper is useful to policymakers, lawyers, law students and regulatory bodies especially in Botswana. Social implications: This paper suggests changes to the Bank of Botswana (Bureaux de Change) Regulations of 2004 to improve their effectiveness, robustness and competitiveness in combating money laundering. Originality/value: This paper is original research on the challenges of combating money laundering within Bureaux de Change entities in Botswana. © 2025, Philadelphia Pontsho Mokone.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

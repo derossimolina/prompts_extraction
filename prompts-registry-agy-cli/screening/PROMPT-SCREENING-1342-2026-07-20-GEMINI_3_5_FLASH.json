@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1342-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE STRUCTURE OF THE ILLEGAL ECONOMY AND ITS RELATIONSHIP TO MONEY LAUNDERING",
+    "authors": "Sonsuphap R.",
+    "year": "2022",
+    "doi": "10.22495/cbsrv3i1art5",
+    "abstract": "Money laundering in the illegal economy is a big global concern; consequently, numerous international regulations have been adopted to prevent the issue (United Nations Office on Drugs and Crime [UNODC], 2009). This research describes the structure of the illegal economy in Thailand and the relationship between money laundering and the three forms of the illegal economy (drugs, gambling, and corruption). Those who participated in three activities were interviewed in-depth, and then the results were analyzed using theoretical analysis and constant comparison analysis. The results indicate that strong demand and supply within Thailand and along its borders have created a substantial black market in the country, and money laundering arises through several avenues. The structural relationship of Thailand’s extralegal economy is a result of the imperfection of the official economy and the degree to which the state market mechanism is intervened with various measures. Due to the complexity of the illegal economy, a large number of agencies are involved, resulting in an information system that cannot be categorized as including atypical transactions. Therefore, it is a big difficulty and a hindrance to swiftly assembling the complete litigation. This report offers the government and legal sectors with advice for combating illegal economies. © 2022 The Author.",
+    "source": "Corporate and Business Strategy Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

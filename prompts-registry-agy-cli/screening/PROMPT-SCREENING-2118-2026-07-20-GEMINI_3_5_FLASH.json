@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2118-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Colombia's black market in foreign exchange",
+    "authors": "Grosse R.",
+    "year": "1992",
+    "doi": "10.1016/0305-750X(92)90010-S",
+    "abstract": "Decree Law 444 in 1967 heavily restricted access to foreign exchange by Colombian residents. This policy spurred the development of a large black market, which had grown to about US$2.5 billion of transaction value per year by 1988. Soon after the restrictive policies were imposed, marijuana and then cocaine smuggling became large industries in Colombia; this narcotics boom has apparently driven down the black market exchange rate and largely eliminated the exchange rate premium that is usual for such markets. While Colombia's government has opened up the official foreign exchange market in the early 1990s, the black market is expected to continue to thrive, due to the smugglers' need to resort to underground means for transacting their business. © 1992.",
+    "source": "World Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

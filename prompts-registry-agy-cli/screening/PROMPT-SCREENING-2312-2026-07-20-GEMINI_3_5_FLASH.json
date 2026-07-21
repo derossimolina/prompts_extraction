@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2312-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Criminal business model and the governance of seized and confiscated businesses",
+    "authors": "Faldetta, G; Provenzano, C",
+    "year": "2016",
+    "doi": "10.1108/MBE-08-2016-0045",
+    "abstract": "Purpose - The main purpose of this paper is to analyze what happens to a business model when the governance of the focal organization changes, particularly when it has to re-shape its transactional network. Design/methodology/approach - The paper reviews literature on governance structure of criminal organizations and uses two case studies to show two different approaches in re-shaping the business transactional network after the seizure from Mafia organization. Findings - The paper finds three different approaches about governance structure in criminal organizations and describes what happens to a business model when the governance of the focal organization changes as is the case of the seizure and confiscation of Mafia businesses. The paper shows that when a judicial administrator is able to effectively build a new transactional network, the business he manages can survive and can also give good performance. Research limitations/implications - The paper provides two business cases, but this is not enough to give empirical evidence; this could be provided through other case studies or through quantitative methods using surveys or data provided by the Italian courts. Practical implications - The paper has some potential managerial implications, in particular for the judicial administrator. He should encourage the construction of a new transactional network, first analyzing the existing network, going deeply into the content and the motivators of the relationships with the stakeholders, and deciding if such relationships can be re-formulated or must be left. Originality/value - The originality of the paper is that it analyzes criminal organizations using well-known approaches, applying them to the case of seized and confiscated business. Keywords Networks, Transaction costs, Business model, Crime organizations, Mafia Paper type Research paper",
+    "source": "MEASURING BUSINESS EXCELLENCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

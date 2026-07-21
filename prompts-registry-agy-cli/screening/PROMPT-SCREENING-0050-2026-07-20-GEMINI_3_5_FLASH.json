@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0050-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Equity token issuance platforms in European Union financial law: regulatory classification, intermediation and compliance",
+    "authors": "Wittlin J.; Ossowska A.",
+    "year": "2026",
+    "doi": "10.1080/13600834.2026.2674463",
+    "abstract": "This article examines the legal and regulatory challenges faced by platforms facilitating the primary issuance of tokenized equity in the European Union. Adopting an intermediary-centric perspective, it analyses how platform-based issuance models interact with existing EU financial law frameworks. The article argues that the regulatory classification of issuance platforms is determined primarily by the functional substance of platform activity rather than by the technological features of tokenization, rendering regulatory structuring a strategic design choice with significant compliance implications. It further demonstrates that, while EU law provides a formally comprehensive regulatory framework, persistent uncertainties remain concerning prospectus liability, the interaction with national company law, AML/CTF obligations, and cross-border operations. These doctrinal findings are supported by a quantitative analysis of security token issuance platforms, revealing market concentration, declining platform formation, and limited uptake of innovation-oriented regimes. The article also identifies factors enabling scalable, pan-European platform-mediated equity token issuance. © 2026 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Information and Communications Technology Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

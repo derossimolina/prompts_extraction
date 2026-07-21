@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0448-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "MONEY LAUNDERING: CHALLENGES, PROGRESS, AND THE URGENT NEED FOR STRENGTHENED ANTI-MONEY LAUNDERING MEASURES",
+    "authors": "Abdulkader Jebarah S.; Hassan Jammaa M.; Al Mashhadani A.F.S.; Abu Taher M.; Alomar A.; Al Makhmari M.; Snoussi M.",
+    "year": "2025",
+    "doi": "10.22495/clgrv7i3p6",
+    "abstract": "Money laundering is a significant and prevalent problem worldwide that causes substantial issues for businesses and societies everywhere, and Sudan is no exception. Sudan’s weak legal, financial, and banking systems provide fertile ground, making it easy for individuals to commit money laundering offences. The primary objective of this essay is to investigate the frequency of money laundering in Sudan. The history of money laundering in Sudan is a significant component of this study, which explores the intricate mechanisms of money laundering. It examines the country’s laws and regulations and the obstacles to implementing anti-money laundering (AML) measures. In addition, the study examines international cooperation, assesses Sudan’s efforts to combat money laundering, and identifies flaws in the current legal and regulatory framework, building transparency and providing stronger institutions. International criteria such as the Financial Action Task Force’s (FATF) 40 Recommendations and the Basel AML Index are employed to assess the state’s AML initiatives. The results demonstrate the importance of enhancing Sudan’s legal and regulatory framework to prevent money laundering and safeguard the country’s economy and people for wider global collaboration. © 2025 The Authors.",
+    "source": "Corporate Law and Governance Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

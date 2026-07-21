@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0011-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International Scientific Experience in the Study of Illicit Enrichment: Criminalistics and Forensic Dimension",
+    "authors": "Bilokin R.",
+    "year": "2025",
+    "doi": "10.1017/cri.2025.10095",
+    "abstract": "This study analyses international scientific approaches to illicit enrichment within forensic and criminalistics frameworks, aiming to identify ways to enhance these methods in combatting financial crime. A comparative analysis was conducted of legal practices and scientific methods in Ukraine, the United States, the United Kingdom and Poland – countries facing challenges in addressing illicit enrichment. Special attention was given to emerging technologies such as artificial intelligence, blockchain and cryptocurrencies due to their promising role in detecting financial crimes. The research methodology combined an analysis of international experience with a review of relevant legal frameworks and initiatives. Findings indicate that integrating advanced technologies into the detection of illicit assets, including cryptocurrency transactions, significantly strengthens financial crime prevention. However, legal constraints and evolving criminal tactics necessitate better international coordination and regulatory refinement. While the legislative systems of the examined countries generally align with global standards, they require improvements in asset recovery and financial monitoring mechanisms. The study recommends enhancing analytical tools, deploying cutting-edge technologies, fostering international cooperation and certifying experts in financial forensics. Overall, the results underscore the need for modernized legal and technical approaches to ensure more effective surveillance and control of financial flows at the international level. © International Society of Criminology, 2025.",
+    "source": "International Annals of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

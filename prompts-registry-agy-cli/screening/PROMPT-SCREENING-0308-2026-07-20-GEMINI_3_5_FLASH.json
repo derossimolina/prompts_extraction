@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0308-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money Laundering in Global Economies: How Economic Openness and Governance Affect Money Laundering in the EU, G20, BRICS, and CIVETS",
+    "authors": "AlQudah A.; Hailat M.; Setabouha D.",
+    "year": "2025",
+    "doi": "10.3390/jrfm18060319",
+    "abstract": "Purpose—This study examines the interaction of economic openness, governance, and money laundering. The paper’s main objective is to analyze how trade openness, foreign direct investment, and anti-corruption measures influence the risk of money laundering in specific economic blocs. Design/methodology/approach—This study analyzes these economic blocs (EU, G20, BRICS, and CIVETS) using annual data from the Basel Institute on Governance and World Bank statistics for 2012–2021. A panel-corrected standard errors (PCSE) estimator is employed to examine the relationships among the variables, accounting for cross-sectional dependence and ensuring robust parameter estimation. The corruption control index is a proxy for governance effectiveness, though it does not directly measure regulatory strength. Future research should incorporate more specific variables to evaluate the regulatory impact. Findings—This study reveals significant variations in money laundering risks by a country’s income category and economic bloc influenced by economic openness and governance structures. Economic growth and foreign direct investment (FDI) inflows exhibit contrasting effects on money-laundering risks; they tend to exacerbate risks in middle-income countries, while high-income nations demonstrated a lower risk of money laundering, likely due to more robust governance structures. Trade openness and anti-corruption measures generally reduced risks in wealthier countries, highlighting the importance of strong governance frameworks. These insights suggest that anti-money-laundering policies should be tailored to fit different regions’ unique economic and institutional contexts for enhanced effectiveness. Originality—This study employs a structured approach to analyzing a decade of panel data from key economic blocs, providing insights into the intricate relationships between governance, economic openness, and money laundering risks. Bridging the gap between theoretical research and practical, actionable strategies serves as a valuable resource for improving the effectiveness of anti-money-laundering (AML) measures on a global scale. © 2025 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0659-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The evolution of the debt—equity doctrine in the light of financial instruments’ digitalization",
+    "authors": "Krinichansky K.V.; Ponamorenko V.E.",
+    "year": "2024",
+    "doi": "10.32609/0042-8736-2024-5-55-73",
+    "abstract": "The article outlines the basics for using the debt—equity dichotomy in the financial instruments typology and analyzes the contradictions and shortcomings of the existing approach to classification. It is shown that the “trap” of the debt—equity dichotomy comes from the path dependence process, mainly formed by the inertia of the tax system. It is noted that the applying of the debt—equity dichotomy entails a formalist approach to classification, which does not bring closer to the clarity of the delimitation of contracts according to the criteria of risk and reward distribution, and restrictions on post-contractual opportunism. Arguments are given to explain why the foundations of the debt— equity doctrine may be weakened in relation to crypto assets. This is supported by the fact that the genesis of digital assets occurs in a specific technological context, which determines its own criteria and framework for the typology of instruments. Another set of arguments comes from the fact that the world of crypto assets appears to be coherent with the specific environment of venture capital investment. This environment, in turn, arouses the demand for overcoming the debt—equity dichotomy to implement the tasks of risky investors and structuring the relations of the parties involved in projects. This demand has now led to the emergence of a number of instruments that cannot be classified as either debt or equity, including those using the construct of tokens or contractual agreements used by crowdfunding platforms. Overall, the intellectual effort that previously satisfactorily explained companies’ choices of financing styles and modes is now insufficient to reconcile capital structure theories with the practice of digital asset financing. © 2024, Russian Presidential Academy of National Economy and Public Administration. All rights reserved.",
+    "source": "Voprosy Ekonomiki"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

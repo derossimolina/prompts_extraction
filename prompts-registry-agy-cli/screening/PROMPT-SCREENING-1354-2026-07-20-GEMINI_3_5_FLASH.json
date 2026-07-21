@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1354-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A new approach to the registration of buildings towards 3D land and property management in Slovakia",
+    "authors": "Raškovič V.; Muchová Z.; Petrovič F.",
+    "year": "2019",
+    "doi": "10.3390/su11174652",
+    "abstract": "Slovakia faces a critical period in land and property management. The Land Registry still maintains its old 1990s information system and obsolete manual record system, whose structure and links of the real estate records and ownership titles are unable to meet the current requirements of companies in its graphical representation and visualization of data. Basically, it is a partially structured, digitalized and yet still analog system for recording land titles. It is of the utmost importance for a data model to be set up for a new information system that would provide the entire Land Registry with a wide range of information, together with the right structuring, filtering, sorting, and graphics. The system architecture should be based on unique identifiers in Land Registry entries, fixed links and integrity control mechanisms, while creating an index map of all real estate which can be specified with additional information future legislation might require. Slovak law allows multiple ownership of any land, building or interior. In order to initiate the entire process, the Slovak Land Registry needs to clearly define buildings together with their boundaries by their geometry and location, identify them with a unique code and give them a fixed land reference. © 2019 by the authors.",
+    "source": "Sustainability (Switzerland)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0895-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Examining cryptocurrency use among muslim affiliated terrorists: Case typology and regulatory challenges in southeast asian countries",
+    "authors": "Wiwoho J.; Pratama A.M.; Pati U.K.; Tejomurti K.",
+    "year": "2023",
+    "doi": "10.19105/al-lhkam.v18i1.7147",
+    "abstract": "Many policymakers and scholars have discussed concerns regarding terrorist group use of cryptocurrency in recent years. While some argue that the threat is still limited, others argue that the current usage of cryptocurrency does not match the entirety of features that terrorist groups require and desire. In the end, it is still critical to recognize that the cryptocurrency used for terrorist financing frequently depends on several influencing factors. This study aims to (i) investigate the utilization of cryptocurrency by Moslem-Affiliated terrorists in Southeast Asia; (ii) map the case typology of cryptocurrency use in Southeast Asian terrorist funding; (iii) describe the regulatory challenges raised in Southeast Asia. This research is a type of doctrinal legal one using the statute, case, and conceptual approaches. The results of this study acknowledge the limited but increasing risk of terrorist financing by cryptocurrency over the 2015-2022 timeframe in Southeast Asia. Furthermore, the existing typology of cases uses smurfing and structuring techniques with high and medium levels of risk. This research ends by recommending actions that Southeast Asian country stakeholders can take to reduce the potential of cryptocurrency usage in terrorist funding by harmonizing their counter-Terrorist financing regulatory approaches and implementing investigative best practices. © 2023 Al-Ihkam: Jurnal Hukum dan Pranata Sosial. All rights reserved.",
+    "source": "Al-Ihkam: Jurnal Hukum dan Pranata Sosial"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

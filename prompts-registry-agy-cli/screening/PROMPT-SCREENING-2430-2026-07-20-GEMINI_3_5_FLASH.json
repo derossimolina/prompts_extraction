@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2430-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CRIME IN FOREIGN ECONOMIC SPHERE IN THE POST-SOVIET STATES",
+    "authors": "Hrechyn, Y; Burba, V",
+    "year": "2018",
+    "doi": "10.30525/2256-0742/2018-4-5-266-270",
+    "abstract": "The purpose of the article is to reveal the content of organized crime in foreign economic sphere and the factors that determine the state and trends of its development. It is revealed the influence of corruption as a form of organized crime on foreign economic activity, which is illustrated by examples of illegal actions in this area. It is concluded that organized crime in foreign economic sphere essentially goes beyond the limits of the customs regime violations, evasion of customs duties and other payments and threatens the functioning of the whole sectors of post-Soviet countries' economies. Methodology. The study is based on the economic and criminological approaches developed by J. Knorih (Knorich, 2004), as well as S. Zedeg and N. Gustavson (Susanna Thedeg, 2009; Susanna Thede, 2012). It should also be noted the studies conducted by experts from international organizations such as the World Bank (S. J. Hellman, 2000), Transparency International (Transparency and Corruption, 2016) and the Organization for Economic Cooperation and Development (Quantitative Evidence on Transparency in Regional Trade Agreements, 2013). The consideration of issues related to the criminalization of foreign economic relations is based on the methods described in the works of J. Cassar (Cassara, 2015), K. Nordstrom (Nordstrom, 2007), M. Naim (Naim, 2006) and P. Shadri (Chaudhry, 2007), as well as in the author's works on countering corruption and organized crime (Hrechyn, 2015). Result of the study reveals the essence of crime in the foreign economic sphere as a form of corruption that poses threat to the economic security in post-Soviet states. This will allow us to assess the scale of the problem and evaluate appropriate responses.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

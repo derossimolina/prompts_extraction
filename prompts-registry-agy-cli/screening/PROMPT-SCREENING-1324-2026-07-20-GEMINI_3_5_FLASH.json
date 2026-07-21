@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1324-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "COVID-‘419’: Social Context of Cybercrime in the Age of COVID-19 in Nigeria",
+    "authors": "Tade O.",
+    "year": "2021",
+    "doi": "10.1080/19392206.2021.2004642",
+    "abstract": "While extant studies have probed the causes, actors and effects of cybercrimes in Nigeria, knowledge is scarce on the adaptable nature of cybercrimes during the COVID-19 pandemic. Using Fraud triangle theory and exploratory research design, I analyzed data emanating from the Economic and Financial Crimes Commission (EFCC), the Nigerian Police, the Nigerian Communications Commission (NCC) and the Central Bank of Nigeria (CBN). Partial and total lockdown imposed by Federal and State governments in Nigeria to curtail the spread of COVID-19 delayed government palliative intervention, weakened social support systems and increased the vulnerability of Nigerians to COVID-419ners. The fraud scheming deployed included relief package fraud, food and data fraud, and COVID-19 cash support and loan fraud. These fraud schemes were designed to align with federal government’s policy on COVID-19 palliative or intervention to defraud the unsuspecting public. Arising from the findings, the study recommends timely palliative support and unambiguous public enlightenment on beneficiaries to reduce victimization of vulnerable Nigerians. Anti-cybercrime agencies need to be proactive in preventing fraud occurrence, neutralizing fraudulent schemes and arresting cyber-offenders. © 2021 Taylor & Francis.",
+    "source": "African Security"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

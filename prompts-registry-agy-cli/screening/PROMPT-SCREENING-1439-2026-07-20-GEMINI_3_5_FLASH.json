@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1439-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Modelling effect of perceived service quality dimensions on customer satisfaction in Indian bank settings",
+    "authors": "Adil M.",
+    "year": "2013",
+    "doi": "10.1504/IJSOM.2013.054447",
+    "abstract": "The aim of the present study is to determine the dimensions of service quality that have a significant impact on overall customer satisfaction. Based on a review of the service quality literature, SERVPERF scale along with its five dimensions viz. tangibles, reliability, responsiveness, assurance, and empathy, was considered appropriate for the present study. An English version of the questionnaire was developed and data was collected from 332 university students enrolled in various courses of reputed universities from national capital of India employing non-random purposive sampling technique. Analytical tools such as SPSS 20.0 and AMOS 20.0 have been used to extract factors relevant to service quality, mean scores and standardised factor loadings. The proposed model was empirically tested for dimensionality, reliability and validity using structural equation model (SEM) technique. The findings and suggestions, thereof, may be employed by banking industry in re-structuring and prioritising service quality dimensions and also developing appropriate promotional strategies by highlighting relevant aspects of service quality at banks. Copyright © 2013 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Services and Operations Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

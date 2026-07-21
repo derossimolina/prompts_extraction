@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1991-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Problems applying traditional anti&hyphen;money laundering procedures to non&hyphen;financial transactions, &ldquo;parallel banking systems&rdquo; and Islamic financial systems",
+    "authors": "Zagaris B.",
+    "year": "2007",
+    "doi": "10.1108/13685200710746866",
+    "abstract": "PurposeThe purpose of this research paper is to consider the unique and even positive nature of hawalas and other informal fund transfer systems &lpar;IFTs&rpar; in the developing world. Design&sol;methodology&sol;approachReviewing primary and secondary reports from national regulators, international organizations, and academics, the paper questions the conventional view that IFTs should be subject to extensive regulation and scrutiny because they have been abused by some participants. Many positive characteristics of hawalas – speed, transaction cost, cultural convenience, and versatility – also contribute to their abuse. The paper examines the modern uses of hawalas, including legitimate – remittances from migrant workers, humanitarian and emergency aid, personal investments – and illegitimate – money laundering, terrorist financing, tax and customs evasion, circumventing exchange controls – applications. The paper then discusses legal issues involving IFTs in developing and developed countries, discussing factors the international community should consider when designing regulatory systems. The paper reviews developing world IFT regulation in the UAE, Afghanistan, Somalia, the Eastern and South African Anti&hyphen;Money Laundering Group, and Columbia, and developed world regulation in The Netherlands, the UK, and the USA. FindingsThe paper concludes that IFTs are robust in jurisdictions where formal banking systems are absent or weak, or where structural obstacles distort foreign exchange and other financial markets. Originality&sol;valueLooking forward, the paper considers, inter alia, licensing or registration requirements and the rationale for choosing one over the other, and the need for competent authority due diligence on IFT operators. © 2007, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

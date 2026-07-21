@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0827-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "“We’re Not Proud of the Cases We’ve Been Involved in”: Crisis Resolution on Facebook Using Conversational Human Voice",
+    "authors": "Holmgreen L.-L.",
+    "year": "2024",
+    "doi": "10.1177/23294884231200861",
+    "abstract": "The article discusses the use of conversational human voice (CHV) to address negative eWOM on brand-generated social media platforms. Using the case of a crisis-ridden Danish bank, the article investigates the use of CHV outside service failures and its effects on critical publics in the context of intentional crises. The data consist of posts and comments from the bank’s Facebook page, following allegations of money laundering. The analysis reveals that CHV is used extensively by the bank to counter criticism; however, the degree to which the strategy is standardized or tailored seems to depend on whether users appear once, have a regular presence, engage in dialog, and are known to the bank’s employees. These findings suggest that while CHV is intended for more personalized communication to make users more sympathetic to the organization, its use will have to be contextualized to be effective. © The Author(s) 2023.",
+    "source": "International Journal of Business Communication"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

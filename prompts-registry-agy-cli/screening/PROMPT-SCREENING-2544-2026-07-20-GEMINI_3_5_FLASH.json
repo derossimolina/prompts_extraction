@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2544-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Law and Project Finance",
+    "authors": "Subramanian, KV; Tung, F",
+    "year": "2016",
+    "doi": "10.1016/j.jfi.2015.01.001",
+    "abstract": "We investigate Project Finance as a private response to inefficiencies created by weak legal protection of outside investors. We offer a new illustration that law matters by demonstrating that for large investment projects, Project Finance provides a contractual and organizational substitute for investor protection laws. Project Finance accomplishes this by making cash flows verifiable through two mechanisms: (i) contractual arrangements made possible by structuring the project within a single, discrete entity legally separate from the sponsor; and (ii) private enforcement of these contracts through a network of project accounts that ensures lender control of project cash flows. Comparing bank loans for Project Finance with regular corporate loans for large investments, we show that Project Finance is more likely in countries with weaker laws against insider stealing and weaker creditor rights in bankruptcy. We identify the predicted effects using difference-indifference and triple-difference tests that exploit exogenous country-level legal changes and inter-industry differences in free cash flow and tangibility of assets. (C) 2016 Published by Elsevier Inc.",
+    "source": "JOURNAL OF FINANCIAL INTERMEDIATION"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

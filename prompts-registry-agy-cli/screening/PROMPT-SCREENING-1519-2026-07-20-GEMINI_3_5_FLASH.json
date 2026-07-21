@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1519-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Gaiman, banks and Miéville – Hybrid space and genre; [Gaiman, banks in Miéville – Hibridni prostor in žanr]",
+    "authors": "Javoršek U.V.",
+    "year": "2018",
+    "doi": "10.4312/elope.15.1.99-110",
+    "abstract": "The analysis of three recent British novels: Neil Gaiman’s Neverwhere (1996), Iain Banks’ Transition (2009) and China Miéville’s The City & the City (2009) strives to uncover structural parallelisms and the inherent evolution in their development, plot structuring and presentation. It is centred on the exhibited relation to the structure and general mechanics of space. The interpretations of space are based on Foucault’s heterotopias, the rhizome of Deleuze and Guattari, and de Certeau’s absent space, which show how the active force of space and the complexity of the genre identity are interconnected, and how they interact with the social and political engagement of the works and their wider cultural and social context. These seminal works of the British Boom provide a rich source material for an outline of the process of interplay of genre identity and political engagement, and an overview of how this interplay affects their plot, style and the protagonists. © 2018, Ljubljana University Press. All rights reserved.",
+    "source": "ELOPE: English Language Overseas Perspectives and Enquiries"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

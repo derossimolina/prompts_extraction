@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1254-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Socialising the decision-making process: transaction provenance decision support",
+    "authors": "Humphreys P.",
+    "year": "2020",
+    "doi": "10.1080/12460125.2020.1868653",
+    "abstract": "This paper extends some current decision-Making and DSS perspectives that were originally identified in Herbert Simon’s decision-making and action process model, socialising them in theory and practice to account for the effective development of decision support systems that can profitably be incorporated in the context of multisided platform- powered eco-systems. It shows how adopting these extended perspectives enhances the opportunities for supporting socialised (rather than individualised) action and development through ‘Transaction Provenance Decision Support’ (TPDS). It takes as its example SMART.T, a TPDS powered by two multisided platforms enabling trading, provenance-building and socio-economic development. These are (i) a provenance authentication platform, and (ii) a transaction management platform. Together, these platforms offer the core functions needed for a comprehensive TPDS. As discussed in this paper, these functions are: integration of transactions involving private and public goods in TPDS; exploring, and establishing provenance; structuring provenance within the World Wide Web Consortium’s Provenance Ontology; authenticating provenance; socialising decision enactment; anticipating good provenance within a transaction network. It establishes the importance of provenance in providing socialised, end-to-end, multisided decision support within the TPDS platform-powered eco-systems that will drive the rapidly expanding platform business sector in the future. © 2021 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Journal of Decision Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

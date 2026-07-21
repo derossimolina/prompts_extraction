@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1667-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Conflicts and bargaining about banking secrecy in Switzerland in the aftermath of first world war; [Conflits et marchandages autour du secret bancaire en suisse à l'issue de la grande guerre]",
+    "authors": "Guex S.",
+    "year": "2013",
+    "doi": "10.3917/anso.131.0157",
+    "abstract": "In the aftermath of First world war, Swiss banking secrecy became the issue of serious conflict between the representatives of different social classes or social groups for which the war, for several reasons, had reinforced their political weight. If the foreign capital inflow in Switzerland, which was linked to the political, monetary and tax upheavel in Europe, opened very promising perspectives for the Swiss financial centre und Swiss business, these perspectives were jeopardised by two main difficulties arising from within the country. The first of these difficulties arose from the attacks on banking secrecy carried out by the Labour movement, which has been reinforced and radicalised by the affiliation of impoverished wage earners. The second, more unexpected, arose from menaces against the banking secrecy by the organisation structuring and expressing the interests of agriculture, the Union suisse des Paysans (USP), also reinforced by the war. Indeed, the USP took advantage of the situation in order to bargain for the backing of banking secrecy, notably in exchange for increased agricultural protectionism. By decoding such a dexterous bargaining, I will analyse a decisive moment in the long history of the Swiss banking secrecy and in the conflictual alliance between big business and the peasentry, two features that still today have a significant influence on the Swiss political landscape. © 2010-2013 Cairn.info.",
+    "source": "Annee Sociologique"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

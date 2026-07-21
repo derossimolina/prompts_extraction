@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1117-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The humanitarian gap in the global sanctions regime: Assessing causes, effects, and solutions",
+    "authors": "Mallard G.; Sabet F.; Sun J.",
+    "year": "2020",
+    "doi": "10.1163/19426720-02601003",
+    "abstract": "Since the late 1990s, targeted sanctions and general humanitarian sanctions exemptions have aimed at avoiding the disastrous humanitarian consequences of comprehensive sanctions. In parallel, global banks in charge of administering the international trade of vital goods (food and medicine) have received guidance on how to implement risk-based approaches to avoid completely blockading sanctioned jurisdictions. But these efforts have failed. This article asks: Why has the governance of sanctions and sanctions exemption failed, and what can be done to fix the problem? It argues that a hybrid form of governance in the field of sanctions is responsible for current humanitarian problems. Based on more than eighty interviews with treasury officials, sanctions experts, compliance officers, and others, and taking the international trade of vital goods in Iran as an example, this article assesses various fixes to the governance failures and solutions to address the payment problems that exporters of vital goods in sanctioned jurisdictions face. © GRÉGOIRE MALLARD, FARZAN SABET AND JIN SUN, 2020",
+    "source": "Global Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

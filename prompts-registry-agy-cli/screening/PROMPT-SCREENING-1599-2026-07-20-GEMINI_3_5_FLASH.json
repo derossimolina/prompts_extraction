@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1599-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The state of anti-fraud and AML measures in the banking industry",
+    "authors": "Betron M.",
+    "year": "2012",
+    "doi": "10.1016/S1361-3723(12)70039-8",
+    "abstract": "Financial institutions are under increasing regulatory and compliance pressures. Banks lose billions of dollars each year because of fraudulent transactions, and society in general has a vested interest in preventing money laundering and terrorist financing. Additionally, the negative economic impact of such illegal activities filters through the entire society because banks pass the cost of their losses on to the consumer. Financial institutions are under increasing regulatory and compliance pressures. Banks lose billions of dollars each year because of fraudulent transactions, and society in general has a vested interest in preventing money laundering and terrorist financing. Anti-Money Laundering (AML) surveillance systems and the sharing of information between financial institutions could help, but data protection laws have made it difficult. Mike Betron of Infoglide Software explains how technology can help with data sharing while keeping organisations compliant with a wide range of laws. © 2012 Elsevier Ltd.",
+    "source": "Computer Fraud and Security"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

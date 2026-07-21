@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0362-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Globalization, borders and organized crime. Territorial dynamics in Latin America and Colombia; [Globalización, fronteras y crimen organizado. Dinámicas territoriales en América Latina y Colombia]",
+    "authors": "Montoya J.W.; Salas L.G.",
+    "year": "2026",
+    "doi": "10.4067/s0718-34022026000100108",
+    "abstract": "This exercise is part of a sequence of works developed around the Colombian armed conflict and the mutation of some organizations towards organized crime. In addition, frequently in alliance with transnational criminal organizations (Montoya G., 2021, 2025; Rondón Rincón & Montoya G., 2022; Salas S. & Montoya G., 2023; Cairo et al., 2024). The exercise focuses on the dynamics of borders and how their characteristics in Latin America have favored the increasing emergence of international transactions, many of which are illegal and have turned them into spaces of conflict. The article examines the situation of various border areas in Latin America and concludes with a regionalization of the most difficult borders due to the convergence of organized crime activities. © 2026 Revista de Geografia Norte Grande. All rights reserved.",
+    "source": "Revista de Geografia Norte Grande"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

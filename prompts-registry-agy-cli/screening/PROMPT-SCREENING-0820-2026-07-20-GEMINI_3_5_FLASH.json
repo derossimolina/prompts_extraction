@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0820-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Dark Web and the future of illicit drug markets",
+    "authors": "Chawki M.",
+    "year": "2022",
+    "doi": "10.1007/s12198-022-00252-y",
+    "abstract": "Information and communication technologies (ICTs), particularly the internet, have transformed almost every aspect of human life. While most of the breakthroughs in this area have offered great benefits, unintended negative consequences have also resulted. One example of the latter is the surge in illicit drug trafficking using the dark web and other internet-based techniques. Two key reasons for this surge are the anonymity of offenders and the diversity of internet-based trading platforms. Recent developments have shown that cybercriminals have made considerable use of the dark web to expand illicit drug trafficking globally, which has become a source of concern. According to global surveys, a substantial percentage of participants confessed to buying illicit drugs online. Law enforcement agencies are constantly undertaking surveillance operations to track and disrupt mass criminals and prevent crime on the dark web. The closure of major online drug trafficking platforms, on the other hand, has a minimal long-term impact on drug sales on the dark web market because customers and suppliers migrate to other trade platforms and overall sales eventually recover, highlighting the importance of a technologically robust intergovernmental regulatory framework. In this context, this article seeks to address and analyze the following issues: First, we provide an overview of Bitcoin and blockchain technology. Second, we explain the methods of purchasing drugs over the dark web. Finally, the paper concludes by discussing the future of the Dark Web and will propose some solutions and recommendations to regulate drug trafficking over the dark web. © 2022, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.",
+    "source": "Journal of Transportation Security"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

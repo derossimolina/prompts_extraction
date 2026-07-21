@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1914-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial enmeshment – banking systems in Western, and Central and South&hyphen;Eastern Europe: The interacting factors of anti&hyphen;money laundering, the rigours of transitional economy, and the underground illicit economy",
+    "authors": "Ridley N.",
+    "year": "2006",
+    "doi": "10.1108/13685200610645247",
+    "abstract": "PurposeThe purpose of this paper is to analyse the banking systems in Western, and Central and Southeastern Europe, focusing on the interactive factors of anti&hyphen;money laundering, transitional economies and the underground illicit economy. Design&sol;methodology&sol;approachProvides a comparative analysis of the banking systems in Western, and Central and Southeastern Europe. FindingsThe transition economies of central and Southeastern Europe face, and have been confronted for over a generation by, the interlinked problems of the transition stage post&hyphen;1989, the alternative or illegal economy, and the vulnerability of banking systems to money laundering. In contrast, by the 1990s, Western European central banks have become established as an essential government organ in macro&hyphen;economic policies. Originality&sol;valueSuggests an interesting lesson that might be gained from the experiences of central and Southeastern Europe and anti&hyphen;money laundering since the late&hyphen;1990s, where a national bank or central bank has not been essential, indeed has been comparatively unimportant, compared to the developed banking system led by the individual banks. © 2006, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

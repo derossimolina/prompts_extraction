@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1545-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Improvement directions for the mechanisms of corruption counteracting in Russian uniform information system of procurement",
+    "authors": "Gazetov A.N.",
+    "year": "2017",
+    "doi": "10.14505/jarle.v8.3(25).14",
+    "abstract": "Statement of the problem The procurement information system in the Russian Federation received 100 out of 100 possible points based on the results of a survey of public procurement systems in 77 countries conducted by the World Bank in 2016. The growth of state contracts is 3.22 million units worth $ 86.36 billion in 2015 year, which is approximately equal to the GDP of such countries as Slovenia, Ukraine and exceeds the GDP of Belarus by 1.6 times. The size of the Russian economy and the volume of Russian government procurement system is an objective factor complicating the combating corruption and ensuring fair competition. The goals and objectives of the study The positive factors seem to be obvious in recent years: the decrease in prices on the results of competition procedures grew to 8.2% at 2016 (7% at 2015), saving of government budget funds increased by 30%. The increase in the number of administrative offenses for violations in the contract system from 9.02 thousand cases in 2014 to 22.0 and 18.7 thousand cases in 2015 and 2016 respectively. Such growth is an indicator of increasing the effectiveness of preventing corruption. The main violations are reduced to the artificial restriction of competition, allowing overstating the value of goods, works and services, thereby forming the economic conditions of corruption manifestations. Also, when executing government contracts, it is noted that funds are withdrawn beyond the possible audit of the use of allocated funds for the performance of state contracts. Results summary conclusions By our opinion, it is necessary to typify state contracts with mandatory inclusion of budget documentation (estimated costs) as an integral part of the state contract. The analysis also shows that changes in the tax legislation make changes in the effectiveness of corruption counteracting. These innovations should provide for the calculation and payment of profit tax and value added tax (VAT) on state contracts separately from receipts for other reasons (for example, cash flows of sales of goods, works and services received from non-state organizations and private individuals) to the prime contractor and its subcontractors performing at least 70% of the scope of work (services). The adoption of these measures will improve the information base of financial and tax control in order to raise money laundering risks and forming conditions for corruption in Russian government procurement system. © 2017, by ASERS® Publishing. All rights reserved.",
+    "source": "Journal of Advanced Research in Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

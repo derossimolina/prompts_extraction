@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2463-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "INITIAL AND SUBSEQUENT STAGES IN THE INVESTIGATION OF ILLICIT DRUG-TRAFFICKING COMMITED BY MEANS OF TELECOMMUNICATION NETWORKS",
+    "authors": "Shebalin, AV; Polgert, AV",
+    "year": "2017",
+    "doi": "10.17223/22253513/24/13",
+    "abstract": "The criminals involved in the sphere of illicit drug trafficking constantly invent the new ways in order to avoid criminal prosecution. Nowadays when committing such crimes, the consumer of drugs personally does not meet their distributor, and agrees about their acquisition and payment for them by means of information and telecommunication technologies. Having received the information about the location of hidden drugs from the distributor by means of the above technologies, a consumer illegally gets them. Such circumstances demand the separation of typical investigative situations of initial and subsequent stages of investigation of the above crimes and definition of the list of actions during them. Depending on the presence of concrete traces of crime at the given moment, we can separate the following typical investigative situations: The first situation is characterized by the existence of traces of drugs and objects contacting with them (drugs, packings of drugs; cotton plugs with washouts and control cotton plugs; devices for the use of drugs). The second situation is characterized by the existence of hand-written records (fragments of sheets of paper with hand-written records of stash indication, numbers of bank accounts, e-wallets, subscriber numbers, etc.). The third situation is characterized by the existence of computer equipment acting as means of commission of the crimes and electronic and digital traces found on electronic media of information or in telecommunication channels (laptops, tablets, smart phones, cell phones, flash cards, SIM cards, hard drives, etc.). The fourth situation is characterized by the existence of electronic and digital traces, which are contained in the computer equipment (not means of crime commission), for example, data about IP addresses of technical means used by criminals, numbers of e-wallets, etc. got during OIE Removal of Information from Technical Communication Channels. The fifth situation is characterized by the existence of the traces containing the phonoscopic data obtained during OIE (optical disks with audio recording of OIE Telephone tapping, OIE Observation, OIE Examination, etc.). On each of these situations, the list of actions for the investigator is proposed for their optimum solution.",
+    "source": "VESTNIK TOMSKOGO GOSUDARSTVENNOGO UNIVERSITETA-PRAVO-TOMSK STATE UNIVERSITY JOURNAL OF LAW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

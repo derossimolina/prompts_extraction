@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0774-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Data protection rules applicable to Financial Intelligence Units: still no clarity in sight",
+    "authors": "Quintel T.",
+    "year": "2022",
+    "doi": "10.1007/s12027-021-00697-z",
+    "abstract": "Financial information can play a key role in tackling money laundering, terrorist financing and combatting serious crime more generally. Preventing and fighting money laundering and the financing of terrorism were top priorities of the European Union’s (EU) Security Strategy for 2020-2025, which might explain the fast developments regarding legislative measures to further regulate anti-money laundering (AML) and counter terrorism financing (CTF). In May 2020, the European Commission put forward an Action Plan to establish a Union policy on combatting money laundering and shortly afterwards, proposed a new AML Package. Financial Intelligence Units (FIUs) play a crucial role in analysing and exchanging information concerning unusual and suspicious transactions, serving as intermediaries between the private sector and law enforcement authorities (LEAs). Such information includes personal data, which is protected under the EU data protection acquis. The latter is constituted of two main laws, the General Data Protection Regulation (GDPR), which applies to general processing and the so-called Law Enforcement Directive (LED) that is applicable when competent law enforcement authorities process personal data for law enforcement purposes. This Article argues that the current legal framework on AML and CTF legislation is unclear on the data protection regime that applies to the processing of personal data by FIUs and that the proposed AML Package does little or nothing to clarify this dilemma. In order to contribute to the discussion on the applicable data protection framework for FIUs, the assessment puts forward arguments for and against the application of the LED to such processing, taking into account the relevant legal texts on AML and data protection. © 2022, The Author(s).",
+    "source": "ERA Forum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

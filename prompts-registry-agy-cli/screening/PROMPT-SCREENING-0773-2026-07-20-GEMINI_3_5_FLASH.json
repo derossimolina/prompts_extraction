@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0773-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Do Islamic banks gain from corruption and money laundering (ML)?",
+    "authors": "Aish K.; Hassan M.K.; Zaman Q.U.; Ehsan S.; Abbas K.; Shah I.H.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-09-2021-0094",
+    "abstract": "Purpose: This paper aims to examine the impact of corruption and money laundering (ML) on the profitability and stability of Islamic banks. Design/methodology/approach: This study used the data of 53 conventional and 19 Islamic banks of Pakistan and Malaysia to have comparative insights. The empirical methods include the fixed effect and random effect regression and generalized methods of moment for robust results. Findings: The results indicate that Islamic banks gain from corruption and ML. Corruption and ML affect bank profitability and stability positively in a less corrupt environment, i.e. Malaysia; however, corruption hurts Islamic banks’ performance, and ML favours Islamic banking profitability and stability in a more corrupt environment, i.e. Pakistan. Originality/value: The present study pioneers the debate on corruption and ML related to Islamic banking profitability and stability. This study provides important insights to regulators and Shariah advisors to build a real model of Islamic banking. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

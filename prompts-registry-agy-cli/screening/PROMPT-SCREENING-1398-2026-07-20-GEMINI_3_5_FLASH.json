@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1398-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Deficient regimes of anti-money laundering and countering the financing of terrorism: agenda of digital banking and financial inclusion",
+    "authors": "Jayasekara S.D.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-04-2020-0035",
+    "abstract": "Purpose: The purpose of this paper is to discuss the dilemma of digital banking and the financial inclusion agenda of countries with the level of strength of the anti-money laundering and countering the financing of terrorism (AML/CFT) regime. Design/methodology/approach: This study develops an AML/CFT compliance index using the assessment data of FATF to measure the level compliance strength of countries to measure the impact of the strength of the AML/CFT regime on the financial inclusion. Financial literacy, literacy, number of bank branches and income level of countries are used as other control variables in regression analysis, which is used to test the developed model. Findings: The results suggest that the AML/CFT compliance level of a country is a significant factor in determining the level of financial inclusion. Besides, the number of bank branches for 100,000 people, literacy and financial literacy are significant factors in financial inclusion. However, the results reveal that financial literacy is significant over literacy in determining financial inclusion. Therefore, having considered the importance of the AML/CFT regime for financial inclusion, regulators are required to strengthen the AML/CFT regime and make clarity on the AML/CFT regulations. This clarity will promote the digitalization and financial inclusion over time. Practical implications: Most of the studies related to financial inclusion and AML/CFT aspects are qualitative. Therefore, this is only the start of measuring the strength of an AML/CFT regime. More appropriate measures will be developed in the future based on this foundation. Originality/value: This paper is an original work done by the author, which discusses the issues of digital banking and financial inclusion agenda of countries with the compliance strength of the AML/CFT regime. The AML/CFT compliance index is the original idea of the author, which can be used as a quantitative measure to capture the strength of the AML/CFT regimes in future studies. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

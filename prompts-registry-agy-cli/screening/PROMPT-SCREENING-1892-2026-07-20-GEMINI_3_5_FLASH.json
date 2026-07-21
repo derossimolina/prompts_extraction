@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1892-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Valuation of Health Care Intangible Assets",
+    "authors": "Reilly R.F.; Rabe J.R.",
+    "year": "1997",
+    "doi": "10.1097/00004010-199704000-00007",
+    "abstract": "Health care entities (and especially medical practices) are valued for a number of reasons: sale transaction pricing and structuring, merger formation and dissolution, taxation and regulatory compliance, and litigation support and dispute resolution. The identification and quantification of the entity's intangible assets are often the most important aspects of the valuation. This article illustrates the generally accepted methods for valuing health care-related intangible assets. © 1997 by Aspen Publishers, Inc.",
+    "source": "Health Care Management Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

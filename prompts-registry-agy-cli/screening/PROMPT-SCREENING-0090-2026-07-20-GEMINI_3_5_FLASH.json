@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0090-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Lost in the Maze: Disentangling the Behavioral Variety of Money Laundering",
+    "authors": "Nazzari M.",
+    "year": "2024",
+    "doi": "10.1007/s10610-023-09572-8",
+    "abstract": "Despite a pervasive anti-money laundering regime worldwide and growing media attention, the scant academic attention on the threat side of money laundering has led to an insufficient understanding of the actors, processes, and behaviors involved. Existing empirical studies show that money launderers are not a set of unitary and homogenous actors. However, criminological literature still lacks a systematic analysis that links distinct types of offenders with specific practices for money laundering. To address this knowledge gap, the present study analyzes 348 money laundering investigations conducted by Italian law enforcement agencies over the period 2016–2022 by the means of a multiple correspondence analysis. Italian mafias tend to launder illicit proceeds by integrating them into the legitimate economy, whereas foreign organized crime groups often favor schemes that operate independently of the financial system. Concurrently, other organized crime groups operating in Italy, as well as non-organized crime offenders, exhibit a broader spectrum of laundering behaviors. The study concludes by discussing implications for both research and policy. © The Author(s), under exclusive licence to Springer Nature B.V. 2023.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

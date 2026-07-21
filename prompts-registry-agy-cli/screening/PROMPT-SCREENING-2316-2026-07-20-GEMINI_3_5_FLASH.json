@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2316-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial intelligence (monitoring) of the transactions with virtual assets: new legislation and best practices of foreign countries",
+    "authors": "Utkina, M; Samsin, R; Pochtovyi, M",
+    "year": "2023",
+    "doi": "10.1108/JMLC-12-2021-0136",
+    "abstract": "Purpose This paper aims to illustrate how virtual assets are used in such criminal offenses as money laundering and seeks to study the role of financial intelligence (monitoring) of transactions with virtual assets effectively in combating money laundering. Design/methodology/approach This research methodology includes system and structural methods that help analyze the theoretical, organizational and legal bases of the financial intelligence (monitoring) of transactions with virtual assets. The authors use the doctrinal legal research approach to analyze and describe the legislation connected to the financial intelligence (monitoring) operations with virtual assets. To identify critical issues of understanding the virtual assets and cryptocurrency essence, the peculiarities of the scientific community views on the given definitions, the authors use the method of terminological analysis and concepts operationalization. The authors use the extrapolation method to determine the possibility of implementing the analyzed best practices of foreign countries in the domestic practice of financial intelligence (monitoring) of transactions with virtual assets as an effective way in combating money laundering. Findings This study demonstrates the role of financial intelligence (monitoring) of transactions with virtual assets as an effective way to combat money laundering. Originality/value The article is devoted to comprehensively studying virtual assets and cryptocurrency concepts. The authors carried out a comparative analysis of these two concepts with the definition of their features and the main characteristics and features that separate them from each other. The authors also stressed the need for countries to strengthen the requirements for situations and activities with virtual assets, where there is a high level of risk in a risk-based approach.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

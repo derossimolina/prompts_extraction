@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0253-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sanctions compliance as a basis for non-performance of contractual obligations",
+    "authors": "Lupton C.",
+    "year": "2024",
+    "doi": "10.1016/j.jeconc.2024.100101",
+    "abstract": "Targeted financial sanctions are routinely used to combat financial crime. As they are endorsed by the United Nations and the Financial Action Task Force, the vast majority of jurisdictions have established regulatory frameworks that make provision for targeted financial sanctions. These frameworks translate into compliance obligations and expectations for so-called regulated entities, which includes banks. Although sanctions have been the subject of much discourse recently in the wake of the escalation of the Russia-Ukraine conflict, the risk of non-performance of contractual obligations due to sanctions compliance has not been explored sufficiently. The objective of this contribution is to shed light on the distinction between compliance with domestic sanctions and compliance with foreign sanctions with specific reference to the risk of non-performance of contractual obligations. It focuses on the basis and legal implications of compliance in each case within the context of the bank-customer relationship. This is undertaken primarily from a South African perspective. The contribution finds that compliance with domestic sanctions may give rise to an interference with contractual performance that is rooted in law, while compliance with foreign sanctions may necessitate an interference that is based on either a contractual provision (force majeure clause) or business and reputational considerations. In both instances, clients of banks are less certain that their payment instructions will be processed and banks, in turn, run the risk of being sued. This tension between sanctions and international banking and finance requires serious reflection by the relevant authorities. © 2024 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

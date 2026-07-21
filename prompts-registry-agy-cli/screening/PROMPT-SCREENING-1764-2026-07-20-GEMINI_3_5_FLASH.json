@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1764-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dirty money in Jamaica",
+    "authors": "Alice Young M.",
+    "year": "2014",
+    "doi": "10.1108/JMLC-09-2013-0032",
+    "abstract": "Purpose – The purpose of this paper is to examine the current state and future pressures of money laundering on Jamaica and the financial crime connections between the UK and Jamaica. Design/methodology/approach – The paper focuses on the primary data collected from a series of semi-structured interviews with members from the law enforcement and financial services sectors of Jamaica. The main objective of the interviews was to secure a range of opinions concerning the problem of money laundering in the country. Interviewees were selected from the Office of the Director of Public Prosecutions, the Financial Investigation Division of the Ministry of Finance and Planning, the British High Commission and the Financial Services Commission. The names of all subjects shall remain anonymous to protect the privacy of those who were interviewed. Findings – Through the analysis of primary data it will be shown that Jamaica remains vulnerable to money laundering – particularly the proceeds of crime laundered through the remittance sector – despite a legislative overhaul in 2007 to adopt the UK’s Proceeds of Crime Act. Ineffective legislation is most certainly due to generic weaknesses and flaws which are applicable to many Caribbean states, for example, a lack of political will to enforce anti-money laundering regulations, corruption, inadequate police training, lack of resources, a strong remittance sector and geographical positioning along a drug-trafficking route. Originality/value – This paper is the first of its kind to comprehensively analyze the money laundering situation in Jamaica, using detailed first accounts from members of the law enforcement and financial sectors. © 2014, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

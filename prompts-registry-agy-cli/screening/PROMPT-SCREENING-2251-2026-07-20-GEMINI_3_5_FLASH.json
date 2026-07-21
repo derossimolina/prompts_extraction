@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2251-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Follow the money",
+    "authors": "Wechsler, WF",
+    "year": "2001",
+    "doi": "10.2307/20050225",
+    "abstract": "Financial abuses-money laundering, tax evasion, and rogue banking-have been around for as long as there have been finances to abuse. But globalization is creating new challenges as borders dissolve. New technologies enable tiny, remote countries to make quick money through their underregulated banking systems. Recent multilateral initiatives have started to attack the problem. But if the Bush administration fails to follow through on reforms, the entire effort could fall apart.",
+    "source": "FOREIGN AFFAIRS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

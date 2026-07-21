@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1036-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Particularities of anti-money laundering methods in football",
+    "authors": "Cindori S.; Manola A.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-09-2019-0075",
+    "abstract": "Purpose: Based on an overview of the anti-money laundering initiatives in the sport sector and recent efforts of money launderers focused toward finding alternative channels for money laundering operations, the purpose of this paper is to present the modus operandi of money laundering in the football sector especially. Design/methodology/approach: Specifics of money laundering through the football sector have been analyzed using deductive and inductive methods. This paper provides a review of the existing anti-money laundering initiatives in the sport sector to highlight the specific features of sport that increase money-laundering risks in the football sector. Certain risks have been analyzed and linked to risk areas and money laundering methods as a way of demonstrating established modus operandi. Findings: Analyzed vulnerabilities that arise from the structure, financial characteristics and culture of the football sector represent an increased risk of money laundering in a condition where potential money launderers achieve status of investors, football agents or owners of football clubs and players. Taking some of these roles allows money launderers to enter into transactions related to the acquisition of ownership over football clubs or player transfers. Such types of transactions are particularly exposed to abuse for the purposes of the money laundering process due to their unique features. Originality/value: Through a wide range of clarified risks and money laundering methods applicable to the football sector, this paper offers a comprehensive review of the existing money laundering threats in the football sector and proposals of prevention. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

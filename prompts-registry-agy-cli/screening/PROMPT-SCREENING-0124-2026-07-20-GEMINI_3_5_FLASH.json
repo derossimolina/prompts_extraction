@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0124-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "When do Entrepreneur Sellers Have to Earn Their Exit?",
+    "authors": "Garofolo A.; Cox K.; Sproul C.",
+    "year": "2025",
+    "doi": "10.1515/erj-2024-0276",
+    "abstract": "Entrepreneurial exits can come with various conditions attached. This study investigates the use of earnouts in small business acquisitions, particularly with entrepreneurial firms where uncertainty and valuation challenges are prevalent. Through a comprehensive analysis of 6,184 firms between 2013 and 2019, we explore the factors influencing the likelihood of earnout inclusion, such as sell price, firm leverage, firm age, employment agreements, and noncompete clauses. Employing a Logit model and a treatment effects model, our research reveals which entrepreneurial firms have to earn their exit versus those that do not have to earn their acquisition price. The findings not only enhance our theoretical understanding of earnouts but also provide practical insights for structuring small business acquisition transactions that align buyer and seller interests, mitigate risks, and facilitate smoother post-acquisition integration. © 2024 Walter de Gruyter GmbH, Berlin/Boston.",
+    "source": "Entrepreneurship Research Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

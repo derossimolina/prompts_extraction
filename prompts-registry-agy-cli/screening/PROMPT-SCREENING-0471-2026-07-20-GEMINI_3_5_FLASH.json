@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0471-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Using Beneficial Ownership Data for Systematic Risk Assessment in Public procurement. The Example of 6 European Countries",
+    "authors": "Tello Arista I.; Fazekas M.; Volkotrub A.",
+    "year": "2026",
+    "doi": "10.1007/s10610-025-09654-9",
+    "abstract": "Despite the considerable interest, there is little evidence on the suitability of beneficial ownership data for systematic corruption risk assessment. This paper aims to validate common beneficial ownership risk indicators for proxying public procurement corruption. By implication, it offers practical insights for research, policy, and investigations. It also generates hypotheses regarding the impact of beneficial ownership registers on the organisation of financial crime. We match administrative data of 8 million government contracts with 11 million companies’ beneficial ownership records in Denmark, Estonia, Latvia, Slovakia, Ukraine, and the UK. We estimate fixed effects regressions tailored to capture non-linear relationships between company risk indicators of beneficial ownership and corruption risk indicators of public procurement. Correlations among two sets of differently constructed, yet conceptually related risk factors are interpreted as evidence for measurement validity. We find that BO-based risk indicators capturing unusual and outlier BO features - high company frequency of BO, frequent information change, outlier BO age, and no BO data - all perform in line with expected results. However, BO-based risk indicators relating to BO countries, such as sanctioned jurisdictions, largely fail to relate to public procurement corruption risks in line with expectations. Finally, BO-based risk indicators, which have already been widely validated in the literature using different data sources - company age and political connections - also turn out to be valid. Our findings lend support to the systematic use of beneficial ownership-based risk indicators in research, policy, and investigations. Our new risk assessment tools enable investigators to generate new investigative leads and policymakers to track the scale of likely corrupt transactions in public procurement. © The Author(s) 2026.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

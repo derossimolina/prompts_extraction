@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1408-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Recent changes to the AML/CFT law in Malaysia",
+    "authors": "Hamin Z.",
+    "year": "2017",
+    "doi": "10.1108/JMLC-04-2015-0013",
+    "abstract": "Purpose: The aim of this paper is to examine some of the recent changes to the old anti-money laundering and anti-terrorism financing law, which is now known as the Anti-Money Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities Act 2001. The paper will highlight the newly consolidated money laundering offences and the newly created offences including structuring of transactions or “smurfing”. Also, the transgression of cross-border movement of cash and negotiable instruments and tipping off about a money laundering disclosure will be assessed. Design/methodology/approach: The paper uses a doctrinal legal research and secondary data, with the new AML/CFT legislation as the primary source. For comparative analysis, legislations in the UK, Australia and New Zealand are also examined. Secondary sources include case law, articles in academic journals, books and online databases. Findings: The review of the AML/CFT law is timely and indicates the Malaysian government’s efforts to adhere to international standards set by the financial action task force. However, it is imperative that the Malaysian government addresses the remaining instrumental and normative deficiencies in the AML/CFT law to ensure that the recent legal changes are sufficiently comprehensive to prevent and regulate money laundering and terrorist financing within Malaysia. Originality/value: This paper is a useful source of information for legal practitioners, academicians, law enforcement, policymakers, legislators, researchers and students. © 2017, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

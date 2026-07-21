@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1055-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combating the Illicit Trafficking of Cultural Property: The Multifaceted Response to a Complex Challenge",
+    "authors": "Casertano L.",
+    "year": "2020",
+    "doi": "10.1515/gj-2019-0025",
+    "abstract": "In recent years the phenomenon of the illicit trafficking in cultural assets has been addressed by international and European lawmakers as an important phenomenon within the complex criminal networks used for the financing of international terrorism. The factors that contribute most to its development include in particular the availability of advanced technologies for plundering archaeological sites and e-commerce, which has sped up trade by breaking down space-time barriers, along also with armed conflict, political instability and poverty. In order to bring about change and put an end to the phenomenon, some significant legislative choices have recently been implemented in the European Union. The aim is to create a regime that is as uniform as possible along with a network of standardised controls capable of intercepting illicit trafficking. The concerns of art market operators surrounding the introduction of new rules and regulations can be appreciated if it is considered that the vibrant lawful market of artworks operates in accordance with tried and tested arrangements. This article will seek to provide an account of the phenomenon in its full complexity, highlighting the most significant recent developments within the European Union. It will also discuss the role of information and digital technologies in the area of cultural heritage. In particular, the existing European legal framework represented by the main legal instruments adopted by the international community and by the European Union will be sketched out, including both civil law and criminal law responses to the illicit trafficking of cultural heritage. Within this context the importance of the issues of traceability within art transactions, which are mostly paper-based, will be investigated along with other related issues such as digital tracking of artworks (digital passports), art security systems and authentication technologies. © 2020 Walter de Gruyter GmbH, Berlin/Boston 2020.",
+    "source": "Global Jurist"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

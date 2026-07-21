@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1317-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trade-based money laundering: organized crime, learning and international trade",
+    "authors": "Hataley T.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-01-2020-0004",
+    "abstract": "Purpose: The purpose of this paper is to examine the link between trade-based money laundering and organized crime. Trade-based money laundering (TBML) has emerged as the newest and possibly most complex method used by organized crime and white-collar crime groups for illegally laundering money in the international financial system. Using legitimate global trade streams, criminal organizations are able to transfer billions of dollars annually between jurisdictions without having to adhere to state-level currency regulations. Design/methodology/approach: Using a rational approach to understanding the behavior of criminal organizations, it is argued that TBML will continue to grow as a preferred methodology for laundering money internationally. As criminal organizations continue to be displaced from the more traditional methods of money laundering, they will look for and find TBML as a viable alternative for moving money between different jurisdictions. Findings: As the methodology becomes more developed, the skill set will transfer to an increasing number of organized crime groups and be incorporated as a mainstream method for laundering and moving money. Practical implications: To stay current with contemporary money laundering schemes, law enforcement agencies will have to train their investigators to spot, investigate and collect requisite evidence for successful prosecution and disruption of TBML offences. Moreover, in the absence of a global regime for sharing trade and customs information, legislators and law enforcement agencies will have to consider how to best expedite the sharing of trade and customs information. Originality/value: This is the only study to address TBML as an emerging money laundering technique and the transfer of the skill between organized crime groups. It further details the skills that police investigators needs to develop to successfully combat TBML. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

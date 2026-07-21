@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0157-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk and Reward: How Shadow Economies Impact the Financial Practices of Militant Organizations",
+    "authors": "Jadoon A.; Milton D.",
+    "year": "2025",
+    "doi": "10.1080/09546553.2024.2381211",
+    "abstract": "Violent non-state actors often maintain diverse economic portfolios to fund their operations and endure. While some tactics yield limited funds, such as opportunistic robberies or kidnappings, other activities such as smuggling and drug trafficking can produce consistently high returns, but require complex planning, coordination and execution. This study delves into the nexus between the economic environments in which militant groups operate and their funding tactics. We hypothesize that the magnitude of a state’s informal economy plays a significant role in shaping the fundraising choices of militant organizations. Specifically, groups operating within states with expansive shadow economies are likely to lean towards intricate, high-yield fundraising tactics over unpredictable, hit-or-miss methods. States with sprawling informal sectors often grapple with governance deficiencies, that provide fertile ground for collaborations between militant factions and criminal syndicates and enable them to pursue lucrative funding opportunities that demand connections and logistical infrastructure. We use the case study of FARC to illustrate our argument, and test our arguments quantitatively using group-level data on the funding activities of militant organizations around the world between 1998–2012. © 2024 Taylor & Francis Group, LLC.",
+    "source": "Terrorism and Political Violence"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

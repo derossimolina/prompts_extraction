@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2106-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ID theft: The US legal fight back",
+    "authors": "Hinde S.",
+    "year": "2004",
+    "doi": "10.1016/S1361-3723(04)00121-6",
+    "abstract": "\"We're taking an important step today to combat the problem of identity theft, one of the fastest growing financial crimes in our nation. Last year alone, nearly 10 million Americans had their identities stolen by criminals who rob them and the nation's businesses of nearly $50 billion through fraudulent transactions. The bill I'm about to sign sends a clear message that a person who violates another's financial privacy will be punished. The Identity Theft Penalty Enhancement Act also prescribes prison sentences for those who use identity theft to commit other crimes, including terrorism. It reflects our government's resolve to answer serious offences with serious penalties. This good law is part of a broader effort we've waged in recent years. The US Postal Inspection Service, the FBI, and Secret Service are working with local and state officials to crack down on the criminal networks that are responsible for much of the identity theft that occurs in this nation. The Federal Trade Commission is training local law enforcement in the detection of identity theft. The Commission has set up the ID Theft Data Clearinghouse, which keeps track of complaints across the country, and provides those records to prosecutors seeking to take down organized rings. The law I sign today will dramatically strengthen the fight against identity theft and fraud.\" © 2004 Elsevier Ltd.",
+    "source": "Computer Fraud and Security"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

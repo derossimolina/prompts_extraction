@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1348-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "AI against money laundering networks: the Colombian case",
+    "authors": "Garcia-Bedoya O.; Granados O.; Cardozo Burgos J.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-04-2020-0033",
+    "abstract": "Purpose: The purpose of this paper is to examine the artificial intelligence (AI) methodologies to fight against money laundering crimes in Colombia. Design/methodology/approach: This paper examines Colombian money laundering situations with some methodologies of network science to apply AI tools. Findings: This paper identifies the suspicious operations with AI methodologies, which are not common by number, quantity or characteristics within the economic or financial system and normal practices of companies or industries. Research limitations/implications: Access to financial institutions’ data was the most difficult element for research because affect the implementation of a set of different algorithms and network science methodologies. Practical implications: This paper tries to reduce the social and economic implications from money laundering (ML) that result from illegal activities and different crimes against inhabitants, governments, public resources and financial systems. Social implications: This paper proposes a software architecture methodology to fight against ML and financial crime networks in Colombia which are common in different countries. These methodologies complement legal structure and regulatory framework. Originality/value: The contribution of this paper is how within the flow already regulated by financial institutions to manage the ML risk, AI can be used to minimize and identify this kind of risk. For this reason, the authors propose to use the graph analysis methodology for monitoring and identifying the behavior of different ML patterns with machine learning techniques and network science methodologies. These methodologies complement legal structure and regulatory framework. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

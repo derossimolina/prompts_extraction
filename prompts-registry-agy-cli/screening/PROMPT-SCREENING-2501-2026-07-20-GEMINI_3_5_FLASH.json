@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2501-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptomarkets and carding: Influence on supply and demand",
+    "authors": "Guillot, M; Décary-Hétu, D",
+    "year": "2019",
+    "doi": "10.7202/1065856ar",
+    "abstract": "The present study describes the market activities of carding in cryptomarkets in a sample of 17,619 products or services related to carding as well as a second sample of the activities of 4,294 sellers. We were interested particularly in whether convergence settings such as cryptomarkets have an effect on the supply and demand of carding products and services. We began by creating a typology of products and services which was then used in a descriptive analyses of market share and price distribution to shed the light on how anonymization affected offers. Descriptive analyses of sellers' activities was then used to look at the impact of sales on the demand for carding products and services. The results suggest that cryptomarkets offer all that carders need to carry out the three steps of the criminal script in carding. We also found that, as with online drug dealers, the formal feedback system made it possible to improve processes that generate confidence in the system.",
+    "source": "CRIMINOLOGIE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

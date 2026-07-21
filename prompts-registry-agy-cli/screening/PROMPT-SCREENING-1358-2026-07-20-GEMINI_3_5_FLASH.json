@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1358-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing Money Laundering Risk across Regions. An Application in Italy",
+    "authors": "Riccardi M.; Milani R.; Camerini D.",
+    "year": "2019",
+    "doi": "10.1007/s10610-018-9399-9",
+    "abstract": "Most money laundering (ML) risk assessments carried out in Europe and abroad are qualitative analyses at national aggregate level. To complement current knowledge, this paper – based on the findings of the European co-funded project IARM (Identifying and Assessing the Risk of Money laundering in Europe -www.transcrime.it/iarm) – proposes a new quantitative methodology to measure ML risk across regions in a country and tests it on the 110 Italian provinces. In particular, it develops a composite indicator of ML risk, which combines a variety of risk factors (classified as threats and vulnerabilities), such as organised crime, tax evasion, cash-intensiveness and opacity of business structure. The application of the methodology to Italy reveals that the areas with the highest (relative) ML risk are in the south of the country, in particular Calabria, with some exceptions in the centre (e.g. province of Prato) and in the north (e.g. Imperia). The developed risk indicator can support policy-makers and investigators in allocating anti-money laundering (AML) resources more effectively, but it can also be helpful for obliged entities such as banks and professionals to improve their “risk based” customer due diligence activities. © 2018, Springer Nature B.V.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

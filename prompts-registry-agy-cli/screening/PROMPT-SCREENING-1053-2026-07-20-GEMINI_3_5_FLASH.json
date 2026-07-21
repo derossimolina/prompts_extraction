@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1053-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Using Police Reports to Monitor Money Laundering Developments. Continuity and Change in 12 Years of Dutch Money Laundering Crime Pattern Analyses",
+    "authors": "Soudijn M.R.J.",
+    "year": "2019",
+    "doi": "10.1007/s10610-018-9379-0",
+    "abstract": "This article is based on 4 Dutch Crime Pattern Analyses on money laundering reports. These reports are part of a four-yearly cycle that provides a periodic overview on organized crime in the Netherlands. The reports cover a time span of 12 years, starting from 2004 till 2016. During this time period, stricter anti-money laundering laws and more awareness of, and subsequently, attention to the profits of organized crime, had led to a growing number of confiscations and convictions for money laundering. Although the Crime Pattern Analyses on money laundering reports are unsuitable to study displacement effects or other situational changes (lacking precise data), they are useful as a tool for comparison and further policy research. Findings show that several changes in money laundering methods and new types of facilitators did occur. Technology is the biggest driver behind the identified changes. However, it also turns out that over the years the same money laundering methods keep returning. In such cases, no innovation was found. Even with the advent of digital opportunities and crypto currencies, cash was still extensively used. The continuity in money laundering methods suggests that the risk of detection is quite low or the consequences are negligible. © 2018, Springer Science+Business Media B.V., part of Springer Nature.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

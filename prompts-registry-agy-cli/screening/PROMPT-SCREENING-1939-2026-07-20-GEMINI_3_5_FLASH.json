@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1939-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From multi-participant talk to genuine polylogue: Shift-change briefing sessions at the hospital",
+    "authors": "Grosjean M.",
+    "year": "2004",
+    "doi": "10.1016/S0378-2166(03)00035-3",
+    "abstract": "The analysis of multi-participant talk in workplace settings raises new questions not only about specific features of polylogues, but also about the intricate connections between talk and working activity. The objects and cognitive artifacts of the work setting, the workers' functions and status, and the actions, transactions, and social rules that organize activity in the workplace all play key roles in the structuring of this multi-participant talk. Based on data from meetings between the leaving shift and the in-coming shift in three French hospital wards, the article compares different types of structuring in multi-participant talk, switching from basic participation structures (symmetrical dilogues between leaving nurses and in-coming nurses, or between leaving parties and in-coming ones) to genuine polylogues occurring at specific moments. We attempt to determine what triggers such phenomena. The resulting comparative study allows us to investigate not only the role of local norms (talk and activity organization, use of cognitive artifacts), but also the role of professional status and production formats in constructing participation frameworks during shift changeovers. © 2003 Elsevier B.V. All rights reserved.",
+    "source": "Journal of Pragmatics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

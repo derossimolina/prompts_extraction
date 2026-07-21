@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1449-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering - The need for intelligence",
+    "authors": "Lowe R.J.",
+    "year": "2017",
+    "doi": "10.1108/JFC-04-2017-0030",
+    "abstract": "Purpose - The purpose of this paper is to highlight the need for predictive intelligence to support anti-money laundering programs in the financial sector. Design/methodology/approach - The methodology adopted herein consists of a literature review on the use of intelligence in anti-money laundering, the sources of intelligence and information used in the financial sector, supported by experience gained from investigating and prosecuting money laundering cases, and the assistance provided to financial services companies. Findings - Banks and other regulated services are required to meet international standards to deny services to criminals and terrorists, identify suspicious activity and report to the authorities. Regulated businesses have large operations which check customers against sources that confirm their identity or against lists of proscribed or suspected offenders at an individual or national level. Their controls tend to look backwards when other organisations that rely on intelligence, such as the military, value predictive, forward-looking intelligence. The penalties that banks and others face for failure in their controls are increasingly severe, as looking backwards and not forwards reduces the extent to which the controls meet their purpose of reducing the impact of organized crime and terrorism. Originality/value - This paper serves as a useful guide to alert and educate anti-money laundering professionals, law enforcement and policy makers of the importance of predictive intelligence in countering organized crime and terrorism. It also considers whether lessons in intelligence handling from other areas can inform a debate on how intelligence can be developed to counter money laundering. © Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

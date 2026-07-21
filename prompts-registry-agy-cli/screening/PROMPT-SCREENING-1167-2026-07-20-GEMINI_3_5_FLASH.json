@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1167-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combatting the financing of terrorism in Austria, Germany, Liechtenstein and Switzerland: A hopeless case?",
+    "authors": "Teichmann F.M.J.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-10-2017-0058",
+    "abstract": "Purpose: Whilst the existing literature focuses on developing prevention mechanisms for banks, this paper aims to show how feasible it still is in Austria, Germany, Liechtenstein and Switzerland to finance terrorism without getting detected. Design/methodology/approach: A three-step research process, including both qualitative and quantitative methods, was applied. The empirical findings are based upon qualitative content analysis of 15 informal interviews with illegal financial services providers and 15 formal interviews with compliance experts and law enforcement officers. Findings: During those interviews, concrete and specific methods of financing terrorism and limiting the risks of facing a criminal prosecution were discussed. The interviews were analyzed based upon a qualitative content analysis. To assess the risk, which criminals, a quantitative survey among 181 compliance officers was conducted to determine what leads to investigations. Research limitations/implications: The findings are limited to the 30 interviewees’ and 181 survey participants’ perspective. Practical implications: The practical implications include suggestions for providing law enforcement and intelligence agencies with new tools, such as remote online searches of electronic devices. Originality/value: Whilst the empirical findings are based upon Austria, Germany, Liechtenstein and Switzerland, the results could be applied on European level. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1906-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring deposit insurance for a united europe",
+    "authors": "Santomero A.M.; Trester J.J.",
+    "year": "1997",
+    "doi": "10.1111/1468-036X.00036",
+    "abstract": "This paper analyses the difficulties associated with imposing a unified deposit insurance scheme in a unified Europe. Specifically, it investigates the determinants of optimal deposit insurance in light of the Commission's 1994 decision requiring mandatory minimum coverage and encouraging a single unified deposit insurance structure. Issues of deposit insurance premiums and tax burden are analysed in the context of a general equilibrium-type model. The results indicate that taxes, the optimal degree of deposit insurance, and societal risk aversion are all interrelated in such a structure. Therefore, a common insurance system may not be feasible nor appropriate for a first best solution; co-ordination and even unified taxation may be necessary. At the minimum, exceedingly close macroeconomic policy co-ordination will be necessary for the single market for financial services to come to fruition and achieve stability. © 1997 Blackwell Publishers Ltd.",
+    "source": "European Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1464-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Identifying money laundering: Analyzing suspect financial conduct against the speed, cost, and security of legitimate transactions",
+    "authors": "Sterling S.",
+    "year": "2015",
+    "doi": "10.1108/JMLC-08-2014-0025",
+    "abstract": "Purpose – This study aims to develop a newer, revised model of money laundering of general application, and to apply that updated laundering model to the use of cash in Canada. A wide-ranging analytical tool for identifying money laundering is described, which demands a comparative evaluation of available financial choices against choices made, concentrating on factors which matter most to economic enterprises: speed, cost and security. The model is applied to bulk cash money laundering and the use of cash in the Canadian context, a mature economy where cash is predominantly used for micro-payments. The inference of criminality to be drawn from bulk use of cash is explored, as is any need for continued circulation of large denomination banknotes. Design/methodology/approach – Extensive criminal investigative experience is juxtaposed with practices of legitimate commerce. As to patterns of transactional conduct, a review is undertaken of publications from financial institutions including the Bank of Canada. Findings – The model may be applied generally. In light of modern banking realities, strong inferences of criminality arise from the bulk use of cash. Research limitations/implications – Documented standards of legitimate commerce and proven laundering behaviours provide more reliable evidence than voluntary disclosures from surveys. Practical implications – The model promotes an objective analysis of financial conduct either in conjunction with, or independent of extrinsic evidence, and can augment historic lists of laundering indicators and identify new laundering typologies. Originality/value – The speed, cost and security model moves towards a renewed paradigm for understanding laundering, beyond traditional cash-based models. This instructive model applies to the full spectrum of laundering, from frauds to cash-based street crimes. By examining the inherent characteristics of financial choices, investigations may proceed without tipping off targets. The model maximizes the investigative value of know-your-customer information. © 2015, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

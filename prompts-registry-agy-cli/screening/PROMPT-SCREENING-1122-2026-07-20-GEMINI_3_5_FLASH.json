@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1122-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Balancing anti-money laundering measures and financial inclusion: The example of the United Kingdom and Nigeria",
+    "authors": "Esoimeme E.E.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-04-2018-0031",
+    "abstract": "Purpose: The purpose of this paper is to critically examine the anti-money laundering measures of the UK and Nigeria, to determine what the best approach is. The best approach is likely the one that strikes a fair balance between protecting the financial system against money laundering and promoting financial inclusion. Design/methodology/approach: This paper relies mainly on primary and secondary data drawn from the public domain. It also relies on documentary research. Findings: This paper critically analysed the anti-money laundering measures of the UK and Nigeria to determine that the anti-money laundering measures of Nigeria does not strike a fair balance between protecting the financial system against money laundering and promoting financial inclusion because it does not expressly provide for verification of a customer’s identity at the account opening stage for low risk accounts. The paper, however, determined that the anti-money laundering measures of the UK does strike a fair balance between protecting the financial system against money laundering and promoting financial inclusion because it requires customer identification and verification before the establishment of a business relationship for customers who want to open a basic bank account. Research limitations/implications: This paper focuses on the anti-money laundering and financial inclusion measures in the UK’s Payment Accounts Regulations 2015 and the Central Bank of Nigeria’s (Anti-Money Laundering and Combating the Financing of Terrorism in Banks and Other Financial Institutions in Nigeria) Regulations, 2013. Originality/value: This paper offers a critical analysis of the anti-money laundering and financial inclusion measures of the UK and Nigeria as provided in the UK’s Payment Accounts Regulations 2015 and the Central Bank of Nigeria’s (Anti-Money Laundering and Combating the Financing of Terrorism in Banks and Other Financial Institutions in Nigeria) Regulations, 2013. The paper will provide recommendations on how the measures could be strengthened. This is the only article to adopt this kind of approach. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

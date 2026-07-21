@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2057-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering in Canada: a quantitative analysis of Royal Canadian Mounted Police cases",
+    "authors": "Schneider S.",
+    "year": "2004",
+    "doi": "10.1108/13590790410809220",
+    "abstract": "Analyses how money made from entrepreneurial crime is disbursed through Canada’s legitimate economy; this is one of the first quantitative studies of money laundering using a survey of police cases, and the exclusive source of primary data was the Royal Canadian Mounted Police proceeds of crime files. Finds that drug trafficking is the largest single source of these proceeds, that banks and real estate are the main destinations of the revenues, and that methods used involved hiding their true ownership and source by using nominees and establishing legitimate companies, avoiding suspicion by using “smurfs”, and avoiding reporting requirements by structuring transactions. Describes the design of the research and gives a typology of money laundering operations. © 2004, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

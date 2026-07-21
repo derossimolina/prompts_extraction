@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2284-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "INNOVATION TECHNOLOGY AND CYBER FRAUDS RISKS OF NEOBANKS: GRAVITY MODEL ANALYSIS",
+    "authors": "Koibichuk, V; Ostrovska, N; Kashiyeva, F; Kwilinski, A",
+    "year": "2021",
+    "doi": "10.21272/mmi.2021.1-19",
+    "abstract": "In the system of global information space, it is important to adequately calculate and assess the factors of successful functioning of the banking system, which are directly the engines of the country's development, economic stability, especially from the standpoint of qualitative measurement of innovative technology and human capital in rapid cyber fraud. The work is devoted to studying factors that describe the components of efficiency and potential use of innovative technologies in neo-banking in 90 countries to determine the level of risk of their use for money laundering based on gravitational modeling methodology. The authors substantiated that using four factors consisting of 13 components of digital evolution is expedient. Three indicators (access infrastructure, transaction infrastructure, and fulfillment infrastructure) allowed forming the supply condition factor. It provides a score on developing digital and physical infrastructure to ensure the digital economic system's quality. The demand conditions factor consists of 4 indicators (human quality level, device absorption level and digital broadband level, digital payment absorption), which show how much consumers are willing and able to participate in the digital economic system and whether they have the tools and skills needed to connect to the digital economy. Three indicators (institutional effectiveness and trust, institutions and the business environment, institutions and the digital ecosystem) shaped the institutional environment factor. It relates to research on countries' support for digital legislation, governments' investment in digitalization, and regulations. Regulate the quality of storage and access to digital data. The fourth factor of innovation and change consists of three features that characterize the state of key innovative economic system inputs (talents and capital), processes (i.e., cooperation between universities and industry), and outputs (i.e., new scalable digital products and services). The generalized indicator was formed based on these indicators. It characterizes the degree of risk of using the services of neobanks of the studied countries by economic agents or individuals to legalize criminal proceeds. At the first stage of the proposed method, the authors substantiated the statistical significance and possibility of using the studied indicators. The procedure of logarithmic normalization was carried out. The toolkit of descriptive statistics of the Statgaphics Centurion package provided the normalization parameters. In the second stage, the indicators were collapsed using a geometric weighted average, which provides meaningful information about the average dynamics rate. The third stage provided calculating the value of the integrated rating assessment of the degree of risk of using innovative technologies, services, and neobanking services for money laundering based on gravity modeling methods. The findings showed that 12.22% of the studied countries had a high degree of risk, 25.56% - a medium level of risk, 25.56% - a risk below the average level, for 36.66% of countries - the risk was almost absent.",
+    "source": "MARKETING AND MANAGEMENT OF INNOVATIONS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

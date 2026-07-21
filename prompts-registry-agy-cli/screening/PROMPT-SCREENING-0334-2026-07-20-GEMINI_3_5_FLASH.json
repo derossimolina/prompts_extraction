@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0334-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mitigating Class Imbalance in Banking Transactions: A Graph-Based GAN Solution for Fraud Detection",
+    "authors": "K K G.; B V A.; Reddy H.P.; Mayur N.R.; Bhowmik B.",
+    "year": "2026",
+    "doi": "10.1007/s10614-025-11219-1",
+    "abstract": "In an era of complex digital transactions, financial fraud detection remains a critical challenge for institutions worldwide. Financial datasets are often highly imbalanced, with fraudulent transactions constituting only a small fraction of the overall volume. This imbalance hinders machine learning models, leading to diminished accuracy in identifying minority-class instances. To address this issue, this paper provides a comprehensive comparative analysis of various class imbalance adjusting schemes—including resampling, cost-sensitive, and ensemble methods—and highlights their respective limitations in handling complex transactional data. Building on these insights, the paper proposes a novel approach that integrates Conditional Generative Adversarial Networks (CGAN) with Graph Attention Networks (GAT). The CGAN+GAT framework synthesizes high-fidelity minority-class samples while preserving the intricate relational structures inherent in financial transactions. Extensive experiments on the IBM Transactions for Anti-Money Laundering (AML) dataset demonstrate that CGAN+GAT outperforms traditional resampling methods, cost-sensitive approaches, and baseline graph-based models in both statistical fidelity and classification performance. Evaluation metrics, including accuracy, F1-score, and G-Mean, indicate that the CGAN+GAT approach achieves superior detection rates, significantly reducing false negatives. This research underscores the importance of combining generative modeling with graph-based attention mechanisms to enhance fraud detection in highly imbalanced, complex financial datasets. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2026.",
+    "source": "Computational Economics"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

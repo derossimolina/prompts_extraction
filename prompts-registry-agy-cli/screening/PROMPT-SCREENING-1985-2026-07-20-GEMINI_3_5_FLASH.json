@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1985-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The effect of corruption factor in harnessing global anti&hyphen;money laundering regimes",
+    "authors": "Mugarura N.",
+    "year": "2010",
+    "doi": "10.1108/13685201011057145",
+    "abstract": "PurposeThe purpose of this paper is to examine the effect of corruption on the transposition of global anti&hyphen;money laundering regimes &lpar;AML&rpar;, such as customer due diligence &lpar;CDD&rpar; locally. Design&sol;methodology&sol;approachThe global AML framework for purposes of this paper is underscored by the 40&plus;9 recommendations of the Financial Action Task Force &lpar;FATF&rpar; and the principles of the Basle Committee on Banking Supervision. These standards are contained in FATF recommendations 2003&semi; and the FATF nine special recommendations against Financing of Terrorism 2001 &lpar;updated in February 2008&rpar;. The paper examines some aspects of the current anti&hyphen;money laundering and combating financing of terrorism &lpar;AML&sol;CFT&rpar; framework such as CDD and know your customer to highlight the challenges of harnessing the global AML&sol;CFT regimes locally in some jurisdictions. FindingsThe paper establishes that money laundering &lpar;ML&rpar; and corruption are embedded in each other. By way of examples, cases of ML are rampant in highly corrupt countries. Research limitations&sol;implicationsThe dichotomy of corruption and its effect negates the global efforts on fighting ML&sol;financing of terrorism. Social implicationsCorruption in its various manifestations undermines a country's capacity to harness the global framework against ML and financing of terrorism. Thus, the twin offences of corruption and ML should be accorded the same level of attention as serious financial crimes at a global level. Originality&sol;valueThe paper is written based on the challenges of harnessing the global AML&sol;CFT regimes in inherently corrupt governments. It draws particularly on experiences of corruption and ML in some countries in Africa. © 2010, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

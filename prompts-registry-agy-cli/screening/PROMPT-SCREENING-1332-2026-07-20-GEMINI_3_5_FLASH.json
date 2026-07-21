@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1332-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sanctionable misconduct in the procurement legislation of azerbaijan",
+    "authors": "Aliyev T.",
+    "year": "2019",
+    "doi": "10.21552/epppl/2019/1/8",
+    "abstract": "The Republic of Azerbaijan, as a young member of the Council of Europe, which ratified and implemented to its legislation the provisions of numerous conventions against corruption as well as other international agreements on combating transnational crimes, money laundering and other corruption-related misconduct, and by being a developing country and benefiting from loans and other funds provided by the World Bank Group (WBG), should substantially upgrade its anti-corruption legislation and especially in the procurement area in order to keep pace with fast changing international standards. Whilst the concept of corruption may be more or less universal both in the national legislation and international normative documents, the notions of fraud and other ‘corruption-related’ misbehaviour in laws of Azerbaijan should be clearly defined and advanced to match the definitions used by the WBG and other multilateral development banks. And when they are legibly defined, the grounds for the exclusion and debarment of bidders and contractors committing such misconduct and sanctions should be broadened and differentiated with an eye to ensure fairness of the procurement process and harmonization with regulations applied internationally. In this work the terms of corruption, forgery, fraud and coercion according to the national legislation of Azerbaijan and the WBG standards have been analysed and compared. Further, in order to demonstrate legal shortages and loopholes at the national level, the legal grounds for the exclusion and debarment of bidders committing corruption-related acts at procurement procedures in Azerbaijan and its champion company SOCAR, and the type of applicable sanctions, with comparison to the provisions of the suspension and debarment standards employed by the WBG, have been described. Finally, the author has tried to offer proposals on the elimination of regulatory gaps for the purpose of ensuring the effectiveness and fairness of procurement-related exclusion and debarment process in Azerbaijan. © 2019, Lexxion Verlagsgesellschaft mbH. All rights reserved.",
+    "source": "European Procurement and Public Private Partnership Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

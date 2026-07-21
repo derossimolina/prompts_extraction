@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1033-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Factors Influencing Mobile Banking Adoption in Cambodia: The Structuring of TAM, DIT, and Trust with TPB",
+    "authors": "Norng S.",
+    "year": "2022",
+    "doi": "10.14707/ajbr.220133",
+    "abstract": "There is a significant growth in mobile banking adoption, accompanied by service providers such as financial institutions or banks in Cambodia; however, little is known about customers’ attitude and intention to adopt mobile banking. Therefore, this study aims at analyzing factors that influence customers’ intention to adopt mobile banking by structuring the Technology Acceptance Model, the Diffusion of Innovation Theory, and Trust with the Theory of Planned Behavior. The study uses a survey questionnaire with 385 mobile banking adopters who live in Phnom Penh City. By using Amos software to run confirmatory factor analysis and path analysis, the result shows that perceived usefulness and perceived ease of use have a significant positive effect on attitude. Furthermore, attitude, subjective norm, perceived compatibility, and observability positively affect behavioral intention. However, trust does not have a significant impact on behavioral intention. Finally, perceived behavioral control significantly interacts between attitudes and behavioral intention. © 2022, Asia Business Research Corporation. All rights reserved.",
+    "source": "Asian Journal of Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

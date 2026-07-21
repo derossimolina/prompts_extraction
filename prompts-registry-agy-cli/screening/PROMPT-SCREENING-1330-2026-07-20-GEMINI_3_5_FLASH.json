@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1330-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax evasion in the media: a comparison of Southern vs Central and Northern Italy",
+    "authors": "Mangani A.",
+    "year": "2019",
+    "doi": "10.1108/JFC-12-2017-0124",
+    "abstract": "Purpose: The representation of economic and financial crimes in the mass media can have a significant impact on readers’ and citizens’ perceptions of illegality and on a firm’s propensity to invest in different areas of the country in question. This paper aims to study the possible geographical media bias regarding tax evasion in Italy. Design/methodology/approach: The empirical analysis considers 618 articles on tax evasion published between 2012 and 2016 in two top Italian newspapers, La Repubblica (based in Rome) and Il Corriere della Sera (based in Milan). Findings: Excluding Insular Italy (Sicily and Sardinia), the articles on tax evasion in Southern Italy are systematically shorter. A further analysis shows that La Repubblica is largely responsible for this bias. This result holds after controlling for other events (bank robberies) and for the identity of journalists. Originality/value: Previous studies considered the possible media bias regarding particularly dramatic criminal events, for example, terrorism acts or murders. This paper considers a less dramatic though more pervasive crime. In addition, an assessment of media attitude towards tax evasion is more complex, because the news reports both the crime and the successful actions that combat it. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

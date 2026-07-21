@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1550-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Responsibilities of Shariah Banking in the application of Prudential Principles and Good Corporate Governance.; [TANGGUNG JAWAB BANK SYARIAH DALAM PENERAPAN PRINSIP KEHATI-HATIAN DAN GOOD CORPORATE GOVERNANCE]",
+    "authors": "Supriyatni R.",
+    "year": "2012",
+    "doi": "10.15408/ajis.v12i1.985",
+    "abstract": "A Bank’s functions as an intermediary institution is interesting in relation to the importance of responsibilities to customers in applying the principles of Good Corporate Governance (GCG). The application of the principle of prudence and good corporate governance in shariah banking is useful in minimizing risks that may arise from moral hazards and avoid transactions in money laundering. The responsibility of shariah banks in the distribution of Islamic finance is basically just a little different from its application in commercial banks, caused by differences between systems that are applied by conventional banks with a shariah system which directly impact on the rules used and structures of shariah banks. © 2012, Syarif Hidayatullah State Islamic University (UIN) Jakarta. All rights reserved.",
+    "source": "Ahkam: Jurnal Ilmu Syariah"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

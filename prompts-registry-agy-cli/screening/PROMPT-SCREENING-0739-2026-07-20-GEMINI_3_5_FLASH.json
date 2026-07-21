@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0739-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mechanisms for interaction of law enforcement agencies in the field of countering money laundering",
+    "authors": "Bondarenko O.; Utkina M.; Reznik O.; Dumchikov M.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-01-2023-0006",
+    "abstract": "Purpose: The purpose of this paper is to develop a new methodology for the interaction of law enforcement agencies with each other, financial institutions and other legal entities in the field of counteracting and combating the legalization of criminal income as a prerequisite for increasing the effectiveness of their activity in the area of countering and combating money laundering, which will improve the conditions for the development of the financial system and increase the level of living of the population of Ukraine. Design/methodology/approach: An interdisciplinary approach was used during the writing of the paper. In particular, legal techniques, analysis and generalization, sociological research, questionnaires, etc., were used. Findings: This paper demonstrates the need for a comprehensive approach to effectively building cooperation between law enforcement agencies in another money laundering. A proposal is made to improve the interaction between law enforcement agencies, financial institutions and other legal entities by creating a single database of information on money laundering and suspicious transactions and involving financial intelligence units in the process of investigating cases of money laundering. Practical implications: Law enforcement agencies can use the proposed approach to ensure the effectiveness of their activities in counteracting and combating money laundering. Originality/value: The authors have developed a new approach to improving the interaction of law enforcement agencies in the field of counteracting and combating money laundering, which involves the creation of a single database of information on money laundering and suspicious transactions, as well as the involvement of financial intelligence units in the process of detecting and investigating cases of money laundering. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

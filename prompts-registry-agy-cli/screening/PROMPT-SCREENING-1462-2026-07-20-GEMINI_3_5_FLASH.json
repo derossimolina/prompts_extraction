@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1462-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hawala and Money Laundering: Potential Use of Red Flags for Persons Offering Hawala Services",
+    "authors": "Soudjin M.",
+    "year": "2015",
+    "doi": "10.1007/s10610-014-9238-6",
+    "abstract": "Hawaladars, like employees from regular financial institutions, can come into contact with criminal money. The important question is: How do they deal with those situations? Regular financial institutions have introduced all manner of due diligence to lessen such risks and comply with anti-money-laundering regulations. However, it is less clear what precautions hawaladars have taken. If they knowingly handle criminal proceeds, they are guilty of money-laundering offences. If they unknowingly handle criminal proceeds, it becomes important to increase their awareness about such possibilities. To make better informed statements about any involvement of hawaladars in the transfer of criminal money, for this article, police files were studied in which hawaladars facilitated criminal clients. This results in two outcomes: First, seven “red flags” regarding transactions involving criminal clients were identified. These are subjective indicators a hawaladar could use to identify criminal transactions. Second, with these red flags in hand, it can be determined whether hawaladars in police files could reasonably be found guilty of money laundering. Ultimately, these results could contribute to identifying the possibilities and impossibilities of formal financial supervision of the hawala sector. © 2014, Springer Science+Business Media Dordrecht.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

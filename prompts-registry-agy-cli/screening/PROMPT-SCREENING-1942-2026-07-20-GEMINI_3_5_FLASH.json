@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1942-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The aftermath of the financial crisis: Poor compliance and new risks for the integrity of the financial sector",
+    "authors": "Hardouin P.",
+    "year": "2011",
+    "doi": "10.1108/13590791111127723",
+    "abstract": "Purpose - The purpose of this paper is to evaluate the international community efforts through the OECD and the Financial Action Task Force (FATF) in confronting tax evasion and money laundering (ML). Design/methodology/approach - The paper is based on the confrontation of OECD's and FAFT's results with data produced by the World Bank and Transparency International. Findings - The G20 has speeded up the fight against tax evasion. There is no dilemma between confronting tax evasion or organized crime/terrorist ML but a potential crowding out effect and a risk of facade compliance. Corruption and poor governance have regional aspects but generate money for global laundering. The OECD is impressive in countering tax evasion. Its listing is not universal and gives satisfaction to jurisdictions having bad corruption/governance indicators. The FATF's record is striking but governance remains an issue as well as fair cooperation, and the ML and terrorist financing (TF) threat is evolving. New risks include tax evasion know-how, facade compliance, rising bad banks and financial centres in poorly governed jurisdictions. There is a destabilizing effect in the competition and linkage between weakly and highly compliant institutions and jurisdictions. The misuse of the financial sector has a bright future as long as poor governance continues to affect jurisdictions. Practical implications - The paper is a call to practitioners, professionals and policy makers for keeping the momentum on ML and taking into account governance indicators. Originality/value - The paper puts a parallel between the actions of the international community on tax evasion and ML and confronts official results with relevant assessments on corruption and governance. © 2011 Emerald Group Publishing Limited. All rights reserved.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

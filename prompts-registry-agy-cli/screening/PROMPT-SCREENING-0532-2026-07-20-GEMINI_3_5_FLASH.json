@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0532-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Forensic investigation framework for cryptocurrency wallet in the end device",
+    "authors": "Park A.-H.; Ryu H.; Park W.; Jeong D.",
+    "year": "2023",
+    "doi": "10.1016/j.cose.2023.103392",
+    "abstract": "Cryptocurrency is increasingly being utilized in criminal activities such as money laundering and the acquisition of illicit goods from darknet markets, due in part to its pseudonymous and decentralized nature. Despite this, there is currently no widely accepted digital forensic framework to assist in the investigation of cryptocurrency-related crimes. To address this gap, we propose a three-phase framework for the forensic examination of cryptocurrency wallets. This framework consists of three distinct stages: Forensic Readiness, Acquisition, and Investigation. The aim of this study is to offer investigators a standardized methodology for conducting cryptocurrency investigations. To assess the validity of our proposed framework, we conducted experiments using three well-known cryptocurrency wallets. The results of these experiments indicate that the proposed framework holds significant potential as a general framework for cryptocurrency forensics. © 2023 Elsevier Ltd",
+    "source": "Computers and Security"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1773-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illicit Global Wealth Chains after the financial crisis: micro-states and an unusual suspect",
+    "authors": "Sharman J.C.",
+    "year": "2017",
+    "doi": "10.1080/09692290.2015.1130736",
+    "abstract": "Since the financial crisis, various supra-national initiatives have targeted banking and corporate secrecy, the conventional underpinnings of the illicit Global Wealth Chains through which money from tax evasion, corruption and other financial offences are passed across borders. This paper analyses the varying impact of these initiatives on the diverse types of Wealth Chains running through two stereotypical havens, Liechtenstein and the Seychelles, and one G20/OECD (Organisation for Economic Cooperation and Development) member rarely associated with illicit financial flows, Australia. Recent campaigns have had a significant impact on illicit Global Wealth Chains connected to micro-state tax havens, while leaving those to Australia unaffected. Even with reference to the micro-state havens, however, outside regulatory shifts have in some cases changed the flow or form of Wealth Chains by unintentionally creating new opportunities for offshore finance. Evidence is drawn from interviews and fieldwork in all three countries, secretly recorded footage of intermediaries explaining the workings of illicit Wealth Chains, and corporate and property records collected by a private investigator engaged by the author. © 2016 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Review of International Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

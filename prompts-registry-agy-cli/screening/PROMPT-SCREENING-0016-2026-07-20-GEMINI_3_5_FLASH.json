@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0016-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tensor Fusion-Based Ethereum Phishing Scams Detection From Fund Transfer Patterns in Social Fintech",
+    "authors": "Wang S.; Yang L.T.; Deng X.; Zou C.; Gao H.; Liu S.; Feng W.",
+    "year": "2025",
+    "doi": "10.1109/TCSS.2025.3610452",
+    "abstract": "As a key infrastructure for social fintech ecosystems, ethereum enables decentralized finance (DeFi) applications where security issues directly compromise ecosystem stability. Among critical security concerns, ethereum phishing scams stand as typical scams. Criminals employ distinctive fund transfer patterns (e.g., money laundering stages: placement, layering, and integration) to obscure illicit funds through long transaction paths. While graph neural networks (GNNs) dominate detection methods, they fail to model these long paths effectively. To address this, we propose the first framework to detect phishing scams through explicitly modeling fund transfer patterns. Our novel method, IMPUTATION, introduces: 1) a heuristic fund transfer path graph construction method utilizing iterative transaction pairing to capture complicated fund transfer patterns; 2) role-topology account embeddings encoding fund transfer patterns; 3) attention fusion leveraging initial transactions to suppress path noise; and 4) heterogeneous correlation graphs with weighted adjacency reconstruction modeling interpath dependencies. Extensive experiments demonstrate that IMPUTATION outperforms on all five metrics and detecting Ethereum phishing scams from fund transfer patterns is effective. © 2014 IEEE.",
+    "source": "IEEE Transactions on Computational Social Systems"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

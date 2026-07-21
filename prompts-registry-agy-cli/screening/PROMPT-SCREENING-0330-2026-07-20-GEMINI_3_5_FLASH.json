@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0330-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An American mosque and the migrating imam: The Shi‘i revival between Lebanon, Iraq, and the USA",
+    "authors": "Cooper-Davies C.",
+    "year": "2026",
+    "doi": "10.1017/S1740022825100405",
+    "abstract": "This article reconstructs the religious and political activities of the Lebanese Shi‘i scholar Mohamad Jawad Chirri, who founded the first purpose-built Shi‘i mosque in the United States in 1963. It uses Chirri’s biography to explain the institutional, ideological, and political concerns structuring the global Shi‘i revival of the mid-twentieth century, as well as the strategies adopted by Islamic revivalist figures to achieve their institutional ambitions in a competitive and increasingly globalized religious marketplace. A hypermobile activist who lived and travelled between southern Lebanon, southern Iraq, Michigan, and West Africa, Chirri’s institutional initiatives and public activism took place outside the purview of the centres of Shi‘i religious authority in southern Iraq and Iran. The article argues that Chirri’s work, thought, and legacy complicate diffusionist understandings of Islamic revivalist activity as an ideologically coherent project of politicization or radicalization in the years surrounding the 1979 Islamic Revolution in Iran. The ‘global’ Shi‘i revival should instead be understood as an entanglement of institutional projects linked by transnational familial, professional, and financial networks emerging in the 1950s. © The Author(s), 2026.",
+    "source": "Journal of Global History"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1291-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "De-risking: An unintended consequence of the risk-based approach applied by banks regarding money laundering and terrorist financing prevention; [De-risking: Una consecuencia indeseada del enfoque basado en el riesgo aplicado por los bancos en materia de prevenciÓn del lavado de activos y financiamiento del terrorismo]",
+    "authors": "Milos Á.T.",
+    "year": "2020",
+    "doi": "10.4067/S0718-34372020000100003",
+    "abstract": "In recent years, it has been observed that several banks around the world have decided not to initiate, or terminate, pre-existing commercial relationships with clients considered to be of higher risk regarding money laundering and/or terrorist financing (ML/TF). The study of this phenomenon, known as de-risking, is the main objective of this work. The article reviews the context in which this practice has been originated, examines the main causes and repercussions attributed to it in relation to the prevention of ML/TF, as well as those categories of clients affected by it, both in Chile and abroad, and identifies some possible ways of solving this phenomenon. © 2020 Pontificia Universidad Catolica de Chile. All rights reserved.",
+    "source": "Revista Chilena de Derecho"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

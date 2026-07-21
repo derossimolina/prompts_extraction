@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0702-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The New Hungarian Legislation on Money Laundering and the Current Challenges of Cryptocurrencies",
+    "authors": "Ambrus I.; Mezei K.",
+    "year": "2022",
+    "doi": "10.2478/danb-2022-0016",
+    "abstract": "Money laundering is one of the most important criminal offences today, perceived in the context of economic operation. Nevertheless, money laundering is a constantly changing phenomenon that is also influenced by the latest technological advancements. In this study, our aim is, after briefly outlining the phenomenon of money laundering, to review the new statutory definition(s) and those assessment criteria that may also be of significance for legal practice in this context from 2021 onwards in Hungary. Subsequently, we will describe the current challenges of cryptocurrencies regarding the new Hungarian and EU legislation on money laundering. The method we use is criminal law-dogmatic and retrospective analysis. The analysis concluded that the Hungarian legislator has significantly broadened the scope of money laundering, and a much wider spread of this offence is predicted for the future. © 2022 István Ambrus et al., published by Sciendo.",
+    "source": "Danube"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

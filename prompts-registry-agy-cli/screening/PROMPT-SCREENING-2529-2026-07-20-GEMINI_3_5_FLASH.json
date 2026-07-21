@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2529-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cooperation costs, governance choice and alliance evolution",
+    "authors": "White, S",
+    "year": "2005",
+    "doi": "10.1111/j.1467-6486.2005.00548.x",
+    "abstract": "While researchers in alliance management have identified the duality of cooperation and control within alliances, comparative governance scholars have not yet developed a coherent framework for relating the costs of cooperation to governance choices. This paper proposes a theory of cooperation costs highlighting the importance of joint task complexity, interpartner diversity, equity and strategic implications on the perception of alliance value and the formation and evolution of hybrid governance structures. A tolerance frontier is used to predict conditions for alliance failure both ex ante and after formation, as well as conditions under which an alliance will evolve once formed. The framework is illustrated through an analysis of the initial structuring and subsequent changes in the NedCar alliance between Mitsubishi Motors and Volvo, and implications for further research are discussed.",
+    "source": "JOURNAL OF MANAGEMENT STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

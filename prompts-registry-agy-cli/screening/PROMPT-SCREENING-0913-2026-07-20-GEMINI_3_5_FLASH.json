@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0913-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Novel Heuristic-Based Selective Ensemble Prediction Method for Digital Financial Fraud Risk",
+    "authors": "Xia P.; Zhu X.; Charles V.; Zhao X.; Peng M.",
+    "year": "2024",
+    "doi": "10.1109/TEM.2024.3385298",
+    "abstract": "In the era of Artificial Intelligence and Big Data, financial fraud is inevitable. This article proposes ENKMRH, a novel selective ENsemble prediction method based on K-Means++ and the Refractive Inverse Learning Harris Hawks Optimization algorithm (RILHHO), for combatting fraud risk in digital financial systems, designed to adapt to complex, high-dimensional, and nonlinear financial data. First, we innovatively apply K-means++ for the diversified selection of well-performing base learners and employ distance-based selection to preliminarily select partial learners with better overall performance. This approach conserves computing resources and improves the generalization ability and stability of the ensemble system. Second, we introduce chaos initialization, an improved position update, an escape energy strategy based on biological principles, and RILHHO. RILHHO is designed to provide an efficient and precise selection strategy for the selective ensemble prediction of digital financial fraud risk. Finally, we apply the proposed model to three typical real-world problems in digital financial fraud: internet consumer credit fraud, online lending fraud, and money laundering risk prediction. The experimental results demonstrate that ENKMRH outperforms other state-of-the-art basic techniques and ensemble learning models, achieving the highest accuracy rates of 81.39%, 88.68%, and 93.80% across three financial fraud datasets. The research findings offer crucial guidance to financial practitioners, aiding in investment decisions and bolstering financial stability and security. Furthermore, they enhance institutions' risk management capabilities, fostering sustainable growth and prosperity. This article intertwines financial risk management with the domains of technology and engineering management, utilizing advanced algorithms and data analytics techniques to tackle modern challenges in digital financial systems. © 1988-2012 IEEE.",
+    "source": "IEEE Transactions on Engineering Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

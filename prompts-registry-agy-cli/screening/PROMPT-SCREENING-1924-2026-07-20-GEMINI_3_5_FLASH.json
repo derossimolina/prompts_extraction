@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1924-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Can we share questions Performance of questions from different question banks in a single medical school",
+    "authors": "Freeman A.; Nicholls A.; Ricketts C.; Coombes L.",
+    "year": "2010",
+    "doi": "10.3109/0142159X.2010.486056",
+    "abstract": "Background: To use progress testing, a large bank of questions is required, particularly when planning to deliver tests over a long period of time. The questions need not only to be of good quality but also balanced in subject coverage across the curriculum to allow appropriate sampling. Hence as well as creating its own questions, an institution could share questions. Both methods allow ownership and structuring of the test appropriate to the educational requirements of the institution. Method: Peninsula Medical School (PMS) has developed a mechanism to validate questions written in house. That mechanism can be adapted to utilise questions from an International question bank International Digital Electronic Access Library (IDEAL) and another UK-based question bank Universities Medical Assessment Partnership (UMAP). These questions have been used in our progress tests and analysed for relative performance. Results: Data are presented to show that questions from differing sources can have comparable performance in a progress testing format. Conclusion: There are difficulties in transferring questions from one institution to another. These include problems of curricula and cultural differences. Whilst many of these difficulties exist, our experience suggests that it only requires a relatively small amount of work to adapt questions from external question banks for effective use. The longitudinal aspect of progress testing (albeit summatively) may allow more flexibility in question usage than single high stakes exams. © 2010 Informa Healthcare Ltd.",
+    "source": "Medical Teacher"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

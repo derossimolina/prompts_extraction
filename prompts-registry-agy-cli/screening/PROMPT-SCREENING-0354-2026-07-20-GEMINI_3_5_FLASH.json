@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0354-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An investigation into public finance for potential high growth sustainable start-ups: the case of France",
+    "authors": "Deffains-Crapsky C.; Nze-Obame J.-H.; Owen R.",
+    "year": "2026",
+    "doi": "10.1080/13691066.2026.2641221",
+    "abstract": "The French private equity ecosystem is characterised by the presence of Bpifrance, a state investment bank (SIB) which has structured and streamlined the sector since its creation in 2013. On the demand side, this research questions the influence of Bpifrance, as a direct public investor with sustainable venture capital objectives for environmental and social public good. France’s venture capital market is examined on the length of time between early-stage venture capital funding rounds and the ability of funded ventures, including those with deep tech and sustainable development goals (SDGs), to progress along the stages of the finance escalator. To answer this question, data was collected from Dealroom, a platform that provides investment information on a large number of startups in different countries over their lifecycle. An event history analysis is conducted on a sample of 3741 French ventures that raised their first seed funds between 1990 and 2023. The results confirm the impact of Bpifrance and the various public programmes that accompanied it on the structuring of the French venture capital ecosystem. On the other hand, the results question the ability of Bpifrance to support start-up companies with disruptive social and/or environmental innovations that require patient capital and significant risk-taking. © 2026 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Venture Capital"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

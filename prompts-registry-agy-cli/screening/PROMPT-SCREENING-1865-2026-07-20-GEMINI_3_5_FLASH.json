@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1865-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Allocation of Responsibilities and Resources among the Three Levels of Government",
+    "authors": "Charlesworth J.C.",
+    "year": "1965",
+    "doi": "10.1177/000271626535900109",
+    "abstract": "There have been many studies of the allocation of responsibilities and services among the various levels of government in the United States, but some of them have not been objective; they have advocated transfers from one level to another because of a desire to be rid of a costly activity. The question of how best to allocate services cannot be sepa rated from the availability of tax resources. But the inci dence of the principal taxes in America has shifted radically throughout our history. Services should be allocated on the basis of optimum administrative and policy-making considera tions, and architects of these optimum arrangements should demand that the appropriate adjustments be made in the tax structure. A detailed examination of administrative and policy-making realities indicates that a number of changes are in order: (1) the states should extend their control over bank ing, public and private housing, roads, narcotics, civil rights, natural parks, labor relations, public assistance, elections ad ministration, factory inspection, agriculture, uses of leisure, and intrastate utilities. (2) Fragmentized services like pub lic health and education should be taken out of small districts and administered by units large enough to permit profession alization and specialization. (3) Services which are essen tially national in scope, like military training and the regula tion of insurance, should be transferred from the states to the federal government. Finally, we should promote an exten sion program of functional consolidation of local governments. © 1965, SAGE Publications. All rights reserved.",
+    "source": "The Annals of the American Academy of Political and Social Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

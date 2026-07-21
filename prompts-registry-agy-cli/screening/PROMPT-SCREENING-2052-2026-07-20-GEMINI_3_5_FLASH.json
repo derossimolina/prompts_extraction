@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2052-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Gaining fluency in finance: Globalisation/financialisation and offshore financial centres",
+    "authors": "Marshall D.D.",
+    "year": "2008",
+    "doi": "10.1080/13569770802550958",
+    "abstract": "Consultancy discourse in the area of creating and destroying value for shareholders is held together by a shared framework which sees SV as a legitimate objective. However, consultancy discourse in the area of tax neutrality or minimisation, fund management and private banking is often subordinated by portrayals of OFCs, particularly of the Caribbean and Pacific as vulnerable to ‘harmful' tax practices and money laundering. Whereas scrutiny attends the activities and the counsel girding the OFC operation, trust and faith abounds in financial specialists' judgement in their criteria of value and calculating uncertain futures. This apparent contradiction is overlooked primarily because of the ways OFCs are represented through language and discourse, and how knowledge has been constructed to provide understanding of the financialisation phenomenon. This essay attempts to bring these strands together in a narrative that treats the vagaries of international finance and the impulse to re-regulation of financial centres as part of a wider crisis in scientific finance as a knowledge field. Certainly capital account liberalisation and re-regulation of OFCs are not politically neutral objectives. © 2008, Taylor & Francis Group, LLC.",
+    "source": "Contemporary Politics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

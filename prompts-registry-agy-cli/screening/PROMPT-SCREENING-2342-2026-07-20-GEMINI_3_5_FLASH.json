@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2342-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Aid diversion, accountability and questions unanswered: contextualising the World Bank working paper on offshore capture of foreign aid",
+    "authors": "Damianos, S",
+    "year": "2021",
+    "doi": "10.1108/JMLC-08-2020-0086",
+    "abstract": "Purpose The purpose of this paper is to engage a contentious World Bank publication beyond its controversy. In particular, it assesses mechanisms that facilitate elite capture of foreign aid and potential strategies of accountability. Design/methodology/approach This paper adopts desk research methodology, relying primarily upon journal papers, books and internet sources related to international development and corruption. Findings This paper isolates three factors that contribute to elite capture of foreign aid: the codified secrecy of offshore tax havens, customary clientelism and decentralised aid. Regarding accountability measures, it advocates decreasing livelihood dependence on local elites and encouraging meaningful involvement by civil society. Originality/value This paper de-sensationalises the controversial World Bank working paper, providing a contextualised reading that at the time of publication does not yet exist.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1014-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "State actors, human rights violations and informal livelihoods during the COVID-19 pandemic in Nigeria",
+    "authors": "Anazonwu N.P.; Nnamani K.E.; Osadebe N.; Anichebe O.; Ezeibe C.C.; Mbah P.O.; Nzeadibe T.C.",
+    "year": "2022",
+    "doi": "10.1080/21622671.2021.1976262",
+    "abstract": "The COVID-19 pandemic has had devastating effects on virtually all facets of society. With the enforcement of COVID-19 control measures such as lockdown and stay-at-home orders in Nigeria, palpable concerns about human rights violations by state actors, especially the security agencies, emerged. Unfortunately, conceptualizing and structuring responses to the COVID-19 pandemic as a human rights issue has remained inadequate, and very little research exists on the possible effects of pandemic containment policies on the human rights of informal workers in Nigerian cities. Drawing from secondary sources, this study examined how enforcement of COVID-19 control protocols by state actors impinged on the human rights of informal workers in Nigeria during the pandemic. The paper argues that the enforcement of COVID-19 containment measures in Nigeria neglects social structures and local economic dynamics, and invariably undermines the human rights of informal workers who depend on daily social businesses for their livelihoods. It further posits that the nuances of African cultures and social economy need to be taken into consideration before the large-scale adoption of these control measures to mitigate the pandemic. The study concludes that sustained rights advocacy and retraining of the security agents is relevant for effective implementation of COVID-19 protocols in Nigeria. © 2021 Regional Studies Association.",
+    "source": "Territory, Politics, Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

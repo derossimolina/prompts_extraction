@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0992-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A case for the use of cyber-systemics to combat financial crime in Australia",
+    "authors": "Walker-Munro B.",
+    "year": "2021",
+    "doi": "10.1108/K-09-2020-0581",
+    "abstract": "Purpose: Financial crime costs the world economy more than $1tn. Yet policing responses continue to apply traditional law enforcement methods to detect, identify and disrupt criminal actors in financial systems. The purpose of this paper is to challenge existing thinking around law enforcement practices in financial crime within an Australian context, by presenting an alternative model grounded in management cybernetics and systemic design (SD), which the author terms “cyber-systemics”. Design/methodology/approach: This study reflects on prior research work across cybernetics and SD to suggest an integrated approach as a conceptually useful basis for considering regulation of financial crime, and to demonstrate utility using a case study. Findings: The Fintel Alliance between financial crime regulators and financial institutions in Australia demonstrates a strong connection with, and example of, this study’s cyber-systemic regulatory framework. It will be demonstrated that the form of co-design framework offered under cyber-systemics is both consistent with cybernetic and SD literature, but also a means of avoiding regulatory disconnection in times of change and disruption. This study also invites consideration of how future forms of governance might be structured using cyber-systemics as a conceptual backbone. Research limitations/implications: This work proposes a novel methodology at odds with traditional law enforcement ways of doing, inevitably requiring a change of regulatory mindset. In addition, this paper is purely conceptual and therefore more research on an empirical basis is required to prove the potential benefits in a real-world regulatory environment. Originality/value: This is (to the author’s knowledge) the first conceptual exploration of blending SD and management cybernetics in the field of criminal law regulation. © 2020, Emerald Publishing Limited.",
+    "source": "Kybernetes"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

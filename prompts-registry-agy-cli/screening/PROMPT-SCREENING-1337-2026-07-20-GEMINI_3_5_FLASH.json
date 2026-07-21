@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1337-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Politically exposed entities: how to tailor PEP requirements to PEP owned legal entities",
+    "authors": "Canestri D.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-06-2018-0042",
+    "abstract": "Purpose: This paper aims to address the money laundering risk posed by politically exposed person’s (PEP’s) controlled legal entities. International standards and national legislation require enhanced due diligence of political office holders but no specific requirements exist on entities controlled by PEPs. While regulators expect the stringent AML risk mitigation regarding this type of entities, financial institutions have no guidelines to follow. This gap produces inconsistent due diligence measures applied to entities with significant PEPs’ connection. Design/methodology/approach: The paper uses comparative analysis to identify discrepancies between legal requirements and their interpretation. Moreover, an empirical approach results in a standardised solution to address these discrepancies. Findings: The paper defines the concept of politically exposed entities and the applicable due diligence framework. Anticipating legislative measures, it proposes to introduce this concept via best practices of financial institutions and private banking initiatives such as the Wolfsberg Group. Research limitations/implications: The research addresses the topic from a legal point of view. However, the implementation of proposed ideas depends on decisions which are political by nature and are not within the scope of this paper. Practical implications: The paper aims at stimulating a debate in both the private and public sector to form a consistent approach to AML due diligence of legal entities associated to PEPs. Originality/value: This paper responds to an identified need to study how legal entities connected to PEPs should be defined and monitored. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

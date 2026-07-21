@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2267-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CRIMINAL LAW ASPECTS OF FINANCIAL SECURITY OF A STATE",
+    "authors": "Borovyk, A; Shyra, O; Kravchenko, O",
+    "year": "2025",
+    "doi": "10.30525/2256-0742/2025-11-1-221-230",
+    "abstract": "The article deals with criminal law aspects of ensuring financial security of the State as a component of national security. The emphasis is placed on key threats to financial security, such as corruption, money laundering, financial fraud and tax evasion.The article defines the role of criminal law in preventing crimes in the financial sector, ensuring the inevitability of punishment and restoring financial losses. It analyses the essence of financial security as a component of national security and determines its relationship with criminal law aspects. The study examines criminal law mechanisms aimed at ensuring financial security, including national legislation and international approaches. This helped to identify problems and gaps in the criminal law regulation of financial security. The criminal law threats to Ukraine's financial security identified by analysing their nature, scope and countermeasures allowed comparing the national experience with the practices of the European Union and the United States with a view to identifying effective approaches and ways to improve the Ukrainian legal system in this area. Ensuring an effective criminal law policy in the area of financial security involves: improving legislation aimed at preventing and combating financial crimes; enhancing the professional training of law enforcement agencies in the area of financial crime investigation; and integrating national crime prevention systems with international mechanisms, including co-operation within international organisations.The establishment of effective mechanisms for monitoring suspicious financial transactions and detecting illegal capital flows is a prerequisite for protecting the financial system. The utilisation of contemporary tools, including artificial intelligence and blockchain technologies, is imperative for the identification of fraudulent schemes, the monitoring of financial transactions, and the automation of risk analysis. Particular attention is paid to the integration of national mechanisms for combating financial crimes with international standards, including the FATF recommendations and the UN Convention against Corruption. The positive experience of Ukraine and the European Union in improving legislation, introducing modern technologies and developing international co-operation has allowed the author to propose ways to improve criminal law measures aimed at strengthening financial security, taking into account current challenges. An effective criminal law policy in the area of financial security should take into account current challenges, including cybercrime and the growth of organised criminal groups in foreign economic activity. Only a comprehensive approach that encompasses legal, economic and international aspects will ensure the necessary level of protection of the state's financial system and contribute to its stability. The study is based on the analysis of statistical data, in particular, the activities of law enforcement agencies of Ukraine in recent years. The conclusions are aimed at proposals for improving criminal law policy to ensure financial stability and maintain confidence in financial institutions.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

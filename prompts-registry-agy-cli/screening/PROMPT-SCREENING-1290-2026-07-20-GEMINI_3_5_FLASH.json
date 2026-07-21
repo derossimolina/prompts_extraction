@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1290-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Data mining for statistical analysis of money laundering transactions",
+    "authors": "Lokanan M.E.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-03-2019-0024",
+    "abstract": "Purpose: The purpose of this paper is to use statistical techniques to mine and analyze suspicious transactions. With the increase in money laundering activities across various sectors in some of the world’s leading democracies, the ability to detect such transactions is gaining grounds with more urgency. Regulators and practitioners have been calling for an approach that can mine the large volume of unstructured data form suspicious money laundering transactions to inform public policies. Design/methodology/approach: By deducing from the results of empirical studies in the field of money laundering detection, this paper presented an overview of data mining technology for detecting suspicious transactions. Findings: After chronicling the data mining process, the paper delves into an analysis of the statistical approaches that can be used to differentiate between legitimate and suspicious money laundering transactions. The different stages of the data mining process are carefully explained in relation to their application to anti-money laundering compliance. The results indicate that statistical data mining methodology is a very efficient and useful technique to detect suspicious transactions. Practical implications: The paper is of relevance to regulators and the financial service sector. A discussion of how data can be mined to facilitate statistical analysis can be used to inform regulatory policies on the detection and prevention of money laundering activities in the financial service sector. Originality/value: The paper discuss approaches that illustrate how analysts can use statistical techniques to analyze data for suspicious money laundering transactions. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

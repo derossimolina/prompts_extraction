@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1505-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Craigslist as a source for heroin: a report of two cases",
+    "authors": "Tofighi B.; Perna M.; Desai A.; Grov C.; Lee J.D.",
+    "year": "2016",
+    "doi": "10.3109/14659891.2015.1090495",
+    "abstract": "Introduction: Online drug markets and social media are facilitating the spread of information and sale of illicit substances. Online sites, such as Craigslist and Bluelight, underscore an emerging shift in contemporary drug consumerism. Case Descriptions: We report on two cases. Case 1 is a 42-year-old male with a history of heroin-use disorder, presented for an initial visit to an office-based buprenorphine program, and reported having acquired heroin from Craigslist. Despite several harrowing experiences, Craigslist remained Patient 1’s primary method of purchasing heroin during a 14-month period. Craigslist ads also redirected the patient to the web site Bluelight, which facilitated access to updated information on open-air drug markets in New York City. Case 2 is a 23-year-old male, who was admitted to inpatient detoxification and utilized the site for the sale of heroin in order to fund his own use of heroin. He sold heroin via Craigslist for 1 year until his arrest, noting undeterred advertising and largely uncomplicated transactions. He secured largely professionals buyers that purchased a steady quantity of heroin over extended periods of time. Discussion: Online drug marketplaces offer platforms to extend public health surveillance, harm reduction, and treatment entry strategies for internet users with substance-use disorders. © 2016 Taylor & Francis Group, LLC.",
+    "source": "Journal of Substance Use"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0098-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Navigating the shadows: exports and money laundering dynamics in Bangladesh",
+    "authors": "Milon M.N.U.; Zafarullah H.; Poli T.A.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-05-2024-0092",
+    "abstract": "Purpose: This study aims to analyze the complex dynamics of money laundering (ML) in the export sector of developing countries, with a special focus on Bangladesh. It aims to uncover the strategies and tactics money launderers use to exploit export transactions and understand the vulnerabilities that exist in economies where enforcement agencies neglect the export industry. Design/methodology/approach: This study examines Bangladesh’s export sector ML using qualitative methods. Customs officers, central bank officers, port authorities and selected exporters were interviewed semi-structured. Document analysis of Bangladesh Bank orders, media and Customs Intelligence and Investigation Directorate reports was also done. Qualitative data patterns were identified using theme analysis. Findings: The study identifies the most vulnerable export commodities – readymade garments, agricultural items and processed foods – as prime targets for ML. Key methods of laundering include under-invoicing, over-invoicing, misdeclaration and fake documentation. The research highlights the significant risk posed by the improper use of government financial incentives and introduces the “sample shipment” method as a novel laundering tactic. The findings underscore the need for stronger oversight and controls to mitigate these risks. Research limitations/implications: This research is limited by single-point data because ML is a continual activity. The reliance on case studies from newspaper reports and online platforms introduces a degree of selection bias and the chosen instances may not comprehensively represent the broader landscape of trade-based ML. Practical implications: The study provides several practical recommendations for policymakers and law enforcement agencies to fortify the export sector against exploitation by money launderers, ensuring greater transparency and accountability in international trade operations. Social implications: By closing loopholes in the export sector, the research supports the Sustainable Development Goals, particularly Goal 16.4, which aims to reduce illicit financial flows, thereby contributing to poverty eradication and economic stability in developing countries. Originality/value: Original research results supported by technical analysis are presented in this work. It contributes to the body of knowledge by detailing the adaptive strategies of money launderers and proposing targeted recommendations for enhancing the integrity of the export sector. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

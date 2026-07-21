@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2021-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A cognitive interpretation of transactional and transformational leadership theories",
+    "authors": "Wofford J.C.; Goodwin V.L.",
+    "year": "1994",
+    "doi": "10.1016/1048-9843(94)90026-4",
+    "abstract": "Cognitive processes constructs provide a framework for analysis of transformational leadership and transactional leadership behaviors. Working memory, attribution, expectation, schema, script, and strategy processes are viewed as mediators in the relationships between feedback and environmental inputs and leadership behaviors. While these processes are the bases for both transformational and transactional leadership behaviors, the specific cognitive content differs between them. Whether an individual leads by developing a vision and enlisting subordinates' ego involvement in it or by setting goals and structuring tasks, depends upon the content of relevant schemata and scripts. This content is developed through experiences in similar situations or through vicarious learning. Literature relevant to the leadership and cognitive processes areas is reviewed, propositions are presented, and implications for research and practice are discussed. © 1994.",
+    "source": "The Leadership Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

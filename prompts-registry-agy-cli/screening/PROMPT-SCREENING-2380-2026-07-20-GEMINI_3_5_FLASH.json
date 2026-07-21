@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2380-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "'De-Risking', De-Banking and Denials of Bank Services: An Over-Compliance Dilemma?",
+    "authors": "de Koker, L; Casanovas, P",
+    "year": "2024",
+    "doi": "10.1007/978-3-031-59547-9_3",
+    "abstract": "This chapter considers the impact of drivers of over-compliance or so-called 'gold plating' on decisions of banks to terminate or restrict relationships with customers and counterparts. It draws on a South African study of factors that influenced overly-conservative design of anti-money laundering and counter terrorist financing measures of South African banks in a rule-based context. It considers whether the identified drivers are still relevant in a risk-based context. The chapter concludes that the broad drivers remain relevant and that regulators that wish to limit risk-informed de-banking should avoid strengthening the drivers and consider how best to neutralise them.",
+    "source": "FINANCIAL CRIME, LAW AND GOVERNANCE: Navigating Challenges in Different Contexts"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

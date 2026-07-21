@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1963-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Political factors affecting AML&sol;CFT efforts in post&hyphen;communist Eurasia: The case of Georgia",
+    "authors": "Götz E.; Jonsson M.",
+    "year": "2009",
+    "doi": "10.1108/13685200910922651",
+    "abstract": "PurposeThe purpose of this paper is to provide an overview of anti&hyphen;money laundering &lpar;AML&rpar; efforts and high&hyphen;risk sectors in Georgia, and explain changes in this field over time. Design&sol;methodology&sol;approachThis case&hyphen;study draws on a political economy&hyphen;approach, based on the argument that &ldquo;political will&rdquo; provides the best explanation for the quality of AML efforts in transitional economies, as opposed to &ldquo;technical assistance&rdquo; or the sophistication of the domestic financial system. FindingsThe study finds that AML efforts have drastically improved in Georgia following the Rose Revolution, even though significant high&hyphen;risk sectors remain and a certain tendency towards &ldquo;selective implementation&rdquo; of AML regulations can be detected. Research limitations&sol;implicationsImplies that the &ldquo;political will&rdquo; of the ruling elite and the promotion thereof should be increasingly incorporated into research on AML, especially as regards explaining the quality of implementation and enforcement of existing laws. Practical implicationsImplies that technical peer evaluations resulting in &ldquo;naming and shaming&rdquo; of jurisdictions that do not live up to international AML standards may not in and by themselves be enough to further efficient implementation, but need to be complemented by policies creating incentives for the domestic political elite to encourage de facto implementation of de jure regulations. Originality&sol;valueProvides the first comprehensive overview of AML efforts in Georgia and points to important explanatory factors underlying changes in this field. © 2009, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

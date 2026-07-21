@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1797-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Unravelling Al Qaeda Terrorism in the Maghreb Region",
+    "authors": "Chelin R.; Mngomrzulu B.R.",
+    "year": "2015",
+    "doi": "10.10520/EJC172819",
+    "abstract": "Terrorism has recently become a menace to society, more especially in the African continent which already faces other challenges. However, not all parts of the continent affected by terrorism feature in the literature. Thus, the primary aim of this article is to fill that lacuna by discussing Al Qaeda terrorism in the Maghreb region which covers most of the region in north and north-west Africa. Using historical analysis, the article demonstrates how terrorism has evolved and changed forms in the Maghreb region in countries such as Libya, Tunisia, Algeria, Morocco, Western Sahara and Mauritania. Sources such as reports and internet sources are used to trace the origins of terrorist activities in the Maghreb region, bearing in mind the historical links between the region and the Middle East through trade and religion. The findings show that Al Qaeda in the Islamic Maghreb (AQIM) has evolved over time and devised various strategies in order to ensure its continued existence. Based on these findings, the article proposes resolute effort by African and international role-players to address illegal trafficking of humans and drugs; a need to appeal to the traditional codes of ethics which prohibit illicit activities; help to be given to the local population find sustainable alternative income-generating activities; and formalisation and control of the financial systems by formulating appropriate standards for overseeing financial institutions and adopting effective tools for monitoring money laundering. © 2015 Adonis and Abbey Publishers Ltd. All rights reserved.",
+    "source": "African Renaissance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

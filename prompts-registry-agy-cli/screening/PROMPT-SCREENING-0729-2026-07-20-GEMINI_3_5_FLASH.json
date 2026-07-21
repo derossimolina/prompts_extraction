@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0729-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Remittance flows and informal economies in post-Soviet transition countries",
+    "authors": "Kakhkharov J.; Rohde N.",
+    "year": "2023",
+    "doi": "10.1111/twec.13375",
+    "abstract": "This paper studies the impact of remittance flows on the size of informal economies in post-Soviet countries. We compile a unique data set from a cluster of transition economies and use panel data econometric models to estimate effect sizes. Identification comes from varying macroeconomic conditions in Russia, which are plausibly exogenous to currency demand in remittance–recipient countries. Our estimates indicate that, across our models, it seems plausible that around 25% of all remittances flow into the informal economies of the region. Since shadow economies facilitate numerous illegal activities (such as organised crime, informal money lenders and money laundering), stronger regulatory and institutional frameworks accompanied with provision of incentives for informal firms to be integrated in the formal economy are likely to curb undesirable economic behaviour. © 2022 John Wiley & Sons Ltd.",
+    "source": "World Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

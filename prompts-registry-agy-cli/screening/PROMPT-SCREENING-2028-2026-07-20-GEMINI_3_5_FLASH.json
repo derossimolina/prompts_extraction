@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2028-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The effect of information presentation structures on audit planning and review judgments",
+    "authors": "BORITZ J.E.",
+    "year": "1985",
+    "doi": "10.1111/j.1911-3846.1985.tb00376.x",
+    "abstract": "Abstract. This study examines the effect of data structuring techniques on audit judgments by comparing responses based on information cues arranged according to a hierarchically structured template with the response to identical cues arranged in a simple list. Forty auditors, at five different levels of expertise, reviewed the audit strategy of a hypothetical senior and provided evaluations of the original plan, a revised set of plans, and reports of their difficulty in making the required judgments. The experimental task involved 16 cases, in which types of transaction processing systems (i.e., manual and computerized), and internal control cues, were manipulated in addition to the format of presenting information. Structure of information presentation appears to play a significant role in the evaluations and plans of the auditors, but is considered to contribute substantially to the difficulty of making judgments. In most cases, structure appears to contribute to uniformity of responses; but, in some instances it actually seems to exaggerate differences in auditors' judgments. Résumé. Cette étude examine l'effet des techniques de structure des données sur les jugements en vérification, en comparant les réponses basées sur une information organisée de façon hiérarchique avec les réponses basées sur la même information organisée selon la structure d'une liste simple. Quarante vérificateurs de cinq niveaux de compétence différents, ont révisé la stratégie de vérification d'une chef d'équipe hypothétique et ont présenté des évaluations du plan original, d'un ensemble de plans révisés et ont fait rapport de leur difficulté en rendant les jugements requis. L'expérience comportait 16 cas dans lesquels des types de systèmes de traitement (i.e. manuels et informatisés) et des éléments de contrôle devaient être pris en considération en plus du format de présentation de l'information. La structure de présentation de l'information semble jouer un rôle significatif dans les évaluations et les plans des vérificateurs et contribue de façon importante à la difficulté de rendre des jugements. Dans la plupart des cas, la structure de présentation de l'information semble contribuer à l'uniformité des réponses; dans certains cas cependant, elle semble exagérer les différences dans les jugements des vérificateurs. 1985 Canadian Academic Accounting Association",
+    "source": "Contemporary Accounting Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

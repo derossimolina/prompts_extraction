@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1454-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A typology of cybercriminal networks: from low-tech all-rounders to high-tech specialists",
+    "authors": "Leukfeldt E.R.; Kleemans E.R.; Stol W.P.",
+    "year": "2017",
+    "doi": "10.1007/s10611-016-9662-2",
+    "abstract": "Case studies show that there are at least two types of groups involved in phishing: low-tech all-rounders and high-tech specialists. However, empirical criminological research into cybercriminal networks is scarce. This article presents a taxonomy of cybercriminal phishing networks, based on analysis of 18 Dutch police investigations into phishing and banking malware networks. There appears to be greater variety than shown by previous studies. The analyzed networks cannot easily be divided into two sharply defined categories. However, characteristics such as technology use and offender-victim interaction can be used to construct a typology with four overlapping categories: from low-tech attacks with a high degree of direct offender-victim interaction to high-tech attacks without such interaction. Furthermore, clear differences can be distinguished between networks carrying out low-tech attacks and high-tech attacks. Low-tech networks, for example, make no victims in other countries and core members and facilitators generally operate from the same country. High-tech networks, on the contrary, have more international components. Finally, networks with specialists focusing on one type of crime are present in both low-tech and high-tech networks. These specialist networks have more often a local than an international focus. © 2016, Springer Science+Business Media Dordrecht.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

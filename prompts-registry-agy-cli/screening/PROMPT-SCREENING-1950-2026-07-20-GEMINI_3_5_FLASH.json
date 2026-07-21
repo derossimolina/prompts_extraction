@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1950-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Human Resources Engineering: A New Challenge",
+    "authors": "Eckstrand G.A.; Askren W.B.; Snyder M.T.",
+    "year": "1967",
+    "doi": "10.1177/001872086700900601",
+    "abstract": "The concept of human resources engineering is introduced, which is the process of using human skill resources as factors in design trade-off studies. The development of the military's response to human resources needs in systems is traced from the reacting phase, through the current predicting phase, to a possible future phase involving some degree of control. The implementation of the control phase will require a human resources engineering technology. The establishing of such a technology will require research in the areas of data structuring, methods for relating data to design and life cycle costing, and computerized banks of human resources data. © 1967, Human Factors and Ergonomics Society. All rights reserved.",
+    "source": "Human Factors: The Journal of Human Factors and Ergonomics Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

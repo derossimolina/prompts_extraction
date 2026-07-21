@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1740-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Criminogenic conditions, bribery and the economic crisis in the EU: A macro level analysis",
+    "authors": "Alibux A.N.R.N.",
+    "year": "2016",
+    "doi": "10.1177/1477370815597252",
+    "abstract": "Financial crime in the form of misconduct, fraud and corruption is widely seen as having triggered the financial crisis that has pushed the Western world into an economic crisis. This paper explores possible relations between conditions that might trigger financial crime (criminogenic conditions) in the years preceding the 2008 crisis, the level of bribery in a country in 2007 and the severity of the economic crisis in the European Union in the period 2008–12 at a macro level. The results suggest that the presence of a number of criminogenic conditions such as banks that are too big to fail, a high level of inequality and free market principles is positively related to the severity of the crisis in the European Union, whereas mixed evidence is found for high levels of bribery. © 2015, © The Author(s) 2015.",
+    "source": "European Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

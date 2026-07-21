@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0444-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Networked corruption and discursive immunity: mapping the structure, actors, and framing of financial crimes in Nigeria (2010–2025)",
+    "authors": "Yusuf A.K.; Kaita I.S.",
+    "year": "2026",
+    "doi": "10.1007/s12117-025-09584-2",
+    "abstract": "This study investigates the structure, operation, and ideological framing of financial crimes in Nigeria between 2010 and 2025 through a multi-layered analytical framework that integrates qualitative inquiry, Social Network Analysis (SNA), and Critical Discourse Analysis (CDA). While previous studies often treat corruption as an individual or institutional failure, this research conceptualizes it as networked corruption, a complex system of interlinked political elites, bureaucratic enablers, and transnational facilitators who collectively sustain illicit financial flows. Data were drawn from 18 key informant interviews, 25 mapped financial crime cases, and 30 media, legal, and parliamentary documents. SNA findings reveal that Nigerian financial crime networks exhibit modular, hub-and-spoke structures, where elite actors and professional intermediaries maintain high centrality and control over illicit transactions. CDA results demonstrate that media and legal discourse frequently normalize or obscure elite wrongdoing through linguistic deflection and politicized framing, contributing to public apathy and institutional impunity. Despite periodic successes by the Economic and Financial Crimes Commission (EFCC) and the Independent Corrupt Practices and Other Related Offences Commission (ICPC), systemic and political constraints hinder their ability to dismantle entrenched networks. The study concludes that addressing financial crimes in Nigeria requires an integrated approach combining institutional autonomy, transnational cooperation, and discursive reform to disrupt the structural and ideological foundations that sustain networked corruption. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2026.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

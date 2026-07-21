@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0564-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "On the Impact of Infrastructure Improvement on Real Estate Property Values: Evidence from a Quasi-natural Experiment in an Emerging Market",
+    "authors": "Ghosh C.; Panchapagesan V.; Venkataraman M.",
+    "year": "2024",
+    "doi": "10.1007/s11146-022-09938-5",
+    "abstract": "Prior studies show infrastructural improvements impact property values positively. The effect is often reflected soon after the announcement and continues until the project is complete. These studies, however, are primarily set in developed countries. Emerging markets pose unique risks where uncertainty around implementation and funding could dampen these positive effects significantly. We utilize a quasi-natural experiment around an inner-city road redesign and improvement project in Bangalore, the fastest growing city in India. We exploit the difference-in-difference regression approach to examine the project’s impact on residential and commercial property values around two sets of geographically proximate roads, one of which was chosen for the redesign. Unlike in developed countries, we find that property values are unaffected by the announcement when uncertainty is the highest but start reflecting the positive value of the infrastructure once construction starts and show significant gains upon completion. Our findings carry important policy implications for structuring value capture strategies in emerging markets. © 2023, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.",
+    "source": "Journal of Real Estate Finance and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

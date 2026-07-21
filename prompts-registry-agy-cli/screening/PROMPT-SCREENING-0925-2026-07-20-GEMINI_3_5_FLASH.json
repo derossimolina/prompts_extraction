@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0925-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crime enterprises: the articulation of jogo do bicho markets for a legal and illegal economy; [Empresas do crime: a articulação dos mercados do jogo do bicho para uma economia legal e ilegal]",
+    "authors": "Labronici R.B.; de Oliveira Rodrigues E.",
+    "year": "2024",
+    "doi": "10.1590/39035/2024",
+    "abstract": "In the imaginary of illegal gambling, the bankers of the jogo do bicho represent the face of the institutional politics of the “owners” of the game, and their social representation goes beyond that of a mere outlaw or criminal. Their power does not derive solely from the individual, but from the networks in which they are embedded and their substantial economic power, which ensures political/police protection for their activities. Thus, we seek to observe how the business management of a jogo do bicho banker, supported by this economic and political-police foundation, tends to diversify in order to take advantage of the opportunities that gambling money can offer. Here, we aim to analyze the game to understand the circumstances under which the betting economy enables, feeds, and requires the composition of other markets for its full operation. To this end, ethnographic data, newspaper reports, and criminal proceedings will be analyzed to demonstrate how the political-economic power and influence of the jogo do bicho enable new markets to be explored and strengthened. This points to the existence of key actors within the established networks, acting as “intermediaries” in their dealings with gamblers, police officers, art curators, and various others. © Este é um artigo publicado em acesso aberto (Open Access) sob a licença Creative Commons Attribution, que permite uso, distribuição e reprodução em qualquer meio, sem restrições desde que o trabalho original seja corretamente citado.",
+    "source": "Revista Brasileira de Ciencias Sociais"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

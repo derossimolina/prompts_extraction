@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0758-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illicit Financial Flows through Trade Mis-Invoicing in India: An Empirical Analysis of the Major Commodities Involved in Mis-Invoicing",
+    "authors": "Tiwari P.; Akhter J.; Chattopadhyay S.",
+    "year": "2022",
+    "doi": "10.1177/22779787221092272",
+    "abstract": "This article identifies, based on reported trade data between India and its 19 trading partners, the major commodities exhibiting mis-invoicing during 2000–2018, the extent of mis-invoicing, major trade partners and the associated ports of trade in India. The computed differences in the trade values are too large to be explained by accounting or classification errors, presenting strong evidence of mis-invoicing; however, only a small percentage of commodities account for bulk of mis-invoicing consistently over the years. There is also evidence of the same commodities exhibiting under-invoicing (UI) in trade with some countries and over-invoicing (OI) in trade with others. The tariff rates seem to influence the type of import mis-invoicing—OI being mainly in commodities with higher tariff and UI in commodities with lower tariff. The article contributes to the existing literature by identifying the specific commodities with their 6-digit HS codes, and commodity groups prone to mis-invoicing, which can provide a robust framework for further investigation of transaction level data that may help pinpoint the parties involved in mis-invoicing and associated illicit flows. The findings of the article provide inputs for policies to mitigate the impact of illicit financial flows through trade mis-invoicing. JEL Classification: F13, F14, C32, H26 © 2022 SAGE Publications.",
+    "source": "South Asian Journal of Macroeconomics and Public Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

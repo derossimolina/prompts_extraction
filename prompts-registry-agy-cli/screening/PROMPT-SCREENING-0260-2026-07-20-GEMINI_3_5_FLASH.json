@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0260-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Expansion of regulatory security, organized crime and local order in Tamaulipas; [Seguridad normativa ampliada, delincuencia organizada y orden local en Tamaulipas]",
+    "authors": "Caballero J.P.",
+    "year": "2025",
+    "doi": "10.22201/iis.01882503p.2025.2.62742",
+    "abstract": "This article analyses the case of small and medium-sized owners of real estate and land in Matamoros (Tamaulipas, Mexico) and nearby ejidos, based on how they protect their properties from potential crimes. From the interviews conducted with ejidatarios, owners, and tenants, an idea of broader normative security can be gathered, based on features of factuality, localism and intra-group trust. In addition, the dichotomy in the robberies reported allows to understand the continuity of organized crime in the area, as well as the meaning given to more serious violence. Finally, the article analyzes micro (a type of desuetude relations) and macro level (polyarchic local order) consequences. D. R. © 2025",
+    "source": "Revista Mexicana de Sociologia"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

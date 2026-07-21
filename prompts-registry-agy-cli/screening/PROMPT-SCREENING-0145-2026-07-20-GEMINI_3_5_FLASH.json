@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0145-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CRYPTOCURRENCIES AND TERRORIST FINANCING IN LEGAL REGULATORY AND SECURITY PERSPECTIVES",
+    "authors": "Hashim S.J.; Hussein E.I.; Abdallah M.M.; Tashtamirov M.; Bochkova S.; Frolovskaya Y.",
+    "year": "2024",
+    "doi": "10.21902/Revrima.v4i46.8034",
+    "abstract": "Objective: This study analyzes the concept, characteristics, and risks of cryptocurrencies, focusing on their potential role in financing terrorism. It clarifies the relationship between virtual currencies, electronic money, and cryptocurrencies, and examines how features such as decentralization, anonymity, and cross-border accessibility can facilitate illicit activities. Methods: A comparative legal analysis was conducted, reviewing legislative and regulatory approaches toward cryptocurrencies in selected countries. Legal texts, central bank regulations, and policy statements were examined alongside academic literature to evaluate how jurisdictions address cryptocurrency misuse in terrorism financing and money laundering. Results: Findings show that the anonymity, decentralization, and global nature of cryptocurrencies present significant challenges for regulators and law enforcement. While some jurisdictions impose strict prohibitions or licensing systems, others lack comprehensive legal frameworks, creating opportunities for exploitation. Terrorist organizations have used cryptocurrencies for fundraising and fund transfers, often via the dark web and encrypted platforms. However, the limited technological infrastructure in many conflict zones restricts large-scale reliance on cryptocurrencies for terrorism financing. Conclusion: Cryptocurrencies combine technological benefits with substantial risks. Although their current role in terrorism financing is supplementary rather than primary, advances in privacy-focused digital assets may increase future threats. Effective prevention requires stronger international cooperation, clear and enforceable regulations, and advanced monitoring tools to track suspicious transactions while supporting legitimate blockchain-based innovation. © 2024, Centro Universitario Curitiba - UNICURITIBA. All rights reserved.",
+    "source": "Relacoes Internacionais no Mundo Atual"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0722-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Proposal of a Service Model for Blockchain-Based Security Tokens",
+    "authors": "Park K.; Youm H.-Y.",
+    "year": "2024",
+    "doi": "10.3390/bdcc8030030",
+    "abstract": "The volume of the asset investment and trading market can be expanded through the issuance and management of blockchain-based security tokens that logically divide the value of assets and guarantee ownership. This paper proposes a service model to solve a problem with the existing investment service model, identifies security threats to the service model, and specifies security requirements countering the identified security threats for privacy protection and anti-money laundering (AML) involving security tokens. The identified security threats and specified security requirements should be taken into consideration when implementing the proposed service model. The proposed service model allows users to invest in tokenized tangible and intangible assets and trade in blockchain-based security tokens. This paper discusses considerations to prevent excessive regulation and market monopoly in the issuance of and trading in security tokens when implementing the proposed service model and concludes with future works. © 2024 by the authors.",
+    "source": "Big Data and Cognitive Computing"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

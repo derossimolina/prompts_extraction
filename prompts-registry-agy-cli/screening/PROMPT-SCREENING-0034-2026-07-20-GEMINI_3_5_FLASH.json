@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0034-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Distributed ledger technology",
+    "authors": "Alt R.; Gräser M.",
+    "year": "2025",
+    "doi": "10.1007/s12525-025-00784-w",
+    "abstract": "Distributed ledger technology (DLT) emerged as a disruptive force towards decentralization and has expanded beyond its origins in cryptocurrencies like Bitcoin. At the heart of DLT is an infrastructure that replicates data across multiple network nodes, enabling new opportunities for data integrity, transparency, and trust in distributed business environments. In recent years, technological advances have improved the performance, energy efficiency, and functionality of DLT, expanding its application to various sectors such as finance, healthcare, trade and media, logistics, and the public sector. Despite these advances, adoption remained limited, with notable successes primarily in areas such as decentralized finance and non-fungible tokens. By placing DLT within the historical development of ledgers and distributed databases, this Fundamental provides a business-oriented foundation for structuring and assessing DLT-based solutions. It presents, a unified definition covering blockchain technologies, describes the key characteristics of DLT, and offers a structured analysis of its potential and challenges using a multi-dimensional interaction framework. Ultimately, it serves to carve out where and under which conditions DLT infrastructures add value for interorganizational relationships. © The Author(s) 2025.",
+    "source": "Electronic Markets"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

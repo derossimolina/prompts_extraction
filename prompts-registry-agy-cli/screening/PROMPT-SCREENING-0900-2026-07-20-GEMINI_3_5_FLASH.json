@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0900-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptoassets, social innovations and institutions; [Les cryptoactifs, innovations sociales et institutions]; [Criptoactivos, innovaciones sociales e instituciones]",
+    "authors": "Didier R.; Tadjeddine Y.",
+    "year": "2024",
+    "doi": "10.59876/a-3fvp-rbwa",
+    "abstract": "This article proposes to analyze cryptoassets as social innovations through their capacity to respond to new polymorphic needs and to transform the structuring institutions of the economic system. The framework of the School of Regulation defines five structural forms: money, competition, the wage relation, the state and the international order. The institution originally targeted by cryptoassets is money, responding to new needs (aspiration to currencies freed from states and banks, search for anonymity, ease for international transfers and credible alternative to the dollar). Cryptoassets also satisfy the new needs arising from global digital capitalism (the creation of communities, the valuation of digital goods and services, the co-production of services through the network). © 2024, Ecole des Hautes Etudes Commerciales. All rights reserved.",
+    "source": "Management international"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

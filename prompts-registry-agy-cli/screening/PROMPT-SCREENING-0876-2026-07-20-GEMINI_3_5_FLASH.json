@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0876-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The degrees of central bank digital currency adoption across countries: A preliminary analysis",
+    "authors": "Le T.D.Q.; Tran S.H.; Nguyen D.T.; Ngo T.",
+    "year": "2023",
+    "doi": "10.17811/ebl.12.2.2023.97-104",
+    "abstract": "This study empirically examines factors affecting the different stages of CBDC adoption using a sample of 55 countries engaged in CBDC projects from 2014 to 2021. The findings indicate that anti-money laundering and terrorist financing and the financial market development, inflation and technological factors are critical determinants of CBDC adoption at different stages. © 2023, Oviedo University Press. All rights reserved.",
+    "source": "Economics and Business Letters"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

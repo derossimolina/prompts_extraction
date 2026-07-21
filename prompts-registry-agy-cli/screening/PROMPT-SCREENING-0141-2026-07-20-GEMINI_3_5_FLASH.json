@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0141-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Forensic investigation of suspected money laundering activities over the Ethereum blockchain: a machine learning approach",
+    "authors": "Tsuboi H.Y.; Lima R.S.; Oliveira K.V.D.",
+    "year": "2026",
+    "doi": "10.1108/ARJ-02-2025-0043",
+    "abstract": "Purpose – This study aims to provide an alternative machine learning model to more quickly and efficiently detect addresses on the Ethereum network suspected of involvement in fraudulent activities. Design/methodology/approach – This study performed a machine learning technique known as LightGBM. The machine learning model is trained by using a dataset that identifies licit or illicit addresses on the Ethereum network. This study then applies the trained model to predict the probability that a new transaction should be classified as suspicious for money laundering. Findings – Through a set of performance metrics, we show that our model outperforms machine learning models from previous studies, better predicting suspicious money laundering activities. The most relevant attributes in identifying an illicit transaction are: (i) the time difference between the first and last activity of the crypto wallet (a short “lifetime” of the address); (ii) the total number of transactions (accounts used only once or a few times) and (iii) the difference in the distribution of values between the crypto wallets (low values). Research limitations/implications – Machine learning techniques have great potential to contribute to the activities of government agents, regulatory authorities and accounting professionals. Practical implications – This study adds another tool to combat money laundering, which could lead to improvements in auditing and forensic accounting procedures. This study may be of special interest to regulators and policymakers in their anti-money-laundering roles. Originality/value – This study adopts a modern technique that can be considered a valuable tool in identifying and combating fraudulent activities on blockchain networks. © 2026 Emerald Publishing Limited",
+    "source": "Accounting Research Journal"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

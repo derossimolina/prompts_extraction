@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0669-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Drug trafficking on cryptomarkets and the role of organized crime groups",
+    "authors": "Kabra S.; Gori S.",
+    "year": "2023",
+    "doi": "10.1016/j.jeconc.2023.100026",
+    "abstract": "The shadows of a drug paddler may soon be invisible on the street corner as they have moved to online drug marketplaces called ‘cryptomarkets’. The criminogenic attributes of drug trafficking on cryptomarkets have attracted organized crime groups (OCGs) to make use of technology to further its illicit goals. The OCGs making use of cryptocurrencies help in retaining anonymity to an extent, and makes easier for them to launder their proceeds. There is a dearth of literature explaining the increase in drug trafficking on cryptomarkets by OCGs. In a first attempt of its kind, this paper aims at studying the drug trafficking by OCGs on cryptomarkets and explaining the said conundrum by applying Rational Choice Theory (RCT). It is argued that OCGs make a rational choice of dealing drugs online as the benefits attached to drug trafficking on cryptomarkets outweigh the potential costs, such as getting arrested. Through a qualitative analysis of data and online sources, it is revealed that the participants on cryptomarkets have loose hierarchies and have mostly opportunistic connections. The voluminous sales are made by a handful of entrepreneurs who have OCGs like structures, who operate in smaller groups to minimize the risks. RCT best explains the shift of OCGs to cryptomarkets which is only due to cost – benefit analysis. © 2023 The Authors",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

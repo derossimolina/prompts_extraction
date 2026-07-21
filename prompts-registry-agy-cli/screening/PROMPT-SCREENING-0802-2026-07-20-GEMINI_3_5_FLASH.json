@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0802-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Conceptual Framework to Analyse Illicit Financial Flows (IFFs)",
+    "authors": "Netshisaulu N.N.; Van der Poll H.M.; Van der Poll J.A.",
+    "year": "2022",
+    "doi": "10.3390/risks10090172",
+    "abstract": "This article develops a conceptual framework, based on a comprehensive literature review, to address illicit financial flows (IFFs), characterised by the illegal move of monies or capital across country borders. IFFs compromise transparency through complex transactions and incur harmful effects for both developing and developed economies. Financial opacity creates a conducive environment for IFFs to flourish, as a challenge to good financial practices. Following an interpretive philosophy, an inductive research approach, qualitative methodological choice, cross-sectional time horizon all through data collection through review of scholarly literature, and framework were developed to analyse the said IFFs. Our framework encourages good corporate governance and provides insights, as well as the identification of possible characteristics of IFFs perpetuated in the financial statements of entities, which would discourage entities to engage in IFFs. Specifically, practitioners should be able to identify characteristics of IFFs and use the framework to address these. Within the finance dimension, it is important to study the specific mechanisms regarding how IFFs may damage an entity’s reputation, as well as their going concern. In future work, we shall enhance the framework through interviews with auditors, followed by a validation of the enhanced framework through a focus group. The utility of the final framework can be tested through case studies in the industry to analyse IFFs. © 2022 by the authors.",
+    "source": "Risks"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

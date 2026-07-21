@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0713-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is it possible to establish the link between drug busts and the cryptocurrency market? Yes, we can",
+    "authors": "Almaqableh L.; Wallace D.; Pereira V.; Ramiah V.; Wood G.; Veron J.F.; Moosa I.; Watson A.",
+    "year": "2023",
+    "doi": "10.1016/j.ijinfomgt.2022.102488",
+    "abstract": "Following the rampant increase in Bitcoin prices, there has been a proliferation of cryptocurrencies, which have become a major way of doing business across national boundaries. This paper investigates the link between cryptocurrency markets and drug trafficking activities. More specifically, we explore the impact of the announcement of 24 major drug busts on the systematic risk and return of the world cryptocurrency market. We deploy an event study methodology to estimate the abnormal returns associated with drug trafficking activities in the cryptocurrency market. We find that the relationship between the two is quite strong in the case of some cryptocurrencies, albeit weaker in others. However, we show that drug bust news tends to create uncertainty, and accordingly impart risk into cryptocurrency markets. This study confirms the predictions of convenience theories of crime as to the relative attractiveness of cryptocurrencies to criminals, and the extent to which not only general, but also their own future interests, sacrificed readily on the altar of accessibility. We highlight how when social and regulatory foundations are weak, criminal behaviour may overwhelm virtual spaces, marginalizing more orthodox businesses, no matter how altruistic the intentions of their founders. © 2022 Elsevier Ltd",
+    "source": "International Journal of Information Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

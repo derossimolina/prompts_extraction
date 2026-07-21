@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1038-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mechanisms of functioning of offshore jurisdictions in the world system",
+    "authors": "Shynkar T.I.; Kurylo T.V.; Kholostenko A.V.; Miroshnychenko S.S.; Nazymko O.",
+    "year": "2020",
+    "doi": "10.34218/IJM.11.4.2020.048",
+    "abstract": "The article defines the essence of the mechanisms of functioning of offshore jurisdictions, which include: the stepping stone method, which consists in the division of assets among different jurisdictions; credit scheme, which involves providing loans at interest and makes it possible to transfer funds to offshore; transfer pricing, which provides for the sale of goods to the OFC residents at a lower price for subsequent resale for profit, which will be declared in the OFC (trading scheme); payment of royalties, which centers around the registration of copyrights, followed by the transfer of rights to a resident of a full-tax jurisdiction in exchange for the corresponding payments; the application of tax hybrids. The methods and schemes specified can only be applied in case of the presence of double taxation conventions among the jurisdictions involved in the schemes; they can be integrated into more complex mechanisms. Double Irish is the most famous mechanism that has simultaneously absorbed several methods. However, the mechanisms specified are not unitary or unique. © IAEME Publication.",
+    "source": "International Journal of Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

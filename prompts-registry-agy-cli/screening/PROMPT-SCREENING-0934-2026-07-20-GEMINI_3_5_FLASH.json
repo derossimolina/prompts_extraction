@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0934-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Forensic audit: Audit risk, fraud and materiality; [Auditoría forense: riesgo de auditoría, fraude y materialidad]",
+    "authors": "Encarnación V.R.E.",
+    "year": "2023",
+    "doi": "10.14349/sumneg/2023.V14.N31.A4",
+    "abstract": "Introduction/objective: The forensic audit specializes in obtaining evidence and transfor-ming it into legal proof when criminal proceedings are filed. The purpose of the article is to identify audit risks, elements of fraud and materiality, the scope is to study the risks that are associated with the activity under review. thus, the risk of fraud refers to a possible material misstatement in the reporting of the annual financial statements. Methodology: For the investigation, the discriminant analysis technique was applied, because it admits to pronounce the common elements and the difficulties of the problems, on the other hand, the non-experimental approach was used, which consists of evaluating historical facts and analyzing them later, without altering the results. Results: Studies identify that materiality and audit risk play a key role in planning a forensic audit against fraud, since, in this relationship, the auditor remains alert to identify possible crimes, irregular acts based on dishonest practices that they harm the reputation of the entity, the value of the company in the market, and a possible bankruptcy and closure of the entity due to financial damages. Conclusion: The main contribution of the forensic audit as support to judicial processes is to contribute with sufficient, credible and reliable evidence from financial practice so that the court specialized in financial crimes, corruption and fraud can compact said information with other evidence provided from the criminal field and that will allow you to make the best decisions. © 2023 Fundación Universitaria Konrad Lorenz.",
+    "source": "Suma de Negocios"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

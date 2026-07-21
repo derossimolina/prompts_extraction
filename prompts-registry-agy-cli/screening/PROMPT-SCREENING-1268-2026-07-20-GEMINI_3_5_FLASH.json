@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1268-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Recent trends in raising captive equity for broadly syndicated CLOs",
+    "authors": "Reilly R.J., Jr.",
+    "year": "2019",
+    "doi": "10.3905/jsf.2019.1.087",
+    "abstract": "The Loan Syndications and Trading Association victory over federal regulators released managers of open market collateralized loan obligation (CLO) transactions from the requirement to comply with the US risk retention rules. This removed one of the most substantial economic hurdles to managing CLOs sold to investors in the United States and Asia. In their quest for a broader investor base, however, CLO managers are more frequently looking to Europe. At the same time, CLO managers continue to raise capital to fund the equity that supports their CLOs. Because CLOs sold to European institutional investors need to comply with the EU Securitisation Regulation, several important factors must be considered when structuring investment vehicles used by CLO managers to fund their CLO equity. This article examines some of the key legal, tax, and regulatory issues that CLO managers face when raising capital that will be used to fund the equity in EU-compliant CLOs. Copyright © 2019 Pageant Media Ltd.",
+    "source": "Journal of Structured Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1178-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sufficiency and access to urban services: New housing in the Bogotá-Facatativá axis; [Suficiencia y acceso a servicios urbanos: la residencia reciente en eje Bogotá-Facatativá]",
+    "authors": "Artunduaga T.S.; Rios J.R.",
+    "year": "2019",
+    "doi": "10.5354/0717-5051.2019.54778",
+    "abstract": "This paper explores the urban services that offer functional support to new residence projects, located in the urban peripheries and rural soils of the municipalities as part of the Bogotá-Facatativá industrial and services corridor (CVSO). For this purpose, it combines what is expressed by residents, administrators of the residential complexes, builders and officials of the municipal administrations, regarding the availability and residential use of the services, with the analysis of the flows between the residences, the public services. The results reveal insufficient attention to early residents, due limited services offered in real estate development, ambiguities in urban regulation and the late emergence of a complementary offer in the immediate vicinity of the projects in response to new residential demands. © 2019 Universidad de Chile. All rights reserved.",
+    "source": "Revista de Urbanismo"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

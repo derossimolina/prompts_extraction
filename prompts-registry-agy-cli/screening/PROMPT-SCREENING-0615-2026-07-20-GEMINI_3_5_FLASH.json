@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0615-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency as an Investment: The Malaysian Context",
+    "authors": "Sukumaran S.; Bee T.S.; Wasiuzzaman S.",
+    "year": "2022",
+    "doi": "10.3390/risks10040086",
+    "abstract": "Cryptocurrency is gaining popularity worldwide, with some countries already starting to regulate and accept cryptocurrency in their financial services. Malaysia’s Securities Commission (SC) announced in October 2021 that over MYR 16 billion (USD 3.85 billion) involving digital assets and cryptocurrencies were traded between August 2020 and September 2021. Since cryptocurrencies are issued by private corporations and are technically beyond the federal government’s control, criminals may use them for illegal reasons such as money laundering and terrorist funding. Consequently, it is vital to examine why investors are engaged in cryptocurrency in the first place. This study aims to provide insight into Malaysian investors’ perceptions by evaluating the influence of perceived risk and perceived value on their cryptocurrency adoption decision. The retail investors’ demographic characteristics (gender, age, education, income, and investment experience) were analyzed as control variables. Data were gathered using purposive sampling, and responses from 211 respondents from various cities in Malaysia were used in the final analysis. Data were examined using Smart PLS Structural Equation Modelling (PLS-SEM). Based on the finding’s, perceived value was found to have a significant influence on cryptocurrency adoption. Meanwhile, perceived risk had no significant influence on the adoption of cryptocurrency among the Malaysian investors. © 2022 by the authors. Licensee MDPI, Basel, Switzerland.",
+    "source": "Risks"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

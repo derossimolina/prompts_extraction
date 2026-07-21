@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1322-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Minsky after Kalecki: real profits and financial structure",
+    "authors": "Piacentini P.M.",
+    "year": "2021",
+    "doi": "10.1016/j.strueco.2021.09.010",
+    "abstract": "Important contributions from within the Post-Keynesian tradition have proposed different ways of modelling the interdependencies between the financial and the real spheres of modern capitalistic economies. The present paper, building on these contributions, proposes an analytical linkage between the approaches originally developed within the Minskian and the Kaleckian frames. We follow, in this, suggestions made by Minsky in a posthumously published paper (2013). There, the consideration of the “Kaleckian way of looking at profits” is posed as preliminary setting for the analysis of the “determinants of stability or even the viability of a financial structure”. The key linkage in the real-financial interdependence is then found in the implications of Debt: originator of ‘inside money’, finance for investments exceeding ‘internal’ fund availability, and fundamental contributor to profit realization. The explicit introduction of Debt within the originally ‘non-monetary’ frame of Kaleckian accounting opens the path to the further description of conditions, for growth and (in)stability of a modern capitalist economy, where the fundamental role of a developed financial superstructure is explicated, as in Minsky. We consider, for this latter, an up-to-date frame, including the so-called originate-to-distribute (OTD) mode of modern banking. There, the functional relationship between finance and the real economy runs essentially in an opposite sequence of causation with respect to what traditionally assumed in conventional economic wisdom. It is ‘real economy’ which is now described as ‘servicing’ finance, in that debt obligations originated by the ‘non-financial’ entities are now the primary input, and the ultimate source of the cash-flow repayment, allowing rents to be paid for the assets entering the portfolios of the ultimate wealth owners. Throughout the layers of a convoluted, leveraged structuring of the financial trades, (described by Minsky as an ‘inverted pyramid’), ‘money managers’ are then evocated, as principal actors in the present stage of capitalism. © 2021",
+    "source": "Structural Change and Economic Dynamics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

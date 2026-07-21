@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1594-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The cross-colonization of finance and security through lists: Banking policing in the UK and India",
+    "authors": "Amicelle A.; Jacobsen E.K.U.",
+    "year": "2016",
+    "doi": "10.1177/0263775815623276",
+    "abstract": "Targeted financial sanctions regimes and regulations on ‘dirty money’ put banks on the front line in securing financial circulation. This is the context in which banking actors face the challenge of juggling with hundred of sanction, watch and regulatory lists. In light of that list mania for banking policing, list appears to have become the security device of choice in the everyday life of the financial industry across the world. Instead of reducing the complexity of security-finance dynamics to a zero-sum game (securitization of finance vs financialization of security), the article rather aims to question the critical role of lists in the cross-colonization of finance and security. Drawing on empirical research in the United Kingdom and India, the article adopts an ‘analytics of devices’ to think of and analyse banking policing practices through the instrumentation that makes these practices possible and stable over time. It argues that banking appropriation of security lists both (re)configures lists ‘social identity’ and banking actors’ power-relations in the fields of finance and security. Ultimately, the analytical focus on lists appropriation sheds new light on what securing circulation means in finance. © 2016, © The Author(s) 2016.",
+    "source": "Environment and Planning D: Society and Space"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

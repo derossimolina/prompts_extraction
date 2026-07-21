@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2402-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "UAE Foundations in perspective: who is using them and for what purpose/s?",
+    "authors": "Mrazek, Y",
+    "year": "2022",
+    "doi": "10.1093/tandt/ttac039",
+    "abstract": "The United Arab Emirates (UAE) successfully introduced three foundation regimes providing a local solution to wealth management and preservation, family succession planning, corporate structuring, and asset protection. Seventy per cent of the foundations incorporated were aimed at restructuring real estate assets. The purpose of this article is to study the recent statistics of UAE foundations and their target classes of assets; discuss the compatibility between UAE foundations and real estate located in the UAE and abroad; as well as comment on the registration process of Dubai real estate and the impact on the change of beneficiaries and controllers of foundations holding real estate.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

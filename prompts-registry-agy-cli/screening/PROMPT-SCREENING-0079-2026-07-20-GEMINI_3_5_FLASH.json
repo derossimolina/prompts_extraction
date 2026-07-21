@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0079-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CORPORATE CRIMINAL LIABILITY FOR MONEY LAUNDERING IN LIGHT OF INTERNATIONAL STANDARDS: A COMPARATIVE PERSPECTIVE",
+    "authors": "Alzwae M.O.; Aljahani A.",
+    "year": "2025",
+    "doi": "10.22495/clgrv7i4p4",
+    "abstract": "Money laundering is one of the most serious financial crimes due to its connection with organized crime and illegal activities (Pavlidis, 2024; Alnor et al., 2025). Recent studies have addressed this issue from various angles, but they have not examined the liability of legal entities under Libyan legislation nor the extent to which its provisions align with French law and modern international standards in combating money laundering. This study, using a comparative analytical approach, aims to bridge this gap by evaluating the Libyan legal framework governing the liability of legal entities and highlighting shortcomings regarding the scope of liability and the effectiveness of penalties. The results show that Libyan legislation limits the scope of liability to financial and banking institutions, unlike French law and international recommendations, which expand the scope of liability to include all legal entities, including non-profit organizations. Furthermore, penalties in Libya are weak and ineffective. Our study contributes by proposing a legislative framework that broadens the scope of liability, links fines to a percentage of profits, and expands the scope of confiscation, thereby strengthening the fight against money laundering in Libya, ensuring the integrity of the financial sector, and reducing the risks associated with money laundering. © 2025 The Authors.",
+    "source": "Corporate Law and Governance Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

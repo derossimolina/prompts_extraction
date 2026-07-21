@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2213-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illegalisms and the play of power in São Paulo; [Ilegalismos e jogos de poder em São Paulo]",
+    "authors": "da Silva Telles V.; Hirata D.V.",
+    "year": "2010",
+    "doi": "10.1590/S0103-20702010000200003",
+    "abstract": "This article's sets out by exploring the web of illegalisms - new, old or redefined - connected to today's expanding informal economy (and city), the trade in illegal goods and drug trafficking, and their diffusion into urban social networks and practices. Taking as its base concept the differential management of illegalisms (Foucault), the text explores what happens precisely on the thresholds of legal-illegal, formal-informal: the play of power, relations of force, fields of dispute. Its working hypothesis is that these illegalisms form the centre point for the structuring of fields of force and power games that dislocate, make and remake the boundaries between the legal and extralegal, justice and force, pacts and violence, order and disorder. At the core of the economies and dynamics of our cities are fields of force in which the meanings of law, justice, order and their opposite are under dispute. This approach, the text argues, allows us to understand the political dynamics involved in informal markets, as well as the retail market of illegal drugs and its diffusion within the urban fabric.",
+    "source": "Tempo Social"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

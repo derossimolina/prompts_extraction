@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0650-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Shariah capabilities and value propositions of Islamic banking",
+    "authors": "Ullah K.; Ashfaque M.; Atiq M.; Khan M.; Hussain A.",
+    "year": "2023",
+    "doi": "10.1108/IMEFM-12-2019-0518",
+    "abstract": "Purpose: The purpose of this paper is to explore the types of Shariah capabilities of Islamic banks, which provide bases for the types of Shariah value propositions, offered by the relationship managers in their front-line service experiences with the customers. Design/methodology/approach: A resource-based view of Shariah capabilities and a service-dominant logic view of value propositions are adopted. Fifteen relationship managers from multiple Islamic banks in Pakistan are interviewed to find a typology of Shariah capabilities and a resultant typology of value propositions for Islamic banks. Findings: The findings suggest that Islamic banks claim to possess five types of Shariah capabilities, namely, Shariah governance capability (SGC), Shariah compliance capability (SCC), Shariah monitoring capability (SMC), Shariah structuring (product) capability (SSC) and Shariah learning capability (SLC). These capabilities lead to four types of values propositions, namely, Shariah identity value (SIV), Riba-free value (RFV), Shariah disclosure value (SDV) and Tangibility value (TV) of the real assets in transactions. Research limitations/implications: The study has relied on the front-line experiences of relationship managers who are connected to the Islamic banks’ capabilities inside the banks and the value propositions that they offer to show relationships with customers in front-line service experiences. Other stakeholders may have different perspectives on both capabilities and value propositions. Originality/value: This paper contributes to Islamic finance theory by theoretically and empirically showing two typologies for the Islamic banks' capabilities and value propositions, respectively. © 2022, Emerald Publishing Limited.",
+    "source": "International Journal of Islamic and Middle Eastern Finance and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

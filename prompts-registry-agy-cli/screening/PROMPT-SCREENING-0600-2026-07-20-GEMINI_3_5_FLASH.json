@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0600-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating cryptocurrencies checkpoints: Fighting a trench war with cavalry?",
+    "authors": "Soana G.",
+    "year": "2022",
+    "doi": "10.1111/ecno.12195",
+    "abstract": "The rise of cryptocurrencies during the last decade has caused growing concerns among national and international regulators. One of the risks identified is that these instruments may constitute an innovative tool for criminals when laundering money. This risk has been confirmed by numerous recent cases which have underlined the criminogenic potential of cryptocurrencies. Through the V antimoney laundering (AML) Directive, the European legislator has first regulated this emerging issue. This legislation extends the AML duties to two players of the cryptocurrencies market: exchangers and wallet providers. This choice, however, does not exploit the opportunities offered by cryptocurrencies and fails to provide a customized regulatory framework. By maintaining a traditional regulatory approach centered on intermediaries it misses the key innovation of blockchain technology: disintermediation. Compared with traditional online money flows, intermediaries are not necessary nor fundamental in the cryptocurrencies environment. Failing to adapt to this reality, the Directive is employing chivalry to fight a trench war. To guarantee the integrity of this market, the policymaker has to abandon the traditional intermediary-centred approach in favor of a strategy that seizes the new opportunities offered by blockchain. This paper advocates for a shift from an individual-centered approach to financial crime control to a transaction-centered one. © 2021 The Authors. Economic Notes published by John Wiley & Sons Ltd.",
+    "source": "Economic Notes"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

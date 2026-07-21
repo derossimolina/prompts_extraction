@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0005-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hidden players: the role of ‘drops’ in the cybercrime ecosystem",
+    "authors": "Musaev G.; Sattarova K.; Ponamorenko V.",
+    "year": "2025",
+    "doi": "10.1057/s41284-025-00513-0",
+    "abstract": "One of the main problems arising out of financial crimes in Uzbekistan is fraudulent activities of criminal groups who attract ordinary people to conduct a crime knowingly or unknowingly by taking a status of ‘money mules’ on themselves. The present research is aimed to highlight the shadow side of e-commerce by revealing the role of ‘drops’ in providing anonymity to cybercriminals who conduct transactions while remaining undetected. ‘Drops’ act as an important element in the criminal ecosystem, where they have learnt to manage financial instruments and exploit legal loopholes what enhances their anonymity and makes it more difficult to trace criminal activities. In this article the main focus is on a comprehensive analysis of the difficulties faced by law enforcement authorities in the process of investigations, as well as an examination of the current situation related to the mass distribution of so-called ‘drops’ on the territory of Uzbekistan. Herein, author provides a number of suggestions and recommendations of new approaches and measures that are important to improve the effectiveness of mechanisms for detection and identification of individuals involved in criminal activity. The emphasis is placed on the introduction of modern procedural actions established in legal acts, which can significantly facilitate the work of investigators in identifying the main elements and participants of criminal schemes. © The Author(s), under exclusive licence to Springer Nature Limited 2025.",
+    "source": "Security Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

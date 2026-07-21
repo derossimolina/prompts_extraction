@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1374-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "IMPACT OF DIGITALIZATION AND THE COVID-19 PANDEMIC ON THE AML SCENARIO: DATA MINING ANALYSIS FOR GOOD GOVERNANCE",
+    "authors": "Vasilyeva T.; Ziółko A.; Kuzmenko O.; Kapinos A.; Humenna Y.",
+    "year": "2021",
+    "doi": "10.14254/2071-789X.2021/14-4/19",
+    "abstract": "The article deals with the impact of digitalization and COVID-19 on the choice of AML scenarios for reforming the system of tactical and strategic monitoring of transactions carried out by economic entities based on providing good governance. The study period is 2011-2020; the objects of the study are 140 countries. Calculations are performed using Data-Mining methods, such as AML scenarios based on the classification tree method (one-dimensional CART branching method) and clustering of countries according to relevant AML scenarios based on agglomerative methods. There are three stages of research. The first builds a comprehensive system of indicators which involves financial inclusion indicators of the population, the ranking of countries on the Basel AML Index, and effectiveness of the AML policy implementation at the country level. The second stage considers countries’ clustering according to the AML scenarios and formalizes the portraits of countries’ clusters. The third stage examines the impact of digitalization and COVID-19 on the choice of AML scenarios. According to the empirical results, rapid, moderately rapid, slow and neutral adaptability to external factors are formalized in the possible scenarios as a result of such effects. Moreover, the countries’ clustering proves that the money laundering risks relevant to the country lower and the implementation of the AML measures by the state grows more effective with higher financial inclusion for the population in the country. The study results can be helpful for authorized bodies in providing good governance while conducting financial monitoring and analysis of information on transactions carried out by economic entities. © 2021, Centre of Sociological Research. All rights reserved.",
+    "source": "Economics and Sociology"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

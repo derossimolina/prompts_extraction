@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1450-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Forms and foundations of relationships between generations outside the family: The specifics of isolated rural areas; [Formes et fondements des relations entre générations hors de la sphère familiale: La spécificité du milieu rural isol]",
+    "authors": "Gucher C.",
+    "year": "2013",
+    "doi": "10.3917/rs.064.0085",
+    "abstract": "This article looks at the forms and underpinnings of sociability and solidarity in elderly populations, based on the hypothesis that ageing in rural areas has specific modalities and meanings. The author attempts to explain the differentiated meaning of ageing according to the respondents' life pathways, whether they have always lived in the areas under consideration, have returned there, or retired there. This paper also investigates practical life arrangements during old age, and the modalities of old age through the structuring of living environments. The empirical work focused on two French cantons - Montpezat sous Bauzon in Ardèche and La Rochette in Savoie - defined as isolated rural territories, characterised as rural areas where the dominant economic activity is agriculture or manual labour, located a long distance from urban centres. Based on observation journals and a body of 22 interviews recorded during two research programmes, the author argues here that isolated rural areas present characteristics conducive to the development of sustainable, amicable relations between generations and that relations between generations in these areas remain connected to family relations. The first section of the article describes forms of sociability and solidarity observed in the territories considered; the second section proposes an exogenous framework of analysis, referring to theories of ageing as \"biographical transactions\" and the concept of \"identity territory\".",
+    "source": "Retraite et Societe"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

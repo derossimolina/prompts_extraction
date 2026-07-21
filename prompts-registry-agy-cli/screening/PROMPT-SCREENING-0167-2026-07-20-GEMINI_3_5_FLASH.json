@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0167-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Economic and institutional drivers of trade-related illicit financial flows",
+    "authors": "Mpabe Bodjongo M.J.; Kabwe Omoyi epse Essomme F.; Fofana M.",
+    "year": "2024",
+    "doi": "10.1016/j.jeconc.2024.100064",
+    "abstract": "This paper aims to examine the influence of controlling corruption, tax burden reduction, price stability and trade liberalization on trade-related illicit financial flows. The analysis focuses on a sample of 120 developing and emerging countries, drawn from data collected over the period 2008–2017. The econometric results reveal that controlling corruption, tax burden reduction, prices stability and trade liberalization contribute significantly to reducing trade-related IFF or false invoicing of foreign trade transactions. These results can be observed both within and outside Africa. In addition, increased competition on the domestic market helps to reduce trade-related IFF, while higher public spending significantly increases trade-related IFF. © 2024 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

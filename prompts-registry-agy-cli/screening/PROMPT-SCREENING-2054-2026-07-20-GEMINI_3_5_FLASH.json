@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2054-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Federal Viewpoint on Combating Organized Crime",
+    "authors": "Miller H.J., Jr.",
+    "year": "1963",
+    "doi": "10.1177/000271626334700112",
+    "abstract": "Organized crime presents the leading contempo rary challenge to federal and state law-enforcement officials. Factors which frequently make effective prosecution difficult include: the effective organization and technical skills of the criminal syndicates, top racketeers' insulation from the daily operations of their illegal enterprises, the use of complex busi ness transactions and seemingly normal business operations to cloak illegal ventures, the unavailability of witnesses ready to testify regarding inside operations, and the control that racketeers sometimes gain over local law-enforcement officials. Under our federal system, the states have traditionally assumed primary responsibility for curtailing criminal activity and maintaining public order. However, with recently increased awareness of the national scope of the problem has come a greater role for the federal government in combating organized crime. The early federal statutes were directed at crimes of violence of the type most often committed at that time by notorious gangsters; more recent federal legislation has been aimed primarily at illegal-gambling activities. Federal in vestigative resources have been co-ordinated, and prosecution has been assigned to the recently enlarged Organized Crime and Racketeering Section of the Criminal Division in the Department of Justice, whose members work with local United States Attorneys in developing and trying criminal cases under all available statutes. © 1963, SAGE Publications. All rights reserved.",
+    "source": "The Annals of the American Academy of Political and Social Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2220-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Are OFCs leading the fight against money laundering&quest;",
+    "authors": "Rosdol A.",
+    "year": "2007",
+    "doi": "10.1108/13685200710763498",
+    "abstract": "PurposeTo examine if recent changes to the law and practice of certain offshore financial centres &lpar;OFCs&rpar; means that some OFCs now have more stringent anti&hyphen;money laundering measures in place compared to their &ldquo;onshore&rdquo; counterparts. To further explore the allegation by some that there is a dual standard in terms of the pressure applied to OFCs on the one hand and &ldquo;onshore&rdquo; jurisdictions on the other. Design&sol;methodology&sol;approachThe analysis will focus on the Crown Dependencies and the British Overseas Territories of Bermuda and the Cayman Islands. The &ldquo;onshore&rdquo; jurisdictions include the UK, the USA and Australia. Comparison of the implementation of the FATF 40 Recommendations &lpar;using the most recent IMF Assessments&rpar;, trust and company services legislation, and the &ldquo;Know Your Customer&rdquo; requirements. FindingsThe results show that the Crown Dependencies and the selected Overseas Territories are not only keeping up with the USA, the UK and Australia but in many cases &ldquo;outdoing&rdquo; the AML&sol;CFT regimes of these onshore jurisdictions. Research limitations&sol;implicationsComparison limited to only certain OFCs and &ldquo;onshore&rdquo; jurisdictions. There is a two year difference between the IMF assessments for the OFCs and for the onshore jurisdictions. Future research would include the results of the second phase of the OFC Assessment Program and IMF assessments due in the next few years. Originality&sol;valueThis paper examines a very topical area of financial crime based on the most recent data available. © 2007, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

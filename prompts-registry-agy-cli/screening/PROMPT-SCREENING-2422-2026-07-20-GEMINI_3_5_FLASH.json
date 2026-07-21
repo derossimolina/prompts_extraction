@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2422-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blacklists, Market Enforcement, and the Global Regime to Combat Terrorist Financing",
+    "authors": "Morse, JC",
+    "year": "2019",
+    "doi": "10.1017/S002081831900016X",
+    "abstract": "This paper highlights how international organizations can use global performance indicators (GPIs) to drive policy change through transnational market pressure. When international organizations are credible assessors of state policy, and when monitored countries compete for market resources, GPIs transmit information about country risk and stabilize market expectations. Under these conditions banks and investors may restrict access to capital in noncompliant states and incentivize increased compliance. I demonstrate this market-enforcement mechanism by analyzing the Financial Action Task Force (FATF), an intergovernmental body that issues nonbinding recommendations to combat money laundering and the financing of terrorism. The FATF's public listing of noncompliant jurisdictions has prompted international banks to move resources away from listed states and raised the costs of continued noncompliance, significantly increasing the number of states with laws criminalizing terrorist financing. This finding suggests a powerful pathway through which institutions influence domestic policy and highlights the power of GPIs in an age where information is a global currency.",
+    "source": "INTERNATIONAL ORGANIZATION"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

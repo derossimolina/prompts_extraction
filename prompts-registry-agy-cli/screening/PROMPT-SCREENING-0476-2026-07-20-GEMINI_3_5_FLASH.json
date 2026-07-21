@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0476-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Willful defaulting of bank loans in a developing country: a Bourdieusian analysis",
+    "authors": "Bhattacharjee S.; Chakraborty S.",
+    "year": "2025",
+    "doi": "10.1108/JFC-05-2024-0148",
+    "abstract": "Purpose: Borrowers’ intentional non-payment of bank loans despite being able to pay is a financial crime. This paper explores how willful loan defaulting became a societal practice in Bangladesh, where non-performing loans (NPLs) are assumed to surpass BDT 4 trillion mainly due to habitual defaults of large borrowers. Design/methodology/approach: This study reviewed publicly available documents and interviewed bank managers, loan takers, regulators and industry experts. It drew on Pierre Bourdieu’s practice theory, specifically the concepts- habitus, capital and field, to explain the permeation of “intentional defaulting culture” in the banking industry. Findings: Willful defaulting in Bangladesh is an outcome of a harmonious blend of defaulters’ mindsets and possession of capital supported by the structure and rules of the field. The socio-political context facilitates, rather than impedes, the “unwillingness to pay” motive of the habitual defaulters due to their possession of different forms of capital. Research limitations/implications: Understanding of how the crime of willful defaulting emerges and persists in society may have policy and practice implications in economies suffering NPL problems. Originality/value: This study explicates how individual intents and institutional structures jointly amplify financial crimes in society. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

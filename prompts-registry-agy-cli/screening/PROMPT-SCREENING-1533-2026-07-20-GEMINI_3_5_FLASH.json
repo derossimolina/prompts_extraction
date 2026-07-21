@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1533-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Baltic shells: on the mechanics of trade-based money-laundering in the former Soviet space",
+    "authors": "Stack G.",
+    "year": "2015",
+    "doi": "10.1108/JMLC-10-2013-0040",
+    "abstract": "Purpose – The purpose of this paper is to describe a platform of interconnected international shell companies operated through Baltic banks, used for trade-based money laundering (TBML) across Russia, Ukraine and other post-Soviet states. Design/methodology/approach – This is a case study that draws extensively on the results of journalist investigations and court cases to describe one example of a money-laundering platform. Findings – Platforms of international shell companies operated through Baltic banks play a key role in TBML for the post-Soviet countries. They are created for systematic laundering of revenues from tax evasion, tax fraud, corruption and criminality across the post-Soviet space, and also globally. Research limitations/implications – This study implies that TBML for the post-Soviet space is a specialized industry, hosted by collaborating banks centered in the Baltic states, in conjunction with mass use of international shell companies. Practical implications – This study implies that analysis of suspicious transactions cannot remain on the level of single companies but has to take into account the interconnected payment patterns produced by such a platform. Originality/value – Provides the first study of a trade-based money-laundering platform operating in the post-Soviet space. © 2015, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

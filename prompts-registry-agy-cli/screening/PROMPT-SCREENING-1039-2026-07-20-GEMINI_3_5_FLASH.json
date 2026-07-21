@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1039-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Theoretical aspects of the essence of bank credit and features of credit relations in the agricultural sector of the economy",
+    "authors": "Tomashuk I.O.",
+    "year": "2021",
+    "doi": "10.32317/2221-1055.202105101",
+    "abstract": "The purpose of the article is to study and comprehend the essence of credit as a basic economic category and identify the features of bank lending in the agricultural sector of the economy. Research methods. In the process of research a number of methods were used: abstract-logical - for structuring and theoretical substantiation of the essence of the categorical apparatus of credit and credit relations; methods of comparative analysis and synthesis - to study the evolutionary aspects of credit development and credit relations in society; monographic - in identifying and systematizing the characteristics of credit relations in the agricultural sector of the economy; structural and functional approach for the formation of a conceptual vision of credit as an economic category and providing the specifics of the system of bank lending to agricultural enterprises; graphic - to illustrate and systematize the results of the study. Research results. The ambiguity of the interpretation of the credit category in the modern economic literature is revealed. It is proposed to consider the loan as a system of organizational and economic relations between the lender and the borrower, legally enshrined in the loan agreement, on the provision of funds for temporary use on terms of payment, maturity, intended use, security and return. The dualistic nature of credit efficiency is identified and analyzed. The fundamental nature of the impact of the specifics of agriculture on credit relations in the agricultural sector of the economy is assessed. The legitimacy of the existence of a separate mechanism of credit relations in the agar sector of economies is proved. The essential characteristics and features of agricultural credit are systematized and the priority features of objects of crediting in agriculture are covered. Scientific novelty. Theoretical aspects of structuring the interpretation of the essence of credit and credit relations have been further developed. Substantiation of structural components and features of bank lending of the agar sector of the economy. Practical significance. The results of the study can be used by public and sectoral authorities, as well as banking institutions in developing measures to enhance lending to the agricultural sector of the economy. © 2021, National Scientific Centre Institute of Agrarian Economics. All rights reserved.",
+    "source": "Ekonomika APK"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

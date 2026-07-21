@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1446-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk management in the Alaska Arctic offshore: Wicked problems require new paradigms",
+    "authors": "Kämpf M.; Haley S.",
+    "year": "2014",
+    "doi": "10.1080/2154896X.2014.913921",
+    "abstract": "The Alaska Arctic offshore is a “wicked” project environment because it is unique, socially and technically complex, has changing requirements and constraints to solutions, and involves multiple stakeholders who have different views and values about project risks related to resource development. Analysis of stakeholder conceptual approaches to risk, risk attitudes and data sources explain how and why risk perceptions vary. The data are 22 presentations from a seminar series on defining risk in Arctic offshore resource development, including perspectives of regulatory agencies, oil companies, consultants, local governments, environmental NGOs and academics. Discussion addresses the limitations of traditional risk management for complex projects, provides a case study of the Alaska Arctic offshore and suggests a unique combination of strategies for navigating wicked projects, including systems thinking, risk leadership, participatory process, problem structuring and norms and practices of high reliability organizations. © 2014 Taylor & Francis.",
+    "source": "Polar Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

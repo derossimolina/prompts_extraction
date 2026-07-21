@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1934-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering: has the Financial Action Task Force made a difference?",
+    "authors": "Johnson J.; Desmond Lim Y.C.",
+    "year": "2003",
+    "doi": "10.1108/13590790310808556",
+    "abstract": "Examines the involvement of the banking sector in money laundering over the last two decades, in particular the relationship between banks and money laundering when governments’ attitudes vary and change. Describes the design of the research, which uses multiple regression, Chow and dummy variable correlation, and partial correlation to compare countries before and after membership of the Financial Action Task Force FATF. Lists the countries covered in the analysis: nine are in the FATF and nine are outside it. Lists the countries of the FATF according to whether they have a strong or weak bank/money laundering relationship: Australia, Denmark, Japan, Netherlands, and the United Kingdom have a weaker relationship with Australia giving the best result in terms of successful governmental enforcement of the law, while Germany, Italy, Singapore and the USA have a stronger relationship. Concludes that FATF does make a difference: most member countries have weaker bank/money laundering relationships in their post-FATF period. © 2002, MCB UP Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

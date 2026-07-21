@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0450-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DEVELOPMENT OF A METHOD FOR IMPROVING THE EFFICIENCY OF TRANSACTION CLASSIFICATION IN THE BITCOIN NETWORK USING AN ATTENTION MECHANISM IN GRAPH NEURAL NETWORKS",
+    "authors": "Kushnerov O.; Prosolov V.; Dudykevych V.; Yevseiev S.; Povaliaiev S.; Ivanchenko Y.; Gorbulyk V.; Chechui O.; Balagura D.; Sukhoteplyi V.",
+    "year": "2026",
+    "doi": "10.15587/1729-4061.2026.351685",
+    "abstract": "The object of the study is the processes of automated transaction classification and Bitcoin address identification for detecting malicious activity in conditions of pseudo-anonymity. The problem is the insufficient effectiveness of algorithms, such as graph convolutional networks, in conditions of strong class imbalance. This discovery is particularly important when less than ten percent of the data is clearly labelled. However, the main difficulty is excessive feature smoothing, which complicates the effective detection of anomalies for dense graphs. The results confirm that the Graph Attention Network v2 (GATv2) model is effective. It achieves an accuracy of 91.19% and an F1 score of 91.11% in testing. In addition, the stability of the approach is confirmed when 15% of topological noise is added to the graph structure. To prove the selectivity of the classifier, the Area Under the Curve (AUC) value of the approach is 0.889. The results are explained by the implementation of a dynamic anisotropic aggregation mechanism that adaptively distributes attention weights. This allows selectively amplifying weak signals of suspicious transactions while ignoring irrelevant connections and noise. A distinctive feature is the model of feature unification through logarithmic normalization of sums and non-linear processing of time intervals. Its uniqueness lies in the use of weighted loss functions and active learning strategies on boundary samples. Two-level transfer learning was applied to the Elliptic and BitcoinHeist datasets. The area of application is integration into real-time anti-money laundering (AML) systems. The approach allows overcoming conceptual shifts when new types of cyber threats emerge. The method detects the activity of CryptoLocker-type extortionists in the absence of data Copyright © 2026, Authors.",
+    "source": "Eastern-European Journal of Enterprise Technologies"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

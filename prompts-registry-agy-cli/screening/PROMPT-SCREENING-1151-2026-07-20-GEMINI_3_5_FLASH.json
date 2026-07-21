@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1151-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Problems of financial investigation and recovery of stolen assets",
+    "authors": "Zemskov V.V.; Prasolov V.I.",
+    "year": "2021",
+    "doi": "10.26794/2587-5671-2021-25-2-185-198",
+    "abstract": "In the context of the globalization of national economies, the processes of recovering stolen assets are becoming a difficult task, requiring their tracing and detection not only in our country but also in foreign jurisdictions. Not only country's law enforcement agencies but also corporate governance bodies should play an active role in the process of detecting and recovering stolen assets. In this regard, the improvement of methodological tools that facilitate the tracking, detection and recovery of stolen assets is of scientific and practical interest and ensures the relevance of the study. The purpose of the study is to improve the mechanisms for countering the withdrawal of assets by unscrupulous owners, interest groups. The authors apply methods of dialectical scientific cognition based on a set of recognized private scientific and general scientific methods: formal-logical, comparative-legal, statistical, intersectoral legal analysis. The scientific novelty of the research is the identification of negative factors affecting the volume of stolen assets, their impact on the economic health of the state, private sector, and the improvement of methods for detecting and recovering assets. The results of the study help the authors to identify the main problems of detection and recovery of stolen assets, formulated the directions of the strategy for the return of stolen assets, formalized the processes of tax administration in countering the legalization of illegally obtained property. The recovery of stolen assets is an extremely time-consuming process which requires not only collective action of government agencies but also effective interstate cooperation within the legal framework. The paper presents a comparative analysis of the legislation of a number of countries. The authors identify deficiencies in the Russian law, which does not fully prescribe the procedure for detecting and returning stolen assets to the territory of the country. The authors conclude that in order to improve the mechanisms for countering the withdrawal of assets, it is necessary to apply an integrated approach, improving the legislation of the Russian Federation and fostering collective action of the country's law enforcement agencies, private sector, and society to successfully confront new challenges and threats. The results of the study may be used to improve the competence of law enforcement officers involved in detecting and returning stolen assets, as well as to develop a more successful methodological and evidence base approach in countering the legalization of illegally obtained property. © Zemskov V.V., Prasolov V.I., 2021",
+    "source": "Finance: Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2525-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The stability of strategic alliances: Characteristics, factors and stages",
+    "authors": "Jiang, X; Li, Y; Gao, SX",
+    "year": "2008",
+    "doi": "10.1016/j.intman.2007.09.002",
+    "abstract": "This paper presents a theoretical framework for understanding the evolutionary dynamics of strategic alliances. Using an integrated process model, we analyze the conceptual characteristics and antecedents of the stability of strategic alliances. The primary purpose of this study is to ( 1) conceptualize and characterize alliance stability to fill the academic gap in the literature, and ( 2) identify a range of endogenous factors underlying alliance stability across four developmental stages - partner selection, structuring/negotiation, implementation and performance evaluation - so as to fill the managerial relevance gap. From the discussion, we develop a number of propositions to facilitate future empirical testing of our conceptual model. Finally, we indicate some key implications for theoretical research and managerial practice. (C) 2008 Elsevier Inc. All rights reserved.",
+    "source": "JOURNAL OF INTERNATIONAL MANAGEMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

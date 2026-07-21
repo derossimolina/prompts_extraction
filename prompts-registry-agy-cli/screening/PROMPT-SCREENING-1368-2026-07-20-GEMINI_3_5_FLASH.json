@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1368-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International cooperation in the investigation of economic crimes related to cryptocurrency circulation",
+    "authors": "Kreminskyi O.; Kuzmenko O.; Antoniuk A.; Smahlo O.",
+    "year": "2021",
+    "doi": "10.25115/eea.v39i6.5247",
+    "abstract": "The cross-border nature of transactions with virtual currencies and the use of anonymity technologies exacerbates the difficulties in investigating economic crimes. The purpose of the article was to study the effects of international cooperation in the investigation of economic crimes related to the circulation of cryptocurrency. The research methodology is based on the method of content analysis of reports, recommendations and standards of the FATF (Financial Action Task Force) for 2012-2020, as a leading international organization for the prevention and development of policies for the regulation of economic crimes related to the circulation of cryptocurrencies. The results demonstrate the following effects of international cooperation in the investigation of economic crimes related to cryptocurrency: 1) the need to use a risk-oriented approach of the international community at the global level, coordination of government efforts to prevent economic crimes; 2) formation of a network of organizations that provides an effective balance between existing threats and opportunities for cryptocurrency circulation; 3) the development of free, decentralized management networks at the global level, which is an innovative and effective way to combat criminal activity, compared to traditional centralized forms of coercion in an era of rapid and unpredictable technological change. The considered experience of the absence of regulatory acts of cryptocurrency circulation and taxation of virtual assets on the principle of traditional assets indicates the absence of concern about illegal activities and possible economic crimes in this area. At the same time, decentralized and quasi-autonomous virtual assets could potentially threaten years of global anti-money laundering efforts. There is a \"race\" in the international community for leadership in combating economic crime. However, such efforts to establish legitimate jurisdictions that meet the requirements of the AML (Anti-Money Laundering) provide few measures in practice to counter and limit the opportunities for money laundering in other jurisdictions. © 2020 Estudios de Economia Aplicada. All rights reserved.",
+    "source": "Estudios de Economia Aplicada"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

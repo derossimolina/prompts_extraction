@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0343-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Metaverse crimes in virtual (Un)reality: Fraud and sexual offences under English law",
+    "authors": "Karapatakis A.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2024.100118",
+    "abstract": "The technological evolution has not only opened new frontiers but has also become an indispensable part of our daily lives. However, the technology that enhances our lives presents a dual reality—it offers opportunities for criminals while creating challenges for law enforcement. Fraud, particularly, has become a pervasive issue. In response, virtual asset service providers must take measures to tackle cryptocurrency-related fraud. Nevertheless, this becomes challenging if the perpetrator exists solely within the virtual world. In 1992, Neal Stephenson used the term ‘Metaverse’ to describe a virtual world where people interact with each other using avatars. Over time, the Metaverse has transformed into a complex concept akin to 'cyberspace'. The Metaverse is a virtual environment that uses technologies to mimic the real world. As this virtual space became intertwined with financial transactions, especially through cryptocurrencies, the Metaverse evolved into a medium for perpetrating scams. Within this context, the article addresses the challenges associated with criminal activity in the Metaverse. Considering the potential applications of AI, cryptocurrencies and Non-Fungible Tokens, three main challenges can be identified: 1) decentralisation, 2) anonymity of the user, and 3) lack of regulation. This article examines the applicability of existing legislation to regulate criminal activity in the Metaverse through doctrinal research. Using a comparative approach, it analyses the challenges of addressing virtual crimes by contrasting fraud (Fraud Act 2006) with sexual assault (Sexual Offences Act 2003), highlighting the complexity of addressing crimes involving physical contact in virtual spaces compared to financial crimes. © 2024 The Author",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2297-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Economics of Online Crime",
+    "authors": "Moore, T; Clayton, R; Anderson, R",
+    "year": "2009",
+    "doi": "10.1257/jep.23.3.3",
+    "abstract": "This paper will focus on online crime, which has taken off as a serious industry since about 2004. Until then, much of the online nuisance came from amateur hackers who defaced websites and wrote malicious software in pursuit of bragging rights. But now criminal networks have emerged - online black markets in which the bad guys trade with each other, with criminals taking on specialized roles. Just as in Adam Smith's pin factory, specialization has led to impressive productivity gains, even though the subject is now bank card PINs rather than metal ones. Someone who can collect bank card and PIN data, electronic banking passwords, and the information needed to apply for credit in someone else's name can sell these data online to anonymous brokers. The brokers in turn sell the credentials to specialist cashiers who steal and then launder the money. We will examine the data on online crime; discuss the collective-action aspects of the problem; demonstrate how agile attackers shift across national borders as earlier targets wise up to their tactics; describe ways to improve law-enforcement coordination; and we explore how defenders' incentives affect the outcomes.",
+    "source": "JOURNAL OF ECONOMIC PERSPECTIVES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

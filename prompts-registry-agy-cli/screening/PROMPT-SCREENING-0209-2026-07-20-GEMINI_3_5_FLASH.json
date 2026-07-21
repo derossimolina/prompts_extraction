@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0209-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Recurrence, scale, and risk-based monitoring in money laundering: Temporal displacement under cumulative enforcement",
+    "authors": "Reite E.J.",
+    "year": "2026",
+    "doi": "10.1016/j.jeconc.2026.100221",
+    "abstract": "Existing models of money laundering typically analyze how illicit actors adapt to enforcement by changing transaction size, fragmentation, or laundering method while treating interaction with the financial system as episodic. This paper instead models laundering as repeated interaction under risk-based monitoring. A launderer jointly chooses transaction scale and interaction frequency when monitoring intensity and compliance frictions rise with cumulative activity. Stronger recurrence-based monitoring lowers optimal frequency. When detection risk or monitoring frictions increase in both scale and persistence, the reduction in frequency is accompanied by larger transactions and greater organizational investment, implying consolidation rather than fragmentation. The paper therefore identifies a form of temporal displacement: enforcement reshapes the timing and concentration of laundering activity, so fewer transactions do not necessarily indicate deterrence. © 2026 The Authors",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

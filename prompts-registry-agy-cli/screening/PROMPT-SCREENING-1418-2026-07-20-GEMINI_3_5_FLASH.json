@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1418-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "On the utility of security fences along international borders",
+    "authors": "Jellissen S.M.; Gottheil F.M.",
+    "year": "2013",
+    "doi": "10.1080/14751798.2013.842707",
+    "abstract": "States confronting cross-border intrusions of terrorism, illegal immigration, and/or drug trafficking weigh the costs of such intrusions against the costs of imposing barriers to prevent or curb the intrusions. In such situations, the degree of national security afforded a state depends, in large measure, upon the degree of border openness the state chooses. Depending upon the intensity and frequency of the intrusions-expressed in terms of opportunity-cost functions-a state might have little choice but to pursue a border policy of zero openness. It is this relationship of border openness to national security that explains why many states choose to construct security fences. In the 49 cases of security fences examined, many-among them Israel vis-à-vis the West Bank, India vis-à-vis Pakistan, Turkey vis-à-vis Greece in Cyprus-the construction of security fences becomes more complicated by their placement on lands whose sovereignties are disputed. © 2013 2013 Taylor and Francis.",
+    "source": "Defense and Security Analysis"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

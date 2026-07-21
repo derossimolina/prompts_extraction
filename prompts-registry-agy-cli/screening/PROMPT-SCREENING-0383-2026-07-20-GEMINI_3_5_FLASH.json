@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0383-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money Laundering and Financial Instability: Exploring the Nexus in Fragile Economies; [Отмывание денег и финансовая нестабильность: исследование взаимосвязи в неустойчивых экономиках]",
+    "authors": "Kumar S.",
+    "year": "2026",
+    "doi": "10.26794/2308-944X-2026-14-1-6-18",
+    "abstract": "This study investigates the intricate relation between money laundering and financial instability in fragile states, particularly the impact of underground financial networks on loss of financial governance, resource misallocation, and loss of public confidence in the financial system. Purpose: This study examines how money laundering fosters shadow wealth, spurs inflationary pressures and reduces the effectiveness of monetary policy. Method: The study adopts a mixed-methods research design, combining quantitative and qualitative approaches. The research follows an explanatory sequential design and uses both quantitative and qualitative data. Results: It analyses how politically exposed individuals, informal financial networks, and cross-border transactions contribute to cycles of financial opacity and economic vulnerability. The paper reveals three main channels through which money laundering directly leads to instability. First, a decrease in tax revenue and, as an outcome, rising fiscal deficits. Secondly, a destabilisation of banking sectors due to the expansion of illicit credits and bad loans. Finally, capital flight and devaluation influence. The paper also examines the issues of resource scarcity for financial intelligence units and central banks in identifying and countering irregular financial activities. Contributions: This study suggests policy options that include regional cooperation instruments, strengthening law enforcement capacities, and incorporating anti-money laundering measures into financial inclusion policies. Reinforcing legal and institutional capacities and using digital tools for transaction tracking seems essential to countering the destabilising impact of money laundering. The results indicate the great need for comprehensive, context-sensitive policies regarding the disruption of the money laundering process and ensuring the financial stability in vulnerable regions. © Kumar S., 2026.",
+    "source": "Review of Business and Economics Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

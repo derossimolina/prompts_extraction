@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1026-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Expansion of Milícias in Rio de Janeiro. Political and Economic Advantages",
+    "authors": "Hirata D.V.; Cardoso A.; Grillo C.C.; Santos Junior O.A.D.; Lyra D.A.; Dirk R.C.",
+    "year": "2022",
+    "doi": "10.31389/jied.140",
+    "abstract": "This study addresses the political and economic basis of milícias in the city of Rio de Janeiro and the effects of government regulation of legal and illegal markets on their expansion. The period under study was 2007–2020 – of remarkable expansion of milícias – and the information analyzed were accessed from three different databases: 1) the Map of Armed Groups in Rio de Janeiro; 2) Data on police raids between 2007 and 2019 from the GENI/UFF database; 3) data from the City of Rio de Janeiro Secretariat of Urbanism (SMU) database in the period between 2009–2019. The objectives were: 1) to verify the distribution of police raids among territories controlled by each of the known criminal armed groups that operate in Rio de Janeiro; 2) and to verify the relation between the intensity of real estate activity at city districts and the type of predominant armed group in each district. The research results indicated that, in comparison to other armed criminal groups from Rio de Janeiro, milícias were subject to reduced police repression and the territories they control show an increased real estate activity. The data obtained support the initial research hypothesis that the targeting of use of force by state government and the regulation and inspection of real estate markets have favored the expansion of milícias. © 2022.",
+    "source": "Journal of Illicit Economies and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

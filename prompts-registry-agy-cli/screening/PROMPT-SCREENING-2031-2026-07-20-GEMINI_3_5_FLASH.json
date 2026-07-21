@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2031-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Security policy space definition and structuring",
+    "authors": "Trček D.; Jerman-Blažič B.; Pavešić N.",
+    "year": "1996",
+    "doi": "10.1016/0920-5489(95)00029-1",
+    "abstract": "Provision of security services in a global network depends strongly on a public key cryptography. The latter depends on a certification infrastructure, where trusted entities issue certificates to users to assure proper binding between entities and corresponding public keys. It turns out that security policy is one of the basic elements when building security infrastructure. However, it has not been formally defined and thus its automatic processing is not possible. Therefore truly operational and effective global open secure systems can not be build. The aim of this paper is to present a new approach for policy formalization and structuring.",
+    "source": "Computer Standards and Interfaces"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

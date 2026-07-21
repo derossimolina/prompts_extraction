@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1679-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial institutions and money laundering: A threatening relationship?",
+    "authors": "Lawlor-Forsyth E.; Gallant M.M.",
+    "year": "2018",
+    "doi": "10.1057/s41261-017-0041-4",
+    "abstract": "Money laundering control is a complicated exercise that is not particularly well served by unequivocal assertions about its pernicious impacts. Drawing on the legendary demise of the Bank of Commerce and Credit International and four modern American tales of disciplinary action, this paper examines the threatening relationship between money laundering and financial institutions. Located in the context of the evolution of money laundering regulation, the examination finds that neither of the factual narratives confirm that money laundering necessarily harms banks. Having identified an ambivalent relationship, the paper recommends enhanced focus on individual liability as a locus for the control of money laundering. © 2017 Macmillan Publishers Ltd.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

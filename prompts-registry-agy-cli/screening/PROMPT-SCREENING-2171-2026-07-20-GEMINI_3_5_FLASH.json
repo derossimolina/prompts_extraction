@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2171-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Managing farmer and consumer expectations: A study of a North Carolina farmers market",
+    "authors": "Andreatta S.; Wickliffe W.",
+    "year": "2002",
+    "doi": "10.17730/humo.61.2.a4g01d6q8djj5lkb",
+    "abstract": "The overall goal of this research was to better understand the cultural relationships between the food-selling habits of farmers and the food-buying habits of consumers at a farmers market located near three urban centers in North Carolina. The project focused on farmers' and consumers' expectations and was designed to identify how the success of the market can be improved. Such improvement should increase consumers' satisfaction with the market and also increase farmers' quality of life. This study shows that the farmers market itself plays an important role in structuring the relationships between farmers and consumers and in determining whether the experiences of selling and buying at the market are satisfying to them. The market is more than just a physical space for commercial transactions; rather, the market, and the policies and regulations that govern its operation, is an active contributor to the cultural dynamic within which those transactions take place. Our findings emphasize the importance of understanding the market as a context within which farmers and consumers make their marketing and buying decisions.",
+    "source": "Human Organization"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

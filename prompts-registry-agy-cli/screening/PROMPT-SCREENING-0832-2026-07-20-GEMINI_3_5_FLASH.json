@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0832-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Governing Global Liquidity: Federal Reserve Swap Lines and the International Dimension of US Monetary Policy",
+    "authors": "Pape F.",
+    "year": "2022",
+    "doi": "10.1080/13563467.2021.1967912",
+    "abstract": "Since the use of swap lines during the global financial crisis, the Federal Reserve is widely seen as international lender of last resort. Yet the focus on emergency liquidity assistance tends to obscure the broader significance of swap lines for US monetary governance. As this article shows, swap lines have historically played a crucial and evolving role in structuring and facilitating specific practices of offshore Eurodollar liquidity production in the interest of US monetary policy. A key contemporary example can be found in the uptake of swap lines during the Covid-19 market turmoil in early 2020: swap lines alleviated offshore dollar funding conditions to such an extent that they also triggered reverse inflows of dollar liquidity back into the US. More than simply providing a backstop to the global system, these swap interventions effectively restructured cross-border financial flows in a way that afforded the Fed greater control over domestic markets. Yet as the capacity to influence global liquidity conditions appears increasingly crucial to the Federal Reserve’s control over domestic monetary conditions, these interventions pose broader questions about its role in managing instable and evolving cross-border credit relations that link domestic and global markets. © 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "New Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

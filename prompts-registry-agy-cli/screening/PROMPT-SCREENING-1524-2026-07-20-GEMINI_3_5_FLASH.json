@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1524-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering&colon; emerging threats and trends",
+    "authors": "Simser J.",
+    "year": "2012",
+    "doi": "10.1108/13685201311286841",
+    "abstract": "PurposeThe purpose of this paper is to explore typologies as well as emerging trends and threats in money laundering. Design&sol;methodology&sol;approachRecent trends and emerging threats in money laundering are discussed, both in terms of predicate activities &lpar;drugs, fraud&rpar; and in terms of techniques&sol;typologies. FindingsIt is found that the challenges and risks posed by money laundering to financial systems and to the rule of law persist. Research limitations&sol;implicationsUnderstanding evolving and emerging typologies and techniques is necessary to address money laundering challenges. Practical implicationsConsiderable resources are applied by regulators and the regulated to anti&hyphen;money laundering systems&semi; this paper provides a measure by which the robustness of those systems can be examined. Originality&sol;valueThis paper provides a succinct but comprehensive overview of the current state of money laundering, as well as a look at emerging threats. © 2013, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

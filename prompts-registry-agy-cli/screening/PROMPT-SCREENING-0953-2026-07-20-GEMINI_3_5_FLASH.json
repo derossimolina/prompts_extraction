@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0953-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Culture and the City: Articulations of Settler Colonialism from Haifa to Ramallah and Back",
+    "authors": "Abushama H.",
+    "year": "2024",
+    "doi": "10.1080/24694452.2024.2381642",
+    "abstract": "This article sets the development of urban cultural scenes in Palestine within a global frame of uneven development. It draws on field work in Haifa (in the 1948 Palestinian territories) and Ramallah (in central West Bank) to argue that the shift toward neoliberalism in 1985 and its sedimentation through the Oslo Accords in 1993 amount to a “transformed settler colonialism,” one more intimately tied to flows of global capital. I use articulation as evoked by Stuart Hall and Gillian Hart to critically assess how historically embedded cultural practices conjoin and splinter around the political economic shifts toward neoliberalism in the post-Oslo conjuncture. The article foregrounds the urban cultural scenes as vantage points into a “relational comparison” that crosses the “Green Line” and remains attuned to the specific dynamics of urban spatial and cultural production in relation to settler colonialism and global capitalism. I situate the artists’ responses as practices of articulation that elaborate conjunctural possibilities within the confines of capitalist and colonial structural limits. The article argues that despite their critique of the key processes of neoliberalization and colonialism, Palestinian artists remain subsumed by the processes’ structuring logics. Thus, the article makes three contributions: (1) a centering of articulation and relational comparison as a method of understanding the constitutive relationship between colonial and global capitalist modes of accumulation; (2) an analysis of settler colonialism as a historically differentiated structure that changes and transforms in a given spatiohistorical conjuncture; and (3) a foregrounding of the role of Palestinian artists through a focus on conjunctural possibilities and practices of articulation. © 2024 The Author(s). Published with license by Taylor & Francis Group, LLC.",
+    "source": "Annals of the American Association of Geographers"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

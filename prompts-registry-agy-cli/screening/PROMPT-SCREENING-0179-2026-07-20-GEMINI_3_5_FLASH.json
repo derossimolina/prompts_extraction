@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0179-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Applying AI to Canada's Financial Intelligence System: Promises and Perils in Combatting Money Laundering and Terrorism Financing",
+    "authors": "Ibalanky C.; Wilner A.",
+    "year": "2025",
+    "doi": "10.1177/00207020251334973",
+    "abstract": "Money laundering (ML) and terrorist financing (TF) are pernicious global challenges. Estimates suggest that ML represents 2 to 4 percent of global GDP, disrupting financial systems, hindering anti-corruption efforts, fuelling terrorism, and destabilizing governments and security institutions globally. Emerging technologies like artificial intelligence (AI) complicate detection and prosecution efforts, enabling anonymity in the movement of money. This article explores AI's role in anti-money laundering (AML) efforts and in countering the financing of terrorism (CFT), focusing on data analysis for financial intelligence units (FIUs) and private sector reporting entities. It addresses AI's uses, benefits, and risks in Canadian and international AML/CFT, explores opportunities and challenges of AI adoption, and proposes next steps for research and practical application. By examining AI's promises and perils in financial intelligence, this article aims to contribute to academic and policy-oriented efforts to understand and leverage AI for effective ML/TF prevention. © The Author(s) 2025.",
+    "source": "International Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

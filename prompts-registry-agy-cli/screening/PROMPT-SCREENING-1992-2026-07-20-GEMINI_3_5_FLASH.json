@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1992-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax evasion and avoidance typologies",
+    "authors": "Simser J.",
+    "year": "2008",
+    "doi": "10.1108/13685200810867456",
+    "abstract": "Purpose: The purpose of this paper is to explore tax evasion and avoidance typologies with a view to understanding how they work and the implications for those who handle the wealth of others. Design methodology approach: American, Canadian and UK cases of tax avoidance and tax evasion are studied. Findings: Structuring transactions to avoid or minimize taxes is highly complex, and thus, fraught with risk, particularly for advisors. Research limitations implications: Commercial and taxation law in a globalized economy is an ever-changing matter. Practical implications: There is an enormous potential for reputational risk which can bear significant consequences for the unwary financial advisor. Money launderers can hide their assets applying methods similar to those used to evade or avoid taxes. Originality value: Thousands and thousands of pages documenting tax evasion and avoidance cases have been distilled into an overview paper. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

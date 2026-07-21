@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0235-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of new regulatory initiatives on payments",
+    "authors": "Josyula H.P.",
+    "year": "2025",
+    "doi": "10.69554/XISS7425",
+    "abstract": "This paper examines the key regulatory frame-works responsible for determining the payment operations of financial institutions, in addition to consumers’ interactions with payment pro-viders, and discusses the associated challenges and potential opportunities. The paper discusses how compliance with modern regulations, such as the Revised Payment Service Directive and General Data Protection Regulation, in concert with legislation to combat money laundering and the financing of terrorism, enable better security practices through data security protocols and inno-vative protective measures. The paper argues that organisations that take a constructive approach to compliance management are not simply better protected from risks; they also enjoy a competi-tive advantage in the form of increased customer loyalty. Organisations must observe regulations as they make strategic technology investments to make their operations sustainable. To navigate the regulatory landscape successfully, payment providers must build strategic partnerships with industry participants. Security measures linked to technological advancement are essential for digital transactions to provide customers with convenience and regulatory compliance standards. This article is also included in the Business & Management Collection which can be accessed at http://hstalks/business. © Henry Stewart Publications, 1750-1806 Included in The Business & Management Collection (https://hstalks.com/business/).",
+    "source": "Journal of Payments Strategy and Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

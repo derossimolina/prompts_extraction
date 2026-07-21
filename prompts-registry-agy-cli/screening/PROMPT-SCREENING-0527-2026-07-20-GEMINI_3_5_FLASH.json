@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0527-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "REGULATING MANDATORY DUE DILIGENCE STANDARDS TO SAFEGUARD EUROPEAN ART MARKET AGAINST ILLICIT TRADE AND MONEY LAUNDERING",
+    "authors": "Jerzyk K.",
+    "year": "2024",
+    "doi": "10.21697/2024.13.2.06",
+    "abstract": "This article looks at the efficient regulatory tools used to curb illicit trafficking and money laundering on the art market. It focuses on the European Union (EU) due to its robust regulatory framework that consists of a matrix of legal instruments under public international law and EU secondary legislation. It endeavours to assess whether the complexity of an art trade regulatory framework allows the market participants to self-regulate by applying due-diligence standards. It also seeks to highlight the role of public institutions in delivering the guidelines on the minimum due diligence standards adapted to the current art market challenges, particularly stemming from many laundering schemes. This article commences with the legal framework for the protection of cultural heritage in the EU in the face of art market money-laundering schemes. Next, it outlines the longstanding tradition of codes of ethics in art market practice, and emphasizes its role in supporting due diligence as a tool preventing illicit art trade. Further on, the article looks at the regulatory framework of due diligence in art transactions. It concludes with an outlook of the enforceability of due diligence standards by way of self-regulation by art market participants. © 2024, Cardinal Stefan Wyszynski University in Warsaw. All rights reserved.",
+    "source": "Polish Review of International and European Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

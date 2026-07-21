@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0084-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Local microcredit in fourteenth-century Italy: social networks and documentary practices in Vercelli",
+    "authors": "Olivieri A.; Maffi L.",
+    "year": "2025",
+    "doi": "10.1017/S0268416025100830",
+    "abstract": "This article investigates the dynamics of microcredit in late-medieval Italy by examining the case of fourteenth-century Vercelli and its surrounding rural area. Drawing on an extensive corpus of notarial sources, it highlights how credit networks were sustained not only by elite bankers and merchants but also by less prominent actors embedded in everyday social and economic life. Two case studies-the baker Enrico da Greggio and the priest Salerno Ferraroto-illustrate the role of small-scale lenders and borrowers in structuring a dense web of transactions. Their activities reveal how personal trust, proximity and reciprocity enabled access to liquidity through loans, rents and credit, often mediated by the Sant’Andrea monastery and hospital. Far from marginal, these practices constituted a vital infrastructure of support for urban and rural populations alike, allowing individuals of modest means to become active participants in the circulation of capital. By analysing these intertwined networks, the article underscores the significance of documentary practices in shaping the economy of trust and credit. The study ultimately argues that grassroots credit systems were central to the functioning of late-medieval urban society, challenging narratives that privilege only large-scale or institutional forms of credit. © The Author(s), 2025. Published by Cambridge University Press.",
+    "source": "Continuity and Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

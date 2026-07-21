@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0201-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "MILITARY EXPENDITURE IN THE CONTEXT OF LABOR MARKET STRUCTURING",
+    "authors": "Zatonatska T.; Koval O.; Syzov A.; Horyacheva K.; Zatonatskiy D.",
+    "year": "2025",
+    "doi": "10.35774/jee2025.04.518",
+    "abstract": "This paper investigates the role of changes in military expenditure as a driver of structural transformations in the labour market, specifically through their impact on the employment-to-population ratio (EPR) in Germany, the Czech Republic, and Ukraine over the period of 1993–2024. Missing EPR data for Ukraine were estimated using a logit-AR(1) model. To analyse nonlinear and asymmetric effects, five machine learning models (MLP, LSTM, 1D CNN, Random Forest, and XGBoost) were developed and compared, incorporating hybrid autocorrelation correction of residuals. The interpretation of the results was conducted using SHAP analysis, and counterfactual «what-if» scenario simulations with ±σ variations were performed, alongside the identification of sensitivity threshold points. The findings reveal a pronounced asymmetry in the influence of military expenditure on labour-market structure: in Ukraine, a +1 σ increase in ME_diff raises the EPR by 0.295%, whereas a −1 σ decrease lowers it by only 0.064%. Critical threshold values at ±0.25 σ were identified, beyond which the effects become statistically and economically significant. Estimated multipliers indicate that additional military expenditure is associated with the creation of approximately five jobs per million USD in Germany and the Czech Republic, and more than twenty-nine jobs per million USD in Ukraine. These values exceed World Bank and IMF estimates for developed economies, reflecting the specific structural conditions and transformational dynamics of Ukraine’s labour market. © Tetiana Zatonatska, Oles Koval Alim Syzov, Kira Horyacheva, Dmytro Zatonatskiy, 2025.",
+    "source": "Journal of European Economy"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

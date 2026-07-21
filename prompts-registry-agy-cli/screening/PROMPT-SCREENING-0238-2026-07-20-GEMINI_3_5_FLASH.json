@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0238-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tackling digital payment frauds: a study of consumer preparedness in India",
+    "authors": "Lonkar A.; Dharmadhikari S.; Dharurkar N.; Patil K.; Phadke R.A.",
+    "year": "2025",
+    "doi": "10.1108/JFC-01-2024-0029",
+    "abstract": "Purpose: This paper aims to present a study to measure “Consumer Preparedness” (CP) towards digital payment frauds by considering factors such as awareness regarding fraud risk (“Awareness”), implementation of measures (“Protection”) and actions to be taken in case of fraud (“Responsiveness”). Design/methodology/approach: This study reviews existing literature to understand various typologies of digital payment fraud. The data of 372 consumers was collected using a structured questionnaire. The data was analyzed using analysis of variance (ANOVA) and Chi-square. CP score was calculated based on awareness score, protection score and responsiveness score. Findings: The study shows that the score for the level of awareness was low, for the level of protection was moderate and for the level of responsiveness was high, leading to an overall moderate level of preparedness. Further, a moderate association was observed between demographic factors and the level of preparedness. Practical implications: The authors recommend proactive and reactive measures for Central Banks regarding central fraud registry and intelligence exchange, consumer fraud vulnerability assessment model and mandating fraud risk management controls. Further, financial institutions are recommended to permit payment from registered devices only, implement strong customer authentication (including biometric authentication) and conduct periodic awareness sessions. Originality/value: The existing body of knowledge does not have a model or scoring mechanism to assess the preparedness of consumers to tackle digital payment fraud. The research paper adds a classification of fraud typologies and an exploratory approach to measure the CP score. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

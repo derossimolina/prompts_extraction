@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0708-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Importance of anti-money laundering regulations among prosumers for a cybersecure decentralized finance",
+    "authors": "Kirimhan D.",
+    "year": "2023",
+    "doi": "10.1016/j.jbusres.2022.113558",
+    "abstract": "This study displays the importance of anti-money laundering (AML) regulations among prosumers in decentralized finance (DeFi) in establishing cybersecurity. With a game theory model based on an integrated framework of crime theories, we find that beneficial claims of financial inclusivity and pseudonymity of permissionless DeFi come with a cost of vulnerability to cyberattacks due to its incompliance with AML regulations among prosumers. In contrast, cyberattackers can be deterred from attacking AML-compliant permissioned DeFi. These results have important implications for trust as a construct within the context of blockchain-based sharing economy and institutional roles played by decentralized governance and smart contract auditors in creating a “trustless” state-space without forfeiting cybersecurity of a blockchain-based sharing economy. We also provide cybersecurity policy suggestions for permissionless DeFi without sacrificing its decentralized nature. © 2022 Elsevier Inc.",
+    "source": "Journal of Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

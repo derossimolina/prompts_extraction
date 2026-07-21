@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1011-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Show me the money – managing politically exposed persons (PEPs) risk in UK financial services",
+    "authors": "Menz M.",
+    "year": "2021",
+    "doi": "10.1108/JFC-12-2019-0169",
+    "abstract": "Purpose: The purpose of this paper is two-fold. First, it highlights areas of disconnect between how the financial services sector in the UK approaches the management of politically exposed persons (PEPs) risk; the requirements of the UK’s laws and regulations in relation to PEPs; and the expectations of the Financial Conduct Authority (FCA) in this regard. It then proposes an alternative approach to the risk-management of PEPs. Design/methodology/approach: Semi-structured interviews have been carried out among compliance professionals in UK financial services. Findings: This paper provides rare insight into the anti-money laundering (AML) arrangements of UK banks, an area that has not yet been widely researched in the academic literature. It argues that the expectations of the FCA exceed both the letter and the spirit of the UK’s laws and regulation around AML by emphasising an administrative approach over a qualitative/analytical approach to risk-management. It further suggests that mixed messages disseminated by the FCA have incentivised banks to shift their focus from financial crime risk (i.e. preventing money laundering and terrorist financing, etc.) towards regulatory risk (i.e. the risk of falling foul of regulatory expectations). Practical implications: The paper makes suggestions for a more relationship-centric approach to PEP risk-management. Originality/value: It provides unique insight into PEP risk-management in financial services, and argues for the FCA to propagate a more relationship-centric approach to PEP risk-management. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

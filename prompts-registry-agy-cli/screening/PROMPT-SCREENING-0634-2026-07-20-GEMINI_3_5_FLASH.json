@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0634-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "When context matters- application and potential of financial crime risk indicators in selected african jurisdictions",
+    "authors": "Marxen K.",
+    "year": "2022",
+    "doi": "10.17159/1727-3781/2022/v25i0a14586",
+    "abstract": "This article explores the application and potential of financial crime risk indicators in international banking and mercantile transactions. Special emphasis is placed on lists of financial crime risk indicators which are circulated or have been drafted by governments and public institutions in sub-Saharan Africa. This article investigates inter alia whether such financial crime risk indicator lists created by African institutions differ noticeably – regarding content, drafting style, and availability – from other well-established indicator lists, and whether African financial crime risk indicator lists appropriately represent African commercial realities and thus meaningfully contribute to fighting financial crime on the continent and beyond. © 2022, North-West Unversity. All rights reserved.",
+    "source": "Potchefstroom Electronic Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

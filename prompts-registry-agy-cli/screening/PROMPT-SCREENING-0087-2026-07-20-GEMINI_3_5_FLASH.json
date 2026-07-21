@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0087-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Towards relational information governance practices: adapting and developing an information governance maturity model for the Omani banking sector",
+    "authors": "Foster J.; Al Wahshi J.; Abbott P.",
+    "year": "2026",
+    "doi": "10.1108/RMJ-04-2025-0046",
+    "abstract": "Purpose – Driven by regulatory instruments and the deployment of advanced anti-money laundering (AML) technologies, banks are facing the key organisational challenge of AML-related information governance (IG). This study aims to present an IG maturity model and self-assessment tool that may be used by banks and other financial institutions for the purposes of developing their IG capability. Design/methodology/approach – A qualitative approach was taken to the development of the IG maturity model. This proceeded through four steps: framework selection, empirical data collection via 50 interviews with IG stakeholders, thematic analysis including maturity assessment and model development, model validation and stakeholder review. Findings – The thematic analysis identified 347 unique IG practices across the eight banks. These practices were categorised into procedural practices, structural practices and relational practices. An IG maturity model was developed by adapting the Data Management Institute Data Maturity Model (DAMA, 2025). The key role played by the banks’ organisational context in influencing the development of IG practices was also identified. Research limitations/implications – The implications for studying the organisational conditions enabling the development of banks’ IG practices and the consequences for mitigating the risks of money laundering are discussed. Practical implications – This study develops an IG maturity model and self-assessment tool for banks to assess their IG capability. Originality/value – The value of this study rests in developing an IG maturity model that incorporates the assessment and development of relational IG practices that can aid in achieving organisation-wide IG integration and co-ordination. © 2026 Emerald Publishing Limited",
+    "source": "Records Management Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

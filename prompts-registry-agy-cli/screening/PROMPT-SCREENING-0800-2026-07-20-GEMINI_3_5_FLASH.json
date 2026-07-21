@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0800-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Corporate Practices for Managing Conflict of Interest in Terms of ESG Standards; [Корпоративные практики управления конфликтом интересов в аспекте стандартов ESG]",
+    "authors": "Astanin V.V.",
+    "year": "2022",
+    "doi": "10.17516/1997-1370-0952",
+    "abstract": "The global agenda for the integration and development of Social care and Corporate Governance (ESG) standards determines the necessity of the legal community attention to the tasks of regulatory, methodological, organizational support for their implementation in the business companies activities in the narrow focus on the conflict of interest prevention issues. The article analyzes and evaluates the consistency of measures aimed at eliminating personal interest, corporate disputes represented in ways of conflict of interest managing between the company, its managers, and employees, including relations with counterparties and affiliated persons context appearing during its business activities. The article provides an overview of corporate practices for managing conflict of interest in companies of banking, stock exchange and investment industry. Moreover, it observes the dialectical connection of the admitted conflict of interests with the processes of determination of tort and criminogenic consequences, including those reflecting in financial, corruption, official and economic crime. The study noted the role of conflict of interest management in ensuring the company social and corporate policy in the context of protecting the interests of employees, its customers, counterparties, minimizing its possible occurrences and consequences by the forces of internal control and audit, and compliance as well. The article emphasized the differences in the conflict of interest prevention concepts which are typical for public (state) and business services. In conclusion, the study revealed the methodology content for managing conflict of interest in the business activities, based on personnel administration, compliance with ethical standards, the culture of declaring conflict of interest, and limiting proprietary information circulation. © Siberian Federal University. All rights reserved.",
+    "source": "Journal of Siberian Federal University - Humanities and Social Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

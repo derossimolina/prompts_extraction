@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1285-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing Credit Risk in the Sphere of Commercial Lending to Organizations of the Kemerovo Region; [Оценка основных компонентов кредитного риска в секторе коммерческого кредитования организаций Кемеровской области]",
+    "authors": "Chernichenko S.G.; Kotov R.M.",
+    "year": "2019",
+    "doi": "10.21603/2074-9414-2019-4-671-679",
+    "abstract": "Introduction. Market evolution requires a constant improvement of monetary relations. Commercial credit expands the ability of enterprises to maneuver their working capital. It also mobilizes and redistributes free commodity resources in the production sector. The paper presents a holistic research in the field of credit risk assessment in a particular sector of commercial lending. Study objects and methods. The theoretic section of this publication identifies the design features of a commercial loan and the specific credit risks. The theoretical studies were performed in the context of the classical, legislative, scientific, and synthesized copyright formats. To conduct an assessment, it is necessary to focus on a separate segment of the commercial loan market, with a given regional and industry affiliation. By sorting the market participants according to the balance of outstanding pending debts, the authors chose the metallurgical enterprises of the Kemerovo region as research object. Results and discussion. The applied section reflects the authentic three-stage methodological approach, which includes the following stages of experimental and analytical work. The first stage involves structuring the risk situation and the structural elements of credit risk. The macroeconomic level involves three zones of indirect impact: state, region, and industry. At the microeconomic level, the authors identified several types of risk, in the order of their manifestation. The first one is the risk of delay in repayment of debt arising from the risk of capital structure and business risk. The second type involves subsequent risk of default on the loan, associated mainly with the potential risk of bankruptcy of a potential debtor. The second stage reflects the identification of private indicators for assessing credit risk in the context of its structural elements as based on 17 popular techniques, models, and recommendations of leading foreign and domestic scientists. The targeted selection was based on a given preference criterion, i.e. frequency of applying the coefficient in analytical practice. Thus, the authors obtained the following thematically differentiated combinations: financial independence ratio (capital structure risk indicator), indicators of the quality and correlation of receivables and payables (business risk indicators), coefficient current liquidity and the ratio of own working capital (bankruptcy risk indicators). The third stage involves an analysis of private indicators of the main components of credit risk. The analysis is based on the formed valuation design and the synthesis of valuation characteristics at a given regional and industry level, as compared with all-Russian trends. Conclusion. The analysis of most indicators revealed an unstable situation in the credit policy of metallurgical enterprises in the region, i.e. huge arrays and a high share of overdue debts, an irrational capital structure, a low level of liquidity of the balance sheet, and a significant proportion of unprofitable enterprises. Thus, a high level of risk of delay in repayment of debt and an increasing risk of bankruptcy can increase the level of risk of loan default. © S.G. Chernichenko, R.M. Kotov, 2019.",
+    "source": "Food Processing: Techniques and Technology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

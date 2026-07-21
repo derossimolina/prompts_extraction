@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2520-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Multi-jurisdictional strategies and the choice of family wealth preservation structure and jurisdiction",
+    "authors": "Meyer, CW",
+    "year": "2020",
+    "doi": "10.1093/tandt/ttaa089",
+    "abstract": "In today's world, it is common to hear about individuals investing in multiple counties and businesses involved with cross-border transactions, and it is imperative that these businesses and stakeholders understand their global exposure and create a plan that maximises the benefit of this globally, while reducing costs, confusion, and stress. With the world becoming smaller because of this, more and more clients find themselves in a place, some without even realising it, where more advanced Multi-jurisdictional Planning and structuring is needed. It is not as easy as it sounds-first you will have to identify how to go about it, then where to start, in which countries to do it, and what structures to use.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

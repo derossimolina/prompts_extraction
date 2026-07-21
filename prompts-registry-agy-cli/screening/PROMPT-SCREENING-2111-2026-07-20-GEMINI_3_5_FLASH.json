@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2111-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The components and mechanisms of organized crime and the drug traffic; [As peças e os mecanismos do crime organizado em sua atividade tráfico de drogas]",
+    "authors": "Oliveira A.",
+    "year": "2007",
+    "doi": "10.1590/s0011-52582007000400003",
+    "abstract": "This article uses the mechanism-based explanation as the method to analyze organized crime and the drug traffic. The authors begin by identifying the underlying components of such organized crime mechanisms and then proceed to describe a criminal organization dealing in drugs. The analysis draws on interviews, reports by Brazilian public prosecutors' offices, and police information. The empirical data confirm the components of organized crime and demonstrate the bankruptcy of public institutions, to the extent that criminal groups have succeeded in infiltrating these organizations from within and turning them into allies.",
+    "source": "Dados"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

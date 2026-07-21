@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1780-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Selling scandal or ideology? The politics of business crime coverage",
+    "authors": "Allen H.; Savigny H.",
+    "year": "2012",
+    "doi": "10.1177/0267323112455907",
+    "abstract": "Financial scandals and controversies have recently attracted much attention in the British press. The excesses of the bankers' bonuses, MPs' expenses scandals and those deemed 'benefit cheats' and welfare scroungers have been given prominence by the print news media, and the present Coalition government. The politicization of the current financial crisis has resulted in 'the privatization of loss and the socialization of costs'. Yet how do we make sense of this? Or how are those responsible for financial wrongdoings able to 'get away with it'? This article suggests that the interests of business as a class remain largely uncontested in contemporary political discourse. Just one way in which this is evident is through the coverage of financial crime, and this article offers as illustration a case study of the political construction of business crime (price fixing) in the pages of the British press. It is suggested that the way in which this crime is framed is reflective of a broader ideological discursive commitment which privileges business interests over the public interest. © The Author(s) 2012.",
+    "source": "European Journal of Communication"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0816-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Can Bitcoin be used for Zakat Payment?",
+    "authors": "BASARUD-DIN S.K.; ABDULLAH N.S.N.",
+    "year": "2023",
+    "doi": "10.47836/ijeam.17.2.09",
+    "abstract": "Bitcoin (BTC) was developed as a digital currency to facilitate online payment transactions between one party or individual and another without using a third party. However, the use of BTC can also be misused for money laundering, fraud in investment schemes, engaging in cyber-crimes, funding activities, etc. Additionally, the highly complex method of calculating BTC makes BTC irrelevant as a measure of value. Although there are inherent advantages and disadvantages to using BTC, it can be subject to zakat. This study explores how zakat institutions can receive zakat in Bitcoin (BTC) transactions. BTC has both advantages and disadvantages, including potential misuse for illegal activities and vulnerability to security breaches. The study employs a qualitative method, including interviews with zakat institutions and BTC practitioners, and document analysis. The aim is to create a model for zakat institutions to receive donations in BTC, contributing to the management of zakat and adapting to technological changes. The study's findings can help prepare a strategy for receiving zakat in BTC and addressing potential challenges. By bridging the literature gap, the study offers new insights and perspectives on bitcoin as a zakat payment asset. Its findings can be valuable for policymakers, religious scholars, and practitioners in the realm of Islamic finance and zakat management. Ultimately, the research seeks to improve the early preparation and strategizing of zakat institutions in the face of evolving donation methods. © 2023 International Journal of Economics and Management",
+    "source": "International Journal of Economics and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

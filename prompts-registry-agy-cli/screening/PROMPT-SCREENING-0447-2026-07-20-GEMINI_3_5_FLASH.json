@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0447-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combating trade-related fraud: do the Financial Action Task Force recommendations bite?",
+    "authors": "Bensassi S.; Raz A.F.",
+    "year": "2025",
+    "doi": "10.1111/ecca.12561",
+    "abstract": "We evaluate the efficacy of the Financial Action Task Force (FATF) Recommendations 2012, which set the global standard on combating money laundering and terrorist financing, by exploiting its staggered adoption in 16 East and South African countries. Using the trade gap as a proxy for trade-related fraud activities, such as trade-based money laundering, we find that the adoption of the FATF recommendations is correlated with a 15.3% reduction in trade-related fraud. The FATF is particularly effective within countries with capable state and low corruption. The amount by which FATF adoption can reduce trade-related fraud depends on a country's compliance level. Our results are robust to a series of robustness checks and contribute to a lively policy debate surrounding the role of international organizations in combating the financing of organized crimes. © 2024 The Author(s). Economica published by John Wiley & Sons Ltd on behalf of London School of Economics and Political Science.",
+    "source": "Economica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

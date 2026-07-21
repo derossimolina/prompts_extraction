@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1681-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of regulatory frameworks and state regulation in optimising the extraction of petroleum resources: A study of Australia and Norway",
+    "authors": "Hunter T.",
+    "year": "2014",
+    "doi": "10.1016/j.exis.2014.02.001",
+    "abstract": "When a State permits the extraction of its petroleum resources, it essentially liquidates an asset. However, in some states, a large percentage of the resource is left behind, with resource companies taking the 'easy oil', leaving recoverable resources remaining in the ground. For example the average recovery from Norwegian fields stands at around 50%, whilst recovery from similar Australian and USA offshore fields averages 35% or less. Such recovery of easy oil may lead to sterilised fields, where petroleum resources are stranded in situ, and the cost of recovering the resource becomes uneconomical. Furthermore some regulatory frameworks are inherently uneconomical since they create regulatory burden, which significantly contributes to increased costs in resource extraction. In order to optimise the recovery of petroleum, the State can utilise a number of legal tools, such as the legislative structure, and the legal regulation of petroleum activities and participants. By incorporating the concept of optimal recovery of petroleum into the regulatory framework, and structuring the regulatory framework based upon the concept of principle or objective-based regulation, where the State constructs its legislation based of overarching principles, it is possible to optimise the extraction of petroleum resources from a field. Furthermore, strong State regulation of petroleum activities and participants also contributes to optimising the extraction of petroleum resources from a field. © 2014 Elsevier Ltd.",
+    "source": "Extractive Industries and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

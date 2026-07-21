@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1419-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Designated non-financial businesses and professionals: A review and analysis of recent financial action task force on money laundering mutual evaluation reports",
+    "authors": "Choo K.-K.R.",
+    "year": "2014",
+    "doi": "10.1057/sj.2012.9",
+    "abstract": "Traditionally, the financial sector is often seen as the gatekeepers of the Anti-money Laundering/Counter Terrorism Financing regime. Increasingly, governments and law enforcement agencies have recognised the importance of designated non-financial businesses and professions in the fight against money laundering and terrorism financing activities. A review of Financial Action Task Force (FATF) mutual evaluation (and follow-up) reports for 15 jurisdictions reveals that a significant number of jurisdictions were assessed to be either non-compliant or partially compliant with the FATF Recommendations 12, 16, 20, 24 and 25. The analysis of the review indicated that there are still compliance issues in areas that might afford exploitative opportunities for criminals and organised crime groups. Most jurisdictions, for example, were deemed to be non-compliant in relation to there being no supervisory regime for real estate agents, dealers in precious metals and stones, accountants, trust and company service providers and no comprehensive monitoring for lawyers. This could have the undesired result of regulatory arbitrage where criminals and organised crime groups take advantage of a regulatory difference between two or more jurisdictions to facilitate their money laundering activities. Several potential research topics are also identified to seek to provide more evidence to support the policy process. © 2014 Macmillan Publishers Ltd.",
+    "source": "Security Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

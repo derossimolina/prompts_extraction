@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0443-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Deciphering the shadows: an empirical exploration of corruption’s impact on SMEs credit costs in OECD countries",
+    "authors": "Al Qudah A.; Al-Qalawi U.; Alwaked A.",
+    "year": "2024",
+    "doi": "10.1108/JFC-09-2023-0237",
+    "abstract": "Purpose: This study aims to investigate the intricate relationship between corruption and the credit costs faced by small and medium-sized enterprises (SMEs) in OECD countries, a critical yet underexplored area in financial crime research. The primary aim is to dissect and understand how corruption impacts SMEs’ access to credit, highlighting a significant yet overlooked aspect of financial crime. This research seeks to fill a gap in the literature by providing empirical insights into the economic consequences of corruption, specifically on SMEs financing. Design/methodology/approach: This study used secondary panel data from the World Bank and OECD databases. The data covered the period 2007–2020 for 25 OECD countries. This study used interest rate for SMEs loans as a dependent variable and GDP per capita, inflation and corruption index as independent variables. This study used the panel autoregressive distributed lag (ARDL) model to examine the relationship between variables. Findings: The empirical findings derived from Panel ARDL postulate an intriguing dichotomy in the effects of GDP per capita, inflation rate and corruption on interest rates in both the short and long run. It was discerned that an increase in GDP per capita and inflation rate correlates with a decrement in interest rates in the long run, suggesting a potential compromise by central banks between controlling inflation and fostering economic growth. Originality/value: This paper makes a novel contribution to the field of financial crime by illuminating the often-overlooked economic dimensions of corruption in the context of SMEs financing. It provides a unique perspective on the ripple effects of corrupt practices in credit markets, enriching the academic discourse and informing practical approaches to combating financial crime. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

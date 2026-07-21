@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0154-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Intelligent money laundering detection approaches in banking and E-wallets: a comprehensive survey",
+    "authors": "Kadamathikuttiyil Karthikeyan G.; Bhowmik B.",
+    "year": "2025",
+    "doi": "10.1007/s42001-025-00421-8",
+    "abstract": "The rapid evolution of financial technologies (FinTech) has propelled the world into a more dynamic and sophisticated digital financial landscape. This transformation has significantly expanded financial inclusion, offering new opportunities to individuals who were previously excluded from or had limited access to traditional banking services. Financial inclusion is crucial as it provides access to a broad spectrum of financial services, including bank accounts, credit and debit facilities, and e-wallets. While the rise in digital transactions has been driven by cost efficiency, convenience, and enhanced security measures, it has also led to an increase in economic crimes, particularly money laundering, resulting in substantial global economic losses. Consequently, the need for effective strategies to combat money laundering has never been more pressing. This study thoroughly investigates the state-of-the-art techniques in money laundering detection harnessing the capabilities of artificial intelligence (AI) technologies. First, we provide an overview of economic crimes and classify their various types, setting the stage for a focused discussion on money laundering. The paper then explores the money laundering landscape, including its impact and recent trends, followed by a discussion on different prevention and detection strategies. The paper also delves into AI-driven detection strategies, particularly those targeting money laundering, including the detection of laundering activities through e-wallets. Additionally, we address the research challenges associated with money laundering detection, such as the issue of class imbalance in financial datasets, and propose solutions to overcome it. Finally, the paper provides insights into future directions for research, aiming to equip the research community with the tools necessary to formulate proactive strategies for preventing and mitigating money laundering and related economic crimes. © The Author(s), under exclusive licence to Springer Nature Singapore Pte Ltd. 2025.",
+    "source": "Journal of Computational Social Science"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

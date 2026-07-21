@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2590-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Contributions to inflation after euro adoption: the case of Central and Eastern European countries",
+    "authors": "Kotlinski, K",
+    "year": "2020",
+    "doi": "10.12775/EiP.2020.021",
+    "abstract": "Motivation: Based on theory, the introduction of a single currency should cause a decrease in transaction costs, which in effect should lead to a drop in consumer prices. However, there is a common perception that the introduction of the single currency is conductive to excessive price increases with this providing a sufficient justification against the introduction of the euro. People subjectively estimate information on a certain economic phenomenon, and that estimation may not necessarily correspond to facts. The discrepancy between perceived inflation and its actual level in the new euro area member states may result from different inflation levels among varying consumption categories. Aim: The aim of the presented research is to assess the impact of the introduction of the single currency (euro) on the inflation rate in a breakdown by COICOP category in 5 countries of Central and Eastern Europe, which in the years 2007-2015 adopted the common EU currency. Results: The research was carried out using the comparative method. The inflation indicators were used in 12 categories of classification of individual consumption by purpose (COICOP). The research was conducted using a medium-term perspective: from the five years before the adoption of the euro to five years after its implementation. After the adoption of the euro, prices grew faster than the general indicator of inflation in two COICOP categories. The first of them was restaurants and hotels; while the second was alcoholic beverages, tobacco and narcotics. In the case of other inflation categories, no regularity was observed. In all investigated Central and Eastern European countries, the medium-term HICP inflation was lower after euro adoption than before.",
+    "source": "EKONOMIA I PRAWO-ECONOMICS AND LAW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

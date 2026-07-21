@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0849-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Prospects and challenges of Islamic fintech in Indonesia: a legal viewpoint",
+    "authors": "Muryanto Y.T.; Kharisma D.B.; Ciptorukmi Nugraheni A.S.",
+    "year": "2022",
+    "doi": "10.1108/IJLMA-07-2021-0162",
+    "abstract": "Purpose: This paper aims to explore the prospects and the challenges of Islamic fintech in Indonesia. This study also proposes a comprehensive legal framework to encourage and accelerate the growth of the Islamic economy. Design/methodology/approach: This study is the result of legal research with a statute approach and conceptual approach. The types of data used are legal materials consisting of primary legal materials and secondary legal materials. The technique of collecting legal materials is done by using library research techniques. The legal materials were analyzed using the legal norm method. Findings: Indonesia is a country with the largest Muslim population in the world. However, the market size of Indonesia’s Islamic fintech is still below Saudi Arabia, Iran, United Arab Emirates (UAE) and Malaysia. Saudi Arabia’s Islamic fintech is the biggest market in the world, with $17.9bn worth of transactions in 2020 while Iran is at $9.2bn, UAE $3.7bn, Malaysia $3.0bn and Indonesia $2.9bn. This condition was due to various challenges in the Islamic fintech industry in Indonesia, including inadequate regulations; complicated permit procedures; misuse of fintech for financing terrorism; rampant occurrence of illegal fintech businesses; and consumer disputes in the fintech sector. These challenges require the construction of a comprehensive legal framework through the formation of an Act on Fintech. Research limitations/implications: The focus of this research was limited to the problems occurring in the Islamic fintech sector in Indonesia as a country with the largest Muslim population in the world. Practical implications: The results of this research can be used as recommendations for the formulation of comprehensive policies for the growth and development of Islamic fintech. Social implications: Islamic fintech requires a comprehensive legal framework that functions to encourage the development of the Islamic fintech industry, digital economy growth and legal mitigation of various legal risks and misuse of fintech for financial crime and financing terrorism. Originality/value: This paper proposes an original idea of creating a legal framework in a form of the Islamic Fintech Act. The Act should cover such legal substances as follows: Islamic compliance; an integrated one-stop permit procedure; division of authority, coordination and synergy among authorities; prevention and resolution of digital financial system crisis; criminal sanctions; and consumer dispute resolution mechanisms and alternative institution for fintech consumer dispute resolution. © 2021, Emerald Publishing Limited.",
+    "source": "International Journal of Law and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

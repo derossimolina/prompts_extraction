@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2090-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organising and leading M&A projects",
+    "authors": "Meckl R.",
+    "year": "2004",
+    "doi": "10.1016/j.ijproman.2003.12.004",
+    "abstract": "M&A projects comprise all activities necessary to execute a transaction in which companies merge or another company is acquired. M&A deals have become an important strategic option for companies, although the risk of failure is high, as empirical evidence shows. The efficient management of an M&A project proves to be one of the key success factors for such transactions. Surprisingly this factor is neglected in most academic texts and empirical studies concerning the success of M&A. Based on the differentiation of three main phases of an M&A deal the paper derives recommendations for an explicit M&A project management approach. The structuring of the project, the selection of staff and the assignment of responsibilities are identified as the most important issues. Thus a process-oriented model for successfully managing M&A projects is developed. The model may be used as a reference for managing projects similar in complexity and content to M&A deals. © 2003 Elsevier Ltd and IPMA. All rights reserved.",
+    "source": "International Journal of Project Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

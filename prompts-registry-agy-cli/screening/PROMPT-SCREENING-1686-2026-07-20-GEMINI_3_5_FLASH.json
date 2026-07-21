@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1686-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Causes of noncompliance with international law: A field experiment on anonymous incorporation",
+    "authors": "Findley M.G.; Nielson D.L.; Sharman J.C.",
+    "year": "2015",
+    "doi": "10.1111/ajps.12141",
+    "abstract": "Using two field experiments, we probe the efficacy of international rules mandating that incorporation services establish their customers' true identities. The standards were designed to prevent anonymous \"shell\" corporations central to money laundering, corruption, and other crimes. Posing as consultants seeking confidential incorporation, we randomly assigned six experimental conditions in emails varying information about monetary reward, international and domestic law, and customer risk to 1,793 incorporation services in 177 countries and 1,722 U.S. firms. Firms in tax havens obey the rules significantly more often than in OECD countries, whereas services in poor nations sometimes prove more compliant than those in rich countries. Only the risk of terrorism and specter of the Internal Revenue Service decrease offers for anonymous incorporation, but they also lower compliance. Offers to \"pay a premium\" reduce compliance. The risk of corruption decreases response rates but, alarmingly, also decreases compliance rates. Raising international law has no significant effect. © 2014, Midwest Political Science Association.",
+    "source": "American Journal of Political Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1209-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Direct aid: International cooperation against laudering of assets and the crimes that precede IT; [Auxílio direto: UMA cooperação internacional no combate à lavagem de ativos e os crimes que a antecedem]",
+    "authors": "de Lima L.G.C.F.; Maciel-Lima S.",
+    "year": "2021",
+    "doi": "10.37497/REVCAMPOJUR.V9I1.724",
+    "abstract": "Background: The criminal process needs to adapt to the globalized world and improve investigative techniques, otherwise it becomes inoperative in relation to the macro-crime represented by crimes that generate global consequences and are often realized through the use of the financial system of different countries. Objective: The objective of the article is to analyze direct assistance, an investigative procedure that provides transnational dialogue, assistance and sharing of evidence, provided for in the 2015 Code of Civil Procedure. and private companies through compliance mechanisms for punitive effectiveness. Method: This article uses a qualitative approach; as for the technical procedure, it uses bibliographic research, by reviewing scientific articles on the subject in Google Scholar, from 2018 to 2020, with the descriptors \"criminal persecution\", \"international cooperation\" and \"financial crimes; as well as review of legislation related to the subject. Results: The surveys carried out contributed to verifying that the solution for the best investigative and sanctioning development of economic macrocrime is to isolate non-cooperatingcountries, ultimately seeking to prohibit financialrelationships with other States, measures that have already been guided by intergovernmental bodies. Conclusions: It was observed that the inspection bodies and the procedures adopted move towards the sharing of evidence and international assistance, expanding the scope of the investigation, but there are still tax havens th at impede the improvement of the punitive system. Copyright © 2021 the American Physiological Society",
+    "source": "Journal of Law and Sustainable Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

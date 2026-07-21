@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0639-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Big data surveillance across fields: Algorithmic governance for policing & regulation",
+    "authors": "Amicelle A.",
+    "year": "2022",
+    "doi": "10.1177/20539517221112431",
+    "abstract": "While the academic separation of policing and regulation is still largely operative, points of convergence are more significant than ever in the digital age, starting with concomitant debates about algorithms as a new figure of power. From the policing of illegal activities to the regulation of legal ones, the algorithmization of such critical social ordering practices has been the subject of growing attention. These burgeoning discussions are focused on one common element: big data surveillance. In accordance with such similarities and paralleled developments in policing and regulation, the article aims to further bridge the gap between literatures to respond to the calls for studying big data surveillance across institutional domains and social fields. To do so, it is focused on one case study that articulates algorithmic policing and regulation domains, in-between security and economic fields. This is the fight against illicit finance, i.e. ‘the global action against the financial flows that fuel crime and terrorism’. To what extent does big data surveillance make a difference in the main global policy of crime-fighting and financial regulation? Drawing on a fieldwork in a large North American bank, the present article takes stock of the algorithmic overlap between policing and regulation. It argues that the final result is policing and regulation of neither too much nor too little, which gives rise to automated and everyday mass surveillance while remaining as far removed from regulatory and crime-fighting ambitions as it is from dystopian visions of big data and algorithmic drama. © The Author(s) 2022.",
+    "source": "Big Data and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0524-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cashless policy initiative in Nigeria: outline of crucial socio-economic and regulatory considerations",
+    "authors": "Monye O.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-05-2023-0098",
+    "abstract": "Purpose: The Central Bank of Nigeria (CBN) recently relaunched Nigeria’s cashless policy initiative which seeks to reduce financial crime and tax avoidance, decrease cash dependency, advance the adoption of digital financial services (DFS), decrease the risks to the payment system and foster financial inclusion. This study aims to identify the unique challenges of going cashless in Nigeria, particularly in terms of infrastructural, exclusionary and cost implications of the policy on the average citizens. Design/methodology/approach: The author applies a doctrinal research methodology to identify and reflect on key challenges of the cashless policy from the economic, regulatory and transactional perspectives. Findings: The cashless policy initiative in Nigeria heralds value for financial integrity, financial policy regulation and user convenience. The mode of introduction, however, ushers in significant challenges and hardly considers Nigeria’s inadequate payment infrastructure, persistent financial exclusion, low levels of financial and digital literacy and capability, high cost of using DFS and pervasive proclivity for cash. As Nigerians adjust albeit inconveniently to the policy, the CBN can ameliorate the hardship by strengthening the payment infrastructure, particularly for digital payments, fostering consumer trust by safeguarding user funds and enabling consumer preferences. Research limitations/implications: Research materials include the national regulator’s policy documents and newspaper articles that have not been published in formal reports but non-the-less adequately mirror the policy intention of the CBN and the lived experiences of Nigerians. Practical implications: This study identifies the practical steps and regulatory measures that the CBN can take to improve acceptance and meaningful and sustainable adoption of the cashless policy by the majority of Nigerians. Social implications: The recommendations that are proffered provide some rich insights to inform regulatory direction for the CBN to seamlessly phase-in the cashless policy and consequently drive down financial exclusion in Nigeria. Originality/value: This study contributes to the policy discussion around the introduction of the cashless Nigeria project. The doctrinal research method highlights the policy intentions of the regulator in juxtaposition with lived experiences of Nigerians. This study offers recommendations to bolster financial inclusion, stability and integrity. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2285-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial intelligence (monitoring) as an effective way in the field of combating money laundering",
+    "authors": "Reznik, O; Utkina, M; Bondarenko, O",
+    "year": "2023",
+    "doi": "10.1108/JMLC-09-2021-0102",
+    "abstract": "Purpose The purpose of the article is to analyze the notion of financial intelligence (monitoring) in the system of combating money laundering and compare foreign financial intelligence units. Money laundering poses a systemic risk to the financial and economic spheres, as well as to the national security of all countries. Financial monitoring should be pointed out while analyzing the issue of overcoming and preventing money laundering. It serves as one of the most sovereign remedies in the system of counteracting money laundering to minimize and effectively combat organized criminality and money laundering. The high level of development of the shadow economy, corruption, ineffectiveness of regulatory and legal support, as well as duplication of functions of individual authorities have become prerequisites for the financial monitoring system formation. Design/methodology/approach The theoretical and legal principles of financial monitoring in the system of counteraction to money laundering using the system-structural method were analyzed. The application of this method allowed to systematize the basic provisions on financial monitoring and the principles of its implementation. The system-structural method was used combining with the method of terminological analysis and operationalization of concepts. This method was used to identify key problematic aspects of understanding the financial monitoring essence, the peculiarities of the scientific community views on the definition of financial intelligence, financial intelligence unit. The method of analysis and synthesis in their systemic combination, as well as the ascent from the abstract to the concrete, was directly used to determine the impact of money laundering on the financial and economic security of Ukraine in the context of globalization. The extrapolation method was used to determine the possibility of implementing the analyzed existing world experience in the domestic practice of financial monitoring as an effective way to combat money laundering. The method of creating a theory was used to generalize the results of the research, to find general patterns for the objects being studied. The comparative method was used for comprehensive comparative research. Findings The development of money laundering and terrorist financing is one of the main challenges facing each state in the context of financial globalization. This is because the owners of untaxed income are trying to give them a lawful origin. The so-termed criminal proceeds pose a threat not only to the economy of any state but also to the national system. In turn, the low level of the financial system controlling instrument is conducive to the accelerated criminally obtained income transfer, which leads to the development of the shadow economy. Originality/value The authors recognized the most appropriate interpretation of the term money laundering. This is the process of transforming illegally obtained income into legal, ie legal income. The purpose of such a transformation is to conceal the original source of criminal proceeds and eliminate their traces. However, it should also be emphasized that the term money laundering also applies to such financial transactions that form a certain asset as a result of criminal acts (in particular, corruption).",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

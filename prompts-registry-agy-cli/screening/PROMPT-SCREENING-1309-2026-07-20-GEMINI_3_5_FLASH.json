@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1309-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The effectiveness of Anti-Money Laundering policies and procedures within the Banking Sector in Bahrain",
+    "authors": "Lokanan M.E.; Nasimi N.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-10-2019-0080",
+    "abstract": "Purpose: The purpose of this paper is to identify the anti-money laundering (AML) policies and procedures applied by the banks operating in Bahrain and assess the effectiveness of these policies. Design/methodology/approach: Data for the study came from semi-structured interviews with compliance officers in Bahrain’s banking sector. A total of 22 interviews were conducted with Bahraini money laundering reporting officers and bankers. Findings: The findings indicate that the banks in Bahrain comply with international AML procedures in combating money laundering. Despite Bahrain being ranked as having strong compliance policies and AML procedures among the Gulf Cooperation Council region, there are still issues with regulatory technology that needs to be addressed. Practical implications: While there has been a positive impact of AML procedures, there are always more procedures that can be taken into consideration by banks in Bahrain to have more robust mechanisms to mitigate against the threat of money laundering. Originality/value: To the best of authors’ knowledge, this paper is among the first to conduct an informed study of the effectiveness of compliance in the Bahrain’s financial sector. It can be used as a foundation paper for more mix-research on money laundering threats facing Bahrain’s banks. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

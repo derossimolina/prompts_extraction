@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1489-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The challenge of commercial bribery and organized crime in China",
+    "authors": "Wedeman A.",
+    "year": "2013",
+    "doi": "10.1080/10670564.2012.716942",
+    "abstract": "Corruption has been classically defined as the misuse of public authority for private gain, which implies that corruption necessarily involves official authority and hence public officials. Bribery, however, often involves transactions between officials and private interests, including business interests, whereby the private party seeks to bend public authority to their advantage by paying off their official interlocker. Even in its classic form, therefore, corruption often spans both the public and the private. Public officials are not, however, alone in exercising authority. Managers and corporate officers also wield authority or fiduciary responsibility on behalf of others and can abuse that authority for private gain, not only in transactions involving public officials, but also in transactions with private parties. This article examines how China’s anti-corruption institutions have dealt with ‘commercial corruption’, including both public-to-private corruption and private-to-private corruption. It also examines the linkages between organized crime and corruption in China. © 2013 Taylor & Francis.",
+    "source": "Journal of Contemporary China"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

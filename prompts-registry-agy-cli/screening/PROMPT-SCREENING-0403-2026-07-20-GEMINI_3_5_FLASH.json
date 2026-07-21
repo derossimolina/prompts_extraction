@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0403-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal implications of automated suspicious transaction monitoring: enhancing integrity of AI",
+    "authors": "Turksen U.; Benson V.; Adamyk B.",
+    "year": "2024",
+    "doi": "10.1057/s41261-024-00233-2",
+    "abstract": "The fast-paced advances of technology, including artificial intelligence (AI) and machine learning (ML), continue to create new opportunities for banks and other financial institutions. This study reveals the barriers to trust in AI by prudential banking supervisors (compliance with regulations). We conducted a qualitative study on the drivers for adoption of explainability technologies that increase transparency and understanding of complex algorithms (some of the underpinning legal principles in the proposed EU AI Act). By using human-centred and ethics-by-design methods coupled with interviews of the key stakeholders from Eastern European private and public banks and IT AI/ML developers, this research has identified the key challenges concerning the employment of AI algorithms. The results indicate a conflicting view of AI barriers whilst revealing the importance of AI/ML systems in banks, the growing willingness of banks to use such systems more widely, and the problematic aspects of implementing AI/ML systems related to their cost and economic efficiency. Keeping up with the complex regulation requirements comes at a significant cost to banks and financial firms. The focus of the empirical study, stakeholders in Ukraine, Estonia and Poland, was chosen because of the fact that there has been a sharp increase in the adoption of AI/ML models in this jurisdiction in the context of its war with Russia and the ensuing sanctions regime. While the “leapfrogging” AI/ML paths in each bank surveyed had its own drivers and challenges, these insights provide lessons for banks in other European jurisdictions. The analysis of four criminal cases brought against top banks and conclusions of the study indicate that the increase in predicate crimes for money laundering, constantly evolving sanctions regime along with the enhanced scrutiny and enforcement action against banks are hindering technology innovation and legal implications of using AI driven tools for compliance. © The Author(s) 2024.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

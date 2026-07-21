@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0299-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Rethinking Indonesian Anti-Money Laundering Laws in the Age of Online Gaming Economies",
+    "authors": "Rusdiana S.; Tantimin; Fitri W.",
+    "year": "2024",
+    "doi": "10.19109/nurani.v24i2.24422",
+    "abstract": "Indonesia’s Anti-Money Laundering (AML) laws were originally designed to combat traditional financial crimes; however, the rise of virtual items in online gaming economies presents new challenges. This study aims to assess whether the current legal framework is equipped to address the use of virtual items in money laundering activities. Utilizing a normative legal research method and a statutory approach, the research draws on secondary data from Law No. 8 of 2010 on the Prevention and Eradication of Money Laundering, sourced from Indonesian legal databases. The data are analyzed descriptively to evaluate their relevance to digital economies. The findings reveal that while the AML Law provides a basic framework, it requires further development to specifically address the role of virtual assets and gaming platforms in money laundering. This study proposes legal reforms, including clearer definitions of virtual assets and amendments to impose liability on gaming developers, with the aim of enhancing Indonesia's regulatory framework to address emerging threats. © 2024, Fakultas Syariah dan Hukum, Universitas Islam Negeri Raden Fatah. All rights reserved.",
+    "source": "Nurani"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

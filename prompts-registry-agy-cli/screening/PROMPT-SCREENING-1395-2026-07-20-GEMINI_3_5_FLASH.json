@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1395-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Divergent effects of international regulatory institutions. Regulating global banks and shadow banking after the global financial crisis of 2007–2009",
+    "authors": "Woyames Dreher V.",
+    "year": "2020",
+    "doi": "10.1080/09692290.2019.1675743",
+    "abstract": "The rules structuring the global economy frequently emerge from informal international regulatory institutions. A set of approaches in International Relations and International Political Economy conceptualize these institutions as negotiation arenas and deem powerful actors to determine rule creation. Others stress the change-inhibiting effects of densely institutionalized environments. Yet variation in policy outcomes of post-crisis financial regulatory reforms cannot be fully explained by either. I argue that conceptualizing institutional asset specificity helps explain international policy processes and outcomes. The institutional assets of regulatory institutions, their rules, prescriptions, and procedures of decision-making, offer divergent transaction cost reducing effects. Specific asset institutions possess narrow institutional scopes and stringently defined mandates. They reduce transaction costs by offering tested approaches and established regulatory instruments, while proving unadaptable to policy issues falling outside their scope. General asset institutions avoid constraints of specialization and can adapt to various purposes. The lower asset specificity in turn increases the ambiguity over regulatory instruments and the commensurate costs of standard development. I assess the argument by analyzing four post-crisis reform initiatives on regulating global banks and shadow banking. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Review of International Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

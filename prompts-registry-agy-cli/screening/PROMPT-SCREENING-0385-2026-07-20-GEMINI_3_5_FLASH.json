@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0385-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "‘Hiding in plain sight’: organised crime, financial crime and property",
+    "authors": "L’Hoiry X.; Rugg J.; Parton L.E.; Antonopoulos G.A.; Colliver K.; Hunter C.; Page G.; O’Malley L.",
+    "year": "2025",
+    "doi": "10.1007/s12117-025-09580-6",
+    "abstract": "This special issue of Trends in Organised Crime brings together recent empirical research on organised crime, financial crime and property. The collection comprises six original contributions, which collectively reveal the multiple ways property intersects with organised and financial crime – from organised violence against property, predatory landlordism, and domestic cannabis cultivation, to mortgage and real estate fraud, and money laundering. © The Author(s) 2025.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

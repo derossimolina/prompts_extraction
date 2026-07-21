@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1826-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and audit fees",
+    "authors": "Habib A.; Hasan M.M.; Al-Hadi A.",
+    "year": "2018",
+    "doi": "10.1080/00014788.2017.1392842",
+    "abstract": "We investigate the association between state-level money laundering sentences and audit fees in the US. Money laundering measures a broad category of offenses involving financial transactions using funds or monetary instruments gained through criminal activities and tax evasion. We find that firms headquartered in US states with high rates of money laundering sentences pay more audit fees. Our results suggest that auditors incorporate, as a fee premium, the higher risks involved when clients operate in those states. Our result remains robust to alternative specifications of money laundering proxies, and to the inclusion of a number of firm-level and state-level control variables. We also conduct two-stage least squares and propensity score matching analysis to mitigate the endogeneity problem that might arise from omitted variables, reverse causality, or model misspecification problems. © 2017 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Accounting and Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

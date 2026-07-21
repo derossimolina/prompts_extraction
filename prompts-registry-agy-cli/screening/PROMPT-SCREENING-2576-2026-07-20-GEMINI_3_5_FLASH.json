@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2576-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Pioneering management buy-out and entrepreneurial finance research: Mike Wright's research legacy",
+    "authors": "Sannajust, A; Groh, A",
+    "year": "2023",
+    "doi": "10.1007/s11187-022-00635-4",
+    "abstract": "Plain English Summary A Tribute to Mike Wright: The Research Legacy of a Prolific Management Buy-out and Entrepreneurial Finance Scholar. Mike Wright was a prolific scholar with an incredibly long and diverse publication list. He pioneered management buy-out and entrepreneurial finance research. This academic niche emerged with the appearance of the first leveraged buy-out transactions in the USA in the late 1970s. Mike accompanied this development since its inception and surveyed international buy-out markets like no other researcher. The academic discipline, and Mike's research, diversified into financing relationships with innovative entrepreneurial ventures and new methods of raising entrepreneurial capital. This tribute describes the development of management buy-out and entrepreneurial finance literature and practice by reviewing Mike's original research output in the field. The review may also serve as a compendium for young scholars venturing into management buy-out and entrepreneurial finance research. Abstract This paper reviews Professor Mike Wright's contributions to the management buy-out and entrepreneurial finance literature. It documents the development and variety of his academic work over time. We begin by describing Mike's research impact, before analyzing his bibliometric records and providing definitions of his favorite research topics. We then discuss his individual papers starting with the emergence of buy-outs, agency costs, and corporate governance issues. After this, we move to internationalization, boom and bust, Mike's acknowledgement of the arrival of active investors, emerging markets, deal structuring, syndication, new venture finance, financial and economic performance, and recent developments. We document the legacy of an abundant scholar and, thanks to his outstanding academic impact, provide guidance through the evolution of management buy-out and entrepreneurial finance research since its inception.",
+    "source": "SMALL BUSINESS ECONOMICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

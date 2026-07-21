@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2470-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "INTERNATIONAL BUSINESS, CORRUPTION, AND BRIBERY",
+    "authors": "Windsor, D",
+    "year": "2013",
+    "doi": "10.1108/S2051-5030(2013)0000011008",
+    "abstract": "Purpose - This chapter examines the corporate social responsibility (CSR) of international businesses to combat commercial and governmental corruption. The focus is on multinational enterprises (MNEs) as key business actors globally. Design/methodology/approach - The methodology of the chapter is a combination of literature review, summary of international anticorruption accords, and analysis of available data sources. The literature review is not a systematic survey of academic literature but rather citation of key works bearing on the chapter's purpose. Greater emphasis rests on anticorruption accords and data sources to provide practical guidance to business managers and public officials. Findings - Corruption is global and ubiquitous although varying markedly by country and industry. Corruption occurs in multiple forms such as bribery, entertainment, extortion, facilitating payments, favors, gifts, gratuities, and travel. International anticorruption accords now constitute a formal global norm against bribery and extortion in commercial or governmental transactions. Economic and political costs of corruption are high. Active national enforcement is gradually increasing. Practical implications - The needed corporate policy is not to pay bribes, large or small, in any form for any reason. Such policy will in future extend to prohibit even minor facilitating payments. Businesses should define and enforce broadly applied anticorruption norms. The chapter cites key examples of prosecutions and anticorruption efforts. Originality/value of chapter - This chapter marshals available information from literature, anticorruption accords, and corruption data sources. The chapter is intended to be a useful guide for business managers and public officials.",
+    "source": "INTERNATIONAL BUSINESS, SUSTAINABILITY AND CORPORATE SOCIAL RESPONSIBILITY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

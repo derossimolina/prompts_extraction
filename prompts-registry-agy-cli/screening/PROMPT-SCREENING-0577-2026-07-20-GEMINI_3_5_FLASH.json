@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0577-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Funding innovation and the regulatory environment – The role of employment protection legislation",
+    "authors": "Moro A.; Maresch D.; Ferrando A.; Udell G.F.",
+    "year": "2022",
+    "doi": "10.1016/j.jbusres.2022.03.042",
+    "abstract": "Access to external finance is essential for firms to engage in innovation processes and to grow. The regulatory environment plays a vital role in facilitating this access. We explore the role of employment protection legislation in the probability that firms obtain bank credit. We propose that restrictions on structuring employees’ work schedules and dismissing employees reduce access to credit by increasing the credit risk incurred by lenders. Our findings are based on 21,332 observations (European Central Bank SAFE dataset and World Bank Doing Business dataset) and reveal that a higher level of employment protection legislation is negatively related to the probability of firms obtaining bank credit. These results are robust to confounding, endogeneity, and selection bias, as well as to alternative specifications. © 2022 Elsevier Inc.",
+    "source": "Journal of Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

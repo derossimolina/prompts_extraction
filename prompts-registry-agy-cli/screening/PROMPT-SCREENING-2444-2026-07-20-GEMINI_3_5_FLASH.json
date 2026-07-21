@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2444-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Private Foundations in the United Arab Emirates: Empowering Family Wealth Management Strategies",
+    "authors": "Mrazek, Y; Zagatti, K",
+    "year": "2024",
+    "doi": "10.1093/tandt/ttae049",
+    "abstract": "Private Foundations have become an indispensable tool for ultra-high-net-worth individuals (UHNWIs) and their families in the United Arab Emirates (UAE) seeking to optimize their wealth and legacy planning strategies. In the dynamic landscape of wealth management, Middle Eastern entrepreneurial families have long relied on foreign offshore Trusts and Foundations as an essential tool for safeguarding assets and preserving intergenerational continuity. These structures, while effective for assets located abroad, have encountered limitations when it comes to regionally based assets such as shares in core businesses or real estate. However, following a dramatic revamp and expansion of its regulatory framework during the past decade, the United Arab Emirates currently offers arguably the most comprehensive and sophisticated tool chest of wealth structuring/business continuity solutions in the world. Private Foundations in the UAE have marked a significant milestone in the UAE legal framework with over 1,000 Foundations under management. This article delves into the landscape of Private Foundations in the UAE, focusing on their role in asset protection and portfolio restructuring for family wealth preservation. Drawing upon the unique characteristics of Trusts & Trustees' approach, the authors provide valuable insights into the recognition, regulation and operational dynamics of Private Foundations within the country's business-oriented framework.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

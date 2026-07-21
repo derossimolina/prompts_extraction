@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2209-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Small business credit availability and relationship lending: The importance of bank organisational structure",
+    "authors": "Berger A.N.; Udell G.F.",
+    "year": "2002",
+    "doi": "10.1111/1468-0297.00682",
+    "abstract": "This paper models the inner workings of relationship lending, the implications for bank organisational structure, and the effects of shocks to the economic environment on the availability of relationship credit to small businesses. Relationship lending depends on the accumulation over time by the loan officer of 'soft' information. Because the loan officer is the repository of this soft information, agency problems are created throughout the organisation that may best be resolved by structuring the bank as a small, closely-held organisation with few managerial layers. The shocks analysed include technological innovations, regulatory regime shifts, banking industry consolidation, and monetary policy shocks.",
+    "source": "Economic Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

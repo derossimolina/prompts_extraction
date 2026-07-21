@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2509-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "PROPERTY CRIMES IN THE BLOCKCHAIN SPHERE: NEW CRIMINAL SCHEMES AND THEIR CRIMINAL LAW ASSESSMENT",
+    "authors": "Mkrtchian, SM",
+    "year": "2020",
+    "doi": "10.17150/2500-4255.2020.14(6).845-854",
+    "abstract": "The sphere of blockchain and circulation of cryptocurrency should be recognized as one of the most dynamically developing branches of economy, and this claim is further supported by its unique features, such as the de-centralized character of the net, the anonymity of users and their actions, the inability to recall or reverse the transaction, and a high volatility of virtual currencies. These characteristics made the blockchain technology attractive not only for law-abiding individuals, but also for criminals. For a long time most legal scholars in Russia and abroad viewed the sphere of blockchain as the sphere of criminal actions connected with illegal trade in goods, services or materials, whose circulation is limited or forbidden (narcotic substances, arms, pornography, etc.), and with laundering of illegal gains or financing terrorism. Current global trends in combating cybercrime leave no doubt that the ideas of the invulnerability of the blockchain net to unsanctioned access through the modifications of codes, the use of malware, the invulnerability to thefts or other property crimes against users or the third party are rather utopian. The legislative practice of recent years shows that these trends have not yet been recognized in our country. The research presented in this article consisted in the analysis of property crimes in the sphere of blockchain that are most common in the global virtual space, including in its Russian segment. The author describes the options for the qualification of such criminal actions provided by the current legislation and used in Russian court practice. The author also identifies the cases when the texts of some Articles of the Criminal Code of the Russian Federation do not match the level of public danger and the essence of criminal infringements against property committed with the use of information technologies, including the sphere of blockchain. A number of suggestions on improving the texts of Art. 158, 159.6, 165, 272 and 273 of the CC of the RF are presented.",
+    "source": "RUSSIAN JOURNAL OF CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

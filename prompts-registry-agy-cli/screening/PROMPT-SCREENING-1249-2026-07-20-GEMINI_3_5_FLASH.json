@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1249-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Advancing the Transformational–Transactional Model of Effective Leadership: Integrating two Classic Leadership Models with a Video-Based Method",
+    "authors": "Hoogeboom M.A.M.G.; Wilderom C.P.M.",
+    "year": "2019",
+    "doi": "10.1002/jls.21655",
+    "abstract": "The presented empirical study demonstrates that the predictive validity of Bass' “transformational-transactional” model of leadership can be enhanced by incorporating certain aspects of the older Ohio State “initiating structure-consideration” model of leadership. A precise, fine-grained video-based method shows that “initiating structure” behaviors (e.g., directing, informing, structuring) explained the variance in leader and team effectiveness better than “transactional behavior.” Thus, a refined version of Bass' augmentation thesis is supported: initiating structure behaviors (and not transactional behaviors, as originally posed) plus transformational leader behaviors are associated with high leader effectiveness. Another moderation effect of transformational leadership is established: between management-by-exception active and team effectiveness. The resulting expanded version of the transformational–transactional model calls for further video-based research of effective (team) leadership behaviors. © 2019 University of Phoenix",
+    "source": "Journal of Leadership Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

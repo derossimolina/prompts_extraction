@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1844-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crimes committed by terrorist groups: Theory, research, and prevention",
+    "authors": "Hamm M.S.; van de Voorde C.",
+    "year": "2005",
+    "doi": "10.1007/s12117-005-1023-y",
+    "abstract": "Statement of Purpose: A decline in state-sponsored terrorism has caused many terrorist organizations to resort to criminal activity as an alternative means of support. This study examines terrorists' involvement in a variety of crimes ranging from motor vehicle violations, immigration fraud, and manufacturing illegal firearms to counterfeiting, armed bank robbery, and smuggling weapons of mass destruction. Special attention is given to transnational organized crime. Crimes are analyzed through the routine activity perspective and social learning theory. These theories draw our attention to the opportunities to commit crime and the criminal skills necessary to turn opportunity into criminality. Through these lenses, the research appraises the \"successes\" and \"failures\" of terrorists' engagement in crime. Because \"failures\" can result from law enforcement efforts to (1) interrupt criminal skill development, and/or (2) remove criminal opportunities via technologies and transportation systems, the research represents a best practices approach to the study and control of terrorism. © 2006 Springer.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2563-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Understanding service quality: insights from the literature",
+    "authors": "Prakash, G",
+    "year": "2019",
+    "doi": "10.1108/JAMR-01-2018-0008",
+    "abstract": "Purpose The purpose of this paper is to review the service quality (SQ) literature in order to understand issues involved in its conceptualization and operationalization. Design/methodology/approach The paper uses systematic literature review method. The unit of analysis is peer-reviewed journal articles published during 1984 to 2017. Findings Findings suggest manufacturing, banking, information technology, higher education, healthcare are the top sectors contributing to the SQ literature. More than 60 models of the SQ have been identified. Service-driven capabilities may be structured along adaptation with strategic drivers and imperatives, learning and alignment, and problem structuring. In doing so the SQ literature is evolving across overlapping phases of conceptualization, expansion, re-conceptualization and integration. Research limitations/implications - The paper contributes to the body of knowledge by presenting a unified synthesis of more than 814 articles published in the last three decades. Practical implications - Insights from the paper will help practitioners in understanding customers' expectations and accordingly configuring effective service delivery systems, setting standards and communicating value to end-customers. This in turn helps them in developing service-based competencies and achievement of competitive advantage. Social implications - Insights from the paper may help in conceptualizing and delivering SQ-driven public services. Originality/value - The paper synthesizes and presents various facets of the SQ as a unified body of knowledge.",
+    "source": "JOURNAL OF ADVANCES IN MANAGEMENT RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

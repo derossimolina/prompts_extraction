@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0631-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Does holding offshore jurisdictions to higher AML standards really assist in preventing money laundering?",
+    "authors": "Perkins A.J.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-10-2021-0116",
+    "abstract": "Purpose: This paper aims to contend that when tackling financial crimes such as money laundering and terrorist financing, international regulators are seeking to hold offshore jurisdictions such as the Cayman Islands to higher standards and that this detracts from the pursuit of detecting and prosecuting money launders. Design/methodology/approach: This paper will deal with the following perceived issues: firstly, to offshore jurisdictions as a concept; secondly, to outline the efforts made by the Cayman Islands to combat money laundering and to rate these changes against Financial Action Task Forces’ (FATAF’s) technical criteria; thirdly, to demonstrate that the Cayman Islands is among some of the world’s top jurisdictions for compliance with FATAF’s standards; and finally, to examine whether greylisting was necessary and to comment upon whether efforts by international regulators to hold offshore jurisdictions to higher standards detracts from the actual prosecution of money laundering within the jurisdiction. Findings: Greylisting the Cayman Islands in these authors’ view was something that should have never happened; the Cayman Islands is being held to standards far beyond what is expected in an onshore jurisdiction. There is a need for harmonisation in respect of international anti money laundering rules and regulations to shift the tone to prosecution and investigation of offences rather than on rating jurisdictions technical compliance with procedural rules where states have a workable anti-money laundering (AML) regime. Research limitations/implications: The implications of this research are to show that offshore jurisdictions are being held by FATAF and other international regulators to higher AML standards than their onshore counterparties. Practical implications: The author hopes that this paper will begin the debate as to whether FATAF needs to give reasons as to why offshore jurisdictions are held to higher standards and whether it needs to begin to contemplate higher onshore standards. Originality/value: This is an original piece of research evaluating the effect of FATAF's reporting on offshore jurisdictions with a case study involving primary and secondary data in relation to the Cayman Islands. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0409-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing the role of the Intergovernmental Action Group Against Money Laundering in West Africa (GIABA) in light of virtual assets and cross-regional cryptocurrency-based money laundering in Nigeria",
+    "authors": "Adaramola O.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2025.100129",
+    "abstract": "Africa is one of the fastest-growing crypto markets in the world, with its crypto transactions peaking at $20 billion per month in mid-2021, with Nigeria contributing to the world's third largest bitcoin-holding. Evidence continues to grow, showcasing criminals who seek to use cryptocurrencies for illegal activities like money laundering which could subsequently give rise to the event of an unregulated economy and global financial instability. As a result of the challenges of these unconventional currencies and transaction methods, the Financial Action Task Force (FATF) updated its recommendations (particularly with the inclusion of Recommendation 15 on New Technologies) to address the various money laundering and terrorism financing risks associated with virtual assets (including cryptocurrencies) and Virtual Asset Service Providers (VASPs) as an attempt to encourage member states’ regulatory actions against such risks. As there has been considerable work carried out by the Intergovernmental Action Group Against Money Laundering in West Africa (GIABA) with regards to the implementation of Recommendation 15 in West African member states (and particularly Nigeria for the purpose of this research), this paper therefore investigates and evaluates the role of GIABA as an FRSB in monitoring Money Laundering in West Africa and implementing FATF Standards in the 21st-century era of virtual assets and other cryptocurrencies. Particularly, it provides an in-depth assessment of GIABA's work in monitoring the implementation of Recommendation 15, especially with regards to cryptocurrency-based money laundering amidst the growth of cryptocurrency exchange and trading services in West Africa. © 2025 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

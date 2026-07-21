@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0143-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Strategic choices in money laundering: Smurfing, layering, and financial over-diversification",
+    "authors": "Contreras A.; Villa Pérez E.",
+    "year": "2026",
+    "doi": "10.1016/j.jeconc.2025.100199",
+    "abstract": "Money laundering enables criminal organizations to integrate illicit funds into the legal economy while evading detection, posing significant challenges for regulators and policymakers. We develop a formal framework to examine criminal organizations’ choice between two money laundering methods. Smurfing is a low-risk but high-cost strategy that disperses illicit funds through consumption and investment in the real sector, whereas asset laundering is a lower-cost yet higher-risk strategy operating through the financial system and relying on extensive transaction layering and portfolio diversification to avoid detection. Our analysis shows that anti-money laundering (AML) policies which increase the detection risk for asset laundering can unintentionally reallocate illicit funds toward smurfing. This displacement effect undermines policy goals by expanding illicit money flows in the legitimate real economy. These findings underscore the importance of anticipating criminals’ adaptive behavior and accounting for the substitutability of laundering methods when designing AML policies that coordinate enforcement across both the financial and real sectors. © 2025",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

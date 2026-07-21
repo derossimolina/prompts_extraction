@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0073-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency and its Nexus with Money Laundering and Terrorism Financing within the Framework of FATF Recommendations; [Las criptomonedas y su nexo con el lavado de dinero y la financiación del terrorismo en el marco de las recomendaciones del GAFI]",
+    "authors": "Anggriawan R.; Susila M.E.",
+    "year": "2024",
+    "doi": "10.14718/NovumJus.2024.18.2.10",
+    "abstract": "Cryptocurrency has emerged as a viable alternative to conventional payment systems, offering its users notable advantages such as cost efficiency and rapid transaction processing. However, cryptocurrencies’ decentralized nature, anonymity, and susceptibility to cyber threats introduce the potential for their exploitation in illicit activities, notably money laundering and terrorism financing (ML/TF). This scholarly investigation seeks to investigate the roles played by international organizations actively combating such criminal activities. In this academic context, a meticulous consideration of the inherent risks associated with the aforementioned criminal endeavors is undertaken, aligning with the guidelines and recommendations set forth by the Financial Action Task Force (FATF). The study underscores a significant finding that cryptocurrency accounts can be opened anonymously, with no centralized registry to monitor cryptocurrency ownership. This characteristic poses a formidable challenge in confiscating funds linked to terrorist activities. Even in instances where cryptocurrency transactions may be traced, accessing this critical data necessitates the involvement of third-party entities, given that cryptocurrency transactions are recorded in decentralized ledgers spanning multiple jurisdictions. Furthermore, the study underscores the imperative of coordination and information exchange as indispensable elements in the ongoing battle against organized and transnational criminal activities, specifically ML/TF. Moreover, the study elucidates the incongruence between cryptocurrency and FATF regulations governing electronic fund transfers, as cryptocurrencies can make transactions through opaque and unregulated conduits, such as the deep web. © 2024, Universidad Catolica de Colombia. All rights reserved.",
+    "source": "Novum Jus"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

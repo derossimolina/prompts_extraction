@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2180-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Transnational Financial Crime: Crooked Lawyers, Tax Evasion, and Securities Fraud",
+    "authors": "Block A.A.; Griffin S.P.",
+    "year": "2002",
+    "doi": "10.1177/104398602237684",
+    "abstract": "Serious transnational organized criminals must always be on the alert for prospective places to hide and to secure their ill-gotten proceeds. Offshore havens have long been the harbor of choice for these criminals, as well as for legitimate businesspersons who evade taxes. The authors chronicle and analyze several case studies of grand-scale fraud and other crimes, complete with analysis of noteworthy criminals. The article concludes with an examination of the many permutations of the social networks that are necessary to carry out these schemes. © 2002, Sage Publications. All rights reserved.",
+    "source": "Journal of Contemporary Criminal Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

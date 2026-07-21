@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1186-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Prospects of legal regulation of crypto economy and ICO in Russia and other countries",
+    "authors": "Levashenko A.D.; Ermokhin I.S.; Koval A.A.",
+    "year": "2019",
+    "doi": "10.18288/1994-5124-2019-5-80-99",
+    "abstract": "This article discusses the key issues of legal regulation of the crypto economy in some countries (USA, Switzerland, France, Russia, Belarus, Israel, and the EU as a whole). Special attention is paid to the legal regulation of ICO as a way to attract foreign investments. The statements of regulatory authorities of different countries are considered; the existing practice of ICO project regulation and the current state of the primary token placement market are analyzed; the aspects of the extraterritorial effect of the U.S. securities legislation are studied, and so are the key risks for the investor and the creator of an ICO project. A separate paragraph is devoted to the known methods used by law enforcement services (e.g. Europol) to fight money laundering and terrorism financing through criminal cryptocurrency transactions. As a result of the analysis, taking into account the current practice of combating money laundering, recommendations are made to change the relevant legislation. In addition, this article discusses the problems of legal uncertainty regarding the taxation of crypto assets. The authors analyzed the current legal framework in the Russian Federation aimed at regulating the turnover of crypto assets. In particular, the bill on digital financial assets was considered. The overall conclusion of the study is that, in general, Russia today has the opportunity to become one of the leaders in the new market. Russia ranks second in the world in the number of ICOs, and the country has launched a number of blockchain projects that are popular around the globe. © 2019 Editorial Board of the Journal Economic Policy.",
+    "source": "Ekonomicheskaya Politika"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0567-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Predicting money laundering sanctions using machine learning algorithms and artificial neural networks",
+    "authors": "Lokanan M.E.",
+    "year": "2024",
+    "doi": "10.1080/13504851.2023.2176435",
+    "abstract": "This article used machine learning (ML) and artificial neural network (ANN) algorithms to predict the likelihood of a country being sanctioned by the Basel Institute on Governance for not adhering to anti-money laundering (AML) standards. Data for this paper came from the Basel AML Index and the World Bank. The results showed that the logistic regression and support vector machine (SVM) classifiers had the highest performance and balanced accuracy scores in sanction prediction. Additionally, these two algorithms also had the highest precision, specificity, and F1 scores, indicating that they were robust in their predictions of money laundering sanctions. In contrast to the ML classifiers, the ANN model had the highest sensitivity and receiver operating characteristic scores for money laundering sanctions. The strongest predictors of sanctions are financial transparency, political and legal risks, unemployment rate, and money laundering and terrorist financing risks. These findings reinforce the potential practical applications of ML and ANN models in predicting sanctions. © 2023 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Applied Economics Letters"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

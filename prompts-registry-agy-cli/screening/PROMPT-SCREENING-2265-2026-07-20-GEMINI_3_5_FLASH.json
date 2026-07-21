@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2265-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Entrepreneurial terrorism: financial strategies, business opportunities, and ethical issues",
+    "authors": "Lemieux, F; Prates, F",
+    "year": "2011",
+    "doi": "10.1080/15614263.2010.536728",
+    "abstract": "This paper presents a condensed review of the literature on how domestic and international terrorism organizations finance their causes and activities. So far, academic works have mostly investigated three areas: (1) legal funding activities such as charity organizations; (2) criminal predatory financial activities; and (3) money laundering strategies and informal banking systems. In this paper, we propose to adopt a different focus by examining the nature and evolution of economic rationalities of terrorist groups as well as structural opportunities offered by the configuration of extra-national economies and illegal or legal market trends. This paper aims to revisit the existing literature and apply some of the findings to further our understanding of how terrorist movements can generate profits and create wealth by taking advantage of local, national, and global economic structures.",
+    "source": "POLICE PRACTICE AND RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2302-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Corporate governance, incentives, and industry consolidations",
+    "authors": "Brown, KC; Dittmar, A; Servaes, H",
+    "year": "2005",
+    "doi": "10.1093/rfs/hhh009",
+    "abstract": "This article studies the determinants of the success of industry consolidations using a unique sample of firms established at the time of their initial public offering: roll-up IPOs. In these transactions, small, private firms merge into a shell company, which goes public at the same time. These firms deliver poor stock returns; their operating performance mimics that of comparable firms but does not justify their high initial valuations. However, if the managers and owners of the firms included in the transaction remain involved in the business as shareholders and directors, operating and stock price performance improve, and future acquisitions are better received by the market. Higher ownership by the sponsor of the transaction leads to a reduction in performance, consistent with the view that the sponsor's compensation is excessive. These findings highlight the impact of corporate governance on performance.",
+    "source": "REVIEW OF FINANCIAL STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

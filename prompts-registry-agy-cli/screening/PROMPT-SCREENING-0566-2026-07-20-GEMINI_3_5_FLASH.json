@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0566-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Factors influencing anti-money laundering regulatory approaches towards casinos and cryptocurrencies in Bangladesh",
+    "authors": "Haq M.Z.; Ayub Z.A.; Yusoff Z.M.; Khan M.A.A.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-04-2021-0034",
+    "abstract": "Purpose: This paper aims to critically explore the factors influencing the regulation of gambling and cryptocurrencies as part of anti-money laundering (AML) initiatives in Bangladesh. As a member of the Asia/Pacific Group on money laundering, Bangladesh must adopt a risk-based approach to regulate these entities. Design/methodology/approach: This study applied an exploratory design and investigated the real nature of the challenge Bangladesh facing in adopting a risk-based approach to regulate gambling and cryptocurrencies. Findings: This study demonstrates that current regulatory responses towards gambling and cryptocurrencies in Bangladesh are largely influenced by passive wait-and-see policy instead of a proactive risk-based approach, a measure mandated by the Financial Action Task Force (FATF). It demonstrates that these financial entities, which are poorly regulated because of their unclear legal status in Bangladesh and the regulator’s apparent lack of understanding of the type of threats they pose, may facilitate money laundering. Effective risk-based regulation is required to control potential risks. Research limitations/implications: This paper focuses on two specific areas –gambling and cryptocurrencies – which are linked to two specific FATF Recommendations: designated non-financial businesses and professions (DNFBPs) and new technologies. Further research is required to investigate the concern from the perspective of other entities. Practical implications: The results of this study will help inform policymakers about ways in which current regulatory approaches may need to be modified to better combat money laundering and financing of terrorism. Originality/value: According to the authors’ knowledge, this is the first study aiming to explore challenges Bangladesh confronts in implementing a risk-based approach for DNFBPs and new technologies. Therefore, it provides important insights into the dilemma regulators facing in implementing global AML standards within their traditional legislative and regulatory framework. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1329-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Whose risk? Bank de-risking and the politics of interpretation and vulnerability in the Middle East and North Africa",
+    "authors": "El Taraboulsi-Mccarthy S.",
+    "year": "2021",
+    "doi": "10.1017/S1816383121000643",
+    "abstract": "Following the events of 11 September 2001, measures aimed at countering the financing of terrorism (CFT) were intensified by States. Many countries around the world adopted strict anti-money laundering and CFT regulations for the transfer of funds globally. This process increased the costs of complying with regulatory requirements and imposed high penalties on banks for non-compliance. As a result, preventive measures-often known as de-risking-were taken up by banks, including terminating the accounts of clients perceived as high-risk for money laundering or terrorist financing, and delaying transfers. These measures, however, have had negative consequences, reducing financial access for local civil society organizations in conflict-Affected contexts that are deemed high-risk for terrorist activities. Drawing on five years of research to understand the impact of de-risking on conflict-Affected contexts from a local perspective, this paper reflects on the local political economy of CFT, with a focus on the Middle East and North Africa. It explores two key areas of inquiry. The first of these is the politics of interpretation-how counterterrorism as a discourse and a set of practices, of which CFT is one, gets interpreted by local authorities and banks, and subsequently gets reinterpreted to the population. This also has implications for which local actors are better positioned to access funds than others, and why. The second area of inquiry is the politics of vulnerability-how the local political economy impact of CFT can increase the social and economic vulnerabilities of some groups more than others. This paper demonstrates that under the guise of counterterrorism, local authorities in conflict-Affected contexts have used CFT to restrict the non-profit and philanthropic space and are using banking regulations to shape that space in ways that are bound to have negative medium-and long-Term implications for it. Copyright © The Author(s), 2021. Published by Cambridge University Press on behalf of the ICRC.",
+    "source": "International Review of the Red Cross"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

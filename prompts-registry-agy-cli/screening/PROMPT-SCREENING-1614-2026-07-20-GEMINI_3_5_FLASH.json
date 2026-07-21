@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1614-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Improving the aquisition profit of cross border transactions by adjusting the tax due diligence process - A theoretical model based on a German target",
+    "authors": "Endert V.; Mammen A.",
+    "year": "2015",
+    "doi": "10.3311/PPso.7968",
+    "abstract": "M&A-transactions are often used by the top management for increasing their shareholder value for realizing identified synergy potentials of the target, like economies of scale and scopes. From a tax perspective they are interesting for the acquirer to reduce the group cash tax paid and the effective tax rate as well by using loss carry forwards of the target or utilizing the tax rate differences between the group entities. Simultaneously potential risk factors have to be captured early in the planning process to save the acquisition profit over all phases of an (m&a) transaction. In that context an important instrument is the so-called due diligence. Actually empirical studies show that nearly 30 percent of all (m&a) transactions are not successful (Deloitte, 2012, p.27). Furthermore, the empirical results indicate that due diligence analyses could not be shaped efficiently as well. For improving and structuring the due diligence process, a holistic standard has not been established until now. The main goal of this article is to develop a risk oriented, mathematically based approach for the tax due diligence, which helps to improve the issues for planning, assessing and monitoring the anticipated acquisition profit of a transaction under consideration of specific tax conditions related to the target. The proposed model can systematically capture tax risks within the framework of tax due diligence. That makes standardization of the tax due diligence process possible, which in turn makes adoption into a(n) (inter)national standard for conducting due diligence activities. © 2015, Technical University of Budapest. All rights reserved.",
+    "source": "Periodica Polytechnica Social and Management Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

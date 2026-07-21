@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0109-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ASSESSMENT OF THE IMPACT OF FINANCIAL AND NON-FINANCIAL INSTRUMENTS ON EQUITY AND CASH FLOWS AS THE BASIS FOR DECISION-MAKING TO INCREASE ENTERPRISE MARKET CAPITALIZATION",
+    "authors": "Vakhovych I.; Kryvovyazyuk I.; Kovalchuk N.; Kovalska L.; Dorosh V.; Burban O.",
+    "year": "2024",
+    "doi": "10.55643/fcaptp.4.57.2024.4439",
+    "abstract": "The market capitalization of an enterprise is one of the key indicators that characterize the degree of influence of financial and non-financial instruments on its volumes and dynamics. Establishing the relationship between such instruments and metrics of equity and cash flows best outlines the plane of their direct impact on stimulating market capitalization and implementing effective management measures in the context of optimizing the use of equity and cash flows. The purpose of the study is to establish how the impact of indicators of financial and non-financial instruments on equity and cash flows forms an appropriate basis for making managerial decisions to increase the market capitalization of enterprises. As a result of the study, the toolkit for increasing the market capitalization of the enterprise from the standpoint of its grouping in terms of financial and non-financial plane was clarified. It was found that among the 36 analyzed indicators of the impact on equity and cash flows of the studied machine-building enterprises in Ukraine during the period 2010-2021, the most significant are bank lending, investment and technical metals, research and development costs, foreign scientific and technical services received, production investments, work-in-progress, and accounts paya-ble for products, goods, and services. The results were transformed into a model of ranked instruments for stimulating the market capitalization of machine-building enterprises, which demonstrates the degree and directions of the influence of indicators of financial and non-financial instruments on the dynamics of equity and cash flows, which ensures the formation of an information database for making decisions on the further use of such instruments. The structuring of the toolkit serves as the basis for forming a system of management decisions containing practical recommendations within each group of instruments aimed at optimizing market capitalization through increased equity and cash flows of the enterprise. The obtained results will be beneficial to financial analysts of enterprises in preparing databases for making financial and non-financial decisions. © 2024 by the author(s).",
+    "source": "Financial and Credit Activity: Problems of Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

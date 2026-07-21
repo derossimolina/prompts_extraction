@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0295-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The utilisation of scientific crime investigation methods and forensic evidence in the criminal investigation process in Indonesia",
+    "authors": "Bakhtiar H.S.; Ilyas A.; Kholiq A.; Bakhtiar H.S.",
+    "year": "2025",
+    "doi": "10.1186/s41935-025-00456-y",
+    "abstract": "Background: Modern crimes, including cybercrimes, financial fraud, and terrorism, are increasingly complex, transnational, and sophisticated, often leaving minimal traces that are detectable through conventional investigation means. As crimes evolve, forensic evidence plays a crucial role in uncovering the truth and establishing culpability. This study examines Indonesia’s regulatory framework for scientific crime investigation and forensic evidence, compares it internationally, evaluates its effectiveness across police jurisdictions, and analyses investigators’ perceptions of its use. Results: The regulatory framework for forensic investigations in Indonesia has been established through various legislative and technical provisions, including the Indonesian Criminal Procedure Code, the Law on Electronic Information and Transactions, and specific police regulations governing the collection, preservation, and analysis of forensic evidence. However, despite these regulations, the implementation of forensic science in criminal investigations remains inconsistent across regions owing to gaps in enforcement, lack of forensic infrastructure, and varying levels of forensic expertise among investigators. Between 2022 and September 2024, 1,068,595 criminal cases were recorded across 34 regional police departments and two national agencies. Polda Metro Jaya (170,712 cases), Polda Sumatera Utara (136,722 cases), and Polda Sulawesi Selatan (96,456 cases) had the highest crime rates. Crime peaked in 2023 (452,507 cases) before declining to 287,384 cases in 2024, reflecting improved law enforcement strategies. To evaluate the effectiveness of scientific crime investigations, Polda Metro Jaya and Polda Sulawesi Selatan were selected as representative samples of Western and Eastern Indonesia. Between 2022 and September 2024, Metro Jaya applied forensic methods in 56.5% of its cases, whereas Sulawesi Selatan used forensics in only 13.9% of its investigations. Metro Jaya focused on theft (28.8%), forgery (23.5%), and transnational crime (15.3%), whereas Sulawesi Selatan prioritised narcotics cases (88.3%). Conclusions: Indonesia’s legal framework supports the use of scientific crime investigation methods and forensic evidence through legislation and police regulations, yet challenges persist owing to inconsistent application, limited forensic infrastructure, and reliance on conventional methods. Regional disparities highlight the need for standardisation and increased resources. Investigator interviews confirm that forensic evidence strengthens legal cases and reduces wrongful convictions, but obstacles such as insufficient training, outdated technology, and weak regulatory enforcement remain. Comparisons with the UK, the US, and South Korea underscore Indonesia’s need for a national forensic body to enhance its forensic capabilities and the effectiveness of its law enforcement practices. © The Author(s) 2025.",
+    "source": "Egyptian Journal of Forensic Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

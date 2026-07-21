@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0017-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cleaning mafia cash: An empirical analysis of the money laundering behaviour of 2800 Italian criminals",
+    "authors": "Nazzari M.; Riccardi M.",
+    "year": "2024",
+    "doi": "10.1177/14773708231224981",
+    "abstract": "Despite the wide reach of anti-money laundering legislation worldwide and increasing media attention, fostered by journalistic leaks such as Panama Papers, empirical knowledge on how criminals launder their illicit proceeds is still scarce. The few available empirical studies show that money laundering (ML) schemes are often less sophisticated than they are depicted in the political and media debate. To contribute to the empirical knowledge of ML behaviour, and test this hypothesis, the present study analyses the ML activities related to 2818 Italian offenders included in the ML section of the LexisNexis’ WorldCompliance database. Through a quantitative content analysis of textual information related to each offender's profile, it highlights the characteristics of the ML offenders, the methods (or ‘typologies’ in FATF terms) employed, the assets seized, the business sectors involved and the countries in which ML was conducted. The results confirm that criminals tend to employ unsophisticated typologies, as well as prefer Italy or jurisdictions that are close (geographically and culturally) to Italy for laundering their illicit proceeds. Tangible assets (first real estate and registered vehicles) are more frequent than financial assets. Finally, differences exist between the laundering by mafia-related ML offenders and non-mafia ones. The study provides empirical ground to progress in the knowledge of how ML offenders behave, and supports the idea that criminals, when laundering their proceeds, do not act as legitimate entrepreneurs, but may be driven by other constraints and drivers. © The Author(s) 2024.",
+    "source": "European Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0216-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Criminal Liability for Money Laundering and Terrorist Financing through Non-Fungible Tokens: A Comparative Legal Study between the Sultanate of Oman, the United Arab Emirates and the United Kingdom",
+    "authors": "Al-Balushi R.H.; Al-Shuaibi Z.N.",
+    "year": "2025",
+    "doi": "10.1017/cri.2025.10114",
+    "abstract": "Blockchain technology is emerging as one of the most profound and cutting-edge innovations of the twenty-first century, providing a decentralized, immutable system for recording transactions. It has enabled the tokenization of distinctive digital assets, including art, music and real estate, through non-fungible tokens (NFTs). NFTs enable asset transfers by operating on pseudonymous blockchain networks, thereby preventing the disclosure of the owner’s real-world identity. While it enhances user privacy and innovation, it also creates significant anti-money laundering and counter-terrorism financing challenges. Fraudsters and other bad-faith actors can use these assets to obfuscate dirty money and illicit financial transactions, given lax or non-existent regulations on NFTs and extremely lax Know-Your-Customer compliance. In light of the above, the authors explore the nexus between NFTs and financial crime (with a particular focus on the legal frameworks of the Sultanate of Oman, the United Arab Emirates and the United Kingdom) in this article. The paper aims to evaluate how each jurisdiction’s response to NFT-related abuse has evolved and been effective in practice. This will be done through a review of existing laws, enforcement, regulations and regulatory gaps. The article ends with specific policy recommendations to enhance regulatory certainty, enforcement effectiveness and international cooperation, supporting an innovation-first approach to the NFT space tempered by necessary measures to prevent criminal abuse. © International Society of Criminology, 2026.",
+    "source": "International Annals of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

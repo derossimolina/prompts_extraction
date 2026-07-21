@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2427-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "BANKING ACTIVITY IN UKRAINE: NEGATIVE CHALLENGES OF MODERNITY AND CRIMINAL INFLUENCE",
+    "authors": "Shepitko, VY; Shepitko, MV; Shchur, BV; Voloshyna, MA",
+    "year": "2019",
+    "doi": "10.18371/fcaptp.v2i29.171937",
+    "abstract": "The development of the financial and credit system of Ukraine is under pressure from global economic procedures. These procedures are included the gradual change of key players in this field and the manifestation of aggression in order to influence the decision making. Ukraine is under the influence of war attacks and economic, political and legal changes. This also applies to the banking sector, which is under the influence of reforms and significant state regulation. In addition, it should be noted that military and aggressive attacks in Ukraine led to the using of the banking sector in Ukraine to finance terrorism, money laundering, carrying out other negative influences. In fact, these procedures multiplied by the named military, economic, political and legal events led to a decrease in the number of banks and mistrust of banking institutions. Current challenges and criminal impact on banking in Ukraine require the prevention and cessation of criminal activities in the provision of banking (financial) services. However, such a result can not be achieved by the application of only criminal legal measures. International experience shows that this requires an integrated approach in the regulation of economic relations, the implementation of agreed control measures, the use of administrative and civil liability.",
+    "source": "FINANCIAL AND CREDIT ACTIVITY-PROBLEMS OF THEORY AND PRACTICE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

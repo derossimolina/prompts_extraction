@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1673-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Recent development of anti-money laundering law in Jordan",
+    "authors": "Abdalla Abu Olaim A.M.; Rahman A.A.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-07-2015-0027",
+    "abstract": "Purpose: We are living in a time when there is a stronger requirement for co-operation to fight organized crimes and the resulting flow of illicit funds. This is due to the globalization and interconnection between world economies and financial systems, as well as with the new technologies that allow rapid movement of funds around the globe. From the early beginning, Jordan realized the importance of providing anti-money laundering technical assistance, especially at the international level. The reason for this comes from Jordan’s strong belief that money laundering crimes can be fought domestically as well as internationally, particularly by combining efforts between Jordan and other countries. The purpose of this paper is to examine the development that Jordan has witnessed in the fighting of money laundering. Design/methodology/approach: This paper relies on various laws that tackle organized anti-money laundering in Jordan before 2007, with the Jordanian Anti-Money Laundering and Counter Terrorist Financing Law for 2007 as the primary source of information. Findings: Before 2007, Jordan fought money laundering through a group of laws that are indirectly concerned with combating money laundering. While these laws govern certain crimes, they managed to fight money laundering indirectly. By the year 2007, the Jordanian Anti-Money Laundering Law was passed and published on the official gazette on June 17, 2007. This law became effective after 30 days from that date. The Jordanian Anti-Money Laundering Law is one of the needed laws to keep a safe financial environment. Jordan’s obligation in accordance to the international conventions has made the country join and ratify the efforts, resulting in the issuing of the law. Since then, this law has become concerned with anti-money laundering in Jordan. Originality/value: This paper provides an examination of the system in Jordan to combat money laundering before and after 2007. It is hoped that the content of this paper can provide some insight into this particular area for practitioners, academics, policy makers and legal advisers, not only in Jordan but also elsewhere. There will be significant interest in how Jordan has been developing the anti-money laundering system because of the international nature of the crime and its seriousness. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

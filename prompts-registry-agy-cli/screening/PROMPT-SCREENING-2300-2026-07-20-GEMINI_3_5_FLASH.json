@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2300-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Using graph database platforms to fight money laundering: advocating large scale adoption",
+    "authors": "Tiwari, M; Ferrill, J; Mehrotra, V",
+    "year": "2023",
+    "doi": "10.1108/JMLC-03-2022-0047",
+    "abstract": "Purpose This paper advocates the use of graph database platforms to investigate networks of illicit companies identified in money laundering schemes. It explains the setup of the data structure to investigate a network of illicit companies identified in cases of money laundering schemes and presents its key application in practice. Grounded in the technology acceptance model (TAM), this paper aims to present key operationalisations and theoretical considerations for effectively driving and facilitating its wider adoption among a range of stakeholders focused on anti-money laundering solutions. Design/methodology/approach This paper explores the benefits of adopting graph databases and critiques their limitations by drawing on primary data collection processes that have been undertaken to derive a network topology. Such representation on a graph database platform provides the opportunity to uncover hidden relationships critical for combatting illicit activities such as money laundering. Findings The move to adopt a graph database for storing information related to corporate entities will aid investigators, journalists and other stakeholders in the identification of hidden links among entities to deter activities of corruption and money laundering. Research limitations/implications This paper does not display the nodal data as it is framed as a background to how graph databases can be used in practice. Originality/value To the best of the authors' knowledge, no studies in the past have considered companies from multiple cases in the same graph network and attempted to investigate the links between them. The advocation for such an approach has significant implications for future studies.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

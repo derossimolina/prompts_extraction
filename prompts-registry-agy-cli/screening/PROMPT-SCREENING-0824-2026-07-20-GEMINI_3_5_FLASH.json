@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0824-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Regulation of Money Laundering and Corporate Criminal Responsibility in Spain: compliance as a key for Virtual Asset Service Providers; [La regulación de blanqueo de capitales y la responsabilidad penal de la persona jurídica en España: compliance como clave para los proveedores de servicio con activos virtuales]",
+    "authors": "Anzola A.; dos Santos M.O.T.",
+    "year": "2022",
+    "doi": "10.22197/rbdpp.v8i3.730",
+    "abstract": "Initiating with the conceptualization of who are Virtual Asset Service Providers (hence forward: exchangers), especially the ones who work with virtual exchangeable assets, this paper aims to study the high risk their activities suppose on increasing money laundering and what are Spain’s legal framework on money laundering and if they can be enforced on exchangers, based not only on the national legislation but also on the European Union’s existing directives on the subject. Moreover, it will be analysed the role of compliance as a practical procedure tool to prevent money laundering in exchangers activities and how the current legislation in Spain already promotes that, as the current criminal law extinguishes responsibility of legal persons who demonstrate an effective compliance program if they fulfil all requisites. Hence, this paper will be able to make a comprehensive study on exchangers, who they are and what are their activities as regulated in Spain’s legal framework. Therefore, is going to answer the investigation’s main question regarding the role of compliance to deter money laundering in this focus group. © 2022 Instituto Brasileiro de Direito Processual Penal. All rights reserved.",
+    "source": "Revista Brasileira de Direito Processual Penal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

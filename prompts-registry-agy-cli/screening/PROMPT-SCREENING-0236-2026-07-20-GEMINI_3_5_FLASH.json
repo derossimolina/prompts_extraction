@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0236-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Personal responsibility and knowledge about money laundering: a study with Brazilian accountants",
+    "authors": "Sallaberry J.D.; Venturini L.D.B.; Martínez-Conesa I.; Flach L.",
+    "year": "2024",
+    "doi": "10.1108/JFC-03-2023-0068",
+    "abstract": "Purpose: This study aims to analyze the relationship between the personal responsibility, the intrinsic knowledge of the norms and the knowledge of signs of money laundering of accountants. Design/methodology/approach: The research was developed with responses from 381 Brazilian accounting professionals through a survey, statistically analyzed using structural equations. Findings: The results indicate that personal responsibility directly affects the levels of intrinsic knowledge and knowledge about signs of money laundering; however, the different dimensions of knowledge were not related to each other. Practical implications: From these results, organizations can clarify the individual about their responsibility, optimizing the use of training and mitigating costs, with greater sustainability and security for the organization, employees and business partners. Social implications: The results contribute to the construction and modeling of latent constructs on money laundering knowledge, with validity, reliability and statistical significance. Originality/value: This research discusses and empirically explores the knowledge about money laundering of the accountants’, one of the main explanatory factors of whistleblowing in business. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

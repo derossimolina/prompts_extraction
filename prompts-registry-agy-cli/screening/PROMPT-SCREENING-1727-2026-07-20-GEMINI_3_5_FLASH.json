@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1727-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Effectiveness of US anti-money laundering regulations and HSBC case study",
+    "authors": "Huang J.Y.",
+    "year": "2015",
+    "doi": "10.1108/JMLC-05-2015-0018",
+    "abstract": "Purpose – This paper aims to provide a macro analysis of the USA’s anti-money laundering (AML) legislation. In examining the context and consequences of these regulations, a general determination can be made on the effectiveness of the current US AML legislation. The major AML regulations in the USA are covered under the Bank Secrecy Act, USA Patriot Act and the Office of Foreign Assets Control. It is difficult to determine what constitutes as implementation and maintenance of effective AML Compliance Programs because US federal AML requirements remain largely dynamic. This paper will provide some context to why certain major AML regulations were established as well as the reasoning behind their implementation. This paper will then attempt to determine the effectiveness of current AML regulations, particularly on the banking sector, by looking at several cases of alleged failure to maintain effective AML Compliance Programs. An examination will be conducted on HSBC’s $1.9 billion settlement in 2012 to the US government, as HSBC failed to establish a reasonable AML program according to the US Department of Justice press releases. Design/methodology/approach – A brief description of major US AML regulations pertaining to the 2012 HSBC case is first made. Also, a look into the frequency of suspicious activity report (SAR) filings as well as initiated money laundering investigations is made. The paper critically analyzes the Financial Action Task Force (FATF)’s evaluation of US AML regulations. Findings – It is evident that the FATF held an accurate evaluation of US AML regulations being both very comprehensive and severely enforced. The main criticism is with the implementation of these regulations driving adverse economic and social effects. Financial institutions fear being charged with not having a proper AML program; this causes banks to be more inclined to inflate SARs as well as engage in financial exclusion. It is difficult to prevent these adverse effects, as they directly result from having strict and comprehensive AML legislation, which is necessary to prevent and detect money being laundered. Practical implications – A determination as to whether US AML regulations need strengthening or is too strict in that it causes adverse effects. Originality/value – A macro analysis of America’s AML legislation is severely needed. Many papers on the issue lack a thorough description of the large-scale socio-economic effects of the AML programs of American financial institutions. © 2015, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

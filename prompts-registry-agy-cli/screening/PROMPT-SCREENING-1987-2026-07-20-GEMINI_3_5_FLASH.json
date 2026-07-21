@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1987-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Error and optimism bias in toll road traffic forecasts",
+    "authors": "Bain R.",
+    "year": "2009",
+    "doi": "10.1007/s11116-009-9199-7",
+    "abstract": "Traffic forecasts are employed in the toll road sector, inter alia, by private sector investors to gauge the bankability of candidate investment projects. Although much is written in the literature about the theory and practice of traffic forecasting, surprisingly little attention has been paid to the predictive accuracy of traffic forecasting models. This paper addresses that shortcoming by reporting the results from the largest study of toll road forecasting performance ever conducted. The author had access to commercial-in-confidence documentation released to project financiers and, over a 4-year period, compiled a database of predicted and actual traffic usage for over 100 international, privately financed toll road projects. The findings suggest that toll road traffic forecasts are characterised by large errors and considerable optimism bias. As a result, financial engineers need to ensure that transaction structuring remains flexible and retains liquidity such that material departures from traffic expectations can be accommodated. © Springer Science+Business Media, LLC. 2009.",
+    "source": "Transportation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2122-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Identifying and managing low money laundering risk: Perspectives on FATF's riskbased guidance",
+    "authors": "Koker L.",
+    "year": "2009",
+    "doi": "10.1108/13590790910993717",
+    "abstract": "Purpose – The purpose of this paper is to investigate Financial Action Task Force (FATF)'s riskbased guidance to combat money laundering and terrorist financing to determine its approach to the identification and management of lowrisk providers, products and transactions. Design/methodology/approach The paper analyses the relevant FATF recommendations and its guidance notes and reflects on key questions for regulators and financial institutions. Findings FATF has not defined “risk” for purposes of the riskbased approach. The absence of a clear definition complicates the identification of lowrisk products. FATF do provide an example of a risk matrix that can be used to identify lowrisk banks, but the example is based on assumptions and generalisations that are not sustainable. In addition, it identifies certain lowvalue transactions as “low risk” transactions. The paper reflects on the role of value as an indicator of risk and concludes with a number of suggestions to clarify the conceptual framework. Originality/value Lowrisk products and transactions are often overlooked because the riskbased approach focuses attention on highrisk matters. Lowrisk products are however crucial to the efforts to increase financial inclusion. The paper identifies gaps in the current conceptual framework and indicates ways in which they can be addressed. © 2009, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

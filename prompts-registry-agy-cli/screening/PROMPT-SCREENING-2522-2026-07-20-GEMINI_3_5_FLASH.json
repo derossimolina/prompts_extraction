@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2522-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Abu Dhabi Foundations Regime: strategic location in the Middle East for legacy planning towards emerging high growth markets",
+    "authors": "Mrazek, Y",
+    "year": "2019",
+    "doi": "10.1093/tandt/ttz016",
+    "abstract": "Most Middle East entrepreneurial families are familiar with foreign offshore trusts and foundations, and have been using these tools to ensure wealth preservation and inter-generational continuity for several generations. In that context, the new foundation regime was introduced in 2017 in the Abu Dhabi Global Market, a Middle East common law familiar jurisdiction, meeting all the requirements for a simple-to-understand, cost-effective, and sustainable vehicle dedicated to wealth management and preservation, family succession planning, tax planning, asset protection, corporate structuring, and for public interest foundations (excluding charities). The purpose of this article is to present to the reader the context, mechanisms, and interests to use Abu Dhabi Global Market private foundations.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

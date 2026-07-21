@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0666-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Improving the institution of declaring information about income, expenditure, property and property obligations in the context of digitalization; [Совершенствование института декларирования сведений о доходах, расходах, имуществе и обязательствах имущественного характера в условиях цифровизации]",
+    "authors": "Truntsevskiy Y.V.",
+    "year": "2022",
+    "doi": "10.21638/spbu14.2022.204",
+    "abstract": "The relevance of scientific research is the widespread use of systems for declaring information about state and other public persons, about their income, expenses, property and property obligations in those countries that carry out anti-corruption activities. The purpose of the article is to substantiate the expediency of improving the organization of control over the income of state and other public persons. An algorithm of actions performed using digital technologies is proposed. The program independently receives all the necessary information about a person's property status from various official registers, and the program evaluates this information and makes one of two decisions: to stop monitoring, or to transfer the relevant information to a controlling institution, for example, to the prosecutor's office. The main results of the study. The main problem, according to the author of the article, is that reporting on their property status is the responsibility of the declarant himself. In order to prepare such a report, a civil servant must perform many formalities (meet the deadline for submitting the declaration; fill out the document correctly; receive information from state registers, banks and other organizations in a timely manner; receive information from your husband/wife, minor children and others). For non-compliance with these requirements, the legislation provides for the legal responsibility of the declarant. The author proposed his own algorithm of control, which should be carried out for the property status of officials. The author reveals the scope of the digital program for monitoring the property status of officials. Such a program will allow not only to compare the income and expenses of officials, but also to identify violations of tax legislation, as well as legislation in the field of AML/CFT (Anti-Money Laundering/Combating the Financing of Terrorism). © 2022 Rostovskii Gosudarstvennyi Meditsinskii Universitet. All rights reserved.",
+    "source": "Vestnik Sankt-Peterburgskogo Universiteta. Pravo"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

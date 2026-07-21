@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1059-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Economic Cooperation between Russia and China in the Investment Sphere",
+    "authors": "Kai M.",
+    "year": "2022",
+    "doi": "10.26794/2308-944X-2022-10-4-24-35",
+    "abstract": "The cooperation between Russia and China has been developing successfully in recent years. Both countries have agreed on several strategically important investment projects. The realization of investment projects determines the future expectation for developing Russian and Chinese economies. The article aims to investigate the trends and perspectives of economic cooperation between China and Russia in the field of mutual investments. The research methodology includes structuring, comparison, generalization, induction, deduction, and synthesis. Based on the research, the author concludes that the main segments of Russian-Chinese economic cooperation between state-owned enterprises are the energy sector, nuclear power engineering, agriculture, science, technology, and infrastructure. Also, there are good prospects for the investment segment of economic cooperation between Russia and China in banking, payment systems, and electricity sectors. © Kai M., 2022.",
+    "source": "Review of Business and Economics Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

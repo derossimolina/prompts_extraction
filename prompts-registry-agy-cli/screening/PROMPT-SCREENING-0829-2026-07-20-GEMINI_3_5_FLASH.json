@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0829-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Limits and potentialities for health control actions in Hemotherapy services; [Limites e potencialidades para as ações de controle sanitário em serviços hemoterápicos]",
+    "authors": "Cavalcante L.L.R.; de Souza M.K.B.",
+    "year": "2024",
+    "doi": "10.1590/S0103-7331202434065en",
+    "abstract": "It aimed to discuss the limits and potentialities, from the perspective of managers of Hemotherapy/Hemocenter services, for the accomplishment of actions and the relationships between state and municipal VISA agents/teams with the Hemocenters. From a qualitative approach, eight interviews with managing representatives of hemocenters from different states, distributed in the five Brazilian regions, were used for content analysis. The findings showed a limitation in the dialogue between the institutions; staff change and manager turnover; bureaucratic time; decentralized notification; difficult structuring or absence of the Patient Safety Center, such as limitations. As potentialities: VISA’s role as a collaborator in the qualification processes; planning processes constructed in an articulated and collaborative way; collaboration to carry out training and qualification of teams; professional experience of workers from both institutions to understand the routine of services and improve dialogue. Therefore, the limits and potentialities evidenced from this study reflect on the development of actions, responsibilities and dialogue between the services, which must be considered for the elaboration of strategies and development of articulated and integrated work. © 2024, Institute de Medicina Social da UERJ. All rights reserved.",
+    "source": "Physis"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

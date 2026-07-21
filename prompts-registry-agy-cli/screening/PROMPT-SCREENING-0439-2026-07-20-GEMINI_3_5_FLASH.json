@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0439-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Green Securitization, A Legal Structure Currently Unfit for Ecological Transition",
+    "authors": "Cornut St-Pierre P.; Gareau-Lindsay J.",
+    "year": "2026",
+    "doi": "10.1515/ael-2024-0003",
+    "abstract": "Ever since the 2007-2008 financial crisis, the European banking sector and its regulating authorities have been seeking to revive securitization markets in Europe. The most recent attempt in this direction is the inscription of green securitization in the European sustainable finance agenda. Building on Katharina Pistor's work on the legal coding of capital as well as Eve Chiapello's work on financialization as a socio-technical process, our proposed contribution focuses on the legal structuring of green securitization. Based on the legal documentation and sustainability frameworks of four recent green securitization deals tied to energy-efficiency home improvements, it critically examines the new kind of financial circuits that is being constructed to channel funds towards projects deemed to create positive impacts on the environment. Our analysis shows that green securitization's current legal structure fails to properly incorporate sustainability considerations, whether in its contractual terms, financial metrics, or parties involved. © 2024 CONVIVIUM, association loi de 1901.",
+    "source": "Accounting, Economics and Law: A Convivium"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

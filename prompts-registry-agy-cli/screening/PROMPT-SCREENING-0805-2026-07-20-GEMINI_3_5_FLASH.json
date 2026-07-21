@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0805-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial risk management strategies of small to medium illicit drug enterprises: considering low-level money laundering",
+    "authors": "Berry M.; Salinas M.; Gundur R.V.",
+    "year": "2023",
+    "doi": "10.1007/s12117-023-09501-5",
+    "abstract": "The illicit drug trade generates billions of dollars in revenue per year, much of which comes from wholesale and retail sales late in the supply chain. Yet, the methods retailers and low-level wholesalers use to launder this revenue remain poorly understood. Using in-depth interviews with illicit drug entrepreneurs in the United States and the United Kingdom, this article analyses laundering strategies among such market actors. Our findings indicate that a significant proportion of their illicit proceeds are disposed of through relatively small-scale ‘everyday’ cash transactions (< $1,000) that are effectively untraceable. For those generating more substantial revenues, a variety of accessible and uncomplicated laundering strategies are employed, such as reporting such revenues as taxable income, using proxies to launder funds, and using revenues as investment capital within small-scale legal enterprise. Ultimately, we identify uncomplicated, yet largely effective, methods of laundering criminal proceeds amongst our sample of low- to medium-level illicit drug sellers. Though the sums at an individual level are relatively trivial, the ‘mass of minor offences’ of this nature likely accounts for a significant share of laundered drug revenues in Western consumer drug markets. © 2023, The Author(s).",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

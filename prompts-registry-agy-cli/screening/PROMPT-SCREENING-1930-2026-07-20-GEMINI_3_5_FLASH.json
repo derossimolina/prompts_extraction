@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1930-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "West African criminal networks in South and southern Africa",
+    "authors": "Shaw M.",
+    "year": "2002",
+    "doi": "10.1093/afraf/101.404.291",
+    "abstract": "Southern Africa, and South Africa in particular, has become an important home base for criminal networks made up of individuals from West Africa. Drawing on interviews with those involved, this article considers the nature, extent and development of this phenomenon. The evidence gathered suggests that standard conceptions of organized crime as structured and hierarchical entities do not take account of the specific networked nature of West African criminal groups. This is illustrated by profiles of some of the core individuals involved and their activities. The rapid growth of West African criminal networks has critical implications for policy, including the requirement to engage with West African populations resident in South Africa. Despite this, however, it is noted that there are few social constraints on the involvement of some individuals in illicit activity, much of which is seen as ordinary trade or simple business transactions.",
+    "source": "African Affairs"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

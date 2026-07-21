@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1518-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legalizing proceeds from crime through the banking system",
+    "authors": "Klochko A.N.; Logvinenko N.I.; Kobzeva T.A.; Kiselyova E.I.",
+    "year": "2016",
+    "doi": "10.17150/1996-7756.2016.10(1).194-204",
+    "abstract": "The paper analyses the issue of counteracting money laundering in the sphere of banking. The authors note that the legalization of criminal proceeds is a problem that destabilizes the normal functioning of the banking system. Hidden mechanisms and a high latency of money laundering that is mainly carried out by organized criminal groups bring about negative consequences for both the economy of each separate country and the global economy. So counteracting this crime is one of the priorities in fighting organized crime on the global level. The paper discusses some issues of laundering terminology and analyzes the views of different researchers on the concepts of «proceeds», «money», «other property» within the framework of the above-mentioned criminal law norm. They argue that the definition of money as a variety of things based on their common legal and economic nature is not quite correct. The authors present criminological characteristics of legalizing money that take into account the specifics of the organization of banking system’s work. The paper examines most common ways of money laundering and describes the current legislative basis for its prevention. The authors analyze the causes and conditions contributing to money laundering, describe main programs of counteracting the legalization of illegal proceeds developed by banks and present the methods which help to ensure the effective prevention of «economic» crimes and the stable functioning of the banking system. The authors conclude that it is necessary to improve the legislative basis regarding this problem and to develop methodological recommendations on researching this category of criminal cases. © 2016, Baikal National University of Economics and Law. All rights reserved.",
+    "source": "Criminology Journal of Baikal National University of Economics and Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

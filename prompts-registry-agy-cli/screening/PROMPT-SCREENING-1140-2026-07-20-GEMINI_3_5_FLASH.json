@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1140-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "1MDB corruption scandal in Malaysia: a study of failings in control and accountability",
+    "authors": "Jones D.S.",
+    "year": "2020",
+    "doi": "10.1108/PAP-11-2019-0032",
+    "abstract": "Purpose: The aim of the paper is to examine the various aspects of the 1MDB scandal including the extent and types of corruption that occurred and the action taken to deal with them. In doing this, the paper seeks to identify the reasons for the scandal and the lessons that can be learnt to avoid such a scandal in Malaysia and elsewhere in the future. Design/methodology/approach: The research for the paper is based on evidence from court hearings, reports of watchdog and regulatory agencies, media reports, and various articles and books written about 1MDB. Findings: The paper shows that most of the scandal involved embezzlement, bribery, false declarations and bond mispricing relating to extensive borrowing by 1MDB, and entailed a global network of shell companies and individuals through which the illicit money was passed. It also shows weak governance in 1MDB, poor internal controls within banks, the failure of watchdog and enforcement bodies to take the necessary action partly due to political control over them, and overall the lack of political will to deal with the scandal. Originality/value: The paper builds on the findings of other papers and books written on the 1MDB scandal. It does this by linking the corruption to the borrowings of 1MDB, the international network of money-laundering and bribery through which illicit money flowed, and the poor internal controls in the organisation. It also builds on previous research by highlighting the failure of banks to identify money-laundering and of watchdog and enforcement bodies to deal with the corruption. A further value of the paper is to identify the lessons that can be learnt about combatting corruption on such a scale. © 2019, David Seth Jones.",
+    "source": "Public Administration and Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

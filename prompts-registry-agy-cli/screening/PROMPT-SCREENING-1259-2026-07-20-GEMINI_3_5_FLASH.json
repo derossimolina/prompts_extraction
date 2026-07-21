@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1259-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Practical application of Kafalah in Islamic banking in Malaysia",
+    "authors": "Muneeza A.; Mustapha Z.",
+    "year": "2020",
+    "doi": "10.1108/PRR-01-2019-0001",
+    "abstract": "Purpose: The purpose of this paper is to explore the application of Kafalah in the practice of Islamic banking in Malaysia generally and ascertain applicable rules governing the application under relevant legislations and Shariah. The study also aims to examine the legislations in the light of Shariah provisions governing Kafalah and propose amendments. Design/methodology/approach: This is a qualitative research where primary data sources mainly legislations and secondary sources comprising of articles and books on the subject of Kafalah were examined. It is an exploratory legal research that primarily focuses on library studies and adopts doctrinal approach for content analysis of data from the identified sources. Findings: Kafalah is widely used in Islamic banking in Malaysia with primary or secondary application in structuring such products/services as personal guarantee, bank guarantee, Islamic credit card among others. The substantive law applicable to Kafalah in Islamic banking in Malaysia is the Contracts Act 1950 as decided cases indicate. However, provisions of the Act are at variance with rules of Shariah applicable to Kafalah on absolution of guaranteed debtor, multiple guarantors’ liability towards guaranteed sum as well as recourse and recovery from principal debtor. Research limitations/implications: This research explored the practice of Kafalah in Islamic banking under Malaysian legal framework based on the available literature. The research does not embody an empirical evaluation. Originality/value: This research suggests, with respect to the identified issues, an amendment to the Act for clarification as follows: that recourse and recovery from principal debtor is only where creditor has requested guarantor to settle outstanding debt, that presence of surety does not absolve principal debtor from his original liability and that multiple guarantors stand as having equal responsibility towards guaranteed amount. The research findings will assist policy and law makers to harmonize the relevant laws with the Shariah to facilitate sustainable development of Islamic banking. © 2020, Aishath Muneeza and Zakariya Mustapha.",
+    "source": "PSU Research Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

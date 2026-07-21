@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0686-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digital currencies and economic sanctions: the increasing risk of sanction evasion",
+    "authors": "Wronka C.",
+    "year": "2022",
+    "doi": "10.1108/JFC-07-2021-0158",
+    "abstract": "Purpose: The purpose of this paper is to discuss the effect of the issuance, adoption and use of digital currencies on economic sanctions with the focus being on the increasing risk of sanction evasion. The research sought to answer three key questions: What is the effect of digital currencies on economic sanctions? To what extent does the adoption and use of digital currencies increase the risk of sanction evasion? What remedial measures can be taken to enforce compliance with sanctions in the wake of increased adoption and use of digital currencies? Design/methodology/approach: The research relied on secondary sources of data, using secondary research to collect archival data in the form of documents. Content and thematic analyses were used to synthesise the collected data. Findings: It was found that digital currencies have significantly increased the risk of sanction evasion. This is because they facilitate the anonymous or pseudonymous conduct of international commercial transactions, which are hard or impossible to detect and track. Originality/value: This research is the first to explore the different ways in which digital currencies as whole – and not just cryptocurrencies – affect compliance with economic sanctions. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

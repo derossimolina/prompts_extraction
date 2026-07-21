@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2486-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Additional Tier 1 Capital Instruments under Basel III: A Shariah Viewpoint",
+    "authors": "Sairally, BS; Muhammad, M; Mustafa, MM",
+    "year": "2016",
+    "doi": "10.1163/15730255-12341314",
+    "abstract": "This research aims to compare the regulatory capital instruments for Islamic banking institutions (IBIs)-in particular the qualifying Additional Tier 1 (AT1) capital instruments- as defined by Basel III, Bank Negara Malaysia (BNM) and IFSB-15 (issued by the Islamic Financial Services Board). Principally, the research examines the Shariah issues, especially related to subordination, arising in equity-based contracts when used for structuring AT1 capital instruments. In particular, it examines the muarabah sukuk issued by the Abu Dhabi Islamic Bank (ADIB) in 2012. The study finds that the most appropriate Shariah contract that would be suitable for structuring AT1 capital instruments would be musharakah. The present study is considered an original attempt in examining an under-researched topic relating to Basel III and its Shariah perspective. The study will be an important reference point to Islamic banks when structuring AT1 capital instruments.",
+    "source": "ARAB LAW QUARTERLY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

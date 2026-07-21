@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1857-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Section 311 Patriot Act: Is America using this legislation more as a means of cementing her extraterritorial reach than as a legitimate method of preventing money laundering&quest;",
+    "authors": "Bosworth-Davies R.",
+    "year": "2009",
+    "doi": "10.1108/13685200910973664",
+    "abstract": "PurposeThe purpose of this paper is to provide an alternative opinion on the current debate on Iran and its place in the world, while seeking to avoid unnecessary dogma or propaganda. Design&sol;methodology&sol;approachThe paper is a pure opinion paper and has not been designed as a methodological research paper. FindingsThe findings are entirely subjective and are the sole opinion of the author. Practical implicationsThe practical implications are to stimulate a debate over the use of specific legal powers possessed by the USA, and the way in which they are used. Originality&sol;valueThe paper is an entirely original piece of work by the author and its value or worth must be determined by the reader. © 2009, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

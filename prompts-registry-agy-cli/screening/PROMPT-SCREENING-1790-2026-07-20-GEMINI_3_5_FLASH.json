@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1790-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Disambiguating the use of common terms across related medical fields: The problem of intervention",
+    "authors": "Smith A.; Davis A.",
+    "year": "2017",
+    "doi": "10.1007/s40607-018-0038-x",
+    "abstract": "Medical terminology can cause problems of communication both between professionals in related fields and between medical professionals and their patients. Generic medical terms labelled as ‘semi-technical’, such as treatment, are often polysemous and, therefore, present potential difficulties that need to be addressed by medical dictionaries and term banks. This paper will look at the problems caused by the term intervention as related to the treatment of children with hearing loss. The broad application of the term, in both a clinical/medical context and a general one, opens up the possibility of misunderstanding for professionals and patients alike. The efficacy of using corpora as a means of assessing the importance of a particular term is widely acknowledged. In addition, researchers such as (L’Homme, A Lexico-semantic Approach to the Structuring of Terminology. CompuTerm 2004—3rd International Workshop on Computational Terminology, 2004) have emphasised the importance of corpus data in establishing the network of associations that common terms may have in specialised fields. This study will first identify the prevalence of the specialist uses of intervention in general corpora, and then present the findings from a c.260,000-word corpus composed of academic papers published between 2000 and 2014 on the topic of intervention for children with hearing loss. It will demonstrate the centrality of the term to this field of medical discourse, present the range of meanings and collocations associated with it, and propose lexicographical approaches to clarifying the uses of this and similar semi-technical terms. © Springer-Verlag GmbH Germany, part of Springer Nature 2018.",
+    "source": "Lexicography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

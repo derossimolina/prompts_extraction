@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0887-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Could banning virtual assets be a breach of the doctrine of legitimate expectation?",
+    "authors": "Haq M.Z.; Farzana K.F.; Md M.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-07-2021-0077",
+    "abstract": "Purpose: This paper aims to examine the validity of a state’s prohibition on virtual assets in the context of its global commitment to battle against money laundering. Design/methodology/approach: This was empirical legal research exploring how a general lack of expertise to apply a risk-based approach in anti-money laundering strategies might have implications for invoking the Financial Action Task Force (FATF) exclusion provisions in virtual asset regulation. Findings: Invoking the exclusion provisions for banning virtual assets without meeting the prerequisites may put the financial system at risk and make a jurisdiction’s legal obligations appear breached. Research limitations/implications: Anti-money laundering (AML) policymakers will take precautions and avoid misuse of the liberties they enjoy under FATF exclusion clauses/provisions. Practical implications: The results of this study will help ensure more informed decision-making on the legal status and regulation of virtual assets. Originality/value: The study helps ascertain the limits of privileges accorded to states under FATF exclusion provisions in applying global standards against money laundering. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

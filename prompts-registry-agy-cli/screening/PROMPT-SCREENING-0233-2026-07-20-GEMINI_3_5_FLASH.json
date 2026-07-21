@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0233-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating the Crypto-Laundering Chain: A Comparative Study of Scam Compounds and Money Mule Mechanisms Within Criminal Networks",
+    "authors": "Arnone G.",
+    "year": "2026",
+    "doi": "10.3390/risks14040096",
+    "abstract": "This paper examines how scam compounds, money mules and crypto-assets operate as interdependent elements of contemporary money-laundering chains. It assesses whether existing anti-money laundering (AML) and crypto-asset regulatory frameworks are capable of disrupting these chains holistically, rather than addressing individual components in isolation, with particular reference to scam-compound activity in Southeast Asia. The study adopts a qualitative comparative case-study methodology grounded in legal and regulatory analysis. Four empirically grounded cases are examined: two Southeast Asian scam-compound enforcement cases (Cambodia and Myanmar) and two European crypto-asset seizure cases (Ireland and Italy). Judicial decisions, enforcement actions and regulatory instruments are analysed through a chain-based analytical framework aligned with Financial Action Task Force (FATF) standards, the EU Markets in Crypto-Assets Regulation (MiCA) and the Anti-Money Laundering Authority (AMLA) framework. The analysis reveals a structural divergence in enforcement strategies: Southeast Asian responses increasingly prioritise network- and infrastructure-level disruption of scam compounds, whereas European approaches remain largely centred on post-offence crypto-asset seizure through traditional proceeds-of-crime mechanisms. Across all jurisdictions, money mules emerge as a critical yet systematically under-regulated intermediary layer enabling the resilience of crypto-laundering operations. The paper advances existing AML typologies by conceptualising scam compounds, money mules and crypto-assets as interconnected components of a single crypto-laundering chain. This chain-based perspective offers a novel analytical and regulatory lens for understanding organised crypto-enabled fraud. The study is based on a qualitative, case-based design and does not aim for statistical generalisation. However, the analytical framework developed is transferable to other jurisdictions experiencing similar scam-compound and crypto-laundering dynamics. The findings suggest that effective AML enforcement requires coordinated intervention across multiple nodes of the laundering chain, including scam compound infrastructure and money mule networks, alongside traditional asset-seizure mechanisms and CASP supervision. By highlighting the structural links between scam compounds, coercive labour and crypto-laundering mechanisms, the paper underscores the broader social harms of crypto-enabled fraud and the need for integrated regulatory responses that address both financial crime and human exploitation. © 2026 by the author.",
+    "source": "Risks"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0652-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Revocation or Recovery? The Change of Bank Default Indicators over Time; [Отозвать нельзя санировать: как со временем менялись индикаторы дефолтов российских банков]",
+    "authors": "Bekirova O.",
+    "year": "2024",
+    "doi": "10.17323/1813-8691-2024-28-2-195-222",
+    "abstract": "This paper is devoted to the analysis of changes in bank default indicators in Russian banking sector since the Bank of Russia introduced a policy aimed at improving the banking sector. The analysis helps to assess the stability of factors widely used in models of the probability of bank default, and to deepen the understanding of processes and trends in banking activities, which may change over time. The data on revocations of bank licenses and cases of temporary administrations (financial recovery measures) were gathered from the 3rd quarter of 2013 to the 4th quarter of 2021. Logistic regressions were used as econometric tools to estimate the probability of default both in the case of general default definition and considering one of two main reasons of default – economic insolvency and violations of anti-money laundering laws. The models were estimated on 3 subperiods: from the 3rd quarter of 2013 to the 2nd quarter of 2015, from the 3rd quarter of 2015 to the 2nd quarter of 2017 and from the 3rd quarter of 2017 to the 4th quarter of 2021. The results obtained indicate the presence of changes in indicators of bank defaults over time, as well as differences in them depending on the cause of bankruptcy under consideration. Only a few indicators (the share of interbank loans in assets, the share of bonds in assets, and the ratio of foreign liabilities to total liabilities) turned out to be consistently statistically significant over all periods. The main results obtained are as follows. During the first period among considered (2013Q3–2015Q2), licenses were revoked from many banks that falsified reports regarding accepted deposits. Also, in this period bank runs were noticed. In the post-crisis period (2015Q3–2017Q2), banks were actively attracting deposits at high interest rates and placing assets at risk. High levels of liquidity creation turned out to be a statistically significant indicator of bankruptcy in this period. In a calmer period (2017Q3–2021Q4), the operating efficiency indicator became statistically insignificant, but the ratio of cash on hand to assets was statistically significant. © 2024 Publishing House of the Higher School of Economics. All rights reserved.",
+    "source": "HSE Economic Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

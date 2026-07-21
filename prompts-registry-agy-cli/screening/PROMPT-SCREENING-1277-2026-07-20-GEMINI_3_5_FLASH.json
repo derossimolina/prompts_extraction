@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1277-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Integrating cryptocurrencies to legal and financial framework of india",
+    "authors": "Kashyap A.K.; Tripathi K.; Rathore P.S.",
+    "year": "2021",
+    "doi": "10.14666/2194-7759-10-1-008",
+    "abstract": "With the ever-growing popularity of cryptocurrency in India as well as globally, it is potential as an agent of various illegal activities such as money laundering and cybersecurity breaches is also gaining traction in the global, national and regional debates. Considering its emergence in India, it is pertinent to examine the issues associated with the usage of cryptocurrency and the scope it entails for the Indian economy if allowed. The government of India has so far not identified it as valid tender due to its potential usage in hiding black money and in terror financing. However, the government has not necessarily closed the door to any future regulations of cryptocurrencies. Therefore, despite operating in a grey area, the sector continues to proliferate in India and the world. This paper briefly describes the nuances and current affairs related to cryptocurrencies across the globe. It further provides a legal and regulatory perspective of cryptocurrencies in India while also discusses various cybersecurity issues related to its usage and concludes with a list of challenges associated with its incorporation in the national legal regime and tries to provide a certain recommendation that can help guide the future regulation of this disruptive innovation. © 2021, Transition Academia Press. All rights reserved.",
+    "source": "Journal Global Policy and Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

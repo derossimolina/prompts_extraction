@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1698-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrencies: An unconventional challenge to the AML/CFT regulators?",
+    "authors": "Dostov V.; Shust P.",
+    "year": "2014",
+    "doi": "10.1108/JFC-06-2013-0043",
+    "abstract": "Purpose: The purpose of the article is to look closely at the phenomenon of the cryptocurrencies such as and bitcoin to identify their potential vulnerabilities to money laundering and financing of terrorism. It also explores their specifiic characteristics relevant to ML/FT risks. Design/methodology/approach: Using digicash and bitcoin protocols as primary cases for centralized and decentralized cryptocurrencies we analyse their characteristics against cash and cashless payments. We also draw on \"bundle of attributes\" that may define their attractiveness for common public or criminals. Findings: Our research shows that characteristics of the cryptocurrencies are unlikely to make them popular among the consumers, as demand for anonymity seems to be overrated. Cryptocurrencies can also be classified as payment instrument rather than private currencies; therefore their embededdness in the financial system minimizes the ML/FT risks. Research limitations/implications: Some decentralized cryptocurrencies operate within informal communities. Therefore, relations within these communities are constantly evolving and need to be monitored further. Practical implications: The paper provides an insight into the mechanics and classification of cryptocurrencies as payment instruments. Place of cryptocurrencies within the broader payment ecosystem defines their potential vulnerabilities to being abused by the criminals. Originality/value: The paper fills the gap in research on cryptocurrencies as payment instruments rather than private currencies and also provides an overview of their relevance for the Anti-money laundering and combating financing of terrorism (AML/CFT) regime. © Emerald Group Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

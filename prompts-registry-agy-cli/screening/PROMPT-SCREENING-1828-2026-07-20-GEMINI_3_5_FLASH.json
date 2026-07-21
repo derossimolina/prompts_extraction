@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1828-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Terrorists next door? A comparison of Mexican drug cartels and middle eastern terrorist organizations",
+    "authors": "Flanigan S.T.",
+    "year": "2012",
+    "doi": "10.1080/09546553.2011.648351",
+    "abstract": "Drawing from interviews, surveys, and other forms of research conducted in Lebanon, Gaza and the West Bank, and Mexico, this article compares Mexican cartels to Hamas and Hezbollah. The similarities between them are striking: these are all by necessity territorially specific organizations tied to relatively defined geographic locations, and have deep and sophisticated relationships with the states within which they operate. However, there are critical differences between Mexican drug cartels and Hamas and Hezbollah as well, the most important (according to an analysis of multiple definitions of terrorism) being the presence of political and ideological motivations. This analysis illustrates the conceptual challenges and classificational ambiguity involved in analyzing terrorism and organized crime. © 2012 Taylor & Francis Group, LLC.",
+    "source": "Terrorism and Political Violence"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

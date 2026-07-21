@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2376-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE INFLUENCE OF CRITICAL EVENTS ON THE SOCIAL CONTROL OF MISCONDUCT: REGULATORY ENFORCEMENT IN THE EUROPEAN BANKING INDUSTRY",
+    "authors": "Fiorito, T; Hoff, R; Ehrenhard, M",
+    "year": "2023",
+    "doi": "10.1108/S0733-558X20230000084003",
+    "abstract": "An emerging stream of research has identified critical events as spikes in societal interest that increase public attention to firm behavior and can function as exogenous triggers for change. With respect to misconduct, firms vary considerably in how they respond to critical events, and for a visible change in their undesirable behavior to transpire, there needs to be ongoing accumulation of work by social-control agents. While social-control agents are often boundedly rational in their decision-making, most studies have overlooked the ability of critical events to restrict or redirect collective attention among such agents. Drawing on the case of a regulatory agency's enforcement actions against violations of anti-money laundering regulations by three European banks, we investigate the influence of critical events on social-control agents' enforcement behavior. This study achieves two goals: first, we identify three types of fieldwide critical events that influence social-control agents' behavior, and second, we demonstrate that these events may shape the regulatory environment in which firms operate, thus allowing for different organizational responses to enforcement actions. Our findings contribute to the literature on critical events and organizational misconduct.",
+    "source": "ORGANIZATIONAL WRONGDOING AS THE FOUNDATIONAL GRAND CHALLENGE: DEFINITIONS AND ANTECEDENTS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

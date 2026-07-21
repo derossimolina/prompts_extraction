@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0259-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Lawyers and pooled client accounts – when customer due diligence is anything but simple",
+    "authors": "Kebbell S.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-11-2024-0179",
+    "abstract": "Purpose: This paper aims to examine the effect of the disapplication of automatic simplified due diligence to law firm pooled client accounts (PCAs) under the UK anti-money laundering (AML) regime in England and Wales. The paper considers the impact that this revised approach has on banks and their law firm customers. It explores the money laundering risk PCAs present, considers the basis upon which automatic simplified due diligence ever applied to them in the first place and the ramifications of the revised approach to PCAs. Design/methodology/approach: This paper reviews the customer due diligence processes applicable to law firm PCAs under the UK AML regime (England and Wales). Findings: This paper finds that the provisions surrounding customer due diligence and law firm PCAs, now that simplified due diligence processes are no longer automatically available to banks, are complex and administratively cumbersome, with the potential to cast banks in the role of a quasi-supervisor. The lack of widespread de-risking of UK law firm PCAs suggests a pragmatic approach is being adopted by the banking sector. Ultimately, client account risk is best addressed at the law firm level, appropriately overseen and enforced by a legal sector supervisor. Originality/value: This paper considers the practical challenges surrounding how, and to what extent, customer due diligence applies to law firm PCAs under the UK AML regime. It suggests a pragmatic stance has been taken by bankers in this arena to date. © 2025, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

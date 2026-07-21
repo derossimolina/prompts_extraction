@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2016-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Towards a methodology for the design of multimedia public access interfaces",
+    "authors": "Rowley J.",
+    "year": "1998",
+    "doi": "10.1177/016555159802400302",
+    "abstract": "Interface design is particularly important in public access systems, since the quality of the interface will influence the effectiveness with which the public can gather information and conduct transactions. It is also particularly challenging. This paper examines some of the information systems methodologies that have a contribution to make in the design of interfaces for public access systems. On the basis of this examination, some of the features of methodologies that can support the design of public access systems are identified. After an initial exploration of the systems lifecycle, which identifies the key stages in any methodology, the paper proceeds to examine the nature and role of information systems methodologies. A variety of user-centred methodologies are described, including soft systems methodologies, cooperative and participative methodologies, and task-oriented approaches to design. An object-oriented methodology is introduced as a preliminary to the consideration of methodologies for multimedia graphical user interfaces. Comparisons between the stages in some of these methodologies yield an identification of key features for methodologies in the development of public access systems. Such methodologies must accommodate: (i) the creation and structuring of conceptual content and (ii) the interface with the marketplace, in addition to the technical and behavioural considerations that feature in the more established user-centred methodologies.",
+    "source": "Journal of Information Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

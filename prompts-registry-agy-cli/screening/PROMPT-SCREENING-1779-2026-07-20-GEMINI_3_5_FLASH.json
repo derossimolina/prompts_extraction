@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1779-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Governing illicit finance in transnational security spaces: the FATF and anti-money laundering",
+    "authors": "Jakobi A.P.",
+    "year": "2018",
+    "doi": "10.1007/s10611-017-9750-y",
+    "abstract": "This article analyzes the global anti-money laundering (AML) regime from the perspective of security governance, examining the creation of a transnational security space by the FATF. Security is often mentioned as relevant context for AML measures, and the Financial Action Taskforce (FATF) as its central institution. Yet, most analyses – implicitly or explicitly – present the FATF as an important banking regulator. Arguing that this perspective on the FATF is too limited, the article outlines the changing security context in which AML emerged as an important tool for governance. Unlike traditional ideas of international security, the idea of security governance emphasizes new forms of cooperation to ensure safety and security across multiple levels. Based on International Relations (IR) and criminological research, the article develops a framework with five dimensions of security governance: a comprehensive security concept, multi-purpose rationalization, public-private cooperation, multi-nodal governance, and transnational security spaces as a result. Unlike other efforts of global crime governance, the global AML regime provides a prime example of security governance in all of these dimensions. At the same time, the link to security also explains why the global AML regime expanded in some areas more than in others: AML is still a weak governance instrument for regulating financial crimes such as tax evasion or corruption, but it is a strong one for security-related crimes. While the FATF remains a special case in global governance, the creation of transnational security spaces in AML – caused by FATF activities – is likely to be a model for future security governance in other fields. © 2017, Springer Science+Business Media B.V., part of Springer Nature.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

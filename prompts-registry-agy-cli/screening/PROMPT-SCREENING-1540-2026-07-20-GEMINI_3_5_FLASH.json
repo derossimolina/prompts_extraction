@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1540-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Entrepreneur of the regime change - the fusion of the hungarian economy with organized crime",
+    "authors": "Bezsenyi T.",
+    "year": "2015",
+    "doi": "10.5901/mjss.2015.v6n2s2p219",
+    "abstract": "In recent years the Hungarian administration of justice trialed some of the most famous murder cases of the 1990’s which were contract killing between organized crime groups. These trials brought up many new information about the life of organized crime gangs and given a better opportunity to criminologist to understand the recent activity of the organized crime gangs. I wrote my thesis about how organized crime successfully survived the crisis of the regime change. The following research based on a tight cooperation with Pest County Police Headquarters where I analyzed criminal files about organized crime gangs after the regime change. The main question of the research was: what sociological and economical factors contributed to the strengthening of organized crime In Hungary? Where can we discover the responsibility of the state? How state regulation affected organized crime? The present days organized crime roots from illegal criminal groups existed in the socialist period. Thanks to the liberal economic reforms in 1981 the second economy had a great economic potential during the socialist period. Organized criminal groups often invested in private sector thus corporate crime became linked to organized crime. Due to their better economic conditions the criminal networks could establish different kind of private ventures, like restaurants, pubs or tobacco shops. After the declaration of democracy many organized crime networks took advantage of regulatory gaps. They preserved their status and informal capital from the second economy. Due to the economical change the new entrepreneurs informally forced to borrow capital from organized crime groups, or they used these group’s money to recover their debts. They could not turn to court because of their illegal transactions. Other organized crime networks misused government subsidies and created semi-firms, which could operate successfully due to the problems of state control. My research seeks to show that during the third Hungarian Republic from the 1990's organized crime groups have worked with the help of entrepreneurs. Due to the economic crisis of 2008 and the emergence of political extremism the organized crime groups became number one public enemies, who are again using the same methods what were successful during early 1990’s. A kind of semi-legal market and entrepreneurship has developed since 2008. © 2015 Mediterranean Center of Social and Educational Research. All Rights Reserved.",
+    "source": "Mediterranean Journal of Social Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

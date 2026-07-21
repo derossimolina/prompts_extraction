@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1860-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Central banks, merging banks and murky Italian waters",
+    "authors": "Ridley N.",
+    "year": "2007",
+    "doi": "10.1108/13590790710742654",
+    "abstract": "This paper seeks to provide an insight into financial crime in Italy and the highlighting of the anomalous role and position of the governor of the Italian National Bank and the need for reform. Research from contemporaneous open and other sources during a comparatively intense period mid to late 2005 regarding Italian financial institutions and international banking operations. The ground-breaking co-ordinated conventions and regulatory framework of international banking operations on an EU-wide basis was frustrated in Italy by the questionable conduct of the governor of the Italian National Bank. In this he was aided and abetted by the arguably excessive powers of that office. This conduct was interacting with and linked to, several cross-currents of ongoing alleged financial crime in Italy. This gives an insight into financial crime in Italy and the highlighting of the anomalous role and position of the governor of the Italian National Bank and the necessity for reform. © 2007, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

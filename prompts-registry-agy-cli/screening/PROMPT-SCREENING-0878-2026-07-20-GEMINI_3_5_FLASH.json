@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0878-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE NEW MONEY LAUNDERING MACHINE THROUGH CRYPTOCURRENCY: CURRENT AND FUTURE PUBLIC GOVERNANCE CHALLENGES",
+    "authors": "Prendi L.; Borakaj D.; Prendi K.",
+    "year": "2023",
+    "doi": "10.22495/clgrv5i2p9",
+    "abstract": "The purpose of this paper is to examine the role of cryptocurrency in facilitating money laundering and identify different methods and services that send funds through numerous addresses or businesses to obscure their origins using cryptocurrency. The methodology for conducting this research is qualitative. A literature review that involves a systematic and rigorous approach to identifying, analyzing, and synthesizing existing research on the use of cryptocurrency as a money laundering instrument has been taken into consideration. We identified in the first selection more than 150 research papers published between 2002 and 2021. Our results show that cryptocurrency is used in money laundering schemes, including the purchase of cryptocurrencies by criminal networks using illicit proceeds and the use of cryptocurrencies to transfer funds. The biggest issue facing virtual currency currently is that the same attributes that attract legitimate users, such as anonymity, as well as speed and global reach, also attract criminals. Money laundering has had devastating social implications for societies. Our research helps to focus attention on the problems of using cryptocurrency in money laundering practices and possible interventions by the authorities in the form of regulation. © 2023, Virtus Interpress. All rights reserved.",
+    "source": "Corporate Law and Governance Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1846-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financing terrorism or survival? Informal finance and state collapse in Somalia, and the US war on terrorism",
+    "authors": "Medani K.M.",
+    "year": "2002",
+    "doi": "10.2307/1559456",
+    "abstract": "George W. Bush's sweeping campaign against Somali money transfer companies-on the grounds that they \"finance terror\"-is so broad as to defy justification. Millions of Somalis dependent on remittances from relatives abroad are now going without. In addition to exacerbating Somalia's humanitarian crisis, the closure of hawwalat threatens to all but destroy Somalia's larger economy, and to upset fragile state-building efforts in the war-torn country. The hawwalat system in Somalia is neither a \"pre-capitalist\" artifact, nor a peculiarly Islamic phenomenon. It is, above all, a modern institution resulting from the disintegration of state and formal institutions, and the impact of internationalization on Somalia's economy. Nor is the hawwalat system synonymous with money laundering, as the new US legislation implies. Informal transfers are legitimate financial transfers similar to other international capital flows generally accepted as an inherent part of globalization. In Somalia the hawwalat system finances the bulk of imports into the country, provides legitimate profits for those engaged in transferring these funds and makes resources available for investments throughout the country.",
+    "source": "Middle East Report"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

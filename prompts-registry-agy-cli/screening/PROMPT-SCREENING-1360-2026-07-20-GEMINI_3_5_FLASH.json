@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1360-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Out of Africa? Elections and capital flight revisited response",
+    "authors": "Goldsmith A.A.",
+    "year": "2020",
+    "doi": "10.1093/isq/sqz005",
+    "abstract": "Capital flight and illicit financial flows are well-recognized problems for the developing world. What factors influence these flows? A recent article in International Studies Quarterly argues they follow an electoral cycle, peaking during election years with the strongest effect during competitive elections. The article supports its argument with estimates of multidimensional capital flight from Africa. Because the flows are unobserved, the estimates are derived indirectly from recorded transactions. The assumptions behind the resulting figures are hotly debated, however. I consider two additional estimates of illicit cross-border flows covering the same countries for comparable time periods. I also include an alternative tally of competitive and noncompetitive electoral contests. When measured these ways, outflows are not generally higher in Africa during election years compared to other times. My results remind us how observational errors in international relations data can lead to contradictory conclusions. © The Author(s) (2019). Published by Oxford University Press on behalf of the International Studies Association.",
+    "source": "International Studies Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

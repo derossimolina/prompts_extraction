@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1137-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering in rural areas with illicit crops: empirical evidence for Colombia",
+    "authors": "Bayona-Rodríguez H.",
+    "year": "2019",
+    "doi": "10.1007/s10611-019-09822-z",
+    "abstract": "This research presents the first evidence on the existence of money laundering in rural areas dedicated to the production of illicit crops. This paper uses, as money laundering (ML) measure, Financial Intelligence Reports (FIR). FIR is a more accurate ML measure than Suspicious Transaction Report (STR) since it implies more rigorous and detail analysis. The present research uses a new panel of municipal data for the period 2000–2013 which has information that measure: ML dynamics, economic activity, violence, conflicts, institutional presence and interdiction. Using a fixed-effects model by municipality and year, this study found a positive relationship between ML, measured as the value of FIR, and illicit crops. The results are maintained throughout specifications and robustness exercises. This paper found that a 1% increase in cultivated area in the municipality implies 3.04% increase in the FIR value. If one representative municipality of the sample is taken, an increase of 1% in cultivated area would be translated into 641 million COP (342.705 USD) in money laundering reported in FIR. Thus, the existence of money laundering in rural areas dedicated to illicit crops is concluded. © 2019, Springer Nature B.V.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

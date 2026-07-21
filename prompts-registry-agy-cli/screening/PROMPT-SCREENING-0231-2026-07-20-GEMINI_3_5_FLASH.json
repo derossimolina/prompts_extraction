@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0231-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CRYPTOCURRENCY TERRORISM FINANCING: A THREAT ASSESSMENT AND ANALYSIS OF GLOBAL RESPONSES",
+    "authors": "Maza K.D.; Damap N.Y.; Bulus K.I.",
+    "year": "2026",
+    "doi": "10.26619/1647-7251.17.1.15",
+    "abstract": "The rise and popularity of cryptocurrency in the global financial system has presented opportunities and challenges in the fight against terrorism financing. This is because, the decentralized, pseudonymous, safety, privacy, and borderless nature of these digital currencies and assets has created the opportunity for terror groups to exploit. Terror groups take advantage of these opportunities to fund their operations, launder assets, organize, plan attacks, and consolidate their presence in the global financial system. Using the qualitative method of research, through the use of academic and non-academic documents, reports, and analysis from relevant institutions such as the Financial Action Taskforce (FATF), the United Nations (UN), The Inter-Governmental Action Group against Money Laundering in West Africa (GIABA), national governments and other relevant agencies, this article examines the global counter-measures taken by these actors in combating cryptocurrency terrorism financing. The article examine the prospects and challenges faced in combating the menace. The findings of the article show that in spite of the global efforts aimed at combating cryptocurrency terrorism financing the lack of global regulations and laws against money laundering, terrorism financing through the cryptocurrency ecosystem, lack of effective synergy and collaboration by relevant actors in the fight against cryptocurrency and terrorism financing and the evolving nature of the crypto and tactics of terror groups to evade surveillance continue to affect the counter-measures. To address these gaps, the article recommends the need for more collaboration among actors in combating this threat, strengthening a stronger regulatory framework to protect and guarantee the safety of the cryptocurrency users from threats posed by terror groups and other transnational criminal networks operating in the crypto digital space.. © 2026, Observare. All rights reserved.",
+    "source": "Janus.net"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

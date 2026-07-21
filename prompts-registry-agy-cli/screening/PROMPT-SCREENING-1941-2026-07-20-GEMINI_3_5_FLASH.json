@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1941-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "US Government agencies confirm that lowtax jurisdictions are not moneylaundering havens",
+    "authors": "Mitchell D.J.",
+    "year": "2004",
+    "doi": "10.1108/13590790410809130",
+    "abstract": "Refers to the conclusion by the US Central Intelligence Agency (CIA) and State Department that lowtax jurisdictions do not attract a disproportionate share of dirty money; the Financial Action Task Force agrees, even though it is part of the Organisation for Economic Cooperation and Development (OECD), notorious for its antitax haven initiative. Points out that in fact socalled tax havens are not money laundering centres, and that most money in tax havens is institutional investment; all rating systems of money laundering find that nontax havens outnumber tax havens. Argues that hightax nations’ laws against money laundering are not very successful, as the US Treasury estimates that 99.9% of the criminal money in the USA is laundered successfully; the laws tend to focus on process rather than results. Makes suggestions for improving international cooperation against money laundering. © 2003, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0324-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blockchain Forensics and the Evidentiary Challenges of Crypto-Based Corruption in Developing Countries",
+    "authors": "Saputra D.H.; Kusumah F.",
+    "year": "2025",
+    "doi": "10.15294/ijcls.v10i2.28795",
+    "abstract": "This study explores the role of blockchain forensics in addressing evidentiary challenges arising from crypto-based corruption in developing countries. As cryptocurrencies become increasingly used to obscure illicit financial flows, traditional evidentiary mechanisms often fall short in tracing, authenticating, and prosecuting corruption involving digital assets. The normative legal research method is employed, using statutory, conceptual, comparative, and futuristic approaches to examine both the current limitations and future possibilities of legal frameworks. The research is descriptive-prescriptive in nature, aiming not only to describe the existing problems but also to propose legal reform strategies to enhance the capacity of law enforcement and judicial systems in handling crypto-related corruption. Through content analysis, the study compares how countries such as the United States and Estonia have integrated blockchain forensic tools into anti-corruption efforts, contrasting these with the institutional and regulatory challenges faced by developing nations such as Indonesia. Findings reveal that without clear legal standards for blockchain evidence, and without adequate cross-border cooperation, digital corruption will continue to exploit the evidentiary gaps in emerging legal systems. The study concludes by recommending the adoption of integrated legaltechnical frameworks that recognize blockchain evidence, support forensic technology capacity building, and promote global alignment in anticorruption strategies. © Author(s).",
+    "source": "Indonesian Journal of Criminal Law Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

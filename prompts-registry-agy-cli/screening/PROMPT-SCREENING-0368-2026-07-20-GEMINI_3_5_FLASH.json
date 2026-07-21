@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0368-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Development of Digitalization of Rupiah Currency Towards National Security, Especially in Dealing With Cyber Crime and Financial Crime",
+    "authors": "Wiranta A.; Robby M.T.; Aritonang S.",
+    "year": "2025",
+    "doi": "10.14419/gbs8mw83",
+    "abstract": "This study aims to describe the development of digitalization rupiah currency against national security, specifically in the face crime cyber and cybercrime. The approach used descriptive qualitative methods. The research object is in the form of secondary data, consisting of primary policy materials, secondary policy materials, and tertiary policy materials. Temporary Qualitative data analysis is carried out through a process where data is sorted, collected, and managed into an organization or categorization, then synthesized to obtain clarity, including finding patterns, what things are important, and can be learned as lessons in order to decide something that can be told to other parties. The government is expected to immediately strengthen cybersecurity policies to protect the financial system from increasingly sophisticated cyber attacks. Cases of data leaks that have occurred on various digital platforms show how vulnerable a system that is not fully secure is. To support this, the Indonesian government, together with Bank Indonesia, the Financial Services Authority, and the Attorney General's Office, needs to actively involve the public in financial and digital literacy programs. The program aims to increase public understanding of digital currency and its benefits for national economic stability. Cooperation with educational institutions is also important to disseminate information related to the use of digital rupiah safely and effectively. The digitalization policy model for the rupiah currency through CBDC should be accompanied by mature risk mitigation, one of which is related to national threats in the form of monetary stability. With the right policy and regulatory model, the digital rupiah or CBDC is expected to become a stronger monetary sovereignty and a payment instrument that functions to strengthen national security in the digital era. © Alma Wiranta et al.",
+    "source": "International Journal of Accounting and Economics Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

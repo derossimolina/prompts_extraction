@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1315-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Madoff’s dirty money",
+    "authors": "Wilson L.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-03-2018-0022",
+    "abstract": "Purpose: The purpose of this study is to estimate the profits to JPMorgan Chase from the Madoff Ponzi scheme’s checking account deposits at the bank based on the data in Harbeck (2011). The Madoff Ponzi scheme was sitting on a cash hoard in excess of a US$1bn by the 1990s. Most of that money came into and stayed in the 703 account at JPMorgan Chase or it was transferred to one of the 11 other bank accounts. The author uses previously unanalyzed data from the Security Investor Protection Corporation (SIPC) to estimate JPMorgan Chase’s earnings from the accounts. Design/methodology/approach: The author estimates the checking account balances of the Madoff Ponzi scheme with JPMorgan Chase and its ancestor corporation, Chemical Bank. He estimates the earnings from those large checking accounts and reinvests them in the stock price from 1986 to 2011. He uses data on the Madoff checking accounts released by Harbeck (2011) to estimate that JPMorgan Chase earned over US$900m from those large and suspicious checking deposits. Findings: The US$907m in estimated profits from the Madoff Ponzi scheme bank accounts are much smaller than the US$2.6bn fine that JPMorgan Chase paid in 2014 to limit its liability for its dealings with Bernard L. Madoff. Any failure of anti-money laundering compliance in this case was very costly for the bank. Originality/value: This is only study to analyze the Harbeck (2011) data to estimate JPMorgan Chase’s profits from the Madoff Ponzi scheme’s checking deposits. As JPMorgan Chase paid a US$2.6bn fine in this matter, it is relevant to look at how big the fine was relative to the profits the corporation may have earned from doing business with Bernie Madoff. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

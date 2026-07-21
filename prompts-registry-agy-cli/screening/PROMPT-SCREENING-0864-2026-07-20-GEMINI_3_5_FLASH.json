@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0864-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Pengantin Pesanan (Mail-Brides Order): Solusi atau Pelanggaran HAM?",
+    "authors": "Khameswara D.W.; Ardianto B.",
+    "year": "2022",
+    "doi": "10.22437/up.v3i2.17917",
+    "abstract": "This article discusses the responsibility of the state in eliminating the practice of trafficking in persons. One form of this practice is mail-brides order. One child policy in China is one of the causes. Meanwhile, the similarities in culture and economic factors make Singkawang the location for mail-brides order transactions. To overcome this, Indonesia has ratified the Palermo Protocol by establishing Law No. 14 of 2009 concerning the Protocol to Prevent, React and Punish Trafficking in Persons, Especially Women and Children, Supplementing the United Nations Convention Against Transnational Organized Crime. . The violations that occurred in Singkawang were a form of human trafficking using 2 ways according to articles 5 and 6 of the law. Therefore, this will become a barrier for law enforcement in tracking and eradicating the crime of trafficking in persons, especially against victims of minors or children. © 2022, Jambi University. All rights reserved.",
+    "source": "Uti Possidetis"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

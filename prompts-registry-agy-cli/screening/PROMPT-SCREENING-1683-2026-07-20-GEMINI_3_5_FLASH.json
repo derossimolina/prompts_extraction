@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1683-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Features of the entrepreneurship development in digital economy",
+    "authors": "Gontareva I.; Chorna M.; Pawliszczy D.; Barna M.; Dorokhov O.; Osinska O.",
+    "year": "2018",
+    "doi": "10.18421/TEM74-19",
+    "abstract": "The broad introduction of digital technologies makes changes in the structure of socio-economic relations between labor and capital in the market, affecting its informational efficiency. The purpose of the article is a systems analysis of the structure of the cause and effect relationships between the informational efficiency of exchange prices, which affect the desired rate of return for investors; characteristics of the digital economy, methods used by entrepreneurs to evaluate specific assets. The analysis of the informational efficiency of markets based on the Fama-Samuelson criterion and conducted with the use of likelihood functions showed the down trend in the informativeness of exchange prices. According to the authors, this is due to a significant discrepancy in the price of transactions with real goods and futures operations, which are based on a variety of rational and irrational expectations. At the same time, the disproportionate growth of the derivative capital strengthens the influence of irrational expectations and contributes to the growth of the number of speculative transactions while the uncertainty of the external business environment is growing. Under these conditions, it is proposed to use the real options theory to evaluate specific tangible assets of entrepreneurial projects. Furthermore, the authors outlined the main characteristics of the digital economy in terms of entrepreneurship; carried out an analysis of market-based business opportunities resulting from the characteristics of the digital economy. On this basis, two causal chains are specified. For entrepreneurs in traditional spheres of activity, which has the following form: cause: excess labor - effect: a chance for development - market conditions: entrepreneurial activity, public-private partnership. And for entrepreneurs in the field of information and communication technologies, which is as follows: cause: poor structuring of information - effect: a chance for development - implementation conditions: availability of ideas for structuring of information flows. © 2018 Irina Gontareva et al; published by UIKTEN.",
+    "source": "TEM Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

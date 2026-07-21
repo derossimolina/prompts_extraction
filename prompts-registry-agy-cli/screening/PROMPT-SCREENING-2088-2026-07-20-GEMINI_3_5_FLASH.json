@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2088-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mapping &ldquo;infected&rdquo; real estate property",
+    "authors": "Ritzen L.",
+    "year": "2011",
+    "doi": "10.1108/13685201111147540",
+    "abstract": "PurposeIn 2009, the research team of Unger and Nelen was requested to study the scale of entwinement between money laundering activities and the Dutch real estate sector. For this, the team developed a data mining framework to detect real estate property at risk of being part of a money laundering scheme. Part of this study involved a criminological testing of the developed framework which resulted in the statement that improvements and alterations are necessary to increase the framework's validity and reliability. This paper aims to review this framework and generate refinements. Design&sol;methodology&sol;approachThis paper is concerned with a review – on the basis of data mining theory – with respect to the original framework in order to generate refinements for a future model. FindingsIn general, three major shortcomings were identified, being&colon; the use of unspecified detection clusters&semi; the theoretical nature of some of the risk indicators in combination with data integrity issues&semi; and the use of speculative&sol;arbitrary risk indicators. Originality&sol;valueAddressing these shortcomings in a future data mining framework will very likely increase its effectiveness and so, increase the ability of law enforcement agencies to counter money laundering activities more effectively and efficiently. © 2011, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

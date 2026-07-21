@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2587-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "PROBLEMS OF STATISTICAL STUDY OF GREEN ECONOMICS AND GREEN GROWTH POTENTIALS IN THE SUSTAINABLE DEVELOPMENT CONTEXT",
+    "authors": "Melnyk, T; Reznikova, N; Ivashchenko, O",
+    "year": "2020",
+    "doi": "10.30525/2256-0742/2020-6-3-87-98",
+    "abstract": "The purpose of the research. The research subject purpose is theoretical and practical aspects of the statistical assessment of the green economy potential in the sustainable development context. The methods. The article is based on the categories of theoretical (hypothesis, concept, theory, problem) and empirical (facts, empirical summarizations, empirical dependences) level of the issue, distinctive features of which are: objectivity; categorical character; rationality; testability; high level of generalization; universality and use of special tools and methods of cognition. General scientific and special methods of research are used to achieve the article's purpose and solve its problems, namely: methods of analysis, abstraction and synthesis, induction and deduction, and system structuring method; hypothetico-deductive method; method of historical and logical integrity; method of idealization; methods of classification and system generalization; statistical methods. Considering that furthergreeningof socio-economic indicators constitutes a vital problem remaining on the agenda of global and national institutes of development, the article's objective is to develop an integral approach to the revision of the System of Environmental-Economic Accounting (SEEA) built by the UN approach, through comparing existing approaches to the statistical assessment of the green economy state and the green growth potential, taking into account the proposed energy indices and indicators. Results. It is demonstrated that because none of the integral indicators of green economy development has been widely adopted by now, national and international statistics have no grounds for separating green goods and services as a specific sector of the national economy. Practical implications. The System of Environmental Economic Accounting (SEEA) has been adopted as a basic tool for the assessment of indicators reflecting the causal links between the economy and the environment. It is substantiated that most part of the data for measuring green growth processes has to be possibly collected by SEEA. Value/originality. The importance of the assessment of the dynamics of national economy greening is demonstrated, because this type of analysis enables one to assess the change in the environmental impact of the new economic model by analyzing the factors and identifying most effective methods for decreasing environmental pressures of economic activities. The advantage of such assessment is that it can be made on the basis of the available statistical data. Considering that energy indices and indicators are widely used in many international reporting systems to assess the state of green economy and the potential of green growth in the sustainable development context, we made an attempt to systematize all the indicators by the two main groups: direct and indirect. It is revealed that international organizations (OECP, UNEP and the World Bank) attempt to unify the existing approaches in constructing their own algorithms for the assessment of green growth, in particular with the indicators of Sustainable Development Goals. At the same time, national statistical agencies attempt to build a set of statistical indicators for the assessment of green economy development as indicators of demand for green products. It is demonstrated that harmonized definitions of economic activities concerned with the green industry and green jobs and comparable key indicators, if used internationally, will enable for the statistical assessment of the green economic development in space and time.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

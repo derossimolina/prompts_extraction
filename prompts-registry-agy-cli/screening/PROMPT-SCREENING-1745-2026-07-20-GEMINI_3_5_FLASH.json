@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1745-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Let Us Not Forget: Crypto Means Secret. Cryptocurrencies as Enabler of Unethical and Illegal Business and the Question of Regulation",
+    "authors": "Seele P.",
+    "year": "2018",
+    "doi": "10.1007/s41463-018-0038-x",
+    "abstract": "In the following, I concentrate on the nefarious, harmful and unethical dimensions emerging only slowly as the rather new phenomenon of cryptocurrencies and blockchain at large become visible only gradually. For the positive and pro-social use of cryptocurrencies please refer to the article of Claus Dierksmeier in this issue of HMJ. As there are many different dimensions still unknown, I concentrate on the ethical issues emerging from the secretive nature of cryptocurrencies, less on the environmental carbon footprint or economic implications of volatility also discussed in the literature. Among the most critical issues are black market transactions of weapons used in terrorist attacks, drugs, or childpornography. Additionally, cryptocurrencies are more and more found in blackmailing people and as payment for ransom-ware and other computer viruses (Wannacry was a remarkable example). Money laundering also is on the rise via cryptocurrencies. I argue that the nefarious use of cryptocurrencies threatens the prosocial potential of cryptocurrencies and in general makes criminal activity easier for criminals and less likely to track down by legal authorities. In closing, I discuss current debates about emerging regulation presenting an overview of some jurisdictions and the option of regulated central bank issues cryptocurrencies. © 2018, Springer International Publishing AG, part of Springer Nature.",
+    "source": "Humanistic Management Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

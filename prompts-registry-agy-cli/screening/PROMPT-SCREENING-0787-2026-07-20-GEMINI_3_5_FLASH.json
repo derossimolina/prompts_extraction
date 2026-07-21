@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0787-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Effectiveness of regulatory technology implementation in Indonesian banking sector to prevent money laundering and terrorist financing",
+    "authors": "Meiryani M.; Soepriyanto G.; Audrelia J.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-04-2022-0059",
+    "abstract": "Purpose: Money laundering and terrorism financing use the banking sector system illegally and result in enormous losses for the state and nation. Regulatory Technology (RegTech) is an important part of effectively preventing money laundering and terrorism financing. However, the implementation of RegTech related to the prevention of money laundering and terrorist financing, especially in the Indonesian banking sector, has not been widely studied and discussed. Therefore, this study aims to provide empirical testing evidence regarding the effectiveness of RegTech implementation in the Indonesian banking sector to prevent money laundering and terrorist financing. Design/methodology/approach: This study uses primary data obtained through a survey distributed to 160 bankers who work in eight different banks in Indonesia with a 95% confidence level and a confidence interval of 7.75. The criteria needed to determine the sample in this study are individuals who actively work as staff whose work is directly related to banking; individuals who are actively working in banks registered with OJK; individuals who have been actively working in the banking sector in Indonesia for at least three years. The data that has been obtained were analyzed using the SmartPLS application to test the validity and reliability, descriptive statistics and structural models (inner model). Findings: The results of this study indicate that electronic know your customer (eKYC), transaction monitoring (TM), cost and time efficiencies (CTE) influence the prevention of anti-money laundering (AML) and countering financing of terrorism (CFT) in the Indonesian banking sector. However, eKYC and CTE have little influence on AML-CFT in the Indonesian banking sector. Meanwhile, TM has a moderate influence on AML-CFT in the Indonesian banking sector. In addition, in general, most bankers agree that the bank they work for has followed the guidelines, policies and regulations that have been given. Originality/value: This study uses the Indonesian banking sector as a research subject that raises the effectiveness of the implementation of the use of RegTech to prevent money laundering and terrorism financing. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

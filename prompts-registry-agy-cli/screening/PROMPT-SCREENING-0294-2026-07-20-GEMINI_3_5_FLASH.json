@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0294-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Criminal multinational enterprises and host state relations: insights from transaction cost economics",
+    "authors": "Enderwick P.; Buckley P.J.; Hsieh L.; Shenkar O.",
+    "year": "2025",
+    "doi": "10.1108/MBR-05-2025-0161",
+    "abstract": "Purpose – Criminal multinational enterprise (CMNE)−host state relations vary between nations from competitive confrontation to complicity, state capture, even state-led criminal activity. Applying transaction cost concepts, this study aims to examine the various forms of association and their determinants. Design/methodology/approach – Rather than conceptualizing CMNE−host state relations as the result of two distinct and competitive entities seeking an outcome reflective of relative bargaining power, this study incorporates complicity between the two parties and how this affects transaction costs and broader economic development. Findings – Criminal multinationals that forge narrow and exclusive bargains with complicit state officials impact negatively on equitable institutional and economic development in host countries. The analysis also highlights the limitations of widely adopted anti-crime policies. Originality/value – This study contributes to the MNE−host state relations research with a focus on CMNE as a distinct entity in the global economy. This study offers policy insights into tackling the problem of transnational crime arguing that such policies need to incorporate the likelihood and variation in levels of complicity and the social embeddedness of organized crime, as well as the transaction costs they face. © 2025 Emerald Publishing Limited",
+    "source": "Multinational Business Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

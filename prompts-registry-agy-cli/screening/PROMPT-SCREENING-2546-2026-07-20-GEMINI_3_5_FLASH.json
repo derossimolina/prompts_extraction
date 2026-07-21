@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2546-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A study of alliance dynamics, accounting and trust-as-practice",
+    "authors": "Mahama, H; Chua, WF",
+    "year": "2016",
+    "doi": "10.1016/j.aos.2016.04.004",
+    "abstract": "Adapting Callon's three-phased model of translation, this paper investigates the formation and development of an outsourcing alliance. It also maps the changing connections between trust and accounting. Instead of theorising trust as a noun, the paper defines trust as situated practice: an accomplishment constructed through the actions and routinized practices of multiple actors, both human and non-human. Trust/trustworthiness was observed to be not one thing but many - diverse notions emerging from the 'doing' of routines enacted in the name of trust. Accounting was centrally entangled in the birth of the alliance, its structuring and in the routines to find and select trustworthy suppliers, to monitor them regularly in order to justify ongoing trusting, and to repair growing distrust. Finally, the origins of the alliance crucially affected its subsequent trajectory - earlier investment in finding trustworthy suppliers meant that later poor performance not only generated strong disappointment but came to be seen as a breach of trust and a failure to honour promises. (C) 2016 Elsevier Ltd. All rights reserved.",
+    "source": "ACCOUNTING ORGANIZATIONS AND SOCIETY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

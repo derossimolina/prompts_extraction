@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1220-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fifth-Generation Warfare and Challenges for Pakistan",
+    "authors": "Bibi N.; Farhat S.; Din M.U.",
+    "year": "2022",
+    "doi": "10.33152/jmphss-6.6.1",
+    "abstract": "From the beginning of human history, warfare is continuously changing over time. New tactics and approaches to combat, such as unconventional warfare, hybrid warfare, information-based campaigns, media implantation, and fifth-generation warfare, are emerging, undermining the value of conventional military methods and blurring the line between conflict and peace. The fifth-generation war is not explicit; rather, it is unclear and ambiguous. In nature, that creates violence in a state affecting directly or indirectly state institutions, infrastructure, public lives and properties, and economic means such as banking. Fifth-generation warfare is an active threat to Pakistan's security as there are many ongoing conflicts that one can see at present, such as terrorism, ethnic and sectarian division, media propaganda against state institutions, and money laundering. The research aims to present the threats posed to Pakistan at the current time. It will explore 5th-generation warfare that will be applied in this article to show how it poses challenges to Pakistan. The current political and security challenges, along with the recent international developments that have had a deep impact on the geopolitical scenario of Pakistan, will be explained with the effects of 5th-generation warfare to show how new challenges are posed. The article's findings will e helpful in formulating policies that will ultimately be helpful to counter these challenges. It will be significant in providing more insights and helpful in transforming the discourse related to the security of Pakistan. It shows the different strategies, cyber-attacks, economic threats, and attempts to destabilize Pakistan. © 2022 Journal of Management Practices, Humanities and Social Sciences (JMPHSS). All rights reserved.",
+    "source": "Journal of Management Practices, Humanities and Social Sciences (JMPHSS)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

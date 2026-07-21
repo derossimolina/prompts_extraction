@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2569-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "RETRACTED: Developing the Framework for Mergers and Acquisitions Success: Evidence from the Indian Banking Sector",
+    "authors": "Kaur, G; Sharma, RK",
+    "year": "2024",
+    "doi": "10.1007/s13132-024-01746-x",
+    "abstract": "The consistently high failures reveal that scholars need to thoroughly comprehend the intricacies of the Mergers and Acquisitions (M&A) process due to a lack of connectedness across various independent schools. This indicates the necessity to study the parameters affecting the overall M&A performance and explore linkages between them. The primary aim is to develop an integrative framework to comprehend better the interdependencies of M&A intentions, M&A phases, and their impacts on M&A performance grounded on a questionnaire survey of 100 management personnel of post-merged Indian banks. Partial Least Squares-Structural Equation Modelling (PLS-SEM) is used. Results reveal that M&A intentions significantly impact the Pre-M&A planning phase. The Pre-M&A planning phase significantly impacts the Post-M&A planning phase and Post-M&A performance. The Post-M&A planning phase significantly impacts the Post-M&A performance. The current study has various implications. It is one of the pioneering initiatives to develop and examine an integrated framework to encourage interdisciplinary research from an emerging market context. It highlights the need for an integrative approach to advance our knowledge about the intertwined dynamic relationships and M&A performance through cross-disciplinary collaboration. It claims that a multi-factor, multi-phasic, and multidisciplinary approach is essential to overcome methodological hindrances and understand the intricacies of the M&A phenomenon. The significance of intentions in structuring the Pre-M&A planning phase is also analyzed.",
+    "source": "JOURNAL OF THE KNOWLEDGE ECONOMY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

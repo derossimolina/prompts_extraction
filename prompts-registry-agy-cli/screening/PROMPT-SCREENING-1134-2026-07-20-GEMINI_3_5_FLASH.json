@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1134-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How effective are the current global standards in combating money laundering and terrorist financing?",
+    "authors": "Jayasekara S.D.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-05-2020-0047",
+    "abstract": "Purpose: The purpose of this paper is to study the impact of global anti-money laundering and countering the financing of terrorism (AML/CFT) standards on combating money laundering and terrorist financing (ML/TF) efforts. This study will assess the impact of AML/CFT legal framework as well as the effective implementation of the framework on combating crimes. Design/methodology/approach: The author develops an AML/CFT effectiveness index using the results of 11 immediate outcomes in mutual evaluation reports to measure the overall effectiveness of regimes in combating ML/TF. In addition to this index, the AML/CFT compliance index is used to measure the strength of the AML/CFT legal framework of countries. A model was developed and tested to measure the impact of the AML/CFT legal framework and its effective implementation on corruption, bribery, terrorism and crimes. Findings: The results suggest that the effective implementation of the AML/CFT legal framework is important to combat ML/TF. The existence of a sound AML/CFT legal framework alone will not be sufficient to combat ML/TF. Therefore, countries are required to implement their legal framework effectively to achieve the AML/CFT goals of the country as well as the global policymaker. The empirical results show a significant relationship between the AML/CFT effectiveness index with the proxies the author used to capture corruption, bribes and crimes. Considering the wide range of implications of the crimes, which are related to ML/TF, this study suggests the global policymakers to further strengthen the monitoring mechanism of AML/CFT deficient countries to protect the global financial systems from criminals. Practical implications: There is a dearth of studies on the impact of the effectiveness of the AML/CFT regime on combating ML/TF. Therefore, this study will lay the foundation for future studies on measuring the effectiveness of an AML/CFT regime. More appropriate measures will be developed in the future based on this foundation. Originality/value: This paper is an original work done by the author, which discusses the impact of Financial Action Task Force standards on combating ML/TF. The AML/CFT effectiveness index is the original idea of the author, which can be used as a quantitative measure to capture the effectiveness of the AML/CFT regimes in future studies. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

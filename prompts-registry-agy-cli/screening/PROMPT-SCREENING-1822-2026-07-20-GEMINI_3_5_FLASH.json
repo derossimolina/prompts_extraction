@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1822-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fighting money laundering with technology: A case study of Bank X in the UK",
+    "authors": "Demetis D.S.",
+    "year": "2018",
+    "doi": "10.1016/j.dss.2017.11.005",
+    "abstract": "This paper presents a longitudinal interpretive case study of a UK bank's efforts to combat Money Laundering (ML) by expanding the scope of its profiling of ML behaviour. The concept of structural coupling, taken from systems theory, is used to reflect on the bank's approach to theorize about the nature of ML-profiling. The paper offers a practical contribution by laying a path towards the improvement of money laundering detection in an organizational context while a set of evaluation measures is extracted from the case study. Generalizing from the case of the bank, the paper presents a systems-oriented conceptual framework for ML monitoring. © 2017 Elsevier B.V.",
+    "source": "Decision Support Systems"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

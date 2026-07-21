@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0388-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ville lumière Ou Ville obscure? Assessing the secrecy of firms owning real estate properties in Paris",
+    "authors": "Carbone C.; Paternoster C.; Riccardi M.",
+    "year": "2025",
+    "doi": "10.1007/s12117-025-09570-8",
+    "abstract": "The real estate market, especially the luxury one, has long been a target for money laundering purposes. A frequent scheme involves the misuse of legitimate– often offshore– firms to conceal the ownership of properties and the illicit origin of the invested funds. Despite the abundance of investigations, empirical research in this domain remains limited. Our paper addresses this gap by empirically examining the secrecy of the firms owning approximately 500,000 properties in one of the most important European cities– Paris. The analysis combined a wide variety of data, ranging from land registry information to company ownership data, politically exposed persons’ records, crime involvement data and high-risk jurisdictions lists. The results show that (i) firms with real estate holdings characterised by higher levels of secrecy are more likely to be implicated in financial crimes than more transparent firms; (ii) 1% of properties in Paris, equivalent to almost 5,000, are owned by firms having links with high-risk jurisdictions known to be at the center of recent money laundering and tax evasion cases; (iii) approximately 10,000 properties and 300 properties are respectively owned by firms having at least two and three secrecy indicators. The results confirm the exposure of the real estate market to financial crime risks and the validity of anomaly indicators to detect high-risk properties. It also offers local administrations and supervisory authorities novel methods to monitor the investment of dubious money into real estate which can have negative socio-economic impact. © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2025.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

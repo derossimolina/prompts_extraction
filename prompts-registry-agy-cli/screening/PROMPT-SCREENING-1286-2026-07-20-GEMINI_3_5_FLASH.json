@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1286-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "To tender or not: an investor’s dilemma in the first hostile takeover in Indian IT services industry",
+    "authors": "Joshipura M.; Sivaraman V.",
+    "year": "2022",
+    "doi": "10.1108/EEMCS-04-2022-0075",
+    "abstract": "Learning outcomes: The learning outcomes of this study are as follows:1. Learn to analyze a hostile takeover bid from the perspectives of the acquirer, target firm’s management and a large institutional investor in the target firm.2. Review the structuring, financing, valuation, mode of consideration, legal and regulatory aspects of a hostile takeover.3. Understand the role of the target firm’s board in a hostile takeover transaction.4. Address “to sell or not to sell” dilemma of a large institutional investor in the target firm in the event of a tender offer given financial and non-financial considerations. Case overview/synopsis: On June 14, 2019, Pulak Prasad, Founder and Chief Executive Officer (CEO) at Nalanda Capital, in consultation with other managing partners at Nalanda Capital, had to decide whether to tender a 10.6% equity holding in Mindtree Ltd. in an unsolicited open offer made by Larsen and Toubro (L&T) Ltd. Until then, Nalanda Capital, led by Prasad, had aligned with the Mindtree founders and had led a campaign to thwart L&T’s bid to acquire Mindtree; L&T’s offer to acquire 31% of Mindtree shares was because of open on June 17, 2019 and it is time for Prasad and the management team to take a reasoned call – whether to stay in Mindtree or to exit? Associated aspects included – What could be the consequences of not selling the stake? What could be L&T’s game plan? Could Mindtree continue to create wealth for its shareholders under L&T? Complexity academic level: This case is appropriate for Mergers & Acquisitions and Strategic Financial Management courses in modules focused on structuring, financing and takeover defence techniques in a hostile takeover transaction. The case is appropriate for graduate MBA and EMBA programmes. Supplementary materials: Teaching notes are available for educators only. Subject code: CSS 1: Accounting and Finance. © 2022, Emerald Publishing Limited.",
+    "source": "Emerald Emerging Markets Case Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

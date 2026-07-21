@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1882-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Keiretsu, Governance, and Learning: Case Studies in Change from the Japanese Automotive Industry",
+    "authors": "Ahmadjian C.L.; Lincoln J.R.",
+    "year": "2001",
+    "doi": "10.1287/orsc.12.6.683.10086",
+    "abstract": "The keiretsu structuring of assembler-supplier relations historically enabled Japanese auto assemblers to remain lean and flexible while enjoying a level of control over supply akin to that of vertical integration. Yet currently there is much talk of breakdowns in keiretsu networks. This paper examines some recent developments in Japanese parts-supply keiretsu. We argue that keiretsu relationships are drifting from \"hybrid\" or \"network\" (i.e., keiretsu) governance modes toward the extremes of arms-length contracting and top-down administration. These changes are best understood through a combination of transaction cost and learning perspectives on alliance. Consistent with transaction-cost economics, the shift in purchase-supply relationships can be traced to changes in the nature of parts transactions and keiretsu-governance structures. A learning perspective on alliance complements and extends transaction-cost theory, providing additional explanation of the sources of change and the specific governance choices being made. Our first two cases document a drift in Toyota's keiretsu supply network toward a hierarchical form in the management of parts-supply transactions. Toyota has effectively internalized its transactions with Daihatsu by taking a controlling interest. Toyota's strategy toward long-term partner Denso, on the other hand, was very different. Toyota built, from the ground up, an in-house capability in electronic components, thus scaling down its dependence on Denso. A third case considers a general trend in the Japanese auto industry toward greater standardization of parts. With the routinization of quality, reliability, and speed in supply management, the need for keiretsu-style governance has declined. The withering of keiretsu obligations is also traceable to globalization and the continuing weakness of the Japanese economy, which have prompted Japanese firms to question received business practice.",
+    "source": "Organization Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

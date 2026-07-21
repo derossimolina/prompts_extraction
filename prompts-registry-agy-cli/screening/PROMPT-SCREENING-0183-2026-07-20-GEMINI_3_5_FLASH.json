@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0183-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is cryptocurrency a hedging tool during economic policy uncertainty? An empirical investigation",
+    "authors": "He C.; Li Y.; Wang T.; Shah S.A.",
+    "year": "2024",
+    "doi": "10.1057/s41599-023-02532-x",
+    "abstract": "In light of the increasing investor interest in cryptocurrencies (CR) as alternative financial assets in financial markets, we sought to examine the connection between economic policy uncertainty (EPU) and cryptocurrencies. To do so, monthly data for Bitcoin (BTC), Ethereum (ETH), and Tether (THT) from January 2021 to April 2023 were employed. We utilized quantile regression and Granger causality analysis to investigate the relationship between EPU and cryptocurrencies. The initial results of this study suggest that EPU has little effect on the cryptocurrency market in the short-term. To enhance the strength and validity of these findings, we performed separate evaluations tailored to the unique contexts of the United States and China. The results revealed that the effects of EPU were adverse and statistically insignificant for China, while the situation differed slightly for the United States. Given that the United States has the most developed economy, its policies have a significant influence globally. As a result, cryptocurrencies have the potential to serve as efficient hedging tools. Furthermore, we incorporated nonlinear autoregressive distributed lag (NARDL) analysis to assess the asymmetric impact of EPU on cryptocurrencies by adopting both short-term and long-term perspectives. The outcomes demonstrated that both Bitcoin and Ethereum can serve as hedging tools in the short-term, although this utility diminishes in the long-term. Conversely, Tether displayed a positive association with EPU in the long-term. The findings of this study hold significance for policy-makers, offering valuable insights related to structuring efficient policies. The recommendations include fostering a rational framework for active participation from various stakeholders, including investors, governmental bodies, central banks, stock exchanges, and financial institutions. This collaborative effort aims to mitigate irrational fluctuations and enhance the acceptability of cryptocurrencies. In essence, this research underscores the potential of cryptocurrencies as a secure hedge against short-term EPU. However, we caution against assuming that any single cryptocurrency can consistently serve as a dependable investment haven. © 2024, The Author(s).",
+    "source": "Humanities and Social Sciences Communications"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

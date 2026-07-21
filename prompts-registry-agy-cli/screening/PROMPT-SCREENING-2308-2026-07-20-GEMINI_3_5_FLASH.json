@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2308-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "SHOULD CASINO ANTI-MONEY LAUNDERING RECORDKEEPING REQUIREMENTS BE STRENGTHENED TO COMBAT FINANCIAL CRIME?",
+    "authors": "Senia, LC",
+    "year": "2017",
+    "doi": "10.1089/glr2.2017.21105",
+    "abstract": "",
+    "source": "GAMING LAW REVIEW-ECONOMICS REGULATION COMPLIANCE AND POLICY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

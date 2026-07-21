@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0522-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global tax avoidance and evasion: A landscape through insights from a systematic literature review and bibliometric analysis",
+    "authors": "Sumantri E.; Samudra A.A.; Suradika A.",
+    "year": "2024",
+    "doi": "10.24294/jipd.v8i9.8073",
+    "abstract": "This research aims to comprehensively investigate contemporary practices and factors influencing global tax avoidance and evasion through a systematic literature review (SLR) and bibliometric analysis. This study methodology uses SLR with bibliometric analysis to map this research trend. Relevant literature was collected and systematically analyzed to identify key themes, methodologies, and findings regarding tax avoidance and evasion. The study’s findings identify various tax avoidance practices, including profit shifting, transfer pricing strategies, and the use of tax havens by multinational corporations. The report also highlights various forms of tax evasion, such as money laundering and illicit financial flows. Key factors influencing tax behavior are ethical considerations, government policies, economic factors, and corporate governance practices. This analysis highlights the complex interactions between these factors in shaping tax practices globally. The study’s conclusions show that effective tax governance requires a multifaceted approach integrating ethical standards, a strong regulatory framework, and international cooperation. Ethical corporate behavior and transparent reporting are essential in promoting tax compliance and fairness. This study emphasizes the critical role of policymakers in designing and enforcing tax policies that discourage aggressive tax planning while encouraging economic growth and equality. Recommendations from these findings are to increase transparency in multinational operations, strengthen international tax cooperation, and improve global tax administration capabilities. In addition, increasing taxpayer education and awareness can foster a culture of compliance and ethical tax practices. Future research should prioritize longitudinal studies and case-specific analyses to deepen understanding and develop targeted interventions to address tax avoidance and evasion challenges. © 2024 by author(s).",
+    "source": "Journal of Infrastructure, Policy and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

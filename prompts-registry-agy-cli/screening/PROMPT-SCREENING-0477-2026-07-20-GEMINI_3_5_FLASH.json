@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0477-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Can AI readiness and strong institutions curb AML risk? Cross-country evidence from panel data",
+    "authors": "Kirichok O.; Hurochkina V.; Zhanseitova G.; Dudchenko V.; Rubanov P.; Babaiev D.; Lyeonov S.",
+    "year": "2025",
+    "doi": "10.21511/pmf.14(4).2025.05",
+    "abstract": "As emphasized by the FATF, IMF, and World Bank, technological readiness and institutional quality are increasingly decisive in shaping AML effectiveness. By mitigating money-laundering vulnerabilities, strengthening AI readiness, and enhancing institutional quality, tax collection efficiency can be improved and fiscal leakages reduced. These improvements expand the fiscal space available for national budgets, strengthening the financial foundations of public administration. The study aims to examine the impact of Government AI Readiness on AML risk, measured by the Basel AML Index, and the moderating role of institutional quality as captured by the Rule of Law Index. An unbalanced panel dataset that covers up to 168 countries for 2020–2024 was analyzed using fixed effects and random effects models, with variable transformations applied where necessary. All estimations were performed in R Studio. The results indicate that a one-point increase in the Government AI Readiness Index is associated with a 0.048–0.040 point reduction in the Basel AML Index, while a one-unit increase in log GDP per capita decreases the Basel AML Index by 0.54–0.34 points, holding other factors constant. The interaction term between AI readiness and the Rule of Law Index is positive (0.067–0.072), confirming that the risk-reducing effect of AI readiness diminishes as institutional quality strengthens. These findings support the hypotheses and confirm the complementary roles of technological preparedness and institutional integrity in shaping AML outcomes. Fixed effects analysis reveals structural vulnerabilities in AML in Gabon and China, while Sweden exhibits the lowest residual risk after accounting for AI readiness and institutional strength. © Oxana Kirichok, Viktoriia Hurochkina, Gulnara Zhanseitova, Viktoria Dudchenko, Pavlo Rubanov, Denys Babaiev, Serhiy Lyeonov, 2025. This is an Open Access article, distributed under the terms of the Creative Commons Attribution 4.0 International license, which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+    "source": "Public and Municipal Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

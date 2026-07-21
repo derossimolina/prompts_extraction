@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0742-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Corporate criminal liability in Islamic banks in Malaysia",
+    "authors": "Yusoff N.Y.; Hassan R.",
+    "year": "2022",
+    "doi": "10.1108/IJIF-04-2021-0067",
+    "abstract": "Purpose: This paper aims to highlight provisions that may attract corporate criminal liability (CCL) in legislation and regulations enacted in Malaysia. Further, this paper identifies gaps or obstacles in the implementation of CCL in Islamic banks (IBs) in Malaysia. Design/methodology/approach: This research adopts the qualitative methodology. More specifically, it uses normative legal research by focusing on primary and secondary data obtained from legislation, regulations, decided case laws, guidelines, law textbooks and bank annual reports in relation to CCL provisions. It also conducts semi-structured interviews with different categories of experts, including legal practitioners (lawyers), regulators from Bank Negara Malaysia (BNM) and Securities Commission Malaysia, officers of the Attorney General's Chambers and officers from legal departments in IBs. Findings: The results conclude that IBs should implement the law on CCL because they are considered corporations. It is also found that not all IBs complied with CCL provisions brought corporate offenders before the court. Research limitations/implications: This research is restricted by its specialisation in CCL in IBs in Malaysia. Practical implications: The CCL provision has to be implemented effectively by IBs to achieve the benefit. However, not all IBs implement CCL provision properly. The understanding created by the interview data illuminates the challenges in implementing CCL provisions. Thus, this paper seeks to change the approach in the implementation of CCL provisions by IBs in Malaysia. Originality/value: The paper touches upon a new area, notably CCL in IBs, which is not well researched in past literature. Although there is a vast research on CCL, corporate crime in IBs in Malaysia is still an unexplored area. This study gives light on the implementation of CCL provisions in IBs. © 2022, Nur Yusliana Yusoff and Rusni Hassan.",
+    "source": "ISRA International Journal of Islamic Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

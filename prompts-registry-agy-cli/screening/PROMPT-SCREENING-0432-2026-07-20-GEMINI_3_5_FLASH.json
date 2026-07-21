@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0432-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sports and cybercrime: an overview of a growing threat",
+    "authors": "Cleland J.; Dixon K.",
+    "year": "2025",
+    "doi": "10.1080/23750472.2025.2513953",
+    "abstract": "This article provides an overview of the expanding range of cybercrime activities targeting various stakeholders in sport. The first part examines the growth of cybercrime and the main strategies adopted to target teams, sports organisations, and individuals. It then addresses the cyber-threats facing sports events and stadia before addressing the growing threat of identity theft from online gambling sites, the growth in illegal betting resulting from the opportunities created by the unregulated aspect of gambling companies on the internet, and the impact cryptocurrency is having on money laundering. The final part analyses the growth of online hate speech and the extent to which social media platforms and national governments are protecting the rights of users and athletes from harm. © 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Managing Sport and Leisure"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2000-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A matrix approach to informal markets: Towards a dynamic conceptualisation",
+    "authors": "Walle G.V.",
+    "year": "2008",
+    "doi": "10.1108/03068290810896271",
+    "abstract": "Purpose - The informal economy is more than the inverse of the formalised economy, but is a dynamic environment. It is less limited by legal rules, state control, bureaucracy or tax regulation. On the other hand the informal market is less visible than the regular economy. The purpose of this paper is to find out how informal markets are currently developing. Design/methodology/approach - This contribution is based on a literature review of primarily European work from scholars active in different disciplinary fields, concentrating upon presentations made during the seminars given for the EU Framework 6 CRIMPREV programme. It is structured using a matrix of potentially interesting variables: disciplinary interaction and the need for a multidisciplinary discourse; the position of nation states as a fundamental variable for the existence of the informal economy; general global economic dynamics and their implications for the concept of the informal economy; the interplay of formal, informal and criminal markets; the functionalities of informal markets for the classic survival economy; the dangerousness of wrong perceptions of informal markets and finally the contribution of different methodologies to the knowledge of the informal economy. Research limitations/implications - The matrix is incomplete and further input is welcome. Originality/value - This paper could be a start for the comparison of analyses of informal markets in time and space, without the limitations of the classic categories such as organised crime and in limiting definitions. © Emerald Group Publishing Limited.",
+    "source": "International Journal of Social Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

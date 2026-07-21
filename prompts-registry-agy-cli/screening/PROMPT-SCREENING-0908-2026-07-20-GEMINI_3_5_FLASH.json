@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0908-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cross-Country Analysis of the Association of Cultural Dimensions with Prescription Opioid Consumption and Implications for Health Education",
+    "authors": "Batova T.; Ruediger S.",
+    "year": "2023",
+    "doi": "10.1080/10826084.2023.2177957",
+    "abstract": "Background and Purpose: Over 247,000 people died in the U.S. from overdoses related to prescription opioids in 1999–2019, leading the WHO to deem the situation an epidemic. The purpose of this study is to examine whether culture is related to perceptions and behaviors around opioid consumption because culture has been shown, for example, to influence decision-making strategies, risk-taking, and responses to self-congruent communications. Methods: Scores for country-wide dimensions of culture from Hofstede and opioid consumption data from the International Narcotics Control Board were used to study a possible relationship. The relationship was tested by including a set of economic and socio-economic indicators from the World Bank, the United Nations, and PROSPERED. Results: The scores for the cultural dimension of individualism are correlated with opioid consumption on a country level, with higher levels of individualism connected to higher consumption. This correlation is robust to the inclusion of economic and socio-economic variables (GDP per capita, inflation, income inequality, unemployment, education, life expectancy, median age, and sick leave coverage). Conclusions and Importance: Because messages that reinforce a group’s cultural value are more meaningful and effective in motivating action, educational health messages about opioid consumption in the U.S. need to be designed with culture in mind to disrupt decisions to take opioid analgesics unless medically justified or to limit their use. More research is needed on how to design self-congruent individualistic versus collectivistic persuasive appeals. © 2023 Taylor & Francis Group, LLC.",
+    "source": "Substance Use and Misuse"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

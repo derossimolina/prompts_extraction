@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0510-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "NFTs and the virtual yet concrete art of money laundering",
+    "authors": "Mosna A.; Soana G.",
+    "year": "2023",
+    "doi": "10.1016/j.clsr.2023.105874",
+    "abstract": "While much has been said regarding the anti-money laundering treatment of crypto-assets, NFTs seem to have remained on the sidelines of such a debate. Collectible NFTs, however, present a distinct AML risk. Eminently, they mix the risk-factor connected with crypto-assets and fine art. As the first, they are global, pseudonymous, and immaterial. As the second, they have a highly subjective price. In the absence of clear regulation, the risk is for this market to become a criminal haven. The present contribution analyses the relation between collectible NFTs and AML regulation. We pursue our analysis with a view at analyzing the compatibility of NFTs with their two connected categories: crypto-assets and fine art. © 2023 Anna Mosna and Giulio Soana",
+    "source": "Computer Law and Security Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

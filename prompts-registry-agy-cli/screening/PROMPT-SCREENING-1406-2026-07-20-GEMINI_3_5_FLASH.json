@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1406-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Where does a nation’s wealth go? Evidence from a third world country",
+    "authors": "Khan W.A.; Jawaid S.T.; Arif I.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-01-2017-0005",
+    "abstract": "Purpose: This paper aims to determine the preferable destinations of money laundered from Pakistan by using the Walker’s Gravity Model and to estimate the amount of money laundered through 156 countries. The research aims to facilitate policymakers and regulators to provide more efficient guidelines to counter the problem of money laundering. Design/methodology/approach: This study uses a descriptive and quantitative approach. This study uses the Walker’s Gravity Model updated by Unger et al. (2006) to measure money laundering in Pakistan; Walker’s Gravity Model was first developed by John Walker in 1994. Findings: The results indicate that Pakistani money launderers preferred countries having large financial sectors and political stability to hide their illegal money. In addition, the study estimates the amount of money laundered and shows that Pakistan has lost bulk of funds. Research limitations/implications: The major limitation is the non-availability of reliable data as the activity is hidden. Reliable data is either not available officially or scattered. Available data only reflect aspects that are reported. Non-availability of statistics for all years and countries resulted in the omission of some countries. Practical implications: The study helps legislators and policymakers, including the Ministry of Finance, State Bank of Pakistan, Securities and Exchange Commission Pakistan, and other regulators, including law enforcement agencies and financial institutions, in formulating effective policies, regulations and internal control. Originality/value: The study helps to identify the need of estimating the amount of money laundered to fight the problem effectively. Very few efforts have made to determine the size and the amount of money laundered, and this is the first study to determine the amount of money flowing out of Pakistan with the purpose of laundering. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

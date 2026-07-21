@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2055-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Leadership behavior, subordinate personality, and satisfaction with supervision",
+    "authors": "Kenis I.",
+    "year": "1978",
+    "doi": "10.1080/00223980.1978.9915952",
+    "abstract": "This study examined the possible influence of need for independence and authoritarianism of subordinates on their attitudes toward participative, considerate, and structuring superiors. The analyses were based on responses of 126 male and 21 female first line bank supervisors at the branch level who completed personality measures based on the F Scale and the Vroom need for independence scale; the Vroom participation scale; Minnesota job satisfaction questionnaire; and the Leader Behavior Description Questionnaire (consideration and initiating structure). The study found that need for independence and authoritarian personality of the first line supervisors modified the relationship between their satisfaction with supervision and leader participation and consideration. With respect to initiating structure, however, the results were inconclusive. © 1978 Taylor & Francis Group, LLC.",
+    "source": "Journal of Psychology: Interdisciplinary and Applied"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

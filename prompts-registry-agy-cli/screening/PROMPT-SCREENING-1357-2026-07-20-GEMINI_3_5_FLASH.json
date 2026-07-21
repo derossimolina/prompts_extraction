@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1357-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A history of continuous power delegation: the establishment and further development of the European system of Financial Supervision",
+    "authors": "Brunelli Zimmermann B.; Buttigieg C.P.",
+    "year": "2022",
+    "doi": "10.1080/17521440.2023.2181671",
+    "abstract": "International and Regional Regulatory Institutions (IRIs) have, throughout history, been created and reshaped by crises. This article argues that this phenomenon can be explained through rational choice neo-institutionalism, which argues that crises shift policy equilibrium and allow for greater political will towards solving the root causes of the crisis–in turn, this usually involves some degree of power delegation from the national to the supranational. This article applies this theory to the creation and further development of the European System of Financial Supervision in three cases: the post-2009 crisis; the post-sovereign debt crisis; and the European Union’s shortfall in anit-money laundering compliance and supervision. This article concludes that by delegating power after every crisis and debacle, countries attempt to solve cooperation, coordination, trust, and uncertainty problems. However, relying on crises to generate political will makes IRIs reactive not proactive–ultimately, this might have implications over global financial soundness, as exemplified by the case of crypto-assets. © 2023 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Law and Financial Markets Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1173-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Usernames on a Finnish Online Marketplace for Illegal Drugs",
+    "authors": "Hämäläinen L.; Haasio A.; Harviainen J.T.",
+    "year": "2021",
+    "doi": "10.5195/names.2021.2234",
+    "abstract": "Usernames play a major role in online communication by providing a vital first impression and including clues about the identities and personal characteristics of users. Usernames are extremely important in the online trade of illegal drugs, which carries several risks and therefore requires a high degree of trust between the transaction parties. This study examines how sellers and buyers of illegal drugs represent themselves in their usernames. Data on 1,654 usernames collected from a Finnish darknet marketplace, Torilauta (2017– 2020) are analyzed both qualitatively and quantitatively. The usernames are mostly in Finnish and often feature slang and spoken language expressions. Many names include clues about a user’s age, gender, and location. References to various illegal drugs in usernames were found to express a close relationship with the substances. In contrast, they only rarely utilize typical real-life marketing strategies, which suggests that the users do not seek publicity and do not wish to enhance their online reputation. Differences between drug sellers’ and buyers’ usernames are minimal, possibly because of group overlap. Overall, it appears that the users aim to blend in with the drug user community rather than stand out from it by building distinctive images of themselves. © 2021, University Library System, University of Pittsburgh. All rights reserved.",
+    "source": "Names"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

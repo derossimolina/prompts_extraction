@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0868-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CRIMINAL LAW PROTECTION OF PUBLIC RELATIONS IN THE FIELD OF DIGITAL FINANCIAL ASSETS AND DIGITAL CURRENCY",
+    "authors": "Dolgieva M.М.",
+    "year": "2023",
+    "doi": "10.31857/S102694520023126-9",
+    "abstract": "Differences in the definitions of digital financial assets, digital currency and cryptocurrencies cause difficulties not only for law enforcement officers, but also in the science of Criminal Law. The author’s research has shown that the term “cryptocurrency” is not included in the concept of digital currency, and moreover cryptocurrencies are not digital financial assets. Cryptocurrencies are defined by the author as a virtual asset that can be an object of financial activity and, together with digital rights and digital currency, all types of virtual assets are involved in monetary circulation, and, accordingly, the relations that develop in this area are subject to criminal protection as a type of financial activity. The author substantiates the conclusion that the list of objects protected by criminal law should include economic (financial) relations, part of which are legal relations in the sphere of turnover of virtual assets. The place of such legal relations in the section of crimes against the economy has been determined. © 2023, Russian Academy of Sciences. All rights reserved.",
+    "source": "Gosudarstvo i Pravo"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

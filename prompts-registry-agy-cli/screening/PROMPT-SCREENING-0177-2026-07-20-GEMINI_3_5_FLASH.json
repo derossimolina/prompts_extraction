@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0177-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Brokering immigrant transnationalism: Remittances, family reunification, and private refugee sponsorship in neoliberal Canada",
+    "authors": "Elcioglu E.F.; Shams T.",
+    "year": "2024",
+    "doi": "10.1177/00113921231155652",
+    "abstract": "Using the case study of Canada’s private refugee sponsorship program, we show how neoliberalization heightens the power of non-immigrant civilians to broker immigrants’ transnationalism. Private sponsors respond differently to two common and interrelated forms of refugee transnationalism in which they are structurally empowered to intervene. They encourage family reunification while discouraging remittances, although the former often depends on the fulfillment of the latter. Reflecting on these power imbalances, we classify private refugee sponsorship as part of a North American trend to devolve the management of noncitizens from state actors to ordinary citizens. We conclude by encouraging scholars of transnationalism to look down and investigate how non-immigrant private civilians in receiving countries increasingly shape newcomers’ cross-border linkages. We also urge them to look up and attend to the broader neoliberal context empowering and structuring the behavior of citizen brokers. © The Author(s) 2023.",
+    "source": "Current Sociology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

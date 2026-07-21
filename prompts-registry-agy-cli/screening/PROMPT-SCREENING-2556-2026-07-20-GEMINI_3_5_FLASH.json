@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2556-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The influence of management and auditors on consolidation decisions",
+    "authors": "Behn, BK; Lionzo, A; Rossignoli, F",
+    "year": "2020",
+    "doi": "10.1016/j.bushor.2019.09.006",
+    "abstract": "Historically, the decision over whether or not to consolidate was guided by bright-line rules, which outlined the minimum percentage of ownership required in a subsidiary for it to be considered controlled by a reporting entity and thus included in the consolidated financial statements (CFSs). Today, U.S. GAAP and IFRS use a principles-based approach, which is guided by the concept of control to determine whether a subsidiary is to be consolidated in the CFSs. In this context, a debate exists between managers and auditors about which subsidiaries should be consolidated. To deepen our understanding of how managers and auditors grapple with consolidation decisions, we interviewed several CFOs and audit partners to determine if they are anchored to legalistic mechanisms or if, instead, they are strategically developing ways to support the consolidation decision. Based on our interviews, we find that opportunistic transactions-criticized at the time of the rules-based approach-still exist due to the search for legalistic mechanisms that protect underlying choices influenced by economic incentives. Such results are crucial for analysts and investors to properly interpret consolidated financial performance. (C) 2019 Kelley School of Business, Indiana University. Published by Elsevier Inc. All rights reserved.",
+    "source": "BUSINESS HORIZONS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

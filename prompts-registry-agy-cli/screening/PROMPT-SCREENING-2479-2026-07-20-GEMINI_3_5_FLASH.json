@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2479-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Disorganized Crime? Applying Reuter's Classic Theory to Darknet Drug Vending",
+    "authors": "Joyce, T",
+    "year": "2025",
+    "doi": "10.1007/s10610-025-09635-y",
+    "abstract": "Since its publication in 1983, Peter Reuter's theory of Disorganised Crime has had a significant impact on criminology as a discipline; the theory has been widely employed to explain the conduct of low-to-mid level, profit-driven, criminal entrepreneurs across multiple crime types within fragmented illicit markets. But when the market shifts from the physical to the digital, does disorganisation remain? This research investigates the applicability of Reuter's theory to darknet drug vending, through an analysis of data from 80 arrest cases, and 10 interviews with vendors. The Disorganised Crime framework is then applied to the results revealing that the exchange of information, structured trust, and high degree of organisation characteristic of darknet markets creates too strong a parallel with legal enterprise to be considered properly disorganised. Concluding remarks are made in reference to the need for a fresh approach when conceptualising new crimes.",
+    "source": "EUROPEAN JOURNAL ON CRIMINAL POLICY AND RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

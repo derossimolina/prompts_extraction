@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1582-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The USA Patriot Act's differential impact on large and small banks: Evidence from California's high-risk money laundering and related financial crime areas",
+    "authors": "Dolar B.; Shughart W.F.",
+    "year": "2012",
+    "doi": "10.1057/jbr.2011.22",
+    "abstract": "The anti-money laundering (AML) provisions of the USA Patriot Act of 2001 significantly expanded the private sector's role in disrupting the financial operations of terrorist groups and criminal organizations. In doing so, the law imposed substantial compliance costs on the financial services industry as a whole. In this study, we investigate whether enforcement of the new AML measures has also caused some commercial banks and thrifts to shoulder heavier compliance-cost burdens than others. Using a dataset comprising banking institutions that hold at least one-third of their total deposits within California counties designated as high-risk money laundering and related financial crime areas, the empirical results indicate that AML compliance costs have fallen disproportionately on smaller financial institutions, suggesting that the Patriot Act has produced an intra-industry redistribution of wealth. © 2012 Macmillan Publishers Ltd.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

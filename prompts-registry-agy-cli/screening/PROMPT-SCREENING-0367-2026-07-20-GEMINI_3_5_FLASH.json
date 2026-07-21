@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0367-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financially Motivated Cybercrime Offending in Video Game Environments: Self-Control, Risky Lifestyles and Victim-Offender Overlaps",
+    "authors": "Kemp S.; Miró-Llinares F.",
+    "year": "2026",
+    "doi": "10.1080/15564886.2026.2643285",
+    "abstract": "Video game environments are a place of social interaction for millions of people around the globe, but increasing monetization and connection to third-party transaction systems create risks for financial cybercrime. This study analyses the overlap between perpetration and victimization of financially motivated cybercrime in video game settings and its relationship with gaming self-control and risky online behaviors associated with gaming. Latent class analysis and a regression model estimated on a sample of 1812 adult video game players in Spain find evidence of victim-offender overlap regarding online fraud in gaming environments as well as co-occurrence with multiple forms of deviance (causing offense and gaming disruption), potentially risky financial activities (such as trading in cryptocurrencies), and gaming self-control problems. As such, we contribute to the literature by applying the established frameworks of general theory of crime, risky lifestyles theory, and online disinhibition to the study of financial crime in a digital setting of growing social relevance. We discuss these findings in relation to gaming platforms’ responsibilities to protect users in the context of legislative obligations such as the EU Digital Services Act and outline how they can guide some possible approaches to prevention. © 2026 Taylor & Francis Group, LLC.",
+    "source": "Victims and Offenders"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

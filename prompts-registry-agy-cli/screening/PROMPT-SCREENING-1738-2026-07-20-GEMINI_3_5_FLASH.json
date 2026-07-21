@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1738-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Riverine communities as socio-spatial units of the urban process in Amazon: A typology for the lower Tapajós River (State of Pará, Brazil); [Comunidades ribeirinhas como forma socioespacial de expressão urbana na Amazônia: Uma tipologia para a região do Baixo Tapajós (Pará-Brasil)]",
+    "authors": "Amaral S.; Dal'Asta A.P.; Brigatti N.; de Pinho C.M.D.; Medeiros L.C.C.; de Andrade P.R.; Pinheiro T.F.; Alves P.A.; Escada M.I.S.; Monteiro A.M.V.",
+    "year": "2013",
+    "doi": "10.1590/S0102-30982013000200003",
+    "abstract": "The phenomenon of urban growth in the Amazon can be seen throughout the territory today and is structured into many different sociospatial forms. One such form consists of local communities, which, as they develop incipient urban networks, show specific characteristics that define their importance in the structuring of the territory throughout the region. In this paper we propose the use of qualiquantitative techniques for defining a typology for riverine communities along the Lower Tapajos River, in the State of Pará in northern Brazil. Descriptive variables were obtained through field-applied questionnaires in 62 communities between the towns of Santarém and Itaituba. The variables were then submitted to multi-variate statistics. On the basis of the analysis of the main components of 30 variables and hierarchical grouping, five groups of communities were identified and described, and the results were considered consistent with the field-based observations. Variables related mainly to the use of the land and to infrastructure conditioned this classification. Communities located in conservation units, regardless of exactly where they were located along the banks of the Tapajos river, were in a situation different from that of the other communities, since the maintenance of all of them depended on programs of the Pará State Government. The methodology presented can also be applied to other areas in the Amazon, provided that the specific characteristics of each area are taken into consideration. The typology proposed identifies the differences and presence of the communities in the regional space along the Lower Tapajos, and can be used for drawing up public policies addressed to local populations.",
+    "source": "Revista Brasileira de Estudos de Populacao"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1649-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Environmental factors structuring fish communities in floodplain lakes of the undisturbed system of the Biebrza River",
+    "authors": "Glińska-Lewczuk K.; Burandt P.; Kujawa R.; Kobus S.; Obolewski K.; Dunalska J.; Grabowska M.; Lew S.; Chormański J.",
+    "year": "2016",
+    "doi": "10.3390/w8040146",
+    "abstract": "We evaluated the influence of habitat connectivity and local environmental factors on the distribution and abundance of functional fish groups in 10 floodplain lakes in the Biebrza River, northeastern Poland. Fish were sampled by electrofishing, and 15 physico-chemical parameters were recorded at three sampling sites at each lake in the period of 2011-2013. A total of 18,399 specimens, belonging to 23 species and six families, were captured. The relationships between environmental factors and fish communities were explored with the use of canonical correspondence analysis (CCA). Sampling sites were grouped based on fish communities using a hierarchical cluster analysis (HCA). Along a lateral connectivity gradient from lotic to lentic habitats (parapotamic-plesiopotamic-paleopotamic), the proportions of rheophilic species were determined as 10:5:1, whereas the proportion of limnophilic species was determined as 1:2:5. The predominant species were the roach (Rutilus rutilus), and pike (Esox lucius) in parapotamic lakes, rudd (Scardinius erythropthalmus) and pike in plesiopotamic lakes, and sunbleak (Leucaspius delineates) and Prussian carp (Carassius auratus gibelio) in paleopotamic lakes. The findings indicated that the composition and abundance of fish communities are determined by lake isolation gradient, physico-chemical parameters and water stage. Although intact riverine ecosystems may promote fish biodiversity, our findings suggest that lateral connectivity between the main channel and floodplain lakes is of utmost importance. Thus, the conservation of fish biodiversity requires the preservation of this connectivity. © 2016 by the authors.",
+    "source": "Water (Switzerland)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

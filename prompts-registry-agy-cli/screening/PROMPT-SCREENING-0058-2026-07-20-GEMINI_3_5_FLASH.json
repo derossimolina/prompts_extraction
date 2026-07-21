@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0058-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Linking job crafting to work engagement: the mediating role of organizational happiness",
+    "authors": "Yasin Ghadi M.",
+    "year": "2024",
+    "doi": "10.1108/MRR-01-2023-0042",
+    "abstract": "Purpose: The purpose of this study was to investigate the relationship between job crafting and work engagement and the potential mediating effect of organizational happiness on this relationship. Design/methodology/approach: A sample of 256 full-time employees from various industries such as automobiles, retail, real estate, petrochemicals, investment, industrial and education, working at top 50 Forbes Middle East companies in UAE, were surveyed to gather data on job crafting, organizational happiness and work engagement. The study used an empirical research design, with data collected through surveys. Findings: The results of this study, obtained through a two-step structural equation modelling approach, indicate that job crafting has a positive and direct influence on both organizational happiness and work engagement. The findings also suggest that the relationship between job crafting and work engagement is partially mediated by organizational happiness. Practical implications: The findings emphasize the need for human resources (HR) professionals to develop programmes and training workshops focused on cultivating these concepts, particularly as remote and blended working arrangements become more prevalent. In addition, the study highlights the global impact of employee disengagement on financial losses and stresses the importance of revising HR policies in the UAE to mitigate potential risks. Lastly, the study suggests that enhancing happiness and reducing disengagement can be achieved through training managers and employees in task structuring techniques, emphasizing the teachability of job crafting skills through interventions that align tasks with employees’ interests. Originality/value: To the best of the author's knowledge, this is the first study to theoretically explore and empirically test a proposed model on the relationships between job crafting, organizational happiness and work engagement in the context of the UAE. © 2023, Emerald Publishing Limited.",
+    "source": "Management Research Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

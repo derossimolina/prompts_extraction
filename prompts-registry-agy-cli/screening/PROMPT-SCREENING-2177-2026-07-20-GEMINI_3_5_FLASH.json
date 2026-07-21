@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2177-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mapping global money laundering trends: Lessons from the pace setters",
+    "authors": "Vaithilingam S.; Nair M.",
+    "year": "2009",
+    "doi": "10.1016/j.ribaf.2008.03.003",
+    "abstract": "This paper uses an exploratory data analysis tool to map countries according to key factors-internet penetration rates, brain drain, efficiency of legal system, and effective tax and financial systems on the incidence of money laundering. Pace setters and laggards in the pervasiveness of money laundering for 88 countries will be identified. The results indicate that pace setters have high development of internet adoption, low incidence of brain drain, sound legal, tax and financial systems, and low incidence of money laundering. From the study, key policy initiatives adopted by pace-setter countries to reduce money laundering activities were examined. © 2008 Elsevier B.V. All rights reserved.",
+    "source": "Research in International Business and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1819-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Endemic corruption in the Iraqi public sector: Can anti-money laundering measures provide the cure&quest;",
+    "authors": "Tas D.",
+    "year": "2012",
+    "doi": "10.1108/13685201211266033",
+    "abstract": "PurposeThe purpose of this paper is to determine whether anti-money laundering measures are capable of providing a solution to the growing problem of public sector corruption in Iraq and, if so, the extent to which changes are required to the current Iraqi AML regime to enhance its effectiveness against such corruption. Design/methodology/approachThis paper will initially explore the growing problem of public sector corruption in Iraq and the measures taken to address such corruption. Subsequently, the corruption-money laundering relationship and the ability of AML measures based on prevailing international standards to serve as an anti-corruption tool will be analysed. Finally, the current Iraqi AML regime will be examined to observe whether and to what extent changes are required to enhance its effectiveness against public sector corruption. FindingsConsidering the widely acknowledged nexus between corruption and money laundering, a robust AML regime can be effectively utilised by Iraq to combat endemic public sector corruption. This regime must involve a system where financial institutions at their own expense monitor transactions and file suspicious transaction reports with the Iraqi Money Laundering Reporting Office. This, in turn, must identify cases from those suspicious transaction reports that require further investigation by Iraqi anti-corruption bodies and other law enforcement authorities, who should be empowered to investigate, freeze, seize and confiscate the suspected corrupt proceeds. Such a regime would provide a clear avenue for the obtaining of financial intelligence capable of exposing corruption, thereby addressing the fundamental issue presently encountered by Iraqi anti-corruption bodies. Amendments are, however, needed to Iraqi anti-money laundering laws to enhance their effectiveness in combating public sector corruption. Most importantly, financial institutions must be required to apply enhanced customer due diligence measures to domestic politically exposed persons. Research limitations/implicationsThis paper is a result of a remote analysis of material published in relation to the subject matter of the paper. Local and regional analysis (e.g. including interviews with the relevant agencies) would be required to confirm the practicality of the propositions made in the paper. Further, the draft version of the revised Iraqi anti-money laundering law was not examined in an in depth manner due to the uncertainty in its status, including, in particular, whether it has been submitted to the Council of Representatives for approval. Originality/valueAlthough the topics of corruption in Iraq, the Iraqi AML regime and the corruption-money laundering relationship have been the subject of academic analysis, the related topics have not collectively been examined to determine whether, and to what extent, the Iraqi AML regime can address the rapidly growing problem of public sector corruption in Iraq. Accordingly, the findings in this paper will be of interest to Iraqi lawmakers, Iraqi law enforcement agencies, Iraqi financial institutions and investors in Iraq, particularly in the oil and gas industry. © 2012, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

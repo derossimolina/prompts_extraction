@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0072-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Finding money launderers using heterogeneous graph neural networks",
+    "authors": "Johannessen F.; Jullum M.",
+    "year": "2025",
+    "doi": "10.1016/j.jfds.2025.100175",
+    "abstract": "The finance industry depends on effective anti-money laundering (AML) systems to ensure compliance and maintain operational efficiency. However, existing AML systems, which are predominantly rule-based, frequently struggle to detect money laundering accurately. In particular, their inability to learn from historical data and properly account for diverse customer behavior is problematic. Also accounting for the vast amounts of transactional data generated daily, this challenge calls for big data analytics and advanced machine learning techniques. In line with this, the present paper explores a graph neural network (GNN) approach, a state-of-the-art machine learning technique, to identify money laundering activities within a large heterogeneous network constructed from real-world bank transactions and business role data from DNB, Norway’s largest bank. To this end, we extend the (homogeneous) Message Passing Neural Network (MPNN) architecture to operate on a heterogeneous graph, and demonstrate its strong performance in detecting money laundering activities. We showcase the suitability of utilizing GNN methodology to improve electronic surveillance systems for detecting money laundering, thereby contributing a pioneering approach to AML through the application of advanced data science techniques. To the best of our knowledge, this is the first publication applying heterogeneous GNNs for AML purposes with a large real-world heterogeneous network. Copyright © 2025. Publishing services by Elsevier B.V.",
+    "source": "Journal of Finance and Data Science"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

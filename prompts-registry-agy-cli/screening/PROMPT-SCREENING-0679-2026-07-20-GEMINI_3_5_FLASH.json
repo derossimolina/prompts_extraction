@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0679-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Identifying financial patterns of money laundering with social network analysis: a Brazilian case study",
+    "authors": "Sousa Lima R.; Marques Serrano A.L.; Onome Imoniana J.; Medeiros Cupertino C.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-12-2020-0139",
+    "abstract": "Purpose: This study aims to understand how forensic accountants can analyse bank transactions suspected of being involved with money laundering crimes in Brazil through social network analysis (SNA). Design/methodology/approach: The methodological approach taken in this study was exploratory. This study cleaned and debugged bank statements from criminal investigations in Brazil using computational algorithms. Then graphs were designed and matched with money laundering regulations. Findings: The findings indicated that graph techniques contribute to a range of beneficial information to help identify typical banking transactions (pooling accounts, strawmen, smurfing) used to conceal or disguise the movement of illicit resources, enhancing visual aspects of financial analysis. Research limitations/implications: Research found limitations in the data sets with reduced identification of originators and beneficiaries, considered low compared to other investigations in Brazil. Furthermore, to preserve restrict information and keep data confidential, data sets used in research were not made available. Practical implications: Law enforcement agencies and financial intelligence units can apply graph-based technique cited in this research to strengthen anti-money laundering activities. The results, grounded in analytical approaches, may offer a source of data to regulators and academia for future research. Originality/value: This study created data sets using real-life bank statements from two investigations of competence by the Brazilian Federal Justice, including real-data perspectives in academic research. This study uses SNA, which is a popular approach in several areas of knowledge. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

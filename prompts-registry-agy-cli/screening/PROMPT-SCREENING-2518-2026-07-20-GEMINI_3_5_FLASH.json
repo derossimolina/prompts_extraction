@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2518-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Notes on banking activity from islamic law perspective",
+    "authors": "Ferreira, APA",
+    "year": "2022",
+    "doi": "10.24840/2182-9845_2022-0001_0003",
+    "abstract": "The Islamic financial services industry, where the banking sector is most important, has experienced exponential growth, arousing a growing interest in its study. Such interest lies on the fact that the respective activity is carried out in accordance with the dictates of Shariah, which largely depart from the principles underlying the exercise of banking activity in the conventional way. Islamic financial activity emphasizes the use of risk-sharing financial instruments, a fact that has proved to be of great importance as it has helped to avert many of the most severe consequences of recent financial crises, for example by preventing Islamic banks exposure to subprime or toxic assets. The deepening of information on the structuring rules and principles that shape Islamic finance is a relevant and current subject, with a view to highlighting its fundamental differences in relation to conventional financial activity and to investigating the possibility of that approach being alternative, or complementary, with respect to conventional systems. The scarcity of Portuguese written texts on the subject also justifies the presentation of this text, in a simple and preliminary contribution, which intends to provide: i) a note on the Islamic banking historical evolution; ii) the statement of its structuring principles framework; iii) a summary analysis of some of the main banking products and services provided by Islamic banks; iv) a special note on the specific activity of receiving deposits and granting credit, as well as on guarantee contracts; v) the categorization of the main Islamic contracts and their most common uses; and vi) a reference to the main differences between Islamic and conventional banking, after which a conclusive synthesis will be formulated.",
+    "source": "RED-REVISTA ELECTRONICA DE DIREITO"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

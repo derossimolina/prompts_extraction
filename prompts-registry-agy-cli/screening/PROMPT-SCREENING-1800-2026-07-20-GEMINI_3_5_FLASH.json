@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1800-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is there a model of the French city? Urban structures and housing markets; [Y A-T-Il un modèle de la ville française? Structures urbaines et Marchés immobiliers]",
+    "authors": "Cusin F.",
+    "year": "2016",
+    "doi": "10.3917/rfs.571.0097",
+    "abstract": "Based on a comparative analysis of real estate price structures in a hundred major French urban areas, this article challenges the idea of the predominance of the \"classic\" centre-periphery model, according to which prices decrease with distance from the centre. While this \"classic\" model underpins much work in the field of urban studies, two other models can be identified. A detailed comparison of urban development of Lyon and Marseille-Aix, two areas that have followed opposing models, helps lay the groundwork for a sociogenetic study of social divisions of space and thus to explaining the observed emergence of two price structures. Using these two case studies as a starting point, the article shows how the value of places is constructed through a cumulative process based on the interaction between long-term population dynamics, socioeconomic change and urban policies. It also highlights how general processes, such as metropolitanization, produce different effects on urban structures which themselves differ. Finally, the article stresses the need to place the real estate market at the centre of the analysis of forms of sociospatial structuring of the city.",
+    "source": "Revue Francaise de Sociologie"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

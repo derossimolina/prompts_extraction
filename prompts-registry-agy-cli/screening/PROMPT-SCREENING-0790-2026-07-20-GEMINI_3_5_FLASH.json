@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0790-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hydroterritorial management on the Poxim River in the municipality of Aracaju-Sergipe: (non)compliance with environmental legislation?; [Gestão hidroterritorial no rio Poxim em Aracaju-Sergipe: (des)cumprimento da legislação ambiental?]",
+    "authors": "da Silva E.O.; da Silva G.M.",
+    "year": "2024",
+    "doi": "10.26848/rbgf.v17.1.p130-156",
+    "abstract": "In today's society, conflicts involving the surroundings of water bodies have increased, due to the appreciation of these locations. From this global scenario to the local perspective, it is observed that the municipality of Aracaju has also been experiencing conflicts due to the growing real estate exploitation around the Poxim river. The Poxim sub-basin is elongated in a northwest-southeast direction, with an approximate area of 348.71 km². In this sense, the general objective of this study is to analyze how the actions of hydroterritorial management, in the stretch of t he Poxim river located in the capital of Sergipe, have contributed to the fulfillment of the environmental legislation, so that the problem raised was the following: In to what extent has the (non)compliance with environmental legislation occurred, based on the analysis of hydroterritorial management practices on the Poxim River in the municipality of Aracaju-Sergipe? The methodological arrangement resorted to bibliographical and documental research, seeking in the hypothetical-deductive method and Pressure-State-Response (PER), solutions to the question raised, highlighting the analysis of conformity between the legislation on water resources (compliance) and the hydroterritorial management practices carried out on the Poxim River. Finally, it was found that the structuring powers of the State have neglected their functions, so that the following was found public policies aimed at the studied river are incipient and the sanctions imposed on those who degrade the investigated water body do not discourage degraders. Based on the results obtained, the creation of a hydroterritory management office is recommended. © 2024, Universidade Federal de Pernambuco. All rights reserved.",
+    "source": "Revista Brasileira de Geografia Fisica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

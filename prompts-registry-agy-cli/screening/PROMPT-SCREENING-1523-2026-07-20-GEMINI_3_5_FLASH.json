@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1523-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Liability for violating financial legislation: Criminal law and criminological characteristics of financial crimes",
+    "authors": "Artemov N.M.; Arzumanova L.L.; Boltinova O.V.; Salamova S.Y.; Sitnik A.A.; Jin C.E.",
+    "year": "2017",
+    "doi": "10.17150/2500-4255.2017.11(4).717-730",
+    "abstract": "The analysis of criminal policy in the economic sphere as the dominant way and measure of influencing crime allows the authors to single out the criminological and the criminal law trends of its doctrine. They pay special attention to one of the areas of criminal policy-s implementation in the Russian Federation — economic crimes. The authors also stress state guarantees of the integrity of economic area, free movement of goods, services and financial assets, support of competition, freedom of economic activities. This demands an effective solution of state economic policy-s tasks, including state financial policy, which requires the creation and support of a favorable business climate and conditions by encouraging lawful entrepreneurial activities. On the other hand, there is an increase in the number of crimes that violate budgetary and tax legislation, monetary circulation, currency regulation, etc. The authors come to the conclusion that financial crimes have a complex character and require the research of doctrinal and legislative regulation of financial law norms reflected in budgetary and tax legislation, monetary and currency regulation, banking and insurance activities, securities market and decentralized finance. Counteraction to financial crimes should be primarily carried out through the implementation of a complex of political, economic, social, organizational and legal measures that will make it possible to adopt effective norms determining liability for the violations of financial legislation and to use precise and uniform definitions of sophisticated financial crimes. © 2017, Baikal National University of Economics and Law. All rights reserved.",
+    "source": "Russian journal of criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

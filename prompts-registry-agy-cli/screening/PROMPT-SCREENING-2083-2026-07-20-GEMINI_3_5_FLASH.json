@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2083-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Nation-building and informal politics",
+    "authors": "Le Vine V.T.",
+    "year": "2008",
+    "doi": "10.1111/j.1468-2451.2009.00689.x",
+    "abstract": "Among the problems that confront nation-builders in new states is dealing with their country's informal sector and its politics, manifest not only in the informal economy of markets and hidden transactions, but also its traditional authority systems, networks of patronage, bonds of ethnic and other parochial identities, and illicit activities, including corruption and criminal organisations. Some of these aspects of the informal sector have survived from pre-independence or colonial periods. Others, like kleptocracy and the criminalisation of the state, are outgrowths of the new state and its leadership cadre. These problems largely arise in the so-called juridical state, the legal-rational construct of new statehood, and reflect the failure, or unwillingness of the managers of the new state to move beyond the juridical state to the empirical state, that is, to nationhood and a generalised national identity and citizenship. © 2009 UNESCO.",
+    "source": "International Social Science Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

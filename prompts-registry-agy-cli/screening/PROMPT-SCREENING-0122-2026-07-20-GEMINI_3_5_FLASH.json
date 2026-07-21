@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0122-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How Narcos work together: Debt, trust and community governance in Bolivia's cocaine supply chain",
+    "authors": "Grisaffi T.",
+    "year": "2025",
+    "doi": "10.1016/j.polgeo.2025.103330",
+    "abstract": "Drug traffickers worldwide must co-operate in highly complex and volatile environments with few guarantees. Transactions, and the debts they inevitably entail, are based on personal relationships and social obligations rather than formal contracts or legal systems. How then are these illicit economies governed internally? This article provides an empirical account of the cocaine supply chain in the Chapare, Bolivia, which I argue is structured around debt obligations. My ethnographic research reveals that when everyone is both a creditor and debtor strong incentives to cooperate shape the functioning of illicit enterprises. In the Chapare, anyone who violates the local moral order by not paying their debts is cut out of exchange networks and is unable to access the necessary credit, resources, and labour to process and commercialize drugs. The constant exchange of favours, money, and drugs connect coca farmers, drug processors, investors, the agricultural unions and even the police into tight networks of debt and dependency, which creates a relatively stable social order. © 2025 The Author",
+    "source": "Political Geography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

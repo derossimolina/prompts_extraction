@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0292-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The economic exception: how the Bank of Italy framed crisis to govern, 1960–1984",
+    "authors": "Polillo S.",
+    "year": "2026",
+    "doi": "10.1080/09692290.2025.2571459",
+    "abstract": "What counts as an exceptional economic intervention? The concept of economic exception, developed here, captures how central banks govern through crisis, situating their concrete, specific interventions in more general categories of what constitutes ordinary and normal, as opposed to exceptional and unorthodox. Economic exceptions refer to the framings that governing agencies like central banks use to define extraordinary interventions and justify them as necessary deviations from ordinary governance. These framings work within and shape crisis constraints, structuring interventions in distinctive ways. I identify two main modes: administrative exceptions, which prioritize stability through short-term, tactical measures to contain disruptions; and providential exceptions, which frame crises as opportunities to reshape governance structures and embed long-term stability. Through a historical sociology of the Bank of Italy (BoI) from 1960 to 1984, this paper examines how the BoI framed crisis to justify exceptional interventions and shape governance outcomes. By analyzing its annual reports and their reception in two national newspapers on opposite sides of the political spectrum, I highlight how public discourse mediated the Bank’s legitimacy and authority. I trace how crisis responses evolved within broader governance regimes, from stabilizing the status quo through administrative exceptions to justifying structural transformation through providential exceptions. © 2025 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Review of International Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

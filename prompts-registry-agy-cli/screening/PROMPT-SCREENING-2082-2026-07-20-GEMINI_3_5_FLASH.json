@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2082-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Are all the sacred cows dead? Implications of the financial crisis for macro-and financial Policies",
+    "authors": "Demirgü-Kunt A.; Servén L.",
+    "year": "2010",
+    "doi": "10.1093/wbro/lkp027",
+    "abstract": "The recent global financial crisis has shaken the confidence of industrial and developing countries alike in the very blueprint of the financial and macropolicies that underlie the Western capitalist systems. In an effort to contain the crisis from spreading, the authorities in the United States and many European governments have taken unprecedented steps of providing extensive liquidity, giving assurances to bank depositors and creditors that include blanket guarantees, structuring bail-out programs that include taking large ownership stakes in financial institutions, and establishing programs for direct provision of credit to nonfinancial institutions. Emphasizing the importance of incentives and tensions between short term and longer term policy responses to crisis management, the authors draw on a large body of research evidence and country experiences to discuss the implications of the current crisis for financial and macroeconomic policies going forward. © The Author 2010. Published by Oxford University Press on behalf of the International Bank for Reconstruction and Development/The World Bank. All rights reserved. For permissions, please e-mail: journals.permissions@oxfordjournals.org.",
+    "source": "World Bank Research Observer"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1200-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is Jamaica’s anti-money laundering regime effective?",
+    "authors": "Freckleton M.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-01-2018-0006",
+    "abstract": "Purpose: This paper aims to assess the effectiveness of Jamaica’s anti-money laundering regime. Design/methodology/approach: The research is based on secondary sources. Existing laws and reports of relevant agencies were reviewed. Findings: The effectiveness of Jamaica’s anti- money laundering regime is compromised by weak implementation of the regulations. The real estate sector and the legal profession remain vulnerable to money laundering. Some features of the economy allow criminals to circumvent the regulations. Research limitations/implications: The research is based on qualitative analysis because of the absence of data to compute quantitative measures of effectiveness. Practical implications: Strong enforcement is required for effective control of money laundering. Furthermore, investigation of money laundering needs to be pro-active and not dependent solely on suspicious transactions reports in countries where corruption is prevalent. Social implications: Weak money laundering control can contribute to social instability by allowing criminals to gain significant economic power and influence. Originality/value: No other study has highlighted the factors undermining the effectiveness of anti-money laundering regulations in Jamaica. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1149-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax Compliance in the Era of Cryptocurrencies and CBDCs: The End of the Right to Privacy or No Reason for Concern?",
+    "authors": "Jozipović Š.; Perkušić M.; Gadžo S.",
+    "year": "2022",
+    "doi": "10.54648/ecta2022003",
+    "abstract": "The new European regulatory framework for crypto-assets contains strict reporting requirements for EU-based crypto service providers, which will give tax authorities and law enforcement agencies better insights into a significant segment of the cryptoasset space. The article first outlines how this will inevitably lead to the creation of a parallel crypto-asset market focused on offline wallets and peer-to-peer services outside the supervision of EU and national tax authorities. The article then highlights the important role that the so-called Central Bank Digital Currencies (CBDCs) will play in this environment. The differences between CBDCs and crypto-assets are examined from a tax assessment perspective in order to show that true anonymity is considerably less of an issue with (price stable) CBDCs than with (volatile) crypto-assets. The authors argue that a truly anonymous digital euro wallet for small transactions on the consumer side could not only allow the effective monitoring of businesses, but would actually increase tax compliance. If consumers have access to an anonymous cash-equivalent digital means of payment, they will be less likely to use cash or virtual currency. This in turn will cause a significant increase in available transaction data, while simultaneously granting a much better protection of taxpayers’ rights to privacy in the EU. © 2022 Kluwer Law International BV, The Netherlands",
+    "source": "EC Tax Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1815-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The UK Bribery Act 2010: Contents and implications",
+    "authors": "Yeoh P.",
+    "year": "2011",
+    "doi": "10.1108/13590791211190713",
+    "abstract": "Purpose - The purpose of this paper is to assess the implications of The UK Bribery Act 2010 for businesses and in particular those with cross-border activities. Design/methodology/approach - This study relies on documentary research and using both primary and secondary data drawn from the public domain. Findings - The study suggests why UK businesses and in particular those conducting cross-country transactions should take the implications of this law seriously as the enforcement agency in the UK transforms to a more active mode. It also suggests why, despite some severe criticisms, the UK does not lag behind in the global fight against corruption. Research limitations/implications - This is an exploratory review paper to promote empirical research in a business sensitive theme. Practical implications - Insights from the study should prompt business leaders to give sufficient attention to those areas with high risks of falling within the ambit of the Act. Social implications - The study's findings reinforce the ethical dimensions of cross-border business practices. Originality/value - This study uses the implications of the new UK Act to draw attention to the business community that with the passing of the Act business cannot be as usual; that compliance to the Foreign Corrupt Practice Act would be insufficient; and that despite controversies over implementation delays, the UK does not lag behind in the fight against corruption worldwide.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

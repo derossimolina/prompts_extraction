@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1445-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trade-offs in choice of inter-firm transaction structure: A qualitative study of perceived comparative advantages of business relation over vertical integration",
+    "authors": "Azarian R.",
+    "year": "2014",
+    "doi": "10.1177/1440783312467093",
+    "abstract": "This article investigates how a plastic manufacturing firm handles the challenging task of comparing and choosing among the feasible alternative modes of structuring the flow of repeated transaction with one of its key suppliers. Qualitative interviews are used to explore the perceptions of the management of the firm concerning the advantages and disadvantages associated with each alternative, and the main findings suggest that the selection of the transaction structure intended to reduce boundary uncertainty is itself an uncertain choice. Since many of the gains and drawbacks of the alternatives are unknown and even unknowable in advance, the firm is unable to set up a conclusive comparative assessment to underpin its choice. Instead it is inclined to select the alternative that is perceived as the one allowing most flexibility. © The Author(s) 2012.",
+    "source": "Journal of Sociology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

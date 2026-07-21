@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1571-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bitcoin money laundering: mixed results?: An explorative study on money laundering of cybercrime proceeds using bitcoin",
+    "authors": "van Wegberg R.; Oerlemans J.-J.; van Deventer O.",
+    "year": "2018",
+    "doi": "10.1108/JFC-11-2016-0067",
+    "abstract": "Purpose: This paper aims to shed light into money laundering using bitcoin. Digital payment methods are increasingly used by criminals to launder money obtained through cybercrime. As many forms of cybercrime are motivated by profit, a solid cash-out strategy is required to ensure that crime proceeds end up with the criminals themselves without an incriminating money trail. The authors examine how cybercrime proceeds can be laundered using services that are offered on the Dark Web. Design/methodology/approach: Focusing on service-percentages and reputation-mechanisms in underground bitcoin laundering services, this paper presents the results of a cash-out experiment in which five mixing and five exchange services are included. Findings: Some of the examined services provide an excellent, professional and well-reviewed service at competitive cost. Whereas others turned out to be scams, accepting bitcoin but returning nothing in return. Practical implications: The authors discuss what these findings mean to law enforcement, and how bitcoin laundering chains could be disrupted. Originality/value: These cash-out strategies are increasingly facilitated by cryptocurrencies, mainly bitcoin. Bitcoins are already relatively anonymous, but with the rise of specialised bitcoin money laundering services on the Dark Web, laundering money in the form of bitcoins becomes available to a wider audience. © 2018, Rolf van Wegberg, Jan-Jaap Oerlemans, Oskar van Deventer.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

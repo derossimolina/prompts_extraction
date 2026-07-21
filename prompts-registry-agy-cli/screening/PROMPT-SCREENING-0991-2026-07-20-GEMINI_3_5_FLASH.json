@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0991-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Lawyers’ predicaments in complying with the anti-money laundering law in Malaysia",
+    "authors": "Kamaruddin S.; Hamin Z.",
+    "year": "2019",
+    "doi": "10.1108/JFC-04-2018-0047",
+    "abstract": "Purpose: The purpose of this paper is to provide some empirical findings on the predicaments of lawyers’ anti-money laundering (AML) compliance in Malaysia and the rationales for such predicaments. Design/methodology/approach: This paper adopts a qualitative research in which the primary data are obtained from seven case studies involving legal firms within the Klang Valley, Selangor, Malaysia, which is triangulated with the data from the Central Bank and the Malaysian Bar Council. Findings: The authors contend that despite the vulnerability of their profession to money laundering, the level of awareness of the AML obligations amongst Malaysian legal practitioners is rather minimal. Also, the imposition of obligations upon them in policing their clients and regulating money laundering is not only onerous but also contrary to the ethics of their profession. Originality/value: This paper fills the gap in providing the empirical evidence on lawyers’ compliance to their statutory AML obligations in Malaysia. Also, this paper could be a useful source of information for practitioners, academicians and students. It could also be a beneficial guide for policymakers for any possible future amendments to the law. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

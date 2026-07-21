@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1785-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Counteraction to the legalization (Laundering) of proceeds from crime and the financing of terrorism in the context of the digitization of economy: Strategic objectives and legal solutions",
+    "authors": "Khabrieva T.Y.",
+    "year": "2018",
+    "doi": "10.17150/2500-4255.2018.12(4).459-467",
+    "abstract": "Issues of counteracting the legalization of proceeds from crime (money laundering) and the financing of terrorism (CML / FT) are urgent in the context of crime control. The inflow of money from criminal activities has a destructive impact on the state and the society, poses a threat to the economy and the social sphere. This negative process results in the disruption of market economy mechanisms, the criminalization of the production and trade sectors, the emergence of financial imbalances and the increase in the inflation pressure. The problem is urgent for Russia as well, so the development of effective solutions, including legal ones, is one of the priorities for researchers. In the mod ern context, the digitization of economy creates new opportunities for criminal groups, who use virtual technologies, crypto-currencies and other opportunities of the digital environment to finance terrorism and legalize criminal proceeds. The article presents the results of studying the condition and dynamics of legal regulation in the sphere of CML / FT. They include the qualitative description of the legal basis for CML / FT in Russia, doctrinal conclusions regarding the structure and key features of the Russian model of legal regulation of CML / FT, modern trends and the direction of its future development, predictions regarding the legal basis for CML / FT, setting fundamental and practical goals of the legal doctrine to provide scientific support for CML / FT, as well as legal solutions developed by the author. Besides, the author outlines and supports specific directions of reforming the Russian legislation with the goal of brining it in accord with the challenges of the digitization of economy and the emergence of new types of crime. © 2018, Baikal National University of Economics and Law. All rights reserved.",
+    "source": "Russian journal of criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

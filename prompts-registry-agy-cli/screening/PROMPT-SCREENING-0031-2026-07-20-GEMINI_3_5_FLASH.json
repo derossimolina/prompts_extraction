@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0031-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crypto regulatory arbitrage: How shifting US attitudes may have an impact on financial institutions’ behaviour",
+    "authors": "Cianci M.A.; Strohbehn X.S.",
+    "year": "2025",
+    "doi": "10.69554/BSWZ9777",
+    "abstract": "Crypto as an asset class has historically presented a variety of both opportunities and challenges for financial institutions. The meteoric rise in the value of digital assets — from non-existent to nearly US$4tr in total, in less than 20 years — underscores the massive potential for economic upside associated with exposure to cryptoassets, whether directly or indirectly. Conversely, the digital asset markets have historically experienced extreme swings in value, including downturns, that significantly outpace those of numerous other asset classes. This dynamic poses serious issues for risk managers working in financial institutions that have direct or indirect exposure to cryptoassets and crypto markets (or that are considering taking on such exposure). Meanwhile, different jurisdictions around the world have adopted a variety of legislative, regulatory, self-regulatory and judicial approaches to imposing top-down, across-the-board, legally mandated risk management. The US has historically been viewed as legally and politically more restrictive, and even punitive, relative to a number of other jurisdictions. This reality (or perception) has, in turn, prompted a variety of cryptoasset developers and investors, as well as financial institutions with economic or commercial interests therein, to prefer centres of gravity in non-US jurisdictions. But recent US political developments may signal a shift in that landscape, in turn, presenting risk managers with greater optionality in terms of structuring, monitoring and managing economic and commercial relationships with cryptoasset developers and investors. Against that backdrop, this paper provides a retrospective overview of competing regulatory frameworks in numerous jurisdictions around the world; observes how inter-jurisdictional regulatory arbitrage strategies — especially from the standpoint of US versus non-US centres of gravity — may be morphing based on recent trends; and provides some practical insights for risk managers seeking to evaluate cryptoassets and/or crypto projects based on a variety of factors, including jurisdiction-specific considerations. This article is also included in The Business & Management Collection which can be accessed at https://hstalks.com/business/. © Henry Stewart Publications 1752-8887 (2025).",
+    "source": "Journal of Risk Management in Financial Institutions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

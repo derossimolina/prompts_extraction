@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1224-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Analysis of possibilities to automate detection of unscrupulous microfinance organizations based on machine learning methods",
+    "authors": "Beketnova Y.M.",
+    "year": "2020",
+    "doi": "10.26794/2587-5671-2020-24-6-38-50",
+    "abstract": "Microfinance is a way to fight poverty, and therefore is of high social significance. The microfinance sector in Russia is progressing. However, the engagement of microfinance organizations in illegal financial transactions associated with fraud, illegal creditors, money laundering, significantly limits their potential and has negative impact on their development. The aim of the paper is to study the possibilities to automate detection of unscrupulous microfinance organizations based on machine learning methods in order to promptly identify and suppress illegal activities by regulatory authorities. The author cites common fraudulent schemes involving microfinance organizations, including a scheme for cashing out maternity capital, a fraudulent lending scheme against real estate. The author carried out a comparative analysis of the results obtained by classification methods - the logistic regression method, decision trees (algorithms of two-class decision forest, Adaboost), support vector machine (algorithm of two-class support vector machine), neural network methods (algorithm of two-class neural network), Bayesian networks (algorithm of two-class Bayes network). The two-class support vector machine provided the most accurate results. The author analysed the data on microfinance institutions published by the Bank of Russia, the MFOs themselves, and banki.ru. The author concludes that the research results can be of further use by the Bank of Russia and Rosfinmonitoring to automate detection of unscrupulous microfinance organizations. © Beketnova Yu.M., 2020",
+    "source": "Finance: Theory and Practice"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

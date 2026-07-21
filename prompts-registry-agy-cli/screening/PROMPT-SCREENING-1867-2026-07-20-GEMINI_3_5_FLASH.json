@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1867-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combinatorial procedures for structuring internal migration and other transaction flows",
+    "authors": "Slater P.B.",
+    "year": "1981",
+    "doi": "10.1007/BF00144259",
+    "abstract": "Several combinatorially-based procedures for structuring two-way, as well as three-way, transaction flow matrices have been discussed and illustrated. The inter-relationships between the procedures are of some interest. For example, if the multi-terminal method is applied to a doubly-standardized table, it yields a hierarchical clustering. The assignment algorithm yields cycles-the simplest form of strong components. Strong components are considered as clusters in the IPFPHC procedure. The assignment problem-applied to the logarithms of the observed flows-can be viewed as the solution, for the case n=1, of the problem of determining the non-negative integral matrix all of the row and column sums of which equal n, and which best estimates, in a maximum entropy sense, the table of observed flows. Solutions of the problem for n=1, 2, 3, ..., would yield a series of increasingly complex tables, all of which could be studied with the strong-component analogue of single-linkage clustering. Significance tests for IPFPHC could be developed by studying the distribution of clusters found in random doubly-stochastic tables. These are convex combinations of permutation matrices. © 1981 Elsevier Scientific Publishing Company.",
+    "source": "Quality and Quantity"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

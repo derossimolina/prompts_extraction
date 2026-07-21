@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1903-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mumbai's development mafias: Globalization, organized crime and land development",
+    "authors": "Weinstein L.",
+    "year": "2008",
+    "doi": "10.1111/j.1468-2427.2008.00766.x",
+    "abstract": "For over a decade, researchers have analyzed the effects of liberalization and globalization on urban development, considering the local political implications of shifts at the national and global scales. Taking the case of Mumbai, this article examines how the past 15 years of political reforms in India have reshaped property markets and the politics of land development. Among the newly empowered actors, local criminal syndicates, often with global connections, have seized political opportunities created by these shifts to gain influence over land development. The rise of Mumbai's organized criminal activity in the 1950s was closely linked to India's macroeconomic policies, with strict regulation of imports fuelling the growth of black market smuggling. Liberalization and deregulation since the early 1990s have diminished demand for smuggled consumer goods and criminal syndicates have since diversified their operations. With skyrocketing real estate prices in the 1990s, bolstered by global land speculation, the mafia began investing in property development. Supported by an illicit nexus of politicians, bureaucrats and the police, the mafia has emerged as a central figure in Mumbai's land development politics. The article examines the structural shifts that facilitated the criminalization of land development and the implications of mafia involvement in local politics. © Journal Compilation © 2008 Joint Editors and Blackwell Publishing Ltd.",
+    "source": "International Journal of Urban and Regional Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

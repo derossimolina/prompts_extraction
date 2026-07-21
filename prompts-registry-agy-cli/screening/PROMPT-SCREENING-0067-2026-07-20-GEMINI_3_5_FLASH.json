@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0067-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Leveraging artificial intelligence for enhanced anti-money laundering in financial institutions",
+    "authors": "Premkumar A.; Vidyavathi K.; Sowmya V.L.; Alfurhood B.S.; Irudayasamy A.; Natarajan R.",
+    "year": "2026",
+    "doi": "10.1007/s10791-026-10142-9",
+    "abstract": "Financial institutions continue to face a significant challenge with money laundering and need intelligent, scalable ways to detect illegal financial activity. This paper introduces a machine learning-driven platform for detecting suspicious financial activities in transactional data with a fixed schema, enriched with temporal, behavioral, and financial profile features. Extensive experiments were performed with several popular supervised learning algorithms, including Logistic regression, Decision tree, Random Forest, Gradient Boosting, AdaBoost, K-Nearest Neighbour (KNN), Support vector machine, and Naïve Bayes. The Gradient Boosting classifier performed best overall, achieving an Accuracy of 90.59%, a precision of 90.61%, a recall of 90.59%, and an F1-score of 90.60 in balanced detection, with the highest reliability for detecting suspicious financial transactions. It showed better generalization and robust classification performance than the other models, especially in real anti-money laundering problems, where it performed excellently. These results demonstrate that recent artificial intelligence could fortify anti-money laundering systems by automating and improving the detection of high-risk financial activity. The framework provides a scalable and feasible approach to ensure compliance, manage risk, and secure finances for larger organizations. © The Author(s) 2026.",
+    "source": "Discover Computing"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1433-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Compliance with international regulation on AML&sol;CFT&colon; the case of banks in Lebanon",
+    "authors": "Shahin W.",
+    "year": "2013",
+    "doi": "10.1108/13685201311318467",
+    "abstract": "PurposeThe purpose of this paper is to highlight and analyze the experience of banks operating in Lebanon in their compliance with international regulation on anti&hyphen;money laundering and the counter&hyphen;financing of terrorism &lpar;AML&sol;CFT&rpar;. The paper addresses the compliance policies by presenting a case study of the experience of the Lebanese banking sector in achieving a global anti&hyphen;money laundering strategy. Design&sol;methodology&sol;approachLebanon has been achieving its AML&sol;CFT procedures by following a combination of three approaches&colon; abiding by the recommendations of the international body in charge of regulation namely the Financial Action Task Force on the laundering of money &lpar;FATF&rpar;&semi; cooperation among countries in the form of mutual agreements, assistance and treaties developed by various conventions&semi; and personal unilateral initiatives. After presenting the sources of deposit growth in Lebanese banks and highlighting the uses of funds, the paper uses a chronological approach to analyze the compliance of banks, central bank and legislators with international regulations governing the financial and banking systems, and addresses the latest developments concerning the Lebanese banks' coordination and cooperation with international regulators and governments, especially on FATF recommendations and international sanctions. FindingsThe paper presents evidence on the effective anti&hyphen;money laundering domestic initiatives and sheds light on the positive international regulatory assessment of these initiatives, as well as the favorable view of the Lebanese banking sector that has kept it outside the current FATF list of countries with AML&sol;CFT deficiencies. Originality&sol;valueThe value of this paper is to present a case study for bankers and regulators on strategies to comply with AML&sol;CFT. © 2013, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

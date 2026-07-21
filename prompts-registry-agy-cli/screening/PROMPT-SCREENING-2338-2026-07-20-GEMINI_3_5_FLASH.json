@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2338-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Existing relationship among tax havens, money laundering and tax fraud. An analysis based on the rules of Ecuador",
+    "authors": "Lascano, CMD",
+    "year": "2017",
+    "doi": "10.22187/rfd2017n2a2",
+    "abstract": "At present, public scandals involving corrupt events are increasingly frequent, using diverse and creative contrivances that include financial engineering schemes or fraudulent accounting records. The lack of transparency, poor cooperation and almost non-existent information, create favorable environments for the accommodation of huge amounts of funds of unknown origin and often illicit in offshore centers. Consequently, it becomes necessary to understand the relationship among tax havens, money laundering and tax fraud, the harmful effects of this lethal combination for societies and states, and, above all, understand who benefits from this. From a legal perspective, when considering tax fraud material object of the crime of money laundering, there are conflicting theoretical views. This paper also contains an analysis of the recent Ecuadorean regulation regarding this matter, ratifying the criminal responsibility of the accountant as the perpetrator of the fraud, even if not under an express mandate. However, several issues are yet to be regulated, although the different national regulatory bodies have issued broad and even excessive regulation for each of the economic sectors.",
+    "source": "REVISTA DE LA FACULTAD DE DERECHO"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

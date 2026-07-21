@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1426-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "China’s dirty laundry – international organizations posing a risk to China’s AML systems",
+    "authors": "Naheem M.A.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-08-2015-0032",
+    "abstract": "Purpose: This paper aims to review some of the current challenges that international money laundering schemes are posing in the Chinese banking sector. Anti-money laundering (AML) systems in China are relatively new, and customer due diligence checks and other AML systems are underdeveloped in some areas. Design/methodology/approach: The paper considers a particular case example of a multi-company organization that has known links to China. This company has been the target of both European and US investigations for suspected embezzlement and money laundering, and yet is still in operation. Findings: The paper considers the complexities of this organization and how a seemly innocent link to a used clothing charity can fund an international organization spanning several countries. The paper offers a list of basic indicators of risk that could be applied to a risk-based system used within the Chinese banking context by using this group as an example. Originality/value: The paper uses empirical and academic studies from other authors working in this region and supports many of the findings of the need to develop stronger risk-based, as opposed to rules-based, systems for managing AML risk assessment. Previous work by the author and suggestions from other authors are both used to suggest a basic framework for AML risk assessment. The paper concludes by reiterating the fact that China, like all other countries, is now operating in an international banking context, in much the same way that international organized crime is also operating at a global level. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

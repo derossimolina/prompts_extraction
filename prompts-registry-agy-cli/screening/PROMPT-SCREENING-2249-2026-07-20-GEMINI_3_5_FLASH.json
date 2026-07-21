@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2249-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Rights to Privacy and Data Protection v. Public Security and the Integrity of the European Financial System",
+    "authors": "Borlini, L",
+    "year": "2017",
+    "doi": "10.12829/86202",
+    "abstract": "The article investigates the problematic interaction between the rights to privacy and data protection and the legislation the EU adopted in 2015 to preserve financial system integrity and, in this way, public security. To this end, it examines the recent EU legislation on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing. While it notes that the accommodation within the EU legal order of the international standards in the field admittedly creates tensions with certain EU fundamental freedoms and rights, the article explains show the Court of Justice of the European Union and the European Court of Human Rights have both reconciled certain measures of the legislation at issue with the right to a fair process, the right to privacy and the freedom to provide services, by envisaging the interest to the financial system integrity as an objective of general interest for the Union and its Member States and by carefully assessing its impact on those rights in the light of the principle of proportionality. Such approach - especially, the thorough use of the proportionality test - should guide the CJEU also for the more contentious issues of compatibility of the legislation at issue with the rights to privacy and to data protection. In this respect, the article argues that, whilst the EU secondary law adopted in 2015 acknowledges the existence of a EU interest to modulate data protection prerogatives for the prevention of terrorist financing and money laundering, certain provisions of the same remain highly problematic when weighted against the afore-mentioned rights and the legislation on data protection.",
+    "source": "DIRITTI UMANI E DIRITTO INTERNAZIONALE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

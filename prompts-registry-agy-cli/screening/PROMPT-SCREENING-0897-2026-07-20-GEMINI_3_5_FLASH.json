@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0897-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and AML regulatory and judicial system regimes: investigation of FinCEN files",
+    "authors": "D’Avino C.",
+    "year": "2023",
+    "doi": "10.1007/s10657-022-09756-3",
+    "abstract": "Using a novel dataset, this paper explores the link between cross-border flows of illicit money and anti-money laundering (AML) regulatory and judicial system regimes. To this extent, we explore the information contained in thousands of suspicious activity reports filed by US banks and recently disseminated within the FinCEN files investigation. For a sample of 106 jurisdictions, we relate money laundering (ML) flows as well as the central role of each country’s banks within the international ML network to several variables capturing the AML regulatory stance and ML enforcement. The results point to the crucial role played by judicial system performance variables in explaining the layering phase patterns observed in the underlying data. © 2022, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.",
+    "source": "European Journal of Law and Economics"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

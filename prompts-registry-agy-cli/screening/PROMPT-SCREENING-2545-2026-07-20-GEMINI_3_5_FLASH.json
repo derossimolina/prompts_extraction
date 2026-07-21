@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2545-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Contingent conversion convertible bond: New avenue to raise bank capital",
+    "authors": "Di Girolamo, FE; Campolongo, F; De Spiegeleer, J; Schoutens, W",
+    "year": "2017",
+    "doi": "10.1142/S2424786317500013",
+    "abstract": "This paper provides an in-depth analysis of the structuring and the pricing of an innovative financial market product. This instrument is called a contingent conversion convertible bond or CoCoCo. This hybrid bond is itself a combination of two other hybrid instruments: a contingent convertible (CoCo) and a convertible bond. This combination introduces more complexity in the structure but it also allows investors to profit from strong share price performances. This upside potential is added on top of the normal contingent convertible mechanics of CoCos, which expose the investors to mainly downside risk. First, we explain how the features of the contingent convertible bonds on one side and the features of the standard convertible bonds on the other side are combined. Thereafter, we propose a pricing approach which moves away from the standard Black&Scholes setting. The CoCoCos are evaluated using the Heston process to which a Hull-White interest rate process has been added. We demonstrate the importance of using a stochastic interest rate when modeling this instrument. Finally we quantify the loss absorbing capacity of this instrument.",
+    "source": "INTERNATIONAL JOURNAL OF FINANCIAL ENGINEERING"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica modelagem baseada em agentes (ABM) para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo))",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

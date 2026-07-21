@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0765-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Virtual currencies as a quasi-payment tool: the case of frequent-flier programs and money laundering",
+    "authors": "Goldbarsht D.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-11-2020-0127",
+    "abstract": "Purpose: The purpose of this paper is to explore the various characteristics of frequent-flier programs and the threats they pose to the Australian anti-money laundering regime. Design/methodology/approach: A thorough literature review was conducted on frequent-flier programs and the associated money-laundering threats. Money laundering (ML) risks were identified in relation to the three stages of ML and effective law enforcement. Findings: The findings indicate that as ML continues to gravitate towards the weaknesses in the financial system, frequent-flier programs provide yet another avenue for criminals to exploit. The risk factors associated with frequent-flier programs – specifically, anonymity, elusiveness, the rapidity of transactions occurring in a digital environment, ambiguity regarding responsibility for compliance, the global network of participants and members, difficulty in accessing records and an overall lack of oversight – were all integral considerations in establishing the ML risks of such programs. Practical implications: The global environment in which individuals conduct financial transactions continues to evolve rapidly, exacerbating ML risks for regulators and governments alike. Unless there are globally unified efforts to heighten awareness, the threats posed by virtual currency will increase at a rapid rate. With this in mind, the starting point of this paper is an attempt to analyse the ML risks pursuant to frequent-flier programs in Australia. Originality/value: The findings from this study can be used to gain greater insights into frequent-flier programs and can have broader application for evaluating other similarly structured loyalty programs, both in Australia and globally. Additionally, the findings from the study can enhance overall awareness of the ever-increasing threat to global financial integrity through the expansion of virtual currency. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

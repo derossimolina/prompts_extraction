@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0230-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Innovation practices and priorities in AML/CFT financial intelligence",
+    "authors": "Moncalvo D.; Oliva M.; Díaz Castellano A.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-05-2025-0063",
+    "abstract": "Purpose – According to the global standard set by Financial Action Task Force (FATF), all countries are requested to develop an effective financial intelligence supply chain involving Financial Institutions (FIs), Financial Intelligence Units (FIUs) and Law Enforcement Agencies (LEAs) to cope with money laundering, terror financing and financial sanctions circumventions. The main purpose of this paper is to explore how different players approach innovation and which are their innovation priorities. The work provides theoretical framework and practical indications disclosing insights coming from the Innovation Working Group (IWG) of Europol Financial Intelligence Public-Private Partnership (EFIPPP). Design/methodology/approach – This paper draws on original research conducted inside EFIPPP’s IWG, leveraging the contributions of 44 people from 21 countries, including AML-obliged reporting entities, FIs, FIUs, LEAs, Research Institutes, and International Organizations. Findings – The research outlines innovation practices that financial intelligence players adopt to address operational challenges. The aim is to identify technological solutions (demand-pull) and/or integrate technological innovations that impact their operational domain (technology-push). The results show 19 key innovations perceived as significant priorities. Research limitations/implications – The study involved only participants and countries from the IWG, as it is an outcome of the EFIPPP initiative. While the focus is primarily – though not exclusively – on EU countries, the participants represent stakeholders from each stage of the financial intelligence supply chain, helping to overcome silos between the public and private sectors. Originality/value – To the best of the authors’ knowledge, no study has specifically focused on innovation practices and priorities in financial intelligence, considering the different perspectives of FIs, FIUs and LEAs. © 2025 Emerald Publishing Limited",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

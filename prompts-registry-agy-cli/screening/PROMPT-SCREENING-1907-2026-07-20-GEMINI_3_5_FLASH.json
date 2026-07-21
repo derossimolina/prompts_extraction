@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1907-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Commission consults on revision of the european electronic money regime",
+    "authors": "Penn B.",
+    "year": "2005",
+    "doi": "10.1108/13581980510635573",
+    "abstract": "Background to the European Commission consultation on the electronic money directive (2000/46/EC) with particular reference to the definition of ‘electronic money’, the impact on mobile telephone operators, different structures for payment of goods and services under schemes for the issue of prepaid electronic value, the regulatory requirements on banks and e-money institutions and the application of anti-money laundering requirements. © Henry Stewart Publications.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

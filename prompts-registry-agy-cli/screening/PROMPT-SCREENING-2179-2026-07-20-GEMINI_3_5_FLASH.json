@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2179-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Mugu.com: Knowledge, trust and deceit in computer mediated interactions",
+    "authors": "Knox H.; O'Doherty D.; Vurdubakis T.; Westrup C.",
+    "year": "2006",
+    "doi": "10.18848/1833-1882/cgp/v01i02/52250",
+    "abstract": "The rapid growth of 'faceless' dealings via the Internet has coincided with an upsurge of multidisciplinary interest in trust, its conditions of existence, and the role it plays in facilitating commercial transactions and social life more generally. There is by now an extensive corpus of work in sociology, psychology, economics and organization studies that focuses on trust and which sets out to classify the different forms trusting behaviour might take and attempts to identify the social, cultural etc. conditions and circumstances under which such behaviour might be forthcoming. By contrast, this paper focuses on a particular abuse of trust, the online fraud that has come to be known as the '419 advance fee fraud' letter. Widely disseminated in recent years as an email message, the letter solicits the recipient's assistance in the transfer of misappropriated funds (money laundering) in return for a substantial share of the sum involved. The victim is then persuaded to pay various 'advance fees' in order to see the transaction through. The paper argues that current conceptualisations of trust in electronically mediated interactions suffer from a number of limitations and that as an example of successful online (fraudulent) business, the 419 enterprise constitutes a useful vantage point from where the question of the 'nature' and complex role of trust in electronic business (and in social life) might be re-examined. © Common Ground.",
+    "source": "International Journal of Interdisciplinary Social Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

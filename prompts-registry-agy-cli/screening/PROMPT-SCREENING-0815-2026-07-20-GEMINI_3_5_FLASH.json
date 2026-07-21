@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0815-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal Status of Issuers of Crypto Assets in the Light of the Project of MICA Regulation; [Правовой статус эмитентов криптоактивов с точки зрения проекта регламента MICA]",
+    "authors": "Daudrikh Y.",
+    "year": "2022",
+    "doi": "10.17323/2072-8166.2022.2.244.263",
+    "abstract": "In the developing world of modern digital technologies, the question arises of the need to adopt a uniform mechanism of the regulation of crypto-assets issuers, including a comprehensive regulation of the position of all entities involved in the trade in crypto-assets. However, we are currently examining the inconsistent and abstract regulation of the main crypto-assets traders resulting from Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018 amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, and amending Directives 2009/138/EC and 2013/36/EU. Under pressure from policy makers and the professional public, the European Commission has presented a proposal for a long-awaited Proposal for a Regulation of the European parliament and of the Council on Markets in Crypto-assets, and amending Directive (EU) 2019/1937, COM (2020) 593 final (MICA) to ensure common regulation of crypto-assets, which is applicable in all Member States of the European Union. The present proposal for a MICA regulation has the ambition to unify the fragmented legislation on crypto-assets that nowaday as a result of lack of wider regulation at EU level. The primary goal of this paper is to analyze newly defined concepts, including categorizations of crypto-assets falling under MICA. In this context, the basic aspects of the functioning of the crypto-assets issue process, including the obligation to publish a white paper, are examined. In particular, the position of the EBA (European Banking Authority) as a supervisory authority for issuers of significant crypto-assets is examined. Based on the analysis, the author comes to the conclusion that the application of the MICA may well be associated with a number of problems, which are then specified in more detail. We see ambiguity when applying MICA caused, for example, by rather general language of the terms defining crypto-assets, or by absence of further explanation of cooperation process between relevant EU and third country authorities. The several scientific methods were used in writing this paper, such as: comparison, analysis, synthesis, analogy, induction and deduction. © 2022, National Research University Higher School of Economics (HSE University). All rights reserved.",
+    "source": "Pravo - Zhurnal Vysshey Shkoly Ekonomiki"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

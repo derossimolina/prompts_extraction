@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0456-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Transnational drug-related organised crime: a network perspective on Dutch involvement",
+    "authors": "Vermeulen I.J.",
+    "year": "2026",
+    "doi": "10.1080/17440572.2026.2662677",
+    "abstract": "This study focuses on the Netherlands’ position in the global drug market and on Dutch drug offenders’ positions in transnational drug-related criminal networks as emerged from the ANOM closed encrypted communications platform. The ANOM network consisted of 11,690 accounts (cryptophones) and 65,167 edges (communications). Location information was available for 35.5% of the cryptophones. Geospatial analysis revealed that the Netherlands was a true hub where Dutch drug offenders primarily operated locally, as did transnationally active foreign drug offenders. Social network analysis revealed that ANOM was a (small-world) network of networks. Dutch drug offenders were scattered throughout the ANOM network; however, 66% were part of three communities. Dutch drug offenders scored highest on centrality in all three networks, even in the two communities where they made up only a small segment of the population. This is most likely because they were (also) facilitators, specialised in (encrypted) communications tools and tooling. © 2026 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

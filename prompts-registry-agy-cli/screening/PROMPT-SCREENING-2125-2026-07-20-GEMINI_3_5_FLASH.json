@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2125-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating Hawala&colon; a comparison of five national approaches",
+    "authors": "Rusten Wang J.",
+    "year": "2011",
+    "doi": "10.1108/13685201111147522",
+    "abstract": "PurposeThe aim of this paper is to compare the regulatory frameworks for informal remittance systems in the UK, Germany, The Netherlands, Sweden and Norway. Design&sol;methodology&sol;approachThis study evaluates the effects of the different regulatory frameworks, in terms of level of control and quality of remittance services. It relies on reports from the Financial Action Task Force &lpar;FATF&rpar;, law enforcement and regulatory agencies and the World Bank. It also draws heavily on academic literature and migrant household surveys. FindingsThere are major differences between the countries in how to regulate Hawala and other informal remittance systems. Even though all countries have challenges in regulating this sector, it seems that a simplified registration regime for money transfer operators is the most suitable option for improving both the level of control and the quality of remittance services. Looking at regulatory changes during the last decade, it appears that the national policies have converged towards a medium level. Originality&sol;valueThis paper contributes to the debate on Hawala regulation by empirically evaluating how successful five different national policies have been. It also presents an updated picture of national regulations by including changes incurred by the EU Payment Services Directive &lpar;2007&sol;64&sol;EC&rpar;, which was implemented in 2009 and 2010. © 2011, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

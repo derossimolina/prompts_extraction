@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1848-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Promoting financial sector stability through an effective AML&sol;CFT regime",
+    "authors": "Shehu A.Y.",
+    "year": "2010",
+    "doi": "10.1108/13685201011034087",
+    "abstract": "PurposeThe purpose of this paper is to discuss the impact of the recent financial crisis and the need for prudential management and effective supervisory and regulatory measures in ensuring the stability and integrity of the financial sector, especially financial institutions, such as banks. The aim is to increase awareness about the global Financial Action Task Force &lpar;FATF&rpar; standards and the efforts at enforcing these standards. Design&sol;methodology&sol;approachThe paper examines the impact of the global financial crisis of 2009 and relates it to inadequate enforcement of prudential and regulatory measures. The paper argues that effective implementation of the core and key FATF Recommendations would assure some modicum of stability, productivity, and integrity of the financial system. It also discusses briefly the monitoring process of the implementation of these standards. The paper adopts a policy approach with a view to explaining the importance and benefits of implementing these standards in all jurisdictions. Thus, it covers the work of the anti&hyphen;money laundering and countering the financing of terrorism &lpar;AML&sol;CFT&rpar; global network in promoting financial sector stability. FindingsThe mutual evaluation process is a demonstration of the commitment of member states to implement the FATF standards and remedy deficiencies in their systems. However, many countries, in particular low&hyphen;capacity countries, face challenges in the implementation of the FATF standards. These are&colon; competing priorities for scarce government resources&semi; severe lack of resources and skilled workforce to implement government programmes, including AML&sol;CFT programmes&semi; weaknesses in legal institutions&semi; the dominance of the informal sector and a cash&hyphen;based economy&semi; poor document and data&hyphen;retention systems&semi; and in some cases, very small financial sector with limited exposure to the international financial system. Research limitations&sol;implicationsFor the AML&sol;CFT standards to be enforced more effectively, developing countries need more technical assistance, especially in preventing the flow of proceeds of corruption to developed countries' financial systems. The strategy to recover the proceeds of crime has proven to be problematic, but no better approach has yet been articulated. This should constitute an issue for further research. Originality&sol;valueThe paper aims to increase awareness to the FATF standards and the work of all the global network organizations involved in the fight against ML&sol;TF. It is useful particularly to financial institutions who wish to protect the integrity of their system and promote stability. © 2010, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

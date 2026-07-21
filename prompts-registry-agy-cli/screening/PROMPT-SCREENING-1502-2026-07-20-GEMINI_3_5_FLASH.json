@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1502-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Institutional will – the organized crime remedy",
+    "authors": "Mazur R.",
+    "year": "2012",
+    "doi": "10.1108/13685201211218171",
+    "abstract": "PurposeThe objective of this article is to examine the criminal conduct of convicted bankers and institutions for the purpose of identifying any measurable factor that can determine the degree of risk an organization faces from the threat of organized crime. Design&sol;methodology&sol;approachPrimary research was conducted of the money laundering related acts of bankers and banks charged with criminal offenses. In addition, interviews were conducted of professionals with first&hyphen;hand knowledge, directly involved in the events related to these prosecutions. FindingsAlthough maintenance of a competent anti&hyphen;money laundering compliance program is required by law, the real measure of a financial institution's risk from organized crime is directly proportional to the degree with which the business line of an institution genuinely embraces, participates in, and benefits from the anti&hyphen;money laundering protocols established by the institution's compliance function. Originality&sol;valueThis paper is original research conducted and presented from the viewpoint of a specialist. © 2012, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

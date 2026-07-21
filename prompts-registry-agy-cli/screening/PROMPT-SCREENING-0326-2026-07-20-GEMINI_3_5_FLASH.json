@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0326-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The dark side of innovation in financial centres: legal designs and territorialities of law",
+    "authors": "Dörry S.",
+    "year": "2025",
+    "doi": "10.1080/00343404.2022.2107629",
+    "abstract": "Innovation studies rarely incorporate finance in their analysis, although productive innovation and economic development require efficient allocation of financial resources. Complex financial vehicles other than banks increasingly fund global economic activity. These innovative, yet ‘dark’ financial entities service the shielding of private–not public–wealth, and challenge the positive notion of financial innovation as they help cement socio-spatial inequalities. We illustrate how legal structuring benefits (from) the commercialization of state sovereignty and the finetuned work of finance-cum-law that have long shaped the business model of leading financial centres; a legacy difficult to disengage from in times of financial sustainability imperatives. © 2022 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Regional Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2048-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Dark Side of Private Ordering: An Institutional and Empirical Analysis of Organized Crime",
+    "authors": "Milhaupt C.J.; West M.D.",
+    "year": "2000",
+    "doi": "10.2307/1600326",
+    "abstract": "This Article provides theoretical and empirical support for the claim that organized crime competes with the state to provide property rights enforcement and protection services. Drawing on extensive data from Japan, this Article shows that, like firms in regulated environments everywhere, the structure and activities of organized criminal firms are significantly shaped by state-supplied institutions. Careful observation reveals that in Japan, the activities of organized criminal firms closely track inefficiencies in formal legal structures, including both inefficient substantive laws and a state-induced shortage of legal professionals and other rights-enforcement agents. Thus, organized crime in Japan-and, by extension, in other countries where significant gaps exist between formal property rights structures and state enforcement capacities-is the dark side of private ordering. Regression analyses show negative correlations between membership in Japanese organized criminal firms and (a) civil cases, (b) bankruptcies, (c) reported crimes, and (d) loans outstanding. Professors Milhaupt and West interpret these data to support considerable anecdotal evidence that members of organized criminal firms in Japan play an active entrepreneurial role in substituting for state-supplied enforcement mechanisms and other public services in such areas as dispute mediation, bankruptcy and debt collection, (unorganized) crime control, and finance. They offer additional empirical evidence indicating that arrests of gang members do not curb the growth of organized criminal firms. Their findings may have a significant normative implication for transition economies: efforts to eradicate organized crime should focus on the alteration of institutional incentive structures and the stimulation of competing rights-enforcement agents rather than on traditional crime-control activities.",
+    "source": "University of Chicago Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

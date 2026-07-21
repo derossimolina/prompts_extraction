@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0095-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Implementation of the risk-based approach in CDD and its impact on the financial inclusion of Nigerian and Pakistani students",
+    "authors": "Aguele E.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2025.100163",
+    "abstract": "This paper presents exploratory research assessing the impact of Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) measures on international students from Nigeria and Pakistan's financial inclusion in the UK. It explores the concept of de-risking, which could limit access for students from nations grey-listed by the Financial Action Task Force (FATF), and whether recent grey-listing has posed additional challenges for these students compared to their non-listed status. Emerging trends suggest that while some students experience delays in accessing a bank account, others do not. Nigerian students during the listing period exhibited patterns suggesting they may be restricted in accessing international transfers. The patterns also suggest that enhanced due diligence was utilised in both periods for all participants who opened their accounts in person, which could indicate a trend toward over-compliance. It explores the implementation of the risk-based approach to AML/CFT measures by the Financial Conduct Authority (FCA) and financial institutions using Matland's theory on experimental and symbolic implementation. It finds that the implementation is characterised by a high level of ambiguity and conflict between actors, shaping how resolutions are developed and policy outcomes. It argues that there is a need for a balanced strategy that ensures compliance without compromising the financial inclusion of legitimate customers. © 2025 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0275-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How strong are international standards in practice? Evidence from cryptocurrency transactions",
+    "authors": "Nershi K.",
+    "year": "2025",
+    "doi": "10.1017/psrm.2025.10027",
+    "abstract": "Despite widespread adoption of international anti-money laundering standards over the last 30 years, their effectiveness remains poorly understood due to persistent data limitations. I address this gap in the scholarship by leveraging cryptocurrency transaction data to assess how specific regulatory design features shape compliance. Using bunching estimation, I demonstrate that customers strategically adjust transaction sizes to avoid threshold-based screening requirements, while exchanges fail to adequately address this behavior through risk-based monitoring. Analysis of British Virgin Islands exchanges using difference-in-differences estimation before and after regulatory changes provides additional evidence supporting these conclusions. The findings reveal how regulatory design features shape behavior in cryptocurrency markets and suggest specific improvements for regulatory frameworks. © The Author(s), 2025. Published by Cambridge University Press on behalf of EPS Academic Ltd.",
+    "source": "Political Science Research and Methods"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

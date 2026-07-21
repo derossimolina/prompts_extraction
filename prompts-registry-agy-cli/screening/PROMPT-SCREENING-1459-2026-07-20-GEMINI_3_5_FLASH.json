@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1459-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How to reduce implicit bank debt guarantees?: A framework for discussing bank regulatory reform",
+    "authors": "Schich S.",
+    "year": "2013",
+    "doi": "10.1108/JFRC-03-2013-0006",
+    "abstract": "Purpose – The purpose of this article is to support current efforts by policymakers to limit the value of implicit bank debt guarantees that they are perceived as providing. It does so by analyzing the determinants of the value of such guarantees and by proposing a framework for categorizing and analyzing the host of different financial regulatory reform measures recently adopted and proposed. Design/methodology/approach – The starting point is the observation that public authorities have provided the guarantor-of-last-resort function in more explicit form as part of the financial safety net. This choice has inadvertently further entrenched the perception that bank debt benefits from an implicit guarantee and, in the meantime, policymakers have decided to limit the value of such guarantees. To support these efforts, the present articles use a valuation framework based on concepts of contingent claims analysis to model the value of insurance of risky bank debt when the sovereign providing the guarantee can itself be risky. This framework allows one to monitor any progress made in reducing the value of these guarantees. It is applied here to a measure of implicit external (mostly from the sovereign) support for the debt of a panel of 184 large worldwide banks headquartered in 23 countries for the period from 2007 to 2012. Findings – Consistent with the implications of the conceptual model, the empirical evidence suggests that implicit bank debt support is higher, the lower the bank's stand-alone creditworthiness and the higher the sovereign's creditworthiness. The result is consistent with previous work that showed that the decline in the value of implicit bank debt guarantees most recently observed owes much to reduced strength of the sovereigns seen as providing the guarantees. Obviously, a more desirable way to limit the value of implicit bank debt guarantees is to foster the intrinsic strength of banks. Alternative categories of policy measures aim at withdrawing the guarantee function or charging for its use. Originality/value – The author is not aware of any similar work using a rigid theoretical and empirical framework to structuring the policy discussion on bank regulatory reform. © 2013, Emerald Group Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

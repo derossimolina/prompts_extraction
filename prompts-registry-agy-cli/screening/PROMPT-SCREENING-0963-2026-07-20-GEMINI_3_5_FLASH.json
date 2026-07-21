@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0963-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Magic mirror in my hand … How trade mirror statistics can help us detect illegal financial flows",
+    "authors": "Gara M.; Giammatteo M.; Tosti E.",
+    "year": "2019",
+    "doi": "10.1111/twec.12840",
+    "abstract": "Misreporting tricks of different sorts applied to the transfer of goods between different countries are typically exploited by criminals worldwide for money laundering ends. The main international anti-money laundering organisations started paying attention to this phenomenon, dubbed “trade-based money laundering” (TBML), a long time ago, but the failure to develop appropriate analytical tools has reportedly dogged preventive actions. Nonetheless, literature has widely advocated the possibility that the analysis of inconsistencies in mirrored bilateral trade data could provide some help. By building on previous contributions in the field, this work sets up a model factoring in the main structural determinants of discrepancies between mirrored data concerning Italy's 2010 to 2013 external trade at a highly detailed (6-digit) level of goods classification for each partner country. Point estimates of freight costs are used to net each observation of the corresponding cif/fob discrepancy. The regression estimates are then deployed in order to compute TBML risk indicators at a country/4-digit product level. Based on the indicators, rankings of countries and product lines can be compiled, which may be used for a risk-driven search of potential illegal commercial transactions. © 2019 John Wiley & Sons Ltd",
+    "source": "World Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

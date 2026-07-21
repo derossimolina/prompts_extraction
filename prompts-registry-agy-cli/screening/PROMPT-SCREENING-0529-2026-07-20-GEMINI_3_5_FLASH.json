@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0529-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Victim Protection Against Crimes Under the Guise of Electronic Investment in Indonesia",
+    "authors": "Manullang H.; Citra Ramadhan M.",
+    "year": "2023",
+    "doi": "10.12924/johs2023.19020002",
+    "abstract": "The pervasive escalation of electronic transactions has profoundly reshaped the business landscape, offering diverse domestic and global investment prospects. Despite the opportunities, investors grapple with challenges in the realm of electronic investments, encompassing fraudulent activities, embezzlement, money laundering, and illicit investment practices. Consequently, this research endeavours to investigate mechanisms safeguarding victims from crimes perpetrated under the guise of electronic investment in Indonesia. Employing a normative judicial approach, the study involves the scrutiny of legal documents and pertinent regulations related to electronic investment crimes in Indonesia. To achieve its objective, the study relies on secondary qualitative data sourced from online databases such as Nexis, Lexis, JSTOR, Hein Online, and other relevant outlets, employing content analysis. Findings indicate a pronounced promotion of electronic transactions in Indonesia, with emphasis on adherence to the Investment Law, \"Electronic Transactions and Information\" (ETI) law, Consumer Protection Law, and the Indonesian Criminal Code (KUHP). Notably, punitive measures for individuals engaged in electronic investment fraud are outlined in Articles 372 and 378 of the KUHP. Nevertheless, a compelling necessity exists for the formulation and implementation of a tailored legal framework addressing victim protection against crimes associated with electronic investment in Indonesia. The study yields practical and theoretical implications, spotlighting enhancements required in the legal infrastructure governing electronic investments in the Indonesian context. © 2023 by the authors; licensee Librello, Switzerland.",
+    "source": "Journal of Human Security"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

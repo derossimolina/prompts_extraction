@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2385-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sanctions circumvention via private-law instruments: Ukrainian courts and legislative reform",
+    "authors": "Naidon, Y; Naumiuk, S; Horyslavskiy, K; Peliukh, O; Chernysh, R",
+    "year": "2026",
+    "doi": "10.1108/JMLC-11-2025-0205",
+    "abstract": "PurposeThis paper aims to analyse how, in 2018-2025, Ukrainian civil and commercial courts have been used to detect and neutralise sanctions circumvention schemes that are disguised as ordinary private-law transactions in the wartime context.Design/methodology/approachThis study used doctrinal analysis of Ukrainian legislation and sanction-related court decisions (2018-2025), purposive sampling and coding by evasion/circumvention pathway, followed by triangulation against official anti-money laundering/counter-terrorist financing (AML/CFT) and export-control guidance and relevant EU/US policy documents.FindingsBased on seven court disputes (2018-2025), this paper identifies recurring sanctions-circumvention typologies implemented through private-law instruments (registry manipulation/beneficial-ownership concealment, asset transfers, procedural substitution, claim assignment and award-based debt collection). The courts' reasoning consistently turns on continuity of control, temporal proximity between designation and the transaction and opacity/artificiality of the restructuring. Supreme Court practice on recognition and enforcement of arbitral awards shows heightened scrutiny where the economic beneficiary may be a sanctioned entity.Research limitations/implicationsResearch limitations include jurisdiction-specific evidence; replication in EU implementing jurisdictions is recommended.Practical implicationsPractical implications include transaction-level risk indicators for banks, corporates and investigators; policy options to align civil-law remedies with AML/CFT and export-control objectives.Originality/valueTo the best of the authors' knowledge, this is among the first studies to derive a sanctions-circumvention taxonomy for Ukraine directly from court practice and to translate that case law into a structured set of transaction-level risk indicators and policy options for aligning civil-law remedies with sanctions, AML/CFT and export-control objectives.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

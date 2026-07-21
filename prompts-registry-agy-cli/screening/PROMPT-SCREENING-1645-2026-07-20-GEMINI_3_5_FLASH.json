@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1645-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Water always finds its way: Identifying new forms of money laundering",
+    "authors": "Unger B.; den Hertog J.",
+    "year": "2012",
+    "doi": "10.1007/s10611-011-9352-z",
+    "abstract": "Money laundering regulations have become stricter over time and involve more and more actors. This means that the accountability of laundering regulation will become more important; theoretically, money laundering should have decreased with the implementation of new regulations. However, as this paper shows, it is difficult to estimate even the sign of the trend in the proceeds of crime and of laundering over time with particular reference to the drug trade. There seems to be a substitution from hard to softer drugs, and no substantial decline in the proceeds of crime and likewise no substantial decline in money laundering. Criminals seem to switch from the more controlled banking sector into still less controlled parts of financial markets, and from financial markets to other sectors. These new sectors include electronic payments, trade and real estate. The paper shows how one can empirically approach the latter two by using economic information of unusual prices and other characteristics in order to identify the amount of laundering in these sectors. Combining economic information with criminological data facilitates the development of a new tool for identifying money laundering in some important sectors. © 2012 The Author(s).",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

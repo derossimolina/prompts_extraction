@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2176-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Competitive advantage from operational corporate real estate disposals",
+    "authors": "Louko A.",
+    "year": "2004",
+    "doi": "10.1080/1648715X.2004.9637504",
+    "abstract": "The large-scale operational corporate real estate disposals, which have lately become more and more common in Europe, can create many benefits to corporations. Firstly, the corporations can get an immediate capital injection without additional external financing to support growth or to better capital structure. Secondly, corporations can in the best case obtain more property industry knowledge, economies of scale, tax advantages and increased flexibility through property disposals. However, it is also important to notice that sometimes the best expert is an internal property manager and that large corporate real estate deals can be slow and costly to structure. Furthermore, if the outsourcing is not planned well, agency problems and inflexibility could arise. In addition, off-balance sheet financing is becoming more difficult due to changes in accounting rules. In all, it is crucial to have a solid property strategy that supports the overall business goal before structuring large-scale disposals. © 2004, Taylor & Francis Group, LLC. All rights reserved.",
+    "source": "International Journal of Strategic Property Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

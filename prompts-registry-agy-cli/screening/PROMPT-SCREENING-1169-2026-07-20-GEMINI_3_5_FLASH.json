@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1169-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Revisiting the concept of legal guarantee in islamic law for structuring islamic financial products",
+    "authors": "Issoufou C.; Abdullah N.",
+    "year": "2019",
+    "doi": "10.18510/hssr.2019.7247",
+    "abstract": "Purpose of Study: In the modern Islamic financial products and services, legal guarantee is becoming increasing important in the structuring of products, particularly those used in the investments. As a result of the increasing importance of the concept of guarantee, this paper specifically revisits the conceptual analyses of legal guarantee in Islamic law with a view to providing the basis for the use of this concept in structuring relevant Shari‘ah-compliant products. Methodology: The study adopts a comparative legal analysis of the views of classical Muslim jurists. The researchers examine the principles relating to guarantee, such as the meaning of guarantee, its authority, its pillars and conditions. Other principles include modes of guarantee and its objective. The paper also examines the principles and terms of guarantee necessitates an assessment of the effect of the guarantee contract on the contracting parties, particularly whether the guarantor has the right of recourse to the guaranteed person for a refund. The researchers adopt qualitative research methodology to analyse and examine the data. Results: It was found that although guarantee is permissible in Islamic law, it is not absolute. In fact, to make it more Islamically acceptable or Shari’ah compliant there are other terms and conditions that the contract has to fulfil especially by the guarantor, guaranteed person as well as guaranteed asset. Results: Legal Guarantee is permissible in Islamic law to prevent harm that may happen to the traders and investors, and protect the public interest. Classical and contemporary Muslim scholars’ views are that guarantee is not limited to guarantee for debt, but extended to the guarantee for other commercial transactions like guarantee of future liability and physical punishment. Guarantee has its own pillars and conditions, which should be met in order for a guarantee contract to be a valid one. The researchers suggest to conduct empirical research in order to have a clear picture on the concept of legal guarantee for structuring Islamic financial products. © Issoufon and Abdullah.",
+    "source": "Humanities and Social Sciences Reviews"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

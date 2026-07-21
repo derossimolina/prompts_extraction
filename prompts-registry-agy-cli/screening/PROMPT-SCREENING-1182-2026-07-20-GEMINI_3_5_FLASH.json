@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1182-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ROLE OF OFFSHORE IN THE SYSTEM OF LEGALIZATION (LAUNDERING) OF THE PROCEEDS OF CRIME",
+    "authors": "Ryzhkova A.; Vinichuk M.; Boyko O.",
+    "year": "2021",
+    "doi": "10.32518/2617-4162-2021-4-148-154",
+    "abstract": "The formation of an integrated international financial and economic system creates ample opportunities for mobilizing resources, ensuring sustainable socio-economic development of countries, expanding their capabilities and potential. The merger of the borders of national financial markets has led to the creation of favorable conditions for the intensification of the development of the illegal sector of the economy, the results of which require legalization and involvement in the official sector. As a result, seeking to legalize illegally obtained income, economic agents resort to the services of organized crime groups specializing in money laundering. Offshore zones are used to complicate the monitoring of the flow of such shadow capital. Under such conditions, the offshore research problem as a tool for legalization (laundering) of proceeds from crime becomes relevant. The article is aimed at advanced research of the theoretical foundations and practical recommendations on the role of offshore companies in the system of legalization (laundering) of proceeds from crime. The basic concepts and problems of the functioning of offshore zones are defined in the article. The role of offshore companies in the system of legalization (laundering) of proceeds from crime has been analyzed. The advantages and risks of using offshore zones have been studied. The main schemes of legalization (laundering) of proceeds from crime via offshore companies are considered. A study of measures aimed at deoffshorization of the Ukrainian economy has been carried out. The relationship between offshoring and the shadowing of the economy has been established. The necessity of effective counteraction to legalization (laundering) of proceeds from crime in offshore has been proved. The negative impact of offshore zones on the socio-economic development of the country is highlighted. The main measures to counteract the legalization (laundering) of proceeds from crime via offshore companies have been suggested. © 2021, Lviv State University of Internal Affairs. All rights reserved.",
+    "source": "Social and Legal Studios"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

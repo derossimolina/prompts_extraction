@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0483-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Towards accelerated chaos-based encryption in embedded systems: Methodological perspectives for speed optimization in constrained hardware architectures",
+    "authors": "Mbasso W.F.; Dagal I.; Harrison A.; Chebaane S.; Khishe M.; Jangir P.; Smerat A.; Donfack E.F.",
+    "year": "2026",
+    "doi": "10.1016/j.csi.2026.104167",
+    "abstract": "A bstract Chaos-based encryption has attracted growing interest for resource-constrained embedded systems, yet its practical use remains limited by sequential processing overhead, precision-related degradation, and implementation cost. This study presents a hardware-aware framework for accelerating chaos-based encryption through the joint optimization of fixed-point chaotic keystream generation, a pipelined XOR/permute datapath, and entropy-driven adaptive control. To compare candidate implementations in a unified manner, we introduce the Cryptographic Throughput Index (CTI), a composite design metric that jointly reflects encryption rate, ciphertext entropy, and hardware cost. Using representative chaotic generators, the study shows how different maps lead to distinct trade-offs between throughput, entropy preservation, and implementation footprint in constrained hardware environments. The paper also outlines a reconfigurable Crypto-IP architecture suitable for FPGA/ASIC-oriented IoT platforms and derives practical design rules for selecting chaos models, precision levels, and operating modes under hardware budgets. Overall, the work contributes a methodological basis for structuring and evaluating high-throughput, entropy-aware chaos-based encryption architectures for embedded systems. © 2026 Elsevier B.V.",
+    "source": "Computer Standards and Interfaces"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

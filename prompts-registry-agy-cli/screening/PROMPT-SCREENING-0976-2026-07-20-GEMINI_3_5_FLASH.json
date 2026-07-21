@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0976-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Detecting money laundering transactions with machine learning",
+    "authors": "Jullum M.; Løland A.; Huseby R.B.; Ånonsen G.; Lorentzen J.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-07-2019-0055",
+    "abstract": "Purpose: The purpose of this paper is to develop, describe and validate a machine learning model for prioritising which financial transactions should be manually investigated for potential money laundering. The model is applied to a large data set from Norway’s largest bank, DNB. Design/methodology/approach: A supervised machine learning model is trained by using three types of historic data: “normal” legal transactions; those flagged as suspicious by the bank’s internal alert system; and potential money laundering cases reported to the authorities. The model is trained to predict the probability that a new transaction should be reported, using information such as background information about the sender/receiver, their earlier behaviour and their transaction history. Findings: The paper demonstrates that the common approach of not using non-reported alerts (i.e. transactions that are investigated but not reported) in the training of the model can lead to sub-optimal results. The same applies to the use of normal (un-investigated) transactions. Our developed method outperforms the bank’s current approach in terms of a fair measure of performance. Originality/value: This research study is one of very few published anti-money laundering (AML) models for suspicious transactions that have been applied to a realistically sized data set. The paper also presents a new performance measure specifically tailored to compare the proposed method to the bank’s existing AML system. © 2020, Martin Jullum, Anders Løland, Ragnar Bang Huseby, Geir Ånonsen and Johannes Lorentzen.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

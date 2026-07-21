@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0247-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money for Nothing, Supervision for a Fee: Investigating the Effects of the 5th Anti-Money Laundering Directive on Cryptocurrency Exchanges in the Netherlands",
+    "authors": "Volten C.; van Eeten M.; van Wegberg R.",
+    "year": "2025",
+    "doi": "10.1007/s10610-025-09640-1",
+    "abstract": "By converting between currencies, cryptocurrency exchanges provide access between the traditional and cryptocurrency ecosystem, making them susceptible to money laundering. The European Union extended the scope of the 5 Anti-Money Laundering Directive (AMLD5) to include cryptocurrency exchanges, requiring them to obtain a registration, conduct customer due diligence, and report unusual transactions. It is, however, unknown whether the measures introduced by the implementation of AMLD5 lead to less risk exposure and what impact it has on cryptocurrency exchanges. This paper uses a mixed-methods approach to explore the effects of the Dutch implementation of AMLD5 measures on cryptocurrency exchanges active in the Netherlands. We analyzed over 335,000 transactions and complemented them with seven qualitative interviews with Dutch cryptocurrency exchanges and the supervisory authority. We find that the Dutch implementation of AMLD5 imposed high administrative burdens and substantial fees on relatively small exchanges that do not pose high money laundering risks. This raises questions about the alignment of the goals and consequences of the regulation. © The Author(s) 2025.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

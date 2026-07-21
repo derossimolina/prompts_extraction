@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1288-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessment of public opinion on compliance with anti-cleaning legislation; [ОЦЕНКА ОБЩЕСТВЕННОГО МНЕНИЯ О СОБЛЮДЕНИИ АНТИОТМЫВОЧНОГО ЗАКОНОДАТЕЛЬСТВА В РОССИИ]",
+    "authors": "Tanyushcheva N.Yu.; Kunitsyna N.N.",
+    "year": "2021",
+    "doi": "10.14515/MONITORING.2021.2.1730",
+    "abstract": "Аbstract. Compliance with legislation in general and the Federal Law “On Combating Legalization (Laundering) of Criminally Obtained Incomes and Financing of Terrorism\" (AML/CFT) in particular, is a civic duty of the population and officials. At the same time, the media and Internet resources inform about its violation quite often. In this regard, the authors aimed to study the specialists' value attitudes in relation to the AML/CFT law. For this purpose, a sociological survey was conducted on a multistage sample. The results were processed utilizing the adapted Table of Eleven (T11) methodology, based on the concept of rational choice, the theory of justified actions and the normative theory of law. To study the factors that affect compliance with the antimoney laundering law, the authors summarized and analyzed the opinions of the special officials of commercial banks, the AML / CFT specialists of the Central Bank of the Russian Federation, and the employees of units for combating economic and organized crime of law enforcement agencies. The results of the study indicate that the state antimoney laundering policy resonates with the special officials, the law itself is clear and understandable to the executors. However, control over banks, sanctions against violators and the indifference of the population and the business community in information interaction with regulatory authorities do not contribute to full compliance with the provisions of antimoney laundering legislation. Measures for the development of general solidarity in society and the expansion of financial literacy programs among entrepreneurs are called upon to significantly improve the environment for the implementation of the law. © 2021 Russian Public Opinion Research Center, VCIOM. All rights reserved.",
+    "source": "Monitoring Obshchestvennogo Mneniya: Ekonomicheskie i Sotsial'nye Peremeny"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2497-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Turn the Detention Centre Inside Out: Challenging State Secrecy in Australia's Offshore Processing of Asylum Seekers",
+    "authors": "Martin, G",
+    "year": "2019",
+    "doi": "10.1007/978-981-13-9093-7_14",
+    "abstract": "Australia's refugee policy can be characterized as crimmigration since it constructs asylum seekers as illegal and subjects them to indefinite detention in offshore processing centres where human rights abuses occur. In addition, Australia's highly secretive refugee processing arrangements in remote locations, where a multiplicity of state actors and private security firms are involved, makes human rights monitoring by lawyers, journalists, medical professionals and refugee advocates virtually impossible, and also means it is hard to assign responsibility for human rights violations under state-centric international law. Transparency and accountability are further impeded by the Australian state's creative use of law, or 'rule with law', to deter refugees and keep its border enforcement operations secret. While criminal prosecution under Australian federal law is conceivable, that is itself complicated by the fact human rights infringements have occurred wholly outside Australia. In light of these factors, and given the Australian Government refuses to change its asylum policy, this chapter considers some of the small ways both asylum seekers and employees resist significant levels of surveillance and control within detention centres, as well as some of the 'counterveillance' tactics, such as letter writing and social media messaging, they have employed to tell stories of detention centre conditions as a direct challenge to state secrecy.",
+    "source": "CRIMMIGRATION IN AUSTRALIA: LAW, POLITICS, AND SOCIETY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

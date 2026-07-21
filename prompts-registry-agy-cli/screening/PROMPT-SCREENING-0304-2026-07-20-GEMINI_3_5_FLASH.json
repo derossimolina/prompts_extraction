@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0304-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Audit Committee Characteristics and Sustainable Firms' Performance: Evidence From the Financial Sector in Bangladesh",
+    "authors": "Karim R.; Roshid M.M.; Dhar B.K.; Nahiduzzaman M.; Kuri B.C.",
+    "year": "2024",
+    "doi": "10.1002/bsd2.70059",
+    "abstract": "This study examines how audit committee characteristics influence sustainable firms' performance within Bangladeshi commercial banks. Using data from 26 publicly traded banks over 13 years (2011–2023), this research investigates the impact of audit committee size, independence, and meeting frequency on both financial and market-based performance metrics. Specifically, the findings reveal that larger audit committees (ACs) are associated with higher market valuation, indicating that committee size contributes to strategic oversight and governance effectiveness. Independent audit committee members also enhance both financial (Return on Assets) and market-based (Tobin's Q) performance, underscoring their role in promoting transparency, accountability, and alignment with sustainable goals. However, frequent audit committee meetings correlate with diminished performance, suggesting that overly frequent sessions may lead to inefficiencies rather than improved oversight. These results indicate that structuring ACs with balanced size and independence and avoiding excessive meetings, is essential to support sustainable growth, particularly in emerging economies such as Bangladesh. The study contributes to corporate governance and sustainability literature by providing empirical insights into audit committee practices that align governance structures with long-term corporate strategy and sustainable growth. Practical implications include the potential for regulatory reforms that enhance corporate governance, focusing on committee composition and meeting practices to foster sustainable firm performance in the financial sector. © 2024 The Author(s). Business Strategy and Development published by ERP Environment and John Wiley & Sons Ltd.",
+    "source": "Business Strategy and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

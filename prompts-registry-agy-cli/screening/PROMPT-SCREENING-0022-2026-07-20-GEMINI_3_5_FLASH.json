@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0022-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Love, Lies, and Larceny: One Hundred Convicted Case Files of Cybercriminals with Eighty Involving Online Romance Fraud",
+    "authors": "Soares A.B.; Lazarus S.; Button M.",
+    "year": "2025",
+    "doi": "10.1080/01639625.2025.2482824",
+    "abstract": "This article examines 100 convicted case files of cybercriminals, 80 of which concern online romance fraud. While all were prosecuted by the Economic and Financial Crimes Commission in Nigeria, many involve multiple offenses, including crypto investment fraud and hacking. The study provides critical insights into offender profiles and the criminal justice system’s approach to cybercrime enforcement. Drawing on the Space Transition Theory (STT), the study highlights the transient and intermittent nature of criminal activities in cyberspace. The findings reveal that most offenders are young males aged 18–28, predominantly university undergraduates or graduates. Notably, 96% of offenders hail from southern Nigeria, and 80% of crimes involve romance fraud. While perceptions of leniency in cybercrime punishments persist, 96% of offenders acted as primary perpetrators, with 2% serving as mules or accomplices and another 2% adopting dual roles. By relying on actual case files of online offenders rather than online profiles, which are often fake, this study offers unique insights that can inform future research and support evidence-based strategies to address cybercrime in Nigeria and beyond. © 2025 Taylor & Francis Group, LLC.",
+    "source": "Deviant Behavior"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2185-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Systemic process management environment for building distributed locational systems",
+    "authors": "Assimakopoulos N.A.",
+    "year": "2000",
+    "doi": "10.1016/S1047-8310(00)00033-X",
+    "abstract": "This article describes the architecture of a generic platform for building distributed locational systems over stand-alone applications. The proposed platform integrates ideas and technology from areas such as distributed and parallel databases, transaction processing systems, and workflow management. The main contribution of this research effort is to propose a \"kernel\" locational system providing the essentials for distributed processing and to show the important role database technology may play in supporting such functionality of workflow management. These include a powerful process management environment using the principles of the Problem Structuring Methodology (PSM), which it created as a generalization of workflow ideas and incorporated transactional notions such as spheres of isolation, atomicity, and persistence and a transactional engine enforcing these \"quality guarantees\" based on the nested and multi-level models. It also includes a tool kit providing externalized database functionality enabling physical database design over heterogeneous data repositories. © 2000 Elsevier Science Inc.",
+    "source": "Journal of High Technology Management Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

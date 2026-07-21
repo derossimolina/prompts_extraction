@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0350-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From Placement to Integration: A Parametric Study of Cryptocurrency-Based Money Laundering Techniques",
+    "authors": "Almeida H.; Pinto P.; Fernández Vilas A.",
+    "year": "2025",
+    "doi": "10.3390/risks13120249",
+    "abstract": "The widespread adoption of cryptocurrencies has transformed the financial landscape by enabling swift, decentralised transactions. However, the pseudonymous nature of digital currencies has also fuelled illicit activities, such as money laundering. Criminals perform money laundering to access illicitly acquired funds without detection and convert illegally obtained assets into untraceable commodities, seamlessly integrated into the financial system. Although new regulatory measures have been introduced, illicit actors continue to exploit various methods, from peer-to-peer exchanges to cryptocurrency mixing services, to obscure the origins of illegal funds. This study presents a parametric analysis of these methods, examining dimensions such as duration, number of actors, contextual requirements, operational difficulty, traceability, and costs across each stage of the money laundering process: placement, layering, and integration. The analysis indicates that, while more sophisticated techniques may provide a higher degree of anonymity, they simultaneously require specialised technical expertise and meticulous planning. Consequently, there is a trade-off between the level of privacy attainable and the operational complexity inherent to each method. By systematically comparing these strategies, this analysis aims to contribute to a deeper understanding of cryptocurrency-based money laundering techniques, providing insight for more effective prevention and mitigation measures for both regulatory authorities and the financial sector. © 2025 by the authors.",
+    "source": "Risks"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

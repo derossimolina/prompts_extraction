@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0840-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Prosecution in Brazilian specialized federal courts: cartography of money laundering, criminal organizations, and crimes against the national financial system trials; [A persecução penal nas varas federais especializadas brasileiras: cartografia dos processos de lavagem de dinheiro, organização criminosa e crimes contra o sistema financeiro nacional]; [La persecución en los tribunales federales especializados de Brasil: cartografía de los procesos por lavado de dinero, organizaciones criminales y delitos contra el sistema financiero nacional]",
+    "authors": "Madeira L.M.; Londero D.; Geliski L.",
+    "year": "2024",
+    "doi": "10.1590/0034-761220230383x",
+    "abstract": "The paper provides a cartography of money laundering trials and criminal organizations, focusing on the performance of specialized federal courts, demonstrating the effects of institutional design over nearly thirty years. From the analysis of implementation maps of specialized justice, relevant questions emerge: (i) are there contrasting explanations for the creation of courts, justified by the low number of cases reaching federal courts shortly after the first years of the money laundering law’s promulgation, especially due to lack of knowledge and expertise in dealing with such crimes?; (ii) to what extent the creation of structures is related to the increase in money laundering and organized crime cases?; and (iii) what is the trajectory of prosecution in different states over the decades corresponding to the emergence and decline of specialized judicial policy? We adopt a descriptive approach by cross-referencing data on the existence of specialized courts with data on lawsuits. The mapping allowed for the spatialization of Brazilian states from 1996 to 2022 and the effects of criminal lawsuits for each state between 2020 and 2022. We identified a prior demand for specialization in organized crime. In contrast, money laundering lawsuits were nonexistent at the beginning of the specialization process and took time to materialize. On the other hand, crimes against the National Financial System were absorbed by specialized courts to justify the creation of judicial policy. These crimes began to have an expansive trajectory throughout the country, affecting the triad of macro-criminality in the specialized judicial system. Even with the specialization movement, effective money laundering and organized crime convictions are rare. © 2024, Fundacao Getulio Vargas. All rights reserved.",
+    "source": "Revista de Administracao Publica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1517-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Taking loan sharking into account: A case study of Chinese vest-pocket lenders in Holland",
+    "authors": "Soudijn M.R.J.; Zhang S.X.",
+    "year": "2013",
+    "doi": "10.1007/s12117-012-9155-3",
+    "abstract": "Chinese organized crime has long been accused of playing an active role in the illicit usury world, except that there are no known empirical studies depicting how it is actually done. A rare opportunity arose when a Dutch police agency seized one set of financial records documenting detailed transactions of a loan shark working incognito inside a Dutch casino. A detailed analysis of these accounting records suggests that the Chinese loan sharks work with a wide range of clients, primarily Chinese but also non-Chinese. Exorbitant interests were levied on the loans and large volumes of cash were loaned out, with the vast majority accounts in good standing. The bookkeeping records revealed a rather smooth business transaction environment, where some customers were acquaintances from connected social networks, while others were not. Although the seized records left some questions unanswered, the case provided a rarepeek into a secretive financial world that has remained largely unknown to the research community. © 2012 Springer Science+Business Media, LLC.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0164-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Extended Nature of Trading Norms Between Cryptocurrency and Crypto-asset: Evidence from Indonesia and Japan",
+    "authors": "Sugianto F.; Tokuyama S.",
+    "year": "2024",
+    "doi": "10.15294/LSLR.V8I1.14063",
+    "abstract": "This article is evidently about the comparison between Indonesia and Japan and their views on Crypto as a commodity. It starts with a brief elaboration on the legal standing of cryptocurrency in Indonesia and Japan. In Indonesia, Cryptocurrency is legal only as a commodity as the Ministry of Trade Regulation No. 99 of 2018 formally authorized crypto asset trading and decreed it lawful. The Indonesian Commodity Futures Trading Supervisory Authority, or BAPPEBTI, published Regulation No. 5 of 2019 to provide a thorough regulatory framework for the crypto-assets future. In Japan, there is no omnibus law regulating blockchain based coins and the legal status of tokens are determined under the uses and functions. News outlets report that there may be in talks of a law of the possibility of the seizure of crypto that has been stolen or has been illegally acquired by organized crime due to the law of the type of assets that can be seized are physical property, monetary claims, and movable assets such as machinery, vehicles, tools, and supplies, with crypto falling under none of those categories. The conclusions are, first, Indonesia has vastly improved its Cryptocurrency regulations with BAPPEBTI’s Regulation No. 8 of 2021. with the implementation of (a) licensing requirements; (b) rights and obligations; and (c) the responsibilities of key players involved in the physical crypto-asset market, such as futures exchanges, crypto asset traders, futures clearing agencies, and crypto-asset storage providers. Second, Indonesia’s regulations almost mirror itself with Japan’s behavior towards crypto, with differences only arising in the specific percentages of storage, equity, and infrastructure. © 2024 Authors.",
+    "source": "Lex Scientia Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

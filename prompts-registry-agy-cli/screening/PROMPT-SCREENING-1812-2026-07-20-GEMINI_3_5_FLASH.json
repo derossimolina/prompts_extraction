@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1812-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Customer due diligence (CDD) mandate and the propensity of its application as a global AML paradigm",
+    "authors": "Mugarura N.",
+    "year": "2014",
+    "doi": "10.1108/JMLC-07-2013-0024",
+    "abstract": "Purpose – It has become customary for states or regulatory domains to come together and evolve normative regimes to deal with overlapping exigencies such as money laundering. Over the past two decades, there has been a proliferation of global AML laws designed to foster international cooperation against money laundering and its predicate crimes. In this same vein, some states have adopted domestic AML laws designed with an ethos of extra-territorial dimension as a caution against the threats posed by money laundering crimes. The paper aims to critically examine CDD to tease out the possibility of harnessing it as a global AML paradigm. Design/methodology/approach – The paper was written by critically examining primary and secondary data sources. In terms of primary data, the author has studied the relevant provision of different AML legislation such as BSA (1970), MLCA (1986), and PATRIOT (2001) Act in the USA; and FSMA (2000) and POCA (2002) in the UK. The author then evaluated these data in the context of the challenges of harnessing CDD across countries. In terms of secondary data sources, the author utilised data in academic text books, journal papers, electronic sources (web sites of AML agencies), and policy and research papers from specialist institutions such as FATF. Findings – The findings corroborate the thesis that much as CDD is an important AML measure, it needs to be streamlined and implemented with care to apply across the board. Research limitations/implications – The paper was written largely by way of library-based research. The author did not carry out interviews to corroborate some of the secondary data sources used in writing it. Carrying out interviews would have helped to minimise the potential for bias secondary data sources used was generated. Practical implications – It is anticipated that this paper can be utilised to foster desired strategic and policy changes at a multiple institutional levels. Originality/value – The paper is one of its kind to be written in its context. It will therefore make a viable contribution to the study of money counter-measures and how they are harnessed globally. It is therefore a must read! © 2014, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

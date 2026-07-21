@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1066-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Investigating the relationship between CSR and financial performance based on corporate reputation: Evidence from Vietnamese enterprises",
+    "authors": "An Nguyen K.T.; Ngoc Mai K.; Man Cao M.",
+    "year": "2021",
+    "doi": "10.1504/GBER.2021.113118",
+    "abstract": "This study investigates the relationship between corporate social responsibility (CSR) practices and financial performance as mediated by corporate reputation in a developing context. A total of 869 respondent firms from the manufacturing, real estate, trade, and service sectors participated in the research. Factor analysis and structuring equation modelling were used to investigate the direct and indirect effects of the identified factors. The results showed CSR practices positively affect financial performance mediated by corporate reputation. However, CSR practices in the legal, environmental, and philanthropic area have positive effects, while economy-oriented CSR practices do not show any significant effect. As such, firms should invest more in CSR in legal, philanthropic, and environmental areas to improve corporate reputation, which in turn leads to good financial performance. Copyright © 2021 Inderscience Enterprises Ltd.",
+    "source": "Global Business and Economics Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

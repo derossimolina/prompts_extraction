@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1672-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Factors related to the Central Bank instructions on money laundering",
+    "authors": "Jaara O.O.; Kadomi A.M.",
+    "year": "2017",
+    "doi": "10.1108/JMLC-07-2016-0028",
+    "abstract": "Purpose: This paper aims to investigate Jordan’s framework specifics of the anti-money laundering (AML) policy and factors related to the Central Bank instructions on money laundering. Design/methodology/approach: A questionnaire has been distributed to a random data sample of 100 branch bank managers and supervisors who have a sufficient experience in this issue, and a t-test statistical technique has been used. Findings: The results revealed that commercial banks of Jordan are committed to the instruction of the central bank, and they are highly qualified in all investigated measures. Practical implications: This study supports the Central Bank of Jordan’s efforts in combating money laundering, which encourage all commercial banks of one country to follow the same adopted regulations to identify and report transactions of suspicious behaviour: investigate capability of the tellers and customer account representatives to report such activities, use AML software, filter customer’s data classify available information according to levels of suspicion or based on the uncertain customers without being subject to the institutional secrecy jurisdiction and to work under cooperative management. Originality/value: It has been recommended to utilize more advanced technology, intensify training and ensure for more knowing clients’ knowledge. The importance of this paper is to insure the following: first, the banking system is obliged to recognize and report suspicious money laundering transactions, regarding up to date the FATFA equivalence status of other countries; second, increase the awareness and ensure the central bank efforts’ success; third, assure the adequacy of different issues such as the internal control system tools; devices or tools availability; and sufficient employees’ qualifications in facing launderers attempts; fourth, to be sure that suspected transactions are checked against any commercial bank records; finally, to be sure that commercial banks are giving enough considerations to all the AML proactive actions such as the regulations of checking while opening an account, accepting money on deposit, giving loans, issuing a debit card, traveller’s check and collecting enough information about new clients. © 2017, 2017, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

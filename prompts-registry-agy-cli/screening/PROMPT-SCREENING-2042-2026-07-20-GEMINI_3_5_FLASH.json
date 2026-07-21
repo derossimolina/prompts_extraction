@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2042-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Economic development, business strategy, and corporate restructuring in India",
+    "authors": "Aggarwal R.",
+    "year": "2009",
+    "doi": "10.1108/17554190910963181",
+    "abstract": "Purpose – The purpose of this paper is to review the reasons for the increased pace of restructuring of Indian industry in response to increasing market efficiencies and declining transactions costs in India. Design/methodology/approach – This paper uses theory of transactions cost economics as the theoretical framework for analyzing the changing structure of Indian industry. Findings – As in many developing countries, the Indian business environment has reflected high/transactions costs so that Indian companies found it more efficient to diversify and internalize many unrelated activities. Consequently, most large Indian businesses have traditionally been widely diversified with vertically integrated group structures. As economic deregulation and adoption of internet technology reinforce each other, Indian transactions costs are declining and vertical integrated and diversified group structure is likely to become inefficient and a disadvantage. Practical implications – Declining transactions costs will continue to force significant and sudden restructuring and specialization among the large and major Indian conglomerates with rising volumes of mergers and acquisitions activity in India. This will require managers with new skill sets that include strategic analysis and undertaking successful corporate re/structuring. Originality/value – The paper presents an assessment of the impact on Indian business of new technologies and economic deregulation in India. © 2009, Emerald Group Publishing Limited",
+    "source": "Journal of Indian Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

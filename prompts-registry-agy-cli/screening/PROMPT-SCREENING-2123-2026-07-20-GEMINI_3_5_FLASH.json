@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2123-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Electronic gallipoli?",
+    "authors": "Cobb A.",
+    "year": "1999",
+    "doi": "10.1080/00049919993926",
+    "abstract": "As an example of a typical OECD state, Australia is vulnerable to information attack. There are many exposed critical nodes in key elements of the National Information Infrastructure (NII) that could be exploited merely by the mischievous or, more seriously, by aggressors. Interdependence among systems, such as telecommunications, energy, and financial networks, as well as a general dependency in modern life on information systems, present new challenges to a wide range of government and corporate authorities. Criminals and organised crime syndicates already utilise weaknesses in NII at a significant and growing cost to society. There are grounds to believe that potential threats to NII exist which are likely to increase in time as terrorists and aggressive states seek to exploit new technologies that can cripple societies while permitting a degree of anonymity to the attacker. Nevertheless, there is a range of strategies that can be adopted to protect both specific units as well as the system that comprises NII. Some are quite simple solutions, while others require more coordination but they do not have to be prohibitively expensive. A comprehensive strategy for Australia which seeks to build on its strengths as an information economy, complemented by making its NII more robust, would be a good starting point to enable Australia to engage successfully in the economy and society of the new millennium.",
+    "source": "Australian Journal of International Affairs"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

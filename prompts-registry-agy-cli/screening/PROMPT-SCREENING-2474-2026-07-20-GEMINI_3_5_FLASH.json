@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2474-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Companies re-structuring and tax relief",
+    "authors": "Garrett, JABD",
+    "year": "2022",
+    "doi": "10.24840/2182-9845_2022-0001_0004",
+    "abstract": "This article intends to discuss the current status of the effects of company insolvency and bankruptcy on its unpaid taxes within the legal proceedings leading to company re-structuring. Addresses, in particular, the possibility of extinguishing, reducing or delaying payment of these unpaid taxes through the analysis of the pertinent legal rules, either from the tax law or the insolvency law, the court decisions and legal writers' opinions. And concludes that the Portuguese law does not prevent the reduction or other limitations to taxes due in these situations, providing the conditions imposed by the insolvency law are met.",
+    "source": "RED-REVISTA ELECTRONICA DE DIREITO"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

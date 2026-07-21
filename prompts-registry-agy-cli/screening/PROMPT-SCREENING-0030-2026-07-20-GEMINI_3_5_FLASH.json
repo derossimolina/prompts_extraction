@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0030-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Encounters with Professional Money Launderers; An Analysis of Financial Transactions as Reported by Gatekeepers",
+    "authors": "Soudijn M.",
+    "year": "2024",
+    "doi": "10.1007/s10610-024-09588-8",
+    "abstract": "Reporting entities have been made jointly responsible for protecting the financial system against money laundering. However, because of privacy rules, law enforcement is not allowed to share details about underlying criminal evidence with private parties. Gatekeepers thus do not have background information on predicate offenses or other criminal acts associated with a transaction, nor do they know whether their clients are individuals who the investigative authorities designate as professional money launderers (PLMs). At the same time, gatekeepers unknowingly come across such clients who, because of their financial behaviour or other reasons, are subsequently reported to the authorities. This article examines what we can learn from these reported transactions. It combines police registrations of 264 PMLs connected to drug trafficking with Suspicious Activity Reports filed by reporting entities. It turns out that over 5,000 reported transactions are connected to 68% of the PMLs. The study also shows several differences between categories of PMLs although recurring money laundering themes are cash money flow, loans and real estate. A key finding is that gatekeepers report more diffuse financial conduct compared to the literature about PMLs. © The Author(s), under exclusive licence to Springer Nature B.V. 2024.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

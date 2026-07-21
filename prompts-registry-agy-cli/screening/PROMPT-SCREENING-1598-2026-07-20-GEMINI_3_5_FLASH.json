@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1598-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Migration and its Impact on Security of Central Asia",
+    "authors": "Mohapatra N.K.",
+    "year": "2013",
+    "doi": "10.1177/0974928413481883",
+    "abstract": "Migration is emerging as an important source of threat to the peace and security of Central Asia. This is happening, notwithstanding the fact that this region is receiving substantial amount of external remittance. Apart from lack of economic opportunities, existence of blurred boundaries, emergence of authoritarian regimes with a tilt towards strong ‘ethnic state’ as well as the alienation of substantial number of population are contributing to the process of flow of illegal migration. This results in loss of young population, growing ethno-nationalistic conflict, spurt in religious terrorism, proliferation of narco-trafficking as well as HIV/AIDS in this region. These above-mentioned threats are generating a lot of ‘insecurity’ in Central Asia. The best way to meet the challenges posed by migration is to ensure ‘sustainable security’ in this region by adopting a broader approach ranging from cooperation among the states of this region so also to ensure human security at the ground level. © 2013 Indian Council of World Affairs (ICWA).",
+    "source": "India Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

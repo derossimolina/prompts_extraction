@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1343-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A regional growth ecology, a great wall of capital and a metropolitan housing market",
+    "authors": "Ley D.",
+    "year": "2021",
+    "doi": "10.1177/0042098019895226",
+    "abstract": "In a narrative framed by Harvey Molotch’s growth machine thesis, this article examines the globalisation of property in gateway cities, and its contribution to house price inflation in Vancouver, the least affordable market in North America. In response to a floundering British Columbia (BC) economy, a favourable investment and immigration climate welcomed capital and invited capitalists to re-locate their economic skills. Substantial funds flowed to Vancouver from the buoyant Asia Pacific, from distant investors and wealthy immigrants. Capital flows were facilitated by a powerful growth coalition, as the provincial government benefited significantly from these funds, and held a common interest with a vigorous trans-Pacific property industry. Supporting this growth coalition, the deregulation of private institutions and the under-resourcing of public agencies working in the capital/real estate nexus provided an ecology favourable to the ‘animal spirits’ of the market, including real estate opportunism and money laundering. Such a growth ecology, exacerbating severe unaffordability, may exist in other globally networked cities, though relations are rarely so well developed and so powerful in their effects. © Urban Studies Journal Limited 2020.",
+    "source": "Urban Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

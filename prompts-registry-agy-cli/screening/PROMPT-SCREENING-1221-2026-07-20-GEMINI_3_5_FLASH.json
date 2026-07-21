@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1221-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Non-recourse project financing for concentrated solar thermal power",
+    "authors": "Geroe S.",
+    "year": "2019",
+    "doi": "10.1016/j.jup.2019.100937",
+    "abstract": "Non-recourse project financing can play a significant role in scaling up total investment in concentrated solar thermal power (CSP). Non-recourse project financing is designed to identify, allocate, and mitigate risks through project structuring and contracting. These techniques can be utilised to address risks specific to CSP projects. Complementary de-risking techniques, such as debt guarantees, can facilitate non-recourse project financings at bankable levels of return in higher risk contexts. Technological advances and learning through global industry scale-up have delivered major reductions in CSP plant development costs. Ambitious CSP targets in China and other jurisdictions underpin future CSP market development. Hybrid off-take models in current utility-scale CSP projects are utilising thermal storage technology to sell rapid response dispatchable power into electricity wholesale markets at peak periods, enabling lower long-term PPA prices at other times. These developments underpin CSP as cost-competitive with solar PV with battery storage and other forms of low emissions technology. Based on an analysis of selected CSP non-recourse project financings, an emerging contractual model of non-recourse project financing risk mitigation and complementary de-risking measures is identified. While the key features of this model are applicable to large-scale projects in developing countries, it is adaptable to meet the requirements of a wide range of projects. In this way, non-recourse project financing can play a pivotal role in the feasibility of large-scale projects in a potentially critical technology for low-carbon energy development that may otherwise be difficult to finance. © 2019",
+    "source": "Utilities Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1421-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Statistical Diagnosis of Customer Risk Ratings in Anti-Money Laundering Surveillance",
+    "authors": "Rambharat B.R.; Tschirhart A.J.",
+    "year": "2015",
+    "doi": "10.1080/2330443X.2014.1004005",
+    "abstract": "A statistical framework is presented to assess customer risk ratings used in anti-money laundering (AML) surveillance. We analyze data on a sample of 494 customers from a U.S. national bank where the customers are rated from Low to High over 13 time periods. We model these ratings using an ordinal panel data regression framework with random effects, using a set of covariates provided by the bank. We derive the likelihood of the model and provide maximum likelihood estimates (MLEs) of the model parameters. Our findings unveil key policy-related insights about AML surveillance. We provide evidence to support more granular monitoring of suspicious customers, especially those characterized as higher risk, and we argue that this granular surveillance optimizes finite resources in bank operations. Furthermore, we provide two applications using these data, one concerning predictive inference and the other about log-linear modeling. Our analysis provides an approach to diagnose potential limitations with real-time AML surveillance systems. We argue that statistical diagnosis in AML surveillance has invaluable benefits within the microsphere of a single financial institution, and, more importantly, that these benefits help address important public policy issues. © 2015, © 2015. Published with license by American Statistical Association.",
+    "source": "Statistics and Public Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

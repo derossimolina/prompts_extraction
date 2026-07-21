@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2019-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Lessons in structuring derivatives exchanges",
+    "authors": "Tsetsekos G.; Varangis P.",
+    "year": "2000",
+    "doi": "10.1093/wbro/15.1.85",
+    "abstract": "The global deregulation of financial markets has created new investment opportunities, which in turn require the development of new instruments to deal with the increased risks. Institutional investors who are actively engaged in industrial and emerging markets need to hedge their risks from these cross-border transactions. Agents in liberalized market economies who are exposed to volatile commodity price and interest rate changes require appropriate hedging products to deal with them. And the economic expansion in emerging economies demands that corporations find better ways to manage financial and commodity risks. The instruments that allow market participants to manage risk are known as derivatives because they represent contracts whose payoff at expiration is determined by the price of the underlying asset-a currency, an interest rate, a commodity, or a stock. Derivatives are traded in organized exchanges or over the counter by derivatives dealers. Since the mid-1980s the number of derivatives exchanges operating in both industrial and emerging-market economies has increased substantially. What benefits do these exchanges provide to investors and to the home country? Are they a good idea? Emerging markets can capture important benefits, including the ability to transfer risks, enhance public information, and lower transaction costs, but the success of a derivatives exchange depends on the soundness of the foundations on which it is built, the structure that is adopted, and the products that are traded.",
+    "source": "World Bank Research Observer"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

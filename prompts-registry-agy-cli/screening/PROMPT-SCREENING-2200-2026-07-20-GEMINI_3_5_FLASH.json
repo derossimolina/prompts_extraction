@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2200-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Street-level informal economic activities: Estimating the yield of begging in Brussels",
+    "authors": "Adriaenssens S.; Hendrickx J.",
+    "year": "2011",
+    "doi": "10.1177/0042098009360688",
+    "abstract": "This article develops and applies a method to estimate the revenues of beggars in Brussels. This is relevant for three reasons. First, in the literature on the informal economy, we lack reliable empirical knowledge of informal street-level activities like begging, substantiating the expectation that beggars' income will be low. Secondly, popular representation of beggars often depicts them as criminal and wealthy. Finally, recent legislation builds on the idea of criminal organisations behind beggars. Building on an analysis of existing attempts to measure beggars' income, we aim for a triangulation with data from three different sources: observation, self-reports and quasi-experimental observations. This triangulation allows for more reliable and valid conclusions. Hypotheses based upon popular images and the criminalisation of begging are dismissed. The evidence does support the hypothesis based upon the literature on informal activities. © 2011 Urban Studies Journal Limited.",
+    "source": "Urban Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

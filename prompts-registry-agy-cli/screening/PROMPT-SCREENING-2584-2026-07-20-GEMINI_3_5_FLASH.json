@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2584-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sukuk for the Financing of Non-revenue Water Management: Malaysia as a Case Study",
+    "authors": "Thajudeen, KS",
+    "year": "2017",
+    "doi": "10.1007/978-3-319-59342-5_2",
+    "abstract": "Water is essential for life, and it is increasingly becoming scarce. The World Economic Forum's Global Risks 2015 report stated that global water crises are the biggest threat facing the planet over the next decade. Despite the fact that water scarcity is going to be a global issue, a staggering 32 billion cubic meters of treated water is lost to urban supply systems around the world. The World Bank reported that more than US$14 billion is lost every year by water utilities worldwide, more than a third of that by water utilities in developing countries. By reducing the water loss, 8 billion cubic meters per year of treated water can provide water to an additional 90 million people who currently lack access to clean potable water. The terminology often used for the water that is lost is non-revenue water (NRW). NRW is basically the difference between the amount of water supplied to the distribution system and the amount of water billed to consumers. Water is lost through leaking pipes or theft. Eliminating NRW altogether is not feasible, though reducing the current level to half is a reasonable target in most developing countries. Although the NRW issue is a global phenomenon, it can only be understood and acted based on its local conditions. For that reason, Malaysia is taken as a case study. The NRW problem is an issue for the water utilities in Malaysia as some states lose nearly 60% of their treated water (MWIG 2015). The water utilities do not spend on NRW management, as the cost of maintenance is higher than the revenue received from consumers due to low tariffs. This research studies the feasibility of using sukuk to finance the NRW problem in Malaysia. The methodology used is a cost-benefit analysis. The results indicate saving water through leakage preventions is a profitable venture with benefits amounting to RM2.13 bil/year and able to service additional 26.8 million people. This study defines the benefits of reducing NRW in terms of value and solving the issue through structuring Green Sukuk to finance NRW work. Due to the universality of the issue, the sukuk structure could be replicated with specificities related to each country. The limitation of the study is that it only looks at part of the NRW, which is the physical losses, and not into apparent losses, which includes theft and meter inaccuracies.",
+    "source": "DEVELOPMENTS IN ISLAMIC FINANCE: CHALLENGES AND INITIATIVES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

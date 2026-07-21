@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2079-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exposure of financial institutions to criminal liability",
+    "authors": "Baldwin F.N.",
+    "year": "2006",
+    "doi": "10.1108/13590790610707537",
+    "abstract": "Purpose Since, at least 9/11 financial institutions and financial intermediaries are considered to be at the forefront in the international attempt to halt illicit money transfer. Most financial institutions if involved at all play an unknowing or lax, but major role in dictating money laundering schemes. The purpose of this paper is to argue that to avoid sanctions including criminal liability, financial institutions and financial intermediaries must be better prepared and willing to assess prototypical money laundering typologies. To do otherwise will invite civil and criminal liability. Design/methodology/approach This paper examines legislative pronouncements in general and US caselaw in particular in order to assess compliance and liability: real or imagined. Findings There appears to be considerable agreement concerning at least one goal of terrorists attacks and that is to disrupt directly and indirectly economic global stability. Further, those charged with the task of identifying terrorist assets in a financial system and developing a profile of terrorist financial transactions has, at least according to unclassified documents, proved to be futile. Closer international investigation and co-operation appears to be more a slogan than a reality. Originality/value Reviews examples of blatant illegal acts of money laundering within the banking community and examines the exploding real estate market and its transmigration into the world of laundering illicit money. © 2006, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

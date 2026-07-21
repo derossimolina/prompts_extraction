@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0048-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal frameworks for blockchain applications: a comparative study with implications for innovation in Europe",
+    "authors": "Von Hafe F.; Wagle Y.; Guede-Fernández F.; Giordano A.P.; Silva L.; Azevedo S.",
+    "year": "2025",
+    "doi": "10.3389/fbloc.2025.1655230",
+    "abstract": "Introduction: The decentralised nature of blockchain technology challenges traditional legal frameworks, creating regulatory gaps in asset classification, taxation, and consumer protection. In Europe, divergent approaches, from specialised blockchain laws to adaptations of general financial legislation, hinder cross-border deployment and limit blockchain’s potential. These disparities make compliance difficult for firms and increase the risks for consumers. This study compares blockchain regulations across six European geographies: Switzerland, Liechtenstein, and Malta (blockchain-specialised regulators) versus the European Union (EU), Estonia, and Portugal (generalist regulators) to map key divergences in legal maturity, asset classification, taxation, anti-money laundering/know-your-customer enforcement, and supervisory structures. A secondary objective is to evaluate how these differences impact the scalability of innovation. Methods: This study compares blockchain regulations across six European jurisdictions through a three-phase analysis. The scoping phase identified five regulatory themes and selected geographies based on maturity, innovation, and economic specialisation. Primary legal texts and policy data (2020–2025) were analysed to map convergences and divergences between blockchain-specialised and generalist regulators. Results: The comparison reveals differences: blockchain-specialised geographies have dedicated Distributed Ledger Technology laws, centralised oversight, and crypto-friendly tax regimes; for example, Switzerland exempts private capital gains, and Malta offers Value Added Tax exemptions. In contrast, generalist regulators, such as the EU’s Markets in Crypto-Assets Regulation (MiCA), which theoretically harmonise rules, face inconsistent enforcement across member states. Meanwhile, Portugal’s tax exemptions and Estonia’s rigid capital requirements create opposing market incentives. Only Liechtenstein’s Blockchain Act comprehensively regulates Decentralised Finance, whereas other geographies either adapt existing financial regulations or do not regulate it. NFTs face fragmented treatment, are excluded under MiCA, classified as securities in Estonia, and left to case-by-case analysis in Switzerland, which contributes to market uncertainty. Discussion: This study reveals a tension in blockchain governance: specialised geographies demonstrate that comprehensive, tailored frameworks foster mature ecosystems. Conversely, generalist approaches struggle with fragmentation, as seen in MiCA’s uneven enforcement and Estonia’s restrictive licensing. Yet, regulatory ambiguity carries paradoxical benefits; Portugal’s minimal rules and the EU’s transitional gaps have also fueled competitive innovation. For policymakers, these results underscore the importance of striking a balance between oversight and flexibility to foster and scale up innovation. Copyright © 2025 Von Hafe, Wagle, Guede-Fernández, Giordano, Silva and Azevedo.",
+    "source": "Frontiers in Blockchain"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

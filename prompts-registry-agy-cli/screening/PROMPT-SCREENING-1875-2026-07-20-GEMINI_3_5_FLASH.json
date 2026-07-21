@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1875-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Adopting a risk-based approach to AMLCTF compliance: The Australian case",
+    "authors": "Sathye M.; Islam J.",
+    "year": "2011",
+    "doi": "10.1108/13590791111127741",
+    "abstract": "Purpose - The purpose of this paper is to develop a possible method of money laundering and terrorism financing (MLTF) risk assessment in non-bank entities that are the subject matter of anti-money laundering and counter terrorism financing (AMLCTF) Tranche II in Australia. Design/methodology/ approach - The objectives are achieved by proposing a scorecard of risk assessment under its various dimensions drawing from the literature on credit-scoring models. The method of analogy has been used and appropriate changes made to the elements of typical credit-scoring model to arrive at a risk assessment model under AMLCTF II. The theory in which the paper is grounded is theories of money laundering regulation. Theory suggests an inverse relationship between money laundering regulation and the amount of money laundering. The more effective the regulatory mechanism the more costly it is for money launderers to launder funds and the lesser the amount of money laundering. Findings - It was found that the AMLCTF Tranche II will impose several obligations the AMLCTF Tranche II legislation will impose several obligations on the entities such as accounting firms. These obligations require the identification, mitigation and management of MLTF risk arising out of provision of product/service. Two types of risks need to be managed by entities: regulatory risk and business risk. This paper, therefore, proposed a possible method for approaching the issue of risk assessment drawing from the literature on credit-scoring models. Research limitations/implications - Future studies can undertake such surveys and gather more empirical evidence regarding the application of the model suggested and its utility in real world scenarios. Practical implications - The approach developed in this paper has value to the policy makers in the government in addressing risk assessment policy issues in the MLTF area in the context of non-bank entities such as professional services, e.g. that of accountants. The relevant bodies will also find value in this paper because currently there is no guidance as to how to address the issue. Also, future academics/researchers can take this first approach as a guide and go on do further research in this area and to refine policy issues in this area. No established practice exists in this area at the moment. This paper attempts to provide a guideline. Originality/value - This paper addresses a major unanswered question in the subject of anti-money laundering. The question addressed in this paper, which has not been researched before is how MLTF risk can be assessed in the context of non-bank entities such as professional services, e.g. that of accountants. The model will be useful to user groups such as organizations dealing with bullions, precious stones and precious jewellery, real estate, professional and business services such accounting, auditing and financial services for implementing the AMLCTF Tranche II. The relevant bodies will also find value in this paper because currently there is no guidance as to how to address the issue. Also future academics/researchers can take this first approach as a guide and go on do further research in this area and to refine policy issues in this area. © 2011 Emerald Group Publishing Limited. All rights reserved.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0277-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Compliance with anti-money laundering laws and their impact on banking operations in Pakistan: banking expert’s opinion",
+    "authors": "Hassan S.S.U.; Sajid S.",
+    "year": "2026",
+    "doi": "10.1108/IJLMA-07-2024-0221",
+    "abstract": "Purpose – Despite sound anti-money laundering (AML) regulations and membership in the financial action task force, money laundering remains a severe concern faced by Pakistan because of its weak AML regime. This led to an investigation of the perceptions of banking expert’s regarding the AML law’s costs and complexity, mapping of compliance cost and measures taken by Pakistani banks in compliance with AML laws. Design/methodology/approach – A socio-legal study approach was adopted based on library-based, and interviews using social media platforms to treasure the experts’ opinions regarding the impact of AML laws on baking operations in Pakistan. A semistructured interview-based questionnaire was handed out to Pakistani banking officers. Findings – The findings revealed that, for banks to meet the AML obligation, they must overcome challenges including cost and complexity. Nevertheless, these costs are less expensive than the penalties assessed for noncompliance. Practical implications – Following AML regulations can help the banking industry grow, which, in turn, attracts more foreign investment by boosting consumer confidence. However, it is difficult and expensive to comply with these requirements. The current research hopes that the financial regulatory authorities of Pakistan will adopt more effective measures for efficient compliance with AML laws. Originality/value – The impact of compliance with AML laws on banking operations in Pakistan was examined in this study for the first time using banking officers’ opinions from various banks best of author’s knowledge. © 2024 Emerald Publishing Limited",
+    "source": "International Journal of Law and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

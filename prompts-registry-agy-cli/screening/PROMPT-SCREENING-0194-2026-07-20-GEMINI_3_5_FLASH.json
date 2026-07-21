@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0194-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Interconnected challenges: Examining the nexus of environmental crime and money laundering in the context of energy transition",
+    "authors": "Malakouti Z.; Hazrati M.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2025.100151",
+    "abstract": "Environmental crime, ranked as the fourth-largest criminal enterprise after drug trafficking, counterfeiting, and human trafficking, encompasses illegal activities such as mineral extraction, land clearance, and waste trafficking. These crimes are closely linked to financial crimes due to their lucrative nature and minimal risks. Climate change accelerates the need for energy transitions which, in turn, could lead to a rise in environmental crimes such as illegal mining and e-waste trafficking. This paper explores the nexus between environmental crime and money laundering as a type of financial crimes in the context of energy transition, focusing on preventing these illegal activities to enable a just transition to a net-zero energy system. Using a case study approach cantered on the Democratic Republic of the Congo and Nigeria, known for mineral wealth and e-waste hub respectively, it examines how recommendations from the Financial Action Task Force, including a risk-based approach,criminalisation, and suspicious transaction reports, can guide efforts to prevent environmental crimes. © 2025 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

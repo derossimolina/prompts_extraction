@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2493-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "STRATEGIC ALLIANCE STRUCTURING - A GAME-THEORETIC AND TRANSACTION COST EXAMINATION OF INTERFIRM COOPERATION",
+    "authors": "PARKHE, A",
+    "year": "1993",
+    "doi": "10.5465/256759",
+    "abstract": "Maintaining robust cooperation in interfirm strategic alliances poses special problems. Such relationships have received growing attention in recent research grounded in game theory, which has suggested that some alliance structures are inherently more likely than others to be associated with high opportunity to cheat, high behavioral uncertainty, and poor stability, longevity, and performance. The present study merged these theoretical insights with the logic of transaction cost economics in a general model of alliance structuring and tested it with data from ill interfirm alliances. Findings generally supported the model and hypotheses, suggesting the need for a greater focus on game theoretic structural dimensions and institutional responses to perceived opportunism in the study of voluntary interfirm cooperation.",
+    "source": "ACADEMY OF MANAGEMENT JOURNAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

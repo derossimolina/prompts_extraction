@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0706-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "‘We Have Conversations’: The Gangster as Actor and Agent in Russian Foreign Policy",
+    "authors": "Galeotti M.",
+    "year": "2023",
+    "doi": "10.1080/09668136.2022.2154316",
+    "abstract": "Representations of the role of organised crime in Russia range from characterising it as a dominant force to presenting it as controlled by the Kremlin. This has particular bearing on attempts to identify how, when and why it can be used as an instrument for activities abroad. Based on both secondary materials and interviews with practitioners and analysts in Russia and abroad, this article presents a picture that is essentially antagonistic, transactional and asymmetrical. © 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Europe - Asia Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

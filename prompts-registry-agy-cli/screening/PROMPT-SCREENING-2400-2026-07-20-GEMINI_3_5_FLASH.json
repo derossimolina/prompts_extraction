@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2400-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "IMPROVEMENT OF INTERACTION BETWEEN ROSFINMONITORING AND LAW ENFORCEMENT AGENCIES IN CONDUCTING INVESTIGATIONS",
+    "authors": "Koroleva, LP",
+    "year": "2025",
+    "doi": "10.52468/2542-1514.2025.9(2).87-96",
+    "abstract": "The subject of the research are the problems of organization and normative-legal regulation of interaction between the financial intelligence unit and law enforcement agencies in the process of combating crime. In Russia, the financial intelligence unit is organized according to the administrative type. Federal Financial Monitoring Service (Rosfinmonitoring) conducts financial investigations in accordance with anti-money laundering legislation, while law enforcement agencies conduct preliminary investigations in accordance with criminal procedure legislation. This leads to time lags and increased transaction costs of interaction between the competent authorities. The purpose of the study is to develop proposals to improve interaction between Rosfinmonitoring and law enforcement agencies when conducting investigations as part of interdepartmental investigative and operational groups. Methodology. General scientific and formal-dogmatic research methods were used. The main results. The article substantiates the necessity of organizing joint work between Rosfinmonitoring and law enforcement officials in interdepartmental investigative and operational groups. The key legal acts regulating the organization and activities of investigative and investigative-operative groups in Russia are reviewed. As a result of the study, amendments to the criminal procedure legislation and Rosfinmonitoring's regulations were proposed. A register of unified powers of Rosfinmonitoring officials when working interdepartmental investigative and operational groups has been developed. It may also be used when including officials of control and supervisory authorities authorized to investigate predicate offenses (tax, competition, etc.) in interagency investigative and operational groups. The general procedure for organizing the work of Rosfinmonitoring officials interdepartmental investigative and operational groups is described. It is recommended that the regulations on interaction between Rosfinmonitoring and law enforcement agencies the course of interagency investigations should be included in the federal standard for interagency cooperation in the sphere of combating money laundering and terrorism financing. In addition, it is recommended to adopt interdepartmental normative and legal acts that enshrine a simplified procedure for interaction and use of the results of financial investigations in criminal proceedings. Conclusions. The results of the study have practical significance and can be used to improve the effectiveness of interaction between the commissioner, control and supervisory and law enforcement agencies in the process of combating crime. This will not require revolutionary transformations of the status and powers of the financial intelligence unit.",
+    "source": "PRAVOPRIMENENIE-LAW ENFORCEMENT REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

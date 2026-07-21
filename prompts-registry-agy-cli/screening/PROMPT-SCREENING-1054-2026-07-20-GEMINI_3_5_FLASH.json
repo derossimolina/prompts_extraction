@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1054-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering control systems, external auditor specialization and tax haven use: An empirical analysis of U.S. multinational financial corporations",
+    "authors": "Al-Hadi A.; Taylor G.; Richardson G.; Eulaiwi B.",
+    "year": "2021",
+    "doi": "10.1111/ijau.12233",
+    "abstract": "This study investigates the association between money laundering control systems (MLCS) and tax haven use based on a sample of U.S. multinational financial corporations (MFCs). We also examine the impact of external auditor specialization on the association between MLCS and tax haven use. We find that MLCS is significantly negatively associated with tax haven use. Our result is also economically significant. Based on our regression estimates, a one-standard deviation increase in MLCS is associated with a decrease in tax haven use by around 2.75%. Additional analysis shows that external auditor specialization magnifies the negative association between MLCS and tax haven use. Overall, our study indicates that MLCS and the external audit function have important consequences for tax haven use by MFCs. © 2021 John Wiley & Sons Ltd",
+    "source": "International Journal of Auditing"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

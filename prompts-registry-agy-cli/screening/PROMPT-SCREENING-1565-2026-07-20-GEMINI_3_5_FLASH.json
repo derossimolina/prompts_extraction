@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1565-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Internal audit function and AML compliance: the globalisation of the internal audit function",
+    "authors": "Naheem M.A.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-05-2015-0020",
+    "abstract": "Purpose: This paper aims to consider the role of internal audit function (IAF) in relation to anti-money laundering (AML) compliance and oversight within global banking. The increasing globalisation of banking functions and the mirrored globalisation of financial crime require a renewed look at the role of internal audit. This paper critically examines the weaknesses in the current structure and proposes a new way of thinking about IAF. Design/methodology/approach: The paper uses secondary data to analyse the current problems with IAF from both theoretical and empirical perspectives. The agency dilemma of answering to two masters in the audit committee and management and the problems associated with this in the context of recent AML cases against banks are discussed. Findings: The main findings are that a new approach to internal audit is required that can operate effectively within a globalised banking and regulatory context, especially for AML compliance issues. A suggested approach is to develop regional audit committees and remove the internal stakeholder dilemma that is problematic to the IAF. Research limitations/implications: The paper focused primarily on the AML context, and IAF may have other functions within the bank. However, the theoretical and practical problems are equally as applicable to other areas of work. Practical implications: The implications from the paper are the recommendations on restructuring the function of internal audit, especially its role within management and governance, given the impartiality and objective role that it is supposed to perform. Originality/value: The originality of this paper is the analysis of IAF within an AML context and the recommendation to reconsider the IAF role within a globalised banking service of the future. This has been suggested within a growing globalised criminal context, where money laundering is a reality and the complexity of this crime is increasing throughout the world. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

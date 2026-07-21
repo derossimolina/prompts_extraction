@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0803-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Impact of Anti-Money laundering Policies of Iraq Central Bank on the Quality of Financial Reports of Private Iraqi Banks",
+    "authors": "Abdulkareem Al yasiri H.A.; Samimi A.J.; Tehranchian A.M.",
+    "year": "2024",
+    "doi": "10.57239/PJLSS-2024-22.1.00476",
+    "abstract": "This study investigates the impact of the Central Bank of Iraq’s anti-money laundering (AML) policies and other effective variables on the quality of financial reporting in selected private Iraqi banks. Financial reporting quality is crucial for stakeholders, including potential and existing investors, creditors, and other users, for making informed investment decisions and assessing the financial health and performance of banks. Despite extensive research on financial reporting quality in various contexts, there has been limited focus on the banking sector in Iraq, particularly regarding the effectiveness of AML policies. The research utilizes a panel data model, employing the Generalized Method of Moments (GMM) estimator due to the nature of the data and the requisite preestimation tests. The analysis covers data from the financial statements of selected private Iraqi banks over the period of 2014–2023. Data sources include annual financial reports from selected banks, the Central Bank of Iraq, and World Bank indicators (WDI). Key variables examined include the capital adequacy ratio, bank age, number of branches, and number of employees, with a specific focus on the AML index as the primary variable of interest. Statistical analyses, including significance testing and t-statistics, are employed to determine the relationships between these variables and the quality of financial reporting. Results indicate a positive and significant relationship between the AML index and the quality of financial reporting, suggesting that effective AML policies enhance transparency and reliability in financial disclosures. Other variables, such as the capital adequacy ratio, also show a significant positive impact, indicating that higher capital adequacy contributes to better financial reporting quality. However, factors like bank age, number of branches, and number of employees do not exhibit a significant correlation with financial reporting quality in the selected Iraqi banks. The research findings emphasize the critical role of regulatory frameworks in fostering high-quality financial reporting. The positive impact of AML policies highlights the importance of regulatory measures in enhancing financial transparency and accountability in the banking sector, ultimately contributing to better governance and increased stakeholder confidence. The findings also underscore the importance of capital adequacy in ensuring the robustness of financial reporting. This research contributes to the existing literature by providing empirical evidence from the Iraqi banking sector and highlights the necessity for ongoing improvements in regulatory practices to sustain and enhance financial reporting quality. Policy implications suggest that strengthening AML policies and ensuring adequate capital adequacy are essential for improving the overall quality of financial reporting. © (2024), (Elite Scientific Publications). All rights reserved.",
+    "source": "Pakistan Journal of Life and Social Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

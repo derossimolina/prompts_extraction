@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0254-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal and Policy Frameworks to Protect the Property Rights of Women Migrant Workers in Line with Agenda 2030: A Case Study of Uganda",
+    "authors": "Bakibinga E.; Bakibinga D.B.",
+    "year": "2026",
+    "doi": "10.1515/ldr-2025-0099",
+    "abstract": "Securing property rights for housing and land is crucial for promoting economic development, ensuring environmental sustainability, and maintaining social stability. Therefore, property law is significant to countries’ development agendas and to sustainability. With the externalization of labour, guaranteeing the rights of the more than 150 million women migrant workers (WMWs) is critical to ensure sustainability. Agenda 2030 recognizes that protecting migrant women’s rights will enhance their potential to become agents of development, which makes Sustainable Development Goals 1 (poverty), 5 (gender), 8 (labour), 10 (reduced inequalities), and 16 (rule of law) critical. WMWs actively contribute to their community, both financially and in-kind, and drive social change through exposure to diverse cultures. Remittances have become increasingly vital as a global source of external financing, and Uganda relies on them as a net recipient. Ugandan WMWs are vulnerable to exploitation and property deprivation, including remittances. In Uganda, their property rights, especially land, are affected by patriarchal systems, limited access to financial services, especially mobile money facilities, due to the deactivation of SIM cards during their absence, and illegal or extrajudicial deprivation of property, fraudulent transactions perpetrated by land grabbers, dishonest agents, trespass by squatters, and encroachment. Labour externalization organizations also exploit WMWs. This article examines the legal and policy framework applicable to communication, deprivation of property, access to land and financial services, anti-money laundering as they affect the rights of WMWs, with consideration of the nexus between property law and sustainability and how ownership of property affects decision-making for sustainability. © 2026 Walter de Gruyter GmbH. All rights reserved.",
+    "source": "Law and Development Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

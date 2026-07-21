@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1024-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Reconciling contradictory forces: financial inclusion of refugees and know-your-customer regulations",
+    "authors": "Batsaikhan U.; Darvas Z.; Gonçalves Raposo I.",
+    "year": "2019",
+    "doi": "10.1057/s41261-018-0088-x",
+    "abstract": "Providing access to financial services for asylum seekers and refugees is made difficult by know-your-customer financial regulations adopted as part of efforts to tackle money laundering and terrorist financing activities. Difficulties in identifying asylum seekers and refugees further complicate the urgent necessity of opening simple bank accounts, which is a crucial step towards integration. We review certain financial inclusion initiatives and assess European Union banking regulations from the perspective of offering financial services to asylum seekers and refugees. We conduct a novel survey of banks in the European Union to shed light on banks’ attitudes to the financial integration of refugees, their assessment of the relevant banking regulations and possible public–private partnerships to improve the financial integration process. We conclude that the solution to the financial inclusion problem is not to ease regulation, but to tailor it to the specific needs of refugees, while offering clear guidelines to banks and improving refugee identification. We make several recommendations, including the issuance of a European identification document to each refugee and the development of a pan-European registry of refugees. © 2018, Springer Nature Limited.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

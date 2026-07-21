@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1549-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Insights of signaling theory for acquisitions research",
+    "authors": "Wu C.-W.; Reuer J.J.; Ragozzino R.",
+    "year": "2013",
+    "doi": "10.1108/S1479-361X(2013)0000012010",
+    "abstract": "This paper examines the use of signaling theory in the M&A context. We review some of the most important developments in applications and extensions of this theory to the realm of M&A, indicating how this theory has been used to explain many M&A decisions and outcomes and has offered fresh perspectives in the mature literature on acquisitions. For example, we show how signaling theory provides a new view of the determinants of acquisition premiums, and it can contribute to an improved understanding of firms' search for acquisition opportunities as well as target selection. We also provide a critique of existing research to identify gaps in understanding on the roles played by signals. For instance, we discuss how signals can create contracting problems during M&A negotiations, how the value of signals might vary across deals, and how bidder heterogeneity and bidders' own signals matter for certain transactions. Finally, in addition to taking stock of this stream of research, we identify some of the most important areas that deserve research attention. Signaling theory can contribute to an improved understanding of acquisition performance outcomes, and signals need to be investigated along with other solutions to enhance M&A deal making and execution. We identify new research methods that would help to advance signaling theory in the acquisitions literature. Copyright © 2013 by Emerald Group Publishing Limited.",
+    "source": "Advances in Mergers and Acquisitions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

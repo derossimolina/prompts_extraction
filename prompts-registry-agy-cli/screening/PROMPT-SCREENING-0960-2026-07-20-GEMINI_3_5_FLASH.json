@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0960-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "#Blesser: A critical evaluation of conceptual antecedents and the allure of a transactional relationship",
+    "authors": "Moodley P.; Ebrahim S.",
+    "year": "2019",
+    "doi": "10.18820/24150479/aa51i2.2",
+    "abstract": "Blessed relationships (BRs) bring together technology, sexuality, and economics within a consumerist environment. Academic literature has used ‘blesser’ and ‘sugar daddy’ interchangeably, and online reports have explained how BRs, as a new South African cultural option of structuring relationships, differ from sugar relationships because they represent a new product on offer in relationship shopping. This essay critically evaluates academic and selected online sources to understand the allure and controversy of BRs. Research focuses predominantly on ‘controversial’ frames of health and moral risks. However, labels, such as ‘blesser’ and ‘sugar daddy’ discursively construct different sexual domains. After reviewing literature and online information, the essay presents a nomenclature of transactional relationships that considers the agential and discursive subtleties of BRs. Implications and research recommendations for the structuring of relationships, given newer options for lifestyle, companionship, and sexuality, which BRs have made publicly visible, conclude the essay. © Creative Commons With Attribution (CC-BY).",
+    "source": "Acta Academica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

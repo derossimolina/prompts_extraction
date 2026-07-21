@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2592-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploring the Defensive Actions of Drug Sellers in Open-air Markets: A Systematic Social Observation",
+    "authors": "Piza, EL; Sytsma, VA",
+    "year": "2016",
+    "doi": "10.1177/0022427815592451",
+    "abstract": "Objectives: The current study contributes to the literature through a systematic social observation of the defensive actions of drug sellers within open-air retail markets. The study expands upon previous literature by incorporating a novel data collection and coding method. Methods: Video footage of narcotics transactions was extracted from the closed-circuit television (CCTV) system of the Newark, NJ Police Department. Researchers transcribed and coded the footage to measure the frequency of defensive actions incorporated by drug sellers. Fisher's exact tests measured whether the frequency of each defensive action significantly differed across geographic setting or time of day. Results: The frequency of many defensive actions was significantly related to geographic setting and time of day. The strongest relationship was observed between the use of stash spots and setting. Overall, the findings suggest that drug sellers adopt tenets of Opportunity Theory to protect themselves from law enforcement, specifically by acting as guardians and place managers on their own behalf. Conclusions: This study extends prior techniques and provides an additional case study on the use of CCTV footage in the study of street-level crime. This methodology can be used in concert with more traditional ethnographic techniques in the study of the drug trade and in crime-and-place research in general.",
+    "source": "JOURNAL OF RESEARCH IN CRIME AND DELINQUENCY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

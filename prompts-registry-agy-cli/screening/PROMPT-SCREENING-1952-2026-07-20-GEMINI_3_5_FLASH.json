@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1952-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combating the financing of terrorism",
+    "authors": "Levi M.",
+    "year": "2010",
+    "doi": "10.1093/bjc/azq025",
+    "abstract": "The history of international efforts to control the flow of funds to designated 'terrorist groups' via the formal financial system is examined. The work shows that - despite the high motivation of some governments and international banks to reduce terrorist attacks, which harm their citizens, customers, staff and profits - it remains difficult to determine how this private-public policing interface can rationally target 'risky capital'. Financial intelligence efforts have had little externally discernible impact on reducing levels of terrorism or on criminal convictions. It reviews evaluation problems in knowing whether the apparent lack of effects is due to measurement failure (estimating how much terrorist harm might have occurred had the controls not been imposed), theory failure or implementation failure. It argues for a more modest assessment of the likely impact of measures against financing terrorism and nuclear proliferation. © The Author 2009.",
+    "source": "British Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

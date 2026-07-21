@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1206-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A theory of optimum cryptocurrency scope",
+    "authors": "Marthinsen J.; Gordon S.",
+    "year": "2021",
+    "doi": "10.1080/10438599.2019.1687395",
+    "abstract": "Robert Mundell (1961. “A Theory of Optimum Currency Areas.” The American Economic Review 51 (4): 657–665) framed the fixed-versus-flexible exchange rate controversy in a novel way when he focused attention on currency areas and the ingredients necessary for a group of nations to form an optimal currency area (OCA). This paper proposes an analogous theory for cryptocurrencies, called optimal currency scope (OCS), and explains the conditions necessary for an OCS to exist. In contrast to an OCA, which is defined by its non-overlapping geographic areas, an OCS is defined by its multiple-overlapping attributes and the needs they solve, which we call scope. Scopes are not geographic and have fuzzy boundaries; so, the possibility of competing currencies in a single scope needs to be considered. The central issues surrounding an OCS are the optimal number and magnitude of currency attributes, rather than whether nations should adopt fixed versus fluctuating exchange rates. Similar to the findings since Mundell first introduced his OCA Theory, we find that the optimum number of cryptocurrency attributes and, therefore, the optimal number of cryptocurrencies must be determined empirically rather than theoretically. © 2019 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Economics of Innovation and New Technology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0375-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency forensics automation: a deep learning and NLP-based approach for mobile platforms",
+    "authors": "Bhattarai A.; Sahin A.; Veksler M.; Kurt A.; Aras D.; Imery C.; Akkaya K.",
+    "year": "2025",
+    "doi": "10.1007/s10791-025-09595-1",
+    "abstract": "As cryptocurrencies have become increasingly used as an alternative to regular cash and credit card payments, the wallet solutions/apps that facilitate their use have also become increasingly popular. This has also intensified the involvement of these crypto wallet apps in criminal activities such as ransom requests, money laundering, and transactions on dark markets. From a digital forensics point of view, it is crucial to have tools and reliable approaches to detect these wallets on devices and extract their artifacts quickly with greater efficiency. However, with current research and trends, forensic investigators still need to manually extract these file artifacts, which delays the time-sensitive investigation findings. As mobile devices increasingly facilitate cryptocurrency transactions, there emerges a critical gap and need for automated evidence extraction to detect crucial artifacts preventing illicit activities. Therefore, in this paper, we present a comprehensive framework that incorporates various machine learning (ML), image processing, and natural language processing (NLP) approaches to enable fast and automated extraction/triage of crypto-related artifacts from Android and iOS devices. Specifically, our method can automatically detect which crypto wallet exists on the device, their artifacts (i.e., database/log files), along with the crypto-related images, web browsing data, and SMS conversations. For each type of data, we offer a specific ML technique, such as Support Vector Machine, Logistic Regression, and Neural Networks, to detect and classify these files. Our evaluation results show very high accuracy compared to alternative tools: our wallet classification model achieves 91% recall, crypto-related image classification achieves 75% accuracy, browsing data achieves 100% accuracy, and the SMS message model achieves 85% accuracy. © The Author(s) 2025.",
+    "source": "Discover Computing"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

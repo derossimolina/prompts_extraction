@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1766-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "New governors on the block: the rise of anti-money laundering professionals",
+    "authors": "Tsingou E.",
+    "year": "2018",
+    "doi": "10.1007/s10611-017-9751-x",
+    "abstract": "Anti-money laundering (AML) activities are part of an institutionalized, global, and increasingly prescriptive regime, covering a growing set of predicate offences. Yet with much of the responsibility for implementation and monitoring at the hands of private actors, compliance professionals within financial institutions have become foot soldiers in the fight against money laundering. This paper argues that AML professionals do not only implement and monitor, however, but, to protect their interests, also shape the content of governance. The process is two-fold. First, a professionalization process is underway inside banks and other financial institutions. Professionalization has strengthened the relative standing of compliance departments against a background of lower tolerance for illegal and irregular transactions and a growing reputational and financial cost for banks knowingly or accidentally enabling such activities. From that position, the compliance industry has consolidated its role through the development of systematic professional standards and through identifiable skills and expertise as defined by professional associations. Second, anti-money laundering professionals interpret rules and engage in regulatory creep. They meticulously implement different requirements by developing private compliance standards and risk assessments that are technically sophisticated and designed to earn regulatory kudos; they do not simply follow what is required. Further, they extend their mandate by including other compliance facets. Acting out of concern for professional security and advancement, AML compliance officers become governors on the output, but also on the input side. © 2017, Springer Science+Business Media B.V., part of Springer Nature.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

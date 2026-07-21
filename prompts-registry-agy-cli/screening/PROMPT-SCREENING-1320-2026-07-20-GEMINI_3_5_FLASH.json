@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1320-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Towards sustainable cryptocurrency: Risk mitigations from a perspective of national security",
+    "authors": "Limba T.; Stankevičius A.; Andrulevičius A.",
+    "year": "2019",
+    "doi": "10.9770/jssi.2019.9.2(2)",
+    "abstract": "Cryptocurrency market is developing fast during the past few years. Cryptocurrency now is available as a form of payment for retail goods, as an instrument for a wholesale international transaction a mean of exchange for whatever goods and is available through ATM's. Moreover, it is developing as a possibility for fundraising a) as a private debt b) as seed capital. Companies like Facebook are discussing launching own cryptocurrency. Bank UBS is developing its blockchain based virtual currency as well. However, scientist agrees that cryptocurrency has an important impact to national security. It became a relevant instrument for illegal good transactions, a mean of exchange in the darknet and an instrument for money laundering or infrastructure for new kind of money-laundering practices (for example-\"Smurfing\" phenomena (EU Observer, 2019) European Union is launching AML and KYC procedures for the cryptocurrency market. Would it be efficient? Why are we implementing KYC and AML procedures for cryptocurrency? Is it able to minimize risks? © 2019 General Jonas Zemaitis Military Academy of Lithuania.",
+    "source": "Journal of Security and Sustainability Issues"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2223-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Has clarity been brought to the diamond sector? A survey into AML and TF risk mitigation by diamond traders and their financiers",
+    "authors": "Van Dijck M.",
+    "year": "2009",
+    "doi": "10.1007/s10611-008-9171-z",
+    "abstract": "The international diamond trade always has been a somewhat closed world in which different rules applied compared to other sectors. The myths and mystic surrounding diamonds as the most precious material on earth are in sharp contract with the contemporary demand for transparency. The clarity of a diamond, one of its four valuables, is not reflected in the ways of the diamond industry. However, recent initiatives, such as the Kimberly Process, which attempts to put a ban on blood and terror diamonds and a handful of banking scandals, have brought a wind of change. This wind of change is to some extent a mere side-wind fanned by the hurricane of the global anti-money laundering and anti-terrorist financing movement. Banks financing the diamond trade, assurance companies providing insurances to the sector and the diamond traders and retailers have all become subject to AML and CFT legislation. Compliance has become the magic word in the world of financing, along with transparency, but the diamond sector proved to be a slack student in this respect. This paper explores the different aspects of compliance by diamond sector market players and examines whether the extension of the regulatory framework to these players have brought a shift in responsibility, away from the financial institutions financing the diamond sector. In addition it addresses the question whether the regulatory framework and regulatory practice are sufficiently developed to enable effective supervision by the authorities. © 2008 Springer Science+Business Media B.V.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1436-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ritualisation and money laundering in the Swiss banking sector",
+    "authors": "Carlin A.; Lokanan M.E.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-04-2017-0013",
+    "abstract": "Purpose: This paper aims to highlight the relationship between money laundering and the patterns of behaviour evident throughout the larger structural environment of the Swiss banking sector. In particular, the paper used HSBC as a prototype case of structural ritualisation to show that the normalisation of corrupt, unethical behaviour in the banking environment has shaped and influenced the behaviour and actions of the embedded group actors. Design/methodology/approach: The paper used a content analysis methodological approach of media sources to collect data. The content analysis was categorised into six core ritualised symbolic practices (RSP) categories – corruption, reputation, blame, ignorance, regret and criticism. Findings: The findings reveal that the highly ranked RSPs involving corruption, reputation, blame, regret, ignorance and criticism influence the embedded group’s patterns of behaviour, and they formed part of the cognitive script that dictated their behaviour and actions in the Swiss banking sector. Practical implications: The paper added to the calls by Swiss policymakers for amendments to Swiss bank secrecy laws to reflect the changing landscape of international banking and finance. Originality/value: This is the first paper of its kind to study ritualised illegal practices related to money laundering in the Swiss banking sector. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

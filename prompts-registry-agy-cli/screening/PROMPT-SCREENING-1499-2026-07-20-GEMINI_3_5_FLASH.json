@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1499-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combat money laundering in iran rights and international documents",
+    "authors": "Behniafar A.R.; Ebrahimi M.R.",
+    "year": "2016",
+    "doi": "10.3923/sscience.2016.422.431",
+    "abstract": "Money laundering including the ominous phenomenon of the 20th century and the anti-social effects of globalization and national and is international. The activities and operations on the proceeds of crime in order to legitimize it and hidemoney laundering predicate offenses are said to be done. The United Nations Convention of Vienna in 1988, Palermo 2000 and 2003 Merida State Contracting is mandated by the phenomenon of crime in their domestic law and the Islamic Republic of Iran has acceded to this convention and has played an active role in the development of some of them. In jurisprudence can not find a definition for money laundering. Money laundering based on falsehood and respect public property including the prohibition of eating help on ASM unlawful conflict with the presumption of innocence does not know BVDHV crime and its perpetrator deserves punishment. He said Iran's anti-money laundering law conventions conflict between the substantive scope of criminalization of suspicious transactions, the subject of money laundering crime, the crime of money laundering, money laundering, organized, determined predicate offenses related crime, crimes of obstructing the course of justice, proceeds from crime, taking part in money laundering, assistance in money laundering, criminal liability of legal persons and the prevention of crime and money laundering, there are challenges as well as between them on the investigating authority, the inherent jurisdiction of the court, local and international proceedings referred to there. Supreme Council for fight money laundering Iran to resolve conflicts in the executive regulations anti-money laundering Act 1388 to enact a series of legislative regulations which came against the constitution and the constitution of the Islamic Republic of Iran under Article 170 of the Administrative Justice Court can also be broken. If the offense is committed by one of the plurality of origin and money laundering rule of collective punishment applied to different material. © Medwell Journals, 2016.",
+    "source": "Social Sciences (Pakistan)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

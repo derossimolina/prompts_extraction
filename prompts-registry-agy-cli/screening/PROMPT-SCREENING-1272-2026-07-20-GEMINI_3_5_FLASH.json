@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1272-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Socially Responsible Investment in the Russian Stock Market",
+    "authors": "Kuksov A.S.",
+    "year": "2022",
+    "doi": "10.26794/2308-944X-2022-10-4-55-66",
+    "abstract": "One of the major elements of the sustainable development policies is the socially responsible investing (SRI), also called ESG investing (environmental, social, and corporate governance) or green investing. The key feature of SRI (ESG investments), which distinguishes it from the other forms of raising capital, is the focus on priority financing of environmental and social projects providing long-term positive effects and consequences for society (the wellbeing of an individual and the nation), the environment (including climate), regional and global economies. The research aims to study ESG-investments' influence on the Russian economy, specifically, the exchange-traded funds (ETF) industry. The research methodology includes structuring, comparison, generalization, economic analysis, induction, deduction and synthesis. The results of include analysis of the foundations of socially responsible investments, the concepts, and factors of ESG investments. Also, the global and Russian ESG markets are explored, including ESG-exchange traded funds industry, its features, structure and trends. Based on the research, the author concludes that the Russian market for ESG instruments is only developing. However, interest in this category of financial instruments is growing among investors, which is facilitated by the policy pursued by the national regulator (the Bank of Russia), which encourages the introduction of ESG practices by Russian issuers of securities. © Kuksov A. S., 2022.",
+    "source": "Review of Business and Economics Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

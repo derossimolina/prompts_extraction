@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0014-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Technology, cyber and international offshore banks: financial services for asset recovery of indonesian convicts; [Tecnologia, cyber e banche offshore internazionali: servizi finanziari per il recupero dei beni dei detenuti indonesiani]",
+    "authors": "Sujadmiko B.; Meutia I.F.; Zainal A.G.; Yulianti D.",
+    "year": "2025",
+    "doi": "10.57230/ejplt251bsifmagzdy",
+    "abstract": "Offshore banks are characterized by their comparatively relaxed regulatory frameworks, setting them apart from the more stringent regulations governing onshore banks. This leniency renders offshore banks vulnerable to exploitation for illicit purposes, as demonstrated by prominent events such as the Panama Papers (2016), Paradise Papers (2017), and Pandora Papers (2021). While offshore banking is not inherently illegal, and legitimate reasons exist for individuals to open offshore bank accounts, concerns arise regarding the potential abuse of banking secrecy within this sphere. The strict adherence to banking secrecy can significantly hinder investigation and asset recovery efforts once illicit funds are deposited in offshore banks. One approach to address this is the implementation of Mutual Legal Assistance Treaties (MLATs). These treaties play a crucial role in international cooperation, facilitating the exchange of evidence and assets between jurisdictions to combat financial crimes and promote global accountability. In addition, advancements in cyber forensics and digital traceability technologies have enhanced the capacity to track illicit financial flow, even in jurisdictions protected by banking secrecy. Cybersecurity tools such as blockchain analytics, artificial intelligence (AI), and machine learning (ML) can now identify money laundering patterns, fraud, and other financial crimes across complex global networks. By integrating these technologies, investigators can better collaborate internationally, making it more difficult for illicit actors. © The author(s) 2025, published by Suor Orsola Benincasa Università Editrice.",
+    "source": "European Journal of Privacy Law and Technologies"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

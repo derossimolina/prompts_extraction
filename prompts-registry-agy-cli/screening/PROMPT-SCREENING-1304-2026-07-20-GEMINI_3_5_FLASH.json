@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1304-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sustainable Manufacturing in the Fourth Industrial Revolution: A Big Data Application Proposal in the Textile Industry",
+    "authors": "Araque-González G.; Suárez-Hernández A.; Gómez-Vásquez M.; Vélez-Uribe J.; Bernal-Avellaneda A.",
+    "year": "2022",
+    "doi": "10.3926/jiem.3922",
+    "abstract": "Purpose: Design an industrial production model with a focus on industry 4.0 (Big Data) and decision-making analysis for small and medium-sized enterprises (SMEs) in the clothing sector that allows improving procedures, jobs and related costs within the study organization Develop a sustainable manufacturing proposal for the industrial textile sector with a focus on Big data (entry, transformation, data loading and analysis) in organizational decision making, in search of time and cost optimization and environmental impact mitigation related. Design/methodology/approach: The present research, of an applied nature, raises a value proposition focused on the planning, design and structuring of an industrial model focused on Big Data, specifically in the apparel manufacturing sector for decision-making in a structured and automated way. with the methodological approach to follow: 1) Approach of production strategies oriented in Big Data for the textile sector; 2) Definition of the production model and configuration of the operational system; 3) Data science and industrial analysis, 4) Production model approach (Power BI) and 5) model validation. Methodological design of the investigation. 1) Presentation of the case study, where the current situational analysis of the company is carried out, formulation of the problem and proposal of solution for the set of data analyzed; 2) Presentation of a solution proposal focused on Big Data, on the identification of the industrial ecosystem and integration with the company’s information systems, as well as the solution approach in the study and science of data in real time; 3) Presentation of the Model proposal for SQL structured databases in the loading, transformation and loading of important information for this study; 4) Information processing, in the edition of data in the M language of Power BI software, construction and elaboration of the model; 5) Presentation of the related databases, in the integration with the foreign key of the Master table and the transactional Tables; 6) Data analysis and presentation of the Dashboard, in the design, construction and analysis of the related study variables, as well as the approach of solution scenarios in the correct organizational decision making Findings: The results obtained show an improvement in operational efficiency from the value-added proposal Research limitations/implications: Currently, the number of studies applying Big Data technology for organizations in the textile and manufacturing sector in organizational decision making are limited. If analyzed from the local scene, there are few cases of Big Data implementation in the textile sector, as a consequence of the lack of projects and financing of value propositions. Another limiting factor in this research is the absence of digital information of high relevance for study and analysis, which leads to longer times in data entry and placement in information systems in real time. Finally, there is no data organizational culture, where there are processes and/or procedures for data registration and its transformation into clean data. Originality/value: This research integrates, as well as the correct organizational decision making For the verification of originality, the project search and systematic review of literature in the main online search engines are carried out for this research; In addition, the percentages of coincidence with online reviewers such as turnitin and plag.es are reviewed in the transparency of this study project. © 2022, OmniaScience. All rights reserved.",
+    "source": "Journal of Industrial Engineering and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

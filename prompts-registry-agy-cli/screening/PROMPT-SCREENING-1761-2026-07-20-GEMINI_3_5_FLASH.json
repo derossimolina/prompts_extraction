@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1761-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Analyzing Russian compliance with anti-money laundering and combating the financing of terrorism, insider trading and anti-corruption laws",
+    "authors": "Shalimova M.",
+    "year": "2014",
+    "doi": "10.1108/JFRC-09-2013-0031",
+    "abstract": "Purpose – The purpose of this study is provide a critical overview of compliance with anti-money laundering and combating the financing of terrorism, insider trading and anti-corruption laws in Russia. Design/methodology/approach – The mixed approach for this article will be used with some elements of grounded theory. The method used includes the following: observations, various interviews and analysis of legal documents and other primary sources. Findings – Russian regulatory compliance has a tremendous pressure and significant challenges for both regulators and regulated banks and organizations. It is a moment when Russia could become a more developed country and play a bigger role in international arena or come back to the past time. Originality/value – The article is based on my practical experience and PhD research observations. © 2014, © Emerald Group Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

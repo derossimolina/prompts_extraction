@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1141-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fiction, fraud, and formality: the legal infrastructure of property speculation in Cambodia",
+    "authors": "Nam S.",
+    "year": "2020",
+    "doi": "10.1080/14672715.2020.1798260",
+    "abstract": "Through the standardization of property as a commodity, real estate speculation in Phnom Penh has flourished and has included foreigners, for whom Cambodian real estate property is constitutionally off-limits. This essay outlines some features of Cambodian law to highlight the contours of the country’s deep legal pluralism, as well as to describe how law is part of the way property has been remade as a market commodity. “Legal fictions”–technical devices and shell companies–give access to Phnom Penh’s real estate market. The use of legal fictions in Cambodia’s economy is widespread and, crucially, structures property ownership and its distribution. In the process these devices work to veil ownership in plain sight and skew access to property to those who can utilize this effectively. © 2020 BCAS, Inc.",
+    "source": "Critical Asian Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

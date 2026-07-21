@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2557-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "LEGAL RISKS OF INTRODUCING THE DIGITAL RUBLE",
+    "authors": "Tatyana, MM; Ludmila, AN; Mikhail, AN",
+    "year": "2021",
+    "doi": "10.17223/22253513/41/15",
+    "abstract": "The prospects of introducing digital means of payment based on the latest advances of information technology have been a subject of active discussion lately. The emergence of cryptocurrencies that are not issued by or on behalf of the state, as well as non-state-owned digital payment services, has posed a serious challenge to the existing monetary system. The first reaction of regulators (mainly, central banks) was to take prohibitive measures. However, it is now understood that the benefits of digital money can also be put to a good use by the state. A number of projects aimed at creating a central bank digital currency (CBDC) have emerged in various jurisdictions. These projects should, according to their creators, combine the advantages of cutting-edge financial technology with the achievement of the monetary policy objectives. The first project of this kind was Ecuador's Dinero Electronico, launched in 2014. Similar developments are underway in a number of other countries and regions (Sweden, South Korea, Canada, China, Norway, the UK, the Eurozone etc.). Despite the ever-increasing interest in CBDCs, the technology is still in a nascent state. The Bank of Russia has also drafted a Digital Ruble Concept, which was published in April 2021. According to the Concept, the digital ruble will be the third form of money, along with non-cash accounts and regular cash. The Concept utilizes the so-called two-tier retail (or hybrid) CBDC model, based on the principle that the CBDC is issued by the Bank of Russia, which opens accounts for the Federal Treasury and financial institutions; these institutions are, in turn, responsible for client interaction and account opening. However, clients' accounts are not reflected on the balance sheets of the financial institutions and are Central Bank's liability. Foreign researchers point to a significant number of new risks as well as legal issues that need to be addressed when developing a CBDC system: AML/CFT enforcement, dealing with fraudulent and erroneous transactions, taxation and liens, as well as personal data protection and privacy concerns. Another challenge for all jurisdictions is CBDC's status as legal tender, since its universal acceptance might not be possible. Ensuring privacy is also of utmost importance, especially when smart contracts are involved. As far as the Russian legal system is concerned, the introduction of the digital ruble will naturally entail a large-scale revision of non-cash payments regulation, concrete definition of the rules concerning the distribution of risks in fraudulent and erroneous transactions, developing new rules for enforcement and bankruptcy proceedings, etc. At the same time, it is unlikely that the provisions of the Civil Code of the Russian Federation concerning the objects of civil rights will require significant change, as digital rubles can be classified as noncash funds (as far as this concept is interpreted broadly).",
+    "source": "VESTNIK TOMSKOGO GOSUDARSTVENNOGO UNIVERSITETA-PRAVO-TOMSK STATE UNIVERSITY JOURNAL OF LAW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

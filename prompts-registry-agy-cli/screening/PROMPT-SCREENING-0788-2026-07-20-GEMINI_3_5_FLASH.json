@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0788-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The water finance gap and the multiple interpretations of ‘bankability’",
+    "authors": "McCoy W.; Schwartz K.",
+    "year": "2023",
+    "doi": "10.2166/washdev.2022.201",
+    "abstract": "In discussing progress on achieving SDG target 6.1 (universal access to water services by 2023), a large ‘financing gap’ is frequently referred to. It is often repeated in development circles that the key to bridging the ‘financing gap’ in the water sector is through the creation of ‘bankable’ water projects. However, there remains a wide gap between technical professionals in the water sector and market-oriented financiers in understanding how ‘bankability’ is practically operationalized. This paper presents a framework of bankability, which highlights the complexity of making projects in the water services sector bankable. This complexity means that making projects bankable requires innovative water project structuring to align interests of investors, water entrepreneurs, and society to leverage more capital into the water sector. © 2023 The Authors.",
+    "source": "Journal of Water Sanitation and Hygiene for Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

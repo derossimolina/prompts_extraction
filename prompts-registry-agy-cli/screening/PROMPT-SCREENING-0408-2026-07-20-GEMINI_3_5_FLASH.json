@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0408-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Machine Learning-Based Detection and Analysis of Suspicious Activities in Bitcoin Wallet Transactions in the USA",
+    "authors": "Islam M.Z.; Islam M.S.; Das B.C.; Reza S.A.; Bhowmik P.K.; Bishnu K.K.; Rahman M.S.; Chowdhury R.; Pant L.",
+    "year": "2025",
+    "doi": "10.62754/joe.v4i1.6214",
+    "abstract": "The dramatic adoption of Bitcoin and other cryptocurrencies in the USA has revolutionized the financial landscape and provided unprecedented investment and transaction efficiency opportunities. The prime objective of this research project is to develop machine learning algorithms capable of effectively identifying and tracking suspicious activity in Bitcoin wallet transactions. With high-tech analysis, the study aims to create a model with a feature for identifying trends and outliers that can expose illicit activit y. The current study specifically focuses on Bitcoin transaction information in America, with a strong emphasis placed on the importance of knowing about the immediate environment in and through which such transactions pass through. The dataset is composed of in-depth Bitcoin wallet transactional information, including important factors such as transaction values, timestamps, network flows, and addresses for wallets. All entries in the dataset expose information about financial transactions between wallets, including received and sent transactions, and such information is significant for analysis and trends that can represent suspicious activity. This study deployed three accredited algorithms, most notably, Logistic Regression, Random Forest, and Support Vector Machines. In retrospect, Random Forest emerged as the best model with the highest F1 Score, showcasing its ability to handle non-linear relationships in the data. Insights revealed significant patterns in wallet activity, such as the correlation between unredeemed transactions and final balances. The application of machine algorithms in tracking cryptocurrencies is a tool for creating transparent and secure U.S. markets. As virtual currencies gain increased acceptance and transactions become increasingly sophisticated, machine algorithms can provide processing capabilities for enhancing supervision and compliance operations. Complicated algorithms can be programmed to search through massive sets of transactional information, identifying trends that could be indicative of fraud and compliance failures. With the use of past data, such algorithms can become trained to detect abnormalities in real-time, and regulators and financial institutions can respond promptly to suspicious activity. © 2025, Creative Publishing House. All rights reserved.",
+    "source": "Journal of Ecohumanism"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

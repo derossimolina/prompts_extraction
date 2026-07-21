@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2521-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Corporative Government from the Concept to Organizational Evolution in Bancolombia",
+    "authors": "Vargas, GM; González-Campo, CH; Solarte, MG",
+    "year": "2019",
+    "doi": "10.12804/revistas.urosario.edu.co/empresa/a.6822",
+    "abstract": "For the last 25 years the financial sector and, particularly, the banking subsector has presented remarkable organizational changes due to international sectoral changes and institutional changes by the Colombian government. Corporate government and its process of implementation in the banks of the country, has produced large effects on the management of the sector. This research was made in Bancolombia, the main organization in the sector regarding products, clients and workers, where corporate government and its mechanisms of definition of relationships between owners and high-end workers. This paper presents the structuring process of the concept of corporate government and will show the main results of the change process in Bancolombia.",
+    "source": "REVISTA UNIVERSIDAD EMPRESA"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

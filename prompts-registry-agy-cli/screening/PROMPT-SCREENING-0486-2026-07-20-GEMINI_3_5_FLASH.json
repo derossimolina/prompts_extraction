@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0486-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Harmonising cryptocurrency regulation in Europe: opportunities for preventing illicit transactions",
+    "authors": "Benson V.; Adamyk B.; Chinnaswamy A.; Adamyk O.",
+    "year": "2024",
+    "doi": "10.1007/s10657-024-09797-w",
+    "abstract": "This study focuses on the analysis of cryptocurrency regulatory developments in Europe. The aim is to review national crypto-legislation in Europe and the EU's latest initiative to create designated regulatory instruments for the crypto-economy. This study assessed whether the European Union's Regulation on Markets in Crypto-Assets (MiCA) would have the intended effect. Drawing on the results of a survey of crypto experts from five European countries, this study evaluated the effectiveness of current regulation across Europe and how it can be improved to reduce financial crimes. The findings show that a unified national legal framework for regulating transactions with crypto assets does not exist in European countries. Current crypto regulations are dictated by anti-money laundering recommendations. This study provides suggestions for improving MiCA regulation. The article offers recommendations for an international regulatory standard for crypto assets and insights for increasing efficiency in regulating DeFi, NFTs, and smart contracts. © The Author(s) 2024.",
+    "source": "European Journal of Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

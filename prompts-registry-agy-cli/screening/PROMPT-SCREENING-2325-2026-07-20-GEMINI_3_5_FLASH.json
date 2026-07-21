@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2325-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Developing external threats to offshore trusts: unexplained wealth orders and forfeiture of assets under the Forfeiture of Assets (Civil Proceedings) (Jersey) Law 2018",
+    "authors": "Alexander, S; Cook, M",
+    "year": "2020",
+    "doi": "10.1093/tandt/ttaa030",
+    "abstract": "In recent years, authorities' toolkits have been growing with alternative methods to tackle corruption and money laundering, enabling them to attack assets held within onshore and offshore trusts. Two new tools being utilised in this regard are unexplained wealth orders (UWOs) and the nonconviction confiscation regime under the Forfeiture of Assets (Civil Proceedings) (Jersey) Law 2018 (FoAL 2018). Both may affect trusts established in Jersey. Cases have now come before the courts, testing the scope of each of these mechanisms and providing an insight into the courts' approach to combatting financial crime by way of civil proceedings. The use of a UWO was challenged in the recent English Court of Appeal case of National Crime Agency v Hajiyeva and the AG v Ellis proceedings 2 in Jersey involved the application of the FoAL 2018. We consider each of these mechanisms and the cases involved in turn below and discuss the impact of these developing tools on the Jersey trust industry.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

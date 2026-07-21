@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1023-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessment of financial monitoring efficiency in the banking system of Ukraine",
+    "authors": "Bukhtiarova A.; Semenog A.; Razinkova M.; Nebaba N.; Haber J.A.",
+    "year": "2020",
+    "doi": "10.21511/bbs.15(1).2020.10",
+    "abstract": "The transformation processes taking place in the global economy and the expansion of global business ties increase the overall vulnerability of the international banking system. One of the problems related to money laundering is the process of evaluating the efficiency of financial monitoring measures. The article discusses the issues of assessing the effectiveness of financial monitoring in the banking system of the country. For Ukraine, this problem is especially relevant, because there is a bank-centric model of the financial market (about 90% of assets go through the banking system) in the country. According to official data, 50% of economic activity in Ukraine ends with money laundering. The article presents the improved method that quantifies the level of financial monitoring system effectiveness at commercial banks of Ukraine based on calculations of the integral index. The index indicates the dynamics of the financial system protection degree from the money laundering threat based on the expediency and efficiency of financial monitoring in the banking system. As a result, more comprehensive conclusions about the level of financial security of the country are made. According to assessments, in 2017-2018 the efficiency of financial monitoring of the banking system of Ukraine was at the middle level (about 64%). The proposed method can be applied to evaluate the effectiveness of the financial monitoring system in any country and become the basis for improving the anti-money laundering system through the banking system. © Alina Bukhtiarova, Andrii Semenog, Mila Razinkova, Nataliia Nebaba, Józef Antoni Haber, 2020.",
+    "source": "Banks and Bank Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

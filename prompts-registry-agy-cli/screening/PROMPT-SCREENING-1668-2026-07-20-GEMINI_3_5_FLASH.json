@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1668-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering risk from emerging markets: the case of Vietnam",
+    "authors": "Ba H.; Huynh T.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-09-2017-0050",
+    "abstract": "Purpose: The purpose of this paper is to apply the framework Price (2008) and HSBC Money Laundering Risk Procedures 2016 for estimating the risk contribution of each individual customer in Vietnamese banking system using the information from the survey in South East region in Vietnam in general and Ho Chi Minh city in specific. Design/methodology/approach: Based on the collected data from the survey, the Money Laundering Risk Score (MLRS) is calculated for each customer who is using the services and products of Vietnamese commercial banks by the enhanced measurement model of Christopher Price, the ordinary least squares and three variations of logistic regression model. Findings: This paper proposes an appropriate estimation of the money laundering risk (MLR) for personal customer using the most significant factors that affects MLR and suggests practical recommendations for commercial banking system. Practical implications: This paper suggests an intuitive method to estimate the contribution of each customer factor on their MLRS. Originality/value: The higher respondent’s group of age lead to the higher MLR occurred in the financial market. Follow the works of Wolfsberg et al. (2006), Sathan and Mahendhiran (2007), Usman Kemal (2014) and Reganati and Oliva (2017), this paper also confirms negative relationship between MLR with the respondent’s group of salary and the academic level. This indicated that the lower amount of money the respondents earn and lower academic level they were, the higher degree of MLR. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

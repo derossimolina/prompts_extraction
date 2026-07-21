@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0381-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Addressing challenges in investigating money laundering cases facilitated by underground banking across the Taiwan strait: The role of supervisory technology (SupTech)",
+    "authors": "Wu Y.-X.",
+    "year": "2026",
+    "doi": "10.1016/j.ijlcj.2026.100830",
+    "abstract": "This study investigates Taiwan's capacity to combat money laundering associated with cross-border underground banking, a persistent vulnerability in its AML/CFT framework. Despite a comprehensive legal foundation incorporating underground banking as a predicate offense under the Banking Act and the Money Laundering Control Act, enforcement remains constrained by fragmented data silos, limited manpower, and outdated investigative methods. Drawing on institutional analysis, empirical data, and cross-jurisdictional comparison, the study finds that reliance on manual investigation and static parameters undermines Taiwan's ability to address increasingly complex laundering schemes. By contrast, Financial Intelligence Units (FIUs) in advanced jurisdictions have integrated Supervisory Technology (SupTech) to enhance real-time detection, risk-based analytics, and interagency coordination. Building on these insights, this study advances the “Taiwan AML/CFT SupTech Architecture,” a framework comprising a Trade Transparency Unit (TTU), the Data Analysis and Research for Trade Transparency System (DARTTS-Taiwan), and the Financial Analysis and Intelligence System (FAIS-Taiwan), anchored in seven functional dimensions: data structuring, cross-source integration, dynamic analytics, early warning, end-to-end automation, feedback and data quality management, and interagency collaboration. Crucially, the framework embeds localized innovations, such as GIS-based hotspot monitoring, telecom fraud-specific analytic modules, and adaptive mechanisms for small and medium-sized financial institutions (SMFIs), to align with Taiwan's institutional arrangements and risk environment. The architecture overcomes institutional bottlenecks, enhances investigative and analytical capacity, and provides a forward-looking blueprint for strengthening Taiwan's resilience against cross-strait laundering risks. It also carries broader implications, offering practical reference for small and medium-sized economies facing the challenges of cross-border money laundering. © 2026 The Author",
+    "source": "International Journal of Law, Crime and Justice"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

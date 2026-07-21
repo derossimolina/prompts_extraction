@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1783-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Whistleblowing laws: Before and after Sarbanes-Oxley",
+    "authors": "Yeoh P.",
+    "year": "2015",
+    "doi": "10.1057/jdg.2014.5",
+    "abstract": "The significant contributions of whistleblowers towards the recent unravelling of LIBOR, money laundering and related scandals in various global banks are reminiscent of similar outcomes in the earlier Enron and WorldCom debacles. Employees and employers in the private sector in particular, despite rhetorical assurances by the latter, have not necessarily shared common interests where whistleblowing is concerned. Lawmakers and regulators in the United States, because of this, have designed whistleblowing rules at the state and federal level to provide protection to whistleblowers. To some degree, Sarbanes-Oxley (SOX) and the False Claims Act (FCA) together probably contributed to an enforcement regime combining anti-retaliation protection and financial incentives, which produced some results. The Dodd-Frank whistleblowing initiative that followed, in addition to enhancing internal reporting systems, also institutionalized the Office of the Whistleblower (OWB). Despite the enhanced flow of quality tips from all the US member states and other overseas economies to the Securities Exchange Commission (SEC), the institution has not issued a commensurate significant number of awards. This appears to suggest that the enforcement results may not have improved as intended. The apparent paucity of enforcement relative to tips secured has been attributed to the lack of SEC priority and the hesitation of potential whistleblowers because of lingering doubts and fears and anxieties over award outcomes. The recent US Supreme Court decision that whistleblower protection afforded by SOX extends to employees of contractors of public companies may, however, induce more potential whistleblowers to come forward. On the basis of the empirical studies, the UK's Public Interest Disclosure Act 1998 (PIDA) is found to be grossly ineffective in promoting whistleblowing in the United Kingdom, as well as in affording adequate protection for workers principally because of various gaps and ambiguities located in the PIDA provisions. This article argues that because of the developments in the United States, it might be timely and appropriate for the SEC to consider a qui tam provision resembling that in the FCA, and to allow bounty payments for SEC nonmonetary sanctions as further reforms. As courts and tribunals in the United Kingdom begin to interpret the newly enacted provisions of PIDA, further reforms could be envisaged. One good example is the call by the UK Whistleblowing Commission to authorize the Secretary of State to issue a code of practice to be taken into account by courts and tribunals when matters of whistleblowing arise. © 2015 Macmillan Publishers Ltd.",
+    "source": "International Journal of Disclosure and Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

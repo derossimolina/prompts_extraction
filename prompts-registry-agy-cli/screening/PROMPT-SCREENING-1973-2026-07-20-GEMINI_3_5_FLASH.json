@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1973-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Social networks of the organized crime: A perspective of the new economic sociology; [As redes sociais do crime organizado: A perspectiva da nova sociologia econômica]",
+    "authors": "Lopes Jr. E.",
+    "year": "2009",
+    "doi": "10.1590/s0102-69092009000100004",
+    "abstract": "This article deals with social networks, directly or indirectly, linked to the orga-nized crime in Brazil today. The analysis is based on the theoretical and method-ological contributions of two of the most important theories in contemporary so-ciology: the analysis of networks and the new economic sociology. This analytic task is guided by the hypothesis that the best way to understand organized crime is one that takes it as a process situated on a continuum that goes from lawful activity to the criminal act. The empiric basis on which this sociological narra-tive is founded is supplied by the written reports of operations carried out by the Federal Police in the last three years and by a research already concluded on gangs specialized in robbing banks in the coun-tryside of the Brazilian Northeast.",
+    "source": "Revista Brasileira de Ciencias Sociais"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

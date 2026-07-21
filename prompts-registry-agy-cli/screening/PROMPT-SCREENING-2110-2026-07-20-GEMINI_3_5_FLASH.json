@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2110-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Gnosjo industrial district: A viable corporation",
+    "authors": "Garfamy R.M.",
+    "year": "2011",
+    "doi": "10.1504/IJESB.2011.040762",
+    "abstract": "The Gnosjo region is unique in Sweden and renowned for its distinctive business climate, which is termed a progressive, entrepreneurial and innovative 'spirit of Gnosjo'. This paper presents a special image of the industrial district relationships in this region by using the corporation as a framework to understand the structuring of business activities with respect to the content (what) and the process (how). The findings indicate viability of the industrial district is based and dependent on economic and social organisation. The paper also suggests possible directions for future policies and research to support the dynamic growth in this region by using an alternative perspective in analysing and explaining the industrial district phenomenon. © 2011 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Entrepreneurship and Small Business"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

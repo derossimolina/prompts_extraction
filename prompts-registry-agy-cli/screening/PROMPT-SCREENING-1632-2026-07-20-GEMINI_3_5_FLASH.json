@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1632-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Suspicious transaction reporting: an Indian experience",
+    "authors": "Viritha B.; Mariappan V.; Haq I.U.",
+    "year": "2015",
+    "doi": "10.1108/JMLC-11-2013-0046",
+    "abstract": "Purpose – The purpose of this paper is to assess the effectiveness of anti-money laundering (AML) reporting system in India in terms of Suspicious Transaction Reports (STRs) and its impact on countering money laundering through the conviction and confiscation. The main emphasis of financial action task force (FATF) guidelines on AML and countering of financing of terrorism (CFT) is the obligation of financial institutions and designated non-financial businesses and professions to instantaneously report the suspicious transactions to Financial Intelligence Unit (FIU), an agency with a mandate to deal with AML. Design/methodology/approach – It is a descriptive study to explore the outcome of the AML process. The study has used the secondary information published in the annual reports of FIU-India and FATF. The study period is 2006-2007 to 2011-2012. Findings – Though there is a significant increase in the STRs filed, the impact of AML is not realized in terms of neither AML-related convictions nor confiscations, since the enactment of the Prevention of Money Laundering Act (PMLA). However, the AML/CFT regime in India has just started earnestly, and it still has to go a long way before stabilizing and achieve tangible results. Research limitations/implications – In the Indian context, only few of the effectiveness indicators of the FATF methodology 2013 could be selected due to the limited availability of data, as much of the information maintained by various stakeholders, including reporting entities, FIU-India and other investigative and enforcement agencies, is kept confidential. Thus, it is difficult to establish the effectiveness of enforcement function of AML. Evaluation of effectiveness of AML is judged on the basis of convictions and confiscations. Originality/value – There is a dearth of studies assessing the reporting system under PMLA and thus this paper attempts to throw some insights on the outcome of AML chain, especially the impact of reporting suspicious transactions. © 2015, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

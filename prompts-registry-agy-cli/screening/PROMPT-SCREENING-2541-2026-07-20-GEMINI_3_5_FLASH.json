@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2541-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Utilizing blockchain technology for supply chain transparency: A resource orchestration perspective",
+    "authors": "Gligor, DM; Davis-Sramek, B; Tan, A; Vitale, A; Russo, I; Golgeci, I; Wan, X",
+    "year": "2022",
+    "doi": "10.1111/jbl.12287",
+    "abstract": "Driven by pressures from multiple stakeholders, supply chain transparency (SCT) has emerged as a phenomenon of increased interest. To address concerns about practices and processes at point of origin locations for raw materials in global supply chains, blockchain technology (BCT) has the potential to enhance SCT. Supply chain research has started to advance the field's understanding of SCT, but many questions remain, including how SCT should be conceptualized, how firms can effectively facilitate it, and the benefits of providing it, especially when BCT is utilized. The gaps suggest the need for fundamental theoretical development about the resources and capabilities underlying the development, application, and derived value of SCT. This research designed a case study around a BCT implementation project between a small artisan coffee producer and a startup BCT service provider. Using the resource orchestration perspective, the findings result in theoretical insights about how the mechanisms in structuring, bundling, and leveraging processes operate to offer SCT to stakeholders, and the value creation derived as a result.",
+    "source": "JOURNAL OF BUSINESS LOGISTICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

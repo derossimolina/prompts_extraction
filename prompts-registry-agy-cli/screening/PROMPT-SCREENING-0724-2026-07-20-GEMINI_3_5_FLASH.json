@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0724-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-corruption Management Mechanisms and the Construction of a Security Landscape in the Financial Sector of the EU Economic System Against the Background of Challenges to European Integration: Implications for Artificial Intelligence Technologies",
+    "authors": "Kussainov K.; Goncharuk N.; Prokopenko L.; Pershko L.; Vyshnivska B.; Akimov O.",
+    "year": "2023",
+    "doi": "10.46852/0424-2513.1.2023.20",
+    "abstract": "The article is devoted to modern topical theoretical and practical problems of interaction between international anti-corruption and financial and legal norms in the field of preventing the financing of terrorism, corruption and money laundering in the integrated EU financial market. It is shown that the current mechanisms of foreign exchange control and banking supervision of the EU over the financial transactions of entities need to be strengthened by anti-corruption measures. The steps taken in this direction, as well as the current regulatory documents and agreements, are analyzed. International legal norms against financial crime, corruption and terrorist financing should be successfully translated into the norms of national administrative, financial, anti-corruption law within the common space of the EU economic system in order to provide the necessary security landscape. The security challenges and threats associated with the increasing digitalization of financial markets, as well as the possibilities of using artificial intelligence tools to combat corruption, are considered. © 2023 Economic Affairs (New Delhi). All rights reserved.",
+    "source": "Economic Affairs (New Delhi)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

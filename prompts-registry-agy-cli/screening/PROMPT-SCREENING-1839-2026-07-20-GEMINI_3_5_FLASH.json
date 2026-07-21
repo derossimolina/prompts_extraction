@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1839-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of Switzerland's money laundering law on capital flows through abnormal pricing in international trade",
+    "authors": "de Boyrie M.E.; Pak S.J.; Zdanowicz J.S.",
+    "year": "2005",
+    "doi": "10.1080/0960310042000313200",
+    "abstract": "The objective of this research is to determine the impact of Switzerland's money laundering law on the movement of money through false invoicing in international trade. This study evaluates every reported import and export transaction between the USA and Switzerland during the period 1995-2000. The study indicates that there were significant changes in the degree of abnormal international trade pricing subsequent to the enactment of Switzerland's antimoney laundering law. The study supports the view that individuals and companies will find substitute techniques and channels to launder money when central banking authorities enact legislation that only focuses on financial institutions. © 2005 Taylor & Francis Group Ltd.",
+    "source": "Applied Financial Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

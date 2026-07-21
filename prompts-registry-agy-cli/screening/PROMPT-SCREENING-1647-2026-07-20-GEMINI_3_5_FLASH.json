@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1647-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Art Lawyers' Due Diligence Obligations: A Difficult Equilibrium between Law and Ethics",
+    "authors": "Giroud S.; Boudry C.",
+    "year": "2015",
+    "doi": "10.1017/S0940739115000193",
+    "abstract": "This article examines the duties of diligence of lawyers when handling art-related matters. Due diligence is paramount to any activity in the art market and a key element in ascertaining ownership, authenticity or provenance. In particular, it is a benchmark to help determine the existence of possible criminal activities, including money laundering, terrorism financing or document forgery, to which the art market is regularly exposed. The question arises as to the obligations incumbent to art lawyers who are privileged witnesses of the functioning of the art market. Such obligations include in particular the duty to enquire on the particularities of a transaction, the duty to terminate a mandate or the duty to report any suspicious transaction under threat of civil or criminal sanctions. A survey has shown that art law specialists would welcome more guidance in the form of tailored regulations or professional guidelines. Copyright © International Cultural Property Society 2015.",
+    "source": "International Journal of Cultural Property"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

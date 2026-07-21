@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0990-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Crime in Era of Digital Technology: What Can Change with Cryptocurrency Status Clarification for Development of Information Environment of Vietnam?",
+    "authors": "Kien L.T.; Binh N.H.",
+    "year": "2021",
+    "doi": "10.14704/WEB/V18SI04/WEB18141",
+    "abstract": "The present paper analyses the aspects of investigations of crime involving cryptocurrencies as a payment instrument. Ever since their emergence, cryptocurrencies have come to be actively used by criminals in all types of illegal activities, such as drug trafficking, money laundering, illegal arms trade, payments for criminal services and many other crimes. The paper aims to establish the methods of crime investigation to track data on cryptocurrency transactions and identify and show up the participants of illegal operations. The author shows that the development of computer and digital information technologies and the Internet has brought about the ever-increasing prevalence of cryptocurrencies in all social domains, including the shadow sector, i. e., the criminal world. Figures are provided illustrating the overall circulation of cryptocurrencies in the world and its illegal segment. Explaining the attractiveness of cryptocurrencies for criminal structures, the author points at its anonymity and inadequate regulation of various aspects in laws. An analysis is provided of the practice of countries where cryptocurrency circulation is not only permitted but regulated to a maximum possible extent. The impact of such regulation for the state of the shadow cryptocurrency market is shown. The research further concerns the potential for bringing international expertise to the Socialist Republic of Vietnam. Potential methods of crime investigation concerning shadow cryptocurrency transactions are outlined, helping to identify and show up the participants involved. Forecasts are provided as to the development of modern forensics and the emergence of new forensic methods helping to uncover cryptocurrency-related crime; proposals are drawn for amending criminal and criminal procedure laws to facilitate investigations in the new context. © 2021",
+    "source": "Webology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

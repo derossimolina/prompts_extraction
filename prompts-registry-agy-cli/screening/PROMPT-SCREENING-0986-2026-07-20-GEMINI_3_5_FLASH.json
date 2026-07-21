@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0986-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "State and institutional capacity in combating money laundering and terrorism financing in armed conflict: The Central Bank of Syria",
+    "authors": "Lababidi E.M.R.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-04-2019-0033",
+    "abstract": "Purpose: The purpose of this paper is to explore the relationship and implications of institutional autonomy and capacity through the Central Bank of Syria in its ability to implement an effective anti-money laundering (AML) and counter-terrorism financing (CTF) framework during a period of intense armed conflict. Design/methodology/approach: Due to the lack of reliable data currently available on Syria, this paper focuses on Syria’s AML/CTF legislation through passed laws and regulations, annual reports on the Central Bank of Syria and the AML and terrorism financing authority, the academic literature on money laundering, terrorist financing and institutional capacity. This paper will address the theoretical framework of Atkinson, Coleman and Skogstad’s four characteristics that define the degree of autonomy and capacity of an institution. Though their characteristics are applied toward the Canadian state, for the purpose of this paper, they have been adopted in the absence of their use verbatim in the case of the Central Bank of Syria. Findings: The Central Bank of Syria has experienced diminishing independence due to conflict-induced stress in Syria’s financial sector. This loss of autonomy is attributed to the prioritization of government-led emergency policies to secure and stabilize Syria's economy. Despite this loss, the Central Bank of Syria has maintained considerable and effective improvements in Syria’s AML/CTF framework, aligning it closer to that of international standards promoted by the Financial Action Task Force (FATF). Institutional gaps, however, still exist. These gaps imply that the Central Bank of Syria still lags in a number of areas that affect its capability in implementing a more effective AML/CTF framework. Research limitations/implications: The conflict in Syria is still a very new topic that lacks a considerable amount of reliable data. As such, many research limitations were encountered despite the volume of information reviewed for this paper in both Arabic and English. Nevertheless, this paper provides a clearer understanding of how state capacity is reflected in its institutions through certain policies and approaches taken by a central monetary authority with implications and results in a country rattled by years of intense conflict. Practical implications: Despite the research limitations and implications, this paper provides a clearer understanding of how state capacity is reflected in its institutions through certain policies and approaches taken by a central monetary authority with implications and results in a country rattled by years of intense conflict. This can be useful for institutional policymakers, as well as academics exploring the relationship between the state and its institutions in times of hardship. Originality/value: Though there is AML/CTF literature on Middle Eastern countries such as Egypt, Jordan and Saudi Arabia, very little is written on Syria. There is also very little written on the broader subject of state and institutional capacity through the lens of an effective AML and CTF framework during a period of intense armed conflict. By looking at an ongoing conflict, this paper explores a subject with as much detail as needed to provide an illustration of the relationship and implications of institutional autonomy and capacity in relation to the state through an effective AML/CTF framework in a country with a struggling financial system. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1557-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating business or policing crime? Tracing the policy convergence between taxation and crime control at the local level",
+    "authors": "Hörnqvist M.",
+    "year": "2015",
+    "doi": "10.1111/rego.12071",
+    "abstract": "Policing is commonly associated with street-level crime, whereas regulation is instead associated with the complexities of business and market governance. However, this distinction has been questioned by recent research and it seems that the worlds of regulation and policing are tending to merge. Still, little is known about how this convergence is unfolding. By following the intersection of two international policy-level processes - the financialization of organized crime and the upgraded monitoring of tax evasion - down to the level of organizational practice in the Swedish restaurant trade, this article contributes to an understanding of the institutional dynamic behind the recent convergence. At the same time, it discusses the conceptual relationship between policing and regulation, and the counter-arguments that may be needed to overcome the distinction between the two. I specifically address the neglected issue of the differential social valuation of \"crime\" and \"business,\" and find that it is relativized by a common focus on unreported transactions. © 2015 Wiley Publishing Asia Pty Ltd.",
+    "source": "Regulation and Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

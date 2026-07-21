@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0808-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Down the banking hole: Investigating the case of Slovenian banks",
+    "authors": "Premrl P.; Dobovšek B.; Slak B.",
+    "year": "2024",
+    "doi": "10.17356/IEEJSP.V10I2.1262",
+    "abstract": "The aim of this paper is to analyse who was responsible for the deterioration of the Slovenian banking sector to such an extent that it was almost destroyed by the 2008 financial crisis, necessitating the consideration of an international bailout. A literature review focused specifically on reports from law enforcement agencies and commissions that investigated banking practices, complemented by a qualitative empirical study. In order to gain insight into the reasons why this situation unfolded, ten structured interviews were conducted. The interviewees included experts with experience in the fields of prevention, detection, investigation and prosecution of economic crime, bad credit management, central banking, parliamentary committee management, forensic investigations, investigative journalism, and experts with academic knowledge in law and economics. Five different investigations explored the behaviour of banking sector actors before, during, and after the 2008 financial crisis. These investigations revealed behaviours ranging from negligence to criminal acts. The interviews indicated that the perpetrators were individuals of high social status with significant influence, explaining why people are often not willing to testify against them. On the detection and prosecution front, the main challenges were fears among criminal investigators, prosecutors, judges, and others of retaliation from superiors, job loss, and being publicly lambasted in the media. © (2024), (Centre for Social Sciences Hungarian Academy of Sciences). All rights reserved.",
+    "source": "Intersections East European Journal of Society and Politics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

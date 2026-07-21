@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2453-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Indiscriminate disruption of conditional inference on multivariate Gaussians",
+    "authors": "Caballero, WN; LaRosa, M; Fisher, AA; Tarokh, V",
+    "year": "2025",
+    "doi": "10.1016/j.ejor.2025.06.011",
+    "abstract": "The multivariate Gaussian distribution underpins myriad operations-research, decision-analytic, and machine-learning models (e.g., Bayesian optimization, Gaussian influence diagrams, and variational autoencoders). However, despite recent advances in adversarial machine learning (AML), inference for Gaussian models in the presence of an adversary is notably understudied. Therefore, we consider a self-interested attacker who wishes to disrupt a decisionmaker's conditional inference and subsequent actions by corrupting a set of evidentiary variables. To avoid detection, the attacker also desires the attack to appear plausible wherein plausibility is determined by the density of the corrupted evidence. We consider white-and grey-box settings such that the attacker has complete and incomplete knowledge about the decisionmaker's underlying multivariate Gaussian distribution, respectively. Select instances are shown to reduce to quadratic and stochastic quadratic programs, and structural properties are derived to inform solution methods. We assess the impact and efficacy of these attacks in three examples, including, a real estate evaluation application, an interest rate prediction task, and the use of linear Gaussian state space models. Each example leverages an alternative underlying model, thereby highlighting the attacks' broad applicability. Through these applications, we also juxtapose the behavior of the white-and grey-box attacks to understand how uncertainty and structure affect attacker behavior.",
+    "source": "EUROPEAN JOURNAL OF OPERATIONAL RESEARCH"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

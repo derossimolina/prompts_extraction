@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2277-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "STATE REGULATION OF THE ECONOMIC SECURITY BY APPLYING THE INNOVATIVE APPROACH TO ITS ASSESSMENT",
+    "authors": "Levchenko, V; Boyko, A; Savchenko, T; Bozhenko, V; Humenna, Y; Pilin, R",
+    "year": "2019",
+    "doi": "10.21272/mmi.2019.4-28",
+    "abstract": "Given the current integration processes of the world economies, the issue of economic security of the state is extremely acute. The openness of markets facilitates the free flow of resources but also threatens the rapid transfer of crisis phenomena from one economy to another. There is a need to develop an innovative methodological tool for assessing the level of economic security in the country based on the calculation of a generalized indicator that will serve as a benchmark in the formation of state economic policy in the context of ensuring its sustainable growth and countering internal and external threats. The methodological tools of the study are methods of normalization, Fishburn's rule, multiplicative model. Assessment of economic security level in the article is carried out in the following logical sequence: formation of an extended list of indicators characterizing the economic security of the state; characteristics of indicators in terms of opportunities and risk; determining the priority of indicators in the summarizing indicator; bringing indicators to a single measurement system; calculation of the integral indicator of economic security by constructing a multiplicative model; qualitative interpretation of the integral indicator of economic security. The results of the selection of relevant factors influencing the economic security of the state revealed that the selected determinants confirm the hypothesis of financialization of all economic processes in Ukraine and the need for state regulation of the financial system in order to ensure economic security. Empirical calculations have shown that during 2008-2018, Ukraine's level of economic security can be assessed as medium or low, and its dynamics correlate with crisis processes in the financial and economic sector and exacerbation of political instability in the country. Taking into account the low level of economic security in Ukraine, the authors elaborated a set of measures to improve the state regulation of economic security within the institutional, procedural and functional elements of it, as well as substantiate the impact of the proposed innovations on the economic security of the state. The results of the research can be useful for governments in order to adequately respond to destabilizing factors in the national economy.",
+    "source": "MARKETING AND MANAGEMENT OF INNOVATIONS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

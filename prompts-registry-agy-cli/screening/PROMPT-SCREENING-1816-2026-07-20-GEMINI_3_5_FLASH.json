@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1816-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Determinants of capital structure: Evidence from banking sector in Albania",
+    "authors": "Turan G.; Hasanaj S.",
+    "year": "2014",
+    "doi": "10.5901/mjss.2014.v5n13p482",
+    "abstract": "The aim of this paper is to give a panorama on theoretical and empirical study of capital structure in Banking system in Albania, its components and the factors affecting the decision how to efficiently allocate the capital needed for the second level banks. There are many factors and determinants which affect the capital structuring within a bank. The question each manager should do and the approaches the analysts and researchers have done will be analyzed in this paper. The most important components of capital structure are its determinants and how they affect the leverage ratio. In this paper will be introduced an econometric regression analyses about second level banks in Albania. The sample is composed of some important determinants of four biggest second level banks in Albania for years 2007 - 2012. Size, profitability, growth and tangibility are used as independent variables, while leverage ratio is the dependent variable. The empirical study determines if these variables are important over the capital structure and whether the independent variables are significant over the leverage ratios of the second level banks.",
+    "source": "Mediterranean Journal of Social Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

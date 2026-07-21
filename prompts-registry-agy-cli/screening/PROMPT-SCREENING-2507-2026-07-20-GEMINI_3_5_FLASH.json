@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2507-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "COUNTERING TRANSNATIONAL ORGANIZED GROUPS USING INFORMATION AND COMMUNICATION TECHNOLOGIES FOR THE ILLEGAL SALE OF DRUGS",
+    "authors": "Davidov, SI; Kondratev, MV; Polyakov, VV",
+    "year": "2024",
+    "doi": "10.52468/2542-1514.2024.8(1).111-120",
+    "abstract": "The research subject is the features of forensic and operational-search tools and methods in the fight against illegal sale of drugs and psychotropic substances, carried out by transnational organized groups using information and communication technologies. The research goal is to analyze the current state of illicit drug trafficking, carried out by organized groups using information technologies, and to develop proposals on this basis for effective operational-search and forensic support for the detection, disclosure and investigation of such crimes. The dialectical-materialistic method, general scientific methods of cognition, the content analysis method of scientific literature and empirical sources, the comparative legal method, the method of expert assessments constitute the methodological basis of the present research. During the study, the following scientific findings have been obtained, namely based on the forensic practice analysis, it has been concluded that crime in the drug business has changed significantly over the last decade. It is distinguished by the complex structure of criminal groups, remote covert interaction between its members, the interstate nature of its activities, the rapid replacement of members and structural links of a criminal group, the anonymity of monetary transactions and remote legalization of criminal proceeds. Effective concealment of the crime traces and criminals through the use of information and telecommunication technologies has become its focus. Drug-related crime is rapidly transforming and adapting to changes in the criminal environment, the digital space development, in particular, it is moving into the shadow segment of the Internet (Darknet) through the TOR technology. All this allows us to state that transnational organized criminal drug trafficking activity is becoming high-tech. To counter modern drug-related crime, it is necessary to develop international cooperation, some ways, forms and procedures of which are being proposed by the authors of the paper. The article describes in detail the possibility and feasibility of the interconnected implementation of operational-search and investigative activities, which generates a positive synergistic effect from their combination. The article proposes a set of practical measures to identify and investigate such crimes. In particular, the possibilities of using systems operating on the basis of machine learning, contextual data analysis, honeypot are being disclosed. An addendum to the Federal Law On Operational-Investigative Activity has been formulated, concerning the inclusion of the norm on a new operational-search measure Internet monitoring. Its content and potential in the practice of combating the investigated crimes have been revealed. This study can fill a number of gaps that have existed in the scientific literature on improving the practice of countering the illegal sale of drugs by transnational organized groups using information and telecommunication technologies.",
+    "source": "PRAVOPRIMENENIE-LAW ENFORCEMENT REVIEW"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

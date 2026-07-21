@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1881-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering, global financial instability, and tax havens in the Pacific Islands",
+    "authors": "van Fossen A.B.",
+    "year": "2003",
+    "doi": "10.1353/cp.2003.0058",
+    "abstract": "Pacific Islands offshore financial centers (OFCs) are battling against the danger that international organizations will cut them off from the global financial system. Since 1999 the image of the region's tax havens has been most shaped by the \"horror story\" of Nauru-the media's account of how Nauru has been involved with the Bank of New York and other banks in tens of billions of dollars of Russian money laundering, tax evasion, and illegal capital flight. In the late 1990s left-of-center governments led international organizations toward a much more aggressive attack on offshore financial centers. Soon international organizations began blacklisting offshore centers and threatening sanctions-with Pacific Islands being prominent targets. The advent of the conservative Bush administration in America defused a number of threats to offshore centers from international organizations, as the United States began to object to Europe's anti-tax haven agenda. While the attacks of 11 September 2001 led international organizations to rebuke offshore centers for helping to finance terrorism, OFC promoters contended that the anti-OFC campaign had been so weakened and qualified since the Bush presidency that it might soon collapse. The future of Pacific Islands offshore centers may rest on the outcome of political struggles in the United States, Europe, and international organizations. Two things are clear: that the dominant media image of a number of Pacific Islands states may continue to be shaped by perceptions of their offshore financial centers (making them targets of moral indignation), and that their international relations may at times be held hostage to the issue of their tax havens.",
+    "source": "Contemporary Pacific"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

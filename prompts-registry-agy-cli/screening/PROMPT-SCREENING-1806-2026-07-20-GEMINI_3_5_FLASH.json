@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1806-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The \"empty void\" is a crowded space: Health service provision at the margins of fragile and conflict affected states",
+    "authors": "Hill P.S.; Pavignani E.; Michael M.; Murru M.; Beesley M.E.",
+    "year": "2014",
+    "doi": "10.1186/1752-1505-8-20",
+    "abstract": "Background: Definitions of fragile states focus on state willingness and capacity to ensure security and provide essential services, including health. Conventional analyses and subsequent policies that focus on state-delivered essential services miss many developments in severely disrupted healthcare arenas. The research seeks to gain insights about the large sections of the health field left to evolve spontaneously by the absent or diminished state. Methods: The study examined six diverse case studies: Afghanistan, Central African Republic, Democratic Republic of the Congo, Haïti, Palestine, and Somalia. A comprehensive documentary analysis was complemented by site visits in 2011-2012 and interviews with key informants. Results: Despite differing histories, countries shared chronic disruption of health services, with limited state service provision, and low community expectations of quality of care. The space left by compromised or absent state-provided services is filled by multiple diverse actors. Health is commoditized, health services are heterogeneous and irregular, with public goods such as immunization and preventive services lagging behind curative ones. Health workers with disparate skills, and atypical health facilities proliferate. Health care absorbs large private expenditures, sustained by households, remittances, charitable and solidarity funding, and constitutes a substantial portion of the country economy. Pharmaceutical markets thrive. Trans-border healthcare provision is prominent in most studied settings, conferring regional and sometimes true globalized characteristics to these arenas. Conclusions: We identify three distortions in the way the global development community has considered health service provision. The first distortion is the assumption that beyond the reach of state- and donor-sponsored services is a \"void\", waiting to be filled. Our analysis suggests that the opposite is the case. The second distortion relates to the inadequacy of the usual binary categories structuring conventional health system analyses, when applied to these contexts. The third distortion reflects the failure of the global development community to recognise-or engage-the emergent networks of health providers. To effectively harness the service provision currently available in this crowded space, development actors need to adapt their current approaches, engage non-state providers, and support local capacity and governance, particularly grassroots social institutions with a public-good orientation. © 2014 Hill et al.",
+    "source": "Conflict and Health"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0027-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legislative Categorization of Crimes Committed with the Help of Cryptocurrencies; [Categorización legislativa de los delitos cometidos con la ayuda de criptomonedas]",
+    "authors": "Orobets K.; Shkolnikov V.; Batrachenko T.; Baranovska T.; Sereda V.",
+    "year": "2025",
+    "doi": "10.62486/agma2025253",
+    "abstract": "Introduction: the legal regime of cryptocurrency in different countries of the world is heterogeneous. In some, it is not defined at all, which leads to legal conflicts, including when qualifying crimes committed with cryptocurrency use. The situation is further complicated because such crimes can occur in the territories of several states where cryptocurrency has a different legal regime. Traditional legislation and mechanisms for combating money laundering and terrorist financing are practically ineffective in the landscape of crimes involving the use of cryptocurrency. Objective: the aim of the study is to systematise the main patterns of crimes related to the use of cryptocurrency, as well as analyse existing vectors of their legal assessment, appropriate design and application of effective methods of combating these crimes. Method: based on the methods of analysis and synthesis, qualitative data analysis, using content analysis as the primary research tool, it is shown that the main problem in preventing the use of cryptocurrency in predicate crimes lies in the technical difficulty of identifying a person or group of persons who carry out cryptocurrency transactions for illegal purposes. Such goals may be aimed at legalising funds, i.e., concealing their illegal origin, making payments in a hidden network, organising various fraudulent schemes, financing terrorism, and other crimes. Results: the article argues that given the technical specifics of cryptocurrency transactions and the technical capabilities of “masking” the origin of cryptocurrency funds, it is necessary to develop methods for studying trace formation and develop an algorithm for establishing and consolidating forensically significant information for this type of crime. The results indicate that the future of law enforcement in the fight against cryptocurrency-related crime will require a multifaceted approach. Agencies must adopt a proactive approach by foreseeing emerging criminal strategies. To protect the public from crimes using digital assets, law enforcement must be flexible, progressive, and technologically savvy as cryptocurrencies continue to develop. The development of provisions on cryptocurrency also determines the theoretical significance of the work as an object and means of committing crimes, a surrogate means of payment during the commission of certain crimes. Conclusions: the practical significance of the work lies in the possibility of using its results to solve problems arising in the law-making activities of state authorities and law enforcement activities, as well as in developing recommendations for improving criminal legislation in the field of cryptocurrency-related crimes. © 2025; Los autores.",
+    "source": "Management (Montevideo)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

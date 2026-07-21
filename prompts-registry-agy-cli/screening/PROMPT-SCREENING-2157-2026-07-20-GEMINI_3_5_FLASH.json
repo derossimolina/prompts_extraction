@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2157-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Taking the shopping centre online: New models in e-commerce",
+    "authors": "Dixon T.; Marston A.",
+    "year": "2005",
+    "doi": "10.1108/02637470510589977",
+    "abstract": "Purpose - This paper aims to provide a brief résumé of previous research which has analysed the impact of e-commerce on retail real estate in the UK, and to examine the important marketing role of the internet for shopping centre managers, and retail landlords. Design/methodology/approach - Based on the results from a wider study carried out in 2003, the paper uses case studies from two different shopping centres in the UK, and documents the innovative uses of both web-based marketing and online retailing by organisations that historically have not directly been involved in the retailing process. Findings - The paper highlights the importance of considering online sales within a multi-channel approach to retailing. The two types of emerging shopping centre model which are identified are characterised by their ultimate relationship with the physical shopping centre on whose web site they reside. These can be summarised as: the \"centre-led\" approach, and the \"brand-led\" or \"marketing-led\" approach. Research limitations/implications - The research is based on a limited number of in-depth case studies and secondary data. Further research is needed to monitor the continuing impact of e-commerce on retail property and the marketing strategies of shopping centre managers and owners. Practical implications - Internet-based sales provide an important adjunct to conventional retail sales and an important source of potential risk for landlords and tenants in the real estate investment market. Regardless of whether retailers use the internet as a sales channel, as a product-sourcing tool, or merely to provide information to the consumer, the internet has become a keystone within the greater retail marketing mix. The findings have ramifications for understanding the way in which landlords are structuring their retail property to defray potential risks. Originality/value - The paper examines shopping centre online marketing models for the first time in detail, and will be of value to retail occupiers, owners and other stakeholders of shopping centres. © Emerald Group Publishing Limited.",
+    "source": "Property Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

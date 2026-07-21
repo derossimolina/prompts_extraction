@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2138-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Internet marketing: Web site navigational design issues",
+    "authors": "Taylor M.J.; England D.",
+    "year": "2006",
+    "doi": "10.1108/02634500610641570",
+    "abstract": "Purpose - A fundamental internet marketing challenge is that consumers can quickly move from seeks to one web site to another if they cannot easily find what they want on a given web site. This paper address the web site navigational design issues associated with internet marketing. Design/methodology/approach - A two-year participant observation study in a UK tourism marketing organisation is provided in order to demonstrate a web site design approach in action. Findings - Existing web site design approaches such as hierarchy charts and storyboards can assist in structuring web site content but do not necessarily cater well for making web sites straightforward to use by consumers. Human computer interface web site design approaches typically relate more to style, appearance and functionality than to structuring web site content. Web site content ranking and grouping can allow straightforward access to web site content, by making frequently required content the most accessible and by grouping related content for ease of identification. From a web site marketing perspective, the more accessible web site content relating to products and services offered, the more likely that such products and services will be purchased by the consumer. Practical implications - If consumers are to use a web site and use it again in the future they need to be able to find what they require in a straightforward manner. Ranking web site content to present frequently required content earlier in the web site, and grouping web site content so that similar content appears on the same web page or on closely linked web pages can make a web site more straightforward to navigate. In a marketing context, the more accessible a web site, the more likelihood there is of repeat business from the consumer. Originality/value - The originality of the research reported in this paper concerns the use of web site content ranking and grouping to design web sites that can enable straightforward access to information and transactions by consumers, and thus potentially increase both current sales and future repeat business. © Emerald Group Publishing Limited.",
+    "source": "Marketing Intelligence and Planning"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

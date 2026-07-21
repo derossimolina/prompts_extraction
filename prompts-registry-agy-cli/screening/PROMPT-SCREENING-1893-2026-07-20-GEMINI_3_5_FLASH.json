@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1893-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money launderers and tax havens: Two sides of the same coin?",
+    "authors": "Schwarz P.",
+    "year": "2011",
+    "doi": "10.1016/j.irle.2010.12.001",
+    "abstract": "This paper investigates whether tax havens have an incentive to maintain low regulatory standards in order to attract black money activities. Using a new dataset on money laundering regulation, the results of this study show that tax haven and money laundering services coincide within the same country. This effect is especially observable for regulative instruments which increase the probability of detecting money laundering; whereas in the case of punitive regulation for money laundering the complementary relationship is weaker, perhaps due to a \" false friends\" effect. If we classify tax havens according to their per capita GDP, poorer tax havens in particular tend to supply both services, because the gains from their tax haven status are low compared to those of wealthier and well-established tax havens. From a policy perspective the results add new insights to the debate on the welfare effects of tax havens since the results suggest that poorer tax havens might be reluctant to provide the necessary regulatory environment in order to constrain money laundering. This externality is beyond the familiar tax revenue effects caused by tax havens. © 2011 Elsevier Inc.",
+    "source": "International Review of Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

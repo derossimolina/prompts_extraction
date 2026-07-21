@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2009-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A crossroad in combating and preventing financial crime: Looking for synergetic instruments for attack and prevention",
+    "authors": "Biagioli A.; Nardo M.",
+    "year": "2007",
+    "doi": "10.1108/13590790710742627",
+    "abstract": "Purpose The paper aims to address regulators, enforcers and the academy, presenting reflections on some research-driven innovative approaches, strategies and tools in the fight against financial and economic crime, with reference to some instances of concrete application deriving from the Italian FIU's experience and know-how. Designomethodologyoapproach The paper focuses on the need for a systemic approach both in considering the problems of the regulatoryooperational apparatus for combating financial crime (including evaluation issues) and in identifying solutions devised to improve such apparatus and its results. This approach cannot be detached from a methodological attitude based on synergies between the various parts involved. Findings In the light of such systemic approach, new perspectives and innovative ideas are put forward with reference to some major topics of the strategies for combating financial crime. These refer to themes such as measuring AMLoCTF costs and benefits, bridging regulatory and professional frontiers, modelling and monitoring the status of the financial system and the behaviour therein, developing prevention tools, integrating interdisciplinary knowledge, and profiting from research. Research limitationsoimplications A systemic approach in understanding and fighting financial crime and its complex issues implies pooling together knowledge and expertise gathered under different complementary disciplines. This may provide information on the manifold sides and tinges of the phenomenon. By the same token, it is essential to take into consideration the systemic effects that specific action undertaken by the authorities may entail due to the subsequent reactions from other parts in the system. Practical implications Data provided by the system offer a privileged practical basis in order to model the system's structure and understand its dynamics and its reactions to endogenous and exogenous impulses. Originalityovalue The paper explores themes and issues to which the international community is becoming increasingly sensitive, and which would certainly benefit from innovative vision and approach. The ideas and solutions expressed surely need further development, test and discussion, but they are bound to become part of the most significant prospective challenges in the combat against economic and financial crime. © 2007, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

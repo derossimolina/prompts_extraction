@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1492-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "HSBC Swiss bank accounts-AML compliance and money laundering implications",
+    "authors": "Naheem M.A.",
+    "year": "2015",
+    "doi": "10.1108/JFRC-03-2015-0016",
+    "abstract": "Purpose – This paper aims to provide an analysis of the HSBC Swiss bank accounts scandal, from the perspective of anti-money laundering (AML) compliance, and considers the future AML implications for the banking sector and HSBC. It reviews the use of a whistleblower to highlight AML irregularities rather than official reporting through the current AML compliance system. Design/methodology/approach – The paper uses secondary data to offer a viewpoint on the HSBC issues from a money laundering and financial crime perspective. The paper extracts key statements from staff at HSBC and regulators and examines how AML risk assessment was undertaken at this time and what changes need to occur in the future. It considers the implications of the current theoretical context for AML from an agency theory perspective. Findings – The main findings are that AML compliance needs to be embedded into a proactive corporate social responsibility approach rather than relying solely on regulation to improve detection and reporting of money laundering activity. Research limitations/implications – The research topic is new, and therefore, analysis papers and other academic writing on this topic are limited. Future research could consider the outcomes of the Swiss bank’s attempts to prosecute the whistleblower and whether this would have implications for future internal reporting and whistleblowing approaches to support AML compliance. Practical implications – The implications from the research are the recommendations to the banking sector on addressing AML deficiencies especially within the context of an evolving level of criminal sophistication towards money laundering. Social implications – The paper supports the argument for integrating social corporate responsibility and AML compliance to produce a whole bank response to financial crime. This is in contrast to the current systems, which seem to be prevalent within the financial services, of profit and business being seen as separate rather than integral to regulation and control. Originality/value – The originality of this paper is the current example of the HSBC Swiss case and the focus specifically on AML compliance rather than tax evasion, which has been the media angle on the issue. © 2015, © Emerald Group Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

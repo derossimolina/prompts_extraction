@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1968-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax structuring for foreign pension fund investments in U.S. real estate funds",
+    "authors": "Kwon B.",
+    "year": "2011",
+    "doi": "10.3905/jpe.2011.15.1.079",
+    "abstract": "FPFs looking to invest in U.S. real estate funds will find proper tax structuring to be highly beneficial in maximizing their after-tax returns. Managers of real estate funds will be able to attract FPF investment better if they have structures in place to minimize the U.S. tax on FPFs. Without proper tax structuring, an FPF could face an effective U.S. tax rate of 54.5% on its investment in a U.S. real estate fund. A private REIT could bring the effective rate down to 0% for dividend distributions and a rate of 54.5% on capital gain distributions. A leveraged blocker could bring the effective rate down to 19.125%. In choosing a tax structure, the types of investments of the real estate fund, the characteristics of the FPF and the willingness of the parties to enter into more f lexible structures will affect the overall tax rate incurred by the FPF. In general, when considering the costs of implementing a structure, the leveraged blocker often provides a simple structure that will greatly reduce the effective tax rate imposed on the FPF.",
+    "source": "Journal of Private Equity"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

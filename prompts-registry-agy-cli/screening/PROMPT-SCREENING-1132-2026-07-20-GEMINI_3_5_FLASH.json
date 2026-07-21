@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1132-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International financial fraud: Economic and psychological aspects, classification and ways of minimization; [Международное финансовое мошенничество: экономические и психологические аспекты, классификация и пути минимизации]; [Міжнародне фінансове шахрайство: економічні й психологічні аспекти, класифікація та шляхи мінімізації]",
+    "authors": "Gryazeva E.; Mayorova O.; Malchikova N.; Nemkova M.; Paravina M.",
+    "year": "2021",
+    "doi": "10.21003/EA.V189-02",
+    "abstract": "The active use of the latest information technologies and non-cash payment forms has led to an increase in various types of fraud in the financial sector. Moreover, virtually all spheres of public relations now fall under the risk of fraudulent schemes, starting from financial credit and insurance and ending with foreign economic activity and the Internet. In addition, some other economic factors contribute to the significant spread of fraudulent schemes in modern conditions: a wide variety of new financial instruments (types of money, securities, financial services); rapid growth in financial transactions; leveling barriers to the unhindered movement of money, goods, and services in the process of globalization, which provokes an increase in transnational financial crime. Therefore, in search of tools to preserve existing and generate potential income, especially trusting investors fall into the traps of scammers. With the development of the current economic institutionalism, the principle of rationality in human economic behavior was no longer considered absolute, therefore, representatives of the institutional theory noted the irrational nature of human behavior, including in the field of economics and finance. Modern reality and economic practice are clear evidence of the truthfulness of this thesis. After all, despite the constant warnings of the mass media and other sources regarding various fraudulent schemes, as well as (paradoxically) often their own negative experience, citizens continue to invest in various kinds of fraudulent schemes. According to experts, the main reason is that «people will always strive for «easy» money, and it is unlikely that this desire will ever disappear» (Bruton, 2015). In this paper, we study the possibilities of preventing financial fraud on an international scale. In the context of the complexity of modern business processes, one of the most urgent problems has become the problem of activating the manifestations of corporate fraud. On average, companies lose about 5% of their profits due to corporate fraud, and the annual losses from such economic crimes amount to about USD 4 trillion on a global scale. In Russia, this figure reaches 15% (and we are talking only about losses made public by companies). The lion's share of fraudulent schemes falls on the banking sector. The implementation of fraudulent schemes in the banking sector has certain features, in particular: fraudulent actions cause damage not only to banks and their depositors, but also negatively affect the stability of the financial system as a whole; such crimes are characterized by high latency, since managers, fearing for the business reputation of their bank, only in isolated cases turn to law enforcement agencies with appropriate statements; identifying the facts of financial fraud is very difficult since fraudsters (often not without the help of bank managers) hide their actions in every possible way and take measures to launder funds obtained by criminal means. © Institute of Society Transformation, 2021",
+    "source": "Economic Annals-XXI"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

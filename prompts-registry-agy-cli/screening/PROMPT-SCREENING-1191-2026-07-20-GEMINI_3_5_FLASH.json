@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1191-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Urban Regeneration and temporary re-use of the assets: assets confiscated from organized crime; [Rigenerazione urbana e riuso temporaneo dei beni: i beni confiscati alla criminalità organizzata]",
+    "authors": "Ferroni M.V.",
+    "year": "2022",
+    "doi": "10.3280/SUR2022-128007",
+    "abstract": "The contribution, starting from a different conception of urban regeneration, concerns the temporary re-use of real estate properties. This re-use has the function to revitalise the degraded estates, in a transitory period, until they become places to be used for other functions. Particularly, the temporary re-use and social re-use of confiscated assets from the mafia has been analysed. This re-use, that in the development of the arrears of the long procedure determines a new destination, can be assigned temporarily, from the seizure phase to the local entities and in particular to the Municipality (that will manage them directly or assign them to a series of subjects indicated by the legislator: i.e. the youth community, voluntary organizations, recovery centres and cures for drug addicts, cooperatives). Copyright © FrancoAngeli.",
+    "source": "Sociologia Urbana e Rurale"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

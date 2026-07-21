@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0973-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From theory to practice: the money laundering phenomenon in Tolima (2005-2015); [De la teoría a la práctica: el fenómeno del lavado de activos en el Tolima (2005-2015)]",
+    "authors": "Quintero H.A.H.; Sanmiguel C.V.; Nieto T.V.",
+    "year": "2021",
+    "doi": "10.17151/JURID.2021.18.2.13",
+    "abstract": "This article intends to establish the application of the normative, administrative and criminal anti-money laundering framework, having the Department of Tolima as a spatial framework and the 2005-2015 decade as a time frame. To this end, the qualitative methodology has been implemented on the regulatory information collected, as well as a mixture in relation to the other data from the Financial Information and Analysis Unit (UIAF for its acronym in Spanish), the National Department of Statistics (DANE for its acronym in Spanish) as well as the results of the field work conducted in the criminal jurisdiction of the region. The normative compilation of the most relevant administrative and criminal field in chronological order is counted as a result, descending in the current state under study. The information available on the number of suspicious transactions report (ROS for its acronym in Spanish) 2014, in the financial and real sector by years is also recorded, without discrimination by Department due to the refusal of public entities to give access to these data, considering they are subject to reservation. Five processes of money laundering were found in the judicial sphere of the Department of Tolima during the period studied. Among the conclusions, it is proposed that, given the hypothesis of an inoperative regulatory framework to combat money laundering in the region, what the research reveals is the existence of a solid legal framework but, apparently, a scarce occurrence of the criminal phenomenon. It is not possible to carry out studies that include more precise variables, unless the State entities offer more data by region, until now protected by legal reserve as argued. © (2023), (Universidad de Caldas). All Rights Reserved.",
+    "source": "Juridicas"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

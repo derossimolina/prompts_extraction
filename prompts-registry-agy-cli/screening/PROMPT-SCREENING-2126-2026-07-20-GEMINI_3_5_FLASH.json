@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2126-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "US law enforcement strategies to combat organized crime threats to financial institutions",
+    "authors": "Ott T.P.",
+    "year": "2010",
+    "doi": "10.1108/13590791011082742",
+    "abstract": "Purpose – This paper seeks to identify the internal threats posed to financial institutions by international organized crime (IOC) groups, and outline relevant law enforcement strategies. Design/methodology/approach – Case studies and historical data from several US law enforcement agencies were relied on to identify the IOC threats, and to provide a subjective description of a strategic framework. Findings – IOC has steadily expanded its presence, sophistication and influence, and today poses a substantial threat to financial institutions and markets throughout the world. IOC groups routinely utilize corrupt bank employees, attorneys, accountants and other gatekeepers, or “enemy insiders,” in a wide array of complex schemes involving money laundering, financial fraud, and high-tech computer intrusions resulting in billions of dollars of losses each year to individual consumers and the global economy. A comprehensive law enforcement strategy to combat IOC must prioritize the threats, marshal intelligence, capitalize on foreign partnerships, and employ non-law enforcement measures. Practical implications – Law enforcement must increase its efforts to work collaboratively with public and private institutions, academia, and foreign counterparts to share intelligence on IOC activities, forecast emerging threats, identify priority targets, and pursue adaptable strategies that will be effective and sustainable far into the future. Social implications The paper increases the public's awareness, and promotes collaborative efforts among various societal components to address the IOC threats to financial institutions. Originality/value – The successful implementation of the strategies discussed in this paper will enhance the ability of law enforcement and prosecution agencies to tackle the evolving challenges of IOC, and to help preserve the stability and integrity of our financial institutions. © 2010, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1831-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bitcoin, crypto-coins, and global anti-money laundering governance",
+    "authors": "Campbell-Verduyn M.",
+    "year": "2018",
+    "doi": "10.1007/s10611-017-9756-5",
+    "abstract": "Crypto-coins (CCs) like Bitcoin are digitally encrypted tokens traded in peer-to-peer networks whose money laundering potential has attracted the attention of regulators, firms and the wider public worldwide. This article assesses the effectiveness of the global anti-money laundering regime in balancing both the challenges and opportunities presented by these novel ‘altcoins’. Two main arguments are advanced. First, the implications that crypto-coins presently pose for global anti-money laundering efforts stem less from the threats of their illicit uses as digital currencies and more from the opportunities presented by their underlying blockchain technologies. Second, despite several shortcomings, the risk-based approach pursued by the Financial Action Task Force (FATF) strikes an effective balance between the existing threats and opportunities that crypto-coins currently present. Rather than a conclusive evaluation however this article stresses the need for continual monitoring and investigation of the wider ethical implications raised by CCs for global efforts to combat money laundering in an era of rapid technological change. © 2018, Springer Science+Business Media B.V., part of Springer Nature.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

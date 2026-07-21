@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1043-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FINANCIAL FRAUD: A LITERATURE REVIEW",
+    "authors": "Reurink A.",
+    "year": "2018",
+    "doi": "10.1111/joes.12294",
+    "abstract": "This paper describes the empirical universe of financial fraud as it has been documented in the academic literature. Specifically, it describes the different forms of fraudulent behaviour in the context of financial market activities, the prevalence and consequences of such behaviour as identified by previous research, and the economic and market structures that scholars believe facilitate it. To structure the discussion, a conceptual distinction is made between three types of financial fraud: false financial disclosures, financial scams, and financial mis-selling. The findings of the literature review highlight a number of recent developments that scholars think have facilitated the occurrence of financial fraud, including (1) the development of new fundamental conflicts of interest and perverse incentive structures in the financial industry; (2) an influx of unsophisticated, gullible participants in the financial marketplace; (3) the increasing complexity involved in financial market transactions as a result of rapid technological, legal, and financial innovation and an ever-widening menu of financial products; (4) an increase in the use of justified secrecy in the form of a mystification of trading models adopted by fund managers. © 2018 John Wiley & Sons Ltd.",
+    "source": "Journal of Economic Surveys"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0967-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ambiguities in Accounting and their Impact on Regulatory Arbitrage A Study on the Anchoring of the Rights and Obligations Approach in the IASB's Conceptual Framework",
+    "authors": "Kunkel T.",
+    "year": "2021",
+    "doi": "10.1515/ael-2019-0049",
+    "abstract": "The revision of the asset and liability definitions is at the core of the International Accounting Standards Board's (IASB) efforts to reflect more truthfully the economic substance of the underlying business transactions. In the IASB's revised Conceptual Framework (CF) from 2018, the board redefined assets and liabilities in terms of rights and obligations, thereby explicitly abstaining from a notion of indivisible balance sheet items. This alteration lays the conceptual foundation for carving out pieces of an item in accounting standards, enabling the removal of arbitrary bright line tests, and, eventually seeks to tackle regulatory arbitrage. Drawing upon 18 expert interviews as well as a document analysis, this study sheds light on the process that led to the anchoring of the rights and obligations model in the IASB's CF. Using literature on ambiguities in accounting as a theoretical frame, this study goes on to show that removing ambiguities in the asset and liability definitions creates new ambiguities and additional discretionary leeway in turn. The paper argues that the perpetual cycle of ambiguity reduction and creation in accounting (Davie, 2000) also includes ambiguity shifting between the conceptual basis of financial reporting and accounting standards. By comparing the previous International Accounting Standard (IAS) 17: Leases, which followed a physicalist, ownership-based notion of assets, with the revised International Financial Reporting Standard (IFRS) 16, the paper demonstrates that the explicit anchoring of the rights and obligations approach does not fully solve the issue of regulatory arbitrage. Instead, it shifts the playing field for structuring activities from the evasion of precise rules to the bending of interpretations. © 2020 CONVIVIUM, association loi de 1901 2020.",
+    "source": "Accounting, Economics and Law: A Convivium"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

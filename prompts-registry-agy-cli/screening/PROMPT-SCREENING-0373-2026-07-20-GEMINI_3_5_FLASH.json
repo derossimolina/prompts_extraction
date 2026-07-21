@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0373-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Temporal Structuring of Corporate Sustainability",
+    "authors": "Mena S.; Parker S.",
+    "year": "2024",
+    "doi": "10.1007/s10551-024-05648-5",
+    "abstract": "Research on corporate sustainability has started to acknowledge the role of temporality in creating more sustainable organizations. Yet, these advances tend to treat firms as monolithic and we have little understanding of how different temporal patterns throughout an organization shape perceptions of and actions toward sustainability. Building on studies highlighting how the temporal structures of work shape employee engagement with different organizational processes and issues, we seek to answer: How does the temporality of work practices structure perceptions of corporate sustainability throughout the firm? Using data from an ethnography of a small European sustainable bank, we provide an account of the variety of ways in which employees in different departments perceive the bank and how they engage with sustainability. We then go on to show how the temporal structures of work practices within different departments help explain some divergence in perceptions of sustainability. Our study highlights the variegation of temporal structures in organizational processes of meaning-making and its role for a better understanding of the efforts to make corporations more sustainable. © The Author(s) 2024.",
+    "source": "Journal of Business Ethics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

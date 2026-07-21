@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0935-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Personalization of Banking Products (Services) using Digitalization Technologies",
+    "authors": "Rysin V.; Prokopenko O.; Muravskyi O.; Pechenko R.; Holiachuk N.; Zinchenko A.",
+    "year": "2023",
+    "doi": "10.37394/23207.2023.20.216",
+    "abstract": "The aim of the article was to build and test a potential assessment model using digitalization technologies for the personalization of banking products. The methods of graphic modeling, and expert survey were used in the research. The experience and specifics of using digital tools were analyzed, and the appropriateness of their application in bank practice was determined using the example of a Ukrainian bank. The potential of implementing specific technological solutions for the personalization of banking products (services) in the practice of the analyzed bank is determined. The Markowitz Model was applied for the allocation of the investment budget for the implementation of digital technologies with the purpose of improving the personalization of banking products (services). It was shown how the practical implementation of digital technologies and digitization tools will contribute to the growth of the competitiveness of this bank in the highly competitive market of banking products through the personalization of the client experience. Prospects for further research include the identification and structuring of digital tools that can be applied to specific expected personalized experiences. © 2023, World Scientific and Engineering Academy and Society. All rights reserved.",
+    "source": "WSEAS Transactions on Business and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0440-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal regulation of payment using virtual currency: a comparative study",
+    "authors": "Alhammouri N.; Al-Hammouri A.; Al-Billeh T.; Almamari A.",
+    "year": "2025",
+    "doi": "10.1504/IJESDF.2025.147164",
+    "abstract": "The article analyses the legal regulation of payment using virtual currency, so that virtual currencies such as Bitcoin and Ethereum deal with online payments and transfers directly without relying on traditional financial institutions. The study therefore focuses on the framework for the legal regulation of these currencies and their impact on the economy and consumers. The study includes a review of current legislation in different countries governing the use and trading of virtual currencies. It also examines legal and security challenges related to this type of payment, including fraud, money laundering and funding terrorism. The study highlights the central bank’s and governments’ efforts to regulate and control the use of virtual currencies, including licensing common platforms and exchanges and restricting investment and transfer operations. The study emphasises the need for balanced regulation to achieve legal protection for stakeholders without prejudice to the innovation and development of financial technology. Copyright © 2025 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Electronic Security and Digital Forensics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

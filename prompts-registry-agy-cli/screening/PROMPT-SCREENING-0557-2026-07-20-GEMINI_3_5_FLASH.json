@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0557-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Role of Monitoring Islamic banks to Control Money Laundering Crimes from the Viewpoint of Employees in the Central Bank of Jordan",
+    "authors": "Zyadat A.A.F.H.",
+    "year": "2022",
+    "doi": "10.37394/23207.2022.19.14",
+    "abstract": "-The present study aimed to examine the role of monitoring Islamic banks in fighting against money laundering crimes from the perspective of the employees working at the Central Bank of Jordan. The researcher adopted a descriptive analytical approach. The sample consists of 60 employees who were chosen from the Central Bank of Jordan. Questionnaire forms were passed via email to those employees to fill. All the forms were filled and retrieved. It was found that the reality of monitoring money laundering crimes in Islamic banks by central bank of Jordan is moderate. It was found that there is a positive statistically significant impact of monitoring Islamic banks on control money laundering crimes from the viewpoint of employees in the central bank of Jordan. The researcher recommends activating the role of the Central Bank of Jordan in fighting against money laundering crimes. © 2022, World Scientific and Engineering Academy and Society. All rights reserved.",
+    "source": "WSEAS Transactions on Business and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

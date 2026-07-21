@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2305-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bribery and the Global Pharmaceutical Industry: An Exploration of Patterns and Penalties in the Organisation for Economic Cooperation and Development Reports",
+    "authors": "Kohler, J; Khan, A; Bowra, A",
+    "year": "2026",
+    "doi": "10.1017/jme.2026.10237",
+    "abstract": "Bribery by the pharmaceutical industry is one common manifestation of corruption that can be found in a pharmaceutical system. This study analyzes patterns of bribery in the global pharmaceutical industry through a systematic review of Organisation for Economic Co-operation and Development (OECD) Working Group on Bribery Phase Reports published between 1999 and February 2025. These reports document investigations and enforcement actions related to bribery across jurisdictions. An inductive thematic analysis was used to identify key patterns in cases implicating pharmaceutical firms. We found patterns across many of the cases we studied. For example, bribery was often approved by high-ranking managers. Also, the use of intermediaries and complicated corporate structures to obscure bribes. Multiple cases revealed the involvement of subsidiaries, third-party vendors, or shell companies that processed payments disguised as legitimate transaction. Reported bribes amounted to about US$12.6 million, with sanctions exceeding US$1.1 billion. Government officials, regulatory authorities, and healthcare providers were bribed through cash, gifts, luxury travel, and fraudulent research to gain market access, increase sales, or influence prescribing. These findings underscore the systemic nature of bribery in the pharmaceutical sector and call for stronger oversight and accountability to protect public trust and equitable medicine access.",
+    "source": "JOURNAL OF LAW MEDICINE & ETHICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

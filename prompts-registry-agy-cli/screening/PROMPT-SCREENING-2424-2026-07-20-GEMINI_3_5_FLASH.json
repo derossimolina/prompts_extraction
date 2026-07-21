@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2424-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CONTEMPORARY RUSSIAN MARKET OF SERVICES PROHIBITED FOR CIVILIAN CIRCULATION: CHARACTERISTICS AND DETERMINANTS",
+    "authors": "Repetskaya, AL",
+    "year": "2023",
+    "doi": "10.17150/2500-4255.2023.17(2).134-145",
+    "abstract": "The article is devoted to the analysis of the contemporary state of the market of criminal services prohibited for civilian circulation, and its modern determinants. The research is based upon statistical data from different state organizations that register the situation in the researched spheres, as well as expert assessments of leading Russian and foreign analytical companies and specialists involved in the analysis of the condition of the illegal services' spheres. The author assessed the condition and development trends of some types of prohibited services - both recent (services of hackers, trade in personal data), and traditional (money laundering, forgery of documents, smuggling, corruption services, etc.). Key factors determining the development in this segment of criminal market are digitization of most processes of public life, their transition to the Internet, development of digital currencies and possibilities of using them as payment for prohibited services. The pandemic also had a correlating influence on the development of this market.The analysis showed that, at present, the criminal market of prohibited services is developing unevenly: there appear new, actively spreading types (services of hackers, trade in personal data); at the same time, some of the traditional services have under-gone considerable changes in regards to the mechanisms of providing them, as well as the possibilities of finding them and paying for them with cryptocurrencies (money laundering, sexual services, corruption services, etc.). It allows such services not only to stay, but also to develop. Another part of traditional services is, on the contrary, losing its significance (contract killing and other violent methods). As for the raiding services, here the violent methods have been replaced by exploiting gaps in legislation together with criminal methods (fraud, forgery of documents and others), which make it possible to transfer other people's property to the possession of the client.The author states that contemporary market of prohibited services is, on the whole, successful in evading social control in those spheres where the mechanisms of coun-teraction by the state are just being created. The virtualization of this market will intensify, which is considerably facilitated by the global digitization of public life.",
+    "source": "RUSSIAN JOURNAL OF CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

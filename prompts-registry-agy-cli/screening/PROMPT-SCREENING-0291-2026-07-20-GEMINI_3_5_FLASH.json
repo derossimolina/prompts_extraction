@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0291-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The gift and the giving: Reciprocity in international aid and development in Timor-Leste",
+    "authors": "Jones R.G.",
+    "year": "2025",
+    "doi": "10.1093/cdj/bsae008",
+    "abstract": "This paper examines the transactional dynamics of participation in foreign aid and development programs by exploring links between Marcel Mauss' characteristics of gift-giving and Marshall Sahlins' typology of reciprocal relationships. Grounded in Mauss' insights, a modified version of Sahlins' Negative, Generalized and Balanced categories is applied to recipient experiences of donor activities in Timor-Leste. In this context, I look at how the 'development gift' positions and defines those involved, from producing uncomfortable hierarchies of power and prestige to enhancing mutual trust and respect. Analysis of interviews with 'ordinary' Timorese indicates that in offering, accepting and repaying the gift, significant difficulties arise from misunderstandings about the social obligations structuring the exchange. Sahlins' Negative and, in some circumstances, Generalized forms predict a breakdown in relationships, although not necessarily in the project itself. By contrast, the Balanced form typically leads to the type of interactions recipients desire. Responding to interviewee comments, I propose a 'charitable' mode of the Generalized form and identify a new category, Familial reciprocity. I conclude by recommending this modified typology as a way of understanding how we might give and receive respect, a word frequently used by recipients to describe successful development relationships with outsiders. Importantly, while grounded specifically in Timorese experiences, there is scope to apply the proposed framework to any activity in which one party identifies as a donor and others are presented as beneficiaries of their 'free' development gifts. © 2024 Oxford University Press and Community Development Journal.",
+    "source": "Community Development Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0372-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "EFFECTIVENESS OF THE REGULATORY ENFORCEMENT FOR AML IN UKRAINE: IS IT ALL QUIET ON THE FINANCIAL FRONT?",
+    "authors": "Kovalenko V.; Shevtsova O.; Sheludko S.; Matskiv O.; Azarenkov S.",
+    "year": "2024",
+    "doi": "10.55643/fcaptp.6.59.2024.4550",
+    "abstract": "The relevance of studying the effectiveness of the existing financial monitoring system, particularly the adequacy of its regulatory framework, is driven by the intensification of processes related to the legalization of criminal proceeds involving financial institutions. This includes the entrenchment of shadow schemes in payment transactions, expansion of money laundering channels, and terrorism financing. Regulatory gaps have also emerged in overseeing the cryptocurrency market and digital financial services. This study aims to systematize the legal and regulatory framework and evaluate the effectiveness of the financial monitoring system, outlining prospects for further research. The research methodology involves balanced summarization, specification, systematization, generalization, and statistical analysis. Macroeconomic prerequisites for enhancing financial monitoring include socio-economic, political, and moral-ethical factors. The study notes that the effectiveness of anti-money laundering and counter-terrorist financing efforts is not always clear-cut, such as the unclear relationship between the intensity of measures and their effectiveness in preventing regulatory violations and the lack of accurate information about potential offences before disclosure. An objective understanding of financial monitoring effectiveness can be achieved through integral assessments. A methodology for calculating an integral indicator of effectiveness is proposed, which identifies weaknesses in the existing system. The need for new measures to strengthen the coordination of the financial monitoring system, especially under martial law, is emphasized. Based on the research results, recommendations for improving the effectiveness of the financial monitoring mechanism are formulated, including the introduction of artificial intelligence technologies for identifying financial transactions; the use of machine learning technologies; enhancement of monitoring in the cryptocurrency market; strengthening the oversight of transactions related to international terrorism; and developing an effective mechanism to combat financial crimes. These proposals may be useful for financial monitoring and economic security agencies in Ukraine. © 2024 by the author(s).",
+    "source": "Financial and Credit Activity: Problems of Theory and Practice"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

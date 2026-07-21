@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2216-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A research approach of teaching practice: Multianalysis; [Une démarche de recherche sur la pratique enseignante: L'analyse plurielle]",
+    "authors": "Altet M.",
+    "year": "2002",
+    "doi": "10.3406/rfp.2002.2866",
+    "abstract": "Our research on teaching practice considered as school based actions, interactions and transactions focus on two particular problematics: on one side an attempt to characterize, valid variables allowing to explore the internal organization of teaching practice, and on the other side the multidisciplinary approach of a particular teaching practice to account for the structuring of various dimensions at stake in the situation and for the collaboration of actors developing a balanced construction.",
+    "source": "Revue Francaise de Pedagogie"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

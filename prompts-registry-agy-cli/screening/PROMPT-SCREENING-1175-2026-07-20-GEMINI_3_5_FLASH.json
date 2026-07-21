@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1175-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money-laundering risk and preventive measures in Pakistan",
+    "authors": "Jaffery I.H.; Mughal R.A.L.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-02-2020-0016",
+    "abstract": "Purpose: The purpose of this paper is to examine the effectiveness of anti-money laundering/combating of financing of terrorism (AML/CFT) measures in Pakistan. Key variables of AML/CFT regulations of Pakistan are used. This study explores the impact of customer due diligence, record keeping, wire transfers, correspondent banking, reporting of transactions, new technology and internal controls/compliance/trainings on money-laundering risk. Design/methodology/approach: Data is collected with the help of questionnaires developed in light of Financial Actions Task Force (FATF) recommendations and the AML/CFT regulations of Pakistan. Findings: Results show that customer due diligence, correspondent banking and new technology may help control money-laundering risk in Pakistan, whereas impact of record keeping, wire transfers and reporting of transactions did not have an effect on money-laundering risk. This study suggests a better implementation of these measures. Research limitations/implications: The current study was limited to Pakistani banks. For more conclusive results, future studies should replicate similar studies in other countries. Practical implications: Findings of this study may help the State Bank of Pakistan in taking measures to simplify the process of implementing FATF rules and regulations regarding AML/CFT, regular monitoring and trainings to the staff of banks and development finance institutions in customer due diligence, correspondent banking and new technology. Further, it helps to take appropriate measures in resolving banks-specific issues related to AML/CFT. Social implications: Effective AML/CFT control measures would strengthen socio-economic growth in a country. Further, formalization, compliance and integrity would eliminate money laundering risk. It would create an economy that works with equity and promotes transparency. Originality/value: This research paper supports implementation of AML/CFT regulations, proper monitoring and novel supervision of banks. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

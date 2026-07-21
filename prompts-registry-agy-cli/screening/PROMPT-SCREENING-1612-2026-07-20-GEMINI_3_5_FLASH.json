@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1612-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Supra-national approaches to regulation of global financial disbalances",
+    "authors": "Zvonova E.A.; Kuznetsov A.V.",
+    "year": "2017",
+    "doi": "10.20542/0131-2227-2017-61-6-67-76",
+    "abstract": "The authors examine existing approaches to supranational regulation of the institutions of the global financial market. It is argued that increasing number of financial institutions, which are not regulated at the supranational level, is the main source of the formation of global imbalances. This undermines the potential of global financial intermediation. The most explicit manifestation of this trend is the extraordinary growth of assets of non-bank financial institutions, including those in emerging markets. In this regard particular concerns are related to China. Rapid development of the shadow banking in this country is caused by the inadequate response of monetary policy-makers to the changing structure of domestic economy. A substantial proportion of the financial resources are redistributed from the \"periphery\" to the \"center\" of the global financial system through offshore jurisdictions. Tax havens absorb the lion's share of the national wealth generated in developing countries and emerging markets that, in fact, have turned into the net creditors of developed world. Offshore transactions have a number of negative consequences: they undermine fiscal revenues in national budgets, they contribute to money laundering of funds that were obtained illegally, and they encourage the massive transborder migrations of \"hot money\" that destabilize the global financial system. Another negative consequence of non-regulated offshore jurisdictions is the outperforming activities of the hedge funds. Hedge-funds' strategies are aimed to generating profit at the expense of market failures and to maximize the potential of speculative capital. Also, formation of global imbalance is related to oligopolistic position of the rating agencies on global financial markets. The authors conclude, that only a comprehensive solution to the problem of global imbalances will allow to overcome the internal inertia of the global financial architecture and to create real conditions for the realization of the G20 strategy to return to the path of \"strong, sustainable and balanced growth\".",
+    "source": "World Economy and International Relations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

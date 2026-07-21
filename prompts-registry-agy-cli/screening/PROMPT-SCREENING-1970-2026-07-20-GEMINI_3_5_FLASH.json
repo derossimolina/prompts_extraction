@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1970-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Option to acquire or divest a joint venture",
+    "authors": "Chi T.",
+    "year": "2000",
+    "doi": "10.1002/(SICI)1097-0266(200006)21:6<665::AID-SMJ109>3.0.CO;2-0",
+    "abstract": "This paper develops a model for assessing options in joint ventures. The model is used specifically to examine the option to acquire or divest a joint venture, both in the case where the acquisition/divestiture price is specified ex ante in the initial contract and in the case where the price is to be negotiated ex post. The results derived from the model show how the value of the option and each partner's pay-off from the venture vary with the structure of the option and how the presence of the option may affect the structuring of the joint venture. The main theoretical insights are stated in 12 potentially testable propositions, and possible ways to operationalize some of the propositions for empirical testing are also explored. Copyright © 2000 John Wiley & Sons, Ltd.",
+    "source": "Strategic Management Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

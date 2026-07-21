@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1583-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Special role of credit institutions in the Russian national AML/CFT system",
+    "authors": "Lebedeva M.E.; Molova L.A.",
+    "year": "2014",
+    "doi": "10.5901/mjss.2014.v5n24p438",
+    "abstract": "The credit organizations, as one of the subjects of financial monitoring, serve as the main supplier of information to the Russian Financial Intelligence Unit database, and play a special role within national AML/CFT system. Balancing between the responsibility for compliance with anti-money laundering legislation and need to maintain the customer base, banks face additional risks that arise due to the tightening of regulatory requirements and the fierce competition in the banking market. This article discusses the structure of the national AML/CFT system, analyzes the place and role of credit institutions in the national AML/CFT. Suggests ways to optimize the performance of the credit institutions in the field of AML/CFT by establishing a mechanism of interaction of all subjects of financial monitoring. © MCSER-Mediterranean Center of Social and Educational Research.",
+    "source": "Mediterranean Journal of Social Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

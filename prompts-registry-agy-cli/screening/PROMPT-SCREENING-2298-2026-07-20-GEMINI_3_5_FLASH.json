@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2298-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Taxes and Haven Activities: Evidence from Linguistic Cues",
+    "authors": "Law, KKF; Mills, LF",
+    "year": "2022",
+    "doi": "10.2308/TAR-2020-0163",
+    "abstract": "Users of Exhibit 21 cannot tell whether a tax haven subsidiary is actively operating or a dormant shell company. In this paper, we develop a new set of parsimonious measures to highlight the distinct mechanisms and tax effects of offshore sales to, as opposed to purchases from, tax haven countries, offering insights on the effects of certain types of offshoring activities on firms' tax burdens. Our main measure has about three times the effect of the mere existence of a haven subsidiary in explaining firms' effective tax rates. We detail the processes to predict the offshore activities in tax haven countries for firms without an Exhibit 21 and firms reporting no subsidiary operations in a tax haven country. Relative to the mere mention of a tax haven subsidiary in Exhibit 21, our new measures provide a richer information set to capture different types of economic activities in tax haven countries.",
+    "source": "ACCOUNTING REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

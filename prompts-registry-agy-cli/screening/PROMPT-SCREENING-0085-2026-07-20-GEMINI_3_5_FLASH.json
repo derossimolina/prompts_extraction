@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0085-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "European Football Under the New AML/CFT Supervisory System: Legal and Institutional Implications",
+    "authors": "Minto A.; de Arruda T.",
+    "year": "2026",
+    "doi": "10.1017/err.2025.10078",
+    "abstract": "On June 19, 2024, the Anti-Money Laundering Regulation (“AMLR”), the Regulation establishing the Anti-Money Laundering Authority (“AMLAR”), and the Sixth Anti-Money Laundering Directive (“AMLD6”) were published in the Official Journal of the EU, signaling a significant shift in the institutional and substantive architecture of anti-money laundering (“AML”) frameworks within the Union. More than simply enhancing existing rules, the new regime introduces innovative solutions to address persistent deficiencies in previous AML/CFT frameworks, particularly the fragmentation across Member States. A notable innovation is the extension of the AML regulatory framework to the professional football sector, which has become increasingly vulnerable to illicit financial activity due to its complex organisation, large financial flows and opaque ownership structures. As a result, professional football clubs and football agents are now subject to AML requirements, including customer due diligence, transaction monitoring and reporting suspicious transactions. This article examines the recently introduced AML obligations for the football sector, navigating the complex regulatory framework and mapping out the underlying requirements. The aim is to increase awareness and understanding of these obligations, thereby aiding football clubs and agents in complying with them and ensuring the integrity of the European football industry. © The Author(s), 2026.",
+    "source": "European Journal of Risk Regulation"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

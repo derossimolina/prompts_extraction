@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1617-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Social and economic aspects of extremism and terrorism and reasons for their emergence",
+    "authors": "Bekisheva S.D.; Begaliyev Y.N.; Baisagatova D.B.; Imangaliyev N.K.",
+    "year": "2018",
+    "doi": "10.20896/saci.v6i4.382",
+    "abstract": "Terrorism in all its forms and manifestations and its scope, intensity, cruelty has now become one of the most acute and topical problems of global significance. The article deals with conceptual measures for strengthening the fight against terrorism and extremism financing, effective work with the private sector on providing information necessary for detection of the activity connected with terrorism and extremism financing. This work analyses the increasing level of awareness of representatives of public and private sectors and strengthening of the role of financial intelligence for the use of reconnaissance data as a dominant way of fight against terrorism and extremism. It has been determined that in such circumstances effective fight against terrorism and extremism as the exterritorial phenomenon has to have a complex character, combining efforts at universal, regional and interstate levels. As experts note, the measures taken only at the national level will have a limited effect. For safety insurance, each state needs international cooperation. It has been established that in Israel in order to prevent crises and mass protests, they use in practice the positively recommended Israel's experiment of information exchange of law enforcement and special bodies with leaders of public opinion (authoritative persons, elders), representatives of official clergy, mass media and NGO by means of WhatsApp mobile application in online mode about the events having a public response. It is established that all interested private structures and government bodies have to reach a compromise in the strategy of ensuring a reliable system of counteraction and development of countermeasures according to the solution of anti-terrorist actions. © 2018 Bekisheva et al.",
+    "source": "Space and Culture, India"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

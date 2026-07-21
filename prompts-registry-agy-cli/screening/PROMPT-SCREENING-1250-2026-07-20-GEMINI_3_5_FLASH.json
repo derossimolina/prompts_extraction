@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1250-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How to create better Hawala regulations: a case study of Hawala regulations in Afghanistan",
+    "authors": "Rahimi H.",
+    "year": "2021",
+    "doi": "10.1007/s10611-021-09959-w",
+    "abstract": "Hawala is an ancient system of remittance that originated from South Asia. Far from being an anachronism, it continues to play an important role in many developing countries. Hawala provides a user-friendly and inexpensive but also opaque way to move funds within a dense network of Hawaladars across disparate locals. Hawala was historically used to facilitate long-distance trade; however, more recently, migrant workers, criminals, and terrorists also use Hawala to move funds outside the formal financial system. The dominant approach to Hawala regulations fails to consider the context of Hawala usage. This article studies the recent failed attempt by Afghanistan’s Central Bank to regulate Hawala markets to illustrate the shortcomings of the dominant approach. It illustrates how, in Afghanistan, Hawaladars help finance supply chains. It then proposes a new approach to Hawala regulations: formalizing informal credit practices of Hawaladars. Instead of outlawing Hawaladars’ credit practices, Afghanistan should use the offer of inclusion in the formal financial system to incentivize Hawaladars to comply with anti-money laundering regulations. This approach will also improve access to credit for Afghan merchants by ensuring the continued supply of credit by Hawaladars. While here this approach is applied to Hawala regulations, it has broader applications. © 2021, The Author(s), under exclusive licence to Springer Nature B.V.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0612-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The effect of the banking supervision on anti-money laundering",
+    "authors": "Benzerrouk Z.S.; Alnor N.H.A.; Al-Matari E.M.; Alhebri A.; Al-Bukhrani M.A.",
+    "year": "2023",
+    "doi": "10.18488/73.v11i4.3518",
+    "abstract": "This article's goal is to investigate the connection between banking supervision (BakSup) and anti-money laundering (AnMeyLg). The study's hypothesized model was examined using a survey questionnaire research methodology. The Central Bank of Sudan and the compliance departments of Sudanese banks provided the information. Just 247 valid surveys were received out of a total distribution of 450 questionnaires. The partial least squares method for structural equation modeling was applied. The statistical findings supported the impact of banking supervision on anti-money laundering. In-depth discussions of the study's specifics and consequences were included at various points. There are several real-world applications of the findings of this study. Management can use the findings to guide their decisions on whether or not to establish anti-money laundering procedures in their banking firms. Banking supervision may provide managers with effective anti-money laundering strategies for maximizing bank performance and maintaining market share. This is one of the few empirical studies of its kind that looks at how banking supervision affects efforts to combat money laundering. © 2023 Conscientia Beam. All rights reserved.",
+    "source": "Humanities and Social Sciences Letters"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

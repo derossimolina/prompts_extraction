@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0384-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hawala in the UK-Nigeria remittance corridor: Institutional dynamics and illicit value flows",
+    "authors": "Ercanbrack J.G.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2025.100192",
+    "abstract": "Based on a transnational case study of an informal value transfer system that UK law enforcement authorities were able to detect, this doctrinal and qualitative study explores the regulation, supervision and enforcement of unlicensed/unregistered hawala operators and similar service providers (HOSSPs) in the Nigeria-United Kingdom value transfer corridor. The study indicates that Bureaux de Change (BDCs) are perceived as low-risk entities in the socio-economic context of Nigeria, which strengthens the capacity of HOSSP operators to arbitrage regulatory controls. Although subject to a robust legal framework designed to deal with its large, cash based, informal economy, without effective supervision, it is nearly impossible to uncover, let alone, prosecute unlicensed money transmission services such as HOSSPs. Nigeria's weak supervision of BDCs together with indications that unlicensed operators are seldom prosecuted creates a serious vulnerability that opens the floodgates to illicit value transfers in the UK-Nigeria corridor. Even states regarded as having well-developed regulatory frameworks and relatively effective supervisory and enforcement systems such as the UK are vulnerable to those wishing to use HOSSPs for criminal purposes. The UK's approach to unregulated HOSSPs is to stringently apply the law without distinguishing between legitimate and illegitimate value. These types of transactions are considered abnormal and not in keeping with the legal or socioeconomic context, nor are they compatible with financial law. Despite this approach, the case study underscores that supervisory vulnerabilities to illicit flows in major remittance corridors such as the UK-Nigeria corridor likely play a significant role in money laundering in the UK. © 2025 The Authors",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

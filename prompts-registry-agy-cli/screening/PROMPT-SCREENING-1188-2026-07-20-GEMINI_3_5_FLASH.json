@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1188-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The economy of self-declared Kosovo",
+    "authors": "Arlyapova E.S.; Ponomareva E.G.",
+    "year": "2021",
+    "doi": "10.20542/0131-2227-2021-65-4-58-70",
+    "abstract": "Intensification of the final resolving processes over the Kosovo issue made it necessary to pay closer attention to social and economic features of the self-declared polity, which are often underestimated losing scores in favor of political, not economical, agenda. With emphasis on the most recent data (2015–2020), Kosovo official statistics, international and local organizations, mass media materials, with high involvement of interviews and surveys conducted during working trips to the Balkan region, and long-term observations, this paper is urged to remove this gap and to answer the question of economic independence and viability, directly concerned with the fundamental matter of sovereignty. Despite the thesis on favorable starting conditions in a form of abundance of various natural resources and ready-made industrial base, widely used in public rhetoric during separatist movement, the words have mostly remained just words – ​no significant structural changes have taken place in Kosovo’s economy since its self-declared independence in 2008. Reports reflect some increase of economic activity since 2015, but in almost all key directions – ​administrative reform, fundamental rights, fight against corruption and organized crime, regional cooperation development, etc. – ​there has been a very little progress up to date. Huge informal sector, desperate situation with youth’s unemployment, gender disproportion in the labor and legal fields – ​these are among the strongest economic challenges and the highest barriers for Kosovo on its way to European integration. In recent years, local economy drivers were state investments into infrastructure and private consumption, which is still mostly based on large transactions from abroad, together with increasing salary rates and lending. Economic diversification goes slowly. Base metals and mineral products dominate – ​same as during previous years – ​in regional export of goods, providing slightly less than a half of its entire volume. Excessive reliance on import is another feature of economic development in contemporary Kosovo. List of services and goods providers remains stable for the past decade, led by Germany and Italy, with growing influence of China and Turkey. Some improvement of business climate co-exists with essential economic problems. Kosovo’s economy still highly depends on external incomes and internal trade sector. Local educational system does not match local labor market needs. Financial discipline, efficient distribution of resources, optimization of sectoral interaction, fight against corruption and crime – ​these tasks remain the ones of high priority and are still in the current economic agenda today, like they were five and 10 years ago. Kosovo’s real investment attractiveness is in question; however, much work has been done in the legal field to speed up and secure the fundraising process. Unresolved problems of property rights and lack of political will to handle these issues hurt investment perspectives and slow down economic development. COVID-2019 brings additional damage to Kosovo’s economy, but its overall results are to be yet evaluated. © 2021, Russian Academy of Sciences. All rights reserved.",
+    "source": "World Economy and International Relations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

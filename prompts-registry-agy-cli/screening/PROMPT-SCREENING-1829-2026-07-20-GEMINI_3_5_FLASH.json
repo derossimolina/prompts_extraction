@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1829-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dysfunction by Design: Political Finance and Corruption in Indonesia",
+    "authors": "Mietzner M.",
+    "year": "2015",
+    "doi": "10.1080/14672715.2015.1079991",
+    "abstract": "Despite an ever-increasing number of arrests of elite politicians by Indonesia's anticorruption commission, the country's levels of political corruption remain stubbornly high. This article argues that the main reason for this apparent paradox is Indonesia's dysfunctional party and campaign financing system. None of the three elements upon which this system was built (membership dues, donations, and state subsidies) has worked to finance politics in an effective manner. This systemic failure is far from accidental: it is caused and perpetuated by an elite that prefers illicit fund-raising to the limitations that a more orderly funding mechanism would impose. As a result, political corruption continues unabated, oligarchs have penetrated party politics, and state budgets are misappropriated for political purposes. Indonesia's new president, Joko Widodo, has promised to reform the political finance regime, but the power of deeply entrenched interests groups means that any change will be painfully slow. © 2015 BCAS, Inc.",
+    "source": "Critical Asian Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

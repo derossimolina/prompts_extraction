@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0518-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How convenient is deviance to circumvent and evasion sanctions against Russia? The case of alleged economic crime in a Norwegian seafood company",
+    "authors": "Gottschalk P.",
+    "year": "2024",
+    "doi": "10.1016/j.jeconc.2023.100045",
+    "abstract": "When Russia attacked Ukraine, national states as well as multinational bodies such as the European Union imposed economic sanctions against Russia. Companies in sanctioning countries were expected to terminate their business with companies in the sanctioned country. However, the threat of bankruptcy made some companies chose deviance to circumvent and evasion sanctions. The case study in this paper describes an insurance firm's attempt to terminate an insurance arrangement to avoid allegations of money laundering. The ownership of a seafood company in Norway had been transferred from Russians to a Norwegian. However, it seemed that the Russians were still the real owners since the Norwegian had paid nothing for the ownership. This paper presents the civil trial in the case and discusses convenience propositions for the Norwegian based on convenience theory in the dimensions of motive, opportunity, and willingness for deviance. © 2023 The Author",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

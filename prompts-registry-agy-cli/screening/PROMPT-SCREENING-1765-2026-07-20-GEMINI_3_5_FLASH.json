@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1765-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structured Eurobonds: Limiting Liability and Distributing Profits",
+    "authors": "Hild A.M.D.; Herz B.; Bauer C.",
+    "year": "2014",
+    "doi": "10.1111/jcms.12104",
+    "abstract": "In this article, an alternative eurobond approach is developed by applying an asset-backed security (ABS) transaction to a pool of eurozone sovereign bonds. Based on the new approach two different rules to distribute the associated interest gains are analyzed. Within the ABS structure a special purpose vehicle buys a portfolio of eurozone sovereign bonds (pooling) and issues a set of subordinated eurobonds with varying risk and rating (tranching). A large share of less risky securities is created as structuring concentrates the default risk in one part of the capital structure. A trust fund covers first losses in case of a country default. This approach has three major advantages. First, all eurozone countries can gain from eurobonds. These benefits are driven by partial liability, which also limits moral hazard, and the distribution of interest gains to all participating countries. Second, the approach is very flexible and quickly implementable. Finally, it is in line with European Union law. © 2013 John Wiley & Sons Ltd.",
+    "source": "Journal of Common Market Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

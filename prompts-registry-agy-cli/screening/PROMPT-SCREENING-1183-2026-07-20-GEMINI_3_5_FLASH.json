@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1183-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Innovation and institutions’ quality: a comparative study between countries",
+    "authors": "Kawabata M.K.; Camargo Junior A.S.",
+    "year": "2020",
+    "doi": "10.1108/IJIS-10-2019-0100",
+    "abstract": "Purpose: Innovation has been considered as an essential activity for companies to compete in modern and dynamic business environments. For the nations, innovation is considered a fundamental key activity for sustaining economic growth and competitive advantage over other countries. This paper aims to achieve a better understanding of the relationship between the quality of a country’s institutions and its levels of innovation activities and results. Design/methodology/approach: Controlling for the effects of the efforts and investments in research and development (R&D) and the foreign direct investments (FDI), this work proceeds to regression analysis to obtain the association between the quality of countries’ institutions and their innovation activities. Data was obtained from the Global Innovation Index (GII) for innovation activities and the Worldwide Governance Index, of the World Bank, for the quality of institutions for 127 countries. Findings: The results show that the effectiveness of public administration and the regulatory quality are the quality of institution variables associated with the innovation activities. Also, this paper obtained a clustering of countries with a rank regarding not only innovation activities but also the conditions of the institutions’ quality, based on government effectiveness, regulatory quality, R&D, FDI and GII. This new compounded classification divided the 127 countries into three clusters – mature innovators, fresh innovators and structuring for innovation. Originality/value: New forms of innovations’ ranking viewing can help to understand the conditionings that enhance countries’ and institutions’ competitiveness. © 2020, Emerald Publishing Limited.",
+    "source": "International Journal of Innovation Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

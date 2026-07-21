@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0465-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CRYPTOCURRENCY MARKET: INSTITUTIONALIZATION, REGULATION, CHALLENGES",
+    "authors": "Dyudikova E.I.; Kunitsyna N.N.",
+    "year": "2025",
+    "doi": "10.20542/0131-2227-2025-69-9-16-27",
+    "abstract": "The article is devoted to the analysis of the cryptocurrency market institutionalization, its integration into the global financial architecture and the role of cryptocurrencies in the metaverse formation. The authors consider cryptocurrencies as the metaverse’s backbone element, emphasizing their transformation from an alternative payment instrument to a key component of the digital economy. Particular attention is paid to interdisciplinary analysis of the phenomenon, including economic, technological, legal and sociocultural aspects. The work highlights the main trends in the cryptocurrency market development: technological automation, regulatory convergence and institutional adaptation. The authors show that the role of cryptocurrencies varies depending on the economic context: from a store of value against hyperinflation to a tool for cross-border settlements and circumvention of sanctions. The paper also discloses the typology of cryptocurrency transaction channels (P2P, conversion services, hybrid models) and their role in financial restrictions. The key study result is the development of the Index of Cryptocurrency Market Institutionalization (ICM), which assesses the level of crypto assets integration into national economies based on five components: regulatory environment, infrastructure maturity, global market share, real sector adaptation and tool availability. The index allows users to classify countries by the level of the crypto market nationalization (lower, average and upper terciles). Thus, Russia (ICM 41%) belongs to the average tercile, which indicates high informal activity with insufficient regulatory certainty. The transition to the upper tercile (Switzerland ICM 92%, Singapore ICM 86%) requires a clear legal framework, integration with the banking system and increased AML control. The authors analyze regulatory initiatives, including experimental legal regimes, and identify the key challenges: harmonization of regulation with international standards, infrastructure development and improvement of KYC/AML procedures. The conclusion emphasizes that crypto assets form the basis of a new socio-economic system in the vector of the metaverse construction. In this direction, Russia prioritizes strengthening the regulatory framework, increasing market transparency and stimulating institutional participation. © 2025, Russian Academy of Sciences. All rights reserved.",
+    "source": "World Economy and International Relations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2027-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Turnover of organized crime and money laundering: Some preliminary empirical findings",
+    "authors": "Schneider F.",
+    "year": "2010",
+    "doi": "10.1007/s11127-010-9676-8",
+    "abstract": "After a short literature review, the paper quantifies the turnover of organized crime with the help of a MIMIC estimation procedure for the years 1995 to 2006 for 20 highly developed OECD countries. The volume of turnover from organized crime was US-$ 270 billion in the year 1995 for these 20 OECD countries, rising to $ 614 billion in 2006. The worldwide turnover in organized crime had a value of $ 595 billion in 2001 and rose to $ 790 billion in 2006. These figures are very preliminary but clearly indicate the importance of the turnover of organized crime or the extent of money laundering. © 2010 Springer Science+Business Media, LLC.",
+    "source": "Public Choice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

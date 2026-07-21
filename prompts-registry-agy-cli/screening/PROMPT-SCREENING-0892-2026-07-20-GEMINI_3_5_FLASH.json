@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0892-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Notary Official Secret and Obligation to Report Suspicious Transactions: An Indonesian Criminal Law Perspective",
+    "authors": "Yoserwan",
+    "year": "2023",
+    "doi": "10.5281/zenodo.4756310",
+    "abstract": "The main objective of this paper was to discusses the rules related to notary official secrecy, the obligation to disclose official secrets in some crimes, and obligations as a reporter in the event of a suspicious allegation in the crime of money laundering. This study uses a normative juridical method by discussing related laws and regulations from legal principles and the synchronization of legal rules. The data was collected through primary legal resources in the form of laws and regulations. A qualitative approach was used to analyze the findings of this research. The study found that obligations balance the rights and duties of a Notary as a public official and professional. With this obligation, the Notary would play a role in eradicating a crime, especially money laundering-related crimes. The research concludes that the notary’s official secret does not contradict the obligation to disclose the secret of a notary's office especially in money laundering transactions. The Law balances the rights and duties of a Notary as a public official and a professional. The Notary would thus play a role in eradicating a crime as well as a reporter in any suspicious transaction. This research hopes to explain the rationale and theoretical basis of notary function as reporters in a suspicious transaction for the public interest. © 2023 International Journal of Criminal Justice Sciences. Under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)",
+    "source": "International Journal of Criminal Justice Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0473-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering law strengthened on the implementation of carbon tax in Indonesia",
+    "authors": "Lisanawati G.; Kristina M.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-05-2024-0089",
+    "abstract": "Purpose: This study aims to evaluate the efficacy of a comprehensive anti-money laundering framework in implementing the carbon tax in Indonesia. Design/methodology/approach: This paper is a conceptual paper that uses a qualitative method. The primary sources are the regulations related to the carbon tax, followed by sets of rules for Indonesian anti-money laundering and green crime, among other things, environmental crime. Then, it continued to an analysis process until it concluded. Findings: The money laundering scheme in the context of the carbon tax is challenging to trace and requires strengthening when integrated with other state revenue sources. Research limitations/implications: Implementing a carbon tax is linked to money laundering risks, as it allows carbon buying and selling transactions on the carbon market. There could be a risk of state revenue leakage when implementing the carbon tax. Other than that, there are crime risks surrounding implementing the carbon tax. Therefore, other scholars can do research in the field of the compliance of the responsible parties when implementing a carbon tax. Practical implications: Criminals are suspected of laundering money by purchasing carbon credits through brokers and reselling them, which obscures illicit sources and makes tracking difficult. Originality/value: Indonesia should elaborate on anti-money laundering principles to ensure the secure implementation of the carbon tax in all areas and maintain financial system integrity. © 2025, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

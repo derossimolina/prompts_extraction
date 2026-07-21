@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0594-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk-Based Approach for Selecting Company Key Performance Indicator in an Example of Financial Services",
+    "authors": "Cernisevs O.; Popova Y.; Cernisevs D.",
+    "year": "2023",
+    "doi": "10.3390/informatics10020054",
+    "abstract": "Risk management is a highly important issue for Fintech companies; moreover, it is very specific and puts forward the serious requirements toward the top management of any financial institution. This study was devoted to specifying the risk factors affecting the finance and capital adequacy of financial institutions. The authors considered the different types of risks in combination, whereas other scholars usually analyze risks in isolation; however, the authors believe that it is necessary to consider their mutual impact. The risks were estimated using the PLS-SEM method in Smart PLS-4 software. The quality of the obtained model is very high according to all indicators. Five hypotheses related to finance and five hypotheses related to capital adequacy were considered. The impact of AML, cyber, and governance risks on capital adequacy was confirmed; the effect of governance and operational risks on finance was also confirmed. Other risks have no impact on finance and capital adequacy. It is interesting that risks associated with staff have no impact on finance and capital adequacy. The findings of this study can be easily applied by any financial institution for risk analysis. Moreover, this study can serve toward a better collaboration of scholars investigating the Fintech activities and practitioners working in this sphere. The authors present a novel approach for enhancing key performance indicators (KPIs) for Fintech companies, proposing utilizing metrics that are derived from the company’s specific risks, thereby introducing an innovative method for selecting KPIs based on the inherent risks associated with the Fintech’s business model. This model aligns the KPIs with the unique risk profile of the company, fostering a fresh perspective on performance measurement within the Fintech industry. © 2023 by the authors.",
+    "source": "Informatics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

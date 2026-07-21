@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2467-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ranking Trust Factors Affecting Risk Perception in Illicit Drug Purchase on the Darknet: A Large-Scale Survey Study in Hungary",
+    "authors": "Kiss, T; Szigeti, A",
+    "year": "2025",
+    "doi": "10.1007/s10610-023-09545-x",
+    "abstract": "The process of illicit drug trafficking on darknet markets is highly affected by various trust factors. Although the factors potentially affecting customers' risk perception can be identified based on previous research, cyber criminology has not produced empirical research ranking the importance of the specific factors. This study was designed to fill this gap by developing a tool that measures the importance of the various trust factors. To test out the measurement tool, a large-scale survey with projective situational questions was conducted among university students in Hungary. The sample (n = 5481) was compiled to include potential darknet market customers, respondents with above-average computer skills needed to access the darknet, and taking into account that university students are a group of society particularly exposed to drug consumption. The end product of this research is a trust matrix ranking the factors affecting illicit drug purchases on darknet markets. Among the factors, the survey's target group ranked reliable and undamaged delivery of goods and the reliability of vendors as the most important. The measurement tool developed in this research will facilitate further criminological research on vendor reputation. Its findings also point to the need for further research on delivery providers and predict that influencing the delivery-related risk perception of potential customers could effectively reduce demand.",
+    "source": "EUROPEAN JOURNAL ON CRIMINAL POLICY AND RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

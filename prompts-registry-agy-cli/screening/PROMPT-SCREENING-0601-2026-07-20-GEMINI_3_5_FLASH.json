@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0601-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The use of predictive modeling to identify relevant features for suspicious activity reporting",
+    "authors": "Hayble-Gomes E.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-02-2022-0034",
+    "abstract": "Purpose: The purpose of this study is to explore and use artificial intelligence (AI) techniques for identifying the relevant attributes necessary to file a suspicious activity report (SAR) using historical customer transactions. This method is known as predictive modeling, a statistical approach which uses machine learning algorithm to predict outcomes by using historical data. The models are applied to a modified data set designed to mimic transactions of retail banking within the USA. Design/methodology/approach: Machine learning classifiers, as a subset of AI, are trained using transactions that meet or exceed the minimum threshold amount that could generate an alert and report a SAR to the government authorities. The predictive models are developed to use customer transactional data to predict the probability that a transaction is reportable. Findings: The performance of the machine learning classifiers is determined in terms of accuracy, misclassification, true positive rate, false positive rate and false negative rate. The decision tree model provided insight in terms of the attributes relevant for SAR filing based on the rule-based criteria of the algorithm. Originality/value: This research is part of emerging studies in the field of compliance where AI/machine learning technology is used for transaction monitoring to identify relevant attributes for suspicious activity reporting. The research methodology may be replicated by other researchers, Bank Secrecy Act/anti-money laundering (BSA/AML) officers and model validation analysts for BSA/AML compliance models. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

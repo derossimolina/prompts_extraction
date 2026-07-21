@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1402-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Pushing through the skin to break the bones: Israel's performance of extraterritorial expansion into West Bank, Palestine",
+    "authors": "Cooperman H.",
+    "year": "2021",
+    "doi": "10.1080/14735784.2021.1925135",
+    "abstract": "This paper argues the built structure of Israeli military occupation in the West Bank is only part of the mechanism that serves to define territorial boundaries and restrict Palestinian movement. A more pervasive and debilitating process of boundary formation occurs through affect-laden performances that typically take place in border areas or sites of surveillance, where state actors and technologies police Palestinians. These performances serve to produce fear and shame: two affects that circulate and act as structuring agents preventing Palestinian movement and resistance. Thus, Israel extends its borders through socio-spatial-technical practices, deep into Palestinian spaces. The underlying evidence for this study originated out of critical performance ethnography and a drama workshop conducted with Palestinians, theorised in part through Sara Ahmed's notion of an ‘affective economy’ of emotions. Overall, this study re-orients the predominant view of occupied space in the West Bank as an oppressive architectural blockade, to that of an affective regime constituted by a set of relations that require repeatable performances to produce the effect of territory. This re-framing opens possibilities for re-thinking resistance to the occupation by suggesting Palestinians may disrupt or alter the circulation of affect in order to reclaim their space and curtail Israeli extraterritorial ambitions. © 2021 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Culture, Theory and Critique"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

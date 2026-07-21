@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1843-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring dyadic relationships between export producers and intermediaries",
+    "authors": "Chintakananda A.; York A.S.; O'Neill H.M.; Peng M.W.",
+    "year": "2009",
+    "doi": "10.1504/EJIM.2009.026994",
+    "abstract": "How do export producers and intermediaries structure their dyadic relationships? This study examines the factors that guide the behaviour and relationships between export producer and intermediary dyads. We examine both sides of a dyadic transaction and develop an export producer-intermediary behaviour typology by using a grounded theory method through qualitative interviews. We propose three forms of export producer-intermediary dyads based on the degree of information sharing, intensity of price negotiation, level of transaction costs, and partner satisfaction and propensity to export directly. These three forms are as follows: (1) competitive, (2) cooperative and (3) mismatched relationships. Copyright © 2009 Inderscience Enterprises Ltd.",
+    "source": "European Journal of International Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

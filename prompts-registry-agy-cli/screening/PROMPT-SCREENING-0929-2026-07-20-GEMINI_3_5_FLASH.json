@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0929-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The evolution of trade-based money laundering schemes: a regulatory dialectic perspective",
+    "authors": "Sinno R.M.; Baldock G.; Gleason K.",
+    "year": "2023",
+    "doi": "10.1108/JFC-09-2022-0212",
+    "abstract": "Purpose: The purpose of this study is to apply the regulatory dialectic to describe the evolution of trade-based money laundering (TBML) schemes, to describe three recent TBML innovations uncovered by a large bank in the important global trade jurisdiction of the United Arab Emirates (UAE), and to provide recommendations for an effective regulatory response. Design/methodology/approach: The methodology used is a caselet approach with three examples of TBML schemes recently foiled in the UAE as well as an application of the regulatory dialectic literature to TBML. Findings: The implications of the regulatory dialectic for research regarding TBML and associated regulation and compliance will enable regulators, the financial services sector and academics to understand TBML and the ever-evolving steps criminals are taking to circumvent the changing landscape of regulation and controls implemented by the financial services sector and customs tasked with mitigating such behaviour. This paper will bring awareness of the evolution of TBML, the controls and frameworks that may be used to prevent, detect and investigate some of the complex schemes of TBML. Research limitations/implications: The regulatory dialectic theory provides insights into the evolution of TBML schemes as well as why compliance activities tend to be reactive, rather than proactive. The cases covered in this paper provide insights into the nature of this circular process between financial crime and regulation, which is useful for anti-financial crime professionals and regulators focusing on deterrence. Practical implications: The UAE is a small, rapidly developing trade and finance center in the Middle East, surrounded by nations that are sanctioned, in active conflicts, politically unstable and/or highly corrupt. TBLM undermines the security of the UAE; the authors provide insights into criminal innovations and regulatory responses. Social implications: To promote the safety and stability of the ten million residents of the UAE, and others in the Middle East and North Africa (MENA) region, it is important to understand the process of innovation in TBML schemes and regulatory response. Originality/value: To the best of the authors’ knowledge, this paper is the first to apply the regulatory dialectic theory to TBML to describe innovation in TBML schemes and to provide cases describing contemporary TBML innovations in the MENA region. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

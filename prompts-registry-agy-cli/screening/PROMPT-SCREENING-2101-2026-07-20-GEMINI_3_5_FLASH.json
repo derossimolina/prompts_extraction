@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2101-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering regulation: A bridge too far?",
+    "authors": "Thornhill S.",
+    "year": "1997",
+    "doi": "10.1108/eb024928",
+    "abstract": "The 1997 revised version of the UK Money Laundering Guidance Notes for the financial sector are about to be published. They represent the results of a year’s consultation and clearly demonstrate the financial sector’s commitment not to be tainted by criminal money. However, the fight against laundering the proceeds of crime has long since moved away from the concept of suitcases full of cash across bank counters, and the self-regulatory process must now encompass every part of the financial sector, going beyond the requirements of the Regulations themselves. Financial sector businesses have committed significant resources to the fight against crime, but this has not been matched by investment in the investigation, prosecution and confiscation process. As the financial sector requirements become more onerous and involved, questions are being asked whether more than enough is being required of financial sector businesses. The more contentious areas of money laundering prevention are examined in this paper, together with the arguments for and against self-regulation. © Henry Stewart Publications, 1358-1988.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

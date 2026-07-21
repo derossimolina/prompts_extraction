@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0723-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "PAKISTAN: FULFILLING REQUIREMENTS FOR EXIT FATF “GREY LIST”",
+    "authors": "Zamaraeva N.A.",
+    "year": "2023",
+    "doi": "10.20542/0131-2227-2023-67-6-82-91",
+    "abstract": "The Financial Action Task Force (FATF) had taken the decision to put Pakistan on “grey list” in June 2018 and urged Islamabad to implement the Action Plan on Combating Money Laundering and Terrorist Financing by the end of 2019. However, the deadline was extended due to Islamabad’s failure to comply with several requirements and the Covid-19 pandemic. Most in Pakistan stated that decision to place Pakistan on the terror financing watchlist as being politically motivated. During this period, Pakistan adopted a number of legislative acts in order to limit the activity of groups banned by the UN Security Council and in the country to this end, FATF underlined the necessity to addresses strategic deficiencies in Pakistan’s anti-money laundering and counterterrorism financing regime. Islamabad during this period adopted a number of legislative acts; adopted the required the regulatory documents of the Central Bank; law enforcement agencies and the federal army conducted a number of military special operations to eliminate terrorists, etc. The implementation of the Plan revealed contradictions within the ruling coalition, between Prime Minister Imran Khan and the political opposition (2018–April 2022), the military establishment and the Pakistani authorities. The Global Monitoring Service confirmed in June 2022 that Pakistan had fully complied with all the basic and procedural requirements of its action plans for 2018 and 2021. In October 2022 The Financial Action Task Force has decided by consensus that Pakistan has completed all substantial, technical and procedural requirements of both 2018 and 2021 Action Plans. As a result, Pakistan has been taken out of the “grey list”. © 2023, Russian Academy of Sciences. All rights reserved.",
+    "source": "World Economy and International Relations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

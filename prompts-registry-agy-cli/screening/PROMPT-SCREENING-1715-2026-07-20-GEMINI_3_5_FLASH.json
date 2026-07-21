@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1715-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring work distribution for global product development organizations",
+    "authors": "Tripathy A.; Eppinger S.D.",
+    "year": "2013",
+    "doi": "10.1111/poms.12045",
+    "abstract": "This study describes (through an application) a novel approach toward organizing work distribution across globally distributed design and development centers of a product development (PD) organization. While there exist several studies (and modeling applications) for work distribution and allocation for manufacturing and supply chain networks, those related to product development organizations are limited to qualitative suggestions such as offshoring of modular tasks. However, most PD efforts are characterized by significant complexity in information sharing and information dependency among PD tasks (represented by coupling in the system architecture of the firm), thus preventing the identification of modular tasks. Also, redesigning the architecture to introduce modularity has associated risks of costs and product integrity. We demonstrate a methodology to organize work distribution globally in an industrial setting, utilizing the design structure matrix to quantify the system architecture of the firm. Our optimization results show significant cost savings through a restructured PD organization. On analysis of the results, we make two significant observations: (a) while offshoring based on modularity is generally appropriate, it is not the whole answer, as there exists a trade-off between the efficiency of performing specific PD tasks at the offshore location and the modularity of the task; and (b) firms should successively increase work allocation to the offshore location, benefiting from capability improvements through learning effects. © 2013 Production and Operations Management Society.",
+    "source": "Production and Operations Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

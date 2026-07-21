@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0603-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Compliance determinants of anti-money laundering regime among professional accountants in Malaysia",
+    "authors": "Ahmad Tarmizi M.; Zolkaflil S.; Omar N.; Hasnan S.; Syed Mustapha Nazri S.N.F.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-01-2022-0003",
+    "abstract": "Purpose: Money laundering offences occur worldwide, with recent discussions involving issues related to the low levels of compliance among professional accountants towards the anti-money laundering (AML) regime. Under the regime, professional accountants are required to implement compliance programs (Know Your Customer, Clients Due Diligent, Record Keeping) and to submit any suspicious transaction report encounters to the authorities. Due to the lack of research in this sector, this study aims to examine the compliance determinants towards AML regimes among professional accountants in Malaysia. Design/methodology/approach: Premised on protection motivation theory, a questionnaire was developed and distributed among 1,100 professional accountants. Of which 275 questionnaires were returned and subjected to regression analysis. Findings: Based on the findings, “perceived risk of non-compliance” and “awareness of Anti-Money Laundering Act 2001 and Financial Action Task Force standard” were significantly related to the level of compliance towards the AML regimes. Meanwhile, “compliance cost” did not influence the compliance behaviour of professional accountants. Moreover, the findings demonstrated that awareness programs among the reporting institutions should be enhanced, specifically the professional accountants. Practical implications: This study recommends the professional bodies particularly professional accountants in Malaysia to establish a blueprint as a guideline for money laundering reporting. Originality/value: This is one of the pioneer studies looking into AML compliance determinants among the professional accountants in Malaysia. This study will provide insights on the current practices and recommend ways to improve the current AML reporting practices among the professional accountants. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

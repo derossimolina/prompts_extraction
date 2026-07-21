@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1030-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Discourses on artistic research in Flanders: Non-scholarly perspectives on research in the arts; [Tratados sobre investigación artística en Flandes: Perspectivas no académicas sobre la investigación en las artes]",
+    "authors": "Vanlee F.",
+    "year": "2021",
+    "doi": "10.7238/a.v0i27.374374",
+    "abstract": "The research presented in this paper collects and analyses a set of documents disseminating discourse on artistic research in Flanders - the Northern, Dutch-speaking region of Belgium. In doing so, it identifies hegemonic constructions structuring the (im)possibility of fostering fruitful interlinkages between the often-dichotomised notions of ‘art’ and ‘science’. Hinged on the officialisation of the first Flemish doctoral degrees in the arts, the study points to earlier, ‘inclusive’ discourses on artistic research that allowed articulating a variety of activities and outcomes as ‘research’. The introduction of the PhD gave way to ‘exclusive’ discourses that restrict artistic research to the higher arts education context. Notably, these ‘exclusive discourses’ - often disseminated by higher art educators - are expressively critical of the research agenda. Highlighting its artificial origins in the Bologna Process, artistic research is normatively constructed as an infringement on the arts’ autonomy. Its potential is not denied altogether, however, but only touched upon in cryptonormative terms that reject current conditions without addressing what it should or could be. © 2021, Universitat Oberta de Catalunya. All rights reserved.",
+    "source": "Artnodes"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

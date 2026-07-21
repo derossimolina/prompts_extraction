@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0007-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Ransomware and Ransom Payments in the Context of Criminal Law; [Ransomvér a úhrada výkupného v kontexte trestného práva]",
+    "authors": "Čentéš J.; Rampášek M.",
+    "year": "2025",
+    "doi": "10.5817/CPVP2025-3-7",
+    "abstract": "This article provides a structured overview of the key legal aspects of ransom payments in the context of ransomware attacks from the Czech and Slovak criminal law perspective. After introduction, the second section summarizes existing and recent research on the topic. The third section introduces the concept of ransomware, with a special focus on the Ransomware-as-a-Service (RaaS) model, and explores its technical and economic underpinnings. The fourth section analyses the laundering of ransom proceeds, particularly via cryptocurrencies and anonymization tools. The fifth section examines the legal implications of ransom payments, including potential violations of EU sanctions regimes and the risk of committing money laundering or terrorism financing offences under criminal law. Finally, the article discusses other risks associated with ransom payments and a formal decision-making framework for victims, emphasizing compliance duties and risk management procedures. © (2025), (Masaryk University). All Rights Reserved.",
+    "source": "Casopis pro Pravni Vedu a Praxi"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

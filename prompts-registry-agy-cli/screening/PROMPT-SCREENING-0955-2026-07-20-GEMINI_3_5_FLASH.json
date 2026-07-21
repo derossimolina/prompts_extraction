@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0955-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Deconstructing Digital Currency and Its Risks: Why ASIC Must Rise to the Regulatory Challenge",
+    "authors": "Latimer P.; Duffy M.",
+    "year": "2019",
+    "doi": "10.1177/0067205X18816237",
+    "abstract": "Digital currency is a ‘disrupter’ of financial services and currency markets, and as such presents new regulatory challenges. International regulatory responses to digital currency range from being largely ignored in some jurisdictions to being banned in others, with most jurisdictions charting a middle course of ‘wait and see’ while attempting to deal with pressing issues (such as taxation liability and potential money laundering and terrorism financing issues). This article explains digital currency, its benefits, its problems, its risks and the regulatory response so far. It analyses the extent to which the Australian Securities and Investments Commission (ASIC, the national securities regulator) may or may not have regulatory power and jurisdiction under existing Australian law, and the role of other relevant regulators and institutions. It concludes that digital currency may well be a ‘financial product’ under Corporations Act 2001 (Cth) s 763A (though many suppliers/issuers of that product will be website operators located outside Australia). If it is a financial product, ASIC would also have jurisdiction over issuers and markets that trade in that product. This conclusion could easily be fortified by legislative confirmation; however, it is suggested that ASIC should in all events test its powers to determine whether any legislative change is needed. Regulation by ASIC would add to recent moves to deal with digital currency by the Australian Transaction Reports and Analysis Centre (AUSTRAC) and the Australian Taxation Office (ATO). In all cases, this article argues that the time has come for Commonwealth regulation of digital currencies by ASIC as the relevant regulator. This would then trigger the obligations set out in the Corporations Act and the ASIC Act, including Australian Financial Services Licensing, Australian Market Licensing, standards of efficiency, honesty and fairness, disclosure provisions, possible market offences and corporate regulation generally. The suggested jurisdiction of ASIC would build on its existing role as well as the roles of the Australian Competition and Consumer Commission, the ATO and AUSTRAC. © The Author(s) 2019.",
+    "source": "Federal Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

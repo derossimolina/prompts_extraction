@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1086-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and central bank governance in the European Union",
+    "authors": "Demetriades P.; Vassileva R.",
+    "year": "2020",
+    "doi": "10.1093/jiel/jgaa011",
+    "abstract": "Dirty money is often a by-product or a symptom of political corruption in the jurisdictions in which it originates. It can also spread corruption and erode democracy on its journey to its final destination. This typically involves multiple jurisdictions and is the reason why it is so hard to detect. Recently, a series of money laundering scandals have highlightedweaknesses in the anti-money laundering and counter-terrorist financing (AML/CFT) framework of the European Union (EU), the implementation of which remains the responsibility ofMember States. The paper argues that EU's defences against money laundering have been weakened partly reflecting a little-known erosion in the independence of Member State central banks, which are often the AML supervisors. It puts forward a number of new proposals to strengthen the governance and AML/CFT implementation in the EU. © 2020 The Author(s).",
+    "source": "Journal of International Economic Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

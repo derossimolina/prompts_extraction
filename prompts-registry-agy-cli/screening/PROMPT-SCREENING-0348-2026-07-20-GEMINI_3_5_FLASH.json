@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0348-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax evasion savings versus unlawful predicate proceeds: a substance-based approach",
+    "authors": "Kemsley D.; Kemsley S.A.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-12-2023-0196",
+    "abstract": "Purpose: This paper aims to determine whether tax evasion savings qualify as unlawful proceeds for money laundering purposes. Litigators, regulators and academics have debated the question for decades. A common argument is that tax evasion allows a bad actor to save money that the perpetrator already has on hand. It does not produce a new inflow of wealth that could properly be classified as proceeds. This paper addresses the validity of this argument by using a substance-based approach. Design/methodology/approach: This paper applies the substance-over-form principle and two specialized judicial doctrines to the matter: the economic-substance and step-transaction doctrines. Findings: This paper finds that in substance, tax evasion savings qualify as unlawful proceeds. The opposing argument may be valid on the surface, but it does not withstand the scrutiny of the substance-based principle and insights from the doctrines. Practical implications: The finding of this paper implies that any courts which value substance can embrace tax evasion savings as unlawful proceeds. Government prosecutors can adopt the position with confidence that substance backs them up. National regulators can push the point. The United Nations’ Financial Action Task Force can consider the option to more explicitly recommend treating tax evasion savings as unlawful proceeds for money laundering. Originality/value: Using a unique substance-based approach, this paper demonstrates that a dollar of tax evasion savings is substantively equivalent to a dollar of unlawful tax refund proceeds for money laundering purposes. Focusing on an unlawful tax refund overcomes many of the common concerns raised against the treatment of tax evasion savings as unlawful proceeds. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0764-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Localized effects of confiscated and re-allocated real estate mafia assets",
+    "authors": "Boeri F.; Di Cataldo M.; Pietrostefani E.",
+    "year": "2024",
+    "doi": "10.1093/jeg/lbad035",
+    "abstract": "Asset confiscation regimes are present throughout Europe. The Italian State implements a policy stipulating the confiscation of real estate assets from individuals convicted of mafia-related crimes and the re-allocation of these assets to new uses. The policy of confiscation (confisca) and reallocation (destinazione) is meant to act as both an anti-mafia measure and a way to compensate local communities by converting real estate assets into public amenities. We evaluate the effects of this programme on local areas by estimating its impact on property values in the proximity of confiscations and re-allocations. The findings reveal a negative effect of confiscations and a positive effect of re-allocations on housing prices, mainly visible in mafia strongholds. Both of these trends can be observed in the time periods that directly follow instances of confiscation and re-allocation and appear to be highly localized. A drop in organized crime activity in the streets where re-allocations have occurred could account for some of the gain in property values caused by re-allocations. These findings have implications for the effectiveness of anti-mafia initiatives aimed at improving the quality of life in areas where criminal activity is more prevalent. © The Author(s) (2023). Published by Oxford University Press. All rights reserved.",
+    "source": "Journal of Economic Geography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

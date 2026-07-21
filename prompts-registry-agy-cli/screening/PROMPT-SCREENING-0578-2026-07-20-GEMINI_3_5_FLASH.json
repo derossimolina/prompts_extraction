@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0578-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing competitiveness in the MENA banking sector in the context of the quality of institutional variables and political conflict risk",
+    "authors": "Elfeituri H.",
+    "year": "2022",
+    "doi": "10.1504/IJBAAF.2022.121552",
+    "abstract": "This paper investigates competitive conditions and the role of institutional environments and political risk as revenue and profitability drivers for commercial banks in the Middle East and North Africa (MENA) region. I examine an extended period (1999-2015), consisting of political and economic unrest and transformation that includes the 2007 global financial crisis and the recent Arab uprisings of 2011. The Panzar-Rosse model, competition indexes and Arrelano-Bond and GMM methodologies have been employed to examine such issues. The findings indicate that MENA banks are still operating under monopolistic competition conditions, and banks' profitability is affected by competition indexes. With regards to political instability, bank revenues and profitability are negatively affected by such matters. The findings are beneficial in terms of valuable policy implications for the optimal structuring of these countries' banking systems. Copyright © 2022 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Banking, Accounting and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

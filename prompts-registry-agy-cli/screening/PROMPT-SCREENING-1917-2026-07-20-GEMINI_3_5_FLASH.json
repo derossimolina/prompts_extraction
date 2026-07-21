@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1917-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Dark Side of Globalized Migration: The Rise and Peak of Criminal Networks-The Case of Central Americans in Mexico",
+    "authors": "Casillas R.",
+    "year": "2011",
+    "doi": "10.1080/14747731.2011.576846",
+    "abstract": "This study explores what happens to migrants from Central America to the US during their journey through Mexico. It traces the ways in which the negative interaction of undocumented immigrants with restrictive North American policies for international immigration and their dealings with international companies providing remittances, along with the evolution of criminal networks on a national scale, increase the vulnerability of these immigrants. The resulting scenario is one marked by systemic risks, a slow process of development that has now reached worrisome levels, and gaps in national governability of the immigration processes under study that exist from the outset and have been filled by a variety of social agents. © 2011 Copyright Taylor and Francis Group, LLC.",
+    "source": "Globalizations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

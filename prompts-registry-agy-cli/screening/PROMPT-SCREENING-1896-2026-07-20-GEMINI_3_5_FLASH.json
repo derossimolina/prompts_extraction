@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1896-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An evolutionary game theory approach to combat money laundering",
+    "authors": "Azevedo Araujo R.",
+    "year": "2010",
+    "doi": "10.1108/13685201011010236",
+    "abstract": "PurposeThe purpose of this paper is to show that an evolutionary approach to combat money laundering can shed new lights on this matter. Design&sol;methodology&sol;approachAn evolutionary game between financial institutions and employees is assumed in which the decisions of the banks and employees to cope against money laundering endogenously is evaluated. The players are allowed to review their strategies in each period of time comparing their payoffs with the average payoff. FindingsThe paper shows that the efficiency of anti&hyphen;money laundering combat relies on the conjugation of factors such as a proper design of the anti&hyphen;money laundering regulation and an endogenous willingness of banks and workers to cope against this war. On one hand, that the number of banks willing to fight money laundering affects the number of employees who also fight against money laundering. On the other hand, the number of banks that decide to cope against money laundering is also affected by number of employees that are prepared or willing to fight it. Of course, these decisions are affected by the design of optimal regulatory system made by the government which may reflect its commitment to combat money laundering. Research limitations&sol;implicationsThe efficiency of the anti&hyphen;money laundering regulation may be subject to endogenous characteristics of countries that range from the regulatory design to the willingness of banks and employees to cope against money laundering. Practical implicationsThis is a theoretical result that shows that an efficient combat to money laundering depends on the joint effort of competent authorities, banks, and employees. Originality&sol;valueTo the best of the author's knowledge, the paper is the first attempt to approach money laundering combat by using an evolutionary game theory approach, which allows it to focus on the endogenous aspect of the anti&hyphen;money laundering fight. © 2010, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

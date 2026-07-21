@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0763-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial opacity and financial secrecy: lessons for Nepal",
+    "authors": "Upadhyay A.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-03-2023-0049",
+    "abstract": "Purpose: The purpose of this paper is to understand the financial opaqueness established through offshore businesses and financial secrecy through the requirements of information exchanges, and their deadly combination for facilitating money-laundering activities and tax evasion. It also puts into light some key recommendations for a country like Nepal that has been struggling to put adequate efforts into understanding financial opacity and secrecy. Design/methodology/approach: This paper navigates through global issues on layering through opaque corporate structures, and mechanisms required for information exchange so as to figure out solutions and challenges to address them by developing countries like Nepal, with specific actions pertaining to Nepal. Findings: Understanding financial opacity and secrecy is a prerequisite to tackling financial crimes. While focusing on global solutions and inherent challenges regarding such issues, concerted efforts are required to capacitate a country on contextual matters. Originality/value: This work is an original work with an analysis of a global issue in an interconnected world with solutions catered to the local contexts of Nepal. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

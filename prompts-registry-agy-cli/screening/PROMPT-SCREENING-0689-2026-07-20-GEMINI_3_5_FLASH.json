@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0689-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Convenience Theory and Cybercrime Opportunity: An Analysis of Online Cyber Offending",
+    "authors": "Dearden T.E.; Gottschalk P.",
+    "year": "2024",
+    "doi": "10.1080/01639625.2023.2246626",
+    "abstract": "The private nature of business creates opportunities for financial crimes. Convenience theory suggests that opportunity, accompanied by a willingness and motive, explains financial crimes. Newer technologies have created similar private environments, which allow for criminal behavior. For example, cryptocurrencies offer a new way of generating anonymous financial transactions. This paper explores criminal opportunity using cryptocurrency and convenience theory. Specifically, we test each convenience dimension–opportunity, willingness, and motive–using a sample of adults in the United States. We find all three dimensions explain online financial crimes. Opportunity, measured through any purchase of cryptocurrency is related to an increase in financial cybercrimes. Further, when motive is considered as greed or need, a need is more important than greed. The use of cryptocurrency increases certain opportunities for financial crimes. This may partially be attributed to the crimes themselves (e.g. pump-and-dump cryptocurrency schemes) but also to the general opportunity created through cyberspace. © 2023 Taylor & Francis Group, LLC.",
+    "source": "Deviant Behavior"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

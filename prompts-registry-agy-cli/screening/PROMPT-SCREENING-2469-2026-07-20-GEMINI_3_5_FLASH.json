@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2469-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Detecting abnormal pricing in international trade: The Greece-USA case",
+    "authors": "Pak, SJ; Zanakis, SH; Zdanowicz, JS",
+    "year": "2003",
+    "doi": "10.1287/inte.33.2.54.14473",
+    "abstract": "Government authorities, international lending agencies, and private sector firms try to detect abnormal pricing in international trade. Abnormal prices in international trade may indicate capital flight, import-duty fraud, income-tax evasion, or money laundering. We developed a framework for filtering all annual trades between two countries, which includes thousands of harmonized commodity codes and millions of import-export transactions. It produces a prioritized list of commodities traded at potentially abnormal prices and can help auditors to identify such items ranked according to likelihood of abnormal pricing. We estimated the economic impact of overinvoiced imports to Greece from the United States and underinvoiced exports from Greece to the United States. These transactions shift as much as $400 million in income annually out of Greece to the US (and well over $5.5 billion out of Greece to all other countries or about four percent of the GDP of Greece), lowering the level of taxable income and the tax liability of firms operating in Greece, thus increasing the public deficit and reducing domestic investments. The treasury of Greece is losing an estimated $1.4 to $2 billion revenues annually from worldwide trade shifted income. By auditing only the top 25 income-shifting items with the US (identified through a pricing filter), the Greek treasury could capture about 3/4 of the income shifted from exports and over 1/2 of the income shifted from all imports.",
+    "source": "INTERFACES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

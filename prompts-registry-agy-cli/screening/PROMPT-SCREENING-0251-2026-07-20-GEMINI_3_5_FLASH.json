@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0251-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banking Efficiency Under Systemic Uncertainty: A Bibliometric Lens on Sustainability",
+    "authors": "Manta A.G.; Gherțescu C.; Bădîrcea R.M.; Doran N.M.",
+    "year": "2026",
+    "doi": "10.3390/ijfs14030074",
+    "abstract": "This study delves into how the literature conceptualizes banking efficiency as a capability shaping sustainability-oriented pathways under conditions of systemic uncertainty, including recurrent economic–financial disruptions and geopolitical shocks. Using records indexed in the Web of Science Core Collection, the study combines bibliometric mapping with conceptual structuring to examine publication dynamics, collaboration networks, and the thematic evolution of research linking bank efficiency, green finance intermediation, sustainable digital innovation, and risk governance. The study reveals a multidimensional knowledge base organized around two converging streams: (i) research on efficiency, stability, and crisis transmission emphasizing intermediation quality, performance under stress, and prudential responses; and (ii) sustainability and innovation scholarship focusing on how financial systems enable eco-innovation diffusion and low-carbon transition through capital allocation, governance mechanisms, and digitally enabled transformation. Across these streams, banking efficiency is increasingly discussed not merely as a performance ratio, but as a strategic capability that becomes particularly salient in crisis environments: it can reduce intermediation frictions when funding conditions tighten, strengthen screening and monitoring of green projects amid elevated uncertainty, and support the continuity and scaling of eco-innovations by improving decision speed and resource allocation through digital tools. Collaboration patterns indicate growing interdisciplinary engagement—especially among European and Asian institutions—where crisis, sustainability, and innovation perspectives are integrated into systems-based approaches to green finance. Building on these insights, the article outlines a research agenda oriented toward innovation outcomes in turbulent contexts, emphasizing (a) measurement strategies that connect efficiency to eco-innovation diffusion and adoption rates during stress periods; (b) comparative analyses of how policy incentives and green market signals interact with bank efficiency across crisis episodes; and (c) hybrid methodological designs combining econometric identification, network analytics, scenario-based stress framing, and AI-enabled analytical tools to capture nonlinear dynamics in efficiency–innovation linkages. Overall, the study clarifies how banking efficiency may condition the capacity of financial institutions to sustain green investment intermediation and advance eco-innovation pathways when uncertainty is systemic rather than episodic. © 2026 by the authors.",
+    "source": "International Journal of Financial Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

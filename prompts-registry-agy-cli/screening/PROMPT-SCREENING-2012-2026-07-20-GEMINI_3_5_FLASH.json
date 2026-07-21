@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2012-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Casinos and banking: Organized crime in the Bahamas",
+    "authors": "Block A.A.; Scarpitti F.R.",
+    "year": "1986",
+    "doi": "10.1080/01639625.1986.9967719",
+    "abstract": "The symbiotic relationships among gambling casinos, offshore banks and professional criminals are complex. In numerous contemporary cases, professional criminals from the United States and elsewhere are known to utilize both casinos and financial institutions to launder money and to hide large amounts of illicitly acquired money. Long before recent revelations of such activities became known in the Caribbean and the U. S., developers in the Bahamas had started the process of bringing casinos and banks together to serve underworld interests. This paper traces the developments of that process and shows how American organized crime interests penetrated the Bahamas by using gambling and banking to gain a firm foothold. © 1986 Hemisphere Publishing Corporation.",
+    "source": "Deviant Behavior"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

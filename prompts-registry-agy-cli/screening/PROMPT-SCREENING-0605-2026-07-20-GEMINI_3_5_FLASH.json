@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0605-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Your files have been encrypted: a crime script analysis of ransomware attacks",
+    "authors": "Matthijsse S.R.; van ‘t Hoff-de Goede M.S.; Leukfeldt E.R.",
+    "year": "2023",
+    "doi": "10.1007/s12117-023-09496-z",
+    "abstract": "Ransomware attacks have increased in recent years and the impact on victims and society can be considerable. In order to develop effective measures against ransomware, it is important to understand how attacks are committed. However, most research on ransomware focuses on technical aspects or specific stages in the process. Less scientific research has been conducted on the entire process or the human involvement in attacks. Moreover, while crime scripts exist for other forms of cybercrime, a crime script for ransomware attacks is missing in the literature. The current study seeks to address this gap through a crime script analysis of ransomware attacks, using 44 court documents from Dutch and English-speaking countries and 10 expert interviews. The crime script analysis helps in understanding the actions taken in each stage of a ransomware attack and the behavior of and interaction between victims and offenders. It shows how the ransomware ecosystem has professionalized, with groups investing time, effort and money in the malware and infrastructure, outsourcing parts of the process and sometimes providing victims with customer service. Furthermore, it gives insight into facilitators, including the security risks that enable attackers in gaining access and cryptocurrency mixers or exchange services that facilitate money laundering. The findings have helped identify potential situational crime prevention measures, which are described in the discussion. © 2023, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

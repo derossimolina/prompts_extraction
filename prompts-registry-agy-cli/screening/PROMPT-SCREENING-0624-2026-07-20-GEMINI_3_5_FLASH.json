@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0624-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How Do Innovative Improvements in Forensic Accounting and Its Related Technologies Sweeten Fraud Investigation and Prevention?",
+    "authors": "Haddad H.; Alharasis E.E.; Fraij J.; Al-Ramahi N.M.",
+    "year": "2024",
+    "doi": "10.37394/23207.2024.21.93",
+    "abstract": "The purpose of this article is to look at recent developments in forensic accounting that have to do with preventing and investigating fraud. The following new developments in forensic accounting are being studied by doing a thorough literature review: data analytics, cyber forensic accounting, and the impact of blockchain and cryptocurrencies on the field. We take a close look at each new trend, breaking it down into its uses, pros, disadvantages, and ethical implications. Case studies and real-world examples back up the findings, showing how effective these fraud prevention and investigation tendencies are. Investigations into financial crimes employing information technology have their own set of challenges, which the report sheds light on. Blockchain technology's capacity to increase accountability, traceability, and transparency in financial transactions is also explored. To improve fraud detection and prevention efforts, the study finishes with suggestions for researchers, practitioners, and policymakers to adapt to and take advantage of these new trends. To effectively identify and discourage financial crime in the constantly evolving world of new technology, the study finishes by stressing the necessity for continuous research and innovation, highlighting the dynamic character of forensic accounting. © 2024, World Scientific and Engineering Academy and Society. All rights reserved.",
+    "source": "WSEAS Transactions on Business and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

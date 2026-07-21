@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2166-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Status and implications of promise (wa'd) in contemporary Islamic banking",
+    "authors": "Irwani Abdullah N.",
+    "year": "2010",
+    "doi": "10.1108/08288661011074891",
+    "abstract": "Purpose – The purpose of this paper is to analyse the status and implications of promise (wa'd) in Islamic banking practices and the extent of its enforceability in the court of law. The analysis highlights the concept of wa'd, its application and limitation in the present practices. Design/methodology/approach – Analysis of conceptual nature and status of promise is made in the light of classical and contemporary juristic rulings (ijtihad and ifta'). Illustrations of three main Islamic banking products structured based on wa'd principle are discussed to shed some lights in understanding the issues surrounded the practice. Findings – This study reveals that the usage of wa'd is allowed by contemporary jurists as a necessity for the interest of the contracting parties. The paper admits the importance of wa'd which has become an innovative tool in structuring many forward contracts that require flexibility with full commitment of the parties involved without jeopardising the basic principles and maqasid AlShari'ah. The paper also highlights that the right of promissee is well protected in both Shari'ah and civil law, and also enforceable in the court of law. Research limitations/implications – The analysis of this study reveals that wa'd has direct implications in determining the Shari'ah compliancy of particular Islamic banking products in two aspects; first, promise and otherrelated undertakings are not integral to the main contract; second, the promise should not include a bilateral promise that is binding on both parties, unless if there is an option to cancel the promise which may be exercised by any of the parties. This research will be of interest to both incumbent and potential practitioners as well as researchers in the area of Islamic finance. Originality/value – The paper presents an objective view on the implication of wa'd in Islamic banking practices based on facts and Shari'ah rulings. It will indeed be a material guideline to the industry player who directly adopts wa'd in many Islamic products. © 2010, Emerald Group Publishing Limited",
+    "source": "Humanomics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1526-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illicit financial flows: HSBC case study",
+    "authors": "Naheem M.A.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-08-2015-0036",
+    "abstract": "Purpose: This paper provides examples of how illicit financial flows (IFFs) are occurring through the formal banking and financial services sector. The purpose of this paper is to explore which elements of anti-money laundering (AML) compliance need to be addressed to strengthen the banking response and reduce the impact of IFFs within the banking sector. Design/methodology/approach: The paper uses a number of sources of secondary data including the Swiss leaks data for HSBC and also the Permanent Sub Committee Report on HBUS in the USA, the OECD report on money laundering compliance and Financial Action Task Force (FATF) guidelines on beneficial ownership. It links this information to the relevant IFF reports produced through Global Financial Integrity to highlight the connection between banking AML compliance and IFF transfers through the banking sector. Findings: The main findings from the analysis are that banks have a greater legal responsibility towards detecting and reporting suspicious transactions than they would have previously considered. This includes identifying the source and purpose of fund transfers and establishing the beneficial ownership of recipients. Research limitations/implications: The research topic is new; therefore, analysis papers and other academic writing on this topic are limited. Practical implications: The research paper has identified a number of implications to the banking sector on addressing AML deficiencies, especially the need to improve standards of beneficial ownership verification and customer due diligence (CDD) checks for politically exposed persons. Social implications: This paper has implications for the international development and the global banking sector. It will also influence approaches to AML regulation, risk assessment and audit within the broader financial services sector. Originality/value: The originality of this paper is the link between the HSBC cases and IFFs and the implications this will have for future AML compliance processes across the banking sector. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

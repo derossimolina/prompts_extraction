@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1803-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering practices in banks: customer’s awareness and acceptance in India",
+    "authors": "Viritha B.; Mariappan V.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-03-2015-0009",
+    "abstract": "Purpose: The aim of this study was to assess the level of awareness and acceptance of bank customers regarding anti-money laundering (AML) practices of banks. The study also aimed to understand their constraints in following the bank’s AML practice. Design/methodology/approach: The target population was account holders of the banks above the age of 18 years, residing in the Puducherry and Chennai regions in India. Convenience sampling was adopted in selecting the sample from these states. The sample consisted of 416 customers of the public, private and foreign banks in India. The responses were collected by administering the pre-tested structured questionnaire. The data was collected during the period June–December 2014. Descriptive and non-parametric tests were applied, and the significance was considered at p = 0.5. Findings: Respondents showed low level of awareness with regard to usage of banks as a channel for money laundering (ML) and terrorism financing (TF) activities (62.3 per cent), reporting function of the banks (70.4 per cent), AML and combating financing of terrorism (CFT) legislation (86.3 per cent) and about the existence of Financial Intelligence Unit (FIU)-India and its function (96.9 per cent). The customers were quite aware of ML (62.5 per cent) and customer identification requirements (95.2 per cent). The participants exhibited neutral attitude towards acceptance of AML measures (3.11 ± 1.31). The descriptive analysis showed 97.4 per cent were ready to provide their identification documents to the bank; however, 64.5 per cent of the participants were reluctant to update their Know Your Customer particulars when it has not experienced any change, and about 68.3 per cent expressed that banks should not disclose the details of their transactions to any third party including financial intelligence units. Research limitations/implications: The sample constituted only few participants from the foreign sector banks because of the difficulty in identifying the foreign bank customers. Social Implications: There is a necessity to undertake public awareness campaigns on the importance of AML/CFT system either by the banks or FIU-India or both to increase the level of acceptance towards AML measures. This will help the banks to strengthen the bank–customer relationship. Originality/value: An extensive review of literature could not find any research study on the assessment of awareness and acceptance of banking customers towards AML practices in India. Thus, this paper attempts to understand the level of awareness and acceptance in the bank customers towards AML practices. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

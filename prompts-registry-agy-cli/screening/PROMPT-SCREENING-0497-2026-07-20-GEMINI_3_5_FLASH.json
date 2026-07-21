@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0497-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Compounding financial frontiers: capital seeds and seeds for capital",
+    "authors": "Pérez-Rivera G.C.",
+    "year": "2023",
+    "doi": "10.1080/17530350.2023.2189145",
+    "abstract": "More than fifty years of civil war has left about eight million internally displaced people in Colombia, with millions struggling to make a living in new precarious urban spaces. Illicit narcoparamilitary groups, also emergent from the conflict, have dispossessed millions from their land and become vital moneylenders that enable displaced people to work and subsist in cities while profiting from them. Using the metaphor of compounding, I suggest thinking of financial frontiers as consecutive processes of expansive economic growth where one asset or principal (land dispossession and rural displacement in the Colombian case) originates exponential profits over time, benefiting narcoparamilitary groups. Such exponential gain happens gradually in circular financial transactions. Each transaction produces extra profits and opens possibilities for new financial transactions that further extract value from displacement and land dispossession. This approach helps us understand the social relations that permit capital accumulation over long periods, across geographic spaces, through political changes, and through economic shifts that determine the development of novel forms of financial power in Colombia and beyond. This article proposes a concept of compounding financial frontiers to grasp how new spaces for financial value extraction emerge and how capitalism finds the conditions for its reproduction. © 2023 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Journal of Cultural Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

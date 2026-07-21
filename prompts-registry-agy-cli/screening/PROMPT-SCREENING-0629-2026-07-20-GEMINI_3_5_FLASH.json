@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0629-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Online and offline determinants of drug trafficking across countries via cryptomarkets",
+    "authors": "Giommoni L.; Décary-Hétu D.; Berlusconi G.; Bergeron A.",
+    "year": "2024",
+    "doi": "10.1007/s10611-023-10106-w",
+    "abstract": "Drug cryptomarkets are a significant development in the recent history of illicit drug markets. Dealers and buyers can now finalize transactions with people they have never met, who could be located anywhere across the globe. What factors shape the geography of international drug trafficking via these cryptomarkets? In our current study, we test the determinants of drug trafficking through cryptomarkets by using a mix of social network analysis and a new dataset composed of self-reported transactions. Our findings contribute to existing research by demonstrating that a country’s level of technological advancement increases the probability of forming trafficking connections on cryptomarkets. Additionally, we found that a country’s capacity to police cryptomarkets reduces the number of trafficking connections with other countries. We also observed that trafficking on cryptomarkets is more likely to occur between countries that are geographically close. In summary, our study highlights the need to consider both online and offline factors in research on cryptomarkets. © 2023, The Author(s).",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

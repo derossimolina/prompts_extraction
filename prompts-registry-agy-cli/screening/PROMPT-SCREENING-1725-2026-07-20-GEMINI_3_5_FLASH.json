@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1725-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Investigating approaches to improving rendering performance of 3D city models on mobile devices",
+    "authors": "Ellul C.; Altenbuchner J.",
+    "year": "2014",
+    "doi": "10.1080/10095020.2013.866620",
+    "abstract": "Three-dimensional (3D) city models have uses including on-site validation of utility infrastructure, support for augmented reality, personalized tourist information, real estate sales, and 3D pedestrian navigation. Increasingly, such applications are deployed on mobile devices, whose use is becoming more prevalent. Tablet devices are used for more professional use requiring larger screens, mobile phones for more casual users. However, many 3D city models contain hundreds of buildings, which in turn results in performance issues when attempting to visualize such models on these devices. Two issues can be identified as contributory factors - the lower specification of the mobile device itself when compared with desktop machines and the lower bandwidth network between the device and the server (3G mobile or Wi-Fi). Both of these can be addressed by reducing the volume of data in the model. To achieve this, we generalize a 2D data-set (using aggregation and simplification) and then extrude the generalized 2D maps to 3D. This minimizes the number of buildings to be transmitted over the network and processed by the on-board graphics engine. To additionally address the bandwidth issue, we make use of topological data structuring to build and transmit a minimal description for each building. Combining these approaches, we compare the results obtained for generalized and un-generalized data-sets, on a tablet and mobile device. A performance increase of between 7 and 9 times is observed. © 2014 © 2014 Wuhan University.",
+    "source": "Geo-Spatial Information Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

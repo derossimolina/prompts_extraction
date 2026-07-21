@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2224-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Une métropole de l'ère globale : Atlanta",
+    "authors": "Manzagol C.",
+    "year": "1996",
+    "doi": "10.3406/geo.1996.21714",
+    "abstract": "Booming Sunbelt metropolises are major elements of the restructuring of the U.S. urban system and the reshaping of the national economic landscape. In Atlanta, the city that was once the capital of the Deep South, Coca-Cola and C.N.N. epitomize the structuring of economic processes on a planetary scale. Manufacturing never played a major role in Atlanta ; transportation accessibility was the underlying reason for its birth and growth. Atlanta's economic base is mainly composed of communication, banking and producer services activities. More and more strongly linked with the centers of the world economy, Atlanta exemplifies the informational city. Atlanta also reflects the changing face of the American city. The traditional C.B.D. no longer monopolizes headquarters and other high-order activities, which are now increasingly found in new metropolitan-level suburban centers. These edge cities completely reshape the modern American metropolis. But the accumulation of problems in the core and the deepening gap between social groups is probably the main issue confronting contemporary America.",
+    "source": "Annales de Geographie"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

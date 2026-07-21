@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0549-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Designing the anti-money laundering supervisor: The governance of the financial intelligence units",
+    "authors": "Bartolozzi D.; Gara M.; Marchetti D.J.; Masciandaro D.",
+    "year": "2022",
+    "doi": "10.1016/j.iref.2022.03.009",
+    "abstract": "Using a unique data set, this paper studies the governance of anti-money laundering (AML) supervisors known as Financial Intelligence Units (FIUs). We start from a theoretical framework that explains any FIU setting as the final outcome of a political choice that combines four governance properties: financial and informative powers, law enforcement and investigative powers, independence and accountability. Then we empirically explore the possible structural drivers of this choice, building up the first quantitative FIU Governance Index and applying this metrics in a cross country analysis of 71 countries. FIUs' financial powers tend to be weaker in bank-based economies and stronger in countries with more affiliations with international AML organizations. FIU's law enforcement powers are more intense in civil law countries, and Islamic culture matters as well on the choice of the FIU type. FIU independence and accountability are stronger in countries with higher-quality governance. The overall FIU Governance Index appears stronger for more developed and transparent countries. Finally, overall FIU governance as well as independence and accountability are found to be weaker in countries with law enforcement FIUs. © 2022 Elsevier Inc.",
+    "source": "International Review of Economics and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0276-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "GST and Tax Evasion in India: Evidence from Practitioner Surveys",
+    "authors": "Bansal A.; Jain V.; Chatterjee G.",
+    "year": "2026",
+    "doi": "10.17010/pijom/2026/v19i3/175058",
+    "abstract": "Purpose: This study focused on the effective mechanism of GST as per the views of practicing tax professionals on curbing the circulation of black money and tax evasion in India. Design/Methodology/Approach: For this study, 47 tax professionals (chartered accountants, tax advocates, and company secretaries) were enrolled using purposive expert sampling. The researchers used a quantitative cross-sectional survey design to collect data in January and February 2025. Descriptive statistics, Pearson correlation analysis, and independent variables were used in the data analysis. Findings: The findings indicated that GST achieved only partial success in reducing black money. Real estate remained the most vulnerable sector (M = 3.77). Cash transactions and fake invoicing were the most common evasion methods, and they were correlated with shell companies (r = 0.722). Invoice matching, rated most effective (M = 3.75), showed alignment with e-way bills (r = 0.782). Portal glitches and input tax credit (ITC) errors were key compliance challenges. No significant group differences suggested perceptions reflected objective system performance. Practical Implications: To harness the full anti-evasion potential of GST, targeted digital infrastructure, sector-specific property reforms, and integrated network analysis to detect collusion will be required. Originality/Value: Studies have examined GST’s influence on black money in India. Among the first studies, four experts investigated the effects of GST on black money among tax experts using well-tested, well-recognized statistics. © 2026, Associated Management Consultants Pvt. Ltd.. All rights reserved.",
+    "source": "Prabandhan: Indian Journal of Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

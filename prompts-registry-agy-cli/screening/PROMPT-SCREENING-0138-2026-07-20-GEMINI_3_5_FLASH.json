@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0138-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk Management in DeFi: Analyses of the Innovative Tools and Platforms for Tracking DeFi Transactions",
+    "authors": "Adamyk B.; Benson V.; Adamyk O.; Liashenko O.",
+    "year": "2025",
+    "doi": "10.3390/jrfm18010038",
+    "abstract": "Decentralized Finance (DeFi) is a recent advancement of the cryptocurrency ecosystem, giving plenty of opportunities for financial inclusion, innovation, and growth domains by providing services such as lending, borrowing, and trading without traditional intermediaries. However, inadequate regulatory oversight and technological vulnerabilities raise pressing concerns around market manipulation, fraud, and regulatory compliance, exposing a clear research gap in effective DeFi risk management. This paper addresses this gap by proposing a utility-based framework to evaluate six leading DeFi tracking platforms—Chainalysis, Elliptic, Nansen, Dune Analytics, DeBank, and Etherscan—focusing on two critical metrics: transaction accuracy and real-time responsiveness. Applying a mixed methods approach that combines a quantitative survey (n = 138) with qualitative interviews (n = 12), we identified critical platform features and found significant differences across these platforms with respect to compliance features, advanced analytics, and user experience. We used a utility-based model that links accuracy and responsiveness metrics, allowing us to adjust differing priorities and risk management needs for users. The results show the need for balanced, user-centric solutions that accommodate regulatory, technological efficiency and affordability requirements. Our study contributes to the growing knowledge base by providing a structured evaluation model and empirical insights, offering clear directions for practitioners, platform developers, and policymakers aiming to strengthen the DeFi ecosystem. © 2025 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

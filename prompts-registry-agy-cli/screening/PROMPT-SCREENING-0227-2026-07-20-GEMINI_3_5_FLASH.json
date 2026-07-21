@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0227-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulation Ends at the Interface. A Digital Mixed-Methods Study of Airbnb Market Structures in Berlin and Cape Town; [Die Regulierung endet am Interface. Eine digital Mixed-Methods Studie von Airbnb Marktstrukturen in Berlin und Kapstadt]",
+    "authors": "Pohl S.C.; Hecht C.; Kirchner S.",
+    "year": "2026",
+    "doi": "10.12759/hsr.51.2026.04",
+    "abstract": "»Die Regulierung endet am Interface. Eine digital Mixed-Methods Studie von Airbnb Marktstrukturen in Berlin und Kapstadt«. Airbnb has become the go-to platform for digitally mediated short-term rentals. This entails marketplaces in very different locales. There is still little knowledge on how these specific contexts influence local Airbnb marketplaces. In this paper we explore the influence of local contexts, exemplified by contrasting regulatory approaches, on the principles structuring Airbnb markets in Berlin and Cape Town. We draw on the refiguration of spaces framework to analyse the sociospatial interplay between cities and digital marketplaces. Utilising an innovative digital mixed-methods approach combining traditional and computational methods, the paper shows that Airbnb manages to encapsulate its market places, shielding it from regulatory influence that might have negative impacts on the transactions taking place on the platform. Still, local governments are able to shape market activity by shaping hosts’ perceptions of their hosting practices and introducing barriers for market entries. © 2026, GESIS-Leibniz Institute for the Social Sciences. All rights reserved.",
+    "source": "Historical Social Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

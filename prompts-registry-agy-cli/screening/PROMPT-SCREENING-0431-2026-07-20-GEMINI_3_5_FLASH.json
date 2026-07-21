@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0431-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "TRACKING FINANCIAL CRIME THROUGH CODE AND LAW: A REVIEW OF REGTECH APPLICATIONS IN ANTI-MONEY LAUNDERING AND TERRORISM FINANCING",
+    "authors": "El Harras M.; Salahddine M.A.",
+    "year": "2025",
+    "doi": "10.22495/clgrv7i3p7",
+    "abstract": "Regulatory technology (RegTech) is transforming financial compliance by integrating advanced information technologies to strengthen anti-money laundering and countering the financing of terrorism (AML-CFT) frameworks. Recent literature suggests that such technologies represent more than just an efficiency tool; they mark a paradigm shift in regulation and the evolution of financial oversight (Kurum, 2023). This paper aims to provide a narrative review of recent RegTech applications in financial crime prevention, with a focus on key compliance domains. A structured literature review was conducted to examine publications between 2020 and 2024 with a thematic synthesis of findings related to customer due diligence (CDD) and know your customer (KYC), transaction monitoring, regulatory reporting and compliance automation, information sharing and cross-border cooperation, as well as cost efficiency. Findings reveal that RegTech solutions give financial institutions more responsibility for detecting and managing financial crime risks, making them more active players in compliance processes traditionally overseen by regulators. The combined use of technologies such as artificial intelligence (AI), blockchain, and big data also generates synergistic effects that improve compliance outcomes beyond what these technologies achieve individually. This demonstrates the strategic relevance of integrated RegTech approaches. © 2025 The Authors.",
+    "source": "Corporate Law and Governance Review"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

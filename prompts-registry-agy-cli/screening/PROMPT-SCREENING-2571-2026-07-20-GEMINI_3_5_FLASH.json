@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2571-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The New Wave of Hybrids-Rethinking the Optimal Capital Structure",
+    "authors": "Ryan, K; Ross, J; Ross, J",
+    "year": "2007",
+    "doi": "10.1111/j.1745-6622.2007.00146.x",
+    "abstract": "Though hybrid securities that combine features of both debt and equity now have at least ten years of history in the capital markets in the form of convertibles and trust preferreds, recent interest in the product has centered on the wave of issuance of tax-deductible debt securities that also qualify for equity credit with the rating agencies. In February 2005, Moody's published new guidelines for determining what type of hybrid securities would receive equity credit. Investment banks responded by structuring securities to meet both Moody's hybrid criteria and tax authorities' guidelines for tax-deductible interest payments. The largest issuers of these new hybrids have been financial institutions that have used the proceeds to bolster their balance sheets by reducing rating agency leverage or, in some cases, to lower their weighted average cost of capital through share repurchases funded by hybrids. Recent hybrid issuers have also included a handful of corporates, notably CVS, which used a $1 billion issue to help fund a special dividend that facilitated its recent acquisition of Caremark. As the case of CVS suggests, hybrids are likely to be most useful for companies in need of capital that have exhausted their conventional debt capacity but are reluctant to issue equity. In such cases, the equity treatment accorded hybrids by the rating agencies has the effect of expanding corporate debt capacity while avoiding the dilution of value associated with most equity offerings. But even for companies that feel they already have an optimal mix of debt and common stock, a hybrid issue that receives 50% equity credit and is used to retire equal amounts of debt and stock could offer a new way to reduce the overall cost of capital.",
+    "source": "JOURNAL OF APPLIED CORPORATE FINANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

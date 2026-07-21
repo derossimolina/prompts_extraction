@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2335-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "WHISTLEBLOWER INCENTIVISATION SCHEMES FOR OBLIGED ENTITIES UNDER ANTI-MONEY LAUNDERING LEGISLATION",
+    "authors": "Shevchenko, M; Zaikina, H; Kuvakin, S",
+    "year": "2025",
+    "doi": "10.30525/2256-0742/2025-11-3-402-408",
+    "abstract": "The relevance of the research is derived from the observation that the imposition of a mandatory obligation on designated entities to undertake due diligence in order to detect and report suspicious transactions and perform other activities under anti-money laundering and terrorist financing legislation without allocating public funds as a basis for these activities of designated entities does not align with the generally accepted principles governing the delegation of governmental functions. The central proposition of the article is that this flaw could be partially remedied by providing monetary incentives to obligated entities by paying them a reward for properly fulfilling their duties to identify suspicious financial transactions and notify the financial intelligence unit about such transactions. The article examines the legislation and experience of the countries with the longest and most meaningful experience of whistleblower incentive schemes: Lithuania, the Republic of Korea, the United States of America and the Canadian province of Ontario. It is evident that there is an emerging trend of widespread and effective utilisation of whistleblowing incentive programmes, which are designed to combat complex financial crimes in specific domains of the public sector. These programmes have been implemented in various sectors, including capital markets, commodity markets, tax debt collection, anti-trust activities, corruption prevention, and the fight against money laundering and terrorism financing. Consequently, the establishment of a framework for remunerating obliged entities in accordance with their satisfactory fulfilment of their duties to identify suspicious financial transactions and notify a financial intelligence unit of them is hereby proposed. The amount of the reward is calculated at between 15 and 30 per cent of the base amount, which may include the sums of funds of illegal origin, penalties for failure to ensure proper organisation and/or conduct of due diligence, or other relevant amounts. The right to receive the reward is to arise at the time of collection/return by government agents of funds of illegal origin in criminal proceedings initiated upon notification by the obligated entity.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

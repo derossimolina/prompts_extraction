@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0573-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tornado Cash and Blockchain Privacy: A Primer for Economists and Policymakers",
+    "authors": "Nadler M.; Schär F.",
+    "year": "2023",
+    "doi": "10.20955/r.105.122-136",
+    "abstract": "This article explores non-custodial crypto asset mixers such as Tornado Cash. We analyze what types of mixers exist and how they work. We discuss opportunities and risks and offer an approach, based on voluntary disclosure, that would allow financial market regulators to combat money laundering and illicit activities, while allowing honest users to interact with privacy-enhancing protocols. We explain how crypto asset mixers play an important role on public blockchains and that privacy may be difficult to attain without them. © 2023, Federal Reserve Bank of St. Louis.",
+    "source": "Federal Reserve Bank of St. Louis Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

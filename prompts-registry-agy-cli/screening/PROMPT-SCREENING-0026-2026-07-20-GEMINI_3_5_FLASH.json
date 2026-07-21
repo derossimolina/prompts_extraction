@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0026-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "GAPLG: Graph Augmented With Pseudolabels Generation for Blockchain Anomaly Transaction Detection",
+    "authors": "Huang J.; Bu K.; Han H.; Gong B.; Xiong A.; Wang W.; Wu Q.",
+    "year": "2025",
+    "doi": "10.1109/TCSS.2025.3555658",
+    "abstract": "Cryptocurrencies, underpinned by blockchain technology, face persistent threats such as money laundering and extortion due to their decentralized and anonymous nature. Detecting fraudulent transactions is crucial for ensuring the security of blockchain systems. However, the existing detection methods face the following challenges: lack of labeled data, severe class imbalance in labeled data, complex network structure, numerous parameters, and long training time. To address these challenges, we propose a novel semisupervised learning framework that combines the graph augmented with pseudolabels generation (GAPLG) model and postprocessing technique. Our framework employs graph learning networks to elucidate relationships between transactions and users. By utilizing pseudolabels for unlabeled transaction data and embedding them onto diverse graph nodes, we achieve precise labels, enhancing prediction accuracy. Additionally, we employ specific postprocessing technique, such as correction and smoothing (C&S) technology, to rectify residuals and refine labels, ensuring our framework rivals the best parameter and baseline models. Our method boasts high scalability and flexibility, aiding in optimizing various evaluation indicators. Experimental verification through multiple real transaction datasets under varying data segmentations, demonstrated its effectiveness when compared with other representative frameworks. The analysis validates the effectiveness and benefits of our method. © 2014 IEEE.",
+    "source": "IEEE Transactions on Computational Social Systems"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1180-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The reliance on lifestyle audits for public officials to curb corruption and tax evasion in nigeria",
+    "authors": "Animashaun O.; Chitimira H.",
+    "year": "2021",
+    "doi": "10.17159/1727-3781/2021/V24I0A10735",
+    "abstract": "Widespread corruption in the Nigerian public service is having a far-reaching detrimental effect on the economy. Public officers and other policy makers that formulate socio-economic policies are the main perpetrators of corruption in Nigeria. This article focusses on the viability of lifestyle audits for public officials as a strategy for combating such corruption, the proceeds of which are usually laundered and warehoused either offshore or in Nigeria with the assistance of professionals such as bankers and lawyers. If such warehoused wealth is discovered it is usually forfeited to the treasury of the government of Nigeria, after the trial of the offenders. This article interrogates the adequacy of the relevant legislation and the efficacy of the statutory bodies responsible for lifestyle audits in Nigeria, such as the Code of Conduct Bureau, which is discussed, as are the Code of Conduct Bureau and Tribunal Act, 2010, the Economic and Financial Crimes Commission Act, 2004, and the income tax reporting framework administered by the Federal Inland Revenue Service. It appears that the provisions relating to lifestyle audits under the Nigerian statutes are not robust enough to curb corruption and tax evasion. In addition, the enforcement of such lifestyle audits is hindered by the immunity granted to certain Nigerian public officers and jurisdictional conflicts in prosecuting corruption cases. © 2021, North-West Unversity. All rights reserved.",
+    "source": "Potchefstroom Electronic Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

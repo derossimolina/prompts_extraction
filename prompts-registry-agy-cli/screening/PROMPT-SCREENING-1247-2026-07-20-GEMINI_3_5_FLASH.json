@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1247-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial monitoring in the bank as a market instrument in the conditions of innovative development and digitalization of economy: Management and legal aspects of the risk-based approach",
+    "authors": "Vovk V.; Zhezherun Y.; Bilovodska O.; Babenko V.; Biriukova A.",
+    "year": "2020",
+    "doi": "10.22068/ijiepr.31.4.559",
+    "abstract": "The article examines foreign and domestic experience in organizing financial monitoring systems, systematizes the requirements for its implementation in Ukraine. The basic legal norms, enshrined in the joint directives of the European Parliament and of the Council of the EU, and underlying the national financial monitoring systems of the EU countries and Ukraine have been also analyzed. Taking into account the fact that the risk-based approach is the main basis for the effective implementation of all FATF recommendations, the nature of the risk of money laundering / financing of terrorism and the criteria for their assessment have been investigated. A scheme of improving the process of financial monitoring in a bank has been developed, as well as a number of measures have been proposed to raise the level of adhering to the legislation in the field of anti-money laundering and counter-terrorist financing by the banking sector. © Iran University of Science and Technology 2020.",
+    "source": "International Journal of Industrial Engineering and Production Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

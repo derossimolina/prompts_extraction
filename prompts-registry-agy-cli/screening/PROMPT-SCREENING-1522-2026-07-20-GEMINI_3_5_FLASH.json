@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1522-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Executive pensions, risk-shifting, and foreign exchange exposure",
+    "authors": "Krapl A.A.; White R.S.",
+    "year": "2016",
+    "doi": "10.1016/j.ribaf.2016.05.001",
+    "abstract": "Using a hand-collected executive compensation database of 272 large U.S. firms from 2000 to 2009, we present the first study of its kind to analyze the effects of executive pension-based compensation on foreign exchange exposure. We find evidence that higher executive pension compensation results in lower foreign exchange exposure among our sample firms, an effect that is strongest when sample firms are closest to bankruptcy. Our results have important implications for the structuring of managerial compensation contracts for multinational firms. © 2016 Elsevier B.V.",
+    "source": "Research in International Business and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

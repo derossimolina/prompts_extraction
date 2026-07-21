@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2228-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Alternative explanations of online repurchasing behavioral intentions: A comparison study of Korean and UK young customers",
+    "authors": "Ha H.-Y.; Muthaly S.K.; Akamavi R.K.",
+    "year": "2010",
+    "doi": "10.1108/03090561011032757",
+    "abstract": "Purpose: This study sets out to employ a cross-cultural perspective to explore alternative explanations in the development of the online repurchase intentions model. Design/methodology/approach: The proposed constructs of alternative models deal with key online consumer behavior variables such as customized information, web use applications, online service and perceived interactivity which lead to the formation of purchase intentions. These variables form the theoretical foundation for four alternative models. To test these four alternative models 448 online consumers were surveyed in 2007. Structural equation modeling is used to test these models. Findings: The results demonstrate that the power of customized information lies in its ability to influence consumer satisfaction and perceived interactivity that are proximate to repurchase intentions. The results also show that the link of satisfaction→repurchase intentions provides a meaningful empirical representation of the hierarchical sequence in which the cycle of customer repurchasing process (satisfaction→attitude→repurchase intentions) is related. Research limitations/implications: One may examine applications of the findings in the travel industry in practice and reflect upon potential pitfalls when applying the findings of this piece of the present research. Although previous studies reveal the significance between the two constructs, further research can investigate the issue to be generalizable to the many types of e-B2C services. Second, particularly in terms of the ability to generalize the model, the study did not provide fairly consistent results for different service categories. Studies on other service classes, such as online bookstore and online banking services, may reveal findings that extend the authors' approach. Practical implications: Similarity of purchasing attitudes between Korean and UK consumers may allow e-tailors to design a systematic strategy for generating favorable attitudes toward their web sites, even though standardized online treatment of consumers is not the golden path of internet marketing. Further, the proposed research model (PRM) provides a means of identifying the underlying dispositions associated with the mediating variable. Originality/value: This is the first study to examine online repurchasing models using alternative explanations. By structuring such alternative models, McKenzie argues that researchers may be better able to judge how the evidence relates to each alternative view. The present approach can be viewed as a significant early step on the path toward a comprehensive understanding of online consumer behaviors in new information communication technology. © Emerald Group Publishing Limited.",
+    "source": "European Journal of Marketing"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

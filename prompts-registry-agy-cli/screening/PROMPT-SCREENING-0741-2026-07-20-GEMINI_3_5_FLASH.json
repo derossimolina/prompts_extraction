@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0741-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dark side of decentralised finance: a call for enhanced AML regulation based on use cases of illicit activities",
+    "authors": "Benson V.; Turksen U.; Adamyk B.",
+    "year": "2024",
+    "doi": "10.1108/JFRC-04-2023-0065",
+    "abstract": "Purpose: This paper aims to focus on the need for an enhanced anti-money laundering (AML) regulation for decentralised finance (DeFi) to protect the integrity of global financial systems against illicit activities. Research highlights the requirement for a robust regulatory strategy for the fast-paced DeFi evolvement. Design/methodology/approach: This study used doctrinal legal research by analysing legislation, which involved creating use cases to illustrate different aspects of potential illicit activities via the DeFi ecosystem. Various DeFi applications were assessed for the potential regulatory responses and outcomes. Findings: This paper offers valuable insight into the regulatory challenges presented by DeFi. This study addresses the blind spots leveraged by criminals afforded by the DeFi’s decentralised nature. This paper offers a comprehensive examination of DeFi regulatory challenges based on use-case scenarios and provides recommendations for regulators on how to address them effectively. Originality/value: This paper proposes measures for regulatory authorities to minimise money laundering risks through new channels such as decentralised exchanges, non-custodial wallets and cross-chain bridges. This study concludes with the future directions for DeFi regulation and AML compliance. © 2023, Vladlena Benson, Umut Turksen and Bogdan Adamyk.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

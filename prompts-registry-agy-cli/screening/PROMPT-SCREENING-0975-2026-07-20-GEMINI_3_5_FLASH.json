@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0975-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial Inclusion through Digital Financial Services (DFS): A Study in Uganda",
+    "authors": "Ebong J.; George B.",
+    "year": "2021",
+    "doi": "10.3390/jrfm14090393",
+    "abstract": "This study unravels trends and momentum in banking and mobile money channels and uptake of select services and thereafter draws implications for enhancing financial inclusion through Digital Financial Services (DFS). The Rate of Change (ROC) approach was applied to analyze the growth momentum in banking and mobile money channels in Uganda. Implications for growth momentum in banking and mobile money channels for DFS and financial inclusion was drawn from observing and making informed interpretation of such observed trends and momentum. The findings of this study imply that banks must innovate to increase their contribution towards enhancing financial inclusion. Additional channel innovations, which may infuse banking and mobile money channels, are needed for banking to leverage on growth of mobile money and regain its role in enhancing financial inclusion. Leveraging the application of digital innovations in services such as payments and digitizing alternative channels such as agent banking are likely to increase efficiencies in physical channels and the provision of banking services and thereby increase overall reach and penetration of banking. The fast pace of mobile money penetration is good for speeding up financial inclusion. However, this calls for better regulatory approaches for DFS risk reduction, consumer protection, and protecting mobile money against integrity and financial crimes. © 2021 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

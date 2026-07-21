@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0576-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Decline The Quality of Higher Education in Russia: Negative Consequences of Moving to Online Education",
+    "authors": "Dyatlov A.V.; Kovalev V.V.; Latsveeva A.V.",
+    "year": "2022",
+    "doi": "10.23947/2334-8496-2022-10-1-15-27",
+    "abstract": "This article analyzes the possibility of online education to ensure the quality of higher education. A review of scientific literature led to the conclusion that in the Russian scientific discourse, the potential of online education to ensure the quality of higher education through the resource potential has not been studied. The goal is formulated as follows: to determine the sufficiency of online learning resources to ensure the expected quality of education in a social institution of higher education in Russia. The neo-institutional approach is the methodological basis. Before the empirical research, the basic concepts were operationalized: the quality of higher education, online education, quality resources of higher education. The operationalization resulted in the identification of two empirical indicators: 1) resources of students for obtaining quality education in the context of online education; 2) resources of professors to ensure the quality of education in environment of online education. They formed the basis for structuring the questionnaire. The same indicators are used to analyze the data obtained. The study found that the overwhelming majority of professors indicated a sharp decline in the effectiveness of their educational activities on the Teams or Zoom platforms. This includes a decrease in professional motivation and interest in the end result of work, mental detachment from students and indifference to them, increased anxiety due to fears of deteriorating health, indifference to professional development, loss of visual and non-verbal control over students, etc. The opinion of professors on the main positions is correlated with the point of view of students. However, there is a stable group of about 25% among learners that is focused on online education and demonstrates the belief that in the context of e-learning, resources for obtaining quality of education are increasing. We have formulated a proposal according to which this group of students should study in special online (digital) schools according to an abbreviated program, where accelerated vocational training is a priority. © 2022 by the authors.",
+    "source": "International Journal of Cognitive Research in Science, Engineering and Education"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

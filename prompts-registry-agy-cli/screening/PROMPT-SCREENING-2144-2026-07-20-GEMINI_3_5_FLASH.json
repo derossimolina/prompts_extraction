@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2144-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Derivatives and bucketshops: A forgotten history of Czech financial markets between the world wars; [Obchodování s deriváty a pokoutní bankéři ohlédnutí za finančním trhem v meziválečném československu]",
+    "authors": "Vlachý J.",
+    "year": "2011",
+    "doi": "10.18267/j.polek.781",
+    "abstract": "Building upon exhaustive research of extant and often fragmentary contemporary resources, this paper provides a thorough analysis of financial options trading and sales in Interwar Czechoslovakia. Whilst focusing primarily on a remarkable bucketshop episode occuring in the late twenties and early thirties, it also comprises the so far most comprehensive study on the historical development and practices of derivatives trading on the Prague Exchange including the eminent role of private banking firms. A distinct intertemporal and International perspective facilites the establishment of numerous parallels and patterns, strikingly instructive in times of crises.",
+    "source": "Politicka Ekonomie"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

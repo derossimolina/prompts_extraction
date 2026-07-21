@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0776-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Privacy-Preserving KYC-Compliant Identity Scheme for Accounts on All Public Blockchains",
+    "authors": "Sun N.; Zhang Y.; Liu Y.",
+    "year": "2022",
+    "doi": "10.3390/su142114584",
+    "abstract": "Cryptocurrencies have the potential to enable socioeconomic growth throughout the world by offering easier access to capital and financial services. However, many virtual asset service providers (VASPs) that offer cryptocurrency services lack identity management and can be accessed anonymously, which has led to their services being exploited by criminal activities such as money laundering and illegal foreign exchange. Such crimes have a negative impact on socioeconomic sustainability. Building identity systems on blockchains can help VASPs improve their identity management to combat cryptocurrency-based crimes so VASPs can better serve the social economy and achieve their sustainability goals. However, existing solutions have privacy problems because the identity provider can associate users’ identities with their wallet accounts. In addition, there is currently no solution that can support all public blockchains unconditionally, as current solutions can only support EVM-compliant blockchains or require additional work to support new blockchains. This article proposes a KYC (know your customer)-compliant identity scheme based on Ethereum using Merkle trees and smart contracts. The identity and wallet accounts are linked by the user rather than the KYC provider so, in general, no one but the user knows the association between the wallet accounts and the identity, which protects privacy. For suspicious accounts, supervisors can trace their identities and thus achieve supervision. In addition, the scheme supports identifying accounts on all public blockchains by using Merkle trees and smart contracts to bind accounts on multiple blockchains to one identity and no extra work is required. Moreover, the scheme supports users to prove that their attributes meet the requirements of VASPs by adopting the BBS+ signature and the Sigma protocol. © 2022 by the authors.",
+    "source": "Sustainability (Switzerland)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

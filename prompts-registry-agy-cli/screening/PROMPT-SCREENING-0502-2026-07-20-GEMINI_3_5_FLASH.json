@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0502-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "International Cooperation in Combating Money Laundering and Terrorist Financing: A Central Asian Perspective",
+    "authors": "Raimbekova A.; Dalelkhan A.; Sheryazdanova K.; Utarbayev A.",
+    "year": "2023",
+    "doi": "10.58866/ROBT7027",
+    "abstract": "The purpose of this study was to analyse the general situation concerning combating money laundering and support for terrorism by examining the trends and dynamics of this vector in the countries of Central Asia. The main research methods were statistical, using which the key qualitative and quantitative indicators of the sphere were identified, and system analysis, using which the basic components of the subject under study were determined. The situation regarding illicit financial transactions and terrorist financing in Europe is worsening, with an increasing number of risks to this area of political activity. © Netherlands Helsinki Committee. All rights reserved.",
+    "source": "Security and Human Rights"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

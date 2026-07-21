@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0349-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Central Bank Digital Currencies (CBDCs): a countermeasure to Anti-Money Laundering (AML) challenges posed by cryptocurrencies?",
+    "authors": "Gaisina A.; Finger M.",
+    "year": "2025",
+    "doi": "10.1007/s42521-025-00132-9",
+    "abstract": "This study examines whether Central Bank Digital Currencies (CBDCs) are developed to address money laundering risks associated with cryptocurrencies. It focuses on piloted/launched CBDCs to assess this relationship empirically. A cross-sectional regression model (as of December 2024) is used to examine the relationship between CBDC adoption, cryptocurrency activities in centralised finance (CeFi)/decentralised finance (DeFi), and Anti-Money Laundering (AML) effectiveness, proxied by the Financial Action Task Force (FATF) Score, Basel AML Index, and Organised Crime AML Index. The findings reveal that jurisdictions allowing legal cryptocurrency use are weakly positively associated with higher AML outcomes. Higher cryptocurrency ownership and higher levels of CeFi trade are negatively associated with AML performance. The FATF Score is lower in countries with local CBDC providers. Higher GDP per capita is associated with higher AML effectiveness. This study bridges a research gap by analysing the relationship between cryptocurrencies and CBDCs, focussing on the AML aspect. It also offers insights into which CBDC design features can address the regulatory issues inherent in cryptocurrencies through introduction of a novel CBDC-AML design layered framework. The policy implication is that CBDCs, if carefully designed, can improve AML effectiveness, and the focus should be on robust AML frameworks rather than cryptocurrency bans. However, the study is limited by CBDC data availability due to recent adoption and the lack of early country-specific data on cryptocurrencies. © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2025.",
+    "source": "Digital Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

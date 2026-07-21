@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0727-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Behind the Stigma Shield: Frontline Employees’ Emotional Response to Organizational Event Stigma at Work and at Home",
+    "authors": "Frandsen S.; Morsing M.",
+    "year": "2022",
+    "doi": "10.1111/joms.12749",
+    "abstract": "We investigate how frontline employees manage their emotional experiences of organizational event stigma as an implication of organizational wrongdoing. Our research is based on a longitudinal case study of Danske Bank, which was involved in a money laundering scandal of historical magnitude. We evoke Goffman’s epistemological understanding of stigma as arising in social interactions in all aspects of life. We analyse the emotionally straining spill-over effects of stigmatization at home, as event stigma blurs individuals’ work–home boundaries. Our study shows how frontline employees develop a ‘stigma shield’, that is, emotional detachment strategies used at work and at home to protect against the negative implications of event stigmatization and maintain their organizational pride and loyalty. Interestingly, we find that the stigma shield enables identity protection rather than identity restructuring in response to the identity threat posed by the scandal. We contribute to the literature on organizational event stigma and identity threat by offering a theoretical lens focusing on individual-level emotional responses to ‘felt’ stigmatization among frontline employees in an organization facing scandal. © 2021 The Authors. Journal of Management Studies published by Society for the Advancement of Management Studies and John Wiley & Sons Ltd.",
+    "source": "Journal of Management Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

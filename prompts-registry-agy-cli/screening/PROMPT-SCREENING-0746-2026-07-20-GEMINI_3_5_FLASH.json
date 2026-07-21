@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0746-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "German Trade Tax Structuring for Renewable Energy Components of Real Estate Transactions",
+    "authors": "Eckl P.; Schill F.",
+    "year": "2023",
+    "doi": "10.59403/1f6pc3",
+    "abstract": "In this article, the authors outline the relevant aspects of trade tax in connection with green energy components of real estate transactions and then describe some improvements that have recently been introduced by the German legislator in order to make the use of renewable energy components more attractive. © 2023, International Bureau of Fiscal Documentation (IBFD). All rights reserved.",
+    "source": "European Taxation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0178-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The dark side of public-private partnerships: Enforced hybridity and power dynamics in fighting financial crime",
+    "authors": "Dudink Y.; Taminiau Y.; Veenswijk M.",
+    "year": "2024",
+    "doi": "10.1177/09520767231191821",
+    "abstract": "Different public-private partnerships may exhibit various characteristics, yet we understand little about the impact of imbalanced power dynamics among partners on the success or failure of partnerships. This study focuses on the private actor, an incumbent bank coerced into a collaborative governance configuration aimed at addressing the wicked problem of fighting financial crime. We investigate the response strategies of organizational members to examine the impact of when hybridity is enforced, meaning that organizations are driven by a multiplicity of values and objectives. We organize these strategies in two narratives: first, organizational members respond with a strategy of separation in resisting the integration of public values; second, organizational members respond with a strategy of transcendence by aiming to resistors to adopt their belief system. The ongoing struggle with the enforced hybridity reveals the dark side of public-private partnerships as members grapple with involuntary changes that threaten the private and commercial objectives of the bank. Our key message is that when private and public actors are involved in forced collaborations, the guise of a reputable, collaborative relationship may be used to conceal negative aspects and power imbalances, which helps to overcome resistance and elicit compliance. © The Author(s) 2023.",
+    "source": "Public Policy and Administration"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

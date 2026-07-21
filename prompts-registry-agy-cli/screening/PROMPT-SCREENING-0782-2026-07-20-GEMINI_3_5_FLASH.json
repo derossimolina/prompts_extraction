@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0782-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "STRENGTHENING ANTI-MONEY LAUNDERING FRAMEWORK IN ONLINE BANKING: BANK INDONESIA'S INITIATIVES AND COUNTERMEASURES",
+    "authors": "Fitriyanti F.; Nusantara M.A.Z.",
+    "year": "2023",
+    "doi": "10.26532/jh.v39i2.31970",
+    "abstract": "Several types of illegal finance practices, including money laundering, can significantly result in a negative effect on the economy or government finances of a country. It is also extremely harmful to the society at large. This study was conducted to shed light on the government's efforts to curtail the illegal use of Internet banking, focusing on Bank Indonesia in particular. This article employs normative legal research as its methodology. According to research, the implementation of the Money Laundering Law regarding the prevention of money laundering in the online banking system resulted in the establishment of a special work unit in accordance with Bank Indonesia Circular No. 11/31/DPNP dated November 30, 2009. Additionally, financial institutions must develop Customer Due Diligence (CDD) and Enhanced Due Diligence (EDD) procedures. CDD refers to the procedures used by a financial institution to verify the identity of customers and business transactions before engaging with them. A comprehensive CDD method known as EED is required by the bank due to the elevated risk of money laundering and terrorist funding in its customer relationships. As the executor of the anti-tipping-off mechanism, the bank must protect the privacy of the customer's reporting information. Financial institutions are required to have a comprehensive information management system that enables the detection and assessment of suspicious funds to prevent money laundering. © 2023, Islamic University of Sultan Agung Faculty of Law. All rights reserved.",
+    "source": "Jurnal Hukum Unissula"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

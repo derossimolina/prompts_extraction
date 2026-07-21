@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1479-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Governance Mechanisms in the Malaysian Banking Sector: Mitigation of Fraud Occurrence",
+    "authors": "Mohd-Sanusi Z.; Rameli M.N.F.; Omar N.; Ozawa M.",
+    "year": "2015",
+    "doi": "10.1007/s11417-015-9211-4",
+    "abstract": "The recent credit crisis has forced banks to take a critical look at their governance and control system and exposed considerable weaknesses in risk management across the financial services industry. This study examines several elements of governance mechanisms that may be modified to reduce the occurrence of fraud in the Malaysian banking sector. These mechanisms include corporate governance, internal control procedures, fraud prevention programs, and risk management. A survey was conducted among bank managements, with focus on branch managers and assistant managers. Results showed that in general, the most common fraud case in branches that handled mortgage and other (credit) loans was money laundering, which was a common occurrence in the banking sector of Malaysia. Based on regression analysis, results of the study indicate that only risk management can significantly affect fraud occurrence. By contrast, corporate governance and fraud prevention program would affect negatively to the occurrence of internal or employee fraud, while risk management is negatively related to the external or customer frauds in the Malaysian banking sector. This paper also discusses the implications of the study and possible future studies. © 2015, Springer Science+Business Media Dordrecht.",
+    "source": "Asian Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

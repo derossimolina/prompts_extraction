@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1749-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combating money laundering and terrorist financing: Monitoring the implementation of FATF recommendations",
+    "authors": "Aamo B.S.",
+    "year": "2017",
+    "doi": "10.54648/eulr2017007",
+    "abstract": "This article gives an overview of the Financial Action Task Force (FATF), its history and organization. The main measures to prevent money laundering (ML) and terrorist financing (TF) are presented: Suspicious transaction reporting (STR) plays a key role among these measures. An overview of the revision of the standards in recent years includes a risk-based approach, a focus on beneficial ownership, and an introduction of tax crime as a predicate offence for money laundering. The role of mutual evaluations reports (MERs) in monitoring the implementation of the FATF recommendations is presented, including the recent FATF report on Norway. Finally, the tasks connected with fighting terrorist financing and corruption are discussed.",
+    "source": "European Business Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

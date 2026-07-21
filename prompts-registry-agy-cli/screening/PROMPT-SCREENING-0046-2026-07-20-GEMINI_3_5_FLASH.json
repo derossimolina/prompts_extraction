@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0046-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Why only scrutinise formal finance? Money laundering and informal remittance regulations in Indonesia",
+    "authors": "Makmur K.L.",
+    "year": "2024",
+    "doi": "10.1016/j.jeconc.2024.100111",
+    "abstract": "Indonesia has been actively developing anti-money laundering (AML) strategies for the past two decades, but a critical gap remains in the informal financial sector that has not received greater regulatory attention. Remarkably, this sector contributes to over half of Indonesia's GDP, with remittances alone accounting for almost one per cent of the GDP. Despite its significance, the role of informal finance in controlling money laundering is still underdeveloped. Informal financial services, especially informal remittance services widely used by Indonesian migrant workers, are often exploited by money launderers due to a lack of stringent compliance measures. This paper draws on available literature and open source reporting to delve into Indonesia's current AML strategies, highlighting their strengths and pinpointing critical deficiencies. It pays particular attention to informal remittance services, advocating for their inclusion in AML frameworks. The findings underscore the urgency of enhancing AML efforts within the informal finance sector. To effectively counter evolving money laundering threats, the Indonesian government must adapt its AML strategies to encompass both formal and informal finance sectors. This approach will not only ensure comprehensive compliance, but also fortify the nation's overall financial integrity. By integrating the informal financial sector into the broader AML strategy, and fostering collaboration with various policy stakeholders, Indonesia can bolster its defences against money laundering. Moreover, these insights offer valuable lessons for other countries in the Global South facing similar challenges. © 2024 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

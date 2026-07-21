@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2412-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE INNOVATIVE APPROACH TO INCREASING CYBERSECURITY OF TRANSACTIONS THROUGH COUNTERACTION TO MONEY LAUNDERING",
+    "authors": "Lyeonov, S; Kuzmenko, O; Yarovenko, H; Dotsenko, T",
+    "year": "2019",
+    "doi": "10.21272/mmi.2019.3-24",
+    "abstract": "A current task is to provide the economic security of any country in the context of creating effective and reliable measures of the banking cybersecurity system against money laundering. First of all, it relates to the fact that the money laundering processes and financing of terrorism negatively influence the economy of any country and reduce the economic security level. Secondly, the high level of money laundering in the country promotes the emergence of such negative processes as corruption, extortion, drug production, people smuggling, gangsterism, terrorism, which leads to an increase of the crime situation in the country and endangers the lives of the population. Thirdly, the existing cybersecurity measures of banks do not affect the security of transactions in a timely manner to identify funds obtained illegally. Therefore, exactly this aspect is required changes and modernization in order to accomplish the task. The aim of the article is to develop the innovative scientific and methodic approach to the country's attractiveness modelling for proceeds laundering by other countries. This technique is one of the tools of the bank's cybersecurity system for making further decisions regarding the risk of legalization. In order to solve this problem authors suggest the approach, which is based on gravity modelling. Eight factors: Gross Domestic Product per capita, Claims on the central government, Internally displaced persons, associated with conflict and violence; Automatic Exchange of Information; Corruption Perceptions Index; Global Terrorism Index; Legatum Prosperity Index; Happy Planet Index are proposed to be evaluated using the expert approach to implement the above approach. Then the integral indicator is calculated using the Minkowski metric and taking into account the factors normalization. Using the gravity model, the country's attractiveness degree considering is defined for proceeds laundering on the part of another country. Data for 105 countries are used for calculation and results for Ukraine, Poland and Germany are represented. As a result, we can see that developed countries with high welfare level are attractive for developing countries for money laundering, countries with low welfare level, low economic development and unstable political situation are attractive for the developed countries. The proposed methodology is recommended to be introduced in the activity of banks' cybersecurity systems. It will allow identifying transactions of those countries for which the risk of legalization is high and introduce additional monitoring to regard the legitimacy of their financial sources. In addition, it is expedient to use the model in the activities of the country's regulatory authorities, which will promote the introduction of cybersecurity standards and increase the ethics of financial relations between countries.",
+    "source": "MARKETING AND MANAGEMENT OF INNOVATIONS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

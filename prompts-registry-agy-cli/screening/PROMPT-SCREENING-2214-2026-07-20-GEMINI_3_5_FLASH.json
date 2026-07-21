@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2214-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Making the connection: Moore's theory of transactional distance and its relevance to the use of a virtual classroom in postgraduate online teacher education",
+    "authors": "Falloon G.",
+    "year": "2011",
+    "doi": "10.1080/15391523.2011.10782569",
+    "abstract": "This study explored the use of the Web-based virtual environment, Adobe Connect Pro, in a postgraduate online teacher educatioi.2 programme at the University of Waikato. It applied the tenets of Moor& 7heory of Transactional Distance (Moore, 1997) in examining the efficacy of using the virtual classroom to promote quality dialogue and explored how both internal and external structural elements related to the purpose and use of the classroom affected the sense of learner autonomy. The study provides an illustration of the complexity of the relationship that exists between the elements of Moore's theory, and how the implementation of an external structuring technology such as the virtual classroom, can have both positive impacts (dialogue creation) and negative impacts (diminished sense of learner autonomy). It also suggests that, although Moore's theory provides a uscfi11 conceptual \"lens\" through which to analyse online learning practices, its tenets may need revisiting to reject the move toward the use of synchronous communication tools in online distance learning. © 2011 ISTE.",
+    "source": "Journal of Research on Technology in Education"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

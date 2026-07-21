@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0880-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hundi payment mechanism on the border trade between Myanmar and Northern Thailand: what you do not know about?",
+    "authors": "Panthamit N.; Panthamitr P.; Tian G.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-05-2023-0083",
+    "abstract": "Purpose: This study aims to convey the understanding of the ecosystem – how “hundi” works on the border trade between Myanmar and northern Thailand, which is an informal transfer system and is widely used as an alternative banking system. Even though the role of hundi is unable to declare the sources of money under the standard settlement of formal banking system, a failure to operate of its official mechanism are carrying using hundi, as a financial platform across the border between Thailand and Myanmar. This study surveys the best practice mechanism for the regional and international cooperation. Design/methodology/approach: This paper draws on relevant literature, open-source reporting, and interviews with more than 30 interviewees on the border between Thailand and Myanmar. Interviewees includes border-trader, money changer, money transfer operators, business leaders, hundi operators, immigrant labors, government officials and commercial banking staffs. Findings: This study provides a unique insight of hundi system, which work as the alternative mode of formal banking. It is an informal fund transfer payment platform used on the border between Thailand and Myanmar in the past five decades. It insists that hundi plays a significant role in both substitution and complementary on the trade and payment across the border of Myanmar–Thailand. Even though confronting with the barriers of financing of terrorism (anti money laundering AML/combating the financing of terrorism CFT) risk, the competition with the expanding and modernizing formal banking sector, and the introduction of Fintech and mobile money services. In the short term, these are unlikely to eliminate the hundi system completely, but may instead push hundi operators towards adopting these networks and technologies in their own operations. Social implications: This paper will be a useful source for academics, development professionals, policymakers, law enforcement agencies and business actors who are seeking to understand Myanmar’s informal payment system, hundi. Originality/value: This is the latest work for border trade payment or trade financing role of hundi which has hidden under the informal market of the border for several decades. It has few research of hundi on border trade and payment, particularly after the military coup in 2021 which made hundi return to be on the spotlight and simultaneous mechanism of border trade and payment ecosystem of Myanmar. This paper will be a useful source for academics, development professionals, policymakers, law enforcement agencies and business actors who are eager to understand Myanmar’s informal payment system, hundi, especially during the hardship. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

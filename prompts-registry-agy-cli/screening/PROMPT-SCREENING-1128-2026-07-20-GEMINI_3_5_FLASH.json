@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1128-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Positioning of the G20 on Global Risks Arising from Crypto-Assets; [Positionierung der G20 zu globalen Risiken durch Krypto-Assets]",
+    "authors": "Read O.",
+    "year": "2018",
+    "doi": "10.1007/s10273-018-2383-7",
+    "abstract": "The G20 and the international standard-setting bodies did not make any major decisions regarding crypto-assets at the 2018 G20 summit in Buenos Aires. At the moment, the potential global risks are perceived as too insignificant to endanger the stability of the financial system. Therefore, for the time being only monitoring is required. The Financial Stability Board proposed a framework with metrics in order to monitor financial stability risks arising from crypto-assets. An intention to regulate was only stated for the financial integrity. The international standards of the Financial Action Task Force on Anti-Money Laundering and Countering the Financing of Terrorism have been updated slightly. © 2018, ZBW and Springer-Verlag GmbH Deutschland, ein Teil von Springer Nature.",
+    "source": "Wirtschaftsdienst"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

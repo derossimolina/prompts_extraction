@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1799-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Designing financial supervision: The puzzling case of the FIUS against money laundering",
+    "authors": "Masciandaro D.; Volpicella A.",
+    "year": "2016",
+    "doi": "10.1093/jfr/fjw002",
+    "abstract": "The design of financial supervision for the purposes of implementing anti-money laundering (AML) regulation has become essential in the agendas of governments. This AML regulation has been implemented through the creation of specialized agencies known as Financial Intelligence Units (FIUs). The establishment of FIUs was triggered by international pressures exerted by the Financial Action Task Force (FATF), which at the same time leaves any country free to choose its preferred model. A crucial question thus arises: how do the policymakers select their FIU models? The economics of AML suggests that a financial model of FIU (FFIU) should be the best choice, given its comparative informational advantages. Nevertheless, our empirical analysis of the establishment of FIUs shows a more nuanced reality: after the September 11 terrorist attack, the policymakers preferred the Law Enforcement model of Financial Intelligence Unit (LEFIU). Using a political economy framework, two possible and non-alternative explanations are offered. In order to counteract the terrorist threat, policymakers could have preferred the comparative advantages of the LEFIU model in terms of police and investigation powers. At the same time, politicians could have used September 11 just as an occasion to avoid the establishment of a FFIU with its higher risks of banking capture and/or an over-powerful financial agency. © The Author 2016. Published by Oxford University Press.",
+    "source": "Journal of Financial Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

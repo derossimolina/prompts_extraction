@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1981-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering",
+    "authors": "Levi M.; Reuter P.",
+    "year": "2006",
+    "doi": "10.1086/501508",
+    "abstract": "Techniques for hiding proceeds of crime include transporting cash out of the country, purchasing businesses through which funds can be channeled, buying easily transportable valuables, transfer pricing, and using \"underground banks.\" Since the mid-1980s, governments and law enforcement have developed an increasingly global, intrusive, and routinized set of measures to affect criminal revenues passing through the financial system. Except at an anecdotal level, the effects of this system on laundering methods and prices, or on offenders' willingness to engage in various crimes, are unknown. Available data weakly suggest that the anti-money laundering (AML) regime has not had major effects in suppressing crimes. The regime does facilitate investigation and prosecution of some criminal participants who would otherwise evade justice, but fewer than expected by advocates of \"follow the money\" methods. It also permits the readier recovery of funds from core criminals and from financial intermediaries. However, the volume is very slight compared with income or even profits from crime. Though the regime also targets terrorist finances, modern terrorists need little money for their operations. AML controls are unlikely to cut off their funds but may yield useful intelligence. Money-laundering controls impose costly obligations on businesses and society: they merit better analysis of their effects, both good and bad. © 2006 by The University of Chicago. All rights reserved.",
+    "source": "Crime and Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

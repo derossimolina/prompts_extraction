@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1216-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency’s Control Cryptocurrency’s Control in the Misuse of Money Laundering Acts as an Effort to Maintain the Resilience and Security of the State",
+    "authors": "Adiyatma S.E.; Maharani D.F.",
+    "year": "2020",
+    "doi": "10.15294/lesrev.v4i1.38257",
+    "abstract": "Along with the times, the latest transaction system emerged using Cryptocurrency in its development is used as a digital payment instrument. The problem discussed in this research is the opportunity to misuse Cryptocurrency as a digital currency that can be used as a form of Money Laundering crime. This research uses the normative legal research method. The author uses primary, secondary, and tertiary legal materials using a qualitative approach. This research also uses the principle of state responsibility to protect as a knife of analysis. Thus the regulations regarding handling money laundering in the form of crypto currency investment must be upheld and improve the quality of human resources in the hope of becoming part of the savior of state money from money laundering through the ability of its virtual team. © 2020 By Authors.",
+    "source": "Lex Scientia Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

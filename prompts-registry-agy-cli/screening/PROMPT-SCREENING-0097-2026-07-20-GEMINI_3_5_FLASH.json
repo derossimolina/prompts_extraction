@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0097-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DyHom-SSL: Homophily-Aware Semisupervised Learning With Dynamic Pseudolabels for Bitcoin Money Laundering Detection",
+    "authors": "Huang J.; Li J.; Han H.",
+    "year": "2026",
+    "doi": "10.1109/TCSS.2025.3589343",
+    "abstract": "Bitcoin money laundering detection faces critical challenges including labeled data scarcity, extreme class imbalance, and transactional heterogeneity. To address these issues, we propose DyHom-SSL, a semisupervised learning framework integrating dynamic pseudolabel optimization, and homophily-aware graph learning. The framework operates in two stages: in the warm-up stage, a similarity-based mechanism dynamically generates thresholds for high-quality pseudolabels, replacing confidence-based selection to enhance flexibility, while in the consistency training stage, a learnable data augmentation module is introduced and optimized through the dual objectives of consistency (semantic preservation) and diversity (feature variation). In addition, homophily distribution leverages topological differences between illicit and licit nodes to resolve class imbalance without distorting data distribution. Extensive evaluations on elliptic, elliptic++, and AMLworld datasets demonstrate state-of-the-art performance, achieving 92.29% precision, 77.30% recall, and 84.02% F1-score on the elliptic dataset. DyHom-SSL outperforms graph and nongraph baselines in both homogeneous and heterogeneous datasets, proving its effectiveness for real-world antimoney laundering (AML) applications. © 2014 IEEE.",
+    "source": "IEEE Transactions on Computational Social Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

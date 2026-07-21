@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2140-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Making the matrix matter: Strategic information systems in financial services",
+    "authors": "Scarbrough H.",
+    "year": "1997",
+    "doi": "10.1111/1467-6486.00047",
+    "abstract": "This study draws on findings from a sample of large Scottish-based financial institutions to examine the development and impact of innovative 'strategic information systems'. It contrasts prescriptive, discourse-based and institutional models of strategic IS (information systems) with a social constructionist approach. In this approach, the development of strategic IS is viewed in terms of IS functions' attempts to construct new ways of classifying and justifying IT investments. Such attempts are seen partly as a response to the dynamics of interprofessional competition, and partly as a means of handling the uncertainties of a shifting technological and sectoral environment. The case studies - which encompass remote banking, management information and branch network applications - highlight the impact of the new strategic vocabulary on the development and management of IS projects. The emergence, aims and eventual success or failure of such projects is seen to be closely linked to the parallel development of new ways of classifying IS work. The cases further demonstrate the role of both the institutional and sectoral context and the internal structuring of expertise (principally the role of the IS function within the management structure) in favouring or inhibiting the new categories of action associated with the strategizing of IS. The paper concludes by suggesting that institutionalized forms of classification may not only provide the most enduring legacies of new management paradigms, but may also stand as the greatest barriers to their success.",
+    "source": "Journal of Management Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

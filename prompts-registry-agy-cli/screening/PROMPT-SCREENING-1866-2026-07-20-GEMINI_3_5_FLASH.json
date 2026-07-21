@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1866-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Accounting, network complementarities and the development of inter-organisational relations",
+    "authors": "Mouritsen J.; Thrane S.",
+    "year": "2006",
+    "doi": "10.1016/j.aos.2005.04.002",
+    "abstract": "Networks of formally independent firms are interesting because they claim to be able to build competencies, exploit complementary resources and redesign strategies faster than firms can change. By networking, firms are said to get access to resources in a flexible way and typically by interacting with other firms non-hierarchically, directly and based on trust. Accounting and management control would appear counter-intuitive to such an arrangement. However, based on empirical observations from three horizontal networks where firms rally around projects, it appears that controls create durability and predictability. Self-regulation and orchestration mechanisms establish the network as a network enterprise seeking to develop and exploit complementarities in the diversity of network competencies and resources in different ways. Structural and functional approaches such as transactions cost economics are weak in explaining the ways in which relations are constructed and governed. We propose that accounting can be conceptualised as an actor helping to mediate, shape and construct inter-organisational relations through self-regulating and orchestration mechanisms. Self-regulating mechanisms allow interaction and exchange to occur unobtrusively, while orchestration mechanisms involve structuring these interactions. Both mechanisms are organised around various kinds of accounting-such as transfer prices and intellectual capital statements-and around the construction of segmentation in the network that provide it with a topology of centres and peripheries. Trust, it appears, is not a property of such a situation. Trust is a problematising devise. It is raised as a concern in the networks when trusting is absent. © 2005 Elsevier Ltd. All rights reserved.",
+    "source": "Accounting, Organizations and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

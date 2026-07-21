@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1212-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial Relations as an Object of Encroachment in Crimes of the Credit and Financial System",
+    "authors": "Boboshko O.; Nesterenko K.",
+    "year": "2019",
+    "doi": "10.26886/2524-101X.2.2019.7",
+    "abstract": "At present in Ukraine the credit and financial system is one of the main links in the sphere of finance, serving as the most determinant segment of the market economy and affects all the processes taking place in the society and the state. A special feature of the economic situation in Ukraine is that a significant part of the financial and legal institutions is practically can’t fully function without the proper, legal, in particular criminal legal support and protection. In this case, it’s not just about protecting budgetary interests of society, but also about the interests of individual depositors and shareholders, the protection of the interests of financial institutions from dubious managers and founders, from unlawful interference in their activity of law enforcement bodies, from persons who receive large credits by fraudulent or other illegal actions, not wanting their refund (including the price of its own bankruptcy), from organized crime groups, etc. A comprehensive description of financial relations as an object of an offense in the credit and financial system is provided in the paper. Not only the phenomenon under study, but also the state and trends of crime in the credit and financial sphere are analyzed. The reasons and conditions that give rise to credit and financial crime are investigated. Particular attention is paid to the study of financial relations as an object of encroachment in crimes against the credit and financial system. On the basis of the analysis of national and international legislation, the issues were outlined, but also proposals were made to improve the current legislation of Ukraine. © 2019, National University Odessa Law Academy. All rights reserved.",
+    "source": "Lex Portus"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

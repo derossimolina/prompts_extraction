@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2043-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Searching for safety: Addressing search engine, website, and provider accountability for illicit online drug sales",
+    "authors": "Liang B.A.; Mackey T.",
+    "year": "2009",
+    "doi": "10.1177/009885880903500104",
+    "abstract": "Online sales of pharmaceuticals are a rapidly growing phenomenon. Yet despite the dangers of purchasing drugs over the Internet, sales continue to escalate. These dangers include patient harm from fake or tainted drugs, lack of clinical oversight, and financial loss. Patients, and in particular vulnerable groups such as seniors and minorities, purchase drugs online either naively or because they lack the ability to access medications from other sources due to price considerations. Unfortunately, high risk online drug sources dominate the Internet, and virtually no accountability exists to ensure safety of purchased products. Importantly, search engines such as Google, Yahoo, and MSN, although purportedly requiring \"verification\" of Internet drug sellers using PharmacyChecker.com requirements, actually allow and profit from illicit drug sales from unverified websites. These search engines are not held accountable for facilitating clearly illegal activities. Both website drug seller anonymity and unethical physicians approving or writing prescriptions without seeing the patient contribute to rampant illegal online drug sales. Efforts in this country and around the world to stem the tide of © 2009 American Society of Law, Medicine & Ethics Boston University School of Law these sales have had extremely limited effectiveness. Unfortunately, current congressional proposals are fractionated and do not address the key issues of demand by vulnerable patient populations, search engine accountability, and the ease with which financial transactions can be consummated to promote illegal online sales. To deal with the social scourge of illicit online drug sales, this article proposes a comprehensive statutory solution that creates a nocost/low-cost national Drug Access Program to break the chain of demand from vulnerable patient populations and illicit online sellers, makes all Internet drug sales illegal unless the Internet pharmacy is licensed through a national Internet pharmacy licensing program, prohibits financial transactions for illegal online drug sales, and establishes criminal penalties for all parties-including websites, search engines, and health care providers-who engage in andfacilitate this harmful activity.",
+    "source": "American Journal of Law and Medicine"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

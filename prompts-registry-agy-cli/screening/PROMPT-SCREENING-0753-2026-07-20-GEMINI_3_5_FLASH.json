@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0753-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering influence on financial institutions and ways to retaliate",
+    "authors": "Kumar D.; Lokanan M.E.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-11-2021-0123",
+    "abstract": "Purpose: This paper aims to advance the professional knowledge, experience and expertise of anti-money laundering (AML) professionals by focusing on how money laundering (ML) impacts a variety of financial institutions (FIs) and in what ways the FIs can retaliate to detect, prevent and mitigate the risk of ML. Design/methodology/approach: This paper use data from secondary sources. Many FI cases have been included such as a bank money service business (MSB) and insurance companies. Findings: There should be a culture of compliance in organizations. Upper management, such as a designated committee or board members, should set the tone of compliance. Money launderers take advantage of every possible opportunity to convert illicit proceeds into clean proceeds with any institution or profession. Originality/value: This paper used a case study approach to study the nuances of money laundering activities in various jurisdictions. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

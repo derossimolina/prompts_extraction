@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1276-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Patent Assertion Entities and Patent Ownership Transparency: Strategic Recording of Patent Transactions at the Uspto",
+    "authors": "Sterzi V.",
+    "year": "2021",
+    "doi": "10.1093/joclec/nhab013",
+    "abstract": "Many patent assertion entities (PAEs) hide behind multiple unknown subsidiaries or shell companies with obscure ownership. Meanwhile, the United States Patent and Trademark Office (USPTO), like many other patent offices, does not impose a strict time period for recording the change of ownership of a patent, allowing the holder to gain an advantage by controlling the timing of its ownership disclosure. In this paper, we study to which extent PAEs delay the recording of the U.S. patent reassignments of patents that they will subsequently use in infringement patent lawsuits. On average, PAEs notify the change of ownership more quickly than producing firms, but this is not the case for the patents that they will litigate relatively far in time. In particular, the correlation between the recording lag of the patent transaction and the litigation spell is higher when the patent acquirer is a PAE (than when it is a producing firm) or when the acquirer will litigate the patent in the Eastern District of Texas, famously home to opportunistic litigations. Finally, we find that transactions involving unknown subsidiaries of PAEs are recorded at the USPTO significantly later than those involving PAE parent companies or their known subsidiaries. © 2021 The Author(s). Published by Oxford University Press. All rights reserved.",
+    "source": "Journal of Competition Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

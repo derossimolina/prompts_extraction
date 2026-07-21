@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0380-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Real estate anti-money laundering in the Global South – are the laws and policies covering the actors they should cover?",
+    "authors": "Angélico F.; Mugellini G.; Zinnbauer D.; Villeneuve J.-P.; Cunha M.A.; Silitonga M.S.; Irwinda V.; Oldfield J.",
+    "year": "2025",
+    "doi": "10.1007/s12117-025-09578-0",
+    "abstract": "Real estate money laundering (REML) represents a critical vulnerability in the global financial system, yet research and policy developments remain scarce in the Global South despite these regions’ countries increasingly becoming “countries of asset location.” While the Financial Action Task Force expanded anti-money laundering frameworks to include real estate sectors in 2003, current regulations may be inadequately aligned with the actual dynamics of Global South real estate markets. This study addresses the research gap by examining whether existing anti-money laundering entities and professions appropriately reflect real estate sector dynamics in the Global South. Using a business ecosystem approach and systematic literature review methodology following PRISMA guidelines, we analysed 25 peer-reviewed papers published between 2016 and 2024 and conducted grey literature reviews of Brazil, Kenya, and Indonesia. Our analysis reveals that the Global South exhibits distinct REML characteristics compared to the Global North, including greater involvement of construction companies and developers, more extensive cash-based economies, systemic corruption rather than implementation gaps, and broader socioeconomic impacts. Results demonstrate that the relevant actor ecosystem in Global South real estate markets extends significantly beyond traditional gatekeepers covered by current AML frameworks. Construction companies, property developers, and informal financial operators play crucial roles but often remain outside regulatory scope. The study concludes that international AML standards require contextual adaptation to address the distinctive characteristics of Global South real estate markets, particularly the central role of construction activities and informal financial systems. © The Author(s) 2025.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

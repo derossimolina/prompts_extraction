@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0978-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrency-related crimes: Key criminological trends",
+    "authors": "Ivantsov S.V.; Sidorenko E.L.; Spasennikov B.A.; Berezkin Y.M.; Sukhodolov Y.A.",
+    "year": "2019",
+    "doi": "10.17150/2500-4255.2019.13(1).85-93",
+    "abstract": "The authors have analyzed crimes connected with the use of virtual currency in the regional and international aspects. They introduce a new category of «cryptocrime» understood as the aggregate of publically dangerous acts, united by their common systemic characteristics, committed against or using the products of distributed registries (cryptocurrency, tokens and other forms of digital financial assets). They analyze each of the cryptocrime segments separately: Illegal trade in psychoactive substances (narcotics, psychoactive substances, precursors), pornography and other prohibited content (including illegal services); laundering of criminal proceeds; theft of cryptocurrency and tokens. Using the scientific research methods (comparative, sociological, statistical analysis and extrapolation of data, building a trend line, etc.) the authors identify regularities in the dynamics of each type of cryptocrime as well as key factors facilitating them. The goal of the authors is to conduct a systemic examination of crimes committed against and using cryptocurrency and to determine the prospects of developing different segments of cryptocrime. To achieve this goal, they analyze qualitative and quantitative characteristics of illegal trade in narcotics and pornography, legalization of criminal proceeds and theft of digital assets. They name the anonymity of cryptocurrency as a factor facilitating illegal trade in drugs, while the growing scope of the legalization of criminal proceeds and theft is facilitated by the fact that cryptocurrency and tokens do not have a legal status as objects of civil law and objects of encroachments on property. The analysis allows the authors to conclude that without effective criminological measures the level of such crimes will continue to grow and may double by the end of 2019. According to the authors, the priority directions of international criminal policy in the sphere of cryptocrime prevention include determining cryptocurrencies’ legal status, licensing cryptocurrency trade (stock exchange services, exchange platforms, companies issuing tokens), setting international standards of counteracting the legalization of criminal proceeds and the financing of terrorism, creating a cryptocrime database. © 2019, Baikal National University of Economics and Law. All rights reserved.",
+    "source": "Russian journal of criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

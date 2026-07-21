@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1664-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structure offshoring and returns on offshoring",
+    "authors": "Lo Y.-J.; Hung T.M.",
+    "year": "2015",
+    "doi": "10.1007/s10490-014-9405-9",
+    "abstract": "Focusing on global offshoring, this paper adapts the dynamic capabilities perspective to analyze how the structuring of offshoring disaggregation and geographical dispersion affects firm performance. While previous studies show that the returns on offshoring remain unclear, we present three findings that explain how the structuring of offshoring disaggregation and geographical dispersion influences firm performance. First, the larger the level of offshoring disaggregation, the better the firm performs. Second, the more geographical dispersion, the better the firm performs. Third, the effect of offshoring disaggregation on firm performance is greater when the firm structures and offshores its disaggregated value chain activities to dispersed locations. While economies of scale and learning may guide firms to offshore many discrete activities of the value chain, firms are able to gain the most returns from the structuring of offshoring disaggregation when they reconfigure lots of offshoring projects implemented in dispersed locations where environmental dynamism concurs. © 2014, Springer Science+Business Media New York.",
+    "source": "Asia Pacific Journal of Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

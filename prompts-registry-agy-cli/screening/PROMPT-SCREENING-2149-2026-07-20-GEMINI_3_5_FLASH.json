@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2149-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A theory of \"crying wolf\": The economics of money laundering enforcement",
+    "authors": "Takáts E.",
+    "year": "2011",
+    "doi": "10.1093/jleo/ewp018",
+    "abstract": "The article shows how excessive reporting, called \"crying wolf\", can dilute the information value of reports and how more reports can mean less information. Excessive reporting is investigated by undertaking the first formal analysis of money laundering enforcement. Banks monitor transactions and report suspicious activity to government agencies, which use these reports to identify investigation targets. Banks face fines should they fail to report money laundering. However, excessive fines force banks to report transactions which are less suspicious. The empirical evidence is shown to be consistent with the model's predictions. The model is used to suggest implementable corrective policy measures, such as decreasing fines and introducing reporting fees. © 2009 The Author Published by Oxford University Press on behalf of Yale University. All rights reserved.",
+    "source": "Journal of Law, Economics, and Organization"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

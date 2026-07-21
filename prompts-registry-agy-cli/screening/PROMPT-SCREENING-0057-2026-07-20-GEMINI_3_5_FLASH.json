@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0057-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The tale of the Baltics: Experiences, challenges, and lessons from reforming their national Financial Intelligence Units (FIUs)",
+    "authors": "McNaughton K.J.",
+    "year": "2024",
+    "doi": "10.1016/j.jeconc.2024.100080",
+    "abstract": "The banking sector of three Baltic countries, i.e., Lithuania, Latvia and Estonia, was abused by money laundering scandals between 2018 and 2020. The Danske Bank scandal was the largest one and, combined with the other scandals, inevitably triggered a heavy critique of national anti-money laundering (AML) frameworks that govern the supervision of banking sectors. At the European Union (EU) level, weak mechanisms to ensure the EU-wide supervisory consistency, were also identified. As a result of detected flaws, a new body called The Anti-Money Laundering Authority (AMLA) will be established in the EU as of 2027. This context provides an opportunity to scrutinize the rationale behind AMLA's establishment, by examining the role that the Baltic countries’ Financial Intelligence Units (FIUs) fulfill in financial surveillance, and the scope of AML reforms that took place in the aftermath of those banking scandals. Could those scandals have been prevented by national FIUs and their supervisory bodies? Whether one Baltic model of FIU exists or rather three different national models are visible? Can AMLA fulfill its mandate without relying on the work carried out by national FIUs and supervisory bodies? Based on extensive interviews with the representatives of the three Baltic FIUs, their supervisory authorities, and content analysis of publicly available sources, this paper offers a unique insight into idiosyncratic characteristics of the Lithuanian, Latvian and Estonian FIUs modus operandi. The findings are that each Baltic FIU was confronted with its own set of problems affecting the fulfillment of these agencies’ statutory duties. However, significant “grass-root” reforms of the AML national frameworks in each Baltic country have already been undertaken.1 © 2024 The Authors",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

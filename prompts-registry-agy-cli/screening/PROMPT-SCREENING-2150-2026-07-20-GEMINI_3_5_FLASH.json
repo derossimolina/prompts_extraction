@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2150-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The international politics of harmonization: The case of capital market regulation",
+    "authors": "Simmons B.A.",
+    "year": "2001",
+    "doi": "10.1162/00208180152507560",
+    "abstract": "The internationalization and globalization of capital markets greatly complicates the tasks of national financial regulators. It is becoming increasingly difficult, if not impossible, to regulate the activities of banking and securities firms and the broad range of transactions in which they engage on a national level. In this article I explore the process of international regulatory harmonization in capital markets, focusing especially on the mechanisms (political pressure, market pressure, and institutional arrangements) that facilitate this process. I argue that the United States and the United Kingdom are dominant players in the capital market and that the factors most relevant for understanding harmonization processes are (1) whether other jurisdictions have incentives to emulate the regulatory innovations of the dominant financial centers, and (2) whether the dominant centers experience negative externalities in the process. These two factors shed considerable light on whether harmonization will be spurred primarily by market forces or by politics; they also suggest the likely role of international institutions in the process of regulatory harmonization. The argument is illustrated using four issue areas: capital adequacy requirements for banks, anti- money laundering rules, accounting standards, and information sharing among securities regulators.",
+    "source": "International Organization"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

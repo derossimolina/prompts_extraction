@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1106-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering via underground currency exchange networks",
+    "authors": "Teichmann F.M.; Falker M.-C.",
+    "year": "2021",
+    "doi": "10.1108/JFRC-01-2020-0003",
+    "abstract": "Purpose: This paper aims to demonstrate how illicit funds are being laundered through underground currency exchange networks. Design/methodology/approach: Sixty interviews with money launderers and compliance officers were conducted to identify methods relevant to current money laundering issues. Further, a quantitative survey of 200 compliance officers was administered. Findings: The currency exchange method is highly suitable for money launderers with access to a criminal network. It may be used for placement or pre-placement. Evidently, the vast majority of compliance officers fail to recognize the utilization of this method in their daily business. Research limitations/implications: Implications are based on the statements of 60 interviewees, comprising both alleged money launderers and compliance officers. Practical implications: The study identified gaps in anti-money laundering mechanisms. The documentation of said inconsistencies aims to provide compliance officers, law enforcement agencies and legislators with useful insights into the minds of money launderers. Originality/value: Whereas most prior literature focuses on money laundering prevention methods, how money launderers operate is not illustrated. This study comprehensively overviews the issue by interviewing not only compliance officers but also money launderers. Understanding how money launderers operate is essential to effectively prevent money laundering. In particular, compliance officers must be able to view money laundering from the criminal’s perspective to sufficiently combat the issue. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

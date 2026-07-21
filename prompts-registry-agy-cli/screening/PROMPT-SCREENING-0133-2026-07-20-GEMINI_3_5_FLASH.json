@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0133-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Examining Financial Trails of Online Frauds and Money Laundering Choices of Cybercriminals",
+    "authors": "Bekkers L.; Snaphaan T.; Leukfeldt R.",
+    "year": "2026",
+    "doi": "10.1007/s10610-026-09663-2",
+    "abstract": "While many cybercrimes are financially motivated, the financial aspects of cybercrime remain insufficiently understood. The aim of this study is to provide greater insight into the financial trails of online fraud and the choices of cybercriminals in the concealment of illicit proceeds. To do so, we utilize data from 15 completed police investigations into cybercriminal networks in the Netherlands and apply financial crime scripting as an analytical framework. Analysis revealed that online fraudsters use various resources to steal money from victims without being detected, including online bank accounts, cryptocurrency wallets and direct cash withdrawals. They rely heavily on the use of money mules in the financial trail. Furthermore, we observed that offenders are capable of changing and improving methods over time, but also remain fairly stable in their money laundering choices. Once the money is obtained, cybercriminals primarily seem to spend it on lifestyle, such as luxury hotels and expensive clothing. Others also invest in legitimate businesses and real estate. In the context of these findings, we discuss the implications for policy and practice, and outline directions for future research. © The Author(s) 2026.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

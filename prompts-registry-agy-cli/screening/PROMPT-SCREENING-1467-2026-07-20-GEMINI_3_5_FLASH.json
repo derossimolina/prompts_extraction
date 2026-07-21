@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1467-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The structuring of social finance: Emerging approaches for supporting environmentally and socially impactful projects",
+    "authors": "Rizzi F.; Pellegrini C.; Battaglia M.",
+    "year": "2018",
+    "doi": "10.1016/j.jclepro.2017.09.167",
+    "abstract": "Although a new landscape of social finance institutions (SFIs) is evolving rapidly in Europe, the academic literature on the structures of legitimation that characterize the development of social finance has been limited. This paper addresses this gap: (1) by conceptualizing social finance (SF) as a pre-paradigmatic field where leading SF institutions have spontaneously adopted different investment rationalities and logics to achieve positive social impact through financing and banking activities; (2) by discussing dominant institutionalization patterns, empirically exploring the institutionalization of SF at the organizational, inter-organizational and institutional levels. A sample of seventeen SF institutions in three European countries, i.e. Ireland, Italy and the UK, was examined. The analysis highlighted that two forms of SF, i.e. social impact investment and ethical banking, guide the institutionalization and paradigm-building process. These two forms both assume the production of social impact, i.e. impact on society, the environment and sustainable development, as a distinguishing trait from commercial financial approaches, but differ in terms of business models and products and services provided to customers. Dominant institutionalization patterns reflect the social-embeddedness of these institutions. The convergence of the two dominant models would be desirable in order to further facilitate the development of social finance as a new paradigm in the financing and banking industry, alternative to commercial finance. © 2017 Elsevier Ltd",
+    "source": "Journal of Cleaner Production"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

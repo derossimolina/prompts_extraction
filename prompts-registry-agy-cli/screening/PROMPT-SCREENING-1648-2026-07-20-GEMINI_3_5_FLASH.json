@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1648-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Food, Morality and Identity: mobility, remittances and the translocal community in Paama, Vanuatu",
+    "authors": "Petrou K.; Connell J.",
+    "year": "2017",
+    "doi": "10.1080/00049182.2016.1204671",
+    "abstract": "Migration and remittances characterise many small Pacific islands, where local livelihoods are limited, and the need for money has increased. A majority of Paamese have left the island of Paama, in the central island chain of Vanuatu, and more now live in the capital city, Port Vila, than on Paama. Remittances are bidirectional, between the island and Vila, a duality that has rarely been discussed in Melanesia. Almost every household on Paama and in Vila is involved in sending and receiving remittances. Remittances usually involve food: ‘modern’ foods (such as rice) flowing from Vila, and island foods (yams and laplap) travelling to Vila. While such transfers make little formal economic sense, they emphasise a constant process of negotiating and manipulating social relationships. Food, as an expression of identity and locality, is a powerful and repetitive reminder of moral obligations and rural–urban kinship connections. The material significance of exchange is thus less than its affective significance, within the field of reciprocity that structures kin relationships. Food and remittances have become metaphors for defining the experience of migration, as their meaning and function are more than to merely provide a source of nutrition. They have also become the means of structuring a translocal moral economy. © 2016 Geographical Society of New South Wales Inc.",
+    "source": "Australian Geographer"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

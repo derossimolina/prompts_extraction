@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1441-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Outward FDI from the USA and host country financial transparency",
+    "authors": "Atems B.; Mullen J.K.",
+    "year": "2016",
+    "doi": "10.1080/09638199.2016.1191526",
+    "abstract": "Extant research has focused on the role of host country corruption as either an attractant or deterrent to foreign investment. These studies generally contend that corruption acts more like a ‘grabbing hand’ than as a ‘helping hand’. However, it is plausible that a significant component of foreign investment may be attracted to locales that offer opaque financial environments. Specifically, we hypothesize that money laundering opportunities may encourage illicit capital flows into certain jurisdictions. Using the USA as the ‘source’ country, we investigate the effect of corruption and money laundering opportunities on Foreign Direct Investment (FDI) flows. The empirical findings indicate that corruption deters foreign investment, while money laundering opportunities attract it. We also show that the effect of money laundering and corruption vary based on the host country's level of development. Our findings bolster the contention that FDI into certain host countries is motivated by a facilitation of illicit capital flows. © 2016 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Journal of International Trade and Economic Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

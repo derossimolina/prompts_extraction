@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0751-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Alternate remittance systems in Ghana: a trade enabler or an organised fraud",
+    "authors": "Asmah A.; Atuilik W.A.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-09-2021-0099",
+    "abstract": "Purpose: Alternate remittance systems (ARS) are inherently not illegal; however, the nature of their activities has mostly been linked with money laundering and terrorist financing, which raises several questions as to why businesses in Ghana rely on these systems to conduct their cross-border trade. The purpose of this study is seeks to understand the nature of ARS in Ghana and analyse why business owners rely on them for their transactions. Design/methodology/approach: Three companies were selected for the case study analysis. This research paper used a qualitative data analysis for the study. Interviews, direct participant observation and documentary review were the main techniques for data collection. The multiple sources of evidence helped to reduce the potential bias of the single method. Findings: This paper found that some businesses using the system in Ghana can acquire unsecured loans at little or no interest cost, which provides a good source of funding to support business growth. Unlike other studies, this study proves that in some instances, ARS operators transact business with the clients they do not, particularly trust. Within the context of this study, this paper found evidence that supports money laundering, but the underlining crime is mostly tax evasion. The adoption of the system is an attempt to disguise the proceeds of the tax evasion crime and clean them through business operations. Research limitations/implications: This analysis was based on the strain theory from the perspective of the clients. Future studies can focus attention on the ARS operators and understand their perspectives. Several other fraud theories could be used as a lens to understand the phenomena in Ghana and other jurisdictions. Practical implications: The study throws more light on a “secret” or an underground banking system that operates in Ghana. It provides insights that can guide regulatory authorities in their policy implementation. The need for stricter enforcement of the law has also been highlighted. Originality/value: To the best of the authors’ knowledge, this study is original, as it focuses on a sector that is highly secretive but has significant implications on the Ghanaian economy. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0029-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Virtual assets in cybercrime: a focus on Ukrainian realities",
+    "authors": "Dumchikov M.; Maletova O.; Yanishevska K.",
+    "year": "2025",
+    "doi": "10.1108/JFC-02-2024-0057",
+    "abstract": "Purpose: This paper aims to investigate cybercrimes in which virtual assets serve simultaneously as both the object and the means of perpetration, with particular focus on their specificities within the Ukrainian context under martial law conditions. Design/methodology/approach: The study employs an interdisciplinary methodological framework combining legal science and economics approaches. Data collection includes statistical analysis from international sources and Ukrainian state institutions, comparative legal review of regulatory frameworks and case study evaluation of judicial practice. Cognitive methods were applied to systematize cybercrime techniques where virtual assets function as both objects and tools of criminal activity. Findings: The analysis reveals significant regulatory gaps in Ukraine’s approach to virtual assets in criminal law. Traditional legal frameworks fail to account for the decentralization and anonymity of virtual assets, resulting in inconsistent judicial practice. The research identifies three primary cybercrime methods that intensified during wartime: targeted phishing (increased by 40% in 2022), fraudulent exchanges (over 300 cases recorded) and fictitious investment schemes (25% increase). Effective countermeasures require recognizing virtual assets as objects of property rights within the Criminal Code, implementing mandatory verification requirements for exchange platforms, establishing specialized law enforcement units. Originality/value: The article offers a novel analysis of innovative forms of cybercrimes involving virtual assets in Ukraine, linking them to traditional offenses while accounting for wartime conditions. Unlike previous studies that approach the topic theoretically, this research provides empirically substantiated recommendations for legal reforms based on statistical data and case analysis, contributing to both theoretical understanding and practical application for law enforcement under extraordinary circumstances. © 2025, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

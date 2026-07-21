@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2011-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Offshore technology outsourcing: Overview of management and legal issues",
+    "authors": "Pai A.K.; Basu S.",
+    "year": "2007",
+    "doi": "10.1108/14637150710721113",
+    "abstract": "Purpose - Offshore outsourcing of non-core business process has rapidly evolved as a ubiquitous organisational phenomenon. However, failure to follow a clear, systematic and effective outsourcing strategy to evaluate threats, uncertainties and numerous imponderables can cause global enterprise businesses major setbacks. The reasons for such setback could be largely due to lack of core competency, careful legal planning and due diligence to operating models associated with an outsourcing initiative. This paper attempts to collate and exemplify the distinct qualifying processes accommodating contractual and intellectual property rights and provide a worthwhile debate on intricate legal considerations when structuring multi-jurisdictional outsourcing deals. Design/methodology/approach - The paper presents a comparative analysis of strategic legal and management framework by weighing the risks and evaluating the threats which would assist the decision making process of firms when selecting an appropriate offshore partner to carry out their IT-development work. Findings - Importance of legal intervention and due diligence to service agreements is further elevated as, at every phase of an outsourcing arrangement, compliance issues and contractual obligations can affect the success of an enterprise customer and its relationship with their outsourcing service provider. Research limitations/implications - The authors suggest that an exhaustive qualitative and quantitative industry specific research analysis be conducted in order to better define the principles and standards governing sub-contracting arrangements. Practical implications - A broader exposure to the strategic management and regulatory framework might provide firms with vantage points from which they could assess and identify new opportunities, evaluate threats and adopt effective risk mitigation strategies. Compliance to security standards and safeguard of information acquisition, analysis and usage should emerge as the mainstream strategy for outsourcing. Originality/value - The paper offers insights and an overview of management and legal issues in the context of offshore technology outsourcing. © Emerald Group Publishing Limited.",
+    "source": "Business Process Management Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

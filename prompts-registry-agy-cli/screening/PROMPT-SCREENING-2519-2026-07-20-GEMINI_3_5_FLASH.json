@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2519-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Spanish security law issues for UK (and other foreign) lenders: practical aspects of structuring, negotiating and closing transactions",
+    "authors": "Abarca, MLD; Alemany, A",
+    "year": "2010",
+    "doi": "10.5235/175214410793369305",
+    "abstract": "Taking security in Spain may pose some uncertainties to non-Spanish lenders as, in general, strict formalities are required to perfect the granting of the security, and the risk of rescission may hover over the securities when insolvency proceedings are commenced. Lenders may also encounter issues and difficulties when foreclosure of a security is required. The purpose of this article is to assist foreign lenders (and their counsel) in the process of considering, negotiating and perfecting security interests in Spain (ie security over assets located in Spain and over which, according to Spanish law, a Spanish law security may be created) and to avoid and mitigate any risks of rescission set forth under Spanish law.",
+    "source": "LAW AND FINANCIAL MARKETS REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

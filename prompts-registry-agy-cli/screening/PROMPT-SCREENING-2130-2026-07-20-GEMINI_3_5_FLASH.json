@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2130-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring the IPO: Empirical evidence on the portions of primary and secondary shares",
+    "authors": "Huyghebaert N.; Van Hulle C.",
+    "year": "2006",
+    "doi": "10.1016/j.jcorpfin.2005.01.001",
+    "abstract": "We empirically study the determinants of the portions of primary and secondary shares offered in IPOs. The data show that young, small growth firms tend to issue primary shares. Limited internal cash generation and a debt mix that largely consists of bank loans have a significant positive impact on the primary portion. The data also reveal that if financing needs warrant a relatively small primary portion, companies add secondary shares to increase the offering size, which enhances post-IPO stock liquidity. Furthermore, these growth firms are more likely to issue seasoned equity in the aftermarket. Conversely, established firms tend to offer only secondary shares. The diversification motive does not drive the size of the secondary portion but adverse selection costs have an impact. Also, firms selling only secondary shares show higher post-IPO control turnover. © 2005 Elsevier B.V. All rights reserved.",
+    "source": "Journal of Corporate Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

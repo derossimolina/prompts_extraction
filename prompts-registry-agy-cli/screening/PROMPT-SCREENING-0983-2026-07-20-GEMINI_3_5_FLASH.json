@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0983-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Unexploited Potential? What Role Can International Financial Institutions Play in Drugs and Development?",
+    "authors": "Byrd W.A.",
+    "year": "2019",
+    "doi": "10.31389/jied.13",
+    "abstract": "This paper assesses the potential for and obstacles to engagement on drugs issues from a development perspective by the World Bank and other International Financial Institutions, based on a review of the World Bank’s experience in Afghanistan as well as more general institutional aspects. Afghanistan demonstrates both the possibilities and benefits as well as the limitations of World Bank/IFI engagement on drugs and development. Prospects for duplicating, let alone exceeding, the level of Bank engagement on drugs seen in Afghanistan would not appear to be good. With pro-active encouragement and support by member countries of the World Bank/IFIs, however, there may be some entry points in major drug-producing countries and relating to global themes such as money-laundering or illicit-economic activities. © 2019 The Author(s).",
+    "source": "Journal of Illicit Economies and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

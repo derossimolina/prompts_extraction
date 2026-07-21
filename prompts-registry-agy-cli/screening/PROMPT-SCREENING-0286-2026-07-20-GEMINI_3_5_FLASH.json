@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0286-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulatory Context and Bureaucratic Policy Making: Illustrations From Payment System Regulation in Brazil",
+    "authors": "Haddad J.P.; Gonzalez L.E.",
+    "year": "2025",
+    "doi": "10.1111/rego.70121",
+    "abstract": "This study investigates how bureaucratic strategies for structuring the policy environment shape regulatory outcomes, focusing on the extent to which agencies achieve their original policy preferences. Drawing on resource dependence theory and bureaucratic politics, we conceptualize the policy environment in two dimensions: internal, concerning engagement with interest and societal groups within the agency's jurisdiction, and external, relating to interactions with other institutional actors across government. We argue that regulators strategically define access, consultation, and debate to maximize preference attainment. However, these efforts are shaped and constrained by contextual factors, including the mobilization and coordination of external actors, as well as issue salience. Using the case of the Brazilian central bank's regulation of electronic payments in the country, we perform a process tracing to explain how bureaucratic strategies and unanticipated contextual dynamics interact to produce different outcomes. Our findings suggest that, while higher issue salience enables regulators to achieve greater preference attainment, excluding mobilized actors has a salience threshold beyond which they are compelled to accommodate demands they originally opposed, whereas including these actors tends to result in partial attainment. © 2025 The Author(s). Regulation & Governance published by John Wiley & Sons Australia, Ltd.",
+    "source": "Regulation and Governance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

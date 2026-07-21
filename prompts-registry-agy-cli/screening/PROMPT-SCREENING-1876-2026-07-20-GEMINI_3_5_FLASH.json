@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1876-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Improving auditor effectiveness in assessing KYC/AML practices: Case study in a Luxembourgish context",
+    "authors": "de Smet D.; Mention A.-L.",
+    "year": "2011",
+    "doi": "10.1108/02686901111095038",
+    "abstract": "Purpose: The purpose of this paper is to report on the suitability of an ISO standard to create an internal control assessment model, which effectively acts as a control system template and mental model to evaluate compliance with the Know Your Customer (KYC) and anti-money laundering (AML) requirements in the Luxembourg retail and private banking sector. Design/methodology/approach: This paper used a qualitative approach with various focus groups and case studies, to elaborate and validate the developed model through methodological triangulation. Findings: The proposed assessment model has a matrix structure that facilitates the incorporation of checklists and narratives to ensure effective testing of controls and its structure allows targeting specific areas of risk in the identified KYC/AML processes. Research limitations/implications: The development of the model tended to be time consuming and could explain why matrix formats are used less often and the traditional limitations of a qualitative research apply. Practical implications: The model can be used to combine various reporting formats on internal control, hence the audit effectiveness can be increased and information asymmetries can be reduced. Originality/value: The proposed assessment model offers an innovative approach because it combines a process view of the business with an internal control view. Research in internal control assessment models has been very limited in the past years. © Emerald Group Publishing Limited.",
+    "source": "Managerial Auditing Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

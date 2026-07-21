@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0665-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrencies as a Parallel Currency: Notes between Financial Freedom and State (Un)Control in the Fight and Repression of Money Laundering; [Criptomoedas como Moeda Paralela: Apontamentos entre a Liberdade Financeira e o (Des)Controle Estatal no Combate e Repressão à Lavagem de Dinheiro]; [Las Criptomonedas como Moneda Paralela: Notas entre la Libertad Financiera y el (Des) Control Estatal en la Lucha y Represión del Blanqueo de Capitales]",
+    "authors": "Horchel C.",
+    "year": "2023",
+    "doi": "10.31412/rbcp.v14i11.1054",
+    "abstract": "The purpose of this article is to present a dynamic understanding of the use of cryptocurrencies, notably Bitcoin and its Blockchain system, as a tool in the practice of money laundering crime. At the same time, it is intended to relativize the notion, in a certain way predominant, that the virtual currency would facilitate the practice of the crime of money laundering. It is evident that the lack of government regulation – or (un)control – in the use of digital currencies can be an important factor in stimulating the expansion of this serious transnational crime. However, there is still no consensus on the subject, much less state recognition and legal classification of the asset under analysis. To this end, the study uses, as its main methodology, descriptive research and the analysis of the latest investigations carried out by specialists. It has the core purpose of instigating the reader’s reflection by bringing organized information. It reveals that State and International regulation are insufficient for the effective tracking of the crime in concerned. It also shows that digital currencies are not the best attraction for organized crime to launder their assets, and there is no data that points to the expansion of crime with the use of bitcoins. Therefore, it requires rethinking the failures of legal regulation and criminal investigation without suppressing this new cyber economy, respecting the financial freedom of civil society and the new contributions brought by cryptocurrencies and blockchain security technology. © 2023 National Police Academy. All rights reserved.",
+    "source": "Revista Brasileira de Ciencias Policiais"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

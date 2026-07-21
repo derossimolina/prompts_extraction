@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1235-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The use of cryptocurrencies in the money laundering process",
+    "authors": "Albrecht C.; Duffin K.M.; Hawkins S.; Morales Rocha V.M.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-12-2017-0074",
+    "abstract": "Purpose: This paper aims to analyze the money laundering process itself, how cryptocurrencies have been integrated into this process, and how regulatory and government bodies are responding to this new form of currency. Design/methodology/approach: This paper is a theoretical paper that discusses cryptocurrencies and their role in the money laundering process. Findings: Cryptocurrencies eliminate the need for intermediary financial institutions and allow direct peer-to-peer financial transactions. Because of the anonymity introduced through blockchain, cryptocurrencies have been favored by the darknet and other criminal networks. Originality/value: Cryptocurrencies are a nascent form of money that first arose with the creation of bitcoin in 2009. This form of purely digital currency was meant as a direct competitor to government-backed fiat currency that are controlled by the central banking system. The paper adds to the recent discussions and debate on cryptocurrencies by suggesting additional regulation to prevent their use in money laundering and corruption schemes. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

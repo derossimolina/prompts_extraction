@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2523-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of risk in contract choice",
+    "authors": "Allen, DW; Lueck, D",
+    "year": "1999",
+    "doi": "10.1093/jleo/15.3.704",
+    "abstract": "Structuring contracts to share risk in light of incentive problems is the central premise of contract theory, yet the risk-sharing implications have rarely been thoroughly tested using micro-level contract data. In this article we test the major implications of a principal-agent model of contracts using detailed data on more than 4000 individual contracts from modern North American agriculture. On a case-by-case basis, our evidence fails to support the standard principal-agent model with risk aversion as an explanation of contract choice in modern North American farming. At the same time, we find some support for models that assume risk-neutral contracting parties and stress multiple margins for moral hazard and enforcement costs.",
+    "source": "JOURNAL OF LAW ECONOMICS & ORGANIZATION"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

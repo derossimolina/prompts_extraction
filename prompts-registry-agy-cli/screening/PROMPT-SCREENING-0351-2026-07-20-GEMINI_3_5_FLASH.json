@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0351-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ARTIFICIAL INTELLIGENCE AND SUPPLY CHAIN MANAGEMENT: A BIBLIOMETRIC EXPLORATION OF IMPACTS ON OPERATIONAL PERFORMANCE",
+    "authors": "Ghouati S.; Rizi L.; Oulfarsi S.; El Amri A.",
+    "year": "2026",
+    "doi": "10.22495/bprv4i1p10",
+    "abstract": "Artificial intelligence (AI) has emerged as a structuring technology for the transformation of supply chains, profoundly reshaping operational models and performance logics. By integrating predictive, cognitive, and adaptive capabilities, AI strengthens responsiveness, visibility, and resilience in logistics chains operating in complex and uncertain environments (Ivanov, 2024; Choi et al., 2023). Yet, despite the explosion of scientific research on this topic over the past decade, the literature remains fragmented and dispersed across several disciplines. This article offers a bibliometric analysis of publications dedicated to AI in supply chain management (SCM) and its impact on operational performance (OP) over the period 2010–2024. Based on data from Scopus and Web of Science (WoS), the study identifies research trends, the most influential authors and countries, as well as emerging themes. Three main axes are revealed: the predictive optimization of flows, the integration of AI with complementary technologies such as blockchain to improve traceability and sustainability, and the role of AI in organizational resilience (Mukherjee et al., 2024). Beyond this mapping, the article demonstrates that AI, far from being a mere technical tool, has become a strategic resource that redefines governance models and the very notion of performance. © 2026 The Authors.",
+    "source": "Business Performance Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

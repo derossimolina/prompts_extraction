@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1198-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Proposal for customer identification service model based on distributed ledger technology to transfer virtual assets",
+    "authors": "Park K.; Youm H.-Y.",
+    "year": "2021",
+    "doi": "10.3390/bdcc5030031",
+    "abstract": "Recently, cross-border transfers using blockchain-based virtual assets (cryptocurrency) have been increasing. However, due to the anonymity of blockchain, there is a problem related to money laundering because the virtual asset service providers cannot identify the originators and the beneficiaries. In addition, the international anti-money-laundering organization (the Financial Action Task Force, FATF) has placed anti-money-laundering obligations on virtual asset service providers through anti-money-laundering guidance for virtual assets issued in June 2019. This paper proposes a customer identification service model based on distributed ledger technology (DLT) that enables virtual asset service providers to verify the identity of the originators and beneficiaries. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.",
+    "source": "Big Data and Cognitive Computing"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0144-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Survey of Ethereum Illegal Detection Methods; [以太坊非法交易检测方法综述]",
+    "authors": "Li M.; Liang G.; Yin J.; Ma Z.; Zhang Y.",
+    "year": "2024",
+    "doi": "10.19363/J.cnki.cn10-1380/tn.2024.09.10",
+    "abstract": "Ethereum has created a trading ecosystem based on smart contracts, where participants can diversify their transactions by deploying smart contracts. However, the concealment of trading entities provides “convenience” for illegal transactions, such as pyramid schemes, fraud, honeypot contracts, money laundering, gambling, and terrorism. Among them, the first three are unilateral illegal acts committed by criminals against normal users, which have a wider radiation range and greater potential danger compared to the latter three. Therefore, this paper focuses on the first three illegal trading acts. The paper summarizes its transaction characteristics and detection methods from two perspectives: general detection and special detection. Firstly, we conduct research on general detection, which focuses on the detection methods for sorting out illegal transactions in Ethereum from a data perspective. We found that using supervised algorithms (used for user address classification) +unsupervised algorithms (found potential illegal users) can achieve high-precision detection. Then we conduct special detection research, focusing on specific types of illegal transactions. For fraud represented by phishing, pyramid schemes represented by Ponzi schemes, and honeypot contract transactions, summarize the “new features” and “new methods” embodied on the Ethereum platform. Then, it summarizes the research progress of detection technology from three stages: data collection, feature extraction, and anomaly detection. By using evaluation indicators such as accuracy, precision, recall and F1 score, it is found that data enhancement techniques such as mixed sampling are used in the data collection stage, machine learning algorithms such as graph embedding and deep learning are used in the feature extraction stage, and modern machine learning algorithms such as integrated methods are used in the anomaly detection phase can effectively improve detection accuracy. Finally, we expand the perspective to the blockchain platform, conduct a comparative analysis of illegal transaction detection technologies between blockchains, and further provide future research directions for Ethereum illegal transaction detection. © 2024 Chinese Academy of Sciences. All rights reserved.",
+    "source": "Journal of Cyber Security"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

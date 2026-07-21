@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0142-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Artificial intelligence and Islamic finance industry: problems and oversight",
+    "authors": "Arsyad I.; Kharisma D.B.; Wiwoho J.",
+    "year": "2025",
+    "doi": "10.1108/IJLMA-07-2024-0236",
+    "abstract": "Purpose: This study aims to examine the implementation of artificial intelligence (AI) in the Islamic finance industry and to identify legal issues and design an appropriate supervisory model to promote the Islamic finance industry. Design/methodology/approach: This type of research is legal research. This legal research uses a statute approach, conceptual approach and comparative approach between Indonesia, Hong Kong, Malaysia and the United Arab Emirates (UAE). Findings: The utilization of AI in Islamic finance is becoming increasingly important in various sectors. In the front office, AI simplifies credit evaluation, Takaful (Islamic insurance) and chatbots, improving client interactions and decision-making processes. In the middle office, AI is an integral part of anti-money laundering, counter-terrorist financing (CTF), know your customer protocols and fraud detection. In the back office, AI improves capital management, market impact assessment, risk management and asset and wealth management. In addition, AI substantially enhances regulatory technology (RegTech) and supervisory technology (SupTech), ultimately improving the effectiveness of regulatory compliance and supervision in the Islamic finance industry. These technologies simplify compliance processes, evaluate data quality, detect potential hazards and adapt to complex regulatory frameworks. Nonetheless, the incorporation of AI faces significant obstacles, most notably the absence of a comprehensive legal framework governing the application of AI in the Islamic finance industry. The current regulations, including the Islamic Banking Law and Insurance Law, do not adequately address AI. Moreover, the use of AI raises concerns about Shariah compliance, particularly about transparency and possible algorithmic bias in the decision-making process. The effectiveness of supervision in Islamic finance largely depends on the membership of the Islamic supervisory board, which must have technological expertise to ensure compliance withShariah norms. Therefore, the development of more sophisticated and effective supervisory procedures is essential for the proper implementation of AI in Islamic banking. An efficient supervisory framework should provide transparency, data security, regular auditing of AI systems and integration of RegTech and SupTech technologies within the Islamic finance sector. Research limitations/implications: This research examines the use of AI in the Islamic finance industry in Indonesia, Hong Kong, Malaysia and the UAE. Practical implications: This research is important to mitigate the risks of using AI in the Islamic finance industry such as AI decision transparency and explanation, AI job transfer bias and AI conflict with Islamic finance principles. This research is also important to formulate a regulatory framework to enhance AI supervision in the Islamic finance industry. Social implications: This research improves and encourages the growth of the Islamic finance industry using AI. Originality/value: This research identifies the problems and legal issues of using AI in the Islamic finance industry and formulates a supervisory model. © 2025, Emerald Publishing Limited.",
+    "source": "International Journal of Law and Management"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

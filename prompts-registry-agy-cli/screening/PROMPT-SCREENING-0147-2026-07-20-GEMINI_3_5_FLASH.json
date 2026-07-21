@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0147-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digital Crime, Dirty Money and the State: Southeast Asia's Illicit Political Economy and the Rise of Cybercrime",
+    "authors": "Loughlin N.",
+    "year": "2026",
+    "doi": "10.1111/dech.70071",
+    "abstract": "Over the past decade, cyber scamming has expanded rapidly across Southeast Asia. These operations cluster in compounds within business parks, casinos, industrial zones and other real estate developments. Although organized crime is often assumed to thrive where states are weak, this article offers a politically grounded explanation for why these economies take root in particular countries through complex and heterogeneous entanglements with the state. Drawing on critical scholarship, political settlements analysis and structural political economy, it shows that scam operations are mediated by existing systems of political authority rather than operating in opposition to them. Focusing on Cambodia, Laos, Myanmar and the Philippines, it demonstrates how scam economies have been integrated into long-standing arrangements shaped by patronage, rent extraction, territorial governance, contestation and conflict. Enabled by mobile transnational capital, including Chinese grey finance, offshore banking and cryptocurrency, these industries operate across borders and have become integral to the exercise and contestation of political power. The article advances a framework explaining how illicit economies become entwined with systems of governance, linking state power and the exercise of political authority to transnational organized crime in ways not unique to Southeast Asia. © 2026 The Author(s). Development and Change published by John Wiley & Sons Ltd on behalf of Institute of Social Studies.",
+    "source": "Development and Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

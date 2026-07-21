@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1606-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "E-transparency as an organizational innovation in financial services – the case of Lithuania",
+    "authors": "Railiene G.",
+    "year": "2015",
+    "doi": "10.24840/2183-0606_003.001_0008",
+    "abstract": "The development of e-transparency culture requires certain organizational changes related to innovative ways of organizing, structuring and presenting information to interested parties and employing digital technologies. This paper presents the discussion of concepts needed to be researched in order to disclose the e-transparency level of finance institution. It is suggested to focus on content of required and voluntary information (content quality) and on channels for information dissemination (channel quality). The methodology is employed in defining the e-transparency level of Lithuanian credit providers and assessing how innovative finance institutions are in disseminating the regulatory and voluntary information. The research results indicate that Lithuanian banks are contributing to legal requirements, but voluntary presentation of data is rather brief and ways used for information dissemination are poor compared to IT possibilities. The e-transparency culture and organizational innovations in credit unions are under development. © 2015 Universidade do Porto - Faculdade de Engenharia. All rights reserved.",
+    "source": "Journal of Innovation Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

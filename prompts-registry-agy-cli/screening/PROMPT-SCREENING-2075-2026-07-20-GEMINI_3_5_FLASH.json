@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2075-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global inequality as one of the root causes of the financial crisis: A suggested explanation",
+    "authors": "Lysandrou P.",
+    "year": "2011",
+    "doi": "10.1080/03085147.2011.576848",
+    "abstract": "The global financial crisis was caused because the volume of toxic assets in the financial system had grown to the point where the system could no longer cope. The dominant view among heterodox economists is that this point of critical mass was reached because of various failures in the financial system. This paper puts the accompanying view that the toxic assets were created largely in response to external pressures, a principle source of which was global inequality: while income inequality was an important factor behind the supply of those assets, wealth concentration was a major factor behind the demand for them. The policy implications of this analysis are that income distribution and wealth ownership have to be more equitably structured if global financial crises are to be avoided in the future. This is not to exclude other proposals for making the financial system more transparent and accountable. The point, rather, is that these proposals are insufficient on their own. No matter how radical the re-structuring of the financial system, as long as there remain external pressures on it to create products or to indulge in practices that are harmful to it, such products and practices will continue to be introduced and financial crises will continue to occur. © 2011 Taylor & Francis.",
+    "source": "Economy and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

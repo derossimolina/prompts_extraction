@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1146-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Data mining and bifurcation analysis of the risk of money laundering with the involvement of financial institutions",
+    "authors": "Kuzmenko O.; Šuleř P.; Lyeonov S.; Judrupa I.; Boiko A.",
+    "year": "2020",
+    "doi": "10.14254/2071-8330.2020/13-3/22",
+    "abstract": "The current trends of globalization, the integration of banks and insurance companies worldwide into a single financial conglomerate, as well as the emergence of new electronic payment instruments, force governments of different countries to search for new approaches to analyse the risks of involvement of financial institutions in money laundering. The research explains how to use the data mining and bifurcation analysis based on the limited information on general indices of a country's characteristics to evaluate the state’s resilience to the involvement of its financial institutions in money laundering. The purpose of the article is to develop a scientific and methodological approach to assessing the risk of using financial institutions in money laundering. It is based on the study of the dynamic stability of this risk on the basis of bifurcation theory. Empirical calculations show that for a group of countries, to which Ukraine belongs, the dynamic system is in a non-equilibrium state and is described as a phase portrait “saddle”. Therefore, the risk of using financial institutions for money laundering is high in Ukraine, although it is under certain control by the state. However, the calculations show that under conditions of the partial reform of the anti-money laundering system in Ukraine, the system will lose its conditional stability and the corresponding risk will increase even more. © Foundation of International Studies, 2020 and CSR, 2020.",
+    "source": "Journal of International Studies"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

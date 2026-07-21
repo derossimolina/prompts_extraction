@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2395-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "LEGITIMIZATION OF INCOME OF CLIENTS AS A FACTOR OF FINANCIAL STABILITY OF BANKS",
+    "authors": "Zlyvko, S; Shkliar, S; Kovalenko, A; Sykal, M; Snigerov, O",
+    "year": "2021",
+    "doi": "10.9770/jesi.2021.8.4(41)",
+    "abstract": "Prevention and counteraction to money laundering by bank clients are the most important links in the fight against money laundering among all entities of primary financial monitoring: reports of banks on suspicious financial transactions account for 96-98 % of the total number of reports to the State Financial Monitoring Service of Ukraine. An important step in further development and improvement of the system of prevention and counteraction to money laundering of the banks clients is its evaluation and identification of weaknesses. Cash transactions and cash flows through the accounts of bank clients are the most risky group of services of banking institutions in terms of money laundering. The analysis of statistical characteristics of the series of dynamics of cash turnover, turnover of funds on accounts at the request of economic entities, turnover of funds on accounts at the request of individuals of 96 banks of Ukraine showed that banks in which activity the National Bank of Ukraine (NBU) detect fraudulent operation with signs of money laundering, have significantly higher values of the coefficient of variation of cash flows, on average 46 %, compared to banks in which the NBU did not detect fraudulent operations, but did detect violations, for which it applied measures of influence, and in comparison with banks to which no measures of influence were applied. The results of the analysis proved that the coefficient of variation can be used as an indicator of the level of risk of money laundering by the bank clients, which allows to significantly facilitate and reduce the duration of analysis of bank financial performance within rapid testing for money laundering.",
+    "source": "ENTREPRENEURSHIP AND SUSTAINABILITY ISSUES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

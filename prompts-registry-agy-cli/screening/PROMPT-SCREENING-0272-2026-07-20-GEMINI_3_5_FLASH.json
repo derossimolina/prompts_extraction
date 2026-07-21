@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0272-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Antecedents of Compliance with Anti-Money Laundering Regulations in the Banking Sector of Ghana",
+    "authors": "Hoffman B.N.; Okeniyi J.; Samuel S.E.",
+    "year": "2024",
+    "doi": "10.3390/jrfm17080373",
+    "abstract": "This study examines factors influencing Ghanaian banks’ compliance with anti-money laundering (AML) legislation. Drawing upon institutional, compliance, and dynamic capability theories, the study identifies the interplay of organisational, regulatory, and employee factors influencing compliance outcomes. A mixed methods approach was used to collect data from 23 universal banks, 9 local and 14 foreign, in Ghana, focusing on experienced managers and employees in risk, legal, operations, compliance, and business development departments. The findings show that employee characteristics like due diligence and moral involvement have a positive relationship with compliance with AML regulations; however, contrary to expectations, effective AML/CFT programs did not significantly impact banks’ adherence to these regulations. The association between moral engagement, an innovative culture, and AML compliance is weakened by normative power and an innovative culture acting as negative moderators. This study contributes empirical evidence to the literature on AML compliance in emerging markets and offers practical implications for policymakers, regulators, and banking professionals seeking to boost regulatory effectiveness and mitigate financial crime risks. This study provides a foundation for targeted interventions and strategic initiatives aimed at strengthening the AML regulatory landscape in Ghana and other countries. © 2024 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

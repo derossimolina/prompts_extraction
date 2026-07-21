@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1758-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Twelve methods of money laundering",
+    "authors": "Teichmann F.M.J.",
+    "year": "2017",
+    "doi": "10.1108/JMLC-05-2016-0018",
+    "abstract": "Purpose: This paper aims to discuss how feasible it is for intelligent criminals to circumvent existing anti-money laundering mechanisms. Design/methodology/approach: Based upon ten informal interviews with money launderers and their advisers; 18 formal, semi-standardized expert interviews with selected anti-money laundering specialists; and a quantitative survey of 181 compliance officers, 12 effective methods to launder money have been developed. Findings: It has been found that gold, jewellery, raw diamonds, antiquities, art, real estate projects, consulting firms, mergers and acquisitions, banks in Dubai, deposit boxes, private cash deals and currency exchange offices continue to be extraordinarily suitable tools for money laundering. Originality/value: The identification of gaps in anti-money laundering mechanisms is meant to provide both compliance officers and legislators with valuable insights. While the existing literature focuses on estimating the volume of money laundered in certain geographical areas and on the improvement of anti-money laundering mechanisms, this paper describes how money launderers proceed to avoid getting caught. © 2017, 2017, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

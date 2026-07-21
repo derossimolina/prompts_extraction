@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0191-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Governmentality, financial security and money laundering: the Estonian case of Danske Bank",
+    "authors": "Makarychev A.; Sazonov V.",
+    "year": "2025",
+    "doi": "10.1057/s41284-025-00463-7",
+    "abstract": "This article focuses on the case of Russian money laundering at the Estonian branch of Danske Bank, which is a landmark case from several perspectives. The case of Russian money laundering at Danske Bank shows the vulnerability of a country that is institutionally part of the global West, including membership in the EU and NATO, but is subject to multiple and often invisible influences from the global East, including the post-Soviet region. This case also demonstrates that no reputational damage is irreversible: despite the extremely negative publicity Estonia has received for its involvement in a money laundering story, the country is still considered financially safe, its banking system is sound, and its level of corruption is among the lowest in the EU. The article also examines the interrelationship of the concept of financial security in specific situations of crisis management of money laundering and the consequences of Russia’s war in Ukraine. These interconnections have become the subject of public attention and have led to the transformation of security discourses and practices that have as a common denominator a jointly coordinated policy of re-bordering in relations with Russia. The strengthening of various border mechanisms—not only territorial ones—is becoming a key component of Estonia’s security based on belonging to the Euro-Atlantic international community with its rules, norms and regulations. © The Author(s), under exclusive licence to Springer Nature Limited 2025.",
+    "source": "Security Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

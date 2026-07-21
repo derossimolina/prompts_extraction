@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1961-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Offshore financial centres in the Caribbean: Prospects in a new environment",
+    "authors": "Williams O.H.; Suss E.C.; Mendis C.",
+    "year": "2005",
+    "doi": "10.1111/j.1467-9701.2005.00686.x",
+    "abstract": "This paper reviews the development of offshore financial activities in the English-speaking Caribbean islands and takes stock of the size of these sectors today, and analyses the future prospects. A number of Caribbean jurisdictions are market leaders in the offshore products they offer and have identified the growth of this sector as a development strategy. Established centres in the Bahamas, Barbados and Cayman Islands have managed to become global players and have generated sizeable gains in employment and income. However, in view of the heightened concerns by the international community about money laundering and more recently, terrorist financing, the costs of compliance and risks to countries of having or establishing offshore sectors have risen considerably. This is particularly relevant to the newer entrants, with significant regulatory differences from international standards. The paper assesses the risks, benefits and costs of compliance with international best practices for established and newer offshore jurisdictions. The paper asks the questions whether offshore jurisdictions constitute a sustainable development strategy and concludes that for nascent jurisdictions, the gains are very small. © Blackwell Publishing Ltd 2005.",
+    "source": "World Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

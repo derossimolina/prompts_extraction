@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0445-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Multilayer topology-aware graph contrastive learning for fraud detection in the Ethereum transaction network",
+    "authors": "Chen Y.; Zhang Y.; Chan S.; Chu J.; Lord N.",
+    "year": "2026",
+    "doi": "10.1093/jrsssa/qnaf135",
+    "abstract": "Abstract Fraud detection in blockchain networks presents unique challenges due to the decentralized and pseudonymous nature of transactions. This study introduces a novel Multilayer Topology-Aware Graph Contrastive Learning (MTGCL) framework to detect fraudulent activity within the Ethereum transaction network. The proposed approach leverages node-level and topology-level representations, integrating persistent homology to capture high-order structural patterns and enhance anomaly detection. By employing adaptive graph augmentation and self-supervised contrastive learning, MTGCL effectively improves fraud detection performance. Empirical evaluations demonstrate that MTGCL outperforms existing graph contrastive learning models in classification accuracy across multiple time periods while maintaining competitive computational efficiency. The framework also exhibits scalability for large-scale blockchain analysis, achieving lower computational costs compared with other baselines methods. These findings highlight MTGCL’s potential for real-world applications, offering valuable insights for financial institutions, cryptocurrency exchanges, regulatory bodies, and blockchain analytics firms in combating fraudulent activities and enhancing anti-money laundering compliance. © The Royal Statistical Society 2025. All rights reserved. For commercial re-use, please contact reprints@oup.com for reprints and translation rights for reprints. All other permissions can be obtained through our RightsLink service via the Permissions link on the article page on our site—for further information please contact journals.permissions@oup.com.",
+    "source": "Journal of the Royal Statistical Society. Series A: Statistics in Society"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0646-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The control of tax corruption: evidence from nonfungible token market in China",
+    "authors": "Rahman J.; Jin Y.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-01-2023-0005",
+    "abstract": "Purpose: In 2021, nonfungible token (NFT) has emerged and grown as a new digital asset and became a carrier for cryptocurrency holders in China. NFT opens the door of the digital world for creators’ rights and the realization of economic interests. However, potential problems such as money laundering, terrorist financing and tax avoidance risks have increased in China due to the lack of regulations. As tax control is an important tool used by the government to adjust the economy and market, this study aims to investigate the future market capitalization of NFT and provide value orientations to control the NFT market in China with a tax control approach based on the positive experience of other countries. Design/methodology/approach: In this study, least squares and expert estimation are applied to predict the future market capitalization based on the global market, which can provide an understanding of the current NFT market and the significance of its tax control. In addition, the tax control and interpretation of Chinese taxation institutions and structures are also explored. Findings: Results include the probable tax structure or policy that national institutions can carry out over different transactions. Conclusions show that introducing tax control to regulate and monitor the rise of state revenue and decline of illegal financing activities. Establishing tax control in the Chinese NFT market can provide a centralized guarantee to ensure the safety and legality of transactions and enable further progress. Originality/value: This study puts forward new ideas on the future development of nonprofitable tokens based on blockchain technology from the perspective of taxation in China. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

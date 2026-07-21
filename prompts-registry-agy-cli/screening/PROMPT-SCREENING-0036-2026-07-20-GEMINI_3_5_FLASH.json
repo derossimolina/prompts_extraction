@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0036-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing international anti-money laundering preventive measures in Islamic banks: a directed content analysis approach",
+    "authors": "Hamdi F.M.",
+    "year": "2025",
+    "doi": "10.1108/QRFM-06-2024-0163",
+    "abstract": "Purpose: This study aims to intend to evaluate the adequacy of existing anti-money laundering (AML) preventive measures as outlined in Financial Action Task Force (FATF) recommendations in mitigating ML risks specific to IBIs. It critically examines the current state of the FATF-recommended AML measures implemented by Islamic Banks (IBs), exploring any potential needs for customization to accommodate the unique characteristics of IBs. Design/methodology/approach: Drawing on data from the 2022 annual reports and AML compliance statements of 20 licensed IBs in the Golf Cooperation Council countries, this is the first study to use directed content analysis as a systematic and unbiased method for examining AML measures in IBs. NVivo was used to code and categorize AML practices, focusing on FATF-AML preventive measures. The analysis assesses the extent of AML adoption and identifies areas requiring customization. This approach enables systematic evaluation of the conformity of IBs to FATF- AML measures and identifies areas requiring tailored adaptations. Findings: The findings reveal that all banks have fully adopted the FATF-recommended AML measures, demonstrating IBs’ commitment to complying with regulatory requirements and FATF guidelines. Despite implementing all AML measures, certain banks acknowledge that FATF-recommended AML measures still need to be adjusted to accommodate the unique needs of IBs. These findings underline the importance of making precise adjustments tailored to suit the specific context of IBs without compromising regulatory compliance. These findings also support prior literature’s suggestion that FATF should develop new standards tailored to the needs of organizations other than conventional banks. Research limitations/implications: Primarily the study relies on a descriptive approach rather than predictive theory testing which may constrain the generalizability of findings. Moreover, the reliance on content analysis as the primary data collection method although offering in-depth insights may not capture the full spectrum of stakeholders’ perspectives as surveys and interviews could. Another limitation pertains to the limited 20-IB sample size increasing this size could enhance the internal validity of the results. Lastly, the study acknowledges that it is the first to use content analysis to examine AML preventive measures in IBs implying a potential absence of precedent for comparative analysis. Practical implications: The study highlights the need for AML measures tailored to Islamic banks aligning regulatory requirements with Sharia principles. For regulators the findings offer a basis to refine AML standards that meet global requirements while respecting religious principles. Additionally, the study stresses targeted training on ethical aspects of AML to enhance compliance effectiveness fostering a stronger ethically aligned approach to financial crime prevention. Social implications: Socially, the study highlights how tailored AML practices enhance public trust in Islamic banks by aligning with Islamic ethical standards. This alignment promotes transparency and accountability, helping prevent financial crimes and protect communities. By supporting fair, ethical governance, these practices reinforce Islamic banks’ role in contributing to social stability and align with Sustainable Development Goal 16 for peace and strong institutions. Originality/value: This paper’s originality stems from its innovative use of directed content analysis – rather than conventional surveys or interviews – to examine the application of FATF-recommended AML measures in Islamic banks. This method allows for a nuanced, context-sensitive exploration of how well these international AML preventive measures align with the ethical and operational needs of Islamic finance. By doing so, the study fills a critical gap in AML research, offering deeper insights into compliance within Sharia-based financial institutions and enhancing knowledge on customizing international standards for Sharia compliant banking. © 2025, Emerald Publishing Limited.",
+    "source": "Qualitative Research in Financial Markets"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

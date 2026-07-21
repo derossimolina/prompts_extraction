@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1480-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Barriers to real estate investments for residential rental purposes: Mapping out the problem",
+    "authors": "Pires A.S.C.; Ferreira F.A.F.; Jalali M.S.; Chang H.-C.",
+    "year": "2018",
+    "doi": "10.3846/ijspm.2018.1541",
+    "abstract": "The recent economic crisis led to significant changes in the real estate market; one of which was a shift toward home rental (rather than buying). Real estate investors have an important role in the growth of the rental market. However, there are often hindrances to investing for residential rental purposes. In order to overcome these barriers, they first need to be identified and understood. With this in mind, the main focus of this investigation was the creation of a conceptual model, through fuzzy cognitive mapping, to identify and understand the cause-and-effect relationships between the factors that represent an obstacle to real estate investments for residential rental purposes. The results show that cognitive maps can be of great use for the structuring of complex decision problems, minimizing the number of factors left out of the decision-making process. In particular, the tenant risk behavior, property location and associated costs (for the owner) were identified as the main obstacles to real estate investment. The practical implications of the model, as well as the advantages and limitations of the process followed, are also discussed. © 2018 The Author(s). Published by VGTU Press.",
+    "source": "International Journal of Strategic Property Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

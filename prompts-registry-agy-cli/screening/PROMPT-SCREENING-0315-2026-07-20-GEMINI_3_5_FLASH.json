@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0315-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Navigating the COVID-19 Risk Environment, Overdose Prevention, and Self Care Practices of People Who Use Illicit Opioids in New York City",
+    "authors": "Bennett A.S.; McCollum D.R., Jr.; Elliott L.",
+    "year": "2025",
+    "doi": "10.1080/10826084.2024.2434681",
+    "abstract": "Background: The concurrent opioid overdose crisis and COVID-19 pandemic created a perfect storm of risk for drug overdose mortality and other negative health outcomes. Methods: This study is based on semi-structured interviews with 29 adults in New York City who were using illicit opioids (heroin, fentanyl, and prescription opioids without prescription) between April and September 2020 to gain their perspectives on navigating COVID as the pandemic was unfolding. Interviews explored both challenges posed by the pandemic and participants’ navigation of these challenges to prevent overdose, procure drugs, manage drug use, and maintain their health and safety. Results: Participants tried to adhere to best public health policies and practices and adapted as needed to protect their own and others’ health. They procured larger amounts of drugs to reduce travel, arranged drop-offs, and adhered to social distancing mandates during transactions. Homeless participants formed supportive and protective “bubbles” with network members to ensure safety and maximize resources. Participants addressed service access challenges by stockpiling MOUD, injection equipment and naloxone and reported using drugs when protected by naloxone and someone to administer when possible. Conclusions: Despite the many challenges posed by COVID to people who use drugs in NYC, this research documents the ways people who use drugs drew on experiences of navigating stigma, structural violence, and social exclusion on a daily basis to enhance self-care and harm reduction practices. Powerful narratives of adaptation and resilience speak to the need to include people who use drugs in future public health and disaster planning initiatives. © 2024 Taylor & Francis Group, LLC.",
+    "source": "Substance Use and Misuse"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

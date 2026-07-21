@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2173-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Advantageous innovation and imitation in the underwriting market for corporate securities",
+    "authors": "Herrera H.; Schroth E.",
+    "year": "2011",
+    "doi": "10.1016/j.jbankfin.2010.09.019",
+    "abstract": "Investment banks that develop new corporate securities systematically lead the new underwriting market despite being imitated early by equally competitive rivals. We study how innovators and imitators set underwriting fees in order to identify empirically the source of this advantage. Using data of innovative securities since 1985, we do find that innovators set systematically higher fees than imitators. This premium decreases as more issues occur, and faster for later generation products. Imitation is also quicker for later generations. This evidence supports the hypothesis that the innovator has superior skills in structuring any given issue of the new security. © 2010 Elsevier B.V.",
+    "source": "Journal of Banking and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

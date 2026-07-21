@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1604-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Governance and disorder: neoliberalism and violent change in Jamaica",
+    "authors": "Munroe M.A.; Blake D.K.",
+    "year": "2017",
+    "doi": "10.1080/01436597.2016.1188660",
+    "abstract": "Structural adjustment policies (SAPs) facilitate the hollowing out of the traditional roles performed by states. As a consequence, private entities (some perverse) offer services the state is incapable of or unwilling to provide. Beginning in the 1980s, SAPs plunged neighbourhoods in Latin America and the Caribbean into socioeconomic, and political disorder. This paper assesses the relationship between neoliberal reforms to the Jamaican state and the metamorphosis of violence since the mid-1980s. Neoliberalism transformed violence in Jamaica by increasing inter-gang conflicts, shootings and gang-related murders in Kingston’s garrisons. It also transformed political enforcers into community dons who use violence as a tool for business transactions in the international drug trade, and as a method of gaining local respect and authority. © 2016 Southseries Inc., www.thirdworldquarterly.com.",
+    "source": "Third World Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

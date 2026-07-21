@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0323-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Improving client risk classification with machine learning to increase anti-money laundering detection efficiency",
+    "authors": "Reite E.J.; Karlsen J.; Westgaard E.G.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-03-2024-0040",
+    "abstract": "Purpose: This study aims to describe and empirically explore a new method for bank anti-money laundering (AML) systems using machine learning models. Current automated money laundering detection systems are notorious for flagging many false positives, causing bank employees to spend unnecessary time manually checking transactions that do not constitute money laundering. Decreasing the number of false positives can free up resources for investigating money laundering. Design/methodology/approach: This study uses unique bank data on small- and medium-sized enterprises (SMEs) to examine how various client risk classification models can predict future suspicious transactions. This study explores various sources of client risk data and machine-learning approaches. Findings: Client risk classification models can accurately predict suspicious future transactions. Adding accounting data and credit score information to client risk classification dramatically improves accuracy. This makes it easier to balance the risk of missing suspicious transactions with the need to reduce the number of false positives. Practical implications: The suggested approach with readily available data sources and a focus on classifying client risk in a dynamic model can help banks significantly improve their efficiency by targeting their AML efforts toward the riskiest clients. Originality/value: To the best of the authors’ knowledge, this study is the first to empirically explore machine learning in client risk classification, document how machine learning in client risk classification can significantly reduce false positives by incorporating novel, but readily available sources, such as credit risk and accounting data. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

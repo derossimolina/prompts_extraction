@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1536-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Institutional Arrangement for Macroproprudential Policy - On Differences Across the EU Countries",
+    "authors": "Matysek-Jȩdrych A.",
+    "year": "2018",
+    "doi": "10.2478/cer-2018-0010",
+    "abstract": "There is a growing consensus among both economists-academics and policymakers that there was at least one missing element of the financial safety net during the Global Financial Crisis. This element, which will probably improve financial stability (or protect against financial instability), is the macroprudential orientation in regulatory and supervisory frameworks. The main scope of the paper is the institutional dimensions of macroprudential policy. The principal purpose of the paper is to identify and assess, on a comparative, cross-EU-country basis, existing practices and developments in structuring a new dimension of the financial stability policy, i.e., a macroprudential one. The paper builds on existing theoretical considerations and the author's own empirical survey of country practices in applying a macroprudential framework. A comparative, cross-country analysis and a comparison of different sub-indices and overall index values are the basis for verifying hypotheses and empirically disentangling the institutional differences between macroprudential policy regimes in European Union countries. The paper sheds light on recent trends in macroprudential policy governance and qualitative aspects (democratic accountability and transparency), with special attention to the position of a central bank across the European Union countries. The conducted research is a basis for constructing ratings of macroprudential authority accountability and transparency across the EU countries, which gives an indication of the overall quality of the institutional arrangements. © 2018 Anna Matysek-Jȩdrych, published by Sciendo.",
+    "source": "Comparative Economic Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

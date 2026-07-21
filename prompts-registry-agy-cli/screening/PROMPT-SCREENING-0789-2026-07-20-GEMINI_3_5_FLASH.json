@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0789-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An inch of progress: new ethics opinion gets real about assistance to fraud and crime",
+    "authors": "Petterchak J.W.",
+    "year": "2022",
+    "doi": "10.1108/JFC-04-2021-0091",
+    "abstract": "Purpose: The purpose of this paper is to analyze the current law on the professional responsibility of American attorneys to combat financial crimes and developments in light of recent scandals and new ethics opinion from the American Bar Association. Further commentary is offered on the ethics of advancing the mission to not assist clients in financial wrongdoing. Design/methodology/approach: This paper offers a legal analysis of recent developments pertaining to the ethical regulation of attorney conduct regarding client involvement in financial crimes. Examination of these developments in light of contemporary best practices in the banking and financial services industry assists in determining how to improve the current regulatory approach. There is an extensive review of case law and both academic and professional literature. Findings: The findings of this paper indicate that a proactive culture exists that acknowledges the deficiencies that still exist in the regulation of attorney ethics to combat financial crimes by clients. Still, significant gaps remain that need to be addressed. Further issues remain unresolved in the context of key legal doctrines that set out clear, concise standards for knowledge and assistance. Originality/value: The value of this paper comes from the careful analysis of present best practices in banking and financial services regulation and how they could be better applied in the context of the attorney–client relationship. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

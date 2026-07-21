@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0458-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Electronic Evidence of Anti-Money Laundering Regimes: A Comparative Study Between United Kingdom, United States and Indonesia",
+    "authors": "Latuihamallo J.R.; Pujiyono; Cahyaningtyas I.",
+    "year": "2024",
+    "doi": "10.26512/lstr.v16i1.48449",
+    "abstract": "[Purpose] To explore how comparing proof with countries with substantial cryptographic transaction volumes and preparedness to perpetrate crypto money laundering crimes, such as the US and UK, can revolutionise eradicating money laundering crimes in Indonesia. [Methodology/approach/design] This study compares laws and regulations in Indonesia, the US, and the UK and examines how electronic evidence and expert witnesses can be crucial to crypto money laundering proof under each country's criminal procedural law. The study also examines how cryptocurrencies, blockchain systems, and emerging technologies impact law enforcement and legislators' approach to the AML regime. [Findings] The research reveals that, unlike in the US and UK, electronic evidence is not regulated in formal criminal procedure law in Indonesia. The US and UK have defined criteria for gathering and removing electronic evidence to ensure authenticity, validity, and integrity so that it may be generally accepted in court. The study recommends standardised protocols for the collection and analysis of electronic evidence, international protocols to coordinate anti-money laundering efforts across jurisdictions, mechanisms to ensure transparency and accountability in the collection and use of electronic evidence, and investments in technology and training to ensure law enforcement agencies have the tools and knowledge to use electronic evidence effectively. [Practical implications] The study's recommendations have practical implications for the Indonesian government, law enforcement agencies, and legislators. Adopting international protocols, standardised protocols for electronic evidence, and investing in technology and training can improve the anti-money laundering regime and aid Indonesia's fight against money laundering crimes. [Originality/value] This study contributes to understanding how electronic evidence and expert witnesses can be crucial to crypto money laundering proof under each country's criminal procedural law. The study's recommendations provide a roadmap for improving the anti-money laundering regime in Indonesia. They can be used as a reference for countries facing similar challenges in combating money laundering crimes. © 2024 Universidade de Brasilia. All rights reserved.",
+    "source": "Revista de Direito, Estado e Telecomunicacoes"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1168-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Perceptions of Barriers to Conducting Effective AML Investigations",
+    "authors": "Vineer A.",
+    "year": "2021",
+    "doi": "10.1093/police/paaa025",
+    "abstract": "For many years, banks have been spending billions of pounds to combat money laundering and terrorist-financing activity but are falling short of both local and global expectations, despite extensive regulatory guidance. The aim of this research was to examine what barriers there might be in conducting effective anti-money laundering (AML) investigations. There is little guidance to help banks consider the difficulties that might be faced when raising awkward questions with customers. The few studies that were identified accentuated poor internal practices and inadequate skills; however, there is little examination of the specific problems encountered. A mixed methods form of research was adopted using surveys and interviews, targeted at bank staff involved in AML investigations. The results indicated numerous difficulties when conducting enquiries, many of which centred around a fear of offending the customer. If bank staff are fearful of asking questions, it is clearly impossible to conduct satisfactory investigations. © 2020 The Author(s). Published by Oxford University Press. All rights reserved.",
+    "source": "Policing (Oxford)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

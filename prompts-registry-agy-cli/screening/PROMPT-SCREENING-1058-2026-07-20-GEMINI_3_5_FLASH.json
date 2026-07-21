@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1058-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The two ends of the crisis: The bankruptcies of the bank houses in 1864 views from top to bottom; [As duas pontas da crise: As falências das casas bancárias em 1864 vistas de cima a baixo]",
+    "authors": "Alvarenga T.; Mantuano T.",
+    "year": "2020",
+    "doi": "10.18232/alhe.1043",
+    "abstract": "This article aims to help elucidate one of the most critical moments of the recent Brazilian financial structure, the so-called Crisis de Souto, in 1864 in the city of Rio de Janeiro. For this, we use abundant quantified, serialized and georeferenced documentation, pointing out the nuances of the problems posed by the crisis with discursive sources that expand our analytical potential. We assume that it’s necessary to better understand the operation and business of bank houses and thus understand the reasons and the immediate effects of the crisis in that society. It’s not possible to underestimate the magnitude, scope and structuring nature of the Bank Houses for the nascent banking and financial system in the Plaza de Rio de Janeiro. © 2020 Instituto de Investigaciones Dr. Jose Maria Luis Mora. All rights reserved.",
+    "source": "America Latina en la Historia Economica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

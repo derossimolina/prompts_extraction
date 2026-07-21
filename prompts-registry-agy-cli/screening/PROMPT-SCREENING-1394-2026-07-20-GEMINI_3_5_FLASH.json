@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1394-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Unraveling flooding dynamics and nutrients' controls upon phytoplankton functional dynamics in Amazonian floodplain lakes",
+    "authors": "Kraus C.N.; Bonnet M.-P.; Nogueira I.S.; Lobo M.T.M.P.S.; Marques D.M.; Garnier J.; Vieira L.C.G.",
+    "year": "2019",
+    "doi": "10.3390/w11010154",
+    "abstract": "The processes in tropical floodplain lakes enable maintaining phytoplankton nutrient requirements over a hydrological year. The nutrients such as nitrogen, phosphorus and carbon compounds play an essential role in phytoplankton growth. However, the way that nutrients and phytoplankton interact and how this relationship varies seasonally in tropical freshwater ecosystems is not clear. In this study, we evaluate the relationship between phytoplankton-nutrients over the hydrological cycle in Amazonian floodplain lakes and verify if this relationship influences the biomass of cyanobacteria. We also check what factors linked to nutrients act in structuring phytoplankton community. Using the phytoplankton functional approach, we verified how their ability to respond to hydrological and environmental variations reflects the ecological conditions and investigated how these interactions work. The results show that the Amazonian floodplain lakes could maintain long-term nutrient enrichment status. The nutrients input conduces to cyanobacteria dominance, that allied to other factors, play an essential role in supporting the stability of the phytoplankton-nutrients relationship over the hydrological cycle. © 2019 by the authors.",
+    "source": "Water (Switzerland)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

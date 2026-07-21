@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0664-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bank Default's Factors Differentiation Based on License Withdrawal Reasons; [Дифференциация факторов банковских дефолтов по причинам отзыва лицензий1]",
+    "authors": "Zubarev A.; Shilov K.",
+    "year": "2022",
+    "doi": "10.17323/1813-8691-2022-26-1-69-103",
+    "abstract": "The landscape of the Russian banking sector has changed significantly over the past few years, with the number of banks having halved in 2013 since the new leadership of the Bank of Russia came in. This paper is devoted to the study of the reasons for the revocation of Russian banks' licenses, as well as to the identification of factors that increase or decrease the probability of license revocation for one reason or another. To identify the possible causes of revocations, we gathered data on all license withdrawals and cases of temporary administrations interventions in the period from January 1, 2013 to January 1, 2021, including official press releases of the Bank of Russia and the news background that accompanied each such case. Based on the analyzed information, all cases of revocations were classified into two groups of reasons: economic reasons and violations of anti-money laundering laws. Based on the results of the estimation of multinomial logistic regressions using official data from balance sheets and income statements of Russian commercial banks from the Bank of Russia website, we have identified factors contributing to the increase in the probability of license revocation for each reason on the horizon of one year. In particular, high bank profitability and the amount of government securities on the bank's balance sheet decrease the probability of revocation for economic reasons only, while high proportion of stocks in assets is typical for banks engaged in money laundering and falsification of financial reports. An increase in the share of loan loss provision and a decrease in the share of overdue debt were accompanied by an increase in the probability of license revocation only due to money laundering, which may also indicate fraud reporting and concealment of overdue debt. © 2022 Publishing House of the Higher School of Economics. All rights reserved.",
+    "source": "HSE Economic Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

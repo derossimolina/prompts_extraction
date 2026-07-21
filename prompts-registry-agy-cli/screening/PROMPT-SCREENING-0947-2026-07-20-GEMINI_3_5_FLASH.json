@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0947-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Housing as asset and payment: Construction, speculation, and financialization at the European periphery",
+    "authors": "Musaraj S.",
+    "year": "2023",
+    "doi": "10.1111/aman.13913",
+    "abstract": "Construction booms have dominated Albania's economy and politics since the late 1990s. These booms continued even during times of illiquidity. One of the sources of financing construction in Albania is the practice of klering (in-kind payments). In this practice, developers pay subcontractors in (future) apartments in exchange for materials and labor. I argue that, in klering transactions, housing serves as an asset and a means of payment. The practice of klering emerged at the interface of postcommunist transformations, neoliberal reforms, and the fetishization of housing as an asset of more durable and multifaceted economic and cultural value. While grounded in the local histories and values of housing, klering is made possible by a fuzzy property regime, systemic corruption, and widespread informality. At the same time, klering echoes other global patterns pertaining to housing, such as the rise of asset economy, financialization, and money laundering through real estate purchases. The klering economy echoes speculative logics and practices that are prevalent across and that link centers and peripheries, formal and informal markets. These economic logics generate uncertainty and ambiguity; they mobilize social networks and cultural imaginaries; and they thrive on and further reproduce deep social and economic inequalities. © 2023 The Authors. American Anthropologist published by Wiley Periodicals LLC on behalf of American Anthropological Association.",
+    "source": "American Anthropologist"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

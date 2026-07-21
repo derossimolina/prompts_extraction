@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0982-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Looking at ‘Crying Wolf’ from a Different Perspective: An Attempt at Detecting Banks Under- and Over-Reporting of Suspicious Transactions",
+    "authors": "Gara M.; Pauselli C.",
+    "year": "2020",
+    "doi": "10.1007/s40797-020-00122-3",
+    "abstract": "This study aims to assess banks’ compliance in reporting suspicious transactions. It does so by estimating an econometric model on the suspicious transaction reports (STRs) filed by individual Italian banks from each of the provincial districts they operate in. Regressors include (1) indicators of banks’ operational activities, (2) measures of money laundering risk and (3) proxies of economic activity, all of which at local level. At an operational level, the model provides a tool that supervisory authorities can use to detect potentially under-reporting intermediaries, thus better targeting off-site controls and on-site inspections. More in general, the results provide some insights on banks’ reporting behavior at large. The main threat to the effectiveness of anti-money laundering systems is considered the asymmetry in the incentives: since sanctions apply only to omitted reports, banks have an incentive to over-report, thus potentially flooding the authorities with noise (‘crying wolf’ syndrome). Results show that the STR-filing strategies adopted by the banks being scrutinized may not necessarily give rise to this scenario. © 2020, Società Italiana degli Economisti (Italian Economic Association).",
+    "source": "Italian Economic Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1855-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Following only some of the money in Russia",
+    "authors": "Burger E.",
+    "year": "2009",
+    "doi": "10.3200/DEMO.17.1.41-72",
+    "abstract": "Since 1998, Russia has not developed an effective anti-money-laundering (AML) system. The country has the legal framework and institutions for combating money laundering, but Russia continues to experience a high level of capital flight of illicit funds. Although it is impossible to precisely estimate the amount of money that has circumvented Russia's currency control system, it is probably approximately $7 billion. In this article, the author discusses some of the many reasons that Russia has had difficulty establishing an effective AML system.One reason is that it may be easier to launder money out of Russia than many other countries. Its banking sector is not well developed; many Russian banks exist simply to service the large enterprises that own them. At the same time, the country's regulators lack sufficient personnel, material assets, and political support to limit the high levels of illegal capital flight. Other contributing factors include Russian enterprises that circumvent transfer pricing rules through complex related-party transactions, pervasive governmental corruption, highly sophisticated organized crime groups, economic instability, and a limited commitment on the part of law enforcement to apply AML rules uniformly. This situation is unlikely to change in the foreseeable future, and, given the large amount of money involved, the Russians engaged in money laundering are assured that foreign individuals and organizations eager to profit from the process will assist them. Copyright © 2009 Heldref Publications.",
+    "source": "Demokratizatsiya"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

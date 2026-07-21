@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2259-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Client-Attorney Privilege: The Last Barrier to Tax Transparency?",
+    "authors": "Rao, S",
+    "year": "2026",
+    "doi": "10.59403/12j3psc",
+    "abstract": "Opacity in the global financial system, exacerbated by tax evasion and money laundering, has prompted a shift toward transparency, often intersecting with client-attorney privilege (C-AP). While C-AP is a fundamental cornerstone of the rule of law and the right to privacy, tax authorities increasingly report its misuse to shield non-legal activities and aggressive tax avoidance. This article examines the tension between the public interest in tax transparency and the protection of legal confidentiality. Through comparative analysis of common and civil law jurisdictions and insights from international focus groups, the research identifies patterns of misuse, such as blanket privilege claims and the misrepresentation of commercial advice as legal. It evaluates the impact of mandatory disclosure rules (MDR) and anti-money laundering (AML) regulations on traditional privilege boundaries. Ultimately, the author recommends good practices to prevent abuse while safeguarding genuine legal representation.",
+    "source": "WORLD TAX JOURNAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

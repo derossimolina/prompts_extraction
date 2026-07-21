@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0188-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk prevention and regulatory challenges in metaverse trading",
+    "authors": "Zuo X.; Ding H.",
+    "year": "2025",
+    "doi": "10.21314/JOP.2025.007",
+    "abstract": "With the continuous development of the metaverse and the deepening of people’s understanding of it, its internal activities and interactions have become increasingly complex, leading to discussions on how to effectively regulate various behaviors in the metaverse. This paper focuses on the metaverse’s regulatory model, which aims to ensure that activities in the metaverse are carried out within a framework of legal-ity, morality and security. We first define the regulation of digital asset transactions and explore the role of financial regulatory agencies. Next, we delve into the cen-sorship and filtering of content in the metaverse, especially the question of how to handle illegal content and address copyright issues. We also elaborate on the impor-tance of identity authentication, while emphasizing the necessity of protecting user privacy. We then discuss virtual land and real estate development, analyzing the def-inition and attributes of virtual land and how to plan its development and utilization. In addition, we also explore the characteristics of digital currency transactions and propose strategies and rules for preventing money laundering. Finally, we analyze the possible legal responsibilities and dispute resolution mechanisms that may arise in the metaverse, and we predict the future of regulatory models and the overall challenges they will face. This study provides readers with comprehensive insight into the regulation of the metaverse, aiming to provide useful guidance for future research and practice. © 2025 Infopro Digital Risk (IP) Limited.",
+    "source": "Journal of Operational Risk"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

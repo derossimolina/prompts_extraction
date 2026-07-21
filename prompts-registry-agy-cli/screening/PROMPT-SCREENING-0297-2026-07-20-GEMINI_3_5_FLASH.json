@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0297-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Frauds and Their Controls: Some Scholarly Reflections",
+    "authors": "Levi M.",
+    "year": "2025",
+    "doi": "10.1086/736347",
+    "abstract": "Frauds vary with opportunities and controls in Global North countries, but also elsewhere in the developed world. Fraud rates against individuals have been rising in many countries, generating pressure for more preventative work on “enablers” such as banks, social media businesses, auditors, and lawyers. There do not appear to be embedded social movements against elite white-collar crime in the United States or elsewhere, but episodic campaigns against kleptocracy and money laundering have had some effects. Except for schemes requiring banks to reimburse individual victims, and largely civil litigation against financial intermediaries and alleged fraudsters, only Italy, China, Switzerland, the UAE, and the US have generated large sums from asset forfeiture despite an international move toward tougher civil and criminal asset recovery from fraud and money laundering. Data-sharing public private partnerships are necessary but not sufficient fraud prevention approaches. Generic advertising and warnings have little effect; more targeted help offers better prospects. Social engineering of victims remains a major challenge for banks, regulators, and law enforcement. For frauds against government, more attention is needed to social network analysis behind corporate fronts. Greater skepticism among internal and external auditors to accounts provided by senior executives is also needed. © 2025 The University of Chicago. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+    "source": "Crime and Justice"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

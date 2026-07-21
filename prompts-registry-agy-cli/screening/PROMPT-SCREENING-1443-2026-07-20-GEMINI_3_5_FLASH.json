@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1443-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Reforming and Performing the Informal Economy: Constitutive Effects of the World Bank's Anti-informality Practices in Kosovo",
+    "authors": "Danielsson A.",
+    "year": "2016",
+    "doi": "10.1080/17502977.2015.1137393",
+    "abstract": "The World Bank has for over a decade tried to formalize the informal economy in Kosovo. However, local journalists and businessmen among others provide an alternative understanding of informality that problematizes the World Bank’s view and actions. Against this backdrop, the article analyses the constitution and the constitutive effects of the World Bank’s anti-informality operations in Kosovo between 1999 and 2014. Drawing on Pierre Bourdieu’s power analytics, the article claims that the Bank’s agenda, and the economic ideas enacted through it, does structure and shape informal economic practices on the ground. Yet this structuring involves two forms of misrecognition. As a result, informality is paradoxically constituted (in novel ways) and reconstituted through the World Bank’s imposed anti-informality agenda. The article concludes with a discussion of how this underlines the need for policy solutions that depart from liberal peacebuilding’s subject–object distinction to form instead around an acknowledgement of informality as emergent and transforming throughout international interventions. © 2016 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Journal of Intervention and Statebuilding"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

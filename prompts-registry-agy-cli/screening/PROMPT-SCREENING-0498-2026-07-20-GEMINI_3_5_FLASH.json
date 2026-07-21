@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0498-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Institutional pressures and RegTech challenges for banking: The case of money laundering and terrorist financing in Lebanon",
+    "authors": "Bakhos Douaihy H.; Rowe F.",
+    "year": "2023",
+    "doi": "10.1177/02683962231152968",
+    "abstract": "As banks face heightened levels of regulatory challenges, many of them, especially those in developing countries, are struggling to maintain their reputations. This paper addresses the following questions: How do commercial banks in developing countries like Lebanon respond to institutional pressures for compliance concerning anti-money laundering (AML) and counter-financing of terrorism (CFT)? How do Regulatory Technology (RegTech) solutions contribute to solving their compliance problems in this domain and why may the potential of RegTech be limited in the Lebanese context? To answer these questions, we conducted a field study among Lebanese commercial banks and their vendors. Based on thematic analysis, findings reveal the importance of technology for enhancing compliance of Lebanese banks with international regulations, especially US ones, thereby avoiding sanctions. Thus, the adoption of RegTech is mainly due to coercive pressures, whereas the choice of RegTech solutions is highly dependent on mimetic and normative forces, and happens later. Results also show that manual processes are insufficient for compliance due to the huge number of regulations and transactions. Hence, RegTech for AML/CFT is notably adopted for the efficient screening of clients and monitoring of their transactions. These solutions enhance decision-making processes for compliance teams, which become effective when the banks ensure an adequate interaction between employees and the new technologies. However, RegTech presents several additional challenges that have to be overcome for effective compliance such as finding the right vendors and ensuring data quality. Moreover, the geopolitical context in developing countries like Lebanon limits the potential of RegTech for AML/CFT. © Association for Information Technology Trust 2023.",
+    "source": "Journal of Information Technology"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

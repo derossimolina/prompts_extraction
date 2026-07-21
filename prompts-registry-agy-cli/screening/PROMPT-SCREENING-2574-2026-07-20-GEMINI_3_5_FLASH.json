@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2574-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE ROLE OF GREEN INNOVATIONS IN ATTRACTING INTERNATIONAL INVESTMENT WITHIN ECOLOGICAL MARKETS",
+    "authors": "Liu, Z; Monolbaeva, A; Huang, J; Rassadnykova, S; Nataliia, K",
+    "year": "2026",
+    "doi": "10.23925/2179-3565.2026v17i1p134-150",
+    "abstract": "The relevance of this study stems from the imperative to discern the most investment-attractive green innovations in light of the global climate crisis, to ensure sustainable development, and to establish a systemically integrated international investment and environmental circuit. The purpose of this study is the objective identification and analytical structuring of priority green innovations with the highest investment potential, particularly in terms of attracting international capital and optimizing the functionality of global financial and environmental instruments. The research methods employed include the typology of green innovations, the computation of investment and environmental metrics, the formulation of the Green Innovation Investment Attractiveness Index (GIIAI), the evaluation of investment efficiency and conversion, a comprehensive assessment of international environmental interactions. Among the 15 green innovations analyzed, the top five (Photovoltaic Megaparks, Green Building Materials, ESG Scoring Platforms, MRV Systems, Smart Grid Energy Networks) were identified, achieving a GIIAI range of 0.85-0.92, investment mobilization of 77-85%, and ROI conversion rates of 0.77-0.83, with a Performance Index (PI) of 0.83-0.87. These innovations have facilitated comprehensive international environmental integration through Foreign Direct Investment (FDI), ESG Bonds, the UNFCCC, the Asian Infrastructure Investment Bank (AIIB), and Climate Fintech Funds, thereby confirming the strategic relevance and pivotal role of key drivers within global investment and environmental markets. Scientific novelty of this study lies in the development of a comprehensive indicator, the Green Innovation Investment Attractiveness Index (GIIAI), predicated on entropy weighting and normalized investment and environmental metrics, which substantiates the systemic allure of green innovations within the framework of international financial and environmental integration. Keywords: Photovoltaic megaparks, Green building materials, ESG scoring platforms, Monitoring, Reporting and Verification systems, Smart grid energy networks, Climate fintech funds, Entropy weighting method",
+    "source": "RISUS-JOURNAL ON INNOVATION AND SUSTAINABILITY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1880-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Chinese laundry: International drug trafficking and Hong Kong's banking industry",
+    "authors": "Gaylord M.S.",
+    "year": "1990",
+    "doi": "10.1007/BF00728224",
+    "abstract": "Hong Kong - Britain's Crown Colony in Asia - is reputed to be one of the world's leading centers for the laundering1 of drug money. Located on the southeast coast of China, Hong Kong is not far from the Golden Triangle in Burma, Laos and Thailand, the source of much of the world's heroin supply. Ethnic Chinese criminal organizations based in Hong Kong and elsewhere have long been involved in the refining, transporting and financing of Southeast Asian heroin. With its bank secrecy laws, its large and sophisticated international banking industry, and its complete absence of currency exchange controls, Hong Kong has all of the necessary components of a modern financial secrecy jurisdiction. It is alleged that billions of dollars are being washed in Hong Kong by both local and overseas drug traffickers, to be reinvested eventually throughout the world. Hong Kong government officials deny the allegation, and cite other reasons to account for the vast sums of U.S. currency that are being repatriated to the West Coast. This paper examines critically the arguments for both positions. © 1990 Kluwer Academic Publishers.",
+    "source": "Contemporary Crises"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

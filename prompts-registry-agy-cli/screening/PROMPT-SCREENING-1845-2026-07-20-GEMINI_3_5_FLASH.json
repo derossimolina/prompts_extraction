@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1845-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Determinants of financial distress and bankruptcy in highly levered transactions",
+    "authors": "Halpern P.; Kieschnick R.; Rotenberg W.",
+    "year": "2009",
+    "doi": "10.1016/j.qref.2008.09.002",
+    "abstract": "Prior literature on highly levered transactions (levered buyouts or levered recapitalizations) has emphasized either changes in governance or the structuring of their financing in helping these firms avoid financial distress or bankruptcy. Observing a sample of HLTs over time, we observe that debt composition is a more critical influence than proposed changes in governance for the likelihood of an HLT avoiding financial distress or bankruptcy. Such evidence is consistent with the [Chemmanur, T. & Fulghieri, P. (1994). Reputation, renegotiation, and the choice between bank loans and publicly traded debt. Review of Financial Studies 7, 475-506] model and suggests that the critical factor is the ability to informally renegotiate debt terms with a few lenders. © 2008 The Board of Trustees of the University of Illinois.",
+    "source": "Quarterly Review of Economics and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

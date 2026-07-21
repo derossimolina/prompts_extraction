@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2443-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Research on financial coordinated supervision platform and supervision strategy for online payment under paperless trade",
+    "authors": "Song, P; Huang, D; Yang, QF; Zhang, Y",
+    "year": "2013",
+    "doi": "10.1504/IJSTM.2013.055635",
+    "abstract": "Money laundering and credit fraud are the biggest bottleneck for the development of paperless trade, financial coordinated supervision for online payment is significant for the development of paperless trade. The key to financial coordinated supervision is to make the information of 'business flow, governmental affairs flow, capital flow and logistics' be effectively integrated, and to make these information reliable clues to effectively identify suspicious financial transactions. Based on analysing the problems of existing payment models in China, we propose an industrial value chain model of financial coordinated supervision for online payment under paperless trade. Based on the model, we design a financial coordinated supervision platform for online payment under paperless trade. The framework design of the platform includes design objective and function module, and the detailed design of the platform consists of business process, data standardisation, and interface standardisation. We analyse the financial coordinated supervision strategy for online payment under paperless trade.",
+    "source": "INTERNATIONAL JOURNAL OF SERVICES TECHNOLOGY AND MANAGEMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

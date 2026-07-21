@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1292-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CPEC: a route for outflow of illegal wealth from Pakistan",
+    "authors": "Khan W.A.; Jawaid S.T.; Siddiqui D.A.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-06-2020-0065",
+    "abstract": "Purpose: This study examines the new venue of moving illegal wealth from Pakistan under the umbrella of China–Pakistan Economic Corridor (CPEC). The study first discussed the features of CPEC in short and how it may bring stability and a new phase of development in the region and also in Pakistan. The review of related literature has suggested that previous studies are more focused on the advantages of CPEC and are almost neglecting the cons of the said project. Later, the research puts light on the problem of money laundering from Pakistan through CPEC and related trade transactions; Walker’s Gravity model has been used to calculate the attractiveness of money laundering. It has highlighted that China’s attractiveness for moving illegal wealth from Pakistan is increased in recent years; the risk of an increase in the amount of money laundered is also analyzed through the Fan Chart technique. Attributes which are making China more attractive for Pakistani wrongdoers are also discussed. The study aims to conclude that if the problem of money laundering will be addressed properly, the CPEC will play a vital role in bringing stability in Pakistan. Design/methodology/approach: This study uses a descriptive and quantitative approach. This study uses the Walker’s Gravity Model updated by Unger et al. (2006) to measure money laundering in Pakistan. A newly developed technique for forecasting that is Fan Chart has been used to predict the trend of China’s attractiveness for money laundering as a preferred destination from Pakistan. Findings: The study finds out that China is already increasing its ranking as a favorite destination for money laundering from Pakistan. Fan Chart analysis suggests that the attractiveness score will be increased. Practical implications: The study helps in highlighting the problem of increase in money laundering from Pakistan through China under the umbrella of CPEC. Originality/value: To the best of the authors’ knowledge, there is no study found on the topic of the problem of money laundering linked with CPEC, and this is the first effort to point out the problem. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1303-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulatory and legal component in ensuring state’s financial security",
+    "authors": "Rushchyshyn N.; Medynska T.; Nikonenko U.; Kostak Z.; Ivanova R.",
+    "year": "2021",
+    "doi": "10.3846/btp.2021.13580",
+    "abstract": "The purpose of the study is to scientifically substantiate the place and role of regulatory support in the formation of financial security, study the factors influencing its level and identify ways to improve it. The study used general scientific and special research methods: Analysis, synthesis, methods of systematization and logical generalization − when disclosing the theoretical provisions of the financial security of the state and its legal regulation; correlation and regression analysis, econometric methods and models − to determine and study the influence of factor values on the volume of gold and foreign exchange reserves of the NBU; method of expert assessments − when developing recommendations for the formation of an effective mechanism for ensuring the financial security of the state, a graphical method. The nature and significance of the legal support of financial security are outlined, which is aimed at creating an improved legal framework and a system for controlling financial business entities in order to detect and prevent financial crimes. The factors influencing the level of the state’s financial security are considered. Their influence on the volume of gold and exchange reserves of the National Bank of Ukraine which in the conditions of financial stability should be balanced is determined. The mechanism to ensure the state’s financial security is offered, which further contributes to the implementation of a set of legal, structural and organizational, procedural, personnel, technological and resource tasks. In the future special attention should be paid to improving the current legal framework that would protect the interests of entities of a financial system from illegal encroachment and help recover offense damages. All these measures will contribute to raising the level of the state’s financial security and will help integrate the state into the international financial and economic space. © 2021 The Author(s).",
+    "source": "Business: Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

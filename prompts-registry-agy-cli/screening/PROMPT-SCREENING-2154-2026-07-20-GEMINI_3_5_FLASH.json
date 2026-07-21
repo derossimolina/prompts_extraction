@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2154-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Mother as Container: Placental Process and Inner Space",
+    "authors": "Raphael-Leff J.",
+    "year": "1991",
+    "doi": "10.1177/0959353591013005",
+    "abstract": "An unconscious paradigm informing psychosocial structuring of mothers is explored: the initial placental interchange of nutrients and waste between pregnant woman and foetus, serves as metaphor/model for postnatal interaction, when a mother contains and metabolizes her preverbal infant ‘s unbearable anxieties, returning them in tolerable form. Unconscious conflation of placental process with maternal functioning perpetuates female primary care, privileging biological mothers. On a societal level, unconscious residues of universal early transactions with female primary caregivers, promote women as nurturing/waste-disposing ‘placental containers’. This projection has wider cultural manifestations in the simultaneous idealization of mothers and devaluation of both women and maternal function. Creative inner space, attainable by internalizing the primary caregiver-as-container is confounded with female procreative space resulting in women being exploited as repositories for containment of male cultural productivity and waste. © 1991, Sage Publications. All rights reserved.",
+    "source": "Feminism & Psychology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

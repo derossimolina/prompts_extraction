@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0322-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Theoretical and Methodological Perspective on the Prerequisites of Emergence and Peculiarities of the Functioning of Decentralized Finance; [Теоретико-методологический взгляд на предпосылки возникновения и особенности функционирования децентрализованных финансов]",
+    "authors": "Abramova M.A.; Krivoruchko S.V.; Lunyakov O.V.; Fiapshev A.B.",
+    "year": "2025",
+    "doi": "10.26794/2587-5671-2025-29-1-80-96",
+    "abstract": "Existing studies of the problem of the emergence and development of decentralized finance (DeFi) are largely limited to non-principled clarification of certain positions and formulations, with emphasis on technical and technological innovations, far from the level of fundamental research. The authors set the task of theoretical understanding of the ongoing transformation processes in the financial sphere. The purpose of the study was to identify the conditions, driving forces and nature of the process of development of decentralized finance; to define DeFi and identify its sustainable features; and to substantiate the possibilities of considering DeFi as a separate economic category and institution. Setting the goal determined the sequence of its solution in two stages. The first stage implied a higher level of abstraction, an appeal to the theory of money and its modern achievements. The second stage — “movement to the surface”, inclusion in the analysis of specifications accompanying the development of DeFi. The authors used systematic and logical methods, induction and deduction as the main methods, which allowed them to generalize and systematize the ideas about the essence of decentralized finance, identify problems in the modern scientific discourse. As a result, the causes are revealed, and the nature of the process of emergence and development of the sphere of decentralized finance is substantiated, the definition of DeFi is given, the principles of their functioning are highlighted and recommendations on structuring the conceptual apparatus of DeFi are developed. It is concluded that the process of formation and development of decentralized finance is objective and driven by changes in the monetary sphere, technological advances, and problems of traditional finance. At the same time, the stable features of DeFi determine the potential of reproduction of financial relations on a decentralized basis, but at the same time do not allow us to qualify DeFi as an independent category and institution. The results of the study can be used both in elaborating the concept of DeFi development and taken into account as part of the regulatory response to DeFi. © Абрамова М.А. Криворучко С.В., Луняков О.В., Фиапшев А.Б., 2025.",
+    "source": "Finance: Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

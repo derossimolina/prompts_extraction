@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0378-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Complex networks-based anomaly detection for financial transactions in anti-money laundering",
+    "authors": "Oliveira R.M.A.; Sant'Anna A.M.O.; Ferreira P.H.",
+    "year": "2025",
+    "doi": "10.1016/j.fsidi.2025.302005",
+    "abstract": "Money laundering is a global threat that undermines the integrity of the financial system and the stability of the world economy. This paper proposes an approach based on complex network techniques to support investigating financial transactions of individuals suspected of money laundering. The study includes analyses for anomaly detection, community detection, density analysis, and cycle identification, aiming to capture complex patterns of interaction among accounts. Anomaly detection was based on a Graph Neural Networks model. The results highlight the model's effectiveness, as indicated by the Silhouette score and Davies-Bouldin index metrics obtained on the test set, which were 0.83 and 1.59, respectively. This suggests that the groups of anomalous and normal accounts are well represented in terms of similarity and dissimilarity. The study also incorporates various financial indicators, such as moving averages over different time windows of transactions. The K-means algorithm was employed to identify patterns in financial transactions and determine the number of clusters. Correspondence Analysis was applied to establish similarities among the transactional profiles of the investigated individuals. The findings are relevant to the investigative process, providing analytical support for monitoring and prioritizing cases and identifying potential transactional patterns and groups of individuals possibly involved in illicit activities, such as drug trafficking, fraud, and scams. © 2025 Elsevier Ltd",
+    "source": "Forensic Science International: Digital Investigation"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

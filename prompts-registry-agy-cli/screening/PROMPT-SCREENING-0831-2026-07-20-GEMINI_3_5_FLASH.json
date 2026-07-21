@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0831-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Explaining suspicious wealth: legal enablers, transnational kleptocracy, and the failure of the UK’s Unexplained Wealth Orders",
+    "authors": "Heathershaw J.; Mayne T.",
+    "year": "2023",
+    "doi": "10.1057/s41268-023-00296-0",
+    "abstract": "Unexplained Wealth Orders, introduced in the United Kingdom in 2017, were designed to tackle the problem of transnational kleptocracy. However, our research on real estate purchases in the UK by elites from post-Soviet kleptocracies demonstrates that incumbent elites are invulnerable to attempts to question the legality of their wealth while exiles from these states often lose their property. From our original dataset of properties, we take a single exemplary case: one of incumbents Dariga Nazarbayeva and Nurali Aliyev, the daughter and grandson of Kazakhstan’s first president, Nursultan Nazarbayev who were subject to one of the few UWOs issued and thereby had their properties frozen. In a close analysis of the legal documents from this case, this paper analyses how the properties were purchased and how the sources of wealth were subsequently explained as legitimate. We elaborate an exemplary case of transnational kleptocracy revealing how British legal services actively, passively, and structurally enable specific acts of money laundering. We further expose how they effectively explain kleptocratic wealth and why they are likely to continue to do so despite recent changes to laws and regulations. © 2023, Springer Nature Limited.",
+    "source": "Journal of International Relations and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

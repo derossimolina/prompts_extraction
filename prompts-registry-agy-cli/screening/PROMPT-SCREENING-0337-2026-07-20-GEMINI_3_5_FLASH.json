@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0337-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Incumbency Advantage and the Enabler Effect: How Londongrad Beat the UK Anti-Money Laundering Regime",
+    "authors": "Heathershaw J.; Mayne T.; Prelec T.; Tokubayev S.",
+    "year": "2026",
+    "doi": "10.1080/09668136.2025.2549806",
+    "abstract": "The emergence and survival of ‘Londongrad’, despite the UK anti-money laundering regime, is an intellectual and policy conundrum. We analyse an original dataset of £2 billion of domestic real estate in the United Kingdom owned by elites from post-Soviet states in the period 1998–2020. Our results show an incumbency advantage: exiles are more likely to lose their property, while incumbent elites—even from hostile states such as Russia—retain theirs. Cases that appear to diverge from this rule may be explained by effective legal enabling, which allows a small number of exiles to beat the odds. © 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Europe-Asia Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

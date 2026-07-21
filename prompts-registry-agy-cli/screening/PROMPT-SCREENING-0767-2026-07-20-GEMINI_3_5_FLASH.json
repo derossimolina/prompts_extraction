@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0767-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Evaluating the cost of anti-corruption in political and economic terms: a case study approach",
+    "authors": "Hartwig A.",
+    "year": "2023",
+    "doi": "10.1108/JFC-09-2022-0226",
+    "abstract": "Purpose: The practicality of anti-corruption efforts has been debated in development circles since the 1990s (World Bank, 1998). Moving beyond monetary metrics, this paper seeks to contribute to the discussion by assessing whether the cost of anti-corruption measures is proportionate to international concerns about corruption. This study aims to focus on the Namibian “Fishrot” files, an ongoing scandal that involves bribery, tax evasion and cross-border exploitation for access to the country’s fishing grounds. The Fishrot files implicate parties in both Namibia and Iceland, and the case provides insight into why the costs of financial crime and anti-corruption may be unduly borne by the global East. Especially because corruption stands to disrupt political and economic stability in developing countries, an understanding of these costs is essential for preventing further barriers to development. Design/methodology/approach: This study focuses on the case of the Namibian “Fishrot” files to compare the cost of financial crime with the price of fighting it. It incorporates cost-benefit considerations on anti-corruption from political, economic and environmental perspectives. Findings: This paper suggests that an imbalance in the response to corruption in the global East and West stands to damage development progress in countries like Namibia. It encourages a more holistic approach to anti-corruption efforts, one that acknowledges the heightened cost and burden of such efforts in developing countries. Originality/value: This study provides a broadened perspective for assessing the effectiveness of anti-corruption initiatives, particularly for cases that involve cross-border financial crime between developing and developed countries. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

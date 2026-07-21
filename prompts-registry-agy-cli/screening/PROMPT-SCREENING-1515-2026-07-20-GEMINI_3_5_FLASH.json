@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1515-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Using script analysis to understand the financial crimes involved in wildlife trafficking",
+    "authors": "Viollaz J.; Graham J.; Lantsman L.",
+    "year": "2018",
+    "doi": "10.1007/s10611-017-9725-z",
+    "abstract": "Wildlife trafficking has evolved in the last few decades from a critical conservation concern to a global security threat. What was once thought to be small-scale opportunistic behavior has now become a large organized trade partly run by criminal networks. Most research on wildlife trafficking has focused on the drivers of the trade and its modus operandi for catching, moving, and selling wildlife. There has been little research on the financial aspects of wildlife trafficking, despite how useful financial laws could be to prosecute traffickers in countries where environmental laws are weak. This research uses the crime script model and Gottschalk’s (Journal of Financial Crime, 17(4), 441–458, 2010) financial crime classification to study the financial crimes committed by wildlife traffickers during the trafficking process. Results show that financial crimes, including corruption, fraud, and money laundering, are part of every stage of the trafficking process for every actor involved. This research locates “pinch points” where it is most effective to intervene to dismantle the financial networks involved in wildlife trafficking and suggests interventions based on situational crime prevention principles. © 2018, Springer Science+Business Media B.V.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

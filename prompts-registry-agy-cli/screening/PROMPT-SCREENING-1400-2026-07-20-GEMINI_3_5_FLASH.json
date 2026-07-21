@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1400-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Beyond Banks: A Case for Interagency Collaboration to Combat Trade-based Money Laundering in Africa",
+    "authors": "Azinge-Egbiri N.V.",
+    "year": "2022",
+    "doi": "10.1163/17087384-bja10070",
+    "abstract": "Regulation regarding trade-based money laundering (TBML) has focused mainly on documentary trade financing arrangements, which are bank intermediated. Yet, African countries predominantly employ alternative forms of trade financing models that span beyond banks' usual purview. These alternative models are supported by many actors across the supply chain that are not holistically supervised given the fragmented regulatory framework at the global and domestic levels. In contending that TBML significantly undermines intra-African trade and therefore amounts to a non-tariff barrier (NTB) to trade, this article challenges the need for globally transplanted solutions to address TBML. Rather, it argues for the introduction of new approach: a country focused experimental legislation that facilitates inter-agency collaboration beyond banks. This approach would ensure a homegrown, responsive, and legitimate framework that encompasses currently un-supervised actors. It contends that if the experimental legislation works at a country level, it may then be cascaded to the African Union level for contextual adaptability across other African countries. © 2022 Copyright 2022 by Koninklijke Brill NV, Leiden, The Netherlands.",
+    "source": "African Journal of Legal Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

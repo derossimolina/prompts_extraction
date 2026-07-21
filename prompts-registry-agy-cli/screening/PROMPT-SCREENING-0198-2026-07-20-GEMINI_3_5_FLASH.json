@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0198-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Planning spatial obsolescence: residential segregation and the racist theory of (anti-)value",
+    "authors": "Markley S.",
+    "year": "2024",
+    "doi": "10.1177/02637758241261218",
+    "abstract": "An outpouring of critical sub/urban scholarship in recent years has explored the historical and ongoing linkages between race, real estate, and space in the United States. Much of this literature has positioned residential segregation as crucial for structuring the geographies of capital accumulation, highlighting how segregation delimits places for extraction and dispossession. In this essay, I build from the foundations this literature lays by bringing together Charles Abrams’ concept of “the racist theory of value” (RTV) and David Harvey’s notion of “anti-value” to illuminate the centrality of racialized devaluation in the accumulation process in the US. Specifically, I contend that the RTV, in its role in entrenching residential segregation and collapsing race and value together in space, has helped to demarcate and contain the devaluation that capitalism requires in Black residential spaces. As a key innovation for real estate capital to manage the geographies of (anti-)value, the RTV ensures that the economic losses generated in the accumulation process are felt most acutely in Black communities. In this way, the RTV constitutes a form of planned spatial obsolescence wherein the restricted movement of Black people is converted into the controlled movement of devaluation. © The Author(s) 2024.",
+    "source": "Environment and Planning D: Society and Space"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

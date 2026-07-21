@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2293-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money Mules and Cybercrime Involvement Mechanisms: Exploring the Experiences and Perceptions of Young People in the Netherlands",
+    "authors": "Bekkers, L; Van Houten, Y; Spithoven, R; Leukfeldt, ER",
+    "year": "2023",
+    "doi": "10.1080/01639625.2023.2196365",
+    "abstract": "Money mules play an essential role in the execution of financially-motivated cybercrimes. The bank accounts of money mules, who are often young individuals, are used to hide and launder stolen money, allowing members of cybercriminal networks to maintain their anonymity. In order to better understand the pathways that lead to cybercrime, this explorative study aims to map the experiences and perceptions of Dutch young people related to money muling. To this end, an online survey was administered among more than 3,000 individuals, aged between 16 and 25. Our analysis showed that almost ten percent of the respondents have been approached by money mule recruiters at some point. Most were contacted online via social media platforms, such as Snapchat and Instagram, but also offline, by their peers at school or by acquaintances or friends. Less than one percent of the respondents confessed to have actually been a money mule. The respondents' awareness about the risks connected to money muling was rather low and they seemed to underestimate the consequences of being a money mule, which makes them vulnerable to recruiters. Some young people also find it normal to be approached by recruiters and acceptable for others to use their bank accounts.",
+    "source": "DEVIANT BEHAVIOR"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

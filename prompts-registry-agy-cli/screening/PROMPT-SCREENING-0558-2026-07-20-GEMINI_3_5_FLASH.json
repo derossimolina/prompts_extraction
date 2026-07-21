@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0558-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Measuring and Implementing Spatial Justice in Lakeside Tourist Destinations: A Study on the Perception of Indigenous People on the West Coast of Erhai Lake; [湖滨旅游地空间正义性测度及其实现路径——洱海西岸原住民感知研究]",
+    "authors": "Fang S.; Wang W.; Wang Y.",
+    "year": "2023",
+    "doi": "10.13284/j.cnki.rddl.003761",
+    "abstract": "In recent years, the ecological control of lakeside areas and the issue of spatial justice and injustice have aroused widespread interest in the academic community. This field of research would benefit from greater scientific measurement of the degree of spatial justice. Using the results of relevant studies of several lakeside areas, we applied the principles of space production (sensu Lefebvre), Fraser's scale theory of social justice, and the factor analysis method of structuring quantitative models. With this approach we constructed a spatial justice measurement model of lakeside tourism sites from the perspective of the perception of indigenous people, a vulnerable group, and the right holders of tourist service land. Taking the west bank of Erhai Lake as the research object, the villagers were surveyed by using the five-point Likert scale, and the model was tested and measured. The key results were as follows. (1) The spatial justice perception model of lakeside tourism destination can be characterized by the dimensions of recognition justice, distribution justice, participation justice and 13 measurement indexes. (2) The perceived value of spatial justice of the \"Haixi\" villagers with respect to the tourism destination of the lake is quantified as 2.67, which is biased towards injustice in general, especially in the dimension of distributive justice (2.34). (3) The results of this study provide a preliminary measurement tool for the assessment of spatial justice of lakeside tourism destinations and can inform the decision-making of the relevant government departments to improve the local perception of spatial justice in areas where indigenous people live. Another outcome of this study is the proposal that the easement system is an effective way to realize the spatial justice of the \"Haixi\" tourist destination. However, it is worth noting that after the lakeside redevelopment, fewer tourism operators in the \"Haixi\" area can sustain themselves; thus, it will be difficult to add tourism business opportunities in an area that already has significant space constraints. The repercussions of the space limitations have spread to to the periphery of the first and second control areas and even to the entire Dali, Yunnan Province. In Dali, Yunnan Province, through fair market transactions between the rights holders of tourism real estate and tourists, the redistribution of tourism economic income can be realized. The crux of solving the spatial injustice of the lakeside tourism destination of Erhai Lake lies in the institutional \"confirmation\" of the rights and interests of Erhai Lake and its lakeside area (the largest area of tourism service) and through the imposition of different degrees of \"paid use of Erhai resources\" on all tourism operators, as well as government payments to increase the compensation given to the indigenous people in the lakeside area. In other words, only by establishing a community of co-construction, sharing, and co-governance of rights holders and tourists in the Erhai Lake-and in tourism destinations generally-can the spatial justice be truly realized. © 2021 Tunnel Construction. All rights reserved.",
+    "source": "Tropical Geography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

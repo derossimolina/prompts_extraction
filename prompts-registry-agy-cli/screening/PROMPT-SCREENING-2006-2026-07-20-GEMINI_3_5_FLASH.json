@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2006-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Joint effects of principles-based versus rules-based standards and auditor type in constraining financial managers' aggressive reporting",
+    "authors": "Jamal K.; Tan H.-T.",
+    "year": "2010",
+    "doi": "10.2308/accr.2010.85.4.1325",
+    "abstract": "Managers sometimes implement accounting standards (such as the lease standard) opportunistically to move debt off balance sheet. Regulators and standard-setters are considering the adoption of principles-based accounting standards to reduce such opportunism. We report the results of an experiment in which experienced financial managers, with incentives to structure a transaction off balance sheet, take a reporting position on how a lease is to be reported. We manipulate the type of accounting standards (principles-based, rules-based) and the type of auditor (principles-oriented, rules-oriented, or client-oriented). Results show that for a rules-based standard, auditor-type does not influence participants' propensity to report the transaction off balance sheet. However, for a principles-based standard, auditor-type matters in that this propensity is lowest when the auditor is principles-oriented as opposed to rules- or client-oriented. Our results suggest that a move toward more principles-based standards is likely to result in improved financial reporting quality only when there is a corresponding shift in auditors' mindsets toward being more principles-oriented.",
+    "source": "Accounting Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

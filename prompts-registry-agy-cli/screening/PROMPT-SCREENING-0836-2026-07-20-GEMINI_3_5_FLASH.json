@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0836-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering in the United Arab Emirates: the risks and the reality",
+    "authors": "Teichmann F.M.J.; Wittmann C.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-01-2022-0014",
+    "abstract": "Purpose: This study aims to examine the possibility of laundering money through the United Arab Emirates (UAE), the perceived risk and the stark reality. That money laundering prevention mechanisms are being circumvented is evident by reference to the international assessments by the Financial Action Task Force and information from key informants. To develop effective improvements, the modus operandi of money laundering needs to be re-examined. Design/methodology/approach: The empirical findings are based on over 60 semi-standardized interviews with alleged criminal and expert compliance officers operating in an international arena. These findings were subject to a qualitative content analysis, while a further quantitative survey of around 200 compliance officers expanded on the techniques of money laundering. This served to explore whether there was a discrepancy between the presentation of money laundering in the literature in contrast to reality. Findings: Owing to the transnational nature of money laundering, the global financial market is dependent on the uniformity of anti-money laundering (AML) regulations. Despite immense progress, there are still several key weaknesses in the financial system of the UAE, such as the existence of Free Zones and the divergence of AML awareness. Research limitations/implications: The scope of the interviews is limited to the personal experience of the informants. This is mediated by seeking uniformity in answers as well as literature support. Originality/value: This paper, supported by empirical evidence, discerns why the current regulatory measures are minimally effective. There is an unmistakable need for the international coordination of financial regulatory bodies. The literature describes the occurrence of money laundering, but no studies have engaged to examine the pragmatic mechanism in place which allow money laundering to persevere despite the significant improvements of AML policies. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

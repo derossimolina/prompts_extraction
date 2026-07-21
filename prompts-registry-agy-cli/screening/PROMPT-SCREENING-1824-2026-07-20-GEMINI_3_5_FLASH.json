@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1824-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering recommendations for cash-based economies in West Africa",
+    "authors": "Mynhardt R.H.; Marx J.",
+    "year": "2013",
+    "doi": "10.22495/cocv11i1conf1p3",
+    "abstract": "Money laundering can boost corruption, worsen poverty, and bankrupt vulnerable financial institutions. In view of this, a study was conducted amongst the banks in West Africa, in cash-based economies, with the objective to ascertain the level of their Financial Action Task Force implementation. The study found that the implementation of the Financial Action Task Force recommendations in these countries was at different stages due to these countries being cash-based economies. The majority of these countries have anti-money laundering legislation but lack the capability to monitor and counter money laundering activities. This may be ascribed to a lack of adequate resources, expertise, investigations and prosecution capabilities. Some amendments to the Financial Action Task Force recommendations are proposed to incorporate cash-based economies in order to effectively combat money laundering.",
+    "source": "Corporate Ownership and Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

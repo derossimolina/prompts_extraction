@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0809-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Predictive Power of Random Forests in Analyzing Risk Management in Islamic Banking",
+    "authors": "Aysan A.F.; Ciftler B.S.; Unal I.M.",
+    "year": "2024",
+    "doi": "10.3390/jrfm17030104",
+    "abstract": "This study utilizes the random forest technique to investigate risk management practices and concerns in Islamic banks using survey data from 2016 to 2021. Findings reveal that larger banks provide more consistent survey responses, driven by their confidence and larger survey budgets. Moreover, a positive link is established between a country’s development, characterized by high GDPs and low inflation and interest rates, and the precision of Islamic banks’ survey responses. Analyzing risk-related concerns, the study notes a significant reduction in credit portfolio risk attributed to improved risk management practices, global economic growth, stricter regulations, and diversified asset portfolios. Concerns related to terrorism financing and cybersecurity risks have also decreased due to the better enforcement of anti-money laundering regulations and investments in cybersecurity infrastructure and education. This research enhances our understanding of risk management in Islamic banks, highlighting the impact of bank size and country development. Additionally, it emphasizes the need for ongoing analysis beyond 2021 to account for potential COVID-19 effects and evolving risk management and regulatory practices in Islamic banking. © 2024 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

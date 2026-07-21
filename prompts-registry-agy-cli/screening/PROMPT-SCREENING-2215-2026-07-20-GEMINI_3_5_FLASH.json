@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2215-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Georgian local government reform: State leviathan redraws boundaries?",
+    "authors": "Swianiewicz P.; Mielczarek A.",
+    "year": "2010",
+    "doi": "10.1080/03003930903560687",
+    "abstract": "Territorial fragmentation has been viewed as a problem in several countries of Central and Eastern Europe. Georgia is one of very few cases which has introduced an amalgamation reform dealing with this issue. The paper analyses the process of preparation and implementation as well as the consequences of the reform. It shows alternative reform proposals and discussions around them, which led to the selection of the most radical option of territorial consolidation. The paper briefly discusses the role of international aid programmes and especially of the Council of Europe (and the European Charter of Local Government) in structuring the discourse of the reform. On the basis of a public opinion survey and interviews, it shows that in spite of radical character of the reform it did not attract much of public attention, which is related to the fact that local government is not seen as an important element of the Georgian political system. In spite of initial declarations of the goals of the reform, the actual change was limited to the redrawing of administrative boundaries by the omnipotent (Leviathan) state and was not accompanied by parallel functional or fiscal decentralisation. According to some interpretations, the reform led to an even more centralised power structure. The price of the negative consequences of the amalgamation (such as local government being more distant from the citizens) has been paid, but the potential positive results of more capable and powerful local governments have not been achieved. Unreformed financial system has not allowed to reduce regional inequalities in capacity to finance local services either. Central government is afraid that decentralization may strengthen separatist tendencies undermining unity of the country and that is why the government is hesitant to introduce more decentralization. © 2010 Taylor & Francis.",
+    "source": "Local Government Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

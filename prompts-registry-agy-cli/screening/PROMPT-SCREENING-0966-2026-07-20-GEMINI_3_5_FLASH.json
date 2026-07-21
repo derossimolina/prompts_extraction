@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0966-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-Money Laundering Law in India: A 'Glocalization' Model",
+    "authors": "Narayan S.",
+    "year": "2019",
+    "doi": "10.1093/slr/hmy005",
+    "abstract": "The move towards harmonization of International Anti-Money Laundering (AML) regimes has attained importance during the last two decades and has been almost universally adopted by the international community. Member States of the United Nations, and Inter-governmental Organizations like the Financial Action Task Force (FATF), have criminalized money laundering, and many of them have set up specialized agencies to combat it. Money laundering is the life blood of all transnational crimes. Illicit/illegitimate money is integrated and reinvested into the legitimate financial system, which in turn facilitates commission of further transnational crimes. The term 'glocalization' describes the locally embedded nature of transnational crime. India's AML law regime is a perfect example of adopting a glocalization model which is manifested through various amendments carried out to the principal Act to align it with international standards and policies. © 2019 The Author(s).",
+    "source": "Statute Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0437-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structural Transformation of the Financial Market of Ukraine in the Environment of Innovative Technologies of Metaspace",
+    "authors": "Vdovenko L.; Melnyk L.; Polova O.; Martseniuk O.; Ruda O.",
+    "year": "2025",
+    "doi": "10.12012/JSSI-2024-0136",
+    "abstract": "This article investigates the structural transformation of Ukraine’s financial market within the context of innovative metaspace technologies. It presents models outlining the structural changes in financial market sectors amid the rapid development of metaspace technologies, emphasizing the systematic prognostic nonlinear dependence of deposit, credit, and currency flows on time intervals within the FinTech services’ payment platform. The article introduces system methods for modeling non-linear processes and combinatorial procedures for organizing the environment of innovative metaspace technologies within the financial market. It systematically categorizes approaches for measuring the effectiveness signs of financial market structure development in the innovative metaspace. The article argues for the need to structure and evaluate the financial market sectors of Ukraine through non-combinatorial tasks, emphasizing the convenience of describing variables influencing market structure and visually depicting the metaspace environment as a simulated FinTech ecosystem. Standardizing performance indicator measurement algorithms for precise intervals of financial resource movement is advocated. The article establishes that combinatorial tasks for structuring financial market development objects in the metaspace environment should align with configurations influenced by variable factors, such as currency, deposit, and credit flows. An analysis of transactions involving currency exchange, deposits, and loans through FinTech services’ payment platform in Ukraine’s financial market is presented. Additionally, the article conducts a formalized assessment of changes in currency, deposit, and credit flow transactions influenced by the digital environment of FinTech services in Ukraine’s financial market sectors. © 2025, Science China Press. All rights reserved.",
+    "source": "Journal of Systems Science and Information"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

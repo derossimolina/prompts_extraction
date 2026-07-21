@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0725-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Navigating the US “Green Rush”: anti-money laundering and de-risking implications for banking cannabis-related businesses in Jamaica",
+    "authors": "Clarke R.",
+    "year": "2022",
+    "doi": "10.1108/JFC-10-2021-0235",
+    "abstract": "Purpose: This paper aims to illuminate the diverging approaches to marijuana-related drug enforcement at the federal and state levels in the USA, which have facilitated a boom in the US medical cannabis industry (i.e. the “Green Rush”). It further sheds light on how the USA’ aggressive extraterritorial approach to anti-money laundering (AML) enforcement might simultaneously suppress the banking of cannabis-related businesses in Jamaica due to the lingering fear of de-risking. Design/methodology/approach: An international and comparative legal and policy analysis was conducted of the nexus among shifting drug enforcement policies, AML laws and the banking of cannabis-related businesses. Findings: This study found that the constitutional relationship between the US federal government and states has created a de facto comparative advantage for the US medical cannabis-related businesses that benefit from limited access to financial services. This was found to pose far-reaching implications for the banking and development of the Jamaican cannabis sector due to the dependence of the country’s financial institutions on correspondent banking relationships with the US banks that are regulated by federal AML statutes. Originality/value: To the best of the author’s knowledge, this paper is the first of its kind to examine the extraterritorial regulatory risks to the banking of cannabis-related businesses in Jamaica. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

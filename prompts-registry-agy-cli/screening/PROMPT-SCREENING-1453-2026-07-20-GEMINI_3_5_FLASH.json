@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1453-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Export controls and counterproliferation finance: Two sides of the same underlying illegal WMD activity",
+    "authors": "Weise R.A.; Carr G.; Hund G.",
+    "year": "2018",
+    "doi": "10.1080/10736700.2018.1473107",
+    "abstract": "The separation between export control and counterproliferation finance (CPF) efforts may be undermining governments’ ability to detect and stop weapons of mass destruction (WMD) proliferation. Using export-control information in screening financial transactions and using financial information in export-control decision making can be mutually reinforcing, each system feeding new information back to the other, creating a fuller picture of proliferation procurement networks. This article begins by identifying the US domestic agencies and international bodies involved in export controls and CPF, respectively, followed by a brief outline of the international and domestic sanctions regimes and export-control implementation. It then examines why financial information has historically not been considered relevant to export control and why export-control information is not regularly used to stop financial crime. The article then discusses the limitations of existing proliferation-finance guidance provided to financial institutions, as well as the problematic exclusion of marine insurance from US anti-money-laundering regulations and how it detracts from counterproliferation efforts. The authors conclude with a series of concrete options for better integrating export-control enforcement and combating proliferation finance, including options for both the US and the international community. © 2018 Battelle Memorial Institute.",
+    "source": "Nonproliferation Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

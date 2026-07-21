@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2310-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The reconstruction by association of social problems : the creation of money laundering",
+    "authors": "Amicelle, A",
+    "year": "2016",
+    "doi": "10.7202/1036193ar",
+    "abstract": "Attempts to deal with dirty money have tended to undermine the principle that banking activities are secret. This article adds to the literature on what is presently a marginal topic in academic research - financial crime - by re-examining the conditions under which dirty money was identified and promoted as both an object of public concern and a policy issue through criminalization of money laundering in the USA. The process of reconstruction by association as it involves social problems is considered both empirically and theoretically, contributing to the rich tradition of research on social problems.",
+    "source": "CRIMINOLOGIE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

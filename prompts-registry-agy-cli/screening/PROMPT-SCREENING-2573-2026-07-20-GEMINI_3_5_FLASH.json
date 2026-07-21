@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2573-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cost-Effectiveness Analysis of a HMGA2 Prognostic Test for Acute Myeloid Leukemia in a Canadian Setting",
+    "authors": "Tremblay, G; Rousseau, B; Marquis, M; Beaubois, C; Sauvageau, G; Hébert, J",
+    "year": "2019",
+    "doi": "10.1007/s40258-019-00503-5",
+    "abstract": "Background Current strategies for risk stratification of patients with acute myeloid leukemia assign approximately 40% of patients to the intermediate-risk group, where uncertainty about optimal therapy still persists. Objective The objective of this study was to assess the cost effectiveness of a HMGA2 prognostic test based on HMGA2(+)/HMGA2(-) expression, which improves genetic risk stratification in acute myeloid leukemia, and compare this test with the current standard of care in Canada. Methods A cost-effectiveness model was developed from the Canadian National Healthcare Service and societal perspective using data from the Quebec Leukemia Cell Bank, published literature, and physician surveys. The model includes a lifetime horizon assessing the HMGA2 test vs. standard of care. Results The HMGA2 test outperformed the standard of care at all time horizons culminating with estimated improvements of 1.92 and 3.12 months in leukemia-free survival and overall survival, respectively. Costs associated with the HMGA2 test were consistently lower, except diagnostic costs, routine medical costs, and costs related to infections and false positives. From a societal perspective, total lifetime costs were $161,358 CAD and $151,908 CAD with the standard of care and the HMGA2 test, respectively. The incremental quality-adjusted life-year gain was 0.138, which led to dominance over the standard of care. Deterministic sensitivity analyses confirmed the results of the base-case scenario. Probabilistic sensitivity analyses revealed that for a willingness-to-pay threshold of $100,000 CAD, the probability of cost effectiveness was 87.19%. Conclusions The HMGA2 test is estimated to improve leukemia-free survival and overall survival outcomes, and yield costs savings from a healthcare system and societal perspective.",
+    "source": "APPLIED HEALTH ECONOMICS AND HEALTH POLICY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

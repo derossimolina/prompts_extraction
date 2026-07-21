@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1703-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cleaning up dirty money: The illegal narcotics trade and money laundering",
+    "authors": "Alasmari K.A.A.",
+    "year": "2012",
+    "doi": "10.14254/2071-789X.2012/5-2a/12",
+    "abstract": "This paper will analyse the various global processes of money laundering in which drug dealers and criminal narcotics cartels are engaged and implicated. The scale of the processes involved will be outlined, and the diversity and variety of the different practices engaged in by the traffickers will also be adduced. This paper will outline the mechanisms and motivations of money laundering by narcotics dealers, and will break the process down into three distinct stages - placement, layering and integration - in order to explicate both the challenges faced by narcotics dealers and those which confront the law enforcement agencies that attempt to stop them. The implications and costs of drug trafficking will be analysed from the perspective of social outcomes, and the role of law enforcement agencies such as the Drug Enforcement Administration (DEA) in the context of the United States, and other federal and international bodies, will also be considered. The implications of the laundering process will be considered from the perspective of financial institutions and banks that do not want to become involved in the laundering process, and the various methods which can be employed by such institutions will be cursorily examined. However, it will also be shown in this article that money laundering has potential spill-over benefits, as in the case of the growth and development of Miami real estate in the 1990s through the investments of the cocaine cowboys. This will be examined from both an ethical and a financial perspective, to evaluate the degree to which money laundering can be said to have knock-on benefits.",
+    "source": "Economics and Sociology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

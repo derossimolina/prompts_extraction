@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0699-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banking on genocide: The racial disparities and patriotic politics of a massive international corruption case",
+    "authors": "Hagan J.",
+    "year": "2024",
+    "doi": "10.1177/2631309X231205182",
+    "abstract": "We focus on the 2015 conviction in New York of BNP Paribas Bank for its role in the Darfur genocide. Proceeds from this case were used by congress to create a terrorism fund to compensate American victims of the 9/11 Twin Towers attack, while Black victims of the Darfur genocide received no compensation. This paper uses a sequential theory developed by David Garland to understand the racialized persistence of the American death penalty and its implications for understanding the creation of the Twin Towers Fund. A civil suit is presently drawing on the BNP conviction to again seek compensation for Darfur genocide victims. Garland’s approach helps us to better understand the evolution of the Darfur case. © The Author(s) 2023.",
+    "source": "Journal of White Collar and Corporate Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

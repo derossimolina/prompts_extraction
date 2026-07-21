@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0770-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Transactional Network Analysis and Money Laundering Behavior Identification of Central Bank Digital Currency of China",
+    "authors": "Li Z.; Zhang Y.; Wang Q.; Chen S.",
+    "year": "2022",
+    "doi": "10.23919/JSC.2022.0011",
+    "abstract": "With the gradual application of central bank digital currency (CBDC) in China, it brings new payment methods, but also potentially derives new money laundering paths. Two typical application scenarios of CBDC are considered, namely the anonymous transaction scenario and real-name transaction scenario. First, starting from the interaction network of transactional groups, the degree distribution, density, and modularity of normal and money laundering transactions in two transaction scenarios are compared and analyzed, so as to clarify the characteristics and paths of money laundering transactions. Then, according to the two typical application scenarios, different transaction datasets are selected, and different models are used to train the models on the recognition of money laundering behaviors in the two datasets. Among them, in the anonymous transaction scenario, the graph convolutional neural network is used to identify the spatial structure, the recurrent neural network is fused to obtain the dynamic pattern, and the model ChebNet-GRU is constructed. The constructed ChebNet-GRU model has the best effect in the recognition of money laundering behavior, with a precision of 94.3%, a recall of 59.5%, an F1 score of 72.9%, and a micro-average F1 score of 97.1%. While in the real-name transaction scenario, the traditional machine learning method is far better than the deep learning method, and the micro-average F1 score of the random forest and XGBoost models both reach 99.9%, which can effectively identify money laundering in currency transactions. © 2020 Tsinghua University Press.",
+    "source": "Journal of Social Computing"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

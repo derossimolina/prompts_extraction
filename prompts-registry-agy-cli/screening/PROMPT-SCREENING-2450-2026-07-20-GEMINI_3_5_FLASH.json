@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2450-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trust Factors in the Social Figuration of Online Drug Trafficking: A Qualitative Content Analysis on a Darknet Market",
+    "authors": "Szigeti, A; Frank, R; Kiss, T",
+    "year": "2023",
+    "doi": "10.1177/10439862231159996",
+    "abstract": "The rise in illicit drug trafficking on darknet markets (DNMs) was boosted by those restrictions imposed due to the COVID-19 pandemic. This study aims to put this trend into context by exploring the characteristics of vendors' services and reputations and understand how products are advertised and what customers tend to value. Qualitative content analysis was conducted on a sample (n = 100) randomly selected from 6,357 product descriptions and a sample (n = 500) randomly selected from 34,619 reviews. Both samples are from products found in the drug category of the darknet market Dark0de Reborn. On the supply side, vendors tended to provide basic information on the drugs, a mention of their high quality, the speed and stealth of delivery, their availability for responding to messages, the effects of the drugs, and sometimes even instructions for use. Regarding the demand side, customers usually praised the quality of the product, mentioned the speed and stealth-secure packaging of delivery as essentials, and expressed only a small number of issues. These results support the applicability of Norbert Elias' social figuration theory in which the interdependencies of the actors are fueled by trust. This theoretical frame sheds light on the social value of the community of DNMs. Furthermore, the findings formulate a robust hypothesis for future research about the previously undervalued role of delivery providers.",
+    "source": "JOURNAL OF CONTEMPORARY CRIMINAL JUSTICE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

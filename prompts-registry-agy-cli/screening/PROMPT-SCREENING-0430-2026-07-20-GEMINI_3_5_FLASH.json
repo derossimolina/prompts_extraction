@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0430-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Questionable relations: On aggressive financialised ‘assemblages’ in creative and ecologically-challenged space-economies",
+    "authors": "Cooke P.",
+    "year": "2024",
+    "doi": "10.1016/j.joitmc.2024.100293",
+    "abstract": "In this contribution, the interest is in three things, arising from a project on ‘dark’ F-KIBS clusters. This has already resulted in critical papers on management consultancy and accounting ‘assemblages’ in which such clusters are embedded (Cooke, 2023a; 2003b). Questions posed are: first, why is there so much financial crime being punished with huge fines? Second has there been a significant rise in such prosecutions in recent years? Third, which jurisdictions or clusters display the most prosecuted firms and sectors? These questions are stimulated by an interest in ‘assemblage geography’ and evolutionary spatial analysis; accordingly, financial ‘dark’ clusters are proposed for study in this contribution. Assemblage connections may be hypothesised to be found in financial districts that replicate Marshallian proximity, notably Delaware in the US (Weitzman, 2022). That state specifically and its main city, Wilmington, is proposed as an exemplary rising agglomeration of relational interactions specialising in US tax avoidance and bankruptcy. In Switzerland, Bellinzona Federal Criminal Court recently hosted a Swiss Bank's first-ever domestic trial for criminality in the shape of Credit Suisse. This bank had a fine of SFr2mn imposed on the bank, which was also ordered to pay €18.6mn in compensation to the Swiss government. An extra penalty was imposed by confiscation of SFr12 mn in criminal assets from the convicted perpetrators. The case had involved a group of Bulgarian clients laundering cocaine profits between 2004 and 2008 involving huge sums of cash being brought to the bank in suitcases, further associated with two assassinations. These red flags were missed by a bank which had received multiple fines elsewhere (Carrel, 2022). In reference to gang crime, in 2004, a Credit Suisse banker in Tokyo was arrested for allegedly helping launder at least ¥5bn linked to Japan's largest Yakuza gang connected in a Japan, Switzerland and Hong Kong network (Makortoff and Pegg, 2022). Regarding the demise of Switzerland's second global bank, after being badly hit by the huge Greensill and Archegos bankruptcies Credit Suisse was bailed out for £45 billion by the Swiss Central Bank in March 2023. Earlier, in 2015–2017, Disney, the creative economy exemplar in this narrative, is profiled in our third vignette as an imperious tax-dodging ‘fiefdom’ yet surviving as the global mass-entertainment leader. Finally, in sections 4 and 5, we profile two London-centred banking ‘scandals’ with ‘sustainability’ rather than ‘creative’ overtones. Thus of dubious banking practices London's many categories of financial regulator are served by two ‘assemblage’ cases that will be analysed subsequent to being advanced as candidates. One recent exemplar is Balli Steel, an Anglo-Iranian sanctions-breaker, while another is Britishvolt, a financially failed EV gigafactory project in the UK. © 2024",
+    "source": "Journal of Open Innovation: Technology, Market, and Complexity"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

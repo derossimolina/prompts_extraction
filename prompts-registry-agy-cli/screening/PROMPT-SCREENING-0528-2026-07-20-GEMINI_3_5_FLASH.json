@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0528-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "JURIDICAL STUDY OF THE DEVELOPMENT OF ISLAMIC BANKING LAW AND ITS IMPLICATIONS FOR ISLAMIC BANK PRODUCTS",
+    "authors": "Mulazid A.S.",
+    "year": "2022",
+    "doi": "10.29300/mzn.v9i2.2921",
+    "abstract": "This study aims to analyze the development of Islamic banking law and its implications for the development of Islamic banking products. The researcher examined the significance of changes in laws related to Islamic banking for regulatory development and their implications for the development of Islamic banking institutions and products using a juridical-normative approach. This research includes literature research with a normative approach. The data collection technique used in the study is documentation techniques. Meanwhile, the data analasis technique used is induction technique with a qualitative approach. The results of the study show that changes in the law on Islamic banking have had a significant effect on the development of Islamic banking regulations in Indonesia. The implementation of Law Number 21 of 2008 concerning Sharia Banking is expected to answer some of the problems and doubts regarding the direction of development of Islamic banking in the future, including the direction of legal developments governing Islamic banking activities. With the enactment of Islamic banking regulations spread across sharia banking laws and regulations, the compilation of sharia economic law and fatwa dsn-mui as the legal basis for Islamic banking activities in Indonesia, it is expected to have implications for increasing the market share of Islamic banking and service networks and being able to encourage the development of Islamic banking products. The implications of this research are expected to develop knowledge in the field of legal politics and laws and regulations in the fields of economics and business. In addition, it is hoped that it can be useful for the fulfillment of human life celebrations related to aspects of structuring collective life, including developing an appreciation of legal and unlawful politics. © 2022, Fatmawati Sukarno Bengkulu State Islamic University. All rights reserved.",
+    "source": "Jurnal Ilmiah Mizani"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

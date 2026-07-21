@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0328-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Complementarity, tension and proportionality in the anti-money laundering regulation of law firm client accounts",
+    "authors": "Benson K.; Bociga D.",
+    "year": "2026",
+    "doi": "10.1007/s10611-025-10252-3",
+    "abstract": "The misuse of law firm pooled client (or trust) accounts is identified as a key money laundering risk for the legal profession. However, this risk may be mitigated in the UK by the multi-layered regulatory framework that has evolved to prevent the misuse of such accounts for money laundering purposes, and the multiple actors (both internal and external to law firms) with a role in their oversight. Drawing on an integrated analysis of case data, interviews and policy documents, and concepts of smart regulation, policy mixes and regulatory overlap, this article examines the complementarity of this multi-layered regulatory mix, demonstrating how gaps or weaknesses in individual instruments are compensated for by other components of the framework and how oversight actors can work cooperatively to enhance regulatory oversight. It also identifies tensions created by two regulated sectors having overlapping responsibility for client account oversight, with law firms and banks navigating potentially conflicting obligations following changes to the Money Laundering Regulations 2017. A proportionate approach to navigating these tensions is needed to balance money laundering prevention with the necessary role client accounts play in the provision of legal services and to reduce unnecessary regulatory burdens. © The Author(s) 2026.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

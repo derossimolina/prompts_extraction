@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2210-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bandit Banks: Financial Services and Organized Crime",
+    "authors": "Punch M.",
+    "year": "1993",
+    "doi": "10.1177/104398629300900302",
+    "abstract": "The BCCI scandal revealed that international control of banks is lax and that governments, as well as organized crime, need the services of financial institutions. This paper focused on a precursor to BCCI by analyzing the case of the Banco Ambrosiano in Italy. Roberto Calvi took the Banco Ambrosiano to expansion and success; but in the process he let organized crime infiltrate the bank for its own purposes. This proved fatal and he was murdered. The ensuing scandal exposed the involvement of the Vatican and implicated politicians, businessmen, and secret services in a range of dubious and even criminal practices. The affair tended to be seen as an Italian scandal but it should have been a forewarning that the “system” of international regulation needs reforming. In essence, banks are vulnerable to penetration by organized crime; there is a maze of off-shore havens to conceal control of companies and the trail of currency; and that business, governments and security services haveaninterestinnotfundamentallyalteringthissituation which led to the collapse of Banco Ambrosiano and, a decade late, the spectacular bankruptcy of BCCI. © 1993, Sage Publications. All rights reserved.",
+    "source": "Journal of Contemporary Criminal Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

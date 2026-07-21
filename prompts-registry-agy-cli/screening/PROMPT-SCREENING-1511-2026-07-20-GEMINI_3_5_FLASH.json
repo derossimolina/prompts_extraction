@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1511-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enhancing knowledge and strategic planning of bank customer loyalty using fuzzy cognitive maps",
+    "authors": "Ferreira F.A.F.; Ferreira J.J.M.; Fernandes C.I.M.A.S.; Meidutė-Kavaliauskienė I.; Jalali M.S.",
+    "year": "2017",
+    "doi": "10.3846/20294913.2016.1213200",
+    "abstract": "Understanding customer loyalty has been a growing concern for the services industry. In a context of increasing competitive pressures, such loyalty is seen as a key element in service companies’ success. Maintaining customer loyalty and identifying its underlying factors, however, are recognizably difficult to do. Grounded on the use of cognitive mapping techniques, this paper proposes a knowledge-based framework for the identification of the key determinants of customer loyalty, and the relationships among them. A step-by-step guide to the development of such a framework is presented, and illustrated through a practical application in the banking context. The resulting findings are supportive of the applicability of such methods for understanding customer loyalty, and the improvement of long-term relationships with customers. They are furthermore indicative of new ways in which knowledge can be incorporated into management activities to improve service outcomes. Some managerial implications of our contribution and avenues for future research are also reported. © 2017 Vilnius Gediminas Technical University (VGTU) Press.",
+    "source": "Technological and Economic Development of Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

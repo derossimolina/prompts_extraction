@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0525-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risks and Regulation of Cryptocurrency during Pandemic: A Systematic LiteratureReview",
+    "authors": "Bajaj K.; Gochhait S.; Sangeetapandit; Dalwai T.; Justin M.S.M.",
+    "year": "2022",
+    "doi": "10.37394/232015.2022.18.61",
+    "abstract": "-Cryptocurrencies differ from traditional financial assets as they are not governed by any higher authority, have no physical representation, are indefinitely divisible, and are not based on any tangible assets or country. While its popularity and use have surged over the years, it is still subject to an underlying risk. The purpose of this research is to investigate the regulatory approach for cryptocurrencies adopted around the world. To achieve the purpose of this research, extant literature is examined using a systematic literature review. Using a total of 49 Scopus indexed shortlisted articles, the extant literature on the various risks related to cryptocurrency and the regulatory approach adopted for the same was explored. The prior literature was classified into four thematic clusters of the regulatory approach to risks: pandemic, volatility, money laundering and cyber security. The findings suggest the regulations governing cryptocurrency are still at an infancy stage, and it still suffers from the challenge of limited transparency. The pandemic did not have a drastic impact on cryptocurrency. Cryptocurrencies are volatile in reaction to economic policy uncertainty and macroeconomic variables. To the best of the author’s knowledge, this review paper is one of the few contributing to the gaps in the literature on the various risks and their associated regulatory approach to managing cryptocurrency. © 2022, World Scientific and Engineering Academy and Society. All rights reserved.",
+    "source": "WSEAS Transactions on Environment and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

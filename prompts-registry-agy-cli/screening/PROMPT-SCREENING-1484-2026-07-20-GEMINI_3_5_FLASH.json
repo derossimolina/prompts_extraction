@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1484-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Adjusting 'our notions of the nature of the State': A political reading of Ireland's child protection crisis",
+    "authors": "Garrett P.M.",
+    "year": "2012",
+    "doi": "10.1177/0309816812437922",
+    "abstract": "The Republic of Ireland was the first country in the eurozone to adopt a neoliberal infused 'austerity budget', and the ill-judged state bailing out of a number of reckless banks and associated financial institutions is costing billions of euros. In late 2010, as the crisis deepened, the International Monetary Fund and European Central Bank provided a 'bailout' package that resulted in further punitive public spending cuts and the eradication of national sovereignty. This paper maintains that the present crisis is more than a mere economic crisis, but can be viewed as a series of interlinked 'conjunctures'. Tracing the connection between the historical and the contemporary, the first part of the discussion will explore six thematic components relating to the structuring of the Irish state. These are identified as: a 'class rule state'; an 'authoritarian state'; a 'confining state'; a 'censoring state'; a 'discriminatory state'; and a 'state within the state'. These six dimensions provide a contextual underpinning for the second part of the paper, which focuses on the crisis in child welfare and child protection services and dwells on the shambolic performance of the Health Service Executive (HSE), deficits in the 'care' system and the HSE failure to furnish reliable data on the deaths of children in contact with social workers. © The Author(s) 2012.",
+    "source": "Capital and Class"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

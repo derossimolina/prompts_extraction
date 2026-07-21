@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0215-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Remittances and organized crime: evidence from border closures from covid-19 in Mexican metropolitan Areas; [Remesas y crimen organizado: evidencia del cierre de fronteras ante covid-19 en zonas metropolitanas mexicanas]",
+    "authors": "Villarreal Solís F.M.; García Meza M.A.; Gómez Romero J.G.I.",
+    "year": "2024",
+    "doi": "10.22136/est20242063",
+    "abstract": "This paper analyzes the impact that the presence of organized crime had on remittances in Mexico during the covid-19 pandemic. Our hypothesis suggests that organized crime exploited the increase in remittance flows as a strategy to smuggle illicit money due to borders closures. In order to support this hypothesis, we analized remittance behavior across 74 municipalities from 23 metropolitan areas, comparing pre and post pandemic periods. The study found a 23% increase in remittances in areas with a significant presence of organized crime, compared to an increase of 8.47% in other urban areas. © 2024, El Colegio Mexiquense AC. All rights reserved.",
+    "source": "Economia, Sociedad y Territorio"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

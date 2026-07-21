@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0933-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Preventing the money laundering and terrorist financing risks of emerging technologies: An international policy Delphi study",
+    "authors": "Akartuna E.A.; Johnson S.D.; Thornton A.",
+    "year": "2022",
+    "doi": "10.1016/j.techfore.2022.121632",
+    "abstract": "Financial innovation and technological advances are growing at a pace unrivalled by any other period in history. However, as more stakeholders enter these markets, criminals are exploiting their inadvertent security deficiencies to launder illicit funds or finance terrorism. This three-round policy Delphi study involved consultations with 52 experts from different industries and countries to understand future risk-prone technological developments, possible prevention measures and relevant stakeholders. Results highlight a range of money laundering and terrorist financing risks being enabled by advances in distributed ledger technologies (predominantly through cryptocurrencies), new payment methods and financial technology (FinTech). These threats include privacy-enhanced cryptoassets, transaction laundering, e-currencies and digital-only financial services. Findings also suggest that detection-based countermeasures (currently the primary preventative approach) can be coupled with more diverse countermeasures to increase effectiveness. However, the unique circumstances and constraints specific to different stakeholders will affect the nature, utility, and extent to which they can implement certain countermeasures. As such, a ‘one-size-fits-all’ approach to prevention is undesirable. Drawing on expert insight from the study, we propose a framework and a 3-point standard of implementation to motivate cost-effective, user-friendly, and innovation-friendly measures to improve suspicious activity detection and futureproof technologies before their criminal exploitation becomes mainstream. © 2022",
+    "source": "Technological Forecasting and Social Change"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

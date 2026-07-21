@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0893-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering in Australian casinos",
+    "authors": "Langdale J.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-09-2022-0136",
+    "abstract": "Purpose: This study aims to examine the role of Australian casinos in facilitating money laundering and Chinese capital flight. Design/methodology/approach: The reports and transcripts of evidence from government inquiries into money laundering in Australian casinos are integrated with analyses of Asian transnational crime. Findings: Money laundering in Australian casinos is linked to transnational crime and Chinese capital flight. A central finding is that junket operators play a key role in facilitating money laundering. The casinos are particularly exposed to criminal influences in the Chinese very important person gambling market, since they have used junket operators and underground banks, many of whom are closely linked to major Chinese criminal groups from Hong Kong and Macau. Research limitations/implications: Very little information is available on money laundering in Australian casinos and this research has relied on the government inquiries that have been conducted over the past two years on the subject. Practical implications: The author’s focus on money laundering in Australian casinos in the context of Asia-Pacific transnational crime is important for Federal and state government regulators grappling with the rapidly changing money laundering issues. The government inquiries recognised that the money laundering was related to transnational crime, but did not have the time and resources to explore the topic. The paper provides state government casino regulators and financial crime regulators with a broader international perspective to anticipate future money laundering and crime pressures facing Australia’s casinos. Social implications: Money laundering in Australian casinos has had devastating social implications on the community. My research helps to focus attention on the problems of transnational crime and money laundering. Originality/value: Little research has examined the linkages between casinos and transnational crime. This study has found that Australian casinos were used to launder the proceeds of illegal drug trafficking and to facilitate Chinese capital flight. While casinos have been forced by damming government inquiries to tighten anti-money laundering controls, it is likely that there will be pressure to relax these controls in the future because of competitive pressure from other casinos in the Asia-Pacific region. © 2022, John Langdale.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

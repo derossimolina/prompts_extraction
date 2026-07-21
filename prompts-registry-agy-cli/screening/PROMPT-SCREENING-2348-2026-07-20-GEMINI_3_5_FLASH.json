@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2348-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Effects of Internal Control towards Money Laundering Prevention: An Interrelation Perspective",
+    "authors": "Vijeyan, S; Rahmat, MM",
+    "year": "2022",
+    "doi": "10.17576/AJAG-2022-17-02",
+    "abstract": "Money launderers often target banking institutions to launder their money, attributable to the wide array of financial services offered. Many banks have anti-money laundering control activities to fight money laundering. However, the effectiveness o f these control activities in preventing money laundering are still questionable, since the problem of money laundering are continuously increasing in developing countries such as Malaysia. Therefore, this research aims to determine the influence of control environment, risk assessment, information and communication, and monitoring on the effectiveness of anti-money laundering control activities. The data were collected through survey questionnaires sent to 300 branch managers of banks in the Klang Valley, with 108 responses received. The results reveal that anti-money laundering control activities were able to prevent money laundering in Malaysian banking institutions. The results also show that control environment and monitoring had a positive influence on the effectiveness of anti-money laundering control activities to prevent money laundering. Previous research has put less emphasis on the factors influencing the effectiveness of anti-money laundering control activities in preventing money laundering. Thus, this study has contributed to fill this gap by examining the factors influencing the effectiveness of anti-money laundering control activities. Moreover, this research also has practical implications in the identification of the factors that influence the effectiveness of anti-money laundering control activities that can potentially help to curb money laundering at high levels.",
+    "source": "ASIAN JOURNAL OF ACCOUNTING AND GOVERNANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

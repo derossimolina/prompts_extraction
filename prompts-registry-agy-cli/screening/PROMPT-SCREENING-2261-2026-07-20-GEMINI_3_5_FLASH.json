@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2261-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "BLOCKCHAIN PRINCIPLES' INTEGRATION INTO THE PAYMENT SECURITY ARCHITECTURE OF THE FINANCIAL SYSTEM",
+    "authors": "Kovalenko, V; Sheludko, S; Bezkrovnyi, O; Doroshenko, O; Doroshenko, A; Borsa, V",
+    "year": "2026",
+    "doi": "10.55643/fcaptp.2.67.2026.5170",
+    "abstract": "The relevance of this study is driven by the rapid digitalisation of payment systems and the growing exposure of the financial system to cyber, operational, and AML/CFT-related risks, intensified by the expansion of non-cash transactions, the proliferation of crypto-assets, and the increasing involvement of state and non-state actors in illicit financial activities. These processes exacerbate vulnerabilities in payment security, particularly under conditions of geopolitical instability and hybrid threats. The aim of the study is to theoretically and empirically substantiate the principles of integrating block-chain technology into the architecture of payment security and the AML/CFT framework in order to mitigate emerging risks. The research methodology is based on a combination of systemic and descriptive analysis, systematisation and generalisation, statistical analysis, and economic-mathematical modelling. An autoregressive distributed lag (ARDL) model is employed to assess the impact of regulatory enforcement measures on banks' due diligence in ensuring payment legitimacy, using data from the Ukrainian banking sector. The results demonstrate that payment security is closely dependent on the effectiveness of financial monitoring and regulatory oversight, with enforcement measures exerting a statistically significant short-and long-term effect on the intensity of suspicious transaction reporting. The study establishes that blockchain technology possesses substantial potential to enhance payment security by improving transaction transparency, strengthening AML/CFT controls, and increasing resilience to cyber threats, including those associated with the illicit use of crypto-assets. It is substantiated that the harmonisation of blockchain-based solutions with regulatory principles is a necessary condition for maintaining financial stability in an environment of accelerating digitalisation. Based on the findings, practical recommendations are formulated for integrating blockchain technology into payment security and financial monitoring systems, which may be of relevance for regulators, financial institutions, and policy-makers concerned with strengthening economic and payment security.",
+    "source": "FINANCIAL AND CREDIT ACTIVITY-PROBLEMS OF THEORY AND PRACTICE"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

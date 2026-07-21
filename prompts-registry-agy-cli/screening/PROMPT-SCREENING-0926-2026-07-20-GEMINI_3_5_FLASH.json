@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0926-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of freight forwarding companies in detecting and investigating trade-based money laundering",
+    "authors": "Makkink I.M.; Steyn B.; Bezuidenhout H.C.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-04-2024-0069",
+    "abstract": "Purpose: This study aims to investigate the role of freight forwarding companies in detecting and reporting trade-based money laundering. The proximity of freight forwarding companies to shipping-related trade-based money laundering red flags places them in an ideal position to detect suspicious transactions. Design/methodology/approach: The study used semi-structured interviews with expert participants in freight forwarding shipping and compliance aspects around freight forwarding. This study focuses on the South African context. Findings: Freight forwarding companies are well-positioned to detect, investigate and report on trade-based money laundering schemes. However, the companies are not always aware of the guidelines designed to assist in identifying trade-based money laundering schemes. Thus, freight forwarding companies develop internal processes to identify trade anomalies but are often unable to link trade anomalies to illegal financial flows and trade-based money laundering schemes. Research limitations/implications: The current regulations on money laundering can be extended to freight forwarding companies by the respective regulators for enhanced anti-money laundering protection. This study is limited to freight forwarding companies in a South African context. Practical implications: Increased awareness among staff in freight forwarding companies can assist them in identifying trade-based money laundering red flags to detect and prevent trade-based money laundering schemes. Social implications: This paper assists other role players and policymakers in the trade process to create a better awareness of trade-based money laundering. The limited obligations on freight forwarding companies to comply with anti-money laundering regulations lead to a more volunteer-like compliance practice. Originality/value: To the best of the authors’ knowledge, this is the first paper that offers insight into the role of freight forwarding companies in detecting trade-based money laundering in South Africa. © 2024, Ilse Maritha Makkink, Blanche Steyn and Hannes Christo Bezuidenhout.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

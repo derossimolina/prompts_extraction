@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0043-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Was Sutherland right? An analysis of cryptocurrency offenders",
+    "authors": "Dearden T.E.; Parti K.; Hawdon J.",
+    "year": "2026",
+    "doi": "10.1108/JFC-01-2026-0003",
+    "abstract": "Purpose – The purpose of this study is to examine the applicability of conventional criminological theories to white-collar offenders involved in cryptocurrency-related market manipulation, specifically pump-and-dump schemes. Using Sutherland’s differential association (DA) framework as a theoretical foundation, this research tests whether demographic and theoretical factors – such as self-control, DA, anomie and strain – predict illegal financial behavior in emerging digital markets. Design/methodology/approach – Survey data from a national sample of US adults on the promotion of cryptocurrencies for financial gain were analyzed using t-tests and regression models. Findings – The findings of this study suggest that traditional theories of crime, including DA, anomie and strain, lose predictive significance when demographic variables are considered. High-income, male and younger individuals were most likely to engage in cryptocrime in general. Overall, the results of this study highlight the complexity of white-collar criminality in digital spaces and suggest that financial and demographic factors outweigh conventional criminological theories when predicting involvement in cryptocrime. Originality/value – This paper considers early notions of white-collar crime against modern online financial crimes. The authors addressed the intersection of criminological theory and modern cryptocurrency crime. © 2026 Emerald Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

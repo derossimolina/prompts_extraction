@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1133-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Reflecting on Corporate Crime and Control: The Wells Fargo Banking Saga",
+    "authors": "Shichor D.; Heeren J.W.",
+    "year": "2021",
+    "doi": "10.1177/2631309X20971265",
+    "abstract": "In September, 2016 it was publicly revealed that Wells Fargo, one of the nation’s top banks, was involved in fraudulent business practices for years harming thousands of its clients. This article analyses the nature of and the reasoning behind these violations, the ways the executives related to them and how they are handled by the regulatory system. It reviews some of the challenges of actual and potential formal and informal attempts of forestalling or at least reducing future similar crimes. In this vein, a theoretical framework suggesting a possible way for better control of future similar victimization is explored. © The Author(s) 2020.",
+    "source": "Journal of White Collar and Corporate Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

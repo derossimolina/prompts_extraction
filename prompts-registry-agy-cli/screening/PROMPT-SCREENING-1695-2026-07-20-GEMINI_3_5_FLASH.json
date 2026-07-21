@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1695-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The challenges of anti-corruption initiatives: Reflections on strategies of the defunct Kenya's anti-corruption commission",
+    "authors": "Amukowa W.",
+    "year": "2013",
+    "doi": "10.5901/mjss.2013.v4n2p481",
+    "abstract": "This paper is founded on the growing need to eradicate corruption in the society. The causes and effects of corruption, and how to combat it, are issues that are on the increase on national, regional and international agenda. The United Nations Convention against Corruption, the African Union Convention on Preventing and Combating Corruption, the United Nations Convention against Transnational Organized Crime, the United Nations Declaration against Corruption and Bribery in International Commercial Transactions, and the International Code of Conduct for Public Officials are living testimonies. These calls to eradicate corruption present puzzles that scholarly investigations need to take lead role and centre stage in unravelling them. This scenario appeals for both theoretical and practical discourse, which is the root foundation of this paper.",
+    "source": "Mediterranean Journal of Social Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

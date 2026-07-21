@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0916-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "‘It could have been us’. Peer responses to money-laundering violations in the Dutch banking industry",
+    "authors": "Merz A.",
+    "year": "2024",
+    "doi": "10.1007/s10611-023-10120-y",
+    "abstract": "Much literature has focused on societal responses to corporate scandals, either by authorities or the public. However, there is little research on responses to corporate deviance by peers (corporations in the same industry). As corporations face a Zeitgeist characterised by increased attention to, and disapproval of, corporate deviance, they are compelled to respond to the external ‘labelling’ of their behaviour, as well as that of their peers. In this context of increasing public scrutiny, this article explores how (employees at) corporations respond to deviant peer behaviour. To examine this question, the case study of non-compliance with anti-money laundering (AML) regulations in the Dutch banking industry is utilised. Six stages of peer interactions were identified, namely, panic and fear, comparing practices, distancing, investing, and cooperation and defiance. In these six stages, condemnation between peers is incidental and mainly functions as a tool to guard their reputation (defence mechanism). Peer responses are determined by characteristics of the act (severance of the violation), actor (comparability and identification as peers), the audience (type of enforcement and public attention), and the situation (knowledge on the violation). As AML cases spread become more frequent across the industry, defence mechanisms also expand, thereby resulting in cooperation between banks and defiance of regulators. © The Author(s) 2023.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

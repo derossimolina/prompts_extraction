@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1675-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Political Violence and the Illicit Economies of West Africa",
+    "authors": "Felbab-Brown V.; Forest J.J.F.",
+    "year": "2012",
+    "doi": "10.1080/09546553.2011.644098",
+    "abstract": "This comparative analysis draws on field research in several West African countries to illustrate the dynamic relationships between political violence and organized crime in this sub-region. These relationships are often transactional, and almost always on a temporary basis. While some alliances of convenience may be forged, in other cases an adversarial relationship exists between organized crime and terrorist networks. In some cases, key actors within West African governments have benefited from these relationships. We then examine recent policies and strategies pursued by the U.S. and the international community that, in the name of combating terrorism, seek to constrain the illicit economies of the region, but in doing so may do more harm than good. The article concludes with some policy recommendations based on this analysis. © 2012 Copyright Taylor and Francis Group, LLC.",
+    "source": "Terrorism and Political Violence"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

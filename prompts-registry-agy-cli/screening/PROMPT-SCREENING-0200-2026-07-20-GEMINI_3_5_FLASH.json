@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0200-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Two sides of a coin: bridging perspectives and unpacking partner selection criteria of corporate venture capitalists and entrepreneurial ventures",
+    "authors": "Müller L.A.; Grandinger S.F.; Kanbach D.K.; Kraus S.",
+    "year": "2026",
+    "doi": "10.1007/s11365-026-01180-2",
+    "abstract": "Despite the growing importance of corporate venture capital (CVC) as a strategic investment tool, research on investor and venture selection criteria remains fragmented. Studies lack a comprehensive framework that encompasses CVC and venture views. Understanding these criteria is crucial, as they shape investment decisions, influence partnership success, and ultimately determine value creation in the CVC domain. Therefore, this systematic literature review addresses this gap by analyzing 73 high-quality articles to develop a holistic, dual-perspective framework of partner selection criteria. Six key dimensions influencing decision-making are identified: industry environment, capabilities and network, financial evaluation, organizational fit, technological assessment, and legal and governance. While organizational fit represents a shared priority, industry and technology are decisive only for CVCs; the remaining dimensions differ fundamentally. Drawing on the resource-based view and transaction cost economics, this study not only applies and extends these theoretical lenses to the CVC context but also critically reflects on the findings through these perspectives. By synthesizing these insights, this study advances theoretical discussions on investment dynamics and bridges the gap between venture-centric and incumbent-centric approaches, improving mutual understanding of the respective selection criteria. As such, the paper offers actionable guidance for both parties in structuring more effective selection and negotiation processes, identifying each other’s priorities, and detecting potential conflicts early. © The Author(s) 2026.",
+    "source": "International Entrepreneurship and Management Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

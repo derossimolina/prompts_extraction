@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0672-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering supervision by intelligent algorithm",
+    "authors": "Yang G.; Liu X.; Li B.",
+    "year": "2023",
+    "doi": "10.1016/j.cose.2023.103344",
+    "abstract": "As global anti-money laundering (AML) protocols and technologies strengthen, traditional laundering methods increasingly face stringent scrutiny. Concurrently, the allure of virtual currencies for laundering illegal funds is magnified, owing to their immunity from seizure, elusive traceability, and seamless cross-border transactions. This necessitates the design of specialized AML strategies for virtual currencies to counter this burgeoning avenue of illicit money circulation. Our study introduces a groundbreaking two-tier algorithm, marrying heuristic rules and integrated learning modalities, designed to enable risk-based detection of virtual currency money laundering. By employing data science methodologies, we scrutinize the distribution of statistical risk attributes within existing transaction samples to institute heuristic rules. By training an amalgamated model of Long Short-Term Memory (LSTM) and Graph Convolutional Neural Network (GCN), we can effectively discern conspicuous anomalous money laundering patterns across diverse transaction datasets. The integrated learning segment deploys a hard voting mechanism, bolstering the recognition of laundering techniques by synergizing multiple anomaly detection classifiers such as Histogram-Based Outlier Scoring (HBOS) and Isolation Forest. This methodology facilitates the detection of laundering activities in unlabeled data, generating explicit anomalous transaction data and concurrently capturing implicit abnormal transactions undetected by heuristic rules. Our approach alleviates the difficulty of procuring labeled money laundering data for AML identification, simultaneously improving the generalization and accuracy of unsupervised learning methods for money laundering detection. © 2023 Elsevier Ltd",
+    "source": "Computers and Security"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

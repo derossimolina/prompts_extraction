@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0912-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "AVOIDING THE WHOLESALE DE-BANKING OF CRYPTOCURRENCY EXCHANGES IN AUSTRALIA",
+    "authors": "Parasol M.",
+    "year": "2022",
+    "doi": "10.53637/WJQH3341",
+    "abstract": "De-banking is the closure of banking facilities by a bank for reasons such as a risk of money laundering. De-banking the Australian Cryptocurrency Exchange (‘Crypto Exchange’) industry could mean that Australian banks fall foul of competition law. In 2021, an Australian Senate inquiry investigated how to regulate cryptocurrencies, including considering de-banking. This article outlines a possible system that reduces the risk to banks of providing banking services to the Australian Crypto Exchange industry. Regulators should continue to adopt a collaborative market governance approach, working with cryptocurrency financial technologies to survey Crypto Exchange operating models. Then they should create an operating model licensing regime and updated Crypto Exchange-specific anti-money laundering (‘AML’) compliance frameworks. That regime would differentiate both centralised and decentralised; and custodian and non-custodian Crypto Exchanges, streamlining this licensing regime for banks. An AML-compliant self-certification system for Crypto Exchanges unable to be licensed is another suggestion. On 20 October 2021, the final Senate Inquiry Report also recommended a similar licensing regime. © 2022, University of New South Wales Law Journal. All rights reserved.",
+    "source": "University of New South Wales Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

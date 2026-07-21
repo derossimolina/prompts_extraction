@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2070-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Offshore pariahs? Small island economies, tax havens, and the re-configuration of global finance",
+    "authors": "Hampton M.P.; Christensen J.",
+    "year": "2002",
+    "doi": "10.1016/S0305-750X(02)00054-2",
+    "abstract": "The stock of wealth held offshore is estimated at US$6 trillion. Many small island economies (SIEs) host offshore finance centers, and some SIEs are highly dependent upon offshore finance. Extreme examples have over 90% of government revenues derived from finance sector activities. Since 1998 a series of international initiatives have been launched to combat harmful tax practices, money laundering, and inadequate financial regulation. These initiatives will transform the economies of many SIEs. This paper explores the dependence of many SIEs upon offshore finance and the barriers to diversification arising from their smallness and unique political economies. © 2002 Elsevier Science Ltd. All rights reserved.",
+    "source": "World Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2131-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A relational view of activities for systems analysis and design",
+    "authors": "Vepsalainen A.P.J.",
+    "year": "1988",
+    "doi": "10.1016/0167-9236(88)90130-3",
+    "abstract": "Decision support research has emphasized, traditionally, problem analysis and the use of models in problem solving tasks. Only few models have been promoted for the problem finding and early intelligence stage. A suitable modeling method, we argue, should describe activities in abstract concepts as well as in concrete detail, and should relate interesting activities to organizational goals and constraints. The models would be flexible and expandable enough to be reused in many managerial situations. A case in point is information requirements analysis. We propose a specific relational approach for modeling organizations, in general. Activities and their interactions are represented, at an appropriate level of detail, as diagonal activity matrices. The visual modeling and data collection for further analysis can be started before actual problems have been identified and without preconceived ideas of the eventual activity citing. With the relational activity models, the analysis can focus on problem structuring and information requirements analysis for applications ranging from business planning to transactions processing and operations scheduling. Besides supporting the analysis of organizational problems the relational activity view is also downward-compatible with software design, model management, and prototyping. © 1988.",
+    "source": "Decision Support Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

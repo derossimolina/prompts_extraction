@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0687-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Do trade liberalization and external debt offset income inequality? New evidence from selected African countries",
+    "authors": "Mumuni S.; Abille A.B.",
+    "year": "2023",
+    "doi": "10.1080/23322039.2023.2241228",
+    "abstract": "Data from the World Bank shows that in the 21st century, over 100 million Africans have become poor and about 43% of the African population is extremely poor. Notwithstanding, African governments have over the years liberalized their economies through a low tariff regime, in addition to external debt financing of major projects and social intervention programs. However, no study has explored the nexus between trade liberalization, external debt, and income inequality in Africa. Therefore, this study examines the impact of trade liberalization and external debt on income inequality using the Driscoll and Kraay augmented fixed and random effects models on data from 2000 to 2018 for 30 African countries. The findings reveal that, while external debt worsens income inequality, win-win trade liberalization policies could act as instruments for poverty alleviation and income inequality reduction in Africa. The results further show that growth in per capita income exerts a widening effect on income inequality in Africa, implying that income is concentrated in the hands of only a few as the economies grow. The study, therefore, calls for strengthening member countries’ commitments to the African Continental Free Trade Area (AfCFTA), cutting down on external debt financing of major developments projects, rolling out more poverty alleviation programs, and enforcing proper regulatory standards to curb illicit financial flows and repatriation of profits by foreign firms. © 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Cogent Economics and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

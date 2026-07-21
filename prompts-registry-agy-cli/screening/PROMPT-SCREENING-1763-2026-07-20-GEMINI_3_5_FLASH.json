@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1763-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Forfeiture of criminal proceeds under anti-money laundering laws: A comparative analysis between Malaysia and United Kingdom (UK)",
+    "authors": "Aurasu A.; Abdul Rahman A.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-04-2017-0016",
+    "abstract": "Purpose: Money laundering has been a focal problem worldwide. Governments constantly come up with initiatives to fight against this offence. To clean proceeds of corruption, the laundering of money is utilised, as it transforms “dirty” money into “clean” ones. A comparative analysis between Malaysia’s Anti-Terrorism Financing and Proceeds of Unlawful Activities Act (AMLATFPUAA) and United Kingdom’s Proceeds of Crime Act (POCA) is performed on the basis of the similarities and differences of both legislations, in terms of forfeiture provisions. The purpose of this paper is to investigate whether the current forfeiture regime in both jurisdictions is effective in fighting against money laundering. Design/methodology/approach: This paper is based on a doctrinal research where reliance will mainly be on relevant case laws and legislations. AMLATFPUAA and POCA are key legislations which will be utilised for the purpose of analysis. Findings: Strengths and weaknesses of both AMLATFPUAA and POCA are identified through a comparative analysis where findings show that POCA is more comprehensive than AMLATFPUAA in terms of offences covered by it and standard of proof. With that, the anti-money laundering (AML) laws can further be improvised by being a better and efficient regime where Malaysia and United Kingdom will be able to discharge their duties effectively on forfeiting benefits from criminals. Originality/value: This paper offers some guiding principles for academics, banks, their legal advisers, practitioners and policy makers, not only in Malaysia but also elsewhere. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

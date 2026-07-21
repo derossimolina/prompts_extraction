@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0511-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Current developments in money laundering and terrorism financing",
+    "authors": "Teichmann F.M.J.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-05-2019-0043",
+    "abstract": "Purpose: Whilst the existing literature focuses on developing prevention mechanisms for banks, this paper aims to demonstrate the ongoing feasibility of money laundering and financing terrorism undetected. This study thereby reveals that the current anti-money-laundering and anti-terrorism-financing mechanisms can easily be circumvented. Design/methodology/approach: A three-stage research process was used, including both qualitative and quantitative methods. The empirical findings are based on a qualitative content analysis of 50 informal interviews with illegal financial services providers and 50 formal interviews with compliance experts and law enforcement officers. Findings: During these interviews, specific methods of financing terrorism and limiting the risks of being prosecuted were discussed. Hence, specific methods of money laundering and terrorism financing have been analyzed. Research limitations/implications: The findings thus convey only the perspectives of the 100 interviewees, such that generalizability is limited. Practical implications: The practical implications include suggestions for financial regulators, financial institutions and compliance officers on how to more effectively combat money laundering and terrorism financing. Although the empirical findings are limited to Europe, the results could be applied globally. Originality/value: This paper reveals new insights about criminals’ actions, which help to develop more effective compliance mechanisms. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

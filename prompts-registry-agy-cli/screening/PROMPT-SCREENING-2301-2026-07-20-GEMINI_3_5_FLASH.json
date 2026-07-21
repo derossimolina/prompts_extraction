@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2301-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Global Standard-Setting on Financial Crime: Navigating Challenges",
+    "authors": "Goldbarsht, D; de Koker, L",
+    "year": "2024",
+    "doi": "10.1007/978-3-031-59547-9_14",
+    "abstract": "The chapter considers some of the challenges relating to global standardsetting to combat financial crime. It identifies the need for research about the drivers behind the standard-setting processes, the abuse of global standards by authoritarian governments to justify oppressive measures, and challenges regarding enforcement of compliance.",
+    "source": "FINANCIAL CRIME, LAW AND GOVERNANCE: Navigating Challenges in Different Contexts"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

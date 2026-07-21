@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1975-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Monetary implications of FATF regulation of secret bank accounts to combat money laundering",
+    "authors": "Shahin W.N.",
+    "year": "2006",
+    "doi": "10.1108/13685200610661023",
+    "abstract": "PurposeThis paper aims to analyze the monetary consequences of the new restrictions imposed in February 2000 by the Financial Action Task Force &lpar;FATF&rpar; on money laundering. FATF established 25 criteria based on its 40 recommendations &lpar;currently 49&rpar; to combat money laundering and the financing of terrorism. A total of 23 countries were placed on a list of Non&hyphen;Cooperative Countries and Territories &lpar;NCCTs&rpar; for not meeting most of the criteria. Several of the criteria relate to additional tightening or regulation of banking and financial secrecy in these countries. In order to be de&hyphen;listed from NCCTs, countries have started regulating their banking and financial sectors by placing restrictions on the degree of secrecy, passing tighter secrecy laws and closing loopholes in existing laws. The new regulatory measures may have money, banking and other economic implications. Design&sol;methodology&sol;approachPresents a theoretical model of a banking firm offering secret bank accounts to examine the impact of changing secrecy laws on deposits, interest rates, money and credit aggregates. FindingsThree different sets of results are plausible depending on the reactions of banks with regard to their deposit rate. The likelihood of banks changing this rate is examined using a profit function analysis. Originality&sol;valueIt provides a theoretical framework for an agenda of future empirical research as researchers should emphasize the impact of tightening secrecy standards on bank deposit rates. The degree of the change in this rate may determine the magnitude and sometimes the direction of the changes in monetary variables. © 2006, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

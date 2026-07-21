@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0590-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of blacklists on external deposits: one size does not fit all",
+    "authors": "Jonsson M.; Pettersson J.; Larson C.N.; Artzi N.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-12-2020-0136",
+    "abstract": "Purpose: This study aims to measure the impact of the Non-Cooperative Countries and Territories, Organization for Economic Cooperation and Development and US PATRIOT Act Section 311 blacklists on external deposits from blacklisted jurisdictions into BIS reporting countries in 1996–2008, a period when anti-money laundering-related actions were consistently less stringent than post-2010, to see whether they had an effect even absent the threat of sizable financial fines. Design/methodology/approach: The study uses descriptive statistics and bivariate and multivariate regressions to analyze the probable impact from blacklists on non-bank external deposits. The country sample is divided into offshore financial centers (OFCs) and non-OFCs and includes 158 non-listed countries. The impact of the blacklists is tested both jointly and individually for the respective blacklists. Findings: The authors find mixed impact from jurisdictions being blacklisted on the growth rate of stocks of deposits into BIS reporting countries. Effects are often zero, negative in several cases and positive in some cases. This is consistent with the “stigma effect” and the “stigma paradox” in the literature. An overall impact from blacklisting is difficult to discern. Different blacklists had different effects, and the same blacklist impacted countries differently, illustrating the importance of disaggregating the analysis by individual countries. Research limitations/implications: Interpretation of these data is limited by the absence of comparable data on non-resident deposits in blacklisted jurisdictions. Practical implications: The impact of a blacklist depends in part on the structure of the listed jurisdictions’ economies, implying that country-specific sanctions may be more effective than blacklists. Originality/value: This is one of the very few papers to date to rigorously test the impact of blacklists on external deposits. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

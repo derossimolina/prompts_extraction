@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0032-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating crypto assets in the United States: balancing regulatory effectiveness, investor protection, and cross-border challenges",
+    "authors": "Jaffri A.M.",
+    "year": "2026",
+    "doi": "10.1093/cmlj/kmag015",
+    "abstract": "The rapid expansion of crypto-asset markets has exposed fundamental tensions within the United States’ financial regulatory framework. Rather than adopting a comprehensive statutory regime, US policymakers have largely relied on legacy securities, commodities, banking, and anti-money laundering laws to govern technologically novel forms of intermediation. This approach has produced meaningful enforcement outcomes, but it has also generated legal uncertainty, uneven investor protection, and persistent opportunities for regulatory arbitrage. This article evaluates US crypto-asset regulation through three lenses central to capital markets law: regulatory effectiveness, investor protection and market integrity, and cross-border risk management. It argues that enforcement-driven perimeter-setting, while indispensable in the early stages of market development, is insufficient to provide durable compliance pathways or market stability. Recent legislative and supervisory developments—most notably the enactment of a federal payment stablecoin framework and ongoing market-structure proposals—signal a shift towards more coherent, activity-based regulation. Nonetheless, significant gaps remain in the regulation of crypto intermediaries, particularly with respect to disclosure, custody, conflicts of interest, and cross-border supervision. The article concludes that a sustainable US approach must move beyond asset classification disputes and instead construct a functional intermediary regime aligned with established capital markets principles of transparency, fair dealing, and resilient market infrastructure. © The Author(s) (2026). Published by Oxford University Press.",
+    "source": "Capital Markets Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

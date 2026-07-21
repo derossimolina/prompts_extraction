@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0608-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Shadows in the Wheat Fields: Unravelling the Implications of Organized Crime in the Black Sea Grain Initiative",
+    "authors": "Tuliakov V.",
+    "year": "2024",
+    "doi": "10.31389/jied.241",
+    "abstract": "Since July 2022, Ukraine has had a pivotal role in alleviating the global food crisis by leveraging its grain supply chain, even in times of war. Despite the political advantages and formal control exerted by UN authorities over this initiative, the presence of organised crime in the Black Sea region has brought forth profound implications. These include economic losses for legitimate businesses, distorted market prices, reduced government revenues, compromised food safety and a weakened rule of law. This article sheds light on the broader societal impacts of organised crime in the grain trade, such as fostering corruption, eroding trust in institutions and perpetuating social inequality through various illicit activities. Based on open-source intelligence analysis and focused interviews, this article demonstrates how organised crime infiltrates the grain trade in multiple ways, from the misuse of sanctions and control of supply chains by Russian forces to organised groups in Ukraine facilitating fraudulent transactions, customs abuse and corruption in the southwest of the country. These criminal networks exploit weak border controls and porous maritime routes to smuggle grain across international borders, further worsening the security situation in the region and undermining the integrity of state institutions. The situation requires a comprehensive approach that involves strengthening border controls, enhancing transparency and traceability in the supply chain, implementing robust quality control mechanisms and promoting international cooperation. © 2025 The Author(s).",
+    "source": "Journal of Illicit Economies and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

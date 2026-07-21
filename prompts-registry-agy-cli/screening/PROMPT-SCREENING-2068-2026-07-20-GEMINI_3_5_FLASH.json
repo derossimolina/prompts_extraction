@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2068-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Real estate value: Creation and destruction",
+    "authors": "Roulac S.; Adair A.; Mcgreal S.; Berry J.; Allen S.",
+    "year": "2006",
+    "doi": "10.1108/14635780610708293",
+    "abstract": "Purpose A central consideration in real estate is the analysis of those factors that impact upon value, in particular how value is created in real estate development and investment deals. The converse of understanding how real estate value may be destroyed is equally important. The paper seeks to argue that a better understanding of these processes would allow more informed and successful decisions to be made in structuring investments and evaluating performance. Design-methodology-approach An innovative web-based survey tool was employed. The paper analyses expert opinion based on a sample of 97 real estate professionals from North America and Europe. Those issues that can impact on the creation and destruction of value in real estate development and investment projects and their relative magnitude of impact are assessed. Findings There is no apparent distinction between those factors that create value and those that destroy value, though there are variations in the magnitude of impact. Idea-concept is the major influence for development projects and is even more pronounced for real estate investment. Perception-recognition of the opportunity is a key driver of value. Research limitations-implications Limitations arise from the response rate which allows an upper tier of analysis across the entire data set but is not of sufficient size to disaggregate either by respondent professional group or by geographical region. Originality-value Although the objective of real estate development, investment and deal making is value creation, there is, paradoxically, little literature about creating value. This paper is the first study to elicit opinion internationally on the subject and to quantify the relative contribution of a range of factors concerning value creation and destruction in a real estate project. © 2006, Emerald Group Publishing Limited",
+    "source": "Journal of Property Investment & Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

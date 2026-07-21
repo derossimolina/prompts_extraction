@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0369-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "“Everyone freaks out when the leaks are made”: data leaks, investigative journalism and intelligence practice",
+    "authors": "Scott B.",
+    "year": "2024",
+    "doi": "10.1108/JFC-05-2023-0123",
+    "abstract": "Purpose: This paper aims to examine the history of data leaks and investigative journalism, the techniques and technology that enable them and their influence in Australia and abroad. It explores the ethical and professional considerations of investigative journalists, how they approach privacy and information-sharing and how this differs from intelligence practice in government and industry. The paper assesses the strengths and limitations of Collaborative Investigative Reporting based on Information Leaks (CIRIL) as a kind of public-facing intelligence practice. Design/methodology/approach: This study draws on academic literature, source material from investigations by the International Consortium of Investigative Journalists and the Organised Crime and Corruption Reporting Project, and a survey of financial crime compliance professionals conducted in 2022. Findings: The paper identifies three key causal factors that have enabled the rise of CIRIL even as traditional journalism has declined: the digital storage of information; increasing public interest in offshore finance and tax evasion; and “virtual newsrooms” enabled by internet communications. It concludes that the primary strength of CIRIL is its creation of complex global narratives to inform the public about corruption and tax evasion, while its key weakness is that the scale and breadth of the data released makes it difficult to focus on likely criminal activity. Results of a survey of industry and government professionals indicate that CIRIL is generally more effective as public information than as an investigative resource, owing to the volume, age and quality of information released. However, the trends enabling CIRIL are likely to continue, and this means that governments and financial institutions need to become more effective at using leaked information. Originality/value: Over the past decade, large-scale, data-driven investigative journalism projects such as the Pandora Papers and the Russian Laundromat have had a significant public impact by exposing money laundering, financial crime and corruption. These projects share certain hallmarks: the use of human intelligence, often sourced from anonymous leaks; inventive fusion of this intelligence with data from open sources; and collaboration among a global collective of investigative journalists to build a narrative. These projects prioritise informing the public. They are also an important information source for government and private sector organisations working to investigate and disrupt financial crime. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

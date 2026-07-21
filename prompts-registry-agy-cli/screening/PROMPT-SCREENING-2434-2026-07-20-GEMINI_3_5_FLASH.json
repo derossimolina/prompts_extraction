@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2434-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "When Bitcoin is high: cryptocurrency value, illicit markets and US marijuana bills",
+    "authors": "Shanaev, S; Johnson, E; Vasenin, M; Panta, H; Ghimire, B",
+    "year": "2024",
+    "doi": "10.1108/JFRC-09-2023-0146",
+    "abstract": "PurposeThe purpose of this paper is to estimate the implications of illicit market use for the value of Bitcoin in an event studies framework.Design/methodology/approachThis study uses a data set of 58 state-level marijuana decriminalisation and legalisation bills and referenda in the USA in 2010-2022.FindingsDecriminalisation is associated with a strong and consistent positive Bitcoin price response around the event, recreational legalisation induces a more ambiguous reaction and medical legalisation is found to have a negative albeit small impact on Bitcoin value. This suggests decriminalisation enhances shadow economy use value of Bitcoin, whereas recreational and medical legalisation are not consistently reducing illicit drug cryptomarket activity. The effects are robust to various estimation windows, in subsamples, and also when outliers, heavy tails, conditional heteroskedasticity and state size are accounted for.Originality/valueNew to the literature, the choice of US marijuana bills, specifically as sample events, is based on both theoretical and empirical grounds.",
+    "source": "JOURNAL OF FINANCIAL REGULATION AND COMPLIANCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

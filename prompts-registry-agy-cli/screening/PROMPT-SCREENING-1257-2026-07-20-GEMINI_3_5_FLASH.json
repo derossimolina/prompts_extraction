@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1257-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Strengthening the role of lawyers and other professional advisers in addressing economic and financial crimes in Indonesia",
+    "authors": "Lukito A.S.",
+    "year": "2019",
+    "doi": "10.1108/JFC-11-2016-0072",
+    "abstract": "Purpose: This paper aims to explain the regulations in Indonesia that apply to lawyers and other professional advisers in terms of their obligations as reporting parties of suspicious financial transactions with respect to money laundering and other financial crimes. As lawyers and other professional advisers offer services to the business community in Indonesia, they are vulnerable to becoming parties to illegal business transactions. The results could lead to bribery, graft, tax crime and corruption in Indonesia. Design/methodology/approach: This paper explores and analyzes the obligations of lawyers and other professional advisers under Indonesian law, with particular reference to their obligations as reporting parties in efforts to prevent economic crime within the country’s business community. Findings: Lawyers and other professional advisers, as reporting parties, can be viewed as the gatekeepers that inhibit economic and financial crimes. Consequently, a new perspective is needed for all of the legal professions so that they can protect themselves from the risks of being targeted by nefarious clients/offenders. To strengthen the role of these advisers, it is recommended that both a code of ethics and know your customer principle to be implemented. Practical implications: This paper can serve as a resource that explores the functions of lawyers and other professional advisers as reporting parties whose aim is to prevent financial and economic crime in Indonesia. Originality/value: This paper encourages lawyers, other professional advisers, and public and private institutions to implement a code of ethics, and also integrity and professionalism, with a view to preventing economic and financial crimes. According to the code, the functions and obligations of lawyers and other professional advisers include discouraging such offenses. The code becomes effective when legal professionals adhere to legal ethics and integrity. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

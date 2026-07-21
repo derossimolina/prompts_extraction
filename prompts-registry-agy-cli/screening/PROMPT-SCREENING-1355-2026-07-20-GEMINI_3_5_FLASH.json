@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1355-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulation of virtual currencies in the United Arab Emirates: accounting for the emerging public/private distinction",
+    "authors": "El Maknouzi M.E.H.; Sadok H.",
+    "year": "2021",
+    "doi": "10.1080/21665095.2021.1980413",
+    "abstract": "This article maps the changing global conversation on virtual currencies (VCs) internationally And brings that to bear on the development of a suitable regulatory framework for VCs in the United Arab Emirates (UAE). Through a review of recent international developments, the article notes a reversal in regulatory attitude towards VCs. This review suggests two emerging horizons of regulatory intervention. The first concerns the public issue of VCs to develop financial traceability and economic transparency–an arrangement that would be particularly relevant for developing countries with large informal economies. In particular, public VC issue raises follow-up questions of technological adequacy and the legal status of a means of payment guaranteed by the State. The second concerns privately issued VCs traded on independent platforms and focuses on the trade off between economic development, through a private market for VCs, and the risks connected to money laundering and the financing of terrorism. Here, a two-pronged system of ex ante licensing to private venture capitalists, coupled with ex post-sanctions, appears to be an emerging international standard for supporting economic development in countries marked by the preponderant weight of an underground economy. © 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Development Studies Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

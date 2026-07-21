@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0613-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Customer’s awareness, trust, discomfort and acceptance of anti-money laundering practices in Malaysian Banks",
+    "authors": "Azman Aziz Z.Z.; Md Daud S.A.M.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-08-2021-0087",
+    "abstract": "Purpose: This study aims to examine the associations between customers’ awareness of money laundering and terrorism financing, trust in banking secrecy measures and discomforts in fulfilling the bank’s anti-money laundering (AML) procedure and their acceptance of existing practices of banks regarding AML and counter-terrorism financing. Design/methodology/approach: This study adapts a set of survey instruments developed and validated by prior studies to collect the required data. A convenient sample of 160 Malaysian bank customers aged 18 and above were surveyed to collect the data. Findings: This study finds a significant relationship between the respondents’ awareness of money laundering and terrorism financing, trust in banking secrecy measures and their acceptance of the bank’s AML and counter-terrorism financing practices. However, no significant relationship is documented between the level of discomforts experienced by customers in satisfying the banks’ AML requirements and their acceptance of the banks’ AML practices. These results hold even after controlling for alternative explanations of the customers’ acceptance of banking practices examined in the extant literature: age, gender, location, literacy level and occupation. Research limitations/implications: This study extends the literature on customers’ acceptance of banking practices more broadly by providing empirical evidence on the role of customers’ awareness on issues underlying the banking practices and their trust in the bank’s secrecy measures. Practical implications: This study also provides some practical contributions by shedding some light on the factors that could help banks increase the acceptance of AML practices among their customers. Thus, the findings of this paper help banks focus their effort on these factors and hence increase acceptance rate more effectively. Originality/value: Drawing on the elements of the theory of reasoned actions and technology acceptance model and the extant research on trust-privacy and comfortability in a banking setting, this study proposes an integrated approach that is theoretically and empirically grounded. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1591-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Concealment, corruption, and evasion: A transaction cost and case analysis of illicit supply chain activity",
+    "authors": "Basu G.",
+    "year": "2014",
+    "doi": "10.1007/s12198-014-0140-8",
+    "abstract": "Global illicit trade involves the economic exchange of prohibited goods and services, ranging from the trafficking of illegal narcotics, endangered wildlife, stolen cultural artifacts, illegal weapons to the exploitation to migrants and sex workers. The economic, organizational, and social friction between illicit supply chain actors and law enforcement creates multiple risks and coordination costs. Furthermore, the uncertainty of the regulatory, legal, and competitive environment, specificity of physical and human assets, and transactional frequency inherent in illicit supply chains exhibit unique transaction costs, such as concealment, evasion, and corruption. This paper proposes a conceptual model based on the theoretical framework of transaction costs economics and case analysis, in order to glean some insights into the institutional dynamics, transaction costs and operational components of these supply chains. © 2014 Springer Science+Business Media New York.",
+    "source": "Journal of Transportation Security"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0847-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Let the Digital Euro Circulate: Introducing a Retail C.B.D.C. in the Eurozone With Unlimited Holdings by Users",
+    "authors": "Warren M.",
+    "year": "2023",
+    "doi": "10.6092/issn.2531-6133/16907",
+    "abstract": "The European Central Bank (E.C.B.) anticipates including a holding limit of about e3,000 per user within the design of its potential retail central bank digital currency for the Eurozone, the digital euro. This is principally motivated by concerns regarding compliance with regulations related to anti-money laundering and countering the financing of terrorism and the disintermediation of banks as credit intermediaries. This paper argues that these concerns are unwarranted, and, in any case, the holding limit would not be an effective solution to these concerns. The digital euro could be introduced with unlimited holdings by individual users in conformity with E.U. law and while maintaining banks as credit intermediaries in the Eurozone financial system. © 2023 Vandenhoeck and Ruprecht GmbH and Co. KG. All rights reserved.",
+    "source": "University of Bologna Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

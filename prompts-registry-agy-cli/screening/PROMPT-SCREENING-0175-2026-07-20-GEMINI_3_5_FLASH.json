@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0175-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "New rules for the rationing of the provision of crypto-assets service in light of the MiCA Regulation; [Nowe zasady reglamentacji świadczenia usług w zakresie kryptoaktywów w świetle rozporządzenia MiCA]",
+    "authors": "Piętka J.",
+    "year": "2025",
+    "doi": "10.12775/SIT.2025.006",
+    "abstract": "The article addresses the issue of changes to the rules for conducting economic activity in the crypto-assets market. The MiCA Regulation has comprehensively regulated the aspects most relevant to the sector, including the requirement to obtain authorisation to operate as a crypto-assets service provider. This necessitates a departure from the current rationing rules under AML/CFT legislation. The purpose of the article is to analyse the new requirements that must be met by entities intending to provide this type of service, compared to the current rationing rules. The article also attempts to identify the implications that the changes introduced may have for business entities and investors placing their funds in crypto-assets. © 2025, Nicolaus Copernicus University. All rights reserved.",
+    "source": "Studia Iuridica Toruniensia"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

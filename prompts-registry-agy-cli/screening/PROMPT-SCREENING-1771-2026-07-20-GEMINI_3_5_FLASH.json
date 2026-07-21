@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1771-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Framework for structuring public private partnerships in railways",
+    "authors": "Gangwar R.; Raghuram G.",
+    "year": "2015",
+    "doi": "10.1016/j.cstp.2014.08.005",
+    "abstract": "Structuring public private partnerships (PPP) in railways is a challenge, given its technology base, and obligation as a public and affordable mode of transportation. The sector provides strong incentives for vertical integration due to economies of scope. However, it is evident from the literature that large integrated PPPs in railway systems are not feasible due to higher commercial risks. They also suffer from implicit cross subsidization since the railway infrastructure is capital intensive, common to multiple revenue sources, and fare box revenues are generally not sufficient to recover investments. This is being addressed by various unbundling approaches in recent PPPs. The common unbundling is between infrastructure, operations, and services.The objective of this research is to explore the potential of unbundling further and to come up with a framework that helps policy makers in taking macro level decisions on PPP structuring. The research disaggregates the railway system into over 40 'elements' wherein an element is the smallest unit that can be given to a party for execution. However this unbundling would result in significant horizontal and vertical interfaces between these elements.A sustainable PPP would need to limit the extent of interfaces due to transaction costs and risks. This can be achieved by bundling the elements horizontally and/or vertically into 'entities' to extract the best value for a PPP. The governing principles would be scale economies (horizontal integration), scope economies (vertical integration), need for competition (horizontal disaggregation), level playing field, transactional transparency, and need for specialization (vertical disaggregation). Additional drivers would be appetite for investment, availability of competence and accountability for an entity. The findings of the research indicate that the entity formation is one of the most crucial aspects of a PPP in railways.A consequential critical area is managing the interfaces between entities, which are subject to transaction costs and risks. These should be carefully identified and addressed by well-designed contractual agreements and independent regulation. © 2014 World Conference on Transport Research Society.",
+    "source": "Case Studies on Transport Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

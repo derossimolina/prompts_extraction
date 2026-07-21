@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1471-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulatory relationships and incentives: from Riggs Bank to HSBC",
+    "authors": "O’Sullivan P.J.",
+    "year": "2017",
+    "doi": "10.1108/IJLMA-04-2016-0041",
+    "abstract": "Purpose: The aim of the paper is to examine what type of relationship existed between the Office of the Comptroller of the Currency (OCC) and Riggs Bank in respect of anti-money laundering (AML) compliance. Different commentators have established certain trends in the interaction between a regulator and a regulated entity, and this paper seeks to apply these findings to the relationship between the OCC and Riggs Bank and ascertain where this example lies in the wider domain of regulatory relationships. The paper then examines whether the relationship between the OCC and HSBC United States was similar to the one between the OCC and Riggs Bank or did the regulator adopt a more aggressive supervisory stance. Throughout this work, there is also a focus on the underlying incentives which may adversely affect how a financial institution interacts with a financial regulator and possible solutions to this problem proposed. Design/methodology/approach: Research undertaken by commentators was assessed and their findings as the different regulatory relationships that may develop between a regulator and a regulated entity were applied to the interactions between the OCC and two different financial institutions, namely, Riggs Bank and HSBC United States. Examples from the Senate Subcommittee Reports into the AML failings into these financial institutions were examined through the prism of pre-existing regulatory relationship categories. Findings: The paper ultimately concludes that the OCC was far too passive in its interactions with both Riggs Bank and HSBC United States and that the primary underlying motivations for both institutions were profit- rather than compliance-led. Research limitations/implications: One of the main limitations to this research was the absence of direct input from either personnel from the banking sector in the USA or of regulators from the same jurisdiction. Practical implications: This paper proposes a number of practical solutions to recast the relationship between financial regulators and regulated institutions away from the former deferring to the latter to one where the former dictates to the latter. Originality/value: This paper seeks to examine an actual regulatory relationship between a financial regulator and two different institutions that is reported in the public domain by applying pre-existing academic research on question of regulatory relationships and see how the practice differs or corresponds with the theory. © 2017, © Emerald Publishing Limited.",
+    "source": "International Journal of Law and Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

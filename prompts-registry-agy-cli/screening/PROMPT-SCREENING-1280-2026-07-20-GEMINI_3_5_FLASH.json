@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1280-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The legal combat of financial crimes: A comparative assessment of the enforcement regimes in Nigeria and South Africa",
+    "authors": "Ojukwu-Ogba N.; Osode P.C.",
+    "year": "2020",
+    "doi": "10.1163/17087384-12340069",
+    "abstract": "Financial crimes are debilitating problems for economies, especially emerging ones. The scourge of financial crimes includes money laundering, fraud, drug and human trafficking, terrorism financing, bribery, embezzlement, market manipulation, tax evasion, identity theft, forgery and cybercrime. These problems are so intractable and potentially destructive that the collective effort to prevent or contain them has gone global. The imperative of enhanced transparency and financial system integrity, not only in national financial systems but also in the international financial order, has become inevitable. This has resulted in the landmark frameworks of the United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances and the G7’s Financial Action Task Force. This paper discusses the legal combat of financial crimes in two major African economies: Nigeria and South Africa, with particular emphasis on money laundering and terrorism financing due to their direct negative macro-economic implications for any economy. The focus on the twin problems in those two economies is based on their pre-eminent position in Africa. The paper examines the legal frameworks for the prevention or containment of the scourge in the two countries and interrogates measures that could engender their effective control. © Koninklijke Brill NV, Leiden, 2020",
+    "source": "African Journal of Legal Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2416-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Turning Legally Obtained Resources into Illegal Payments: A Money Dirtying Scheme",
+    "authors": "Costa, J; Jancsics, D",
+    "year": "2024",
+    "doi": "10.1007/s10610-024-09591-z",
+    "abstract": "This study focuses on the movement of money in a financial infrastructure built to conceal its origin and destination. The literature has addressed this theme in the field of money laundering, converting illegal money into a legitimate source, yet less is known about the reverse process, hiding and transferring legally generated resources to pay kickbacks to officials. We aim to analyze how these money dirtying schemes operate and explore their hidden mechanisms. The paper studies what happens to money in an unseen financial cluster and identifies the main actors and infrastructures essential for managing such process. Using desk research and qualitative analysis of various documents, the article examines the corruption scheme designed by the Odebrecht group to generate resources to bribe politicians and bureaucrats in Latin American and Sub-Saharan countries. It zooms in on one key component of this system, a cluster around two Peruvian entrepreneurs, where money becomes hidden from the eyes of law enforcement agencies and investigators. The main contribution lies in the conceptual distinction between money laundering and money dirtying schemes and the opportunity to expose and interpret the otherwise invisible critical processes of such illicit resource movements.",
+    "source": "EUROPEAN JOURNAL ON CRIMINAL POLICY AND RESEARCH"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

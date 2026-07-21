@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1019-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Virtual assets: compelling a new anti-money laundering and counter-terrorism financing regulatory model",
+    "authors": "Schmidt A.",
+    "year": "2021",
+    "doi": "10.1093/ijlit/eaac001",
+    "abstract": "Virtual assets present unique Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) risks that have been overlooked by global regulation in the past. This article considers virtual assets' potential as a new way to exchange value and the need for effective AML/CTF regulation. It analyses the emerging issues that will elevate the risks and considers the current global regulatory response including the reliance on centralized intermediaries. This article recommends extending the regulatory framework to include regulation that is native to the peer-to-peer nature of virtual assets to address the risks. This article argues this new regulatory model will ultimately be more effective in achieving the goal of AML/CTF regulation than the current regulation has been in the traditional financial system. Despite the inherently global nature of virtual assets, where the domestic perspective is required this will be considered in the context of Australia, drawing upon other jurisdictions where applicable. © 2022 The Author(s). All rights reserved.",
+    "source": "International Journal of Law and Information Technology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

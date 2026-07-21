@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1508-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Nigerian Money Laundering (Prevention and Prohibition) Bill, 2016: a critical appraisal",
+    "authors": "Esoimeme E.E.",
+    "year": "2017",
+    "doi": "10.1108/JMLC-07-2016-0025",
+    "abstract": "Purpose: This paper aims to critically examine the Money Laundering (Prevention and Prohibition) Bill, 2016. It also aims to determine the level of effectiveness of the preventive measures in the Bill. Design/methodology/approach: The appraisal took the form of a desk study, which analyzed various documents and reports such as the Financial Action Task Force Recommendations 2012, Mutual Evaluation Reports conducted by the Inter-Governmental Action Group against Money Laundering in West Africa (GIABA) on Nigeria, the judgment delivered by Justice Gabriel Kolawole of the Federal High Court Abuja and the United Kingdom’s national risk assessment of money laundering and terrorist financing. Findings: This paper determined that the Bill could achieve its core objectives if the following recommendations are implemented: section 15 of the Bill should be modified to include the definition of “Arrangement”; lawyers should be allowed to send their Suspicious Transaction Report to the Nigerian Bar Association, provided that there are appropriate forms of cooperation between the NBA and the Financial Intelligence Unit, and this approach is in line with the Financial Action Task Force Recommendations; the Bill should expressly prohibit retaliation by employers against whistleblowers and provide them with a private cause of action in the event that they are discharged or discriminated against by their employers, and this approach is being adopted by the US Dodd–Frank Act; a request for customer information, by the Director-General of the Nigeria Financial Intelligence Centre, should be made pursuant to an order of the Federal High Court obtained upon an ex-parte application supported by a sworn declaration by an authorized officer of the Centre, justifying the request for customer information. Originality/value: This paper offers a critical appraisal of the Money Laundering (Prevention and Prohibition) Bill, 2016. The paper will identify the strengths and weaknesses of the Bill. This is the only paper to adopt this kind of approach. © 2017, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

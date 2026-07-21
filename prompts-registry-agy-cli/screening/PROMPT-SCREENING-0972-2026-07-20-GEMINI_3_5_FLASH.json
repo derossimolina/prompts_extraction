@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0972-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Taxonomies of money laundering: an Iranian perspective",
+    "authors": "Molla Imeny V.; Norton S.D.; Salehi M.; Moradi M.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-07-2020-0074",
+    "abstract": "Purpose: This study aims to identify the sources of laundered money in Iran and the destinations to which it is transferred, independently verified by auditors. Based on such data, the study aims to develop a simple model of endogenous and exogenous factors facilitating money laundering in developing countries, which can inform domestic and international legislative and regulatory responses. Design/methodology/approach: Questionnaires were sent to Iranian certified public accountants who worked for auditing firms in 2019 and who have encountered suspected money laundering during their work with clients. Findings: The government and public officials are the primary sources of money laundering activity in Iran. The main destinations of laundered funds are investments abroad, gold, foreign currencies, real estate and purchases of luxury goods. Domestic legislation, while bearing similarities with that found in other jurisdictions such as the UK and the USA, is flawed in several ways, including an inability to determine beneficial ownership of funds and weak enforcement. Originality/value: Because of international sanctions and the prevailing political situation, it is difficult to obtain data for money laundering and other financial crimes in Iran. The data obtained is of importance to international bodies in understanding the nature of money laundering in Iran, and how to negotiate in the future to address mutual concerns. Given the country’s perceived high association with money laundering, the data obtained is of value in identifying the specific characteristics of the problem. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

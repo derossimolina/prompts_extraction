@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0730-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Encrochat: The hacker with a warrant and fair trials?",
+    "authors": "Stoykova R.",
+    "year": "2023",
+    "doi": "10.1016/j.fsidi.2023.301602",
+    "abstract": "This paper introduces the Encrochat operation as an example of the technological, cross-border, and cross-disciplinary complexity of one contemporary digital investigation. The use of encryption for large-scale criminal activity and organized crime requires law enforcement to act pro-actively to secure evidence, to rely on cross-border evidence exchange, and to use more efficient digital forensic techniques for decryption, data acquisition, and analysis of volumized evidence. The Encrochat investigation also poses the question whether the traditional fair trial principle can still ensure minimum state intrusion and upholding of legitimacy in the new ubiquitous investigation process, where digital forensics methods and tools for hacking and data acquisition are used to identify and arrest thousands of suspects and collect evidence in real-time during criminal activity. The operation is examined through the lens of the right to a fair trial, as codified in Art. 6 ECHR, in order to exemplify three challenging aspects. Firstly, in cross-border investigations there are no binding digital forensics standards in criminal proceedings or forensic reports exchange policy which demands reliability and compliance with Art. 6 ECHR-based evidence rules. Secondly, the defense's stand is not sufficiently addressed in current digital evidence legislation or mutual trust-based instruments at the EU level. Finally, the judicial process lacks scalable procedures to scrutinize digital evidence processing and reliability and is exposed to technology dependences. The identified gaps and their practical impact require a novel approach to digital evidence governance. © 2023 The Author",
+    "source": "Forensic Science International: Digital Investigation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

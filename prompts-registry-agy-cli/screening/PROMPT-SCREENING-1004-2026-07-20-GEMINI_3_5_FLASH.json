@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1004-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Strategizing sustainability in the banking industry using fuzzy cognitive maps and system dynamics",
+    "authors": "Paiva B.M.R.; Ferreira F.A.F.; Carayannis E.G.; Zopounidis C.; Ferreira J.J.M.; Pereira L.F.; Dias P.J.V.L.",
+    "year": "2021",
+    "doi": "10.1080/13504509.2020.1782284",
+    "abstract": "Sustainable banking is an issue that has been growing in importance around the world since the 2008 global crisis. Because the banking system is a major economic and financial intermediary, it has a significant impact on diverse stakeholders. In this context, understanding the determinants of long-term survival of the banking industry appears to be important to ensuring sustainable banking. Based on a constructivist stance, this study sought to identify sustainability strategies in the banking industry through a combination of fuzzy cognitive mapping (FCM) and the system dynamics (SD) approach. The main goal is to develop an easily understood model of sustainable banking to help decision makers analyze the dynamics of the cause-and-effect relationships between determinants of sustainable banking and project long-term scenarios. The insights obtained were derived from two group sessions with a panel of decision makers who deal with banking processes on a daily basis and were validated by the Director of the technical unit for sustainability of Millennium BCP, one of the largest banking corporations in Portugal. Static and dynamic analyses were also carried out, the results of which support the study’s main conclusions and reinforce the relevance of the proposed dual methodology. © 2020 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "International Journal of Sustainable Development and World Ecology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

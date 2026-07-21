@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1425-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring transnational interests: the second-order effects of soft law in the politics of global finance",
+    "authors": "Newman A.; Posner E.",
+    "year": "2016",
+    "doi": "10.1080/09692290.2016.1216004",
+    "abstract": "International soft law has become a hallmark of global economic governance: networks of official and private ‘governors’ create standards, best practices and norms. Research often frames these efforts as solutions to perceived problems arising from globalization. Yet the narrow focus on the rulemaking process–coordination, distributive implications and implementation–misses second-order political repercussions. Giving special attention to the interaction between international soft law and the political landscape of business advocacy, this article offers an alternative account of the relationship between transnational rules and powerful actors. We argue that transnational informal institutions are not only sites of cooperation that resolve the economic policy concerns of the day, but are also sources of policy feedback that can transform the political landscape. To illustrate the potential empirical traction of these arguments, we examine the critical case of the Basel Committee on Banking Supervision and the Institute of International Finance (IIF). The IIF went from being a struggling organization with no regulatory agenda or lobbying skills to the world's most influential financial industry advocate directly engaging transnational forums. We find that second-order effects of soft law were a primary cause of the IIF's transformation. Our study has major implications for research on global governance as we highlight the political ramifications and temporal effects of informal institutions for business representation. © 2016 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Review of International Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

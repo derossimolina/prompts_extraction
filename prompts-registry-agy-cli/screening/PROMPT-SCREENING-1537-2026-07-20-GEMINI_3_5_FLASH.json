@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1537-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Social Construction of Male Tourism Deviance: The Case of Agia Napa (AN), Cyprus",
+    "authors": "Theocharous A.; Zopiatis A.; Philaretou A.G.",
+    "year": "2015",
+    "doi": "10.1007/s12119-015-9293-2",
+    "abstract": "This study is of an exploratory nature and aims at providing both a theoretical discussion and an empirical investigation of the relationships between young male tourists’ behavioral intentions and predispositions, their risky deviant vacation patterns (primarily alcohol/substance abuse and casual/unprotected sex), and the structuring of deviance in their tourist destination, during their vacationing in a famous Southern Mediterranean tourist resort known as Agia Napa (AN), in the country of Cyprus. The major methodological mode includes a combination of qualitative and quantitative field research data collection techniques. The sample includes male tourists belonging to various social networks visiting AN, during the summer months of early June to late August (the primary tourist season). The sampling procedure includes respondent driven (snowball) sampling derived from various male tourist and tourist industry related deviant risk networks operating in AN. Results indicate that the vast majority of the young male respondents expressed the view that they do not have any problem with drinking. However, for the whole sample, almost half of them (51.4 %) indicated that they had been unable to stop drinking once started and over one-third (36.8 %) reported either sustaining or causing injury because of drinking. There exists a deviant synergy in the structuring of the AN environment as evidenced by the twelve in-depth interviews. To this end, understanding how the financial network of bars, clubs, parties, protection companies, beach parties and tour operators works is crucial in delineating the conditions that render the AN environment ripe for the actualization of male tourism deviance. © 2015, Springer Science+Business Media New York.",
+    "source": "Sexuality and Culture"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

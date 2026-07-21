@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1125-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Libra Project: Regulators Act on Global Stablecoins",
+    "authors": "Read O.; Schäfer S.",
+    "year": "2020",
+    "doi": "10.1007/s10272-020-0936-7",
+    "abstract": "Governments, regulatory authorities and standard-setting bodies started acting on global stablecoins triggered by the Libra announcement. Among the concerns expressed by the G7 and the G20 are risks to the stability of the financial system. The Financial Stability Board and the Financial Action Task Force have worked on regulatory issues and anti-money laundering ahead of the G20 summit in November 2020. Overall the Libra project has raised many questions on the regulatory front. Facebook had to revise the concept as Libra 2.0 and resubmit it for approval in April 2020. The European Commission announced a new regulation on Markets in Crypto-assets (MiCA) including stablecoins in September 2020 as part of a new Digital Finance Package. This opens the next chapter in a regulatory cat and mouse game. © 2020, The Author(s).",
+    "source": "Intereconomics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

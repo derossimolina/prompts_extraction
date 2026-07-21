@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0006-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Countering the Legalization of Proceeds from Drug Trafficking in the Context of Digital Development of the Republic of Kazakhstan",
+    "authors": "Yerkenov B.; Bimoldanov Y.; Saitbekov A.",
+    "year": "2025",
+    "doi": "10.1017/cri.2025.10071",
+    "abstract": "This study examines how to counter the legalization of proceeds from illicit drug trafficking in the context of Kazakhstan’s digitalizing economy. It analyses industry reports and applies Walker’s gravity formula and a related conceptual model. Such proceeds account for 2 to 5% of annual gross domestic profit globally, highlighting a serious economic issue. In Kazakhstan, this problem is intensified by the country’s location on major drug trafficking routes and insufficient alignment of its financial sector with international standards for monitoring financial transactions. The risks are worsened by the anonymity and speed of digital tools, which hinder the detection and blocking of suspicious activity. Criminals exploit digital technologies-such as debit cards, peer-to-peer platforms and privacy coins-to launder illicit funds. To combat this, the study recommends using big-data analytics to detect risks, machine learning to respond to them, international cooperation to establish transaction standards, and continuous monitoring to ensure compliance. Implementing these measures will require multi-sectoral reforms and coordinated efforts across public administration. © International Society of Criminology, 2025 International Society of Criminology.",
+    "source": "International Annals of Criminology"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

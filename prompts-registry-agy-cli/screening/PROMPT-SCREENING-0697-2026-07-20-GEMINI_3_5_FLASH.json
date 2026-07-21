@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0697-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blockchain adoption in health market: a systems thinking and modelling approach",
+    "authors": "Nanda S.; Nanda S.",
+    "year": "2022",
+    "doi": "10.1108/JABS-11-2020-0457",
+    "abstract": "Purpose: The purpose of this paper is to formulate strategic interventions that can contribute to adoption of blockchain in Asian health market. Design/methodology/approach: A methodological framework based on the three qualitative phases of the systems thinking and modelling methodology, namely, problem structuring, causal loop modelling and developing strategic interventions were used. Data was collected using thirty interviews and secondary research. Findings: The reference model developed in the study captured the system behavior, showing health market blockchain adoption increasing in other countries but struggling in Asia. The qualitative systems model developed explained this behavior by capturing the underlying system structure using six interconnected feedback loops. Three strategic interventions were formulated to change the system structure to improve its adoption. Research limitations/implications: This study acknowledges its limitation that blockchain integration in health supply chain management (SCM) and adaptability to technological trends are just few elements that contributes to challenges in blockchain adoption in Asia Pacific health market. It also acknowledges the limited scale of this study using 30 interviews with a narrow set of stakeholders, limiting its generalisability. Practical implications: Although the blockchain technology has medical data security benefits, its integration in health SCM could potentially improve cost of health service delivery to patient. Not only it prevents drug counterfeiting, it enhances patient’s safety by reducing the time it takes to alert the supply chain of a product recall from few days to few seconds. Social implications: “Blockchain-as-a-Service” has wide applications in SCM, identity management, payments, smart contracts, governance risk and compliance management, with its market size expected to grow in future. This affordable solution opens up the roads for future empirical research for information systems academicians and information technology practitioners. Originality/value: This research provides a holistic analysis of the challenges facing blockchain adoption in the health market for Asia. It offers a methodological approach based on systems thinking and modelling to improve its adoption. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Asia Business Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

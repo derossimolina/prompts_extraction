@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0559-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "On the Auction Block: The Garment Industry and the Deindustrialization of New York City",
+    "authors": "Battle A.",
+    "year": "2023",
+    "doi": "10.1017/S0147547922000059",
+    "abstract": "Several important studies of New York City's fiscal crisis of the 1970s identify the city's deindustrialization as a key component. The flight of manufacturers from New York fostered a racialized unemployment crisis while eroding the city's tax base, undermining its ability to meet increasing demands for social services, creating incentives for policymakers to focus on real estate development as the motor of the city's political economy, and weakening the institutions, especially labor unions, that had served as bulwarks of the city's unique (by American standards) brand of municipal social democracy. This article explores the roots of deindustrialization in one of New York City's most important industries, the manufacture of clothing. Capital flight, in the form of runaway shops, began as early as the teens, when the International Ladies' Garment Workers Union (ILG) established itself through a series of key battles. The handmaiden to runaway shops was the reemergence of contracting, whereby the assembly of garments was disaggregated in terms of time, space, and legal identity. The twin forces of contracting and runaways threatened the existence of the ILG by draining garment work out of its New York City stronghold. I trace efforts to combat it through their culmination in what I call the New Deal settlement, a stabilization of the industry across what contemporary analysts called the New York Production Area. This settlement, I argue, was at once geographical, political, cultural, and economic. Its goal was to limit competition and establish a new equilibrium in the garment industry, one that could permit manufacturers acceptable profits without resort to the sweatshop. I borrow the notion of a regulating capital from the economist Anwar Shaikh to describe these attempts to engineer a reproducible cost structure. As soon as the New Deal settlement emerged, manufacturers began working to collapse it. I trace the dispersion of garment work to places like northeastern Pennsylvania, where manufacturers enlisted the wives and daughters of unemployed anthracite miners to sew their garments. Factory owners, sometimes linked to organized crime, sought to establish a new regulating capital rooted in relationships of domination, protected by authoritarian local governments. When imported garments arrived in the 1950s, a new regulating capital rooted in a worldwide sweatshop economy forced manufacturers to leave Pennsylvania for the US South, the Caribbean, and beyond. In an attempt to link political economy with social history, I stress that the currency of regulating capitals, particularly in labor-intensive industries, is political domination. Throughout, I illustrate these processes with reference to Judy Bond, the blousemaker whose departure for the US South prompted a widely publicized but unsuccessful national boycott led by the ILG. In terms of the historiography of New York City's deindustrialization, this account offers an alternative emphasis to that of Robert Fitch, whose influential account emphasized a conscious policy to deindustrialize the city, overseen by the real estate industry. Instead, I show how deindustrialization was rooted in significant ways in the dynamics of competition themselves, shaped at each stage by particular social relationships, state policy, and world politics. Copyright © International Labor and Working-Class History, Inc., 2022.",
+    "source": "International Labor and Working-Class History"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

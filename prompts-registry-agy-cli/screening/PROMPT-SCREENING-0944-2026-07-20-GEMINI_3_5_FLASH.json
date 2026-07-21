@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0944-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dark side whitewashes the benefits of FinTech innovations: a bibliometric overview",
+    "authors": "Asif M.; Lodhi R.N.; Sarwar F.; Ashfaq M.",
+    "year": "2024",
+    "doi": "10.1108/IJBM-10-2022-0438",
+    "abstract": "Purpose: The current study focuses on many risk categories that have emerged in the digital ecosystem of the financial technology industry, which has dramatically changed traditional financial systems as a result of innovations in financial technology. Design/methodology/approach: The Web of Science Core Collection database was used to find a data set of 719 pertinent papers on the subject encompassing the year 2015–2023. The sample procedure was carried out utilising the PRISMA approach. The keywords were first gathered relating to technological risks in banking sectors and after confirming the keywords, the authors performed the search by the “topic” which covers “title” in the search bar. On February 15, 2023, the Web of Science database was searched using the terms “Cyber security risk OR data theft OR financial crimes OR financial stability risk OR operational risk OR default risk OR money laundering OR financial terrorism AND FinTech AND banking sector”. Two-step approach is applied in this study. First, descriptive analysis is applied using RStudio to highlight prominent authors, countries and affiliations. Furthermore, relationship among authors, countries and keywords is shown by using three fields plot. Second, using VOSviewer, co-occurrence of keyword analysis is used to determine the most influential themes. Findings: The findings show that 2,611 documents have been published from 2016 to 2023. Year 2021 is the most productive year in terms of number of publications. The results also show that WANG XC is tied for the position of most prolific contributing author. In a similar vein, the United States leads the world in publication output. Furthermore, Southwestern University of Finance and Economics in China is leading the list with 15 articles. The results from the co-occurrence of keywords reveal that “default risk”, “operational risk”, “money laundering”, “credit risk”, “corporate governance”, “systematic risk”, “financial stability risk”, “risk management” and “crises” are the frequently keywords. Originality/value: The results of this study are beneficial to academia and industry in order to advance their current understanding of FinTech and associated concerns. This work expands the understanding of the technology hazards facing the banking industry from a broad perspective. © 2023, Emerald Publishing Limited.",
+    "source": "International Journal of Bank Marketing"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

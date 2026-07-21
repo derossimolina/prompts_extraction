@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0118-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing the competency of compliance officer knowledge in mitigating terrorism financing risks: Malaysian perspective",
+    "authors": "Ismail N.H.; Syed Mustapha Nazri S.N.F.; Zolkaflil S.",
+    "year": "2025",
+    "doi": "10.1108/JMLC-03-2024-0049",
+    "abstract": "Purpose: Terrorism had a profound impact on the global economy, society and security. Malaysia encountered a comparable scenario in the Movida attack. The availability of funds is a crucial determinant for successful terrorist activities. Hence, a guideline was introduced to deal with terrorism financing. As reporting institutions, the compliance officers are the gatekeepers to report any suspicious transaction related to money laundering and terrorism financing. However, lack of study has looked into the role of the compliance officer in reporting potential terrorism financing activities. Hence, this study aims to examine the factors that influence terrorism financing reporting, focusing on terrorism financing policy, terrorism financing red flags and the integrity of the officers. Design/methodology/approach: A total of 120 responses were collected among the compliance officers and 91 responses were analyzed using multiple regression analysis. Findings: Findings show that only terrorism financing policy and terrorism financing red flags influence suspicious transaction reporting among the compliance officers. Hence, there is a need to focus on officer’s competency, by enhancing the training module, especially on the latest terrorism financing trends and red flags. Practical implications: This will help the compliance officers to be more competent in fulfilling their role as the reporting entity because their roles are vital in preventing terrorism financing. Originality/value: This study focuses on terrorism financing risk assessment, which is different from prior literature that focuses on money laundering risk assessment. Owing to lack of prior studies, the questionnaire developed in the study was made based on guidelines provided by the authority and regulator. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

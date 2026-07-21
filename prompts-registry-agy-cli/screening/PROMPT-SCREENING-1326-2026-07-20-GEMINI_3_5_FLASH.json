@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1326-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Integrating the ‘Troublemakers’: A taxonomy for cooperation between banks and fintechs",
+    "authors": "Drasch B.J.; Schweizer A.; Urbach N.",
+    "year": "2018",
+    "doi": "10.1016/j.jeconbus.2018.04.002",
+    "abstract": "The banking sector has been subject to fundamental changes as digitalization is enabling novel technology-driven banking services and is creating new customer demands. While banks face sluggish innovation processes, fintechs take advantage of the digital era, delivering customer-centric solutions. Although banks have realized that cooperation with fintechs is a key approach to foster innovation, they struggle to address the associated challenges. Yet, there has been very little research into this phenomenon, so as to establish best practices, because neither bank-fintech cooperation, nor associated and relevant characteristics have been evaluated. However, especially from an economic and financial perspective it is crucial to close this research gap to better understand how technology-driven organizations and cooperating with them reshapes the financial sector and therefore entire economies. Thus, we propose a theoretically founded and empirically proven taxonomy. Based on the literature, 136 real-world cases, and 12 expert interviews, our results suggest structuring and describing bank-fintech cooperation through 13 dimensions. Further, the empirical examination allows for the identification of prevailing cooperation patterns. Our findings contribute to theory development on fintechs, their integration into the banking sector, and the cross-organizational cooperation research area. This paper also has practical implications for both banks and fintechs, and opens promising avenues for future research. © 2018 Elsevier Inc.",
+    "source": "Journal of Economics and Business"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

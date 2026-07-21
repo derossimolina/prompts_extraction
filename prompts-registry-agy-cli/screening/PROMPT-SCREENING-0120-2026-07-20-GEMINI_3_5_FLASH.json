@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0120-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The money laundering typologies and the applicability of placement-layering-integration model in undocumented South Asian economies: a case of Pakistan",
+    "authors": "Sultan N.; Mohamed N.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-08-2022-0116",
+    "abstract": "Purpose: This study aims to determine the applicability of the placement-layering-integration model of money laundering (ML) in the South Asian context with emphasis on Pakistan by analysing different ML typologies. Design/methodology/approach: This study applied content analysis in the first step. It explored three primary documents concerning ML typologies: Asia Pacific Group’s yearly reports on ML typologies from 2010 to 2021, the mutual evaluation reports and the National Risk Assessment of Pakistan. In the second step, expert interviews were recorded, and NVivo was used for data management and analysis. Findings: This study found primary predicate offences: corruption, tax crimes, smuggling and drug and human trafficking. Pakistani launderers often use traditional typologies, including cash smuggling, round-tripping, multiple bank accounts, investment in real estate (in Pakistan and Dubai) and hawala. However, cybercrimes, cyber laundering and trade-based ML are rising. The politically exposed persons are involved in most of the laundering cases. Originality/value: Rare studies specifically address the south Asian typologies and the limitations of the placement, layering and integration model. Therefore, there is a need to understand the current typologies used in developing, less regulated and undocumented jurisdictions like Pakistan. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

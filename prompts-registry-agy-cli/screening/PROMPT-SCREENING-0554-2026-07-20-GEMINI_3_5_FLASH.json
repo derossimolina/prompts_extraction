@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0554-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Predictors of NFT Prices: An Automated Machine Learning Approach",
+    "authors": "Alon I.; Bretas V.P.G.; Katrih V.",
+    "year": "2023",
+    "doi": "10.4018/JGIM.317097",
+    "abstract": "This article aims to broaden the understanding of the non-fungible tokens (NFTs) pricing determinants by investigating features, both market- and network-related aspects. NFTs are uniquely identifiable digital assets stored on the blockchain. Ownership is assigned through smart contracts and can be transferred or resold by the owner. The authors analyzed a comprehensive dataset from Signex.io with over 19,183 datapoints on NFT prices and NFT social communities using automated machine learning (AML), a suitable technique to investigate the most impactful factors due to a lack of knowledge on the exact determinants. Findings show that network factors are the most important pricing determinants: Twitter members followed by Discord members. Online communities drive the price of NFTs, but not in a linear fashion. Given the newness of the phenomenon and no agreed upon pricing models, this article contributes by using AML to discover the most relevant determinants of non-fungible tokens (NFT) prices. © 2023 Authors. All rights reserved.",
+    "source": "Journal of Global Information Management"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

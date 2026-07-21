@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1836-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A behavioural study of the decision processes underpinning disposals by property fund managers",
+    "authors": "MacCowan R.J.; Orr A.M.",
+    "year": "2008",
+    "doi": "10.1108/14635780810886645",
+    "abstract": "Purpose - The main aim of this paper is to investigate the specific factors that influence fund managers' decisions to dispose of property. Design/methodology/approach - This study explores the reasons behind the decision-making processes associated with the disposal of real estate within a portfolio, and the information sources utilised by fund managers. A behavioural finance approach is adopted with the field research carried out as a survey-based analysis of the disposal decisions made by fund managers in the UK property fund market. Findings - The main reason for disposal of an investment is due, in part, to re-structuring the portfolio. This is also linked to under-performance of the asset involved, and current market expectations. The implications for the study are that it identifies that there are links between rational and irrational behaviour in the selection of assets, not only for disposal, but also in terms of investment as a whole. This can be based on the inefficiency of the property market, and the lack of accurately available information. Originality/value - The study is unique as it provides a comprehensive commentary on the disposal behaviour of fund managers at the individual property and portfolio-wide levels.",
+    "source": "Journal of Property Investment and Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

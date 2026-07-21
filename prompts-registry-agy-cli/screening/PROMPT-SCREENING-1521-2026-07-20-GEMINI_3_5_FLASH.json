@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1521-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering regulations and its effectiveness",
+    "authors": "Usman Kemal M.",
+    "year": "2014",
+    "doi": "10.1108/JMLC-06-2013-0022",
+    "abstract": "Purpose – The purpose of this study is to check the effectiveness of anti-money laundering (AML) regulations in Pakistan. The study investigates and analyses some key variables that may be influencing the effectiveness of anti-money regulations in Pakistan. Money laundering is most prevalent in the banking sector, as banks deals with the money’s deposition, withdrawal and transfer, therefore, it is necessary to evaluate the effectiveness of anti-money regulations on subjective judgments. It is an exploratory study in which I have tried to find the relationship and impact of three regulations, which are customer record keeping, employee training and suspicious transaction reporting on money laundering. Design/methodology/approach – A sample of hundred responses has been collected from employees working in different banks located in Rawalpindi and Lahore through questionnaire. Questionnaire has been developed on the basis of different dimensions of the research variables. Findings – It has been found that that there is an impact of employee training on money laundering in banking system. A moderate inverse relationship between employee training and money laundering and anti-money laundering regulation of customer record keeping has weak impact on money laundering in developing countries. Research limitations/implications – The research is limited to Pakistan only, and to apply the same concept in other countries, researchers need to check the financial institutions of that country as well. Originality/value – It has been suggested that to stop money laundry, special budget should be allocated for the capacity building of employees through training. Timely guidance and assistance of foreign-trained instructors or experts in combating money laundering should be taken. Implementation of anti-money laundering regulations should be transparent, consistent and timely. © 2014, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

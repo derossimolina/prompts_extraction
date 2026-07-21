@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0488-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illegal wildlife trade: the critical role of the banking sector in combating money laundering",
+    "authors": "Lupton C.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-06-2023-0105",
+    "abstract": "Purpose: Illegal wildlife trade (IWT) is a transnational organized crime that generates billions in criminal proceeds each year. Yet, it is not regarded by many countries as a serious crime. There is also no general consensus on its recognition as a predicate offence for money laundering. In this regard, banks are misused in different ways to facilitate financial flows linked to IWT. This paper aims to illustrate the importance of the banking sector in combating money laundering relating to IWT. It also aims to demonstrate the need for a general recognition of IWT as a predicate offence for money laundering. Design/methodology/approach: This study investigates the implementation of money laundering controls by banks in the illegal-wildlife-trade context. As background to this investigation, it provides an overview of IWT, which is followed by an exploration of some of the general characteristics of the banking sector, before discussing the relevant Financial Action Task Force (FATF) recommendations. Findings: This study finds that the banking sector is well-placed to combat money laundering relating to the IWT and is, by virtue of its international nature and strong focus on compliance, able to be effective in preventing the use of the proceeds of IWT as well as in identifying broader trafficking networks. Moreover, the banking sector is well-equipped to develop appropriate platforms to facilitate the swift, easy and effective sharing of financial intelligence between banks at the local, regional and especially international level. Research limitations/implications: This study draws on publicly available information on financial flows relating to IWT. Little data and research are available on the financial flows and consequently the money laundering techniques used in cases suspected of IWT. Originality/value: There has been little scholarly research on the relationship between money laundering and the IWT as well as the financial flows of IWT in general. This study highlights some of the money laundering techniques used in relation to IWT by drawing on the works of various international organizations, including the FATF. © 2023, Cayle Lupton.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

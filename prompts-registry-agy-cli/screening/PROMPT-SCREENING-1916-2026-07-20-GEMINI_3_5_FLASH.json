@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1916-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trade marks plus? the role of trade marks in the global economy and the danger of over-protection",
+    "authors": "Griffiths A.",
+    "year": "2007",
+    "doi": "10.1007/s10991-007-9013-6",
+    "abstract": "This article examines the economic role of the trade mark, both as a structuring device and as a means of adding value to products. It shows how its role as a flexible structuring device that provides a distinct focus for goodwill derives from the special meaning of the term \"origin\" or \"trade origin\" in trade mark law, this being what a trade mark is supposed to indicate. Firms can control the identity that a trade mark signifies and confers on the products with which it is used without being tied to any particular set of production arrangements. This article also considers how goodwill can be a source of economic benefit both through reducing transaction costs and, in some cases, through adding value to products. This article then examines the economic rationale for the legal protection of trade marks and shows how this is analogous to the rationale for awarding property rights over tangible resources and different from that for other forms of intellectual property right. The pressure to expand the legal protection of stronger trade marks is explored and it is accepted that there is an economic case for doing so. However, it is argued that the additional protection must be carefully calibrated through definitions that take account of its economic rationale and avoid the danger of over-extending it. In particular, this danger of over-protection arises from making a false analogy between stronger trade marks and the kind of intangible output that is the subject of the other forms of intellectual property right. © Springer Science+Business Media B.V. 2007.",
+    "source": "Liverpool Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

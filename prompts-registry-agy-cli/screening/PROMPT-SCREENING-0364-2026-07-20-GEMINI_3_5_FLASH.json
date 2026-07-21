@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0364-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A critical study of tabarrù (donation)-based takaful models: determining tàawun (mutual assistance) as the underlying notion of takaful",
+    "authors": "Rahman M.H.; Binti Aziz N.S.Z.",
+    "year": "2025",
+    "doi": "10.1108/JIABR-12-2023-0457",
+    "abstract": "Purpose: Takaful has substantial prospects to obtain mutual protection, financial inclusion and sustainability of life and wealth. Structuring takaful with tabarrù triggers controversies and impedes achieving desired takaful outcomes. This study aims to investigate tabarrù-based takaful models and determine tàawun as the underlying notion of takaful. Design/methodology/approach: The study employs a qualitative approach using semi-structured interviews to obtain primary data. Nineteen one-to-one interviews have been conducted with Sharìah and operational experts in the takaful industry. A thematic analysis method is utilised to investigate qualitative data. Findings: The study finds that tabarrù contradicts the spirit of takaful. Donations cannot be subject to any form of refund, and receiving benefits from donations turns the arrangement into an exchange contract. Takaful participants never intend to make a pure donation while paying contributions. Moreover, tabarrù is not feasible for practicing any form of surplus sharing with participants. The study identifies that tàawun helps to overcome these issues and attain the potential of takaful. Tàawun facilitates benefit and surplus sharing with participants and others, eventually contributing to financial inclusion, solidarity and sustainability of the financial system. Practical implications: Reflecting tàawun as the underlying notion, benefits of takaful can be shared with participants. Also, as a broader application of tàawun, subsidising different takaful operators by underwriting surplus can be practiced. Besides, tàawun allows surplus sharing with any charitable purpose, contributing to financial inclusion and public welfare. Originality/value: The study contributes to Islamic insurance knowledge. It helps formulate policies and develop takaful products by integrating tàawun into takaful. Additionally, the study supports the idea of cross-subsidisation of underwriting surplus among diverse takaful operators. © 2025, Emerald Publishing Limited.",
+    "source": "Journal of Islamic Accounting and Business Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

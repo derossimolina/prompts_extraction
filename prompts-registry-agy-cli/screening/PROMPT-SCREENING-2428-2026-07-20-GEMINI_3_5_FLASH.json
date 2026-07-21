@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2428-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bitcoin Challenges",
+    "authors": "Mullan, PC",
+    "year": "2014",
+    "doi": "10.1057/9781137382559.0022",
+    "abstract": "Financial transparency is a growing global trend, especially in the United States. However, virtual currencies, such as Bitcoin, are moving away from greater customer identification and toward less transparency. Large differences exist between how virtual currency enthusiasts view decentralized currency and how regulatory agencies view Bitcoin. The decentralized virtual currency platform presents a challenge for money laundering investigations. In a competing US financial market, Bitcoin faces many well-funded existing bank products and tough competition from banks.",
+    "source": "DIGITAL CURRENCY CHALLENGE: SHAPING ONLINE PAYMENT SYSTEMS THROUGH US FINANCIAL REGULATIONS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2555-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An institutional perspective on governance, power, and politics of financial risk",
+    "authors": "Selmier, WT",
+    "year": "2017",
+    "doi": "10.1017/bap.2017.8",
+    "abstract": "Avoidance of risk and increasing returns are the two main motivators in finance. Returns are better understood and perhaps more easily regulated than financial risk, which is a complex and slippery concept. Financial risk may be best conceived of as a complementary good, but the nature of this good varies as the size of the investment position scales up. That is, the effects of financial risk may be conceived of as a private good for a small financial actor, but becomes a club good, then a common pool, and occasionally a public good as the impact of the investment position's financial risk spreads to affect more of society. Examining banking history shows us that banks and bankers have offset risk while retaining returns through structuring financial products and investment vehicles as club goods, thereby enabling financial actors to jointly benefit from ownership while harming those outside the club walls. Not surprisingly, this capacity to push risk outside club walls has grown commensurate with the political influence of banks and bankers. Laying out governance strategies and concepts, I suggest that in some circumstances pervasive club good structures in finance may be employed to gather regulation-enhancing information, to better understand the networked nature of financial risk and to craft self-governance structures.",
+    "source": "BUSINESS AND POLITICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

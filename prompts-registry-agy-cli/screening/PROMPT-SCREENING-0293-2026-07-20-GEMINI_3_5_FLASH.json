@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0293-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of implementing artificial intelligence system for anti-money laundering: a Lebanese Bank case study",
+    "authors": "Alshameri F.; Eid J.B.",
+    "year": "2025",
+    "doi": "10.1504/IJAMS.2025.149476",
+    "abstract": "International terrorist attacks have become a perceived threat to all countries across the globe and resulted from a complex set of factors. Money Laundering (ML) and Financial Terrorism (FT) have been described by many as lifeblood of crime and is a major threat to economic and social well-being of societies. Fraud cases increasing dramatically with the expansion of modern technology and global communication, resulting in substantial losses to businesses. As a result of the conflict between the different financial institutions sectors and ML, the banks have developed technologically intelligent weapons. The purpose of this paper is to show the implementation impact of monitoring system that incorporates AI to detect suspicious transactions in Lebanese bank. The results show that the implementation of AI monitoring led to massive cost savings. The AI system enhanced the accuracy of the analysis over large amount of data. The results show that the false positive detected matches were reduced by 30%. Copyright © 2025 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Applied Management Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

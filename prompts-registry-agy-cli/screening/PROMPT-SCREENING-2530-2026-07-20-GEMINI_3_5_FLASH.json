@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2530-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal Effect of Economic Turmoil: Technical Insolvency Problem in Turkey",
+    "authors": "Akdogan, MU",
+    "year": "2013",
+    "doi": "10.4018/978-1-4666-3006-2.ch011",
+    "abstract": "For companies that have been unable to succeed in transforming the economic turmoil into opportunities for growth, it is not surprising to observe either higher losses or lower profits in comparison to their previous years. Apart from efforts to struggle against the economic crisis, management teams also have legal responsibility to manage the technical insolvency position of their companies. In Turkey, technical insolvency mainly occurs when one-third of a company's capital is lost as a result of their losses and increases bankruptcy pressure on financial management. Moreover, it also causes other difficulties such as losing legal grounds for increasing capital or carrying out various structuring plans such as mergers and spinoffs. Accordingly, it is crucial for companies to resolve technical insolvency. There are alternatives for overcoming technical insolvency problems, but each alternative also has disadvantages that need to be carefully taken into consideration.",
+    "source": "TECHNOLOGY AND FINANCIAL CRISIS: ECONOMICAL AND ANALYTICAL VIEWS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

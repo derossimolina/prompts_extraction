@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2239-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "BLOCKCHAIN AND ARTIFICIAL INTELLIGENCE IN FINANCIAL CONTROL SYSTEMS: SYNERGY OF INNOVATIONS FOR ECONOMIC SECURITY",
+    "authors": "Mukhanbetali, B; Hanushchyn, S; Khalimon, T; Khalimon, S; Akimova, L; Akimov, O",
+    "year": "2026",
+    "doi": "10.55643/fcaptp.2.67.2026.5061",
+    "abstract": "The increasing complexity of global financial systems has necessitated the adoption of more efficient and transparent mechanisms for combating money laundering (AML). Blockchain technology, with its decentralized, immutable, and transparent characteristics, presents a promising solution to address the limitations of traditional AML systems. This paper represents a review, exploring the potential applications of AI and blockchain in enhancing financial control systems, in particular, within AML compliance, focusing on key areas such as transaction monitoring, cross-institutional data sharing, and regulatory reporting. The integration of blockchain can streamline AML processes, reduce operational costs, and increase the effectiveness of detecting illicit financial activity. The combination of blockchain technologies and artificial intelligence algorithms in financial control is considered. It is shown how automation of transaction analysis can strengthen the stability of the banking system and prevent financial crimes. It is demonstrated that the convergence of Artificial Intelligence and blockchain technologies presents a transformative opportunity to strengthen AML frameworks, particularly in the face of rising crypto-enabled financial crimes. This research offers several important contributions to the academic literature. First, it presents a synthesis of the current status of artificial intelligence approaches used for compliance in detecting fraud in Bitcoin transactions. This review discusses the essential methodologies and tactics in a particular area that intersects finance and compliance but falls under the broader disciplines of AI-driven finance and decentralized finance (DeFi). The incorporation of AI into financial control marks a tremendous technological revolution that is affecting industries across the board. Second, the study assesses the current state of the publications, major trends, and research gaps, emphasizing areas that deserve additional investigation.",
+    "source": "FINANCIAL AND CREDIT ACTIVITY-PROBLEMS OF THEORY AND PRACTICE"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

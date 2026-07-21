@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0621-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Old frauds with a new sauce: digital assets and space transition",
+    "authors": "Dupuis D.; Smith D.; Gleason K.",
+    "year": "2023",
+    "doi": "10.1108/JFC-11-2021-0242",
+    "abstract": "Purpose: The purpose of this study is to describe the evolution of fraud schemes with historically conducted with fiat money in physical space to the crypto-assets in digital space as follows: ransomware, price manipulation, pump and dump schemes, misrepresentation, spoofing and Ponzi Schemes. To explain how fraud schemes have evolved alongside digital asset markets, this study applies the space transition theory. Design/methodology/approach: The methodology used is a review of the media regarding six digital asset fraud schemes that have evolved from physical space to virtual space that are currently operational, as well as a review of the literature regarding the space transition theory. Findings: This paper finds that the digital space and digital assets may facilitate pseudonymous criminal behavior in the present regulatory environment. Research limitations/implications: The field is rapidly evolving, however this study finds that the conversion from physical to virtual space obfuscates the criminal activity, facilitating anonymity of the perpetrators, and creating new challenges for the legal and regulatory environment. Practical implications: This paper finds that the digital space and digital assets may facilitate pseudonymous criminal behavior in the present regulatory environment. An understanding of the six crypto-asset fraud schemes described in the paper is useful for anti-financial crime professionals and regulators focusing on deterrence. Social implications: The space transition theory offers an explanation for why digital space leads criminals to be better positioned to conduct financial crime in virtual space relative to physical space. This offers insights into behavior of digital asset fraudster behavior that could help limit the social damage caused by crypto-asset fraud. Originality/value: To the authors’ knowledge, this paper is the first to detail the evolution of fraud schemes with fiat money in physical space to their corresponding schemes with digital assets in physical space. This study is also the first to integrate the space transition theory into an analysis of digital asset fraud schemes. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

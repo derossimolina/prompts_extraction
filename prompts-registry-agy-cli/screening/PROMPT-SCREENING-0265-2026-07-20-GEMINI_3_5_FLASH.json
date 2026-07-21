@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0265-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of anti-money laundering measures on remittance costs: moderating role of frontier technology",
+    "authors": "Thakur S.Y.; Yadav P.D.; Mankame Y.S.; Manrai R.",
+    "year": "2025",
+    "doi": "10.1057/s41599-025-05047-9",
+    "abstract": "Central banks are increasingly experimenting with frontier technologies, such as Central Bank Digital Currencies (CBDC) and Distributed Ledger Technology (DLT) platforms, alongside advancements in traditional systems like the SWIFT network. While prior research has largely examined technology readiness and regulatory frameworks in isolation, their interactive effects on remittance costs remain underexplored. This study investigates how the Frontier Technology Readiness Index (FTRI) moderates the relationship between remittance costs and the Anti-Money Laundering (AML) Index. The lack of integration of these dimensions is a critical research gap that is addressed to help achieve Sustainable Development Goal 10c (SDG-10c) and G20 targets. Panel data regression, followed by fixed and random effects to test robustness, was employed using datasets for remittance-sending and remittance-receiving countries derived from Worldwide Remittance Price data. In remittance-sending countries, enhanced technological readiness combined with a less stringent AML framework is associated with lower remittance costs. On the contrary, despite high technological readiness, in remittance-receiving countries, higher AML stringency tends to increase costs. Technology and AML measures in receiving countries and the amount of remittance paid in sending countries, in isolation, don’t have a significant influence on the cost of remittances. The analysis focuses solely on remittance cost efficiency and proposes incorporating transfer speed and transparency in future studies. Findings imply that the prevalence of informal channels like hawala and current pricing models does not encourage and reward higher remittance volume. Remittance cost reduction policies should focus on anti-money laundering measures and technology readiness in conjunction rather than in isolation. Incorporating national indexes provides a clear direction for improving the defined set of variables that are measurable and thus actionable to policymakers. © The Author(s) 2025.",
+    "source": "Humanities and Social Sciences Communications"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

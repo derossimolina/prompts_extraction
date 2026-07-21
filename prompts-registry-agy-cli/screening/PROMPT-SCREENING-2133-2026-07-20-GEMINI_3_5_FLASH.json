@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2133-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "On the frontline against money-laundering: The regulatory minefield",
+    "authors": "Gelemerova L.",
+    "year": "2009",
+    "doi": "10.1007/s10611-008-9175-8",
+    "abstract": "Intelligence gathering plays a vital role in the 'war' against money laundering. Particularly important in this intelligence gathering process is the global network of Financial Intelligence Units (FIUs) fed by a host of auxiliary (primarily financial) institutions required to report suspicious transactions. This paper briefly reviews the history of the international system of anti-money laundering measures imposed on the financial industry and other regulated businesses, the development of the global network of FIUs and their system of information gathering. It will examine some of the issues that arise from the regulatory framework within which this information gathering takes place. It will also address the issue of instrumental clarity and whether existing and new directives, requirements and approaches are sufficiently clear to enable reporting institutions on the 'front-line' to operate effectively. © 2008 Springer Science+Business Media B.V.",
+    "source": "Crime, Law and Social Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

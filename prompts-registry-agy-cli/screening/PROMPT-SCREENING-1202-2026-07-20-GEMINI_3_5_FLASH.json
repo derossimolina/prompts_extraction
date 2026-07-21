@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1202-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering control in Tanzania: Did the bank gatekeepers fail to discharge their obligations?",
+    "authors": "Mniwasa E.E.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-10-2018-0064",
+    "abstract": "Purpose: This paper aims to examine how banks in Tanzania have been vulnerable to money laundering activities and how the banking institutions have been implicated in enabling or aiding the commission of money laundering offences, and highlights the banks’ failure or inability to prevent, detect and thwart money laundering committed through their financial systems. Design/methodology/approach: The paper explores Tanzania’s anti-money laundering law and analyzes non-law factors that make the banks exposed to money laundering activities. It looks at law-related, political and economic circumstances that impinge on the banks’ efficacy to tackle money laundering offences committed through their systems. The data are sourced from policy documents, statutes, case law and literature from Tanzania and other jurisdictions. Findings: Both law-related and non-law factors create an enabling environment for the commission of money laundering offences, and this exposes banks in Tanzania to money laundering activities. Some banks have been implicated in enabling or aiding money laundering offences. These banks have abdicated their obligations to fight against money laundering. This is attributed to the fact that the banks’ internal anti-money laundering policies, regulations and procedures are inefficient, and Tanzania’s legal framework is generally ineffective to tackle money laundering offences. Originality/value: This paper uncovers a multi-faceted nature of money laundering affecting banks in Tanzania. It is recommended that Tanzania’s anti-money laundering policy should address law-related, political, economic and other factors that create an enabling environment for the commission of money laundering offences. Tanzania’s anti-money laundering law should be reformed to enhance its efficacy and, lastly, banks should reinforce their internal anti-money laundering policies and regulations and policies. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

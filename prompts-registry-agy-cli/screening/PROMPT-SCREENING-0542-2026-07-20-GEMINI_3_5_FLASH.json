@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0542-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illuminating the dark corners: a qualitative examination of cryptocurrency’s risk",
+    "authors": "Mehta K.; Chawla S.",
+    "year": "2024",
+    "doi": "10.1108/DPRG-10-2023-0147",
+    "abstract": "Purpose: The study provides a comprehensive understanding of the issues and illegal activities related to cryptocurrencies and their negative repercussions. This study aims to identify and classify cryptocurrency downsides using grounded theory and in-depth interviews. The study also analysed investors’ reluctance to invest in cryptocurrency. This pioneering qualitative study illuminates a deep and multifaceted criminal aspect of cryptocurrency. Design/methodology/approach: The study conducted in-depth interviews with respondents who have experience and knowledge of cryptocurrency investments. The interviews were recorded and transcribed. The analysis was performed using the NVivo 14 software in the study. Findings: The study specified two major types of cryptocurrency’s negative aspects: barriers and illegal usage. Barriers to cryptocurrency investment include technological, security, trust, market-related and regulatory reasons. Terrorist funding, money laundering, fraud and ransom payments are all examples of illegal usage. The results of the word cloud analysis are consistent with the overall findings of the survey, which highlighted illegal usage as a prominent negative element of cryptocurrencies. It is a key reason why cryptocurrency is not included in investing portfolios by investors. Originality/value: The study’s findings provide useful insights for policymakers to develop better methods for successfully mitigating risks and ensuring responsible and sustainable usage of cryptocurrencies. In addition, the study could serve as a stepping stone for more cryptocurrency-related studies, contributing to the development of a more complete and nuanced comprehension of this emergent technology and its societal effects. © 2024, Emerald Publishing Limited.",
+    "source": "Digital Policy, Regulation and Governance "
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

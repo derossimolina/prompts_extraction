@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1112-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Automated identification of insomnia using optimal bi-orthogonal wavelet transform technique with single-channel EEG signals",
+    "authors": "Sharma M.; Patel V.; Acharya U.R.",
+    "year": "2021",
+    "doi": "10.1016/j.knosys.2021.107078",
+    "abstract": "Nowadays, sleep studies have gained a lot of attention from researchers due to the immense importance of quality sleep. Human beings spend nearly one-third of their lives in sleep. Therefore, adequate quality sleep is indispensable for a healthy life. The sleep pattern may not be the same for every individual as one may either suffer from various sleep ailments such as insomnia, apnea, bruxism, epilepsy, narcolepsy, or maybe healthy with no sleep disorder. Insomnia is a prevalent sleep disorder that can lead to many health-related issues in human beings. Usually, polysomnogram (PSG) signals are used to detect the sleep stages and sleep disorders. The PSG signals are difficult to handle, time-consuming, and not convenient for patients. Hence, in this work, we have used single-channel electroencephalogram (EEG) signals to detect insomnia automatically. To the best of our knowledge, this is the first study on automated insomnia identification using the CAP database and EEG alone. We have used the single-channel EEG channel and created eight different subsets based on sleep-stages annotations according to American Academy of Sleep Medicine (AASM) guidelines for sleep stage scoring. The classification task is performed on each subset for the automated identification of insomnia. A new class of an optimal bi-orthogonal filter bank is used for wavelet decomposition. The wavelet-based norm features are extracted using the optimal filter bank. Then these features are fed to various machine learning algorithms. The proposed model has attained the highest classification performance with the area under receivers’ operating characteristic curve (AROC) of 0.97, F1-score of 0.9645, the accuracy of 95.60%, and Cohen's Kappa value of 0.9067 using an ensemble bagged decision trees (EBDT) classifier. Our developed model can be used to detect insomnia using sleep EEG signals accurately and provide early treatment. The method is simple and computationally fast. The proposed system can be used at home as well as at sleep labs to monitor insomnia. © 2021 Elsevier B.V.",
+    "source": "Knowledge-Based Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

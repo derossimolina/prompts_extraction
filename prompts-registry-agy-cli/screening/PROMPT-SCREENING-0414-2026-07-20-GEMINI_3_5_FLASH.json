@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0414-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Achieving flexibility in the resource orchestration of family-owned real estate firms under conditions of uncertainty",
+    "authors": "Ljungkvist T.; Axell C.; Andersén J.; Österlund U.",
+    "year": "2026",
+    "doi": "10.1108/JFBM-12-2025-0361",
+    "abstract": "Purpose – This study explains how managers in family-owned real estate firms achieve flexibility in orchestrating their resources under conditions of uncertainty. Design/methodology/approach – This paper draws on a single-case design, utilizing 21 interviews with top managers and archival material from 18 Swedish family-owned real estate firms to capture how the phenomenon of resource orchestration (RO) unfolds under uncertainty. Findings – The results reveal how the family phenomenon can be understood as a key driver of the family firm’s RO mechanisms, shaping the RO activities of its managers. Originality/value – Three distinct RO configurations of family firm managers are identified: (1) flexible network structuring, (2) incremental flexibility and stakeholder-focused bundling and (3) cautious and societal flexible leveraging. These configurations explain how the family dimension enables the manager’s RO flexibility under conditions of uncertainty. © Torbjörn Ljungkvist, Christoffer Axell, Jim Andersén and Urban Österlund",
+    "source": "Journal of Family Business Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

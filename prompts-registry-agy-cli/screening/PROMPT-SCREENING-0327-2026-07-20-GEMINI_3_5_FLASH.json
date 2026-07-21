@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0327-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Al-Siyāsah al-Shar‘iyyah’s consideration and its approach among the governors in Islamic financial institutions: a Malaysian’s experience",
+    "authors": "Mahmad Robbi A.A.; Ishak M.S.I.; Asni F.",
+    "year": "2024",
+    "doi": "10.1108/JIMA-05-2023-0155",
+    "abstract": "Purpose: Islamic financial institutions (IFIs) in Malaysia continue to promote Shari‘ah-compliant business and transactions. As a result, the governors have a lot to think about before issuing any fatwa or ordinance, which impacts the majority of Malaysians. Nevertheless, the point of views from the governors have not been highlighted much. This research seeks to investigate the extent to which the conception of al-Siyasah al-Shar‘iyyah is embraced by Shari‘ah committees’ leadership roles within IFIs. The importance of al-Siyasah al-Shar‘iyyah in decision-making makes abandoning the Shari‘ah principle untenable and its significant role for IFIs in Malaysia cannot be overstated. It serves as a crucial tool for decision-making by authorities and governors. Design/methodology/approach: The objectives of this research are attained by examining diverse sources obtained through library research, encompassing books, journals, newspapers, websites and reports. In addition, to use an analytical method to assess the role of al-Siyasah al-Shar‘iyyah in IFIs pratical, the authors collect information through interviews with five participants actively engaged in Shari‘ah committees within financial institutions, both directly and indirectly. Findings: The research paper concludes that al-Siyasah al-Shar‘iyyah holds significance for Shari‘ah committees in IFIs when providing legal opinions. In situations where existing madhhab-based laws prove insufficient for addressing a particular issue, the Shari‘ah committees will autonomously engage in new ijtihad to ensure effective resolution of the matter. Research limitations/implications: The implication that could have been resulted from this study is to indicate how Shari‘ah committees in IFIs structuring a set of rules and regulations embedded by al-Siyasah al-Shar‘iyyah elements to produce maṣlaḥaḥ for the ummah. This perspective is barely discussed in depth as Malaysia has unanimous scholars who work in this area. Thus, the authors attempt to bring the discussion academically and express the point of view from governors’ perspective. Originality/value: In the Malaysian context, where Islamic banks and financial institutions are overseen by Shari‘ah committee members and the Central Bank of Malaysia, this study delves into the practical experiences of governors in carrying out the responsibilities of al-Siyasah al-Shar‘iyyah within the decision-making process. The objective is to investigate the perspectives of Shari‘ah committees when they encounter scenarios where prevailing madhhab opinions prove inadequate in addressing contemporary issues within the country. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Islamic Marketing"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

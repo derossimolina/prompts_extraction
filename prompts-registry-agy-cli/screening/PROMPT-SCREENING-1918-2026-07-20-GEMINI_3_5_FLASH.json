@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1918-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Black and white control of numbers gambling: A cultural assets-social capital view",
+    "authors": "Steffensmeier D.; Ulmer J.T.",
+    "year": "2006",
+    "doi": "10.1177/000312240607100106",
+    "abstract": "The relationship between race, ethnicity, and illegal business enterprise is addressed through an analysis of black and white involvement in illegal numbers gambling in a large eastern state. The authors outline a cultural assets and social capital theoretical framework for analyzing ethnicity and criminal enterprise that draws from recent work on \"ethnic economies\" in legal enterprise. The analysis covers the period 1970-2000 and is based on information drawn from a variety of sources, including key individuals who were or had been participants in the illegal numbers industry. The findings show that black bankers historically were key players in the Eaststate numbers industry, but that they have steadily lost ground. Currently, white, particularly Italian American, organized crime-connected enterprises are dominant. The major arguments are that numbers gambling is not simply economic activity and not simply produced by socioeconomic disadvantage; cultural assets and social capital are necessary for profitability and longevity in numbers gambling, aside from any role that disadvantage may play in producing illegal enterprise, motives, and opportunities; ethnic groups differ in conventional and criminal social capital for success in numbers gambling; and ethnic succession theories cannot explain trends in the dominance of numbers gambling.",
+    "source": "American Sociological Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

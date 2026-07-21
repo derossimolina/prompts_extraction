@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0599-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Probably something: a multi-layer taxonomy of non-fungible tokens",
+    "authors": "Hartwich E.; Ollig P.; Fridgen G.; Rieger A.",
+    "year": "2024",
+    "doi": "10.1108/INTR-08-2022-0666",
+    "abstract": "Purpose: This paper aims to establish a fundamental and comprehensive understanding of non-fungible tokens (NFTs) by identifying and structuring common characteristics within a taxonomy. NFTs are hyped and increasingly marketed as essential building blocks of the Metaverse. However, the dynamic evolution of the NFT space has posed challenges for those seeking to develop a deep and comprehensive understanding of NFTs, their features and their capabilities. Design/methodology/approach: Utilizing common guidelines for the creation of taxonomies, the authors developed (over 3 iterations), a multi-layer taxonomy based on workshops and interviews with 11 academic and 15 industry experts. Through an evaluation of 25 NFTs, the authors demonstrate the usefulness of the taxonomy. Findings: The taxonomy has 4 layers, 14 dimensions and 42 characteristics, which describe NFTs in terms of reference object, token properties, token distribution and realizable value. Originality/value: The authors' framework is the first to systematically cover the emerging NFT phenomenon. This framework is concise yet extendible and presents many avenues for future research in a plethora of disciplines. The characteristics identified in the authors' taxonomy are useful for NFT- and Metaverse-related research in finance, marketing, law and information systems. Additionally, the taxonomy can serve as an information source for policymakers as they consider NFT regulation. © 2023, Eduard Hartwich, Philipp Ollig, Gilbert Fridgen and Alexander Rieger.",
+    "source": "Internet Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

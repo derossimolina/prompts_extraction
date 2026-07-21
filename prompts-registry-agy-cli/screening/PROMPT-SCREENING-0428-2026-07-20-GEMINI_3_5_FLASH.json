@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0428-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Limits of Enforcement in Global Financial Governance: Blacklisting in FATF as Rational Myth",
+    "authors": "Case-Ruchala D.; Nance M.",
+    "year": "2024",
+    "doi": "10.1093/isq/sqae115",
+    "abstract": "How might international institutions matter? To consider this central question of International Relations, we analyze a most-likely case for the importance of materially driven enforcement: the Financial Action Task Force's (FATF) use of blacklisting in the global regime targeting money laundering and terrorism financing. Scholars and practitioners often argue that fear of financial harm caused by FATF's lists explains the near-global commitment to FATF's standards, even if compliance lags. We search for statistical evidence of this impact across four different measures of financial flows and find that listing is not correlated with financial harm. To explain these null results, we examine bank decision-making and find that the lists' impact is likely diminished by two overlooked factors: the existence of multiple, competing lists and banks' access to more fine-grained, client-specific information provided by third-party companies. We interpret this contradiction - a commitment to compliance generated in part by a fear of enforcement, despite a lack of evidence for enforcement's impact - as a \"rational myth.\"The results challenge a common understanding of a major global governance regime, confirm ideas about the limited ability of states or International Organizations to control governance outcomes, and advance a new research agenda on the impact of bank decision-making on global governance. © 2024 The Author(s) (2024). Published by Oxford University Press on behalf of the International Studies Association.",
+    "source": "International Studies Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0743-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of cybersecurity on the financial sector in Jamaica",
+    "authors": "Smikle L.",
+    "year": "2023",
+    "doi": "10.1108/JFC-12-2021-0259",
+    "abstract": "Purpose: Jamaica continues to experience financial crimes particularly in cyberspace including e-fraud, identity theft, credit card forging, money laundering and terrorist activities. Spoofing, spamming, virus propagation, spear phishing, buffer overflow and denial of service continue to be weaknesses found in organization’s cybersecurity in Jamaica. With the emergence of cryptocurrency and digital currency it is important that Jamaica uses intelligence led policing and data analysis to reduce and prevent financial crimes such as money laundering and corruption proceeds. Design/methodology/approach: Literature review; review of domestic legislation; review of current matters in courts. Findings: Cybersecurity is no longer a pure computer security issue but instead, cybersecurity is seen as a national policy matter because the illicit use of cyberspace could have a significant impact on the financial sector in Jamaica. Cyberattacks have been successfully targeting the financial sector worldwide. While much of the efforts and resources to address the risk imposed by these cyberattacks are directed at developed economies, far less attention has been devoted to developing nations. Because many of these nations such as Jamaica have modest cyber capabilities, their ability to respond to cyberattacks can be limited, yet they need to respond to these attacks to protect their critical financial infrastructure. Originality/value: There are few scholarly articles that focus on cybersecurity issues and legislation in Jamaica. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

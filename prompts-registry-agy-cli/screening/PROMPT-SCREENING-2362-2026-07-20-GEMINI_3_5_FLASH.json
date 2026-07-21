@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2362-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Institutionalizing the fight against money laundering in Tanzania: the potential, limitations and challenges",
+    "authors": "Mniwasa, EE",
+    "year": "2022",
+    "doi": "10.1108/JMLC-07-2021-0083",
+    "abstract": "Purpose This paper aims to examine the authorities tasked to fight against money laundering in Tanzania and appraise the efficacy of the country's anti-money institutional framework to tackle the problem. Design/methodology/approach The paper draws on a qualitative research and data generated from the analysis of documentary materials. It surveys the anti-money laundering (AML) law in Tanzania to describe the legal and institutional frameworks for tackling money laundering. It explores law-related and non-law aspects to interrogate and appraise the efficacy of Tanzania's AML law and authorities. The qualitative data were generated using the thematic content analysis technique. Findings The law in Tanzania establishes authorities and vests them with powers to combat money laundering. The authorities, which are part of Tanzania's AML institutional framework, have been instrumental in combating money laundering. Nevertheless, several law-related and non-law factors emasculate the efficacy of the AML law and authorities in Tanzania. Some political and economic factors wear off the effectiveness of the country's AML institutional framework. The transnational nature and complexity of money laundering overwhelm the capacity of the AML authorities in Tanzania. Practical implications The paper provides useful insights on money laundering and the legal regime to counteract the scourge in Tanzania which sets up the country's AML institutional framework. It raises some issues for researchers, policymakers and law enforcers who can re-examine the problem and revisit the law and re-evaluate authorities and propose measures that will enable the government to reinforce the country's AML regime. The paper makes a case for the government to implement the reforms of the country's AML policy, legal and institutional frameworks. Originality/value The paper investigates issues relating to money laundering and its control in Tanzania beyond the legal perspective to uncover limitations and challenges that emasculate the efficacy of the AML authorities in the Tanzanian context. The issues examined in this paper are not unique to Tanzania and, hence, have relevance to other jurisdictions in sub-Saharan Africa.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

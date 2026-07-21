@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1245-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Caring Households: The Social Ties that House",
+    "authors": "Nethercote M.",
+    "year": "2019",
+    "doi": "10.1080/14036096.2018.1465994",
+    "abstract": "Individuals turn increasingly to informal and family welfare to secure housing as housing and household pressures mount in advanced homeownership societies. This article sheds light on the role of less visible, less considered relations (beyond intergenerational assistance) that are currently being marshalled by low and middle-income households in Melbourne (Australia) and showcases the under-explored breadth of dependencies that exist between co-resident non-spousal adults. Drawing on in-depth interviews, it drills within the “giver/receiver” model to reveal diverse (inter)dependencies within families (e.g. filial, intergenerational, sibling), and between non-related, non-spousal adults (e.g. platonic, professional, e.g. AirBnB). It shows how these bidirectional transactions involve often ambiguous, asymmetrical (i.e. not-like-for-like) exchanges of material and emotional support, which are often postponed. Associated uneven power dynamics are shown to script the domestic space of these cohabiters, variously structuring householders’ use, their (perception of) control and sense of home, and also to introduce tension, including threats to household stability. Others have identified a contemporary paradox: at a time when much policy and economic practice assumes subjects liberated from the obligations of social ties, individuals rely more than ever on intimate relations. This article builds on this curiosity identifying a broad range of social ties, including beyond the family, that are essential to helping city residents stay housed. It argues that as individuals grapple with welfare shifts, financial insecurity, and housing pressures, these ties take on heightened significance but they can also be tested: the pressures that housing-related dependencies place on coresident individuals have the potential to be highly gendered and, promises and expectations of reciprocity in particular, may become untenable for some individuals to uphold in the future. © 2018, © 2018 IBF, The Institute for Housing and Urban Research.",
+    "source": "Housing, Theory and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

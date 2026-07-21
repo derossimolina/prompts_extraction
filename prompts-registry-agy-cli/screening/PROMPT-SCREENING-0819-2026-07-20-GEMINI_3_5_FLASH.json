@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0819-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "National and International Financial Market Regulation and Supervision Systems: Challenges and Solutions",
+    "authors": "Shavshukov V.M.; Zhuravleva N.A.",
+    "year": "2023",
+    "doi": "10.3390/jrfm16060289",
+    "abstract": "The purpose of this original study is to critically analyse the emergence and development of the national models of financial regulation, international standards and codes, and regional and national financial regulation and supervision (for the cases of the UK, USA, Sweden, the EU, and Finland). The research raises both academic and regulatory concerns. The relevance and purpose of this research arise from a need for an academic analysis of the economic nature and classification of financial market regulation systems. They represent a theoretical justification for changes in the policies and supervisory practices of national and international regulatory authorities in response to innovations in financial technologies and instruments, digital products, and risks. Secondly, it will stimulate more systematic work on regulatory databases, registration, and reporting procedures in various economies in different financial markets. The author identifies five main systems of national financial regulatory markets: the multi-tiered, multi-agency US system, the twin peaks model (UK), and the mega-regulatory model (Sweden). There is a thorough review of the international standards and institutions that work for the stability of financial systems. The analysis of the regional and national systems of financial regulation and supervision is based on the examples of the EU and Finnish institutions. National macro- and micro-economic regulation and supervision have been examined, with a focus on the US Federal Reserve and the US Treasury. An important result of the study is the systematisation of the directions of the development of national and international regulatory institutions (since the 1980s). First, the minimum capital and credit risk requirements for banks (the 1980s) were complemented in the 21st century by buffer reserves, liquidity, and leverage standards. Second, regulation focuses on ensuring the sustainability of the national economy. The regulatory focus is on ensuring the sustainability of national and global financial systems. Third, there is an increase in the number of supervised institutions. Fourth, there is a division of the functions between central banks (macro-economic regulation) and one or two mega-regulators (micro-economic regulation and supervision). Fifth, there is a division of labour between the international financial institutions (BIS, IMF, and WB) and national regulators. Sixth, the focus is on protecting consumers and investors and countering money laundering and the financing of terrorism. Seventh, there is an understanding based on a common approach by central banks to new financial technologies and cybersecurity. © 2023 by the authors.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

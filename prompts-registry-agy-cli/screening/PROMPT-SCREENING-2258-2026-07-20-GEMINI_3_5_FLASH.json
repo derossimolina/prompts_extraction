@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2258-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Drug money and bank lending: the unintended consequences of anti-money laundering policies",
+    "authors": "Slutzky, P; Villamizar-Villegas, M; Williams, T",
+    "year": "2026",
+    "doi": "10.1093/jleo/ewaf024",
+    "abstract": "We examine how anti-money laundering (AML) policies affect banks and credit provision. Exploiting a Colombian regulation aimed at controlling the flow of drug trafficking proceeds into the financial system, we find that bank deposits decline in high drug-trafficking municipalities. This liquidity shock affects credit availability in other municipalities: banks sourcing deposits from high drug-trafficking areas reduce lending compared to other banks. Leveraging a proprietary database on bank-firm relationships, we also show that small firms relying on credit from these affected banks experience reduced sales, investment, and profitability. Finally, using night lights data, we find that these results do not reflect a shift in activity across firms or between the formal and informal sectors. Our findings reveal a hidden cost to be considered when implementing AML policies. (JEL K42, G18, G21)",
+    "source": "JOURNAL OF LAW ECONOMICS & ORGANIZATION"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

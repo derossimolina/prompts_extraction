@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0252-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Intelligent AML systems: using deep learning to detect financial fraud",
+    "authors": "Pavlova O.; Askerov V.; Tomchyshen B.; Hovorushchenko T.",
+    "year": "2025",
+    "doi": "10.2478/bjes-2025-0032",
+    "abstract": "Financial fraud involving drop accounts is a major challenge for banking institutions and anti-money laundering (AML) systems. Fraudsters exploit weaknesses in transaction monitoring, making illicit fund transfers difficult to detect. Traditional methods struggle with the complexity and speed of financial flows, especially in cryptocurrency transactions, highlighting the need for advanced analytical approaches. This study proposes a graph neural network (GNN) approach that models financial transactions as a structured graph, allowing the detection of hidden fraudulent patterns. Unlike rule-based and conventional machine learning methods, GNNs effectively capture relational dependencies between entities, thereby improving fraud detection. The proposed graph convolutional network (GCN) was tested on the Elliptic Data Set of over 200,000 cryptocurrency transactions and achieved a 93% accuracy rate, outperforming traditional models. Our findings demonstrate that GNNs significantly improve the identification of suspicious transactions and can be integrated into modern AML systems for real-time monitoring and thus strengthen financial security. © 2025 Olga Pavlova et al., published by Tallinn University of Technology.",
+    "source": "TalTech Journal of European Studies"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

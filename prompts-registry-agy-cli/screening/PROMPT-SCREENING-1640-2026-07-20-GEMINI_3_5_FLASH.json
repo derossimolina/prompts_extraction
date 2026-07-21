@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1640-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Documentary credit fraud against banks: analysis of Korean cases",
+    "authors": "Han C.-R.; Nelen H.; Joo M.Y.",
+    "year": "2015",
+    "doi": "10.1108/JMLC-12-2014-0048",
+    "abstract": "Purpose – This paper aims to explore the feature and mechanism of a new type of documentary credit fraud that victimizes banks’ issuing letters of credit (L/C), harming neither the importer nor the exporter and seeks to suggest possible measures to tackle it. Design/methodology/approach – This study analyzed 30 cases of documentary credit fraud against banks that were detected by the Korea Customs Service (KCS) and interviewed three key customs investigators to interpret the case reports more accurately and gain a deeper understanding into the mechanisms governing the fraud. This study draws on routine activity theory and crime pattern theory to analyze the opportunity structures of this fraud. Findings – This study found that the importer that engaged in the fraud cases had established a solid business relationship with the exporter and had established trust with the victimized banks; the banks, despite the fact that they had their own risk management systems to screen out unqualified L/C applicants, were defrauded by the offending importers and exporters. Unlike ordinary documentary credit fraud, fraud against banks can be tackled by customs because the offender and the victim typically operate in the same jurisdiction, and this type of fraud often results in trade-based capital flight and money laundering, which is the target of customs enforcement. Research limitations/implications – As this paper is based on case reports of the KCS, it is inappropriate to generalize the findings or to apply the findings to other contexts. Nevertheless, the opportunity structure elaborated upon in the course of this paper may prove useful in devising measures to tackle this type of fraud elsewhere. Originality/value – Documentary credit fraud against banks is relatively unexplored, in particular from criminological perspective. This study can contribute to a refinement of the application of opportunity perspective to white-collar crime. © 2015, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2115-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Quantitative problem structuring methods for multi-actor problems: An analysis of reported applications",
+    "authors": "Van Der Lei T.E.; Thissen W.A.H.",
+    "year": "2009",
+    "doi": "10.1057/palgrave.jors.2008.93",
+    "abstract": "Problem structuring methods (PSMs) are proposed as vital tools for coping with complex and unstructured problems that help decision-makers make decisions or come to a shared understanding of a problem situation. Despite their popularity, choosing a PSM for an unstructured problem situation is problematic as good categorization and evaluation of PSMs is lacking. As a first step we postulate a categorization of quantitative PSMs applied to multi-actor situations. We list the different application areas, the types of design that were used, and the type of outcomes the methods provide. To understand why and how certain PSMs are applied, we categorize applications of metagames/conflict analysis, hypergames, drama theory, Q-methodology, and transactional analysis. We find that method choice and validation of the applications are yet underdeveloped for this specific sub-field, and suggest further work on this as it will help to understand the added value of PSMs. © 2009 Operational Research Society Ltd.",
+    "source": "Journal of the Operational Research Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

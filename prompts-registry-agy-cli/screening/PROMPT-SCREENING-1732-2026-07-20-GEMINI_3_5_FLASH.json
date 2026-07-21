@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1732-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Fighting against money laundering",
+    "authors": "Zali M.; Maulidi A.C.H.",
+    "year": "2018",
+    "doi": "10.21684/2412-2343-2018-5-3-40-63",
+    "abstract": "This paper argues for the formation of a new deterrence concept which is useful for banks and state policymakers to fight against elite money laundering. The paper offers insights to enhance our understanding of the nexus of corruption, local business and money laundering scandals. These insights are synthesised from contemporary thinking and current research findings by adopting conspiracy theory. The evidence shows that fraud schemes involving corruption syndicates have become intractable, either because of influence peddling or high-profile people implicated in corruption scandals, making it difficult for anti-corruption provisions to be implemented. Therefore, it is clearly necessary to provide a cautionary note and to consider the analysis of structural forces that reveal the logic of criminal forms and conduct. The paper also points out that the establishment of money laundering laws and the creation of anti-money laundering agencies (strict law enforcement) can effectively deter predatory activities of financial intermediaries in facilitating money laundering practices. In an aggregative analysis of the underlying economic model of crime, the findings of the study provide significant support for a number of the postulates of the conspiracy theory of crime. These include the deterrence effect in respect of perpetrators such as unscrupulous local business staff, corrupters and launderers. © 2018, University of Tyumen. All rights reserved.",
+    "source": "BRICS Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0662-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Covid-19 crisis: What lessons on the role of the informal economy in the Tunisian date value chain?",
+    "authors": "Loukil F.; Rouached L.; El Hadad-Gauthier F.; Hammoudi A.",
+    "year": "2024",
+    "doi": "10.30682/nm2402b",
+    "abstract": "The objective of the paper is to analyze the stakes associated with the informality in the Tunisian Dates supply chain. We focus on the interdependencies between the formal and informal sectors, interdependencies which have been particularly revealed during the Covid-19 crisis. This crisis has highlighted the fundamental role of the informal sector in structuring the supply chain, mainly in the marketing intermediation links. Based on its impacts on the Tunisian date sector, we revisit the debates on the informal sector and offer a critical analysis of the strategies generally proposed to fight against this phenomenon. Radical strategies to eliminate the informality would have the effect of paralyzing a certain number of transactions in the supply chain inducing vulnerabilities of formal stakeholders. Conversely, a tolerant policy towards the informal economy could in the long term compromise the sustainability of the supply chain. The lessons learned from the Covid-19 crisis suggest, firstly, the implementation of policies aimed to reduce the dependence of formal actors on the informal sector. Such a policy is likely to facilitate, in a second phase, the success of progressive integration strategies of the informal economy into the formal system. © 2024, Bononia University Press. All rights reserved.",
+    "source": "New Medit"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

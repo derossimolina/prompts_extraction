@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0752-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Shadow economy and financial stability from the perspective of finance digitalization",
+    "authors": "Bozhenko V.; Boyko A.; Vondráček M.; Karácsony P.",
+    "year": "2024",
+    "doi": "10.14254/2071-8330.2024/17-2/10",
+    "abstract": "Digital financial technologies create a basis for forming new concepts for studying the prerequisites for the emergence of the shadow economy, the search for mechanisms to counteract illicit financial flows, and ensuring financial stability in the country. The article aims to assess the degree of connections between the shadow economy, financial stability and finance digitalization using the principles of cognitive modelling. The empirical study proved that the current status of development of digital finance and financial strength in Ukraine is sufficient for a significant reduction of shadow operations in the economy, namely to the level of 14.43% of GDP, which is 55.8% less compared to the average annual value for the period 2005-2021 years. It is advisable to implement a set of measures aimed at increasing the volume of the cashless economy; reducing non-performing loans; optimization of banking infrastructure; encouraging citizens to use online banking; reduction in the level of fictitious direct investments. © 2024, Centre of Sociological Research. All rights reserved.",
+    "source": "Journal of International Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

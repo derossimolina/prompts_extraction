@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0093-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "SOLIDARITY AND TRANSPARENCY: THE IMPACT OF REFORMS IN PROPERTY REGISTRATION AND THE FIGHT AGAINST MONEY LAUNDERING IN BRAZIL; [SOLIDARIEDADE E TRANSPARÊNCIA: O IMPACTO DAS RE-FORMAS NO REGISTRO DE IMÓVEIS E O COMBATE À LA-VAGEM DE DINHEIRO NO BRASIL]",
+    "authors": "da Costa F.F.G.; Dos Reis J.R.",
+    "year": "2024",
+    "doi": "10.12818/P.0304-2340.2024v85p109",
+    "abstract": "Brazil has implemented robust strategies to combat money laundering, integrating the activities of property registries, the Financial Activities Control Council (COAF) and notary activity. The recent promulgation of Provision no. 161/2024 by the National Council of Justice (CNJ) aims to improve the process of reporting suspicious financial transactions, reducing the frequency of mandatory communications and increasing the quality of the information reported. This provision highlights the need for detailed documentation of payment methods in real estate transactions and the identification of the parties involved, such as politically exposed people. The role of notary offices is crucial: it is a means of controlling the guarantee of transparency and integrity of real estate transactions, in line with the principle of solidarity. This principle permeates the spirit of these reforms, reflecting a commitment to promoting a transparent, fair and safe economic environment. © 2024, Faculdade de Direito da Universidade Federal de Minas Gerais. All rights reserved.",
+    "source": "Revista da Faculdade de Direito da Universidade Federal de Minas Gerais"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

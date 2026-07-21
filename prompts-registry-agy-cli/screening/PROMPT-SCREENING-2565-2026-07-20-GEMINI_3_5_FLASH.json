@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2565-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "PLANNING OF REWA ULTRA MEGA SOLAR POWER PROJECT (750 MW) AT REWA, MADHYA PRADESH",
+    "authors": "Verma, SK; Lodhi, GS; Sethi, VK",
+    "year": "2018",
+    "doi": "10.5958/0973-9343.2018.00016.9",
+    "abstract": "MNRE has set up an ambitious national target for solar power, hence it is important that the States take initiative and relocate liabilities like RPO, etc behind the development of large scale solar projects. Rewa Ultra Mega Solar Limited (RUMSL) has been incorporated as a joint venture company with equal shareholding between MPUVNL (Madhya Pradesh Urja Vikas Nigam Limited), Bhopal Govt. of MP undertaking and SECI (Solar Energy Corporation of India), Delhi, Govt of India undertaking. The 750 MW Rewa Ultra Mega Solar (RUMS) project in the Gurh Tehsil, Rewa District is one such example of a State taking a proactive and leadership role in structuring the solar power project working in collaboration with the Government of India (Govt. India) and multilateral institutions such as World Bank and IFC. Planning of such Mega Project/Solar Park play a vital role in enhancing the renewable power. (MNRE, Akshay Urja Magazine(s) February 2011 (Vol 4), August 2016 (Vol 10), June 2014 (Vol 7)). The power produced from 750 MW Rewa project would be inject into the national grid at its onsite periphery which would be utilized by Delhi Metro Rail Cooperation for meeting its day load and MP Power Management Company Ltd for complying to its Renewable Purchase Obligation. (IREDA, Energy Next Magazine(s), May 2017, April 2017, June 2017); (MNRE Scheme / Documents).",
+    "source": "JIMS8M-THE JOURNAL OF INDIAN MANAGEMENT & STRATEGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

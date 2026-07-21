@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0675-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Insider trading laws to counter financial crime: a comparative study of Mauritius, UK and US laws",
+    "authors": "Beebeejaun A.",
+    "year": "2024",
+    "doi": "10.1108/JFC-11-2022-0273",
+    "abstract": "Purpose: The rise in business activities coupled with free trade liberalisation across countries has entailed an increase in securities transaction as well as insider trading (IT). In fact, IT is characterised by the influence and usage of some prior knowledge concerning sensitive information of a corporate body which results in a financial benefit to the insider trader. The practice of IT is not only unethical but also illegal and this statement is witnessed by the mushrooming of laws across the globe categorising IT as an offence. However, the type of punishment varies in different countries depending on various factors. Consequently, the purpose of this paper is to assess the adequacy and efficiency of IT laws in the context of a developing country being Mauritius. Design/methodology/approach: To achieve the research objective, the Mauritian laws on IT were compared with the corresponding laws of some developed countries like the USA and the UK. As such, a qualitative research method was adopted. In particular, the black letter approach was used to examine the relevant laws of Mauritius, UK and USA on IT. A comparative analysis was conducted concerning IT laws for each country with the view of suggesting recommendations for Mauritian stakeholders to adopt to enhance the existing legal and regulatory framework on IT. Findings: It was found that Mauritian IT laws are largely inspired from both the US and UK corresponding legislation. However, Mauritian laws need to be strengthened by imposing some more severe penalties in terms of fines and terms of imprisonment like the USA has established. The Mauritian Financial Services Commission as the regulator also needs to play a more active role in disseminating particularities of IT laws, offences and penalties to the civil society at large. Originality/value: At present, this study will be among the first academic writings on the efficiency of IT laws in Mauritius and also, because existing literature is quite scarce on assessing the adequacy of IT legislation in developing countries, this research aims at filling in the gap in literature. The study is carried out with the aim of combining a large amount of empirical, theoretical and factual information that can be of use to various stakeholders and not only to academics. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

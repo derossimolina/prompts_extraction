@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1130-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Spatio-temporal variations in phytoplankton communities in sediment and surfacewater as reservoir drawdown—A case study of pengxi river in three Gorges reservoir, China",
+    "authors": "Ouyang W.; Li Z.; Yang J.; Lu L.; Guo J.",
+    "year": "2021",
+    "doi": "10.3390/w13030340",
+    "abstract": "The resting stages of phytoplankton are usually regarded as the seed bank and source of harmful algal blooms because of the recruitment of phytoplankton from sediment to the water column under suitable environmental conditions. Information about resting stages of phytoplankton is abundant in shallow lakes and littoral sea; yet, studies on river–reservoir systems are rare. The river–reservoir continuum shows a unique structuring of longitudinal gradients of hydrological and hydrodynamic conditions. We hypothesized that the seed bank and algal blooms in reservoirs are influenced by the hydrodynamic conditions of each reservoir. We used Illumina Miseq sequencing to examine the spatio-temporal variation in the phytoplankton community in the sediment as reservoir drawdown and in surface water during algal blooms in Pengxi River, a tributary of China’s Three Gorges Reservoir. The results show that the cyanobacteria community in sediment is significantly influenced by temperature, total carbon, maximum flow velocity, and total phosphorous, the eukaryotic phytoplankton community in sediment is significantly influenced by total phosphorous, temperature, total carbon, maximum flow velocity, and total nitrogen. Additionally, the dominant species in sediment is significantly different from that in surface water during algal blooms. Our results suggest that the dominant species in surface water during algal blooms is more influenced by the environmental factors and hydrodynamic conditions in the water column than the seeds in the sediment. These findings are fundamental for further research on the influence of hydrodynamic conditions on algal blooms in artificially regulated river-reservoir systems. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.",
+    "source": "Water (Switzerland)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

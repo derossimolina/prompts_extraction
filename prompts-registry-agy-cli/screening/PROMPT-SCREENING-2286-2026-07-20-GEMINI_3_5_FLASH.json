@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2286-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "TRANSFORMATION PROCESSES OF THE IPO MARKET: UKRAINIAN AND WORLD EXPERIENCE",
+    "authors": "Poberezhets, O; Kovalova, O; Iorgachova, M",
+    "year": "2018",
+    "doi": "10.30525/2256-0742/2018-4-2-178-183",
+    "abstract": "The study of IPO as a source of financial resources meets the current needs of the corporate sector in conditions of disintermediation and securitization trends of the financial market. In developed economies, there is a process of shifting the emphasis in the direction of capital attraction precisely on the stock market segment of the financial market, which has a number of advantages over the banking system that are also connected with the innovation and investment development of the national economy. The formation of the proper basis for the development of IPO market determines the timeliness of the consideration of this issue because it didn't obtain a sufficient spread. The emergence of new instruments is the feature that characterizes the modern stage of the development of the Ukrainian and world economy. Their application is a condition for the further development and use of the potential opportunities for the improvement of economic systems. Enterprises are able to meet current market needs and challenges due to orientation to modern trends and timely reaction to the latest achievements. One of them is the IPO (initial public offering), which is the primary public offering of shares. Participants of the Ukrainian market face a number of obstacles during IPO on the domestic and foreign stock exchanges. It necessitates a comprehensive review of this issue for a further developing of this method of accumulating financial resources. The purpose of this article is to identify the IPO market as a system of interrelated components that form its essence, and on the basis of a generalization of the constraining factors of development providing recommendations on the perspective lines of improving the IPO market, taking into consideration the peculiarities of the Ukrainian and world stock market. Methodology. Analytical market reviews, materials of periodicals, resources of the Internet are the informational and methodological basis of the investigation. To achieve the goal set, the following general scientific and special methods were used: economic and mathematical methods, structural-logical analysis, analogy, synthesis, comparison and integration, factor analysis. Results. The factors that should be taken into account by the issuer for the success of the IPO procedure are justified. Problematic aspects and directions of their elimination are determined for every concrete stage of the IPO. The model for the domestic companies to enter the IPO market is proposed that has a special significance in the context of increasing the volume of financing innovative activity. Directions for reforming the regulatory and legislative framework are considered. Practical implications. Directions for improving the process of passing through the IPO stages can be applied by issuers, taking into account the peculiarities of the domestic and world stock market. Value/originality. The biggest part of the scientific works is devoted to the theoretical aspects of IPO, clarifying the essence of this process, structuring its participants, the advantages of carrying out. At the same time, a part of the works is devoted to the consideration of IPO as an instrument for attracting financial resources by corporations. The authors reviewed IPO in a system that combines the above aspects with its procedure stages and propositions to cancel out constraining factors that have a place on each step of IPO. The presented integrated approach will allow expanding the use of the IPO in the financial market as a source of financial resources for the corporative sector. It is also important to consider the impact of the planned legislative reforms on the development of the IPO market in Ukraine. Taking into account all the components of the IPO market and existing features of the IPO within the framework of the national financial market and world stock exchanges will highlight directions of the IPO market spread.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

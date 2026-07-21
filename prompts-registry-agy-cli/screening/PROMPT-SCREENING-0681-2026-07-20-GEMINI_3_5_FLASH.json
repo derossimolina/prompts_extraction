@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0681-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Oligarch Vanishes: Defensive Ownership, Property Rights, and Political Connections",
+    "authors": "Earle J.S.; Shpak S.; Shirikov A.; Gehlbach S.",
+    "year": "2022",
+    "doi": "10.1561/100.00020228",
+    "abstract": "We examine the use of proxies, shell companies, and offshore firms to defend property against seizure by private and state actors. Our theoretical framework emphasizes the role of political connections in defensive ownership. Linking information from investigative journalists on the key holdings of numerous Ukrainian oligarchs with firm-level administrative data on formal ownership ties, we observe some form of defensive ownership among more than two-thirds of oligarch-controlled firms, but such conduct is much less common for those connected to the incumbent regime. Further exploiting the abrupt shock to political connections that accompanied the Orange Revolution, we find a sharp rise in defensive ownership among previously connected oligarchs. © 2022 J. S. Earle et al.",
+    "source": "Quarterly Journal of Political Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

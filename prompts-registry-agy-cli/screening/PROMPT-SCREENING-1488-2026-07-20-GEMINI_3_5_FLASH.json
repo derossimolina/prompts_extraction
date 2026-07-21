@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1488-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Too big to fail, too big to jail: Restoring liability a lesson from HSBC case",
+    "authors": "Hardouin P.",
+    "year": "2017",
+    "doi": "10.1108/JFC-09-2016-0061",
+    "abstract": "Purpose-This paper aims to highlight the shift of impunity from institutions to individuals within the \"too big to fail, too big to jail\" paradigm and to restore individual liability in the financial industry. Design/methodology/approach-The paper is based on the analysis of HSBC deferred prosecution agreement concluded on December 10, 2012 and of a report by the US House of Representatives Financial Committee released in July 2016. Findings-\"Too big to fail, too big to jail\" is a paradigm which contains justice. It leads to the impunity of individuals involved due to the absence of trial. Containment of justice is denial of justice. However, the systemic risk is attached to institutions, not to individuals. Therefore, it should not hamper the prosecution of individuals. Practical implications-Setting sanctions applicable to individuals and proportionate to the crime would contribute to deter financial misconducts. Originality/value-The value of the paper is the demonstration that there is no basis for a limited personal liability in the financial industry. © Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1241-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Frontline of Housing Access: Comparing Criminal Stigma among Landlords and Real Estate Agents in New York",
+    "authors": "Evans D.N.; Blount-Hill K.-L.; Hoyos-Torres S.",
+    "year": "2021",
+    "doi": "10.1007/s10612-020-09534-0",
+    "abstract": "Individuals who have been convicted of a crime and punished with incarceration face difficulties reentering society following their release. They are stigmatized and often isolated from mainstream society, employers are less likely to hire them, and landlords are less willing to rent to them. Stigmatization of offenders is widespread because they are not protected under federal law and thus discrimination laws do not apply. This study focuses on housing and seeks to explore landlord and real estate agent reactions to prospective tenants on parole. Data were collected through phone calls to landlords and real estate agents, such that these housing proprietors believed that they were speaking with someone on parole who had been convicted previously of either drug trafficking, statutory rape, or child molestation. Results indicate that landlords are less willing to consider prospective tenants on parole than real estate agents. Real estate agents appear to respond more to rental market factors, such as the size of the fee they can earn and supply and demand in the rental market. Findings reflect the difficulty of housing for people coming out of prison. Although some have financial resources or social support to secure housing, many do not. Criminal justice policy must address this issue to improve the reintegration of people exiting prison. © 2020, Springer Nature B.V.",
+    "source": "Critical Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

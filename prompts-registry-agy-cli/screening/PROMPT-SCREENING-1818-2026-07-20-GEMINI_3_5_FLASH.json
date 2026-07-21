@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1818-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Management credibility and investment risk: An experimental investigation of lease accounting alternatives",
+    "authors": "Krische S.D.; Sanders P.R.; Smith S.D.",
+    "year": "2014",
+    "doi": "10.2308/bria-50633",
+    "abstract": "This paper examines how users' understanding of the financial statement impact of accounting alternatives and the disclosure choices management has made jointly influence users' assessments of management credibility and investment risk. Specifically, in a lease obligation setting, management's reporting choice (i.e., recognition versus disclosure), the presence of a supplemental reconciliation from disclosure to recognition, and the source of that reconciliation (as company management or an independent analyst) are manipulated. As predicted, the findings indicate that users assess a management credibility deficiency only when they understand both the financial statement implications of an incentive-consistent reporting choice and that management has not been forthcoming about that choice. In contrast, users' understanding of the financial statement implications of the reporting choice is sufficient to influence their investment risk judgments. This research extends the literature on managerial reporting by documenting necessary knowledge conditions for users to make differential assessments of managers.",
+    "source": "Behavioral Research in Accounting"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

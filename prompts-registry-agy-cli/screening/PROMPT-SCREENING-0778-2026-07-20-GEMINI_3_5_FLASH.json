@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0778-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FDI-led growth models: Sraffian super multiplier models of export platforms and tax havens",
+    "authors": "Woodgate R.",
+    "year": "2023",
+    "doi": "10.4337/ejeep.2023.0110",
+    "abstract": "This paper develops two Sraffian super multiplier models of two different kinds of economies that are dependent upon foreign direct investment (FDI): the ‘export platform FDI-led’ growth model and the ‘tax haven FDI-led’ growth model. The former is driven by the growth of the exports of foreign-owned firms and is associated with greenfield FDI inflows, whereas the latter is driven by the growth of profits booked at foreign-owned shell companies that are partly absorbed through taxation and is associated with intangible FDI inflows. The two models achieve demand, output, and income growth via fundamentally different channels yet appear similarly export-led given how profit shifting artificially inflates the net exports of tax havens. Based on these models, a set of empirical indicators are proposed to differentiate export-platform from tax haven economies. In contrast to Bohle/Regan (2021), who characterise output growth in both Hungary and Ireland as being led by the exports of foreign-owned firms, the model and indicators proposed here support the hypothesis that Ireland is closer to the tax haven FDI-led growth model whereas Hungary is better approximated by the export platform FDI-led model. © 2023 The Author.",
+    "source": "European Journal of Economics and Economic Policies: Intervention"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1379-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Subhat Income of Sharia Financial Institutions According to Dual Law (Formal and Sharia Law)",
+    "authors": "Nurhadi",
+    "year": "2019",
+    "doi": "10.15408/ajis.v19i2.12982",
+    "abstract": "The paper aims to analyze the non-halal funds in Islamic Finance businesses, and review them based on the philosophy of Islamic law. This research uses a descriptive qualitative method, relying on library research. Data is analyzes using content analysis by measuring the benefit of a mater based on Islamic law philosophy. The result is that non-halal funds are any income originating from non-halal businesses (al-kasbu al-ghairi al-masyru’), used for the benefit of the ummah or the interests of the community. Based on the review of Islamic law philosophy, this study concludes that if the halal funds are dominant, then the funds become halal entirely. On the other hand, if the halal funds have a similar proportion or less than the illicit ones, then the illicit funds should be excluded. Meanwhile, the remaining funds are lawful based on the principle of umum al-balwa (widespread hardship), raf’ul haraj wal hajah al-ammah (lift burden for public necessities), muro’at qowa’id al-katsrah wa al-ghalabah (meaning that legal standards are more dominant) and tafriq shafqah (separating halal transactions from those haram). © 2019, Syarif Hidayatullah State Islamic University (UIN) Jakarta. All rights reserved.",
+    "source": "Ahkam: Jurnal Ilmu Syariah"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

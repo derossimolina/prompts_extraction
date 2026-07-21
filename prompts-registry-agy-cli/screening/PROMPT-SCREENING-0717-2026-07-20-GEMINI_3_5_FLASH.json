@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0717-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "KAJIAN KRIMINOLOGI TERHADAP PENGGUNAAN MATA UANG KRIPTO SEBAGAI MEDIA PENCUCIAN UANG (STUDI KASUS BITCOIN)",
+    "authors": "Kurniawan L.D.; Rahmawan A.D.; Manik J.D.N.",
+    "year": "2023",
+    "doi": "10.26740/jsh.v5n1.p8920-20101",
+    "abstract": "The purpose of this research is to see the loopholes for the perpetrators of money laundering through the Bitcoin Cryptocurrency media in carrying out their actions. This study uses a socio-legal research approach. Socio-legal is known as research that involves a social approach in studying legal studies or across disciplines. Sociolegal studies are an alternative approach that examines doctrinal studies of law. The results in this study are based on several case findings and also some literature, Bitcoin cryptocurrency provides opportunities for illegal transactions or transactions that are used for negative actions. There is strong speculation that Bitcoin is very vulnerable to be used as a medium for money laundering or other misuse such as terrorism financing, arms and drug trafficking to several other forms of crime. This is possible because Cryptocurrency has a Blockchain-based encryption system that has sufficient effectiveness, complexity, and anonymity. There are also attempts to engineer Bitcoin as a recognized currency in Indonesia, this can be seen from the use of Bitcoin and the emergence of legality against Bitcoin Cryptocurrency. © 2023, Faculty of Law Universitas Negeri Surabaya. All rights reserved.",
+    "source": "Jurnal Suara Hukum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1949-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Specialization, firms, and markets: The division of labor within and between law firms",
+    "authors": "Garicano L.; Hubbard T.N.",
+    "year": "2009",
+    "doi": "10.1093/jleo/ewn003",
+    "abstract": "This article uses confidential microdata from the Census of Services to examine law firms' field boundaries. We find that the share of lawyers working in field-specialized firms increases as market size increases and lawyers field specialize, indicating that transaction costs among lawyers, and not just complementarities in clients' demands, affect law firms' field boundaries. Moreover, we find that this pattern is mainly true when looking at fields where lawyers are involved in dispute resolution rather than in structuring transactions. We then analyze which combinations of specialists tend to work in the same firm and which tend not to do so. We relate our results to theories of law firms' boundaries from the organizational economics literature. Our evidence leads us to eliminate risk sharing as an important determinant of firms' field boundaries and narrows the set of possible monitoring or knowledge sharing explanations. (JEL D23, J44, L14, L84).",
+    "source": "Journal of Law, Economics, and Organization"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

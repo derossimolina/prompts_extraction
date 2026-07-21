@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2339-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illicit money flows as motives for FDI",
+    "authors": "Perez, MF; Brada, JC; Drabek, Z",
+    "year": "2012",
+    "doi": "10.1016/j.jce.2011.03.007",
+    "abstract": "Perez, M. Fabricio, Brada, Josef C., and Drabek, Zdenek-Illicit money flows as motives for FDI We examine the role of FDI in facilitating money laundering and illegal capital flight, focusing on transition economies' FDI outflows because they largely reflect current investment decisions rather than the inertia of past decisions. We estimate a model of FDI outflows in which illicit money flows influence the volume of FDI directed toward countries considered to be centers of money laundering. We show that traditional models of FDI are not able to account for these investment flows and that our results are robust when additional explanatory variables such as host country tax rates, governance, corruption, and cultural differences between the home and host country are included in the model. We estimate that 6-10% of total FDI outflows and over 20% of FDI to money-laundering countries from our sample were made to facilitate illicit money flows. Journal of Comparative Economics 40 (1) (2012) 108-126. School of Business and Economics, Wilfrid Laurier University, 75 University Avenue, West Waterloo, Ontario, Canada N2L 3C5; Arizona State University, Tempe, AZ 85287-9801, USA; World Trade Organization, Rue de Lausanne 154, CH - 1211 Geneve 21, Switzerland. (C) 2011 Association for Comparative Economic Studies Published by Elsevier Inc. All rights reserved.",
+    "source": "JOURNAL OF COMPARATIVE ECONOMICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

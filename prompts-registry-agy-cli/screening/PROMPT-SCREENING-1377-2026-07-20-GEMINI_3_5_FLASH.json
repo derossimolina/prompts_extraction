@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1377-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The 1MDB case and the Swiss banking sector",
+    "authors": "Teichmann F.M.J.; Falker M.-C.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-04-2020-0037",
+    "abstract": "Purpose: This case study highlights why and how the Swiss banking sector played a crucial role in the 1Malaysia Development Berhad (1MDB) corruption scandal. In particular, the paper illustrates how different actors in the Swiss financial sector neglected compliance guidelines and due diligence, thus effectively facilitating the laundering of misappropriated 1MDB funds. The purpose of this paper is to give bankers and compliance officers an overview of the methods money launderers use to circumvent compliance measures so that the Swiss banking sector can be protected more effectively from abuse. In addition, there is discussion whether current regulations, including banking secrecy, should be amended. Design/methodology/approach: This paper used a content analysis methodological approach to collect data from media sources. Qualitative methods were used to analyze these sources. Findings: The findings reveal that the Swiss banking sector played a major role in facilitating the siphoning and subsequent laundering of 1MDB funds by neglecting due diligence obligations. Practical implications: This paper advocates a more consequential implementation of the existing anti-money laundering and corruption regulations. Social implications: A reworking of the 1MDB scandal should be of interest to compliance professionals in the banking sector and citizens that have been negatively affected or are concerned by the involved high-level corruption. Originality/value: This paper is the first of its kind to study the role of the Swiss banking sector in the 1MDB scandal. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

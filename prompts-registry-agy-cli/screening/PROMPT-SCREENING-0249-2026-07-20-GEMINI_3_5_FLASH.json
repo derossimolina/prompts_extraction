@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0249-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money-laundering oversight and banks' reporting of suspicious transactions: some empirical evidence",
+    "authors": "Gara M.; Manaresi F.; Marchetti D.J.; Marinucci M.",
+    "year": "2024",
+    "doi": "10.1093/jleo/ewad004",
+    "abstract": "We investigate the relation between anti-money-laundering (AML) inspections and banks' ability and effort to identify and report suspicious transactions. We do so by using detailed data from the Bank of Italy and the Italian Financial Intelligence Unit, which include information on (i) authorities' onsite inspections and enforcement actions, (ii) quantity and quality of suspicious transactions reports filed by banks before and after inspections, and (iii) reports' investigative follow-ups. We document an increase in banks' reporting after an inspection. Crucially, the increase is not concentrated among low-quality reports, but is spread to reports which are relevant from both a financial and an investigative point of view. We thus overall observe a rise in the information conveyed by AML reports after the authorities' intervention. On the mechanism of the effect, we provide some suggestive evidence that inspections induce an increase of both banks' reporting effort as well as screening skills (JEL G28, K23, L51, M21). © The Author(s) 2023.",
+    "source": "Journal of Law, Economics, and Organization"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

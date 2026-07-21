@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2459-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Determinants of the choice of bankruptcy procedure in Japan",
+    "authors": "Helwege, J; Packer, F",
+    "year": "2003",
+    "doi": "10.1016/S1042-9573(02)00008-6",
+    "abstract": "This paper investigates close bank-firm relations (keiretsu) among troubled Japanese firms by examining the type of bankruptcy. In Japan, creditors control the fate of the bankrupt firm, which may be costly if managers destroy firm value to avoid bankruptcy or, alternatively, if creditors liquidate too often. Recently, researchers have argued that keiretsu banks prop up weak firms that should fail. We find that bankrupt firms affiliated with keiretsu banks are neither subject to excessive liquidation by overly powerful banks nor slower to be liquidated. Keiretsu banks liquidate via the courts often, perhaps to avoid political repercussions and organized crime. (C) 2002 Elsevier Science (USA). All rights reserved.",
+    "source": "JOURNAL OF FINANCIAL INTERMEDIATION"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

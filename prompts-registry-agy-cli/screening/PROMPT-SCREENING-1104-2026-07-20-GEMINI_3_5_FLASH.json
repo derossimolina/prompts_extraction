@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1104-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Working for free illegal employment practices, ‘off the books’ work and the continuum of legality within the service economy",
+    "authors": "Lloyd A.",
+    "year": "2020",
+    "doi": "10.1007/s12117-018-9351-x",
+    "abstract": "Much of the literature on illegal labour focuses on the exploitation of illegal migrants and, by extension, the trafficking and smuggling networks that transport them to destination countries. Using evidence from two projects that investigated working conditions in the formal service economy, the paper presents evidence of ‘off the books’ work, illegal employment practices such as denial of benefits and the minimum wage, as well as work trials where labour is exploited for free. By considering political economic imperatives, this paper argues that employees in both the formal and informal economy are dispossessed of rights, pay, benefits and security in order for employers to profit by surplus value and the circulation of capital. The real ‘organised crime’ of illegal labour is neoliberal political economy and its decimation of employment protection. © 2018, Springer Science+Business Media, LLC, part of Springer Nature.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

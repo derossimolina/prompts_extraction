@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0586-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Smurfing in Electronic Banking: A Legal Investigation of the Potential for Transnational Money Laundering",
+    "authors": "Thommandru A.",
+    "year": "2023",
+    "doi": "10.1017/jli.2023.13",
+    "abstract": "Money laundering is a serious crime that is often associated with organized crime, terrorism, and other illegal activities, often by transferring them through a series of financial transactions and institutions. In this study, the researchers focused on detecting a specific type of money laundering called smurfing, which involves breaking up large amounts of money into smaller transactions. The growing market for banking services and the intense competition among banks has led to a shift towards electronic banking. This shift is driven by changes in the way that customers use banking services and the advancements in technology. Electronic banking offers several benefits, such as faster transaction processing and the ability to avoid waiting in line at physical branches. However, it also carries risks, including the potential for electronic payment systems to be used for money laundering. With the development of technology, money laundering can now be done through online betting and casino platforms, as well as through the buying and selling of cryptocurrencies. This article aims to explore the ways in which electronic payment systems, online gambling, and cryptocurrencies can be used to launder illegally acquired money. Copyright © The Author(s), 2023. Published by International Association of Law Libraries.",
+    "source": "International Journal of Legal Information"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

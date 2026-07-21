@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1225-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Methodical approach to the assessment of risks connected with the legalization of the proceeds of crime",
+    "authors": "Kostyuchenko N.; Starinskyi М.; Tiutiunyk I.; Kobushko I.",
+    "year": "2018",
+    "doi": "10.14254/1800-5845/2018.14-4.2",
+    "abstract": "The aim of the research is to develop a scientific and methodical approach, which consists in the timely identification of systemic risks connected with the legalization of the proceeds of crime, their formalization, assessing and monitoring in order to prevent these transactions occurrence. The article analyzes the state of the Ukrainian economy in terms of its level of shadow economy, the corruption index, and the amount of illegal withdrawal of funds from the country. The key ways and methods of money laundering in Ukraine are defined. The components of the process of illegal withdrawal of funds abroad have been studied as well as key drivers and methods of shadow economy have been identified. The theoretical foundations of the development of the of formalization and assessment model of systemic risks of hiding proceeds are highlighted. A model for assessment of the risk occurrence probability of the legalization of proceeds of crime is developed. The risk occurrence probability of the legalization of proceeds with the participation of Ukraine and partner countries was assessed. © 2018, Economic Laboratory for Transition Research. All rights reserved.",
+    "source": "Montenegrin Journal of Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

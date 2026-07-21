@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0185-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "LEGAL PROTECTION FOR NFT INVESTORS IN INDONESIA’S DIGITAL CREATIVE INDUSTRY: A TRANSFORMATIVE AND DEVELOPMENTAL LAW APPROACH",
+    "authors": "Abidin M.I.; Ramli A.M.; Rafianti L.; Jha G.K.",
+    "year": "2025",
+    "doi": "10.25041/iplr.v6i1.4130",
+    "abstract": "Investment in Non-Fungible Tokens (NFTs) is rapidly emerging in Indonesia, presenting both opportunities and challenges for the digital creative industry. As unique crypto assets, NFTs enable new ways to own and trade digital and physical goods, but current regulations, including the Commodity Futures Trading Law and Bappebti guidelines, do not fully address these transactions, creating legal gaps and increasing risks of fraud, money laundering, and market manipulation. Despite this, NFT communities like the Superlative Secret Society in Bali, supported by the Ministry of Creative Economy, have fostered creativity and economic activity. This study employs a normative juridical and comparative law approach to explore legal theories suitable for protecting NFT investments, finding that frameworks based on Ahmad M. Ramli’s transformative law and Mochtar Kusumaatmadja’s developmental law can ensure legal certainty, security, and fairness. The study concludes that comprehensive legal reforms are essential to safeguard investors and sustain the growth and international competitiveness of Indonesia’s digital creative industry. © 2025, Universitas Lampung Faculty of Law. All rights reserved.",
+    "source": "Indonesia Private Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

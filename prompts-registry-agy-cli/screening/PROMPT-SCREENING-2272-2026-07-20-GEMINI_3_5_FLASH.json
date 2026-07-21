@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2272-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Aspects of money laundering and terrorist financing (AML/CFT) risks in crowdfunding on the example of Poland",
+    "authors": "Lusiakowski, K; Gibowski, L",
+    "year": "2025",
+    "doi": "10.58691/man/215969",
+    "abstract": "Research background and purpose: Digital technologies offer tangible economic benefits but are also exposed to the risk of misuse. Crowdfunding is a special support form for business, cultural or social enterprises. Due to anonymity, fragmentation of capital and wide coverage, crowdfunding transactions are particularly vulnerable to the risk of criminal activities related to the concealment of the source of income or illegal changes of the financing objective. This article addresses the risks of money laundering and terrorism financing, particularly on the specifics of crowdfunding. Research has proposed a synthetic risk indicator for AML/CFT, which may measure the level of risk and vulnerability of crowdfunding to money laundering and terrorism financing. Design / methodology / approach: The discussion in the article is presented against the background of a comprehensive and integrated review of literature, covering national and foreign sources. The theoretical part of the article utilizes: method of analysis and criticism of literature, analysis and synthesis, and method of analysis and logical construction. In the empirical part, to assess the level of risk and vulnerability of crowdfunding to AML/CFT risk compared to other areas, a research procedure based on the TOPSIS linear ordering method was used. The analysis covers the years 2019 and 2023. Findings: The results of the studies show that crowdfunding is one of the most vulnerable areas at risk of money laundering and terrorism financing. The high position in the ranking in 2019 and 2023 resulted mainly from the dynamic development of the crowdfunding market in Poland, its increasing availability, a high degree of decentralization, the occurrence of cross-border transactions and the increasing diversity of platforms in their business model. Maintaining the benefits of crowdfunding requires the simultaneous implementation of effective remedies, increased campaign transparency and close cooperation with supervisory authorities and institutions combating financial crime. Value added and limitations: The study makes an important contribution to the literature on the subject, providing information on the criminality of crowdfunding. The results of the study can be used by supervisory and regulatory authorities as a tool for shaping security in innovative segments of the financial system. The main limitation was the relatively small number of variables selected for the synthetic measure.",
+    "source": "MANAGEMENT-POLAND"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

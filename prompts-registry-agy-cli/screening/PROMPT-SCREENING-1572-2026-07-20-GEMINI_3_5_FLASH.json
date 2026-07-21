@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1572-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tax havens: conduits for corporate tax malfeasance",
+    "authors": "Jalan A.; Vaidyanathan R.",
+    "year": "2017",
+    "doi": "10.1108/JFRC-04-2016-0039",
+    "abstract": "Purpose: This paper is an effort to demystify tax havens – what they mean, what they offer and why they are harmful. It offers a detailed analysis of abusive tax planning by multinational corporations, involving the use of tax havens, shedding light on how corporations use “egregious” tax-sheltering techniques right from their incorporation to avoid payment of income taxes. The paper also discusses global efforts against the phenomenon and policy recommendations. Design/methodology/approach: The paper brings together definitions from various sources to accurately define and identify tax haven economies. The key contribution of the paper is to diagrammatically explain the use of tax havens by MNCs right from the time they are incorporated. It explains how every big and small corporate decision is motivated by the desire to save taxes and how tax havens come in handy for such corporations. Findings: This paper finds that base erosion and profit shifting (BEPS) is a pervasive phenomenon, largely due to the suppliers of tax haven operations. Here, corporate decisions are divided into strategic and operational and further subdivided into investing, operating and financing activities, and provide real-life corporate examples of how tax havens fit into almost every corporate decision. This is the key contribution of the paper. Research limitations/implications: This is a review paper that sums up knowledge about tax havens and their use by MNCs. It does not, however, use empirical data to corroborate its findings. It would be interesting to see empirically whether MNCs with greater tax haven operations actually have lower effective tax rates. Practical implications: The paper can provide a framework for designing tax policies in a manner that geographical arbitrage can be minimized. It can enable formulation of the necessary incentive structures in the form of penalties, rewards and the like for both the users and providers of tax haven services to curb massive base and profit shifting out of high-tax countries. Social implications: The paper is one small step in the direction of bringing about equality in tax payments, i.e. to align real tax systems with the canon of equality that Adam Smith once dreamt of. Taxes should be progressive in nature, implying that the amount of taxes paid should increase with one’s income. However, with the advent of offshore financial centres and egregious tax planning techniques, only the smaller corporations and middle-class individuals end up paying taxes, while the rich and bigger corporations get away easily. Originality/value: The paper explores in detail the manner in which MNCs use, rather exploit, regulatory loopholes in tax systems of different countries to save on tax payments. By shifting their tax base from one country to another, MNCs not only hamper Treasury collections but also breed disrespect for the global tax system. The paper can help in designing tax laws in tune with such corporate motives. © 2017, © Emerald Publishing Limited.",
+    "source": "Journal of Financial Regulation and Compliance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

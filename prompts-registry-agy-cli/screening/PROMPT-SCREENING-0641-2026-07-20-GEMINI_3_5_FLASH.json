@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0641-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Historical aspects of customer due diligence and related anti-money laundering measures in South Africa",
+    "authors": "Chitimira H.; Munedzi S.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-01-2023-0016",
+    "abstract": "Purpose: This paper explores the historical aspects of customer due diligence and related anti-money laundering measures in South Africa. Customer due diligence measures are usually employed to ensure that financial institutions know their customers well by assessing them against the possible risks they might pose such as fraud, money laundering, Ponzi schemes and terrorist financing. Accordingly, customer due diligence measures enable banks and other financial institutions to assess their customers before they conclude any transactions with them. Customer due diligence measures that are utilised in South Africa include identification and verification of customer identity, keeping records of transactions concluded between customers and financial institutions, ongoing monitoring of customer account activities, reporting unusual and suspicious transactions and risk assessment programmes. The Financial Intelligence Centre Act 38 of 2001 (FICA) as amended by the Financial Intelligence Centre Amendment Act 1 of 2017 (Amendment Act) is the primary statute that provides for the adoption and use of customer due diligence measures to detect and combat money laundering in South Africa. Prior to the enactment of the FICA, several other statutes were enacted in a bid to prohibit money laundering in South Africa. Against this background, the article provides a historical overview analysis of these statutes to, inter alia, explore their adequacy and examine whether they consistently complied with the Financial Action Task Force Recommendations on the regulation of money laundering. Design/methodology/approach: The paper provides an overview analysis of the historical aspects of the regulation and use of customer due diligence to combat money laundering in South Africa. In this regard, a qualitative research method as well as the doctrinal research method are used. Findings: It is hoped that policymakers and other relevant persons will adopt the recommendations provided in the paper to enhance the curbing of money laundering in South Africa. Research limitations/implications: The paper does not provide empirical research. Practical implications: The paper is useful to all policymakers, lawyers, law students and regulatory bodies, especially, in South Africa. Social implications: The paper advocates for the use of customer due diligence measures to curb money laundering in the South African financial markets and financial institutions. Originality/value: The paper is original research on the South African anti-money laundering regime and the use of customer due diligence measures to curb money laundering in South Africa. © 2023, Howard Chitimira and Sharon Munedzi.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

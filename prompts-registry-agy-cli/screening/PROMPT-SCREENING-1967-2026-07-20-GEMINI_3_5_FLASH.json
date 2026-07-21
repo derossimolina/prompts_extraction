@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1967-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Another globalization: Changes in the present laudering money process; [Une autre mondialisation: Les mutations du blanchiment contemporain]",
+    "authors": "Castelli B.",
+    "year": "2005",
+    "doi": "10.3917/med.131.0111",
+    "abstract": "In this article, we notice three major mutations which caracterize today the forms of concealing and integrating the illegal funds: the emergence of offshore finance centers, the formation of financial underground networks and the presence of skilled launderers represent the main trends of this illégal financial activity. It is very important to take into account these last mutations for understanding better and perhaps controling the recent development of the money laundering. The author concludes emphasizing the risk that legal private business as public economy need in the futur more and more ressources from criminal organizations.",
+    "source": "Mondes en Developpement"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

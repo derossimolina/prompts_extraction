@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1946-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A new role for for-profit actors? The case of anti-money laundering and risk management",
+    "authors": "Bergström M.; Svedberg Helgesson K.; Mörth U.",
+    "year": "2011",
+    "doi": "10.1111/j.1468-5965.2010.02167.x",
+    "abstract": "The article analyses what the third EU Directive on AML (anti-money laundering) and risk management means in terms of democratic accountability when the banking sector is given a role that is traditionally the prerogative of the public actors. The comparison between the UK and Sweden on the private actors' role in various stages of the risk-based decision process shows that the procedures used could jeopardize the traditional liberal understanding of democratic accountability. © 2011 The Author(s). JCMS: Journal of Common Market Studies © 2011 Blackwell Publishing Ltd.",
+    "source": "Journal of Common Market Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

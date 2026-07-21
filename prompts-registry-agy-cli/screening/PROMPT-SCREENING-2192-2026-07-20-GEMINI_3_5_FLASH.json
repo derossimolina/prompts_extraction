@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2192-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Workplace crime and the informal economy in Ukraine: Employee and employer perspectives",
+    "authors": "Rodgers P.; Williams C.C.; Round J.",
+    "year": "2008",
+    "doi": "10.1108/03068290810896299",
+    "abstract": "Purpose - The purpose of this paper is to explore the criminal workplace activities of both employers and employees in Ukrainian enterprises. It challenges traditional definitions of corruption and suggests that the practices that can be observed fit into the category of organised crime because of the country's economic framework. The paper also explores how the practices are partially a legacy of Soviet economic processes. Design/methodology/approach - A total of 700 household surveys were completed in three cities, Kyiv (where 450 surveys were completed), Uzhgorod (150) and Kharkiv (100). To complement these, approximately 25 in-depth interviews were undertaken with workers in each region. Furthermore, ethnographic observations and \"kitchen table\" interviews also played an important role in the research. Although the research was oriented towards those working in informal economies, business owners (both formal and informal) were also interviewed. Findings - As well as revealing the endemic nature of corruption in Ukrainian workplaces and the high levels of informal activity undertaken by workers, the research found that many people wish for their workplace to become more regulated. Research limitations/ implications - Further interviews could have been carried out with state officials and in more locations. The implications are multiple but mainly they demonstrate the difficulty that those charged with economic reform in Ukraine must face. Originality/value - It is one of the first studies to explore these issues in Ukraine using a variety of research methods. © Emerald Group Publishing Limited.",
+    "source": "International Journal of Social Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

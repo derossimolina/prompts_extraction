@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2306-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial crimes in Africa and economic growth: Implications for achieving sustainable development goals (SDGs)",
+    "authors": "Arthur, KK; Asongu, SA; Darko, P; Ansah, MO; Adom, S; Hlortu, O",
+    "year": "2025",
+    "doi": "10.1111/joes.12652",
+    "abstract": "The current review systematically synthesizes existing literature to provide a comprehensive overview of the nature of financial crimes in Africa and their impact on economic growth. We adopted the PRISMA protocol to identify 128 papers from the Scopus database, which were analyzed using MS Excel, VOSviewer, and R-packages (Bibliometrix). The survey reveals that financial crimes are on the rise in Africa and have gained increasing concern over the years on the part of scholars, governments, and NGOs. The survey also demonstrates that most of the financial crime in Africa emanates from illicit activities such as credit card fraud, cybercrime, mobile money fraud, financial statement fraud, Ponzi scheme, bribery and corruption, public fund mismanagement, terror financing, piracy, identity fraud, tax invasion, drug trafficking, product based-fraud, burglary, trade-based money laundering, sex marketing, and gambling; with the majority occurring in specific regions like Western Africa, Southern Africa, and Eastern Africa. Sociopolitical marginalization, poverty, and unemployment, weak institutional and financial regulatory systems and individual selfish interests were the major causes. Overall, the content analysis of the studies indicates that financial crimes have significant negative impacts on the economic growth of the African continent. Implications for future research and practices have been discussed.",
+    "source": "JOURNAL OF ECONOMIC SURVEYS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

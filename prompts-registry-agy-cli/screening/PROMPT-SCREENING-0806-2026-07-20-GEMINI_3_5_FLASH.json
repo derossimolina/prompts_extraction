@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0806-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Contemporary financial capitalism and sustainability transitions in urban built environments",
+    "authors": "Hadfield P.; Coenen L.",
+    "year": "2022",
+    "doi": "10.1016/j.eist.2022.01.004",
+    "abstract": "Cities are considered key sites where innovation can be nurtured to drive sustainability transitions. While existing studies recognise that transitions occur unevenly across space and time, predominant theories of change offer limited understanding of the geographical conditions shaping whether and how low-carbon innovations are scaled. As sustainability practitioners and advocates increase calls for localising climate investment, this paper argues that common processes and practices constituting financial systems reveal the structuring role of contemporary capitalist finance on the forms and qualities of sustainability transitions in urban built environments. Through an extensive review, the paper highlights (1) temporal boundaries associated with speculative measures of risk and return, (2) multiscalar relations of asset ownership and services provision, and (3) uneven spatial distribution of investment. Acknowledging the socially regressive implications of orthodox financial thresholds, the paper considers the prospects for transformative financial innovation driven by social and place-based value propositions to meet environmental goals. © 2022",
+    "source": "Environmental Innovation and Societal Transitions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

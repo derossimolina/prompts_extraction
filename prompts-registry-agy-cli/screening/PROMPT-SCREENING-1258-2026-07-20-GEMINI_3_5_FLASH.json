@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1258-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Corruption trends during Africa's oil boom, 2005 to 2014",
+    "authors": "Gillies A.",
+    "year": "2020",
+    "doi": "10.1016/j.exis.2020.06.006",
+    "abstract": "Court cases, investigative reports and other exposés provide a wealth of new information about how corruption unfolded during Africa's 2005 to 2014 oil boom. The analysis of 60 controversies from 17 African countries resulted in several observations about how public and private sector actors used illicit tactics to capture a portion of the ballooning resource rents. As during previous oil booms, the historic rise in prices increased the incentives for corruption, and Africa's ‘rentier states’ created conducive environments for its pursuit. Companies took great reputational and legal risks to win over government decision-makers. Government officials found inventive ways to insert themselves or, more often, their allies into lucrative oil sector deals in order to enrich their inner circle and bolster their political positions. These are familiar dynamics, but they assumed new forms during the recent boom years. The corruption cases featured a broader mix of private sector players, reflecting the diversity of actors lured to Africa by boom-time prices. Fixers, national oil companies, and offshore shell companies appeared with great regularity across the cases. Identifying trends such as these can help inform the anti-corruption strategies of the future. © 2020 Elsevier Ltd",
+    "source": "Extractive Industries and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

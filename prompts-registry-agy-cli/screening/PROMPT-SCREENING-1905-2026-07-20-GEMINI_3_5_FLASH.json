@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1905-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is the global financial system AML/CFT prepared?",
+    "authors": "Johnson J.",
+    "year": "2008",
+    "doi": "10.1108/13590790810841662",
+    "abstract": "Purpose To gauge the extent to which the global financial system is antimoney laundering (AML)/countering the financing of terrorism (CFT) prepared by analysing and comparing the AML/CFT systems of Financial Action Task Force (FATF) members with countries belonging to regional AML organisations. Design/methodology/approach Mutual evaluation data of 16 FATF members and 21 nonFATF countries is analysed and compared using KruskalWallis and pairedt tests to determine similarities and differences across the two groups of countries. Findings AML/CFT systems of FATF members and nonFATF countries are poor. The lack of compliance with global AML/CFT standards leaves so many holes in these countries' regulatory, financial, and legal systems that money laundering with or without any relationship to the financing of terrorism, would be relatively easy to achieve. Research limitations/implications In using an analytical approach it has been necessary to put numerical values on compliance levels used by the FATF. Given that these are very broad, substituting a single value for each compliance level will provide only a crude measure of compliance for comparisons to be made. The results should therefore be used as a guide to the ranking and compliance of countries rather than some exact measurement of compliance. Practical implications There will need to be followup visits to this round of mutual evaluations to evaluate country responses to their poor assessments. Originality/value Publication of mutual evaluations by the FATF and a number of regional bodies has enabled a comparison of AML/CFT systems from countries around the world. Lack of data has not enabled this to be done before. © 2008, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

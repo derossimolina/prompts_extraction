@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1062-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk mitigation in PFI/PPP project finance: A framework model for financiers’ bankability criteria",
+    "authors": "Owolabi H.; Oyedele L.; Alaka H.; Ajayi S.; Bilal M.; Akinade O.",
+    "year": "2020",
+    "doi": "10.1108/BEPAM-09-2018-0120",
+    "abstract": "Purpose: Earlier studies on risk evaluation in private finance initiative and public private partnerships (PFI/PPP) projects have focussed more on quantitative approaches despite increasing call for contextual understanding of the bankability of risks. The purpose of this paper is to explore the perspectives of UK PFI financiers’ regarding the bankability of four critical risks (construction and completion risk, operations, supply and offtake risk) in PPP projects. Design/methodology/approach: Multiple case study strategy was adopted to investigate the phenomenon within real-life context of PFI/PPP projects in UK. Using purposive sampling approach, the study examined school and road PFI/PPP projects through interviews, documentations and focus group discussions. Findings: Results from the study unravelled 36 suitable bankability criteria and some mitigation strategies for evaluating the four critical risks in PFI/PPP during due diligence appraisal. Further evidences from the study also show that, financiers’ bankability criteria, when paired along with corresponding risks and mitigation strategies within with a single framework, provides a quick and effective view of bankability of risks in PFI/PPP funding application. Research limitations/implications: In order to ensure generalisability of findings, only projects with similar nature were selected from just two sectors of the UK economy (road and education sectors). The context of the study is also based on UK’s PFI/PPP and Construction Industry, as such, other geographical regions in Europe and beyond have not been contextualised in this study. Due to the significance of finance in PFI/PPP contracts, only the perspective of project financiers have been explored in this study. Practical implications: This study provides a less complicated but useful understanding of how risks in PFI/PPP projects may be packaged in a bankable manner to secure the confidence of project financiers. By presenting a qualitative framework, the study addresses concerns of over quantification of risk analysis in PFI/PPP appraisals and provides a relatable approach useful for non-finance oriented PPP practitioners. Social implications: This study addresses the social concerns of too much complexity and ambiguity in PFI/PPP structuring especially regarding factors that could make a project acceptable to lenders. Originality/value: The study proposes a “Bankability and Risk Qualitative Framework”, which presents bankability information on critical risks in clear manner and represents critical parameters for winning financiers’ funding approvals for PFI/PPP projects. © 2019, Emerald Publishing Limited.",
+    "source": "Built Environment Project and Asset Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

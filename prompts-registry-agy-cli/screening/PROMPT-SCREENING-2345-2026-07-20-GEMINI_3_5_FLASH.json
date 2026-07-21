@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2345-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FinTech Innovation and Anti-Money Laundering Compliance",
+    "authors": "Wu, YT",
+    "year": "2017",
+    "doi": "10.3966/181263242017091202002",
+    "abstract": "The rapid emergence and growth of the financial innovations industry-or FinTech as it is commonly referred to in the financial services sector-has caught many players in the global financial services industry unaware. This article analyzed the compliance of FinTech firms with anti-money laundering (AML) laws in the US. The results of the study suggest that two main laws govern issues related to the laundering of monetary instruments. These laws are the Bank Secrecy Act of 1970 (BSA) and the Organized Crime Control Act. The BSA is the primary legislation on issues related to the laundering of money. The legislation outlines the rules that banks and other financial services institutions must follow to ensure that their services are compliant with AML laws. The Organized Crime Control Act merely defines the crime of laundering in financial instruments. Furthermore, the results of the analysis state that FinTech corporations are not complying with AML laws. The results indicate that most FinTech firms do not consider themselves as financial services organizations. In fact, their business models are inconsistent with existing AML provisions. This reluctance to comply with AML laws has exposed them to suits, with the available data indicating that some founders have been received 20-year jail terms because of their failure to comply with AML provisions. In the end, the concept of regulatory requirements will be explained as the conclusion.",
+    "source": "NATIONAL TAIWAN UNIVERSITY LAW REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

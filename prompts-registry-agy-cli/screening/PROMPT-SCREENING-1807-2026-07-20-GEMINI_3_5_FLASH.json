@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1807-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Enhancing effectiveness of anti-money laundering laws through whistleblowing",
+    "authors": "Yeoh P.",
+    "year": "2014",
+    "doi": "10.1108/JMLC-06-2013-0020",
+    "abstract": "Purpose – The purpose of this paper is to review inadequacies of anti-money laundering (AML) and whistleblowing laws particularly in the UK financial services sector and suggest various reforms initiatives. Design/methodology/approach – The article relies extensively on secondary data analysis including extensive literature review, analysis of applicable cases and evaluation of current whistleblowing and AML laws. Findings – The preponderance of defensive reporting particularly in the financial services sector appears to blunt the effectiveness of AML laws in the UK. Working adults generally are unaware or unfamiliar with whistleblowing laws, whereas the laws themselves are also deficient in some ways even though they have been adopted and adapted in various other jurisdictions because of its perceived comprehensiveness. Preliminary indications from money laundering scandals demonstrate how and why early disclosures of wrongdoings through whistleblowing might have helped to reduce the magnitude of the adverse consequences and hence the importance of whistleblowing in the fight against money laundering. Originality/value – This article provides the argument that while money laundering is perpetuated by hard-core criminals, it could be aided along by others motivated by profits in the financial system and that those closes to the process and in particular workers when encountering such activities should be encouraged to report these via appropriate channels. This together with further revamping of the suspicious activity reports procedures required under AML laws is argued to be able to contribute to the reduction of defensive reporting thereby enabling enforcement agencies to have more effective focus on remedial actions. © 2014, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

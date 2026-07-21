@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0948-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Role of Technology in Preventive Measures to Combat Money Laundering Crime: Case study Sudan",
+    "authors": "Zain M.E.A.M.; Alhamed S.M.; Abu-Elwan S.M.A.",
+    "year": "2023",
+    "doi": "10.18576/isl/120802",
+    "abstract": "This study aimed to highlight the role that technology can play in the preventive measures to combat money laundering, especially since money laundering crimes have become dependent on advanced technical techniques in addition to many electronic means that are currently available. This necessitated the development of advanced technical means and tools to combat money laundering. The researchers used the case study methodology, which is characterized by many advantages that make it suitable for this study, including that it allows the collection of data from multiple sources. The study reached many results, the most prominent of which is that the phenomenon of money laundering passes in most of the stage of transfers through bank accounts, which must provide a degree of banking secrecy for customer accounts, which makes the matter of balancing between combating money laundering and maintaining the secrecy of customer accounts difficult and not Palliser. The most prominent of the recommendations of this study is that the legislation and laws of money laundering crimes must be revised and followed up with the necessary decisive, strict and rapid amendments, at least annually. © 2023 NSP.",
+    "source": "Information Sciences Letters"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

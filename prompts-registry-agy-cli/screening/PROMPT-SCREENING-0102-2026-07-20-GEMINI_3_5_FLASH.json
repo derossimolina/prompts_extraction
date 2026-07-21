@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0102-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Prosecuting communication services providers as crime facilitators: A cautionary tale",
+    "authors": "Oerlemans J.-J.; Royer S.",
+    "year": "2026",
+    "doi": "10.1016/j.clsr.2026.106330",
+    "abstract": "This article examines a novel trend in combating organised (cyber)crime: prosecuting communication service providers for complicity in offences committed by their users. Illustrative of this approach is the high-profile case involving Pavel Durov, CEO of Telegram, launched in 2024. The authors observe that, over the past decade, bulletproof hosting providers and providers of crypto communication services have also been prosecuted. They were prosecuted on the charges of complicity for computer crimes and organised crime, such as drug trafficking facilitated through their platforms. Drawing from Dutch judgments, the article examines this prosecution strategy and identifies its challenges and risks. Moreover, the authors identify key constraints for these operations from a fundamental rights perspective. © 2026 The Authors",
+    "source": "Computer Law and Security Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

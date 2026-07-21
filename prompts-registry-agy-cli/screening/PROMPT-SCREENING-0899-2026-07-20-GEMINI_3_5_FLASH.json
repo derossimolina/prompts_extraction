@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0899-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digital Currency as aSubject of Economic Criminal Offenses",
+    "authors": "Dumchikov M.; Horobets N.; Honcharuk V.; Dehtiar R.",
+    "year": "2022",
+    "doi": "10.26512/lstr.v14i1.38676",
+    "abstract": "[Purpose] The article is devoted to an essential and relevant topic. The cryptocurrency market in Ukraine, as well as in the world, has been developing quite rapidly in recent years. At the same time, the legal status of digital currency in Ukraine has not been consolidated. As a result, digital currency is often used to commit economic crimes. To counteract this act, it is vital to \"legalize\" cryptocurrency as a type of money and clearly define the cases when it is the subject of a criminal offense. [Methodology/Approach/Design] The authors researched the general principles, approaches, and scientific research methods to properly develop the chosen topic used available philosophical methods and in particular legal ones. [Findings] The ability of cryptocurrency to be an essential attribute of the development of the information society and, at the same time, the subject of economic criminal offenses. © 2022 Universidade de Brasilia. All rights reserved.",
+    "source": "Revista de Direito, Estado e Telecomunicacoes"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

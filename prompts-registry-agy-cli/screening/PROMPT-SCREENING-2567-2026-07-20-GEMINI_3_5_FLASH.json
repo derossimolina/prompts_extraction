@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2567-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Zombie firms and corporate governance: What room for maneuver do companies have to avoid becoming zombies?",
+    "authors": "San-Jose, L; Urionabarrenetxea, S; García-Merino, JD",
+    "year": "2022",
+    "doi": "10.1007/s11846-021-00462-z",
+    "abstract": "This paper is an attempt to empirically examine the influence of corporate governance on zombie theory. Recent data indicates that the problem affects more than 10% of all firms and is worth close to a billion Euros in the European Union. It is thus an important problem worth analysing in European countries, and Spain is one of the worst affected. The sample studied here thus consists of Spanish companies with negative equity over the five business years from 2013 to 2017. The analysis focuses on establishing how corporate government aspects-board size, dedication to board meetings, concentration of ownership, owners and gender of the CEO-, affect the severity of extreme zombie firms. It uses the amount and temporality dimensions of EZIndex. The results confirm that internal dimensions such as corporate governance are important aspects to be introduced into zombie analysis. To control zombiness our results suggest structuring boards of directors with more than one member, CEOs with non-exclusive dedication, non-concentrated ownership and female CEOs. We also find that all these factors affect both amount and temporality, so factors do not affect zombie companies partially but totally. The contributions of the paper are twofold: first it includes corporate governance factors as a relevant approach for understanding zombie theory; and second, it encourages companies to manage risk-taking decisions efficiently so as to avoid the proliferation of zombies.",
+    "source": "REVIEW OF MANAGERIAL SCIENCE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

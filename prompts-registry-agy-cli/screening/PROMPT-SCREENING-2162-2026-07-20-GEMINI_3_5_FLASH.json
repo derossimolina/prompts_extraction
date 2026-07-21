@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2162-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How effective are suspicious transaction reporting systems&quest;",
+    "authors": "Chaikin D.",
+    "year": "2009",
+    "doi": "10.1108/13685200910973628",
+    "abstract": "PurposeA fundamental element of international anti&hyphen;money laundering &lpar;AML&rpar; systems is the requirement that financial institutions file suspicious transaction reports &lpar;STRs&rpar; with financial intelligence units. Although the Financial Action Task Force &lpar;FATF&rpar; has established global standards, there is a range of national laws, practices and experiences with STR systems. The purpose of this paper is to assess the effectiveness of national STR systems, by using Switzerland as a case study. Design&sol;methodology&sol;approachPrimary source documentation, complemented by observations at FATF meetings, are relied on to evaluate STR systems. FindingsThe FATF ratings of a country's compliance with international standards are objective, expert driven and consistent in application, but are limited as performance measures in that they ignore the costs of AML and STR measures. The effectiveness of the Swiss STR system is questionable because of serious under reporting of suspicious transactions. The Swiss STR system is efficient to the extent that there is a high usage of STRs and that large amounts of money are automatically frozen under the mandatory reporting obligation. Research limitations&sol;implicationsEvaluation of national STR systems is limited because of a lack of reliable statistics on the extent of money laundering. Practical implicationsThis paper is addressed to policy makers who are concerned with assessing the effectiveness of STR systems. Future research would deal with STR systems in developing countries and the role of STRs in uncovering the financing of terrorism. Originality&sol;valueInsider&sol;outsider description of the FATF mutual evaluation process. Compilation and interpretation of statistical data on STR systems, as performance measures. © 2009, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

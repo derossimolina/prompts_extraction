@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2502-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Collective Displacement of Regional Cryptomarket Vendors-A Study on the Aftermath of the Flugsvamp 3.0 Closure",
+    "authors": "Waldner, O; Moeller, K",
+    "year": "2024",
+    "doi": "10.1177/10575677241229682",
+    "abstract": "The cryptomarket ecosystem has become increasingly volatile and fragmented with sites shutting down on short notice. Displacement to new marketplaces is tricky when the original location was domestically oriented. We examine the spatial and temporal displacement of 83 Swedish vendors in the aftermath of the Flugsvamp 3.0 shutdown. Vendors rejected the successor Flugsvamp 4.0 and moved to German-run Archetyp Market. Using quantitative cross-sectional data from Archetyp Market we measure bivariate correlations between the temporal displacement and status-related variables. We found moderately strong correlation between vendors' number of sales per day and the order of their relocation to Archetyp. We also examined cryptomarket discussion forums and blogs during the time of the Flugsvamp 3.0 shutdown. This qualitative data supported the finding that migration choices of high-status vendors inspired others to follow.",
+    "source": "INTERNATIONAL CRIMINAL JUSTICE REVIEW"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

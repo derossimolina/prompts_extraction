@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1823-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The taxing business of money laundering&colon; South Africa",
+    "authors": "Schlenther B.",
+    "year": "2013",
+    "doi": "10.1108/13685201311318485",
+    "abstract": "PurposeThe OECD recently identified tax crime as one of the top three sources of money laundering. In the context of increased acknowledgement that tax evasion, capital flight and money laundering are key threats to the economic stability of developing countries, South Africa, like many other countries, has put information&hyphen;sharing agreements in place to enable better recovery of money hidden in the financial system. There is, however, a general ineffectiveness of anti&hyphen;money laundering regimes to stop revenue leakage and there is a high cost of enforcement and tax collection associated with money laundering investigations. South Africa has a low prosecution rate under its main anti&hyphen;money laundering legislation, which is a clear indication that money laundering and organised and related crime, are not effectively dealt with. Under South African law, tax evasion is a predicate offence to money laundering and it is proposed that it is possible to deal effectively with aspects of money laundering through tax legislation, treaties and by means of tax audits. Design&sol;methodology&sol;approachThis paper explores the differences between money laundering and tax evasion whilst highlighting the linkages to each other. An analysis of court cases and statutes, tax policy, audit techniques and international agreements shows how tax tools can be used to address money laundering. FindingsFrom the research it is evident that the success of both money laundering and tax evasion, though they are operationally quite distinct processes, depends on the ability to hide the financial trail of the income. In this context it is shown that tax tools can be used effectively to uncover money laundering and to pursue revenue due to the fiscus. The ability of the South African Revenue Service &lpar;SARS&rpar; to detect financial crimes and to combat tax evasion may have a meaningful impact on reducing flows of laundered funds. Originality&sol;valueThis paper serves to expand on the limited scholarship of the nexus between tax crime and money laundering and points out mechanisms that can be used where the anti&hyphen;money laundering regime is not functioning optimally. © 2013, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

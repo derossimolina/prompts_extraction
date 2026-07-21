@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1566-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Smugglers, fayuqueros, piratas: Transitory commodities and illegality in the trade of pirated CDs in Mexico",
+    "authors": "Aguiar J.C.G.",
+    "year": "2013",
+    "doi": "10.1111/plar.12025",
+    "abstract": "The emergence of \"pirated\" CDs and DVDs has transformed street commerce and marketplaces across Latin America, as it has in many regions of the world. The dominant punitive perspective on intellectual property rights defines the unauthorized reproduction and commercialization of copyright-protected material as organized crime. The antipiracy discourse is focused on the control of the commodity, but overlooks the locality and the spatial and political entanglements of the market for piracy. Based on ethnographic material, this article documents the rise of copied CDs in the San Juan de Dios market in Guadalajara, a marketplace that works as a hub for the smuggling of piracy in Mexico. The purpose of this article is twofold: to capture the emergence of pirated CDs in a local context, and to pose questions about the alleged links between piracy and drug trafficking in Mexico. These issues are useful for understanding the entanglement and limits of criminal and informal economies in Latin America. Many illegal-labeled activities have much legitimate life in society (or in particular groups), and under such circumstances the state response constitutes bad law, adding to illegality and prosecution, including wars of various sorts, that are morally worse than the original violation. © 2013 by the American Anthropological Association.",
+    "source": "Political and Legal Anthropology Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

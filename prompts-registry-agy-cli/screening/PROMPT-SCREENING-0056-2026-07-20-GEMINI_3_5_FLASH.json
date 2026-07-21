@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0056-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cleanliness is next to godliness: can money laundering be sharia-compliant?",
+    "authors": "Alenazi A.; Chazi A.; M Alotaibi E.; Gleason K.",
+    "year": "2025",
+    "doi": "10.1108/JFC-05-2024-0169",
+    "abstract": "Purpose: The purpose of this paper is to extend the current research to create a conceptual framework for the Islamic perspective on money-laundering (ML) activities. Design/methodology/approach: The authors use a qualitative research approach through an analysis of texts from the Holy Quran, the traditions of the Prophet Muhammad (PBUH) and Islamic scholars’ jurisprudence, as well as a literature review of the research regarding money laundering within the scope of Sharia law. Findings: The authors document three examples of “grey areas” remaining for consideration within the context of anti-money laundering (AML) policy at Islamic banks and Islamic insurance companies: the proceeds of the secular predicate crimes of tax evasion, grey and black-market employment and inheritance issues. Research limitations/implications: The authors open new avenues for future research to examine the ML and other financial crimes by comparing different legal jurisdictions to Sharia laws, i.e. country-by-country analysis. Future research can also further grain the Sharia perspective of ML and other financial processes by examining the detailed views of different Islamic schools of thought (i.e. Hanafi, Maliki, Shafi’i and Hanbali) or by considering additional ML typologies in light of Sharia law. Practical implications: The results are of interest for policymakers, whereas by acknowledging the differences between Sharia and civil laws and their complementarity, more accurate regulations can be set to establish prudent operational AML/CTF frameworks for Islamic banks and insurance companies. Social implications: For the Sharia advisory boards of Islamic financial and designated non-financial businesses and professions to enhance their monitory role as an additional layer of AML control. Originality/value: To the best of the authors’ knowledge, this paper is the first to provide consideration to the distinction between the concepts of secular illegality and Sharia prohibition in determining the permissible scope of activities to which Know Your Customer compliance should apply at Islamic banks and insurance companies. © 2024, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

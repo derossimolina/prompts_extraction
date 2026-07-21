@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1018-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE OBLIGATION OF NOTARY TO REPORT SUSPICIOUS FINANCIAL TRANSACTIONS BASED ON THE VALUE OF THE TRANSACTION",
+    "authors": "Fadila I.Z.; Sugiri B.; Wisnuwardhani D.A.",
+    "year": "2020",
+    "doi": "10.18860/j.v11i2.10099",
+    "abstract": "Government makes various efforts to prevent the crime of money laundering. One of them is to encourage some parties to participate in supervising the suspicious financial transaction. In its practice, this triggers juridical problem such as verification and monitoring policies of financial transaction on the service users by the notaries. This research aims to describe the notary’s criteria and legal responsibilities on the suspicious transaction. This article is based on the doctrinal legal research with statute and conceptual approaches. The research result shows that the criteria of suspicious financial transaction have been set in Indonesian legislation. The notary has legal responsibility to identify and verify the service users of authentic deed issue in implementing precautionary principles. This responsibility is accompanied by administrative sanction which is in line with the Regulation of the Minister of Law and Human Rights No. 9 of 2017, concerning the Implementation of Knowing Your Customer Principles for the Notary. © 2020, Maulana Malik Ibrahim State Islamic University of Malang. All rights reserved.",
+    "source": "Jurisdictie: Jurnal Hukum dan Syariah"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

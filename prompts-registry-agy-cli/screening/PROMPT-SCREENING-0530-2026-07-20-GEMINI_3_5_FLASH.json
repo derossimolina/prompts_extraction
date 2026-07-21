@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0530-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Self-assessment toolkit for energy anti-money laundering: unveiling key lessons from high-profile case studies",
+    "authors": "Faccia A.",
+    "year": "2023",
+    "doi": "10.1093/jwelb/jwad013",
+    "abstract": "Money laundering is pervasive across industries, including the energy sector. This article examines nine high-profile money laundering cases in the energy industry from anti-money laundering (AML) perspective. By analysing these cases, criminal strategies and patterns used to launder money in the energy sector are uncovered. This research findings reveal that money launderers in the energy sector employ various tactics, such as shell companies, false invoicing and complex international transactions. It also identifies common patterns that emerge across multiple cases, including using intermediaries, exploiting regulatory loopholes and weak links in the supply chain. The analysis provides key insights that AML enforcement officials and regulators can use to develop more effective strategies for preventing money laundering in the energy industry. In conclusion, the research outlines a comprehensive framework that regulators can use to strengthen AML controls and reduce the risk of money laundering in the energy sector. The proposed utility function considers a weighted score toolkit for the countries’ self-assessment of the AML enforcement effectiveness in the energy sector. VC The Author(s) 2023.",
+    "source": "Journal of World Energy Law and Business"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0485-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A Comparative Analysis of MOOC Platforms Using Educational Data Mining Techniques",
+    "authors": "Savita K.S.; Isawasan P.; Asmawi M.A.H.A.; Shaheen M.; Ghafoor R.",
+    "year": "2025",
+    "doi": "10.18178/ijiet.2025.15.11.2443",
+    "abstract": "Massive Open Online Courses (MOOCs) and microcredential have transformed education by providing flexible and accessible learning opportunities. This study conducts a comparative analysis of MOOC platforms, focusing on Coursera and Udemy, using Educational Data Mining (EDM) techniques. The research examines differences in course volume, subject trends, learner engagement, and course structure across platforms. The findings reveal that Coursera offers fewer but more structured and academically rigorous courses, often linked to university and corporate partnerships. Udemy, in contrast, provides a vast number of shorter, skill-focused courses with greater variability in quality due to its open-marketplace model. Coursera’s courses have higher ratings and more consistent engagement, while Udemy follows a winner-takes-most pattern, where a few popular courses dominate learner interest. Text analysis of course titles highlight distinct subject preferences. Both platforms prioritize technology and business topics, but Coursera’s content aligns with long-term career pathways, whereas Udemy quickly adapts to emerging industry trends, such as blockchain and artificial intelligence. The study also identifies differences in learning pathways, with Coursera structuring its content into beginner, intermediate, and advanced levels, while Udemy heavily relies on “all-level” courses to attract a broad audience. These insights provide valuable implications for educators, policymakers, and online learning providers. Structured platforms like Coursera can strengthen their credibility through academic rigor and industry partnerships, while market-driven platforms like Udemy can enhance content discovery and quality control. Future research should explore the role of course pricing, instructor expertise, and microcredential effectiveness in learner success. © 2025 by the authors.",
+    "source": "International Journal of Information and Education Technology"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2295-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anonymous shell companies: A global audit study and field experiment in 176 countries",
+    "authors": "Allred, BB; Findley, MG; Nielson, D; Sharman, JC",
+    "year": "2017",
+    "doi": "10.1057/s41267-016-0047-7",
+    "abstract": "To test whether firms behave consistently with international law prohibiting anonymous incorporation, we conducted a global audit study and field experiment, using data from 1639 incorporation firms in 176 countries. We requested anonymous incorporation and randomly assigned references to international law, threat of penalties, norms of appropriate behavior, or a placebo. We find a substantial number of firms willing to flout international standards and show that those in OECD countries proved significantly less compliant with rules than in developing countries or tax havens. Firms in tax havens displayed significantly greater compliance and were sensitive to experimental interventions invoking international law.",
+    "source": "JOURNAL OF INTERNATIONAL BUSINESS STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1384-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Challenges of implementing an effective risk-based supervision on anti-money laundering and countering the financing of terrorism under the 2013 FATF methodology",
+    "authors": "Jayasekara S.D.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-11-2017-0062",
+    "abstract": "Purpose: The purpose of this study is to assess whether level of income of a particular country affects the level of effectiveness in anti-money laundering (AML)/ countering the financing of terrorism (CFT) supervision to identify the most important recommendations in achieving high level of effectiveness and critically discuss the findings of the fourth round evaluations with the outcome of first two objectives. Design/methodology/approach: The level of effectiveness was rated in terms of a four-point Likert scale given 4 for high, 3 for substantial, 2 for moderate and 1 for low level of effectiveness. The countries were ranked using a four-point Likert scale given 4 for high income, 3 for upper middle income, 2 for lower middle income and 1 for low income countries as per the categorisation of World Bank list of economies (World Bank, 2017). For the purpose of estimation, level of effectiveness was rated in terms of a four-point Likert scale given 4 for high, 3 for substantial, 2 for moderate and 1 for low level of effectiveness. The level of technical compliance was ranked using a five-point Likert scale given 5 for compliant, 4 for largely compliant, 3 for partially compliant, 2 for non-compliant and 1 for not applicable as per the ratings given in FATF 2013 methodology (FATF, 2013). Findings: It was observed that the level of income of a particular jurisdiction has a positive relationship with the level of effectiveness in AML/CFT supervision. Statistical analysis reveal that AML/CFT framework on regulation and supervision of financial institutions (Recommendation 26) and providing guidance and feed back to reporting entities (Recommendation 34) have significant impact on effectiveness level on AML/CFT supervision over the powers of supervisors (Recommendation 27), regulation and supervision of designated non-financial business and professions (Recommendation 28) and sanctions (Recommendation 35). Research limitations/implications: The research was limited to 36 fourth round mutual evaluation reports. Originality/value: This paper is an original work done by the author as a result of the experience which the author received involving as an assessor in mutual evaluations. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

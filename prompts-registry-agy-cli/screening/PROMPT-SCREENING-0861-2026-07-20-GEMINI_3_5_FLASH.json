@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0861-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DHFL Meltdown: The Corporate Governance Lapses",
+    "authors": "Tiwary D.; Sahay A.",
+    "year": "2023",
+    "doi": "10.1177/0972820121998824",
+    "abstract": "India’s non-banking financial institutions (NBFIs), broadly constituting the less-regulated shadow banking sector, have been plagued with scams, triggering a domino effect in the Indian money market. Major corporate governance issues were highlighted in NBFIs with the unfurling of the ILF&S fraud; it virtually created a sub-prime crisis. In such a scenario, where the shadow banking sector was subject to change in regulations to ensure vigilance, corporate governance lapses had again led to the meltdown of Kapil Wadhawan led Dewan Housing Finance Limited (DHFL). Registering a net profit growth of 25% in the third quarter of financial year 2017, DHFL was one of India’s leading housing finance companies with a value of whopping ₹1.01 trillion as its asset under management (AUM). The company had nose-dived from its coveted position, suffering a loss of ₹22.23 million for the last quarter of the financial year 2018–2019. The company’s credit ratings of commercial papers and non-convertible debentures were downgraded; non-payment of interests led to enforcement of resolution plan, with the board of directors acceding to nationalized banks. The company’s reputation had crashed with its share prices, amidst allegations of lookout notice issued for its promoters for siphoning funds through shell companies. The case describes the oversights and negligence of DHFL in terms of corporate governance practices in the context of the NBFC (non-banking financial company) sector. The jury is out to evaluate whether Wadhawan had followed the rules of corporate governance in letter and spirit, or the tightening noose of regulations and market sentiments around the ‘shadow banking’ sector of India spelt doom for DHFL. © 2021 Lahore University of Management Sciences.",
+    "source": "Asian Journal of Management Cases"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1626-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulation and control of virtual currency: To be or not to be",
+    "authors": "Artemov N.M.; Arzumanova L.L.; Sitnik A.A.; Zenin S.S.",
+    "year": "2017",
+    "doi": "10.14505/jarle.v8.5(27).05",
+    "abstract": "The virtual currency is a relatively new tool for making payments, which has appeared with the development of the Internet technologies. The rules for issuing and handling the virtual currency are determined by a decentralized (peer-to-peer) network. There is a substantial lack of a. the regulation and control of this currency; b. comprehensive legal research in this area, which makes it difficult for a government to take an important decision whether there is a need to regulate cryptocurrency or not. There are two opposing views on the subject. One states that the lack of regulatory and supervisory legal instruments is the advantage of the cryptocurrency, the other point of view on the contrary proceeds from the need to legislate the virtual currency in order to maintain the financial stability of the state and the world itself. We will present the discussion and formulate our own point of view based on the research made. © 2017, by ASERS ® Publishing. All rights reserved.",
+    "source": "Journal of Advanced Research in Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

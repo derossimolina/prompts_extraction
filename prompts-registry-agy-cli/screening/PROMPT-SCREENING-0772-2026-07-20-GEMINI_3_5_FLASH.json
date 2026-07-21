@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0772-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Virtual IBAN as a Service in the Law of the European Union and Poland",
+    "authors": "Grabowski M.",
+    "year": "2022",
+    "doi": "10.3390/jrfm15120566",
+    "abstract": "The purpose of this paper is to present the two existing virtual account models functioning in the European Union, examine their legal validity and identify the legal challenges related to the functioning of these models. The first model, Mass Payment Accounts, which is related to virtual accounts rather than to virtual IBANs, is the model where the licensed financial institution only provides a business payment (settlement) account, with technical subaccounts, to one of their business clients. The functionality of the subaccounts is limited to reflect and distinguish the incoming payments. The second and more complex model is the vIBAN solution, where the licensed payment institution provides, to another licensed financial institution, indirect access to local payment schemes (hereinafter referred to as “vIBAN”). To confirm the legal validity and identify the potential risks of vIBAN services, EU law was analysed with some insights from Polish law. The reason for introducing vIBAN services is the difficulty for certain payment service providers to participate in so-called designated payment systems. Designated payment systems are usually the most widespread local payment systems. The reason for the different treatment of these designated systems is banking systemic risk, understood as a situation where a default by a system participant may result in a default by other participants. Consequently, even if a given payment service provider can obtain its own IBAN number, there is often no possibility for it to participate in designated payment schemes. Bearing in mind the different rules in the case of designated payment systems, the legality of vIBAN services in the EU law is justified by the principle of free movement of services, the principle of equal access to payment schemes and the obligation of the credit institutions to provide banking and non-banking participants with credit institution payment account services on an objective, non-discriminatory and proportionate basis. However, there are various challenges related to the functioning of vIBAN services, such as the overlapping of certain AML/CFT obligations, enforcement of administrative and court seizures, AML-related blocking of vIBANs and consistency of money transfer sender data with the Fund Transfer Regulation. The most pressing challenges requiring prompt regulation on the European level are related to the applicable deposit protection scheme, as well as to specific Member States’ administrative restrictions, which can cause difficulties in offering vIBAN services to business entities. © 2022 by the author.",
+    "source": "Journal of Risk and Financial Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

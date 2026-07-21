@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2248-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "PROBLEMS OF BANKING LEGAL RELATIONSHIPS",
+    "authors": "Ivanov, S; Hromenko, Y; Rodina, V",
+    "year": "2018",
+    "doi": "10.30525/2256-0742/2018-4-5-94-99",
+    "abstract": "In modern conditions of management, the aspects of ensuring the stability of banks and the development of the banking system of Ukraine are of particular importance. During 2014-2017 in our country, 88 banks were recognized as insolvent, almost all of them - commercial. This tendency is disappointing. Most scholars assert that the turnaround of the banking system is possible only through the improvement of deposit, credit, and settlement operations. This statement is undoubtedly true, but these scholars forget about the importance of regulating the legal relationships that arise in the banking sector and establishing the interaction between the entities of such legal relationships. The purpose of the research is to determine the essence of banking legal relationships in Ukraine based on the existing scientific approaches, the current legislation of Ukraine and the practice of its implementation, as well as the specific and problematic aspects of harmonizing the interests of the entities of the relevant legal relations. For this purpose, the essence and structure of banking legal relationships are considered. It is determined that the main structural elements of these legal relationships are: 1) objects, 2) the content of banking legal relationships, 3) the basis of banking legal relationships - legal norms and legal facts, 4) entities (participants) the direct participants in banking relationships, the bearers of mutual rights and obligations. The conclusions of the article state that Ukrainian banking legislation requires a serious revision concerning the coordination of the interests of the entities of banking legal relationships. The key task is to eliminate unnecessary and outdated normative and legal acts that could cause legal confusion or impose excessive burdens on entities of banking legal relationships. In developing the modern regulatory framework for the interaction of entities of banking relationships, a new rapid spread of cyber-risks, compliance risks and financial crime risks, which significantly affects the state of the banking system and is not reflected in the current banking legislation of Ukraine, should be taken into consideration. Banks as the main entities of banking relationships should assume risks and financial responsibility. It will contribute to the stabilization of the banking system of Ukraine and the economic development of the national economy.",
+    "source": "BALTIC JOURNAL OF ECONOMIC STUDIES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1240-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Gravitational and intellectual data analysis to assess the money laundering risk of financial institutions",
+    "authors": "Lyeonov S.; Żurakowska-Sawa J.; Kuzmenko O.; Koibichuk V.",
+    "year": "2020",
+    "doi": "10.14254/2071-8330.2020/13-4/18",
+    "abstract": "The wide variety of schemes to use companies for money laundering, such as oil smuggling, illegal gas sales, misappropriation of the Central Bank refinancing, misappropriation of bank funds and state-owned enterprises, form the research issues. The sample under study includes 102 countries around the world, which are closely monitored by the Financial Action Task Force (FATF) and have different levels of sociopolitical and economic development. The scientific and methodological approach to assess the financial monitoring risk in terms of the use of financial institutions for money laundering is based on the methods of multidimensional static analysis, descriptive, cluster and dispersive data analysis, gravity theory, nonlinear econometric modeling, differential and bifurcation analysis of dynamic nonlinear systems. The result of the study is a developed model of comprehensive risk assessment for the countries’ financial institutions for money laundering, which considers grouping of countries by the level of money laundering risk, identification of the cluster belonging to the state; formation of an integrated index as a money laundering risk rating assessment, and risk assessment based on the gravitational model; construction of a phase portrait for a dynamic system of the risk to use the countries’ financial institutions based on a nonlinear econometric model. © Foundation of International Studies, 2020.",
+    "source": "Journal of International Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1382-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "SUBSTITUTED REALITY AND THE TRUE GENESIS OF THE KURAY RIDGES (ALTAI MOUNTAINS, RUSSIA)",
+    "authors": "Pozdnyakov A.V.; Pupyshev Y.S.; Puchkin A.V.",
+    "year": "2022",
+    "doi": "10.17223/25421379/23/9",
+    "abstract": "The paper presents new objective evidence that the ridge-hollow relief of the Kuray basin, considered as a dune complex formed in a giant whirlpool, is an excavation erosion-accumulative cryptostructure, overlain by a cover of lacustrine psammite-pelitic deposits. The conclusions are based on the results of detailed field studies accompanied by instrumental leveling of landforms in transverse and longitudinal sections; mining works on opening of sediments by pits with subsequent description of textural and structural features of sedimentary strata. Studies have shown that the relief of the ridges is a network of depressions, separated by a corresponding network of watersheds: from the first order on their southern end to the fourth order on the northern end. Thus, the postulated statement about the supposedly existing giant high-speed whirlpool that formed the ridges relief in the Kuray basin is actually not confirmed by the synchronous and hydrophysical incompatibility of the interaction of genetically different processes: the simultaneous development of abrasion-accumulative and erosion processes within one territory is impossible. It has been established that the formation of the ridge-hollow relief occurred as a result of erosion-accumulative activity of fluvioglacial channel streams with flooding regime. Ridge complexes of the Kuray basin belong to alluvial-proluvial facies of terrestrial (internal) deltas. During the existence of the lake basin, this relief was buried by the thickness of lake sediments. The conclusions of the predecessors about the wide distribution of ridge and dune forms of relief in the Chuya and Kuray basins and in the adjacent territories are not confirmed (Baratal, Chagan-Uzun, etc.). The genesis of the Karakol ridges is associated with cryogenic hydrothermal structuring of clastic material, characterized by the formation of morphologically characteristic bands of rocks-homomorphic channel dune-ridge formations. And the formation of ridges in the Baratal tract, associated with spillways, is actually dells. © 2022, Faculty of Geology and Geography, Tomsk State University. All rights reserved.",
+    "source": "Geosfernye Issledovaniya"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

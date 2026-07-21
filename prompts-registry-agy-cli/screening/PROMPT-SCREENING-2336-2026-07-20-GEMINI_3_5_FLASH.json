@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2336-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Preventing money laundering or obstructing business? Financial companies' perspectives on 'Know Your Customer' procedures",
+    "authors": "Gill, M; Taylor, G",
+    "year": "2004",
+    "doi": "10.1093/bjc/azh019",
+    "abstract": "The value of different types of regulation regimes as a response to different types of financial crime has been widely discussed by criminologists around the world. Yet, the relatively new regime for regulating money laundering in the UK has been subject to relatively little research. This paper, which is based on a research study, examines one aspect of it, that is the process of identifying customers, which is widely accredited by regulatory authorities as a vital step in the prevention of money laundering. Among financial companies in our sample, there is agreement with the regulators about the broad aims and purpose of identifying customers, but experience of implementing the regulations has given rise to serious reservations about its value. In the course of everyday business, financial companies find that 'Know Your Customer' (KYC) can have negative implications; many respondents felt that their established clients would have been alienated by the requirements had they been in place at the time when these accounts were opened, many lamented the lack of flexibility within the rules despite the avowed aim of the Financial Service Authority (FSA) that companies should be allowed to adopt a risk-based approach, and companies were concerned about the expense. It is argued that the rush to respond to the serious threat posed by money laundering must take account of the experiences of the regulated, who are suggesting that the requirements of KYC are disproportionate to the risk. The paper ends by suggesting that the regulators may look to a revision of their own risk-based approach as a next step in improving the ability of the financial sector to detect suspicious transactions.",
+    "source": "BRITISH JOURNAL OF CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0128-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Adaptive Real-Time Financial Fraud Detection with Explainable AI Tools",
+    "authors": "Alessi G.; Fugini M.",
+    "year": "2026",
+    "doi": "10.1145/3794859",
+    "abstract": "Financial crime is increasingly facilitated by technology and globalization, demanding advanced IT tools for detection. The Fraud Detection System proposed in this article is devised to operate under pragmatic operational constraints inherent to financial institutions, such as extreme class imbalance, due to the rarity of fraudulent events, or the continuously evolving fraud patterns (concept drift) driven by adversarial adaptation, and, most significant, the stochastic delays in obtaining verified feedback, crucial for model supervision. This research develops financial transaction monitoring in a data stream context; it details a developed streaming Machine Learning (ML) pipeline, designed with a lightweight yet powerful Data Stream Management System (DSMS) for real-time feature engineering, and a multi-stage analytical engine that orchestrates diverse detection logic. This engine integrates deterministic rules with adaptive ML models and is coupled with a dynamic decision threshold management system to optimize the precision–recall tradeoff under operational pressures. A core contribution is the systematic, empirical comparison of diverse adaptive learning strategies, ranging from instance-incremental to various batch-incremental methods, to assess their adaptability and effectiveness under these operational conditions. Furthermore, the article describes an actionable interpretability framework designed to synthesize low-level feature attributions into user-centric concept importances, enhancing the utilities at the disposal of investigators. © 2026 Copyright held by the owner/author(s).",
+    "source": "Digital Threats: Research and Practice"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

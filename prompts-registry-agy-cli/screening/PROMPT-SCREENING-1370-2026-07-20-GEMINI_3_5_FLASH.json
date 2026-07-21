@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1370-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of the Palestine monetary authority in combating money laundering",
+    "authors": "Alshaer H.; Md. Said M.H.; Rajamanickam R.",
+    "year": "2021",
+    "doi": "10.1108/JMLC-09-2020-0106",
+    "abstract": "Purpose: This paper aims to highlight the role of the Palestine Monetary Authority (PMA) in combating money laundering. The discussion will focus on the sectors under the PAM authority by examining the issued instructions. Design/methodology/approach: The current study is a pure legal study. The methodology used in this paper is the qualitative approach by focussing on the doctrinal mechanism. Thus, it focussed on procedures, processes, laws, and regulations. Findings: This paper found serious organisational inefficiencies within the governance framework of anti-money laundering (AML) for both the currency exchange and specialised lending institutions sectors. Moreover, the PMA’s role in combating money laundering is insufficient where its efforts are limited by random inspection visits and the installation of surveillance cameras in the money changers shops. Practical implications: The findings may influence both the currency exchange and specialized lending institutions sectors to adopt a more vigilant approach to prevent the occurrence of money laundering in Palestine and to undertake more responsibility in ensuring compliance with the current AML legal framework. The study also highlighted that their current practice might place them in danger of non-compliance. Originality/value: The paper demonstrated in, an exceptional way, the role of the PMA in combating money laundering by focussing on both legal and regulatory requirements for the three sectors under the PMA supervision authority. This paper made a valuable contribution to the study of combating money laundering in Palestine, where it is one of the first studies dealing with this issue involving this country. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1040-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Blockchain informative infrastructure: a conceptual reflection on public administrative procedures and a citizen-centred view",
+    "authors": "Rainero C.; Modarelli G.",
+    "year": "2021",
+    "doi": "10.1108/ITP-05-2020-0343",
+    "abstract": "Purpose: This work highlights the potential of blockchain from a public management (PM) angle. Given the limited presence of blockchain's broad-spectrum, empirical-applicative evidence in the public sector, as well as theoretical systematisations that can exemplify its potential within this scope, the authors have concentrated their efforts on structuring a referring model. Design/methodology/approach: After identifying a gap and conducting a preliminary literature review related to public administration (PA), the authors propose a paradigm focused on a conceptual synthesis methodology, starting from a longitudinal analysis and a coding activity that are able to structure a clear framework of theoretical parallelism regarding blockchain's main functionalities, as well as future perspectives in the public sector. Findings: The main results yielded a specific longitudinal literature review and constitute a referring model of blockchain's systematised functionalities through a conceptualised matrix. The outcome of the conceptualisation process frames and systematises a rapidly growing controversial phenomenon, furnishing a specific referring paradigm for the issue as it relates to policymakers. Originality/value: The study's originality resides in the two views the authors created, both from the literature review and from the conceptual synthesis for public sector operative practice via an anthropocentric lens, conveyed by a three-year range of analysis. © 2021, Emerald Publishing Limited.",
+    "source": "Information Technology and People"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1432-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Brand equity and financial performance: The moderating role of brand likeability",
+    "authors": "Narteh B.",
+    "year": "2018",
+    "doi": "10.1108/MIP-05-2017-0098",
+    "abstract": "Purpose: The purpose of this paper is to examine the relationship between brand equity and financial performance and the moderation role of brand likeability retail banking sector. Design/methodology/approach: The study is quantitative and employed the survey methodology to sample the views of 550 retail bank customers. Data were analyzed though the structuring equation modeling using AMOS. Findings: The study found out that service quality, brand association, brand loyalty, and brand relevance positively and significantly predicted financial performance of the retail banks. In addition, brand likeability also moderates the relationship between brand equity and financial performance. Originality/value: The study contributes to the ongoing research in examining the linkage between brand equity and financial performance. The study has also shown the value of brand likeability as a moderator of the brand equity-financial performance linkage. The strategic implication of the results are discussed in the paper. © 2018, Emerald Publishing Limited.",
+    "source": "Marketing Intelligence and Planning"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

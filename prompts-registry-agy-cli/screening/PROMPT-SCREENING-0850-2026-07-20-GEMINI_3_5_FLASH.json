@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0850-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "FINANCIAL CRIME IN DIGITAL PAYMENTS",
+    "authors": "Wiwoho J.; Kharisma D.B.; Wardhono D.T.K.",
+    "year": "2022",
+    "doi": "10.21098/jcli.v1i1.7",
+    "abstract": "Digital payments are proliferating along with a massive and rapid digital transformation. However, the characteristics of transactions using digital payments, which are real-time, not face-to-face, and borderless create potential risks for financial crimes, including, Money Laundering and Funding Terrorism. The potential for abuse occurs in the registered and licensed digital payments sector and illegal digital payments that are not registered with the Bank Indonesia. Undoubtedly, this condition can threaten economic stability and financial system integrity. This article seeks to identify the potential for digital payment use for financial crime and construct a legal framework to prevent the misuse of FinTech for financial crime in Indonesia. This type of research is legal research. The research method used was a statutory comparative approach. The legal materials used were primary and secondary legal materials. The findings have been analysed using qualitative data analysis techniques. The results of the study show that several cases of terrorism financing have been proven to have used FinTech digital payments as a means of online funding. In this regard, to maintain the integrity of the financial system and strengthen the government’s control functions, a comprehensive legal framework is needed through the establishment of Law on FinTech. © 2022, Bank Indonesia Institute. All rights reserved.",
+    "source": "Journal of Central Banking Law and Institutions"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

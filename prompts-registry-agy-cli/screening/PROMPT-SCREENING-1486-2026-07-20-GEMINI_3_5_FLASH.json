@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1486-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Islamic finance and its specifics in Europe",
+    "authors": "Kuznetsov A.V.; Fituni L.L.; Ryzhkova E.A.; Trofimova O.E.; Filonik A.O.",
+    "year": "2017",
+    "doi": "10.20542/0131-2227-2017-61-12-52-62",
+    "abstract": "The article is based on discussions held on January 25, 2017 at Primakov National Research Institute of World Economy and International Relations during the 20 th meeting of the Scientific seminar of the Centre for European studies on Islamic financial models in the modern world. The authors focused on the specifics of Islamic finance (IF) in the European countries where one can see a markedly increased interest to its development. The analysis is based on scattered data on the number of Islamic financial institutions and the extent of Islamic finance. It is shown that London City is the leading center in Europe. Luxembourg, British offshores and, most recently, Ireland are its main competitors as the emerging financial centers for IF. Also, France and Germany has begun the promotion of the Islamic finance because they have a significant and intensively growing share of Muslims in their population. The authors identified the main problems of development of Islamic finance in the EU. Ii is shown that, in fact, only Islamic banking can be seen as an elaborated and full-fledged part of Islamic finance. Still, even Islamic banks currently present only 0.15% of total banking assets in the EU. Islamic banks have to follow rather complicated mix of Sharia norms and modern national and international norms of banking regulation. As a result, such banks usually are less competitive in comparison with their ordinary counterparts. The enthusiasm about Islamic finance in the academic literature has roots in revival of Arab unity but even Islamic banking has very limited area for development in non-Muslim countries. Nonetheless, Islamic banking in Europe can help to intensify of contacts with Muslim countries, to better integrate the Muslim minorities into the local economic life as well as to introduce some innovative financial instruments for the European financial sector. The article pays special attention to new aspects of Islamic finance, including Basel II and Basel III implementation and special system of Islamic finance regulation. Measures against the potential criminalization of the economy through the IF are also studied. The real lack of confidence to the Islamic finance in Europe should be stressed, although sometimes negative stereotypes are unreasonable.",
+    "source": "World Economy and International Relations"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

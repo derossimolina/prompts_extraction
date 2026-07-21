@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2532-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Volcker/Vickers Hybrid? The Liikanen Report and Justifications for Ring Fencing and Separate Legal Entities",
+    "authors": "Ojo, M",
+    "year": "2017",
+    "doi": "10.4018/978-1-5225-1900-3.ch017",
+    "abstract": "Whilst some valid and justified arguments have been put forward in favor of ring fencing, that is, constructing a fire-wall between consumer and investment banks, and that such activities can be achieved without restructuring banks into separate legal entities, the Liikanen Report highlights why there is need for such re-structuring. As well as considering the merits of ring fencing and the establishment of separate legal activities and entities, this chapter aims to highlight why a suitable model aimed at mitigating risks of contagion can to a large extent, be justified on a cost-benefit analysis basis. Furthermore, the chapter ultimately concludes that even though a greater degree of separation of legal entities and activities persist with the model which is referred to as total separation, a certain degree of independence between bank activities would also be necessary under ring fencing if its purposes and objectives are to be fulfilled.",
+    "source": "VALUE RELEVANCE OF ACCOUNTING INFORMATION IN CAPITAL MARKETS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

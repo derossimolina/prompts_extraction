@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0210-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploring corporate violations through public data: A comparative analysis of financial offending in the UK and US",
+    "authors": "Oberheim F.; Davies J.; Giese C.; Kluin M.; Lord N.",
+    "year": "2025",
+    "doi": "10.1016/j.jcrimjus.2025.102431",
+    "abstract": "This article examines the value of using publicly available data to analyse financial violations and regulatory enforcement actions in the UK and the US, drawing on a first-of-its-kind open-source dataset – the Violation Tracker. Through descriptive analyses, the study explores longitudinal patterns of corporate offending, focusing on corporate characteristics and sectoral enforcement dynamics. The findings highlight jurisdictional differences: in the UK, anti-money laundering (AML) deficiencies and tax violations dominate, with a notable increase in AML deficiencies since 2020, particularly in real estate and business services. In contrast, the US landscape is characterized by widespread investor protection violations, particularly in the financial industry, and exhibit stable trends over time. In both countries, the financial industry receives high penalties compared to other industries. These patterns underscore the role of regulatory frameworks and enforcement priorities in shaping observable corporate compliance. This study illustrates what insights can and cannot be generated from open-source data for the analysis of financial violations. It also engages with theoretical frameworks such as life-course criminology, advancing the understanding of corporate crime trajectories over time. The research contributes to current debates on regulatory transparency, corporate accountability, and the methodological challenges of conducting robust empirical research using publicly available regulatory data. © 2025 The Authors",
+    "source": "Journal of Criminal Justice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

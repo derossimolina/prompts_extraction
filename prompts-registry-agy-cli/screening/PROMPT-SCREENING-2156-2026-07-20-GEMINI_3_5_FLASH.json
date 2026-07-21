@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2156-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An analysis of the obligations of gambling entities under the FATF's 2003 anti&hyphen;money laundering recommendations",
+    "authors": "Johnson J.",
+    "year": "2006",
+    "doi": "10.1108/13685200610645184",
+    "abstract": "PurposeTo highlight the compliance issues which face gambling entities with the implementation of the Financial Action Task Force's &lpar;FATF's&rpar; 2003 Forty Recommendations Design&sol;methodology&sol;approachTo determine the gambling sector's attitudes towards the FATF's new anti&hyphen;money recommendations their responses to an earlier FATF consultation paper are analysed. Interested parties were asked to provide feedback on a number of options proposed by the FATF. Twenty six of the 145 respondents provided feedback on issues relating to the gambling sector. It is these responses that form the bases of the analysis in this paper. FindingsThe preferences of the gambling sector were not taken on board by the FATF. The increased customer due diligence &lpar;CDD&rpar;, suspicious transaction reporting and the identification of politically exposed persons will be a burden on casino operators, the only gambling sector to be specifically identified in the new recommendations. Non&hyphen;compliance could be a serious issue. Research limitations&sol;implicationsThe small number of responses from the gambling sector does place limitations on the ability to generalise the outcomes to the global gambling industry, though five of the respondents were gambling organisations. Practical implicationsFor regulators, the possibility of non&hyphen;compliance by the gambling sector should be addressed as should the likelihood of pressure for reduced CDD procedures. Originality&sol;valueThe FATF's updated 2003 Forty Recommendations impose considerable compliance costs on the financial sector. A number of other business sectors are also caught within the scope of these new recommendations. This paper addresses anti&hyphen;money laundering compliance issues for the gambling sector, an area not previously explored. © 2006, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

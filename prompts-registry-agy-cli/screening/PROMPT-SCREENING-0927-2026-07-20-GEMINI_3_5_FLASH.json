@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0927-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The View from the Inside: A Case Study on the Perceptions of Digital Transformation Phases in Public Administrations",
+    "authors": "Edelmann N.; Steiner K.; Misuraca G.",
+    "year": "2023",
+    "doi": "10.1145/3589507",
+    "abstract": "The digital transformation of public administrations contributes to the re-design and re-structuring of the organizational processes and practices. Research on the digital transformation of public administrations often focuses on responding to the needs and providing benefits to external stakeholders and users, such as citizens and businesses. The study presented here focuses on one specific stakeholder, the employees of a department within the Federal Government of Lower Austria. Using a multi-method and granular qualitative research approach, the results are interpreted in the context of Perez's (2009) four phases of the digital transformation paradigm. The results show how the department is implementing the recommendations made in the literature and digital strategies: an extensive use of ICTs, the development of information-based services, and an acceleration of transactions and interactions with external stakeholders. At the same time, their perspectives point out some barriers regarding the implementation and use of new digital tools such as digital signatures, the legal frameworks at the national and regional level, and the need for an organizational culture that supports innovation. This study empirically contributes to the literature by providing an analysis of the digital transformation of a public administration as perceived by the employees. © 2023 Copyright held by the owner/author(s).",
+    "source": "Digital Government: Research and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1341-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Study of factors influencing the decision to adopt the blockchain technology in real estate transactions in Kosovo",
+    "authors": "Hoxha V.; Sadiku S.",
+    "year": "2019",
+    "doi": "10.1108/PM-01-2019-0002",
+    "abstract": "Purpose: The purpose of this paper is to explore, from the view of buyers and sellers, the relationship between the blockchain technology and various important aspects of real estate transactions such as transparency, security and cost reduction. Design/methodology/approach: The present study uses a quantitative research method. For the purpose of this study, a questionnaire with close-ended questions is used. The questionnaire was distributed to both buyers and sellers alike. The study included 1,000 people using the stratified probability sampling. The study uses factor analysis to analyze the relationship between the blockchain technology and other research variables such as such as transparency, security and cost reduction. Findings: The findings of this study indicate that the buyers and sellers perceive that the transparency and cost reduction have the highest influence on the intention to adopt blockchain technology in a real estate transactions system, followed by the security of transactions. Practical implications: The study has great implications for the real estate transactions system in Kosovo and society in general. The study shows that the blockchain technology can provide for a transparent and errorless interaction between buyers and sellers of real estate. Since smart contracts eliminate the need for third parties in real estate transactions, the cost of transactions shall be considerably reduced due to elimination of intermediaries and due to process speed and efficiency. Finally, the blockchain technology can increase the trust between parties and shall serve as a means to fight corruption and money laundering in real estate investments. Originality/value: The study is the first quantitative study that studies the causal link between the blockchain technology and important aspects of real estate transactions system such as transparency, security and transaction costs. © 2019, Emerald Publishing Limited.",
+    "source": "Property Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

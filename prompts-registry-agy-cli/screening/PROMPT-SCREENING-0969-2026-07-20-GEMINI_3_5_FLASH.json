@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0969-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The effectiveness of money-laundering regulations: Evidence from money-services-business industry in Malaysia",
+    "authors": "Yaacob N.M.; Harun A.H.",
+    "year": "2019",
+    "doi": "10.35940/ijrte.C6454.098319",
+    "abstract": "The International Monetary Fund defines money laundering as the process of assets being spawned by criminal activities to hide or make obscure any connections established between the funds and their illegal origins. Nowadays, money laundering has already been labelled as a global crime where global strategies and policies should be developed to curb money laundering. Thus, global courts should be formed to put into trial all money-laundering cases and make sound decisions in reference to punishments and penalties. The aim of this study is to gauge the effectiveness of anti-money laundering (AML) regulations in the Money Services Business (MSB) industry in Malaysia. There are three (3) predictors that have been expected to influence money-laundering activities, namely customers’ record-keeping, suspicious transaction reporting, and employee training. The respondents have been selected from MSB officers across Malaysia by using simple random sampling. The questionnaires were distributed to all 344 MSB through the Money Service Association. The compliance officers have been selected as the primary participants in the study since their roles and responsibilities within the MSB correlates with the three constructs identified in the study. The total of 150 (43.6%) questionnaires returned and have been used for analysis. The sample was then analysed using the descriptive and multiple regression analysis. The results revealed that all hypotheses are supported, which indicates that customer record keeping, suspicious transaction reporting, and employees training have a significant impact on combating money laundering. This study proposes that money-laundering activities could be controlled by focusing on customer record keeping, suspicious transaction reporting, and employee training. The findings provide evident on how The Anti-Money Laundering and Anti-Terrorism Financing Act 2001 (AMLATFA) has filled an imperative gap in fight towards combating money laundering in Malaysia. The similar studies could be conducted in other settings with different rules and regulations towards money laundering. © BEIESP.",
+    "source": "International Journal of Recent Technology and Engineering"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

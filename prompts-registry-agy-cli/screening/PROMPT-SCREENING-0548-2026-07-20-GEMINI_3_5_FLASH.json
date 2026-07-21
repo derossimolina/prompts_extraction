@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0548-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dark money, US security guarantees and the twisting of allied arms",
+    "authors": "Banka A.",
+    "year": "2023",
+    "doi": "10.1057/s41311-023-00434-y",
+    "abstract": "How can powerful states best extract domestic concessions from their junior allies? What are the conditions under which the powerful state is more likely to succeed in inducing such domestic policy change? This article explores the link between US security commitments and Washington’s ability to attain favourable policy outcomes within the allied domestic arena. It provides an illustrative case of how the USA, using security guarantees as leverage, can enter allied domestic space and shape its decision-making process. After it was revealed that Latvia had served as a key node through which North Korea attempted to evade the sanctions regime, the USA, by playing its security guarantor card, pressured Riga to carry out substantial policy reforms in relation to its financial system. This approach yielded considerable results. In order to preserve the existing security arrangements with the dominant alliance member, Latvia offered significant policy concessions. This finding demonstrates that US security alliances come with side benefits that are often underrated or neglected in the scholarly literature. © 2023, The Author(s).",
+    "source": "International Politics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

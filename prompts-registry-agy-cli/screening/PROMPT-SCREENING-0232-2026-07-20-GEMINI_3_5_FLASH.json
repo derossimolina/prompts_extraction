@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0232-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing the Evolving Landscape of Anti-Money Laundering Laws in China and Their Impact on Banking Institutions",
+    "authors": "Zhao Z.; Rahman A.A.; Ismail C.T.",
+    "year": "2025",
+    "doi": "10.14505/tpref.v16.3(35).19",
+    "abstract": "This study explores the evolution of China’s anti-money laundering (AML) framework and evaluates its implications for banking institutions. It critically examines how Chinese banks navigate the complex web of compliance obligations in the face of evolving financial crime techniques. The paper draws on statutory developments, policy reports, high-profile enforcement cases, and scholarly literature. It specifically investigates key components of AML implementation including customer due diligence (CDD), suspicious transaction reporting (STR), and record-keeping obligations, with a focus on technological integration and enforcement gaps. China's AML framework has significantly expanded in both scope and institutional reach. However, challenges persist in enforcement consistency, technological adoption, and handling of cross-border transactions. The operational burden and compliance costs for banking institutions remain high, particularly for smaller banks with limited resources. Technological tools like AI and big data analytics offer promising solutions but require stronger integration and policy support. This study provides a comprehensive assessment of AML compliance challenges within China’s banking sector and identifies practical recommendations to enhance regulatory enforcement, support innovation adoption, and promote international collaboration. It offers valuable insights for policymakers, financial institutions, and academics focused on financial crime prevention. © 2025 The Author(s).",
+    "source": "Theoretical and Practical Research in the Economic Fields"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

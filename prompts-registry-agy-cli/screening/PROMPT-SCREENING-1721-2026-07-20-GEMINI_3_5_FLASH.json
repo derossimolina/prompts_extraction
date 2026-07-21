@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1721-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Pricing contingent convertibles: A derivatives approach",
+    "authors": "De Spiegeleer J.; Schoutens W.",
+    "year": "2012",
+    "doi": "10.3905/jod.2012.20.2.027",
+    "abstract": "This article provides an in-depth analysis of the pricing and structuring of contingent convertibles (CoCos). Those debt instruments convert into the equity of the issuing bank or suffer a writedown of their face value upon the appearance of a trigger event. This trigger mechanism provides an automatic strengthening of the capital structure of the bank. In this article the pricing of CoCos is handled using two different approaches. The first method has a credit derivatives background, while the second approach tackles the pricing and structur ing of a CoCo a s an equity-der ivatives problem. In both cases, the valuation of a contingent convertible can be done through a closed-form formula. Both approaches prove their applicability when it comes to quantifying the risks embedded within the recently issued contingent convertible structures.",
+    "source": "Journal of Derivatives"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

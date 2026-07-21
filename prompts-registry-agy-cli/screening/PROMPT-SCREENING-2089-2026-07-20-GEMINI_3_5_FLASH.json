@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2089-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Shadow players: Ecotourism development, corruption and state politics in Belize",
+    "authors": "Duffy R.",
+    "year": "2000",
+    "doi": "10.1080/713701038",
+    "abstract": "This article examines the way that developing societies have been increasingly incorporated into global networks, and the effect that this has had on the states themselves. The notion of a shadow state is used here to inform the ways that the state has been modified by the global networks represented by ecotourism development on the one hand and drug trafficking (and associated offshore banking sectors) on the other. Belize provides an excellent example of the way that these North-South linkages, in the form of global networks, undermine the ability of states to enforce regulations in offshore banking, drug trafficking and environmental protection that are demanded of the South by the North.",
+    "source": "Third World Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

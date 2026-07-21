@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0715-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illicit drug trafficking markets on the Dark Web: an empirical exploratory study.; [Los criptomercados ilícitos de tráfico de drogas en la Dark Web: un estudio exploratorio empírico.]",
+    "authors": "Jordá C.; Píriz C.; Giménez-Salinas A.",
+    "year": "2024",
+    "doi": "10.46381/reic.v22i2.884",
+    "abstract": "The study of illicit markets on the Dark Web is one of the most interesting research areas in the field of drug trafficking today, as they are experiencing significant growth. Their anonymized distribution channels and the substantial presence of the online community offer important advantages in international illegal trade. Therefore, the purpose of this work is to analyze the operation of illegal drug markets on the Dark Web through an empirical exploratory study involving 18 markets. The results obtained highlight the immense diversity of products and the decentralization of the business, as well as the significance of the buyer community through their product reviews. Similarly, the resulting data confirm the complex and diverse nature of these markets, particularly in terms of their sizes, rules, and payment methods, which are crucial for their sustainability in the clandestine realm. © 2024 Sociedad Espanola de Investigacion Criminologica. All rights reserved.",
+    "source": "Revista Espanola de Investigacion Criminologica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

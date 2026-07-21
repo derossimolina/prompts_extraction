@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2515-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "UAE private foundations-an overview",
+    "authors": "Mrazek, Y",
+    "year": "2020",
+    "doi": "10.1093/tandt/ttaa028",
+    "abstract": "Most Middle Eastern entrepreneurial families are familiar with foreign offshore trusts and foundations and have been using these tools to ensure wealth preservation and inter-generational continuity for several generations. In that context, the United Arab Emirates (UAE) now counts three foundation regimes (in the Abu Dhabi Global Market, the Dubai International Financial Centre and the Ras Al Khaimah International Corporate Centre) and provides a local solution to wealth management and preservation, family succession planning, corporate structuring and asset protection. The purpose of this article is to present the context, mechanisms and interests in relation to UAE private foundations.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

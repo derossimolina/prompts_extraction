@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1219-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cooperation between Financial Intelligence Units in the European Union: Stuck in the middle between the General Data Protection Regulation and the Police Data Protection Directive",
+    "authors": "Mouzakiti F.",
+    "year": "2020",
+    "doi": "10.1177/2032284420943303",
+    "abstract": "Financial Intelligence Units (FIUs) hold a central position in the chain of actors responsible for the monitoring of money movements in the European Union. In support of their role, which is to receive, analyse and disseminate suspicious transaction reports, they have been furnished with significant information processing powers. At present, FIUs feature prominently in the EU’s anti-money laundering and counterterrorist financing agendas and plans to further enhance their powers of information exchange are underway. At the same time, however, the legal challenges that arise from their constant empowerment, particularly for the protection of personal data, are being overlooked. This article focuses on the cooperation between FIUs in the EU and argues that the latter takes place under a complex legal framework, which raises significant challenges for data protection. In particular, it highlights the present-day uncertainty over the data protection framework that governs their operations and discusses whether FIUs should be subject to the General Data Protection Regulation or to its law enforcement counterpart, the Police Data Protection Directive. The remaining of the article focuses on the ‘FIU.net’ – the decentralized network for information exchanges between EU FIUs – and on the data protection challenges that emerged from the recent integration of this network into Europol. © The Author(s) 2020.",
+    "source": "New Journal of European Criminal Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

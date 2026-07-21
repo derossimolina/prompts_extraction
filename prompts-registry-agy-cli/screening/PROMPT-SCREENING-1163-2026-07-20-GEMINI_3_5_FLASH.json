@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1163-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Corruption and the circumvention of financial sanctions via the extractive industries in Dubai",
+    "authors": "Teichmann F.; Falker M.-C.; Sergi B.S.",
+    "year": "2020",
+    "doi": "10.1016/j.exis.2020.05.006",
+    "abstract": "Dubai has evolved into a Middle Eastern trading centre that is home to countless onshore and offshore corporations. Serving as a hub for trade in gold, precious metals, diamonds, and other goods, it encourages foreign business owners to establish entities in one of the UAE's 45 free-trade zones, all of which offer generous taxation regimes and expedite the establishment of company structures. However, unique local characteristics, such as a cultural disposition for privacy and lax customer duediligence requirements in offshore financial institutions give rise to various risks pertaining to corruption and financial crime. In addition, the extractive industries have been proven to facilitate corruption. This article makes an original contribution to the existing literature by demonstrating why Dubai's extractive industries are particularly well suited to the circumvention of sanctions. It is detailed how sanctioned public officials use sophisticated, multinational corporate structures to escape financial sanctions via the extractive industries. It is thus shown that currently imposed types of sanctions are largely ineffective. This paper argues that only an increase in transparency along with novel policies can decrease risks for corruption and financial crime which will serve to protect Dubai's standing as a reputable international business hub. © 2020",
+    "source": "Extractive Industries and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

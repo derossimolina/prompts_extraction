@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1050-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The relevance of transactional frames for structuring legal transitions; [La relevancia del encuadre para la articulación de transiciones legales]",
+    "authors": "Grossetête Á.F.; Titiun M.G.",
+    "year": "2022",
+    "doi": "10.4067/S0718-09502022000100125",
+    "abstract": "This paper analyzes the relationship between the structuring of legal transitions and transactional frames. For these purposes, we describe what legal transitions are, explain the transactional frames for costs and benefits associated to a given legal change and illustrate how these frames hinge on the adoption of the two choices that are critical for structuring a transition policy: the assessment of whether or not transition mitigation or relief should be provided and the specific shape of the mechanism established for providing mitigation. Afterwards, we illustrate this incidence through the analysis of a case concerning a legislative debate. Lastly, given the indetermination we observe on the framing of costs and benefits, we suggest a guiding standard that is necessary, but insufficient on its own to establish the transactional frame: the fulfillment of the amendment’s objectives. Put differently, that the chosen transitional policy does not affect the attainment of the goal of the legal change at issue. © 2022. Revista de Derecho. All Rights Reserved.",
+    "source": "Revista de Derecho"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

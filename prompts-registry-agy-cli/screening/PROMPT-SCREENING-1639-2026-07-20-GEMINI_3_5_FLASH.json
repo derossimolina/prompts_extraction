@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1639-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The embeddedness of illegal entrepreneurship in a closed ethnic community",
+    "authors": "Smith R.; McElwee G.",
+    "year": "2013",
+    "doi": "10.1504/IJBG.2013.055315",
+    "abstract": "There is an emerging body of literature which attempts to differentiate between the conceptual and theoretical aspects of legal and illegal, amoral and immoral entrepreneurial practice. Legal and illegal entrepreneurship are regarded as separate spheres of study but little is written which considers the actual consequences to individuals, communities and places which arise from such enterprise. In this invited paper, we examine a powerful case of embedded illegal enterprise in a closed ethnic community, exposed through a fatal explosion in an illegal alcohol still in Boston, Lincolnshire, UK. Boston in Lincoln, or 'Bostongraad' as we ironically relabel it here. This study combines a literature review on illegal entrepreneurship with observations based on documentary research methodology. A typology of enterprise orientated crime committed is provided. This paper demonstrates the embeddedness of illegal entrepreneurial activity and outlines a typological schema for differentiating between the informal economy, illicit and enterprise, illegal enterprise and criminal entrepreneurship Copyright © 2013 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Business and Globalisation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0610-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organising direction of innovation ecosystems for extended clean energy production",
+    "authors": "Brink T.",
+    "year": "2022",
+    "doi": "10.1016/j.jclepro.2022.134150",
+    "abstract": "This study aims to reveal how innovation ecosystems can organise value creation without a focal firm or a platform during the pre-phases of innovation. This has been scarcely researched hitherto; therefore, a participatory action research approach is used to reveal essential phenomena emerging in collaboration with research participants. An extended approach for innovation ecosystems to create value in society is hereby revealed beyond the coordination done by a focal firm or a platform, as noted in previous research. The study was conducted from September 2017 to June 2018 in a port in the Baltic Sea. Four enterprises participated in representing complementary activities for value creation in the pre-phases of establishing a new offshore wind park within the wind-energy innovation ecosystem. The findings are summarised using in the ‘EcoValue BMI’ model. The findings highlight the essential role of value proposition in innovation ecosystems in focusing and structuring the direction of complementary independent initiatives for value creation, as noted in the middle of the model. All participating enterprises could identify the overall ecosystem value proposition. This insight into the overall value proposition is realised by organising collaborative business model innovation (BMI) to set horizontal innovation directions for exploration and exploitation of interfaces and flow among ecosystem participants for cleaner energy production. Further research is required to verify and enhance the ‘EcoValue BMI’ findings through new research conducted in similar large innovation ecosystems without a focal firm or a platform to coordinate the innovation ecosystem for value creation in society. © 2022 The Author",
+    "source": "Journal of Cleaner Production"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

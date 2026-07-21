@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2085-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering and asset cloaking techniques",
+    "authors": "Simser J.",
+    "year": "2008",
+    "doi": "10.1108/13685200810844460",
+    "abstract": "PurposeThe purpose of this paper is to explore the various typologies and methods used to cloak assets following the placement stage of money laundering. Design&sol;methodology&sol;approachTechniques used to hide assets and cloak ownership, ranging from simple nominee arrangements through to complex financial transactions are explored. FindingsThere are a myriad of methods available to money launderers to cloak their assets. Research limitations&sol;implicationsMore work needs to be done on the issue of information gateways. Practical implicationsAssets are cloaked to obfuscate the trail and make it difficult for law enforcement to &ldquo;follow the money&rdquo;. Understanding the methodologies used is the first step to understanding the problem. Originality&sol;valueA number of cases from Canada, the USA and Australia were studied, as well as reference material advisors use for asset protection. © 2008, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

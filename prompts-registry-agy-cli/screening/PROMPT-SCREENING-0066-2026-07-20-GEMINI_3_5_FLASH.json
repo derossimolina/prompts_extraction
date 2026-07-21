@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0066-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Risk assessment in anti-money laundering: an integrated entropy-AHP-VIKOR model",
+    "authors": "Liu Y.; Wang Y.; Guo A.; Ding N.",
+    "year": "2025",
+    "doi": "10.1057/s41283-025-00169-5",
+    "abstract": "Money laundering poses a serious risk to financial systems worldwide, and it is difficult to quantitatively characterize the risk. To bridge this gap, we propose a hybrid decision framework integrating entropy weight method (EWM), analytic hierarchy process (AHP), and VIKOR algorithm, which enables risk stratification of high-risk personnel and enterprises. Based on 500 real cases of money laundering, a framework of risk features is established. The combination of EWM and AHP determines the combined weighting. Then, the VIKOR method is utilized to calculate the compromise solution and rank the target of evaluation, thereby determining the level of personnel and enterprise risk. To validate the model, we select real data of personnel and enterprises in China, and the findings show that the ranking of the model is consistent with the selected case data. The combined weighting VIKOR model offers a way to identify high-risk personnel and enterprises. This study provides actionable insights for enterprise risk management practices, supports risk-sensitive capital allocation decisions, and offers a potential framework for incorporating anti-money laundering (AML) risk into regulatory capital requirements. © The Author(s), under exclusive licence to Springer Nature Limited 2025.",
+    "source": "Risk Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

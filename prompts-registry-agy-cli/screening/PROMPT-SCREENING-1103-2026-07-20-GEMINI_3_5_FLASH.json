@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1103-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "“Soft law” and innovations: empirical analysis of ICO-related statements",
+    "authors": "Dostov V.; Shust P.; Leonova A.; Krivoruchko S.",
+    "year": "2019",
+    "doi": "10.1108/DPRG-03-2019-0018",
+    "abstract": "Purpose: The purpose of the paper is to explore the initial coin offering (ICO) statements as “soft law” instrument used to regulate disruptive innovations. Design/methodology/approach: The research is based on the qualitative content analysis of 40 ICO statements issued by regulators in 37 countries by applying a custom-made coding table. Findings: The research shows that “soft law” is used predominantly by high-capacity jurisdictions. “Soft law” allows for more flexibility and less technological and business neutrality. The findings also show the contradiction between empirical evidence and public sentiment: it seems that the widespread notion that virtual currencies have connotations with money laundering/financing of terrorism (ML/FT) is not shared by the regulators, who are more concerned by the fraud. Finally, it was found that the standard-setting bodies are lagging behind in providing guidance on the emergence technologies. Research limitations/implications: The content analysis is based on 40 statements, which is a limited set of data. The method might be subject to interpersonal bias, although arrangements were made to ensure the uniformity of coding process. Practical implications: The findings imply that soft law is an attractive risk-mitigation tool when the object of regulation is still evolving but the risks are present. Soft law also might contradict with the “technology and business neutrality” principle which requires further research. Finally, the findings show the need for more active involvement of the standard setting bodies. Originality/value: This is the first in-depth research of the ICO-related statements as “soft law” instruments. It also offers a new perspective on the issue of financial innovations regulation. © 2019, Emerald Publishing Limited.",
+    "source": "Digital Policy, Regulation and Governance "
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

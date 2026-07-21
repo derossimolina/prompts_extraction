@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0508-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illicit capital movement through trade misinvoicing in Burundi: a disaggregated approach",
+    "authors": "Ndoricimpa A.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-03-2023-0056",
+    "abstract": "Purpose: This study aims to examine the illicit capital movement through trade misinvoicing in Burundi, at disaggregated levels by major trading partners and by major export and import commodities. Design/methodology/approach: Trade misinvoicing is estimated by comparing the trade values declared by Burundi with those declared by trading partners in a bilateral international transaction, after adjusting for the cost of freight and insurance. Disaggregated trade misinvoicing by major trading partners is computed using the Direction of Trade Statistics database of the International Monetary Fund over the period 1970–2019. Disaggregated trade misinvoicing by major trading commodities is computed using the UN-COMTRADE database over the period 1993–2019. Findings: Exports of Burundi to most of its major trading partners are found to be underinvoiced. The top destinations for export underinvoicing are United Arab Emirates, Belgium and Germany. However, exports to UK and Switzerland are found to be overinvoiced. The major export commodities considered, coffee and gold, are found to be affected by trade misinvoicing to a great extent. On the import side, the estimation results indicate that imports of Burundi from its major trading partners are in general overinvoiced. High import overinvoicing is observed in the trade with Saudi Arabia, China and Japan. At commodity level, for the top 6 commodities considered, imports were to a great extent found to be overinvoiced. Cases of illicit capital outflows and inflows through trade misinvoicing are highlighted. Practical implications: Some policy implications are drawn from this study. First, in collaboration with its development partners, the Government of Burundi should put in place measures to reduce the trade misinvoicing phenomenon, which undermines poverty reduction efforts. The study has shown which trade partners are involved and which commodities are mostly affected. Policy efforts could then be focused in that regard. Investigations at the company and transaction levels can be made to identify the mechanisms of trade misinvoicing. Second, more effort is needed in ensuring systematic and transparent reporting of international trade transactions. To fight trade misinvoicing, transparency in international trade is key, through coordinated enforcement of reporting rules. Originality/value: Previous studies analyzed the problem of trade misinvoicing at an aggregated level. However, this leaves out essential information on trading partners involved in the phenomenon as well as trading commodities affected. This study investigates trade misinvoicing at disaggregated levels, at product level and by trading partner. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

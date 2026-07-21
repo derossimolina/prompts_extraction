@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1196-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Good Faith Based Approach as a Legally Acceptable Intervention in Freedom of Contract to Protect Consumers' Rights When Banks Unilaterally Close Accounts",
+    "authors": "Jelisejevs A.",
+    "year": "2021",
+    "doi": "10.2478/bjlp-2021-0014",
+    "abstract": "This article assesses the permissibility of interference in private autonomy under the good faith principle when payment service providers unilaterally terminate contracts with consumers. The protection of the interests of such consumers is impeded by the formal application of legal rules and contractual terms, which ultimately contradicts public interests, including combating money laundering and terrorism financing. To overcome this conflict, the article proposes a doctrinal approach according to which the bank's right to withdraw from the contract unilaterally should be limited by the systemic and teleological interpretation of regulating rules in combination with the general civil principle of good faith, which, by analogy with the original source of the problem, is called a good faith based approach. One of the general frameworks for implementing this approach is respect for freedom of contract, which is limited by the non-discussion presumption, modern civil law practice, and legal regulation of a consumer's interests. According to research based on EU and Latvian law, legal doctrine, and case law, there are also valid reasons to intervene in private autonomy that should be recognized as legally acceptable for restoring justice and contractual equality in favor of consumers. © 2021 Aleksejs Jelisejevs, published by Sciendo.",
+    "source": "Baltic Journal of Law and Politics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0202-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exposing Disguises and Tracing Illicit Flows: Dual-View Graph Representation Learning for Money Laundering Detection",
+    "authors": "Li Z.; Yin X.; Guang M.; Jiang C.",
+    "year": "2026",
+    "doi": "10.1109/TCSS.2025.3623272",
+    "abstract": "Money laundering is the process of hiding the origin of illicit funds to make them appear legitimate, thereby threatening the integrity of financial systems. To detect money laundering activities, graph neural networks (GNNs) have been widely adopted to model complex relational structures in transaction networks. However, a closer inspection of real-world money laundering cases reveals that launderers deliberately establish connections with multiple licit accounts to mask their illicit attributes. Such disguising behavior introduces network heterogeneity, which contradicts the fundamental assumption of homophily for most GNNs. Additionally, money launderers further conceal their activities by obscuring illicit fund flows through multihop transaction paths. This strategy poses a significant challenge for GNNs, as their limited receptive fields struggle to capture such long-range dependencies. To address these challenges, we propose a dual-view graph representation learning method, named DC-LCG, to detect money laundering. DC-LCG employs complementary local and contextual views to expose disguises and trace illicit flows, respectively. The local view implements a soft-label-guided dynamic grouping and aggregation method that separates nodes into illicit and licit groups, performing probability-weighted aggregations to mitigate network heterogeneity and expose disguises within transaction networks. The contextual view employs a dynamic path pruning method to filter licit nodes and enhance paths relevance, followed by multipath semantic fusion through transformer-based encoding to capture long-range dependencies across multihop transaction paths. A mutual attention mechanism integrates both views to create comprehensive node representations. Experiments on three public transaction datasets show that DC-LCG outperforms state-of-the-art baselines by 2%-10% across evaluation metrics. © 2026 IEEE.",
+    "source": "IEEE Transactions on Computational Social Systems"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

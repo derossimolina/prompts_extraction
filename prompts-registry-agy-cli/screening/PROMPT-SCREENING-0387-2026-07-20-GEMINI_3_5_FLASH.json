@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0387-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Which Money to Follow? Evaluating Country-Specific Vulnerabilities to Illicit Financial Flows",
+    "authors": "Grondona V.; Meinzer M.; Monkam N.; Schultz A.; Villanueva G.",
+    "year": "2025",
+    "doi": "10.1007/s10610-024-09610-z",
+    "abstract": "This study presents a new, multidisciplinary method to assess countries’ vulnerabilities to illicit financial flows (IFFs) in different economic channels. Acknowledging that money laundering involves legitimate financial channels and regulatory gaps, our approach combines quantitative data on bilateral economic activities with a qualitative assessment of the regulatory frameworks of trade and investment partners. Using publicly available and contemporary data along with a legal analysis focused on the loopholes that can be exploited for IFFs, the proposed methodology addresses the limitations of current National Risk Assessments (NRAs) and offers an accessible and cost-effective approach that can be applied for anti-money laundering. We illustrate the effectiveness of our approach by analyzing IFF vulnerabilities in Nigerian inward foreign direct investment, Brazilian outward portfolio investment, and Indonesian imports demonstrating its potential to refine and enhance National Risk Assessments. © The Author(s) 2025.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

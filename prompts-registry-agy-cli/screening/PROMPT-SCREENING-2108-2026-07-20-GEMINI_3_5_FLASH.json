@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2108-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legitimate businesses and crime vulnerabilities",
+    "authors": "Vander Beken T.; Van Daele S.",
+    "year": "2008",
+    "doi": "10.1108/03068290810898954",
+    "abstract": "Purpose - The aim of this paper is to demonstrate the potential of vulnerability studies of economic activities to study the relationship between organised crime and the economy and illustrate it by examples taken from a vulnerability study of the European waste management industry. Design/methodology/approach - Based on both economical and criminological perspectives a scanning tool for assessing the vulnerability of economic sectors was developed and applied to a specific case. Findings - Sector vulnerability studies belong to the wider family of criminal opportunity approaches, all of which aim to identify areas of current risk and future prevention. Sector vulnerability studies (vulnerability to organised crime and other risks) extend the range by bringing in economic sectors. Although starting from the analysis of the formal economy, sector vulnerability studies can provide insights concerning potential irregularities and opportunities for informal economies to flourish as well. Originality/value - This paper addresses informal markets and the relationship between organised crime and the economy from a vulnerability perspective, focusing on the opportunities provided by licit economic activity. Although such opportunity approaches exist and have been applied to various cases before, there are only a few examples of its application to vulnerabilities to organised crime. © Emerald Group Publishing Limited.",
+    "source": "International Journal of Social Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

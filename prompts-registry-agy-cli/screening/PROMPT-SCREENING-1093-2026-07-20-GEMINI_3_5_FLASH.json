@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1093-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Assessing economic policies impact on human rights in Tunisia–lessons from a United Nations mission",
+    "authors": "Bohoslavsky J.P.",
+    "year": "2020",
+    "doi": "10.1080/09744053.2020.1787077",
+    "abstract": "Based on a United Nations mission the author conducted to Tunisia in 2017, this article studies the links between economy and human–in particular economic and social- rights in this country. It addresses the following two questions: how do the economic and financial difficulties and related policies implemented affect human rights in Tunisia? To what extent are corruption, illicit financial flows and human rights interlinked in the country? The text presents the most relevant international human rights standards and commitments of Tunisia as well as its national human rights framework concerning human rights and economic policies. It also presents the financial, economic and political challenges that the country faces and the government responses through economic reform programme. It also discusses the efforts made to address corruption and illicit financial flows, including asset recovery at home and abroad, the institutional capacity to fight illicit financial flows and corruption, establishing accountability and curbing impunity, the Truth and Dignity Commission, the organic law on reconciliation in the administrative field and accountability in the banking sector. The article concludes that, while acknowledging that the democratic government is still making efforts to cope with the economic legacy left by the Ben Ali’s regime, the economic reforms (such as austerity and adjustment) being implemented need to adopt a holistic human rights approach in order to ensure those reforms promote these rights more effectively. It also concludes that corruption continues to be a destabilizing force in Tunisia, infecting its economy and undermining the enjoyment of human rights in the country. Towards the end policy recommendations for discussion are presented. © 2020, © 2020 African Studies Association of India, New Delhi.",
+    "source": "Africa Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

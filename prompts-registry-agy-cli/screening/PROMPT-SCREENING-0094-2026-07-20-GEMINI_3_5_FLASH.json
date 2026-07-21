@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0094-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "BEHAVIORAL FINANCIAL FRAUD AND CRIME, ISLAMIC LAW INVESTIGATION IN USING FINANCIAL TECHNOLOGY; [FRAUDE E CRIME FINANCEIRO COMPORTAMENTAL, INVESTIGAÇÃO DA LEI ISLÂMICA NO USO DE TECNOLOGIA FINANCEIRA]",
+    "authors": "Winarto W.W.A.; Kurniawan M.A.; Gunawan A.",
+    "year": "2024",
+    "doi": "10.26668/revistajur.2316-753X.v3i80.6749",
+    "abstract": "Objective: Digital technology advancements, particularly in the area of financial technology, or Fintech, have an impact on technological and financial advancements that in turn affect the expansion of economic and financial crimes. Legal initiatives to address the effects of this crime have not kept pace with the development of FinTech. Therefore, this research aims to form innovative, effective and efficient concepts and approaches to combat financial crimes that use digital technology as a tool to commit crimes. Method: This study uses descriptive qualitative methods and literature studies using financial crime investigation techniques to trace money is a valid theory. This method tracks assets for illicit earnings through forensic accounting and investigative auditing. But in order to implement this strategy, the legal system's core principles must be changed from emphasizing evidence of guilt to emphasizing evidence of the consequences of crime. Result: According to this article, Islamic law enforcement officials and other relevant parties require a system of coordination that is both harmonic and synergistic from a structural standpoint. In the meanwhile, community economic infrastructure needs to be developed in terms of legal culture, particularly business transactions that facilitate data-based systems. Conclusion: Islamic law enforcement strategies against financial crimes, especially Financial Technology (Fintech), must be developed in a complete legal system both in terms of legal substance, legal structure and legal culture. Development of legal substance is carried out through changes to regulations that accommodate advances in financial crimes and financial technology crimes. © 2024, Centro Universitario Curitiba - UNICURITIBA. All rights reserved.",
+    "source": "Revista Juridica"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

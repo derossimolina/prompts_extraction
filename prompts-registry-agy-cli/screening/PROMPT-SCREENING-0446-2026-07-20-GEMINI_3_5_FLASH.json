@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0446-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "COMBATING CRYPTOCURRENCY LAUNDERING BY ORGANISED CRIME GROUPS THROUGH AN EFFECTIVE REGULATORY FRAMEWORK; [MEMERANGI PENGUBAHAN WANG KRIPTO OLEH KUMPULAN JENAYAH TERANCANG MELALUI KERANGKA UNDANG-UNDANG YANG BERKESAN]",
+    "authors": "Kabra S.; Gori S.",
+    "year": "2025",
+    "doi": "10.31436/iiumlj.v33i1.1007",
+    "abstract": "Money laundering has long been a major issue for governments, law enforcement agencies, and financial institutions around the globe. As technology advances, so too do money laundering methods, presenting new challenges for authorities and financial entities. Organised Crime Groups (OCGs) are increasingly exploiting digital platforms, cryptocurrencies, and virtual assets to disguise illicit funds while maintaining anonymity and complicating their transactions. This article analyses the problem of cryptocurrency laundering by the OCGs and various tactics employed by the OCGs to cover their trails. This article also in-depth discusses the international instruments such as the United Nations Convention against Transnational Organised Crime and Financial Action Task Force recommendations on the prevention of cryptocurrency laundering. The special focus of this paper is on the legal framework regarding cryptocurrency laundering in the United States, European Union and Malaysia. The findings of the paper suggest that there is a regulatory framework present in these jurisdictions but their regulations are not subject specific and regulatory powers have been granted to the authorities that are not specialised and skilled to tackle the problem of combating cryptocurrency laundering by OCGs. © 2025, International Islamic University Malaysia-IIUM. All rights reserved.",
+    "source": "IIUM Law Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

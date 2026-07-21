@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0001-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Advancing digital economy and financial inclusion through central bank digital currencies: A comprehensive analysis of policies and legal implications through e-CNY and eNAIRA",
+    "authors": "Lee E.",
+    "year": "2025",
+    "doi": "10.3366/ajicl.2025.0510",
+    "abstract": "This article explores the implementation of Central Bank Digital Currencies (CBDCs) as a proactive measure by central banks to achieve policy objectives such as financial inclusion, data and privacy governance and economic growth in the digital economy. The design concepts of e-CNY and eNaira, the two primary retail CBDC prototypes discussed herein, are shaped by these objectives. The analysis focuses on regulatory policies, risks and legal implications associated with the shift from conventional digital payments to CBDC payments, using e-CNY and eNaira as case studies. It discusses CBDC’s competitiveness and interoperability within the current payment landscape and other regulatory concerns, such as data and personal privacy, CBDC interface providers’ performance and scalability, cybersecurity, compliance for anti-money laundering regulations and the operational robustness and resilience of payment systems. By examining these issues and challenges, the article aims to provide a comprehensive understanding of the potential benefits and challenges associated with CBDC implementation. The insights drawn from the e-CNY and eNaira implementations can provide food for thought for governments that wish to work towards implementing secure and user-friendly CBDCs that coexist with traditional financial intermediaries while offering enhanced payment capabilities. © Edinburgh University Press.",
+    "source": "African Journal of International and Comparative Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

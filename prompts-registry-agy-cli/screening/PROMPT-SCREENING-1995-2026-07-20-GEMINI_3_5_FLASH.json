@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1995-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The role of West African Development Bank (WADB) in local integration in Western Africa; [Le rôle de la BOAD dans l'intégration régionale en l'Agrique de l'Ouest]",
+    "authors": "Yayi B.",
+    "year": "2001",
+    "doi": "10.3917/med.115.0089",
+    "abstract": "Back in 1994, when the West African Economic and Monetary Union was created, three basic needs were to be met : structuring the macro economic convergence, improving the competitiveness of domestic production forces and the rise of an attractive regional market. These are the circumstances in which the WADB, whose main goal is financing development and integration, gradually stepped up its interventions to help member countries. Beyond the institutional frame, to what extent will WADB help endow the Union with real substance in such a way that it can turn it into a unified market that will be better integrated in the world economy?.",
+    "source": "Mondes en Developpement"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

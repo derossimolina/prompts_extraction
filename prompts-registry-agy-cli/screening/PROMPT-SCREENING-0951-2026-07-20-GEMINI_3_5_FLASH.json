@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0951-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "IS MONEY LAUNDERING THE MAIN FUNDING SOURCE FOR CIGARETTE SMUGGLING IN (NON) EUROPEAN COUNTRIES?",
+    "authors": "Remeikienė R.; Gasparėnienė L.; Yorulmaz Ö.; Gagytė G.; Menet G.",
+    "year": "2022",
+    "doi": "10.3846/btp.2022.14820",
+    "abstract": "Money laundering is the process of hiding or disguising the unlawful origin of property and hiding or disguising the true nature, origin, source, location, disposal, ownership or title of property. In other words, money laundering means “laundering” dirty money until it becomes clean. Corrupt officials and other criminals use money laundering techniques to hide the true nature of their income. Research shows that cigarette smuggling is linked to money laundering. The purpose of the article is to determine how money laundering is related to cigarette smuggling and which public authorities have a key role in combating these phenomena in Georgia and Serbia. Methods used in the study: literature analysis and focus group methodology. In addition, the EU member states were clustered into three categories by their HDI, CPI, GDP per capita and transaction reports indicators. Clustering indicated that the states attributed to the third cluster are most vulnerable to money laundering. An effective factor in the fight against smuggling is to increase the population’s intolerance to illicit goods and services, therefore, it will seek to extend the empirical study to the population’s perspective on money laundering and cigarette smuggling. © 2022 The Author(s). Published by Vilnius Gediminas Technical University.",
+    "source": "Business: Theory and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1665-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Overseas financial investigation of organised crime: Examining the barriers to effective implementation",
+    "authors": "Brown R.; Gillespie S.",
+    "year": "2015",
+    "doi": "10.1108/JMLC-03-2014-0010",
+    "abstract": "Purpose – The purpose of this paper is to explore the problems that arise when undertaking a financial investigation that involves tracing assets in foreign jurisdictions. Design/methodology/approach – The paper is based on a secondary analysis of data collected as part of a qualitative study of the role of financial investigation in tackling organised crime. This was based on interviews with investigating officers, financial investigators and Crown Prosecution Service representatives associated with 60 cases. Of the 60 cases, 36 were found to have an international dimension. Findings – The study found a number of problems with undertaking overseas financial investigations. These included problems with the letter of request process, difficulties tracking assets in some countries and problems with tracing funds transferred through money service bureaux. Informal contact on a police-to-police basis was generally considered an effective means of improving the quality of information received. Research limitations/implications – This study is based on just 60 cases of organised crime in which financial investigation was used. The extent to which these findings can be generalised to other cases is unclear. Practical implications – The study highlights the most common obstacles to overseas financial investigation that should be addressed. In addition, the importance of informal contact with overseas police jurisdictions may highlight a means of improving requests for assistance. Originality/value – This paper provides an important insight into the views of operational staff undertaking overseas financial investigations and as such highlights the particular difficulties in this work. © 2015, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

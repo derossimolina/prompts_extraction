@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0889-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ECONOMIC OPPORTUNITIES OF OFFSHORE BANKING AND REGULATORY RESPONSES TO MONEY LAUNDERING RISKS: A COMPARATIVE STUDY",
+    "authors": "Chandra T.Y.; Hossain M.B.; Nor M.Z.M.; Taher M.A.",
+    "year": "2024",
+    "doi": "10.26532/jh.v40i2.37115",
+    "abstract": "Offshore banking offers significant opportunities for foreign investment and economic growth in developing countries, particularly for free trade zones and industrial sectors. However, it also presents potential risks related to money laundering if Anti-Money Laundering (AML) regulatory frameworks are not properly established or reinforced. This research aims to explore the potential economic benefits of developing comprehensive regulatory frameworks for offshore banking in Indonesia, while also mitigating the risks of money laundering and financial crime. To achieve this, the research adopts a qualitative approach, utilizing a comparative method to analyze the offshore banking regulations of Malaysia, Bangladesh, and Indonesia. The findings reveal that Malaysia has been utilizing offshore banking since 1990 in Labuan, while Bangladesh is currently enacting the Offshore Banking Act (OBA) 2024. Indonesia’s AML framework, under Law No. 8 of 2010, has made progress, but challenges remain in its implementation, especially concerning offshore banking. The research highlights that while Malaysia and Bangladesh have established frameworks to regulate offshore banking, Indonesia still faces regulatory gaps, particularly in managing the risks of offshore financial activities. The implication is that while offshore banking holds potential, its regulation must be reinforced to prevent its use in money laundering activities, including through international cooperation. © 2024, Islamic University of Sultan Agung Faculty of Law. All rights reserved.",
+    "source": "Jurnal Hukum Unissula"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

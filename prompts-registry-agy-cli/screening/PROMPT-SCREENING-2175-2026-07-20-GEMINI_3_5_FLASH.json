@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2175-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Methadone diversion: A new look",
+    "authors": "Spunt B.; Hunt D.E.; Goldsmith D.S.; Lipton D.S.",
+    "year": "1986",
+    "doi": "10.1177/002204268601600406",
+    "abstract": "This paper examines the nature and extent of methadone diversion, drawing on interviews and ethnographic data collection with methadone maintenance clients and current narcotics users not in treatment. We explore the social as well as the economic role of diversion in the drug world and find that it is a more complex phenomenon than the simple monetary transaction it is often portrayed to be. Our data indicate that selling or sharing of methadone by methadone clients, though still uncommon, is the primary source of street methadone. We find that removal of take-home dosages from the client population would have deleterious effects on retaining in treatment many otherwise compliant clients and would have minimal effect on diversion. A flexible and differentiated approach might help to reduce diversion while a singular, punitive administrative approach is unlikely to do more than simply contain the situation on the surface and drive it underground. © 1986, Florida State University College of Criminology and Criminal Justice. All rights reserved.",
+    "source": "Journal of Drug Issues"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

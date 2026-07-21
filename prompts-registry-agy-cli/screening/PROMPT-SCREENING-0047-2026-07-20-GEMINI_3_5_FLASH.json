@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0047-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Gateways, Funnels, and Stackers: How People Hide Property Ownership Through Offshore Structures",
+    "authors": "Surak K.; Inkley J.",
+    "year": "2026",
+    "doi": "10.1111/1468-4446.70075",
+    "abstract": "How do wealthy individuals use offshore financial structures like shell companies to protect personal assets? And how is such offshore wealth structuring itself variably organized? Moving beyond conceptualizations of offshore as concerning only individual tax havens, this article investigates offshore wealth structuring as a fundamentally relational practice to supply the first systematic image of the patterns between two key layers of offshore structures within a specific asset class. We analyze the overseas entities that hold expensive residential properties in the UK to make three contributions to debates around offshore. First, we identify a specific regional offshore circuit in its flows and magnitude by isolating two key layers, namely the entry layer, which is used to connect into the UK property market, and the action layer, which is used for the actual or projected appearance of managing the offshore structure. We next examine the interstices between these layers to reveal three patterns of offshore formations. These we term global funnel, selective gateway, and self-stacker, and we discuss their implications. Finally, we offer indirect evidence of which jurisdictions people are more likely to choose for “brass plate” incorporation and which they employ for more complicated structuring, either in actuality or in appearance, which has implications for policymaking. By identifying significant variation in the interstitial patterns between jurisdictions, we not only pinpoint which jurisdictions are used in relation to others and to what extent, but also provide indirect evidence of how they are used differently and discuss why. Our findings supply a pioneering analysis of the scope, scale, and interstitial formations of the offshore structures that wealthy individuals use to hold personal property. © 2026 The Author(s). The British Journal of Sociology published by John Wiley & Sons Ltd on behalf of London School of Economics and Political Science.",
+    "source": "British Journal of Sociology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

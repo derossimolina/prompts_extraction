@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0091-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "AML Supervision of Cryptoassets since 30 December 2024: Changes to Directive 2015/849 Introduced by Regulation 2023/1113; [Nadzór AML nad kryptoaktywami od 30.12.2024 r. – zmiany w Dyrektywie 2015/849 wprowadzone rozporządzeniem 2023/1113]",
+    "authors": "Tomczak T.",
+    "year": "2025",
+    "doi": "10.15290/bsp.2025.30.03.08",
+    "abstract": "The aim of this article is to take a closer look at the most important changes to EU AML supervision of cryptoassets introduced to EU Directive 2015/849 by EU Regulation 2023/1113. The analysis leads to the thesis that as of 30 December 2024, this supervisory landscape has been significantly remodelled. There have been changes to the subject of supervision, the scope of supervised activity, entity modifications and licensing requirements. These changes are aimed at tightening AML supervision over cryptoassets. The considerations made also allow us to state that the EU legislation perceives the MiCA regulation as a legal act of a systemic nature for a new class of assets, i.e. cryptoassets. © 2025 Tomasz Tomczak published by Sciendo.",
+    "source": "Bialostockie Studia Prawnicze"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

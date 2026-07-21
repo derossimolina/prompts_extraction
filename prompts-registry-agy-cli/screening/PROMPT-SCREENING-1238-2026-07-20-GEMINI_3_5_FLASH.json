@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1238-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A difficult balancing act: the Samoan experience with money laundering regulation",
+    "authors": "Rowe M.",
+    "year": "2021",
+    "doi": "10.1108/JMLC-08-2020-0096",
+    "abstract": "Purpose: This paper aims to examines the trade-offs that Small Island Developing States (SIDS) must make in navigating an inappropriate elite-driven global anti-money laundering anti-money laundering/countering the financing of terrorism (AML-CFT) order. This paper examines the case of Samoa, an under-researched Pacific Island nation. It is hoped that this paper will have a wider resonance for policymakers from other developing nations facing similar challenges. Design/methodology/approach: It draws on the latest Samoan domestic source material and Asia/Pacific Group on Money Laundering Mutual Evaluation Reports to highlight the difficult balancing act that SIDS face in complying with complex global norms within their limited regulatory capacity and competing development priorities of financial inclusion and affordable remittance flows. Findings: Samoa and other SIDS in balancing the existential risks of “blacklisting” with the significant regulatory opportunity costs of compliance undertake an expensive form of AML-CFT window-dressing. Policymakers need to be more sensitive to the needs and regulatory opportunity costs of small jurisdictions, particularly when questions about the effectiveness of the AML-CFT remain open. Research limitations/implications: The author notes Samoa’s offshore center’s role in raising its risk profile. However, owing to this paper's limited scope offshore center (OFCs) will not be explored in depth. Further research is needed in this area. Originality/value: There is a dearth of contemporary academic research into AML-CFT regulation in the South Pacific and Samoa specifically. This paper presents through its Samoan case study insights into the cost-benefit calculations that small jurisdictions must make in seeking to comply with elite global AML-CFT norms vis-à-vis competing policy goals such as financial inclusion and ready access to remittance flows. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

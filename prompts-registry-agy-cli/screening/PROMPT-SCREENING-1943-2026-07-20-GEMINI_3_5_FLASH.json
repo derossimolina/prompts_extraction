@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1943-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Bad for practice: A critique of the transaction cost theory",
+    "authors": "Ghoshal S.; Moran P.",
+    "year": "1996",
+    "doi": "10.5465/AMR.1996.9602161563",
+    "abstract": "Transaction cost economics (TCE), and more specifically the version of TCE that has been developed by Oliver Williamson (1975, 1985, 1993b), has become an increasingly important anchor for the analysis of a wide range of strategic and organizational issues of considerable importance to firms. As argued by some of its key proponents, the theory aims not only to explain but also to influence practice (Masten, 1993). In this article, we argue that prescriptions drawn from this theory are likely to be not only wrong but also dangerous for corporate managers because of the assumptions and logic on which it is grounded. Organizations are not mere substitutes for structuring efficient transactions when markets fail; they possess unique advantages for governing certain kinds of economic activities through a logic that is very different from that of a market. TCE is \"bad for practice\" because it fails to recognize this difference. We identify some of the sources of the \"organizational advantage\" and argue for the need to build a very different theory, more attuned to the realities of what Simon (1991) has called our \"organizational economy.\".",
+    "source": "Academy of Management Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2282-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "When finance meets artificial intelligence: transforming financial text named entity recognition with the incorporation of hybrid embeddings",
+    "authors": "Bajpai, A; Yadav, S; Nagwani, NK",
+    "year": "2026",
+    "doi": "10.1108/SAJBS-01-2025-0035",
+    "abstract": "Purpose With the rapid increase in the availability of financial data (from news stories, company filings and social networks), more needs to automate financial information extraction than ever before. The distinction of FinTech, as compared to traditional banking, is through highly intelligent, efficient and customizable financial systems, of which many employ artificial intelligence. Natural language processing (NLP) is the technology that allows computers to process and understand language, thus converting unstructured data into useful, actionable patterns in finance. Named entity recognition (NER) is one of several tasks within NLP that enables quick identification of key features within finance, such as businesses, stocks, monetary amounts and other significant industry jargon. There is a unique challenge with financial NER because of the continual development and evolution of the English language within the financial markets. As new companies enter the market and securities are created, new ticker symbols and domain-specific jargon are generated at an increasingly fast pace, which consistently creates many out-of-vocabulary tokens, making it difficult to determine the reliable identification of entities in finance.Design/methodology/approach The combination of word embedding and character embedding was utilized to handle the complexity associated with financial entities. By the combination of these approaches, the model is less sensitive to the presence of rare and complex entities, therefore increasing the accuracy of the approach. The model's word embedding uses a BERT-based architecture, while the character embedding employs a convolutional neural network (CNN). Additionally, the character embedding is concatenated for processing using the BiLSTM layer for context-based dependencies. This is to provide a softmax output for NER classification.Findings By integrating FinBERT, GloVe, CNN and BiLSTM, the hybrid models achieve an accuracy, F1 score, recall and precision of value 91%, 88%, 90% and 90%, respectively, on the publicly available dataset FiNER-139.Originality/value Overall, the results are highly promising for practical use in finance, helping to build an effective financial NER system and strengthening data-driven decision-making. They also improve AML/KYC compliance by automating entity extraction to decrease false positives and review time, while strengthening risk management and market monitoring with early warning signals from filings, earnings calls and news.",
+    "source": "SOUTH ASIAN JOURNAL OF BUSINESS STUDIES"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

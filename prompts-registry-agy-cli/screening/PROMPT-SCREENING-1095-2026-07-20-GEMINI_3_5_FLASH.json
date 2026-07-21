@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1095-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulation of cryptoassets in mainland china, hong kong, macau and taiwan",
+    "authors": "Alekseenko A.P.",
+    "year": "2021",
+    "doi": "10.14330/cwr.2021.7.2.05",
+    "abstract": "The regulation of digital financial assets has been a topic of discussion for many countries over the last decade. China is among the world leaders in the digitalization and blockchain technologies. Under the “one country, two systems,” two different approaches to the digital financial assets have been implemented in the PRC. Although the COVID-19 pandemic has stimulated many investors to diversify their investment portfolios to include digital financial assets, the People’s Bank of China has not changed its prohibitive position on tokens and cryptocurrencies and even launched a campaign against miners and crypto exchanges. Macau and Taiwan have also prohibited initial coin offerings and the transfer of cryptocurrencies due to the risks of money laundering connected with the citizens of mainland China. Macau, Taiwan, and the Monetary Authority of Hong Kong have implemented less stringent regulations of digital financial assets. Comparative analysis demonstrates that Hong Kong acts as an intermediary for China to the digital financial assets. © 2021, Yijun Institute of International Law. All rights reserved.",
+    "source": "China and WTO Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

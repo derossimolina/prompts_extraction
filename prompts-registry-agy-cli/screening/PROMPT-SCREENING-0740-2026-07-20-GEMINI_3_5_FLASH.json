@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0740-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering and customer due diligence: empirical evidence from South Africa",
+    "authors": "Gaviyau W.; Sibindi A.B.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-06-2023-0103",
+    "abstract": "Purpose: The purpose of this study is to examine the South African banks’ customer due diligence (CDD) practices in the fintech era to mitigate money laundering (ML) risks and ensure financial stability. Financial technologies have brought substantial transformations to the financial services sector. However, such technologies have exposed the sector to emerging risks that threaten the integrity and stability of the financial system globally. Before any bank–customer relationship is established, proper customer background checks must be conducted. These background checks enable financial institutions to validate information provided and ensure customers are properly risk profiled. Failure to risk profile customers could result in financial institutions being used as conduits for ML. Undoubtedly, CDD procedures are pivotal to overall anti-money laundering efforts and curbing financing terrorism in a regulatory framework. Design/methodology/approach: A qualitative research approach was adopted to address the research questions of the study. Given the confidentiality associated with the financial services sector, data triangulation was used in blending mainly secondary and primary data sources. Secondary data sources used in the study were published reports available in the public domain that were corroborated with subject matter experts’ interviews. Findings: Based on the findings of this study, it is concluded that in South Africa, technological solutions have been incorporated into CDD functions, which is now risk-based (enhanced due diligence). Also, legally, South Africa has incorporated the biometrics, integration with Department of Home Affairs and Companies and Intellectual Property Commission databases, customer consent to third-party sources with the Financial Intelligence Centre Act and the Protection of Personal Information Act. Originality/value: The shift towards digital banking in South Africa results in increased data and dynamic risk profiling. This study advocates a policy shift requiring a risk-based approach to mitigating emerging ML risks (in particular digital laundering), especially in the wake of South Africa’s recent greylisting by the Financial Action Task Force. © 2023, William Gaviyau and Athenia Bongani Sibindi.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

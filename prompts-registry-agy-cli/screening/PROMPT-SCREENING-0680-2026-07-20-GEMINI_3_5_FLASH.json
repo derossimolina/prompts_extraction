@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0680-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Defending victims of cross-border fraud in the EU – A Portuguese view, including the use of preventive “freezing” of bank accounts under anti-money laundering legislation",
+    "authors": "Ramos V.C.; Pereira Coelho D.",
+    "year": "2023",
+    "doi": "10.1177/20322844231173913",
+    "abstract": "The Article looks into recovering assets for victims of frauds using the financial system to launder proceeds, against the backdrop of two case-examples and the lessons learned by the authors from their practice as lawyers in Portugal. It sets out relevant EU instruments (Section I) and then turns into the main difficulties and obstacles in practice (Section II). Finally, it addresses the use of preventive suspension of banking operations (“SOB”) under AML laws at the service of the interests of the victims of cross-border fraud. It argues albeit these have not been built or designed bearing victims' interests in mind they are essential to the recovery of the proceeds and their return to fraud victims. The authors propose to reflect on improving such mechanisms, namely by guaranteeing that it is possible to make consecutive blockings that follow the trail of the proceeds of the fraud through the various jurisdictions involved; and also on the pertinence of giving an explicit place to the victim in the legal framework that regulates the mechanisms for the prevention of money laundering, namely by facilitating the access of the victims to reporting channels that allow for a quick activation of such mechanisms (Section III). The piece concludes stating that although multiple mechanisms are available to ensure the protection of victims' financial interests in this context, the articulation and definition of the strategy is highly complex, making the intervention of a lawyer essential. In any event, if there is no swift intervention and freezing of the proceeds at the outset of the detection of fraud, it is as a rule impossible to recover victims' assets. It is ironic that in practice such freezing is at best made possible by AML laws that were not designed having victims' interests at the forefront. © The Author(s) 2023.",
+    "source": "New Journal of European Criminal Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

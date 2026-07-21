@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0459-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The European Central Bank in the International Political Economy",
+    "authors": "Quaglia L.; Verdun A.; Jones E.; Helleiner E.; Cohen B.J.",
+    "year": "2025",
+    "doi": "10.1093/isr/viaf010",
+    "abstract": "Central banks lie at the interface between domestic and international political economy. Powerful technocracies tasked with domestic and international macroeconomic governance functions are responsible for monetary policy, sometimes banking supervision, and to contribute to overall financial stability. On occasion, they supervise a variety of non-banking financial services and other functions, such as anti-money laundering. During economic and financial turmoil, central banks can be crisis managers of last resort, or actually crisis managers of first resort. Today, many central banks often enjoy independence from the political authorities. They are important actors in the international monetary and financial systems acting separately from government actors. Central banks contribute to shaping these systems, and are, in turn, affected by them. Major geopolitical developments pose significant challenges to central banks and thus to the scholars studying them. This forum takes stock of current academic and policy debates on the European Central Bank (ECB) and the euro. Individual contributions explore key aspects of the ECB and the euro: the ECB as an overstretched multi-tasking technocracy, struggling with multiple goals; the distributive effects of ECB's policies; the ECB as a global normative and policy entrepreneur in combating climate change; and the geopolitics of the euro, in particular, the failed promise of the euro as a leading international currency. Together, these contributions tackle fundamental questions about the past, present, and future of the euro and the ECB; offer contending perspectives on the success (or otherwise) of this experiment; and point out what features would warrant further study. We reflect on how these analyses feed into the broader literature on central banks and international organizations in the global political economy more generally. © The Author(s) (2025).",
+    "source": "International Studies Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

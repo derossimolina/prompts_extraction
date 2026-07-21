@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2481-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Coordination problems in cryptomarkets: Changes in cooperation, competition and valuation",
+    "authors": "Bakken, SA; Moeller, K; Sandberg, S",
+    "year": "2018",
+    "doi": "10.1177/1477370817749177",
+    "abstract": "The new drug markets emerging on the dark net have reduced earlier drug market risk factors such as visibility and violence. This study uses economic sociology and transaction cost economics to broaden the present understanding of cryptomarkets. Results focus on three coordination problems characterizing illegal markets and how they are alleviated in cryptomarkets. More information and better visibility increase competition, the feedback system enforces cooperation and border control introduces a new cost influencing valuation. Cryptomarkets are formally structured and regulated by rules of conduct and centralized decisions. We argue that the online context circumvents earlier coordination problems in illegal markets, making dark net markets more structurally efficient compared with conventional drug markets.",
+    "source": "EUROPEAN JOURNAL OF CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

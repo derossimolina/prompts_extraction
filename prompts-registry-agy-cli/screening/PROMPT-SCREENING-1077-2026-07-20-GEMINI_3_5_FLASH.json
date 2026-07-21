@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1077-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Thematic organization of instructional texts as a linguistic basis for the acquisition of knowledge by an intelligent agent; [Тематическая организация текста инструкций как лингвистическая основа приобретения знаний интеллектуальным агентом]",
+    "authors": "Kadzhaya L.A.; Kuznetsova Iu.M.; Salimovskii V.A.; Suvorova M.I.",
+    "year": "2021",
+    "doi": "10.21638/spbu22.2021.104",
+    "abstract": "The article examines the thematic organization of instructional texts in the aspect of problems relevant to work on the creation of a cognitive assistant. The purpose of the assistant is to provide a user with the necessary information to follow the rules of a particular scenario to successfully achieve a goal according to the search query. The query containing certain keywords, further specified as the task being solved, is focused on a detailed set of topics which mark the subject areas reflected in the scenario. The authors of the article provide a review of some linguistic works devoted to the issues of theme-rhematic structuring of a produced text and its compression within the limits of keywords. The importance of the description of the text’s thematic chains, to obtain the detailed objective information on its thematic structure, is emphasized. When comparing the list of keywords identified by the automatic system TextApplianсe in a collection of Internet-extracted instructional texts retrieved from the Internet with the results of hand-held analysis of these texts, to determine the place of various nominative units in the text’s thematic organization, the authors consider the most significant characteristics of a keyword shown in different nominative units to varying degrees. This is a high indicator of a text identifier, content capacity, and communicative significance of a word or a substantive phrase as a marker of important information for a recipient. Defining keywords in whole instructional texts and in relatively independent text fragments (subtexts) that describe individual stages of the user’s goal achievement (for example, the stages of selecting a car, its inspection, making a transaction, car registration) makes it possible to improve the quality of scenario identification in the Network. Extracting keywords along with their context allows for the creation of a recommendations’ database for users automatically. The significance of the theme-rhematic text structure analysis, as a sign for its modeling in the sign picture of the world, is revealed. © 2021 The authors.",
+    "source": "Medialingvistika"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

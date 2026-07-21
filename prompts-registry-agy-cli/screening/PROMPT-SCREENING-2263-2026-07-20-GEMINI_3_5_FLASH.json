@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2263-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Protecting the financial system from abuse: Challenges to banks in implementing AML/CFT standards",
+    "authors": "Johnston, RB; Carrington, I",
+    "year": "2006",
+    "doi": "10.1108/13685200610645210",
+    "abstract": "Purpose - To examine the implications of the changing compliance environment confronting banks as the international anti-money laundering/combating the financing of terrorism (AML/CFT) standards have become more rigorous and more attention is paid to integrity related concerns by supervisors and market participants. Design/methodology/approach - The paper describes recent regulatory and financial sector developments and draws analytical lessons. Findings - Banks are facing increasing pressure from a number of sources to improve their compliance with AML/CFT and integrity related standards, and a number of institutions are responding positively to the challenge to establish robust AML/CFT regimes. However, there is a risk of disruption of legitimate business lines. Practical implications - Striking the right balance in protecting systems from abuse while avoiding disruption to legitimate business lines will require further research on how best to implement the standards. Originality/value - The paper initiates a discussion on the cost/benefit analysis of the implementation of the AML/CFT standard and outlines some of the challenges involved in going forward.",
+    "source": "JOURNAL OF MONEY LAUNDERING CONTROL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

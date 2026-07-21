@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1709-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Power and the practice of security to govern global finance",
+    "authors": "Vlcek W.",
+    "year": "2012",
+    "doi": "10.1080/09692290.2011.611049",
+    "abstract": "While the end of the Bretton Woods system led to deregulation and increased international capital flows, the trend over the past two decades has been toward increased international financial supervision. Aspects for an emerging structure of global governance are congealing into a form of 'financial governmentality' as a means to secure society and to isolate criminal and terrorist money. Efforts to defend society from organised crime and transnational terrorism extend into financial services and introduce increased levels of surveillance over all forms of financial exchange. The paper begins with an explication for the power relations between international organisations (created by select states to manage and direct the global economy) and the non-member jurisdictions that are, in turn, subjected to their guidance. The experience of the Philippines with the international campaign against money laundering directed by the Financial Action Task Force (FATF) is presented as a case study for the governmentality present in global financial governance. Initially the Philippine government sought to retain a measure of autonomous action while satisfying the FATF's demands for legislative change. The initial failure to meet the expectations of international standards impacted international financial flows to the Philippines, including migrant remittances. It was with this specific experience in mind that the government of the Philippines crafted new regulations to cover emerging technologies that facilitate money transfer via mobile phone, positioning the Philippines as the leader for this form of governance to prevent money laundering and terrorist financing. At the same time, this case represents an emerging practice for self-discipline by states seeking to demonstrate compliance with internationally produced standards and best practices for banking and finance. © 2012 Copyright Taylor and Francis Group, LLC.",
+    "source": "Review of International Political Economy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

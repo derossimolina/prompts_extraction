@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0996-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Foreign direct investments and round tripping between Cyprus and Russia",
+    "authors": "Repousis S.; Lois P.; Kougioumtsidis P.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-08-2018-0054",
+    "abstract": "Purpose: This paper aims to look at the linkage of foreign direct investments (FDIs) and round-tripping in the Cyprus–Russia corridor. Design/methodology/approach: The paper is divided into two chapters. The first chapter looks at the relationship between FDIs and round-tripping in Cyprus and Russia. The second chapter discusses and combines statistical data from different sources about illiciting financial flows from Russia and the linkage of FDIs and round-tripping with Cyprus. Findings: Evidence suggests that, despite the obviously numerous and varied legislative provisions and initiatives, the movement of vast amounts of capital to or through the Cypriot financial system is a phenomenon, which has absolutely not been removed. The illegal outflow of money seems to grow rapidly over the years instead of decreasing. What actually happens is that after a dramatic decline in the years 2013-2015, the FDIs of the Russians to and from Cyprus in 2016 returned to pre-crisis levels of 2013, and so far, it seems the inflows–outflows system returned to “normal” levels. Cyprus ranks first in inward FDI and outward FDI with almost 35 per cent of total flows from Russia. An element that demonstrates the presence of round-tripping, is the sharp and rapid parallel increase of inward FDI and outward FDI, and that the category of total deposits in Cyprus by nonresidents, including special-purpose entity, recorded significant fluctuations caused by not only the large size of deposits but also the short time remaining in the banking sector. Russia ranked second among the countries with the largest average illegal capital outflows in the years 2004-2013. Movement of capital to exploit the particularly beneficial Cyprus tax system is still a tax backdoor for Europe and worldwide (hence the neologisms like Cyp-Rus), especially after the “de-offshorization” law in Russia in practice since January 1, 2015. Originality/value: Evidence presented in this paper is important for national and supernational supervisory anti-money laundering bodies and compliance authorities to understand bad practices in financial transactions between Russia and Cyprus. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

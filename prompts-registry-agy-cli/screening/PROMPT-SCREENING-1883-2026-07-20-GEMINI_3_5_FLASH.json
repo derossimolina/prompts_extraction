@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1883-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tauschsphären Geschichte und Bedeutung Eines Wirtschaftsethnologischen Konzepts",
+    "authors": "Röschenthaler U.",
+    "year": "2010",
+    "doi": "10.5771/0257-9774-2010-1-157",
+    "abstract": "This article examines the concept of the spheres of exchange or transaction spheres in economic anthropology. It starts with the most well-known example, the three hierarchically ordered and morally connotated spheres of exchange which Paul Bohannan found among the Tiv in Eastern Nigeria. It discusses the criticisms which Bohannan's work has provoked and traces the concept's history to two main schools of thought. The comprehension of the spheres of exchange in their broader context of economy and society makes clear that they are not an exotic phenomenon, vanishing under the influence of Western culture, but a structuring strategy generally found in societies, and with which certain social groups justify claims to prestigious goods and services.",
+    "source": "Anthropos"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

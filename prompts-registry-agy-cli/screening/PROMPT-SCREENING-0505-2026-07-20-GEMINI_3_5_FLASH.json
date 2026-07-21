@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0505-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Financial intelligence unit of Pakistan: an evaluation of its performance and role in combating money laundering and terrorist financing",
+    "authors": "Sultan N.; Mohamed N.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-04-2022-0060",
+    "abstract": "Purpose: This study aims to determine the performance of the Pakistani financial intelligence unit in combating money laundering/terrorist financing in local and global contexts. Design/methodology/approach: The study used a qualitative research design. The objective is achieved by critically examining the Anti-money Laundering Act and its relevant clauses concerning the financial monitoring unit and other related legislation. Further, empirical data was collected through semi-structured interviews with chief compliance officers from regulated entities, regulators and premier law enforcer. Findings: The performance of the financial monitoring unit has severe issues concerning the dissemination of financial intelligence due to its time taking behaviour, non-sharing of feedback with reporting agencies, dearth of international cooperation, lack of trained and relevant personnel and financial constraints. Originality/value: To the best of the authors’ knowledge, this is a maiden study concerning financial monitoring unit in Pakistan. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0856-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Anticorruption Protocol to the United Nations Convention against Corruption Beneficial Owner Rule",
+    "authors": "Yeh S.S.",
+    "year": "2023",
+    "doi": "10.3390/laws12060086",
+    "abstract": "To fight corruption, money laundering, and organized crime, a proposed APUNCAC Beneficial Owner Rule would require financial service personnel to obtain and submit certification by the true beneficial owner when covered funds are transacted in amounts exceeding USD 3000. The strategy would trap front men into false statements, create a transaction-level record of assertions by front men that can be tested by a prosecutor, eliminate loopholes that allow criminals to escape prosecution in offshore havens, not require proof of a predicate crime or the illicit nature of funds, trigger a chain of witness cooperation, fight organized crime using a domino strategy, and be accomplished via a relatively simple change in domestic laws. Analysis suggests (1) the required technology exists; (2) transaction friction would be minimal; and (3) that the implementation of the Rule is feasible and practical, both operationally and from a legal standpoint, suggesting that the proposed Rule offers a promising strategy to fight organized crime. © 2023 by the author.",
+    "source": "Laws"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

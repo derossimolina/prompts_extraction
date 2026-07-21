@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0709-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Emplacing Eminescu: The Memorial Spatialization of Romania’s National Poet in Urban Street Nomenclature",
+    "authors": "Rusu M.S.",
+    "year": "2024",
+    "doi": "10.3828/jrns.2024.6",
+    "abstract": "Besides being canonized as Romania’s “national poet,” Mihai Eminescu was hailed as the “complete man of Romanian culture” and the “absolute Romanian,” among a profusion of encomiastic praises. Eminescu was immortalized in myriads of ways, from the most solemn and official (e.g. state-run rituals) to the most prosaic and banal (e.g. banknotes). In this article, I investigate the spatial dimension of Eminescu’s memory by charting the commemorative landscape defined by toponymy and public monuments honoring the national poet in Romania. Particular attention is given to Eminescu’s presence in urban street nomenclature and its regional distribution across the country. Drawing on several datasets of spatial information, I use statistical modeling techniques to examine the factors underpinning Eminescu’s memorial namescape. Employing logistic regression analyses, the article highlights an uneven geography of Eminescu’s memory and points out the variables structuring its particular spatial patterning. © 2024, Liverpool University Press. All rights reserved.",
+    "source": "Journal of Romanian Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

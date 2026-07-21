@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2292-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CYBERCRIMINAL NETWORKS, SOCIAL TIES AND ONLINE FORUMS: SOCIAL TIES VERSUS DIGITAL TIES WITHIN PHISHING AND MALWARE NETWORKS",
+    "authors": "Leukfeldt, ER; Kleemans, ER; Stol, WP",
+    "year": "2017",
+    "doi": "10.1093/bjc/azw009",
+    "abstract": "Online forums serve as offender convergence settings for cybercriminals, but it is unknown whether all cybercriminal networks use forums. Important questions are how cybercriminals meet, how cybercriminal networks develop and what this means for the criminal capabilities of these networks. To gain insight into these questions, we analysed 18 criminal investigations into phishing and malware networks and developed four models of growth. Social ties still play an important role in the origin and growth of the majority of networks. Forums, however, also play a significant role in a number of networks, for example, to find suitable co-offenders or to get into contact with enablers. Criminals with access to forums are able to increase criminal capabilities of their network relatively quickly.",
+    "source": "BRITISH JOURNAL OF CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

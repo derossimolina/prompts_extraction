@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1047-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Banking malware and the laundering of its profits",
+    "authors": "Custers B.H.M.; Pool R.L.D.; Cornelisse R.",
+    "year": "2019",
+    "doi": "10.1177/1477370818788007",
+    "abstract": "Banking malware is malicious software that aims to steal money from victims via manipulated bank transfers in online banking. This paper describes how the profits of banking malware are generated and subsequently laundered, with a particular focus on the use of bitcoins and other digital payment methods. Computers are infected with banking malware via phishing emails, in which people are persuaded in various ways to click on links or open attachments, or via exploit kits, programs that try to find weak spots in the security of computer systems. After infection, bank transfers of the online banking accounts of victims are manipulated via fake website screens (web injects). Behind the screens the amounts and beneficiaries of transactions are modified, emptying the victims’ bank accounts. In the next step, the banking malware profits are laundered. In this paper we describe two models that are used in particular (next to more traditional money laundering methods). The first model involves the use of money mules and a quick cash-out. The second model focuses on direct spending via (a) direct purchases of products via online shopping, (b) direct purchases of bitcoins via Bitcoin exchanges or (c) direct purchases of luxury goods. Bitcoins can be further laundered via so-called mixing services. All in all, these methods allow criminals to launder profits in relative anonymity and prevent seizure of the illegal profits. © The Author(s) 2018.",
+    "source": "European Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

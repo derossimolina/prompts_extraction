@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2254-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The regulation of cryptocurrencies to combat money laundering crimes in South African banking institutions",
+    "authors": "Ncube, PT; Kabwe, R",
+    "year": "2023",
+    "doi": "10.17159/2225-7160/2023/v56a22",
+    "abstract": "Cryptocurrencies have become an increasingly popular means of conducting financial transactions globally, and South African banking institutions have not been immune to this trend. However, the pseudonymous nature of cryptocurrency transactions has made it an attractive tool for money laundering activities. In response, there is a growing need for South African regulators to establish a legal framework to regulate the use of cryptocurrency to combat money laundering crimes by banking institutions. While the recent amendments to the Financial Intelligence Centre Act 38 of 2001 (as amended) regarding cryptocurrencies are commendable, it is not without deficiencies. The purpose of this article is threefold. First, it examines the current state of cryptocurrency regulation in South Africa. Second, it explores the vulnerabilities that expose the banking system to money laundering using cryptocurrencies. Third, it highlights the need for further development and implementation of regulatory measures to address vulnerabilities identified in this article. This article argues that the current lack of a comprehensive regulatory framework for cryptocurrencies in South Africa leaves the banking system open to potential abuse. The article suggests that South African regulators should focus on three key areas to combat money laundering activities related to cryptocurrency. First, regulatory measures should be implemented to identify and verify the identities of cryptocurrency traders and investors. Second, measures should be put in place to monitor the flow of cryptocurrency transactions and detect suspicious activities. Third, the digital wallets of crypto users should be managed by South African banking institutions.",
+    "source": "DE JURE LAW JOURNAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

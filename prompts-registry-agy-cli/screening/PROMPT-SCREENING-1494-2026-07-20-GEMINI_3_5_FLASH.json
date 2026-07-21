@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1494-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A critical approach to trade-based money laundering",
+    "authors": "R.J. Soudijn M.",
+    "year": "2014",
+    "doi": "10.1108/JMLC-01-2013-0001",
+    "abstract": "Purpose – The purpose of this paper is to broaden the discussion on trade-based money laundering (TBML). The literature is too narrowly focused on the misrepresentation of the value, quantity or quality of the traded goods. This focus leads to the analysis of price anomalies as a signal of over- or under-invoicing. However, TBML can also occur without manipulation of these factors. Design/methodology/approach – A review of the literature and case study of police investigations. Findings – Financial action task force (FATF) definitions are seriously flawed. The question of whether detecting TBML on the basis of statistical trade data is effective should be much more open to debate. Police investigations show that goods are shipped at their true value within the context of TBML. Research limitations/implications – Using outliers to identify and act on cases of TBML has often been propagated, but scarcely been used to actually show TBML. Real findings are needed. Practical implications – Goods intended for TBML can also be paid for in cash. These cash payments are often out of character with the normal clientele. This should alert companies and compliance sections of banks alike. Originality/value – The critique on the FATF definition opens the field for a more fitting definition. The description of actual TBML cases makes it possible to better understand this method of money laundering. © 2014, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2454-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Determinants of Dynamic Capital Structure and the Speed of Adjustment to Optimal Leverage: A Study on Financial Institutions in Turkiye",
+    "authors": "Yilmaz, H",
+    "year": "2022",
+    "doi": "10.26650/ISTJECON2021-1083801",
+    "abstract": "This study examines whether financial institutions in Turkiye revise target debt ratios when determining capital structures, in addition to investigating the speed of adjustment to optimal capital structure in the presence of adjustment costs. The data were obtained from the COMPUSTAT Fundamentals database, which is maintained by Standard & Poor's. The dataset covers 1,570 firm-year observations from 114 financial institutions (deposit banks, Islamic banks, securities, real estate investment trusts, and insurance companies) between 1996 and 2018. Using the dynamic panel data analysis method GMM-SYS, the speed of adjustment to optimal capital structure is determined to be 26%; however, during the global financial crisis (2007-2010), when financial institutions' total debt ratios declined, this speed plummeted to 19%. Based on the results of the analysis, it is reasonable to conclude that financial firms conduct balancing behavior around a target debt ratio to maintain optimal debt ratios when structuring capital, rather than making a hierarchical selection among alternative financing options. As the study is an exploratory endeavor to determine the speed of adjustment, the factors affecting the adjustment speed and the extent to which these factors increase or decrease adjustment speeds in different periods are beyond the scope of the study. Future research should consider institutional and macroeconomic determinants of adjustment speed to help advise firm executives about the optimal capital structures of their respective firms.",
+    "source": "ISTANBUL IKTISAT DERGISI-ISTANBUL JOURNAL OF ECONOMICS"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

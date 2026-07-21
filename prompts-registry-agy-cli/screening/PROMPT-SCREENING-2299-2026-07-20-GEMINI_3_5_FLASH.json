@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2299-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The symbiotic evolution of anti-doping and supply chains of doping substances: how criminal networks may benefit from anti-doping policy",
+    "authors": "Fincoeur, B; van de Ven, K; Mulrooney, KJD",
+    "year": "2015",
+    "doi": "10.1007/s12117-014-9235-7",
+    "abstract": "Doping in sport has been explored predominantly from a user-perspective, widely neglecting an analysis of the supply-side of the market for doping products. In this article, we aim to fill a gap in the existing literature by demonstrating that the supply chains of doping substances have evolved over the course of the past two decades, not least due to the zero tolerance approach of anti-doping policy. Specifically, adopting the case studies of (elite) cycling and recreational weight-training (RWT) and bodybuilding (BB), we outline how the supply chains for performance and image enhancing drugs (PIEDs) have shifted away from culturally embedded dealers and into new organizational structures independent from these sub-cultures. We maintain that the evolution of doping supply mirrors the evolution of doping use; whereas doping was previously the result of a socialization process, and PIED suppliers were a cultural product, consumption is now often a secretive practice and social suppliers are no longer prepared to take risks in (openly) supplying doping products. Consequently, the increasingly clandestine nature of doping practices has led consumers to increasingly consider the black market as a potential source for PIEDs. Most importantly, this shift in doping supply chains has led to greater inequality among athletes, increased health risks and the rise of suppliers devoid of sociocultural characteristics. We suggest that as the current anti-doping regime, focused predominantly on punishment and control, continues unabated these unintended negative consequences are likely to increase. As several countries have begun to rethink their position on the criminalization of drugs and drug users, it is time to rethink our approach to curbing the problem of doping in sports.",
+    "source": "TRENDS IN ORGANIZED CRIME"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

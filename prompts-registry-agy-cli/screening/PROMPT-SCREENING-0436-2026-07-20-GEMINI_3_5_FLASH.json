@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0436-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "From Drug Trafficking to Human Trafficking: Expansion of Carceral and Racialized Governance through Protectionist Rhetoric",
+    "authors": "De Shalit A.; Michaud L.; Annett M.L.",
+    "year": "2026",
+    "doi": "10.1177/00914509261445118",
+    "abstract": "The criminalization of illicit/unregulated drug distribution as “drug trafficking” has grown increasingly entangled with rhetoric and allegations of “human trafficking,” producing a convergence of how trafficking across policy domains is understood and regulated by the state. This commentary traces three critical parallels across state drug and human trafficking frameworks: (1) racialized constructions of the “trafficker,” (2) erasure of structural determinants of participation in informal economies, and (3) reliance on binary victim–perpetrator representations. The commentary draws on empirical research based primarily in Ontario, Canada, that involved 41 interviews with people who use drugs charged with drug offences, frontline harm reduction workers, criminal defense lawyers, and drug policy experts as a point of departure to interrogate wider structural and discursive trends in the governance of criminalized economies. Our argument is twofold: first, that the premise of “the trafficker” and use of “trafficking” as an organizing framework produces various harms across different sites of policy and practice, and second, that policymakers and harm reduction practitioners must resist the growing discursive slippage that entangles drug and human trafficking in the name of protection. Resisting trafficking frameworks is thus a policy imperative, as they erode fragile rights safeguards, consolidate carceral and racialized governance regimes, and foreclose alternative approaches that address the structural conditions shaping involvement in drug economies. © The Author(s) 2026. This article is distributed under the terms of the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/) which permits any use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access page (https://us.sagepub.com/en-us/nam/open-access-at-sage).",
+    "source": "Contemporary Drug Problems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

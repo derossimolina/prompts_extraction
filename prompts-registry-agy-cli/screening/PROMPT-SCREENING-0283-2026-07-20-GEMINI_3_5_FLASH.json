@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0283-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Hidden ownership in suspicious transactions - experimental evidence on anti-money laundering reporting priorities in Norway",
+    "authors": "Bjønness A.M.; Kolstad I.",
+    "year": "2026",
+    "doi": "10.1016/j.irle.2026.106334",
+    "abstract": "Concealing illicit funds through hidden ownership is a well-known money laundering method. This paper analyzes whether non-transparent ownership receives sufficient attention relative to other red flags of money laundering, using a randomized discrete choice experiment of 334 Norwegian anti-money laundering (AML) professionals. The results show that while unknown beneficial ownership increases the odds that a transaction is reported as suspicious, it increases reporting odds by only about half as much as unknown origin of funds. This suggests that although non-transparent ownership is considered a primary red flag of money laundering, and despite the increased attention this issue has received by international policymakers, non-transparent ownership may still receive insufficient attention by AML professionals. Paradoxically, our analysis indicates that industry professionals consider the AML reporting system to be well-functioning as there are no major differences between which transactions respondents say are reported and which transactions should be reported to combat money laundering. © 2026 The Authors.",
+    "source": "International Review of Law and Economics"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

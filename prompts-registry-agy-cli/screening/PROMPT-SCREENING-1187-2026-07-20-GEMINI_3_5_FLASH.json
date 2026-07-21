@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1187-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The red, the black, and the plastic: Paying down credit card debt for hotels, not sofas",
+    "authors": "Quispe-Torreblanca E.G.; Stewart N.; Gathergood J.; Loewenstein G.",
+    "year": "2019",
+    "doi": "10.1287/mnsc.2018.3195",
+    "abstract": "Using transaction data from a sample of 1.8 million credit card accounts, we provide the first field test of a major prediction of Prelec and Loewenstein’s theory of mental accounting: that consumers will pay off expenditure on transient forms of consumption more quickly than expenditure on durables. According to the theory, this is because the pain of paying can be offset by the future anticipated pleasure of consumption only when money is spent on consumption that endures over time. Consistent with this prediction, we found that repayment of debt incurred for nondurable goods is an absolute 10% more likely than repayment of debt incurred for durable goods. The strength of this relationship is comparable to an increment in 15 percentage points in the credit card annualized percentage rate. Our results have not only managerial implications for the structuring of financial transactions (e.g., that credit card customers should be given the option of paying off specific purchases) but also more general implications for exploiting variations in the pain of paying in incentive schemes aimed at customers and employees. © 2019 The Author(s).",
+    "source": "Management Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

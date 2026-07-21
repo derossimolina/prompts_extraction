@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0964-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Analysis of urban verticalization in the structuring axis of Passo Fundo – RS; [Análise da verticalização urbana no eixo estruturador de Passo Fundo – RS]",
+    "authors": "Quevedo Melo E.F.R.; Matana S., Jr.",
+    "year": "2020",
+    "doi": "10.1590/2175-3369.012.E20190369",
+    "abstract": "The process of verticalization of cities produces impacts that benefit or hinder the quality of urban space, in this way analyzing their developments is a tool for city planning. The objective of the present study was to analyze the verticalization process in the structuring axis of the city of Passo Fundo, in the north of Rio Grande do Sul. This study comprised the analysis of a 7.62 km stretch, with surveys carried out in two stages, the first in 2013 and the second in 2018. The data collected refer to the building height and the presence or absence of building setbacks in constructions. The surveys pointed to an increase in the number of buildings, especially buildings with more than 13 floors, about 78%, the growth of 17% of buildings with frontal and/or lateral setbacks was also pointed out, in relation to the first survey. Avenida Brasil follows its historic trend of verticalization, induced by the planning instruments and the real estate sector, by replacing low-gauge typologies with no setbacks with high-gauge ones with the presence of setbacks, maintaining the commercial characteristic and resuming the residential characteristic through buildings of mixed use, thus contributing to the creation of a compact city. © 2020 Editora CHAMPAGNAT. All rights reserved.",
+    "source": "Urbe"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

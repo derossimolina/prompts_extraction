@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0974-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Engage with Illicit Financial Flows",
+    "authors": "Erskine A.",
+    "year": "2019",
+    "doi": "10.1080/17521440.2019.1603266",
+    "abstract": "Illicit financial flows is a concept which will influence legal and regulatory developments for financial markets for the next decade and beyond. This note is intended to alert the sector and its lawyers and help them engage with the concept and its practical evolution. United Nations member countries are moving to meet their commitments to achieving Sustainable Development Goals, which include reducing illicit financial flows by 2030. It outlines some of the decisions that need to be made to make effective the commitment. Actions to curb illicit financial flows are being discussed and implemented, both locally and globally. This perspective suggests that it will be rewarding if some in banking and financial markets help those seeking to curb illicit financial flows. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Law and Financial Markets Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

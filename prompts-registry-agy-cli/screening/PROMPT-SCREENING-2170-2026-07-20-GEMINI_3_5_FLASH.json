@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2170-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The offshore trust: A catalyst for development",
+    "authors": "Belle Antoine R.",
+    "year": "2007",
+    "doi": "10.1108/13590790710758486",
+    "abstract": "Purpose To illuminate a new field of legal study – offshore financial law, especially the offshore trust and how it impacts on financial crime. Design/methodology/approach Analytical approach to case law and legislation relevant to the topic. Findings Offshore financial law and offshore trusts are innovative, dynamic vehicles for trust and tax planning internationally but have to address avenues for financial crime. Originality/value Original and pioneering research into a new area of law. Practitioners in finance law, trusts and tax, academics, legal regulators, accountants and other finance practitioners will find it particularly helpful. © 2007, Emerald Group Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

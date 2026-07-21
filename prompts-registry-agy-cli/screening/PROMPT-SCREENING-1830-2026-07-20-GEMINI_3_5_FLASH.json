@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1830-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "‘Traffickers and Their Victims’: Anti-Trafficking Policy in the United Kingdom",
+    "authors": "Sharapov K.",
+    "year": "2017",
+    "doi": "10.1177/0896920515598562",
+    "abstract": "This paper relies upon the ‘what’s the problem represented to be?’ approach to policy analysis to interrogate key representations of human trafficking implicit in the UK government’s anti-trafficking policy. It identifies six policy vectors, or representations, of human trafficking embedded within the policy, including organized crime, ‘illegal’ immigration, and victim assistance as three primary vectors; sexual exploitation/prostitution, poverty in countries of victims’ origin, and isolated instances of labour law infringements as three secondary vectors. In addition, a series of assumptions, which underlie the current interpretation of trafficking, are also identified. By exploring what the problem of human trafficking is represented to be, the paper also provides an insight into what remains obscured within the context of the dominant policy frameworks. In doing so, it highlights the role of state-capital entanglements in normalizing exploitation of trafficked, smuggled and ‘offshored’ labour, and critiques the UK’s anti-trafficking policy for manufacturing doubt as to the structural causes of human trafficking within the context of neoliberalism. © 2015, © The Author(s) 2015.",
+    "source": "Critical Sociology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

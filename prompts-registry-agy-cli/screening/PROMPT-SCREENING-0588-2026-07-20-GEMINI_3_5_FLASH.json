@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0588-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The dark side of tax havens in money laundering, capital flight and corruption in developing countries: some evidence from Nigeria",
+    "authors": "Otusanya O.J.; Adeyeye G.B.",
+    "year": "2022",
+    "doi": "10.1108/JFC-02-2021-0044",
+    "abstract": "Purpose: This paper aims to assess the role of secrecy jurisdictions in providing supply-side stimulants for illicit financial flows from developing countries and how the tax havens structures shape the role of actors. Specifically focussing on decades of trade liberalisation and markets, and of increasingly rapid movement of people, capital and information across regions and around the globe, the paper draws on the political economy theory of globalisation to illuminate the connections between capital flight, money laundering and global offshore financial centres (OFCs). Design/methodology/approach: The paper uses publicly available evidence to shed light on the role played by tax havens in facilitating money laundering, capital flight and corruption. The issues are illustrated with the aid of case studies. Findings: The evidence shows that, in pursuit of organisational and personal interest, the tax havens create enabling structures that support illicit activities of the political and economic elites from developing countries. The paper further argues that the supply-side of corruption severely limits the possibilities of preventing corruption in developing countries. Research limitations/implications: The paper uses publicly available evidence to illuminate the role played by OFCs in facilitating elite corruption and money laundering practices. Practical implications: It is impossible to quantify the volume of money laundered, but it has been estimated that money laundering may account for as much as 5% of the world economy. Social implications: The paper, therefore, suggests that unless this supply-side of corruption is tackled there is little prospect for an end to aid dependency and the creation of economically stable and democratic states in developing countries. Originality/value: The paper examines predatory practices of the international financial industry in tax havens and OFCs in facilitating money laundering, corruption and capital flight and the challenges posed for the economic development of developing countries. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

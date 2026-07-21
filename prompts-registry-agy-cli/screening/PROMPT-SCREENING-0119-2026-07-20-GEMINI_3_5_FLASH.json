@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0119-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "“Agentic” cluster aggression: KIBS auditors and law firms as key tax haven drivers",
+    "authors": "Cooke P.",
+    "year": "2024",
+    "doi": "10.1108/CR-07-2023-0159",
+    "abstract": "Purpose: The purpose here is to show how the “shadow” economy has grown in scale and impetus in recent years, though even before modern times it has been present (e.g. the City of London, Shaxson, 2011) since at least the middle ages. The reasons for this have become complicated, but we can identify some “deep structures” that are common. Firstly, “globalisation” made it easier for multinationals to escape national regulatory regimes. Secondly, one of the ways neoliberal trading regulations allowed such actors to augment their assets was by means of what they initially called “transfer-pricing” but which now is officially known as “profit shifting” through tax havens. Thirdly, the growth in international trade in legal and illegal ways caused money laundering – even by otherwise respectable banks – to grow across borders. Conversely, from the supply-side, tax haven status was increasingly accessed by jurisdictions that sought to achieve economic growth by supplying tax haven services, both Delaware and Ireland as exemplars of a “developmental” fiscal policy. Design/methodology/approach: This paper adopts a “pattern recognition” design, an approach that is abductive, meaning interpretive, as shown in the observation that explanation can be valid or reliable without direct observation. This is shown in the indirect observation that “rain fell because the terrace has puddles” or “ancient glaciers once carved this valley”. Findings: Reviewing the European Union’s (EU) list of non-co-operating jurisdictions in support of the OECD’s review of base erosion and profit-shifting activity, Collin concluded the EU’s listing “moved the needle” somewhat but was only a modest success. This is because of its reluctance to sanction its own members or large economies like the USA. Data on foreign direct investment and offshore banking assets suggest listed jurisdictions did not suffer notably from being named and shamed. In all cases studied, this contribution found legally damaging, fraudulent, conflict of interest and corrupt practice activities everywhere. Originality/value: The originality is found in three spheres. Firstly, the pattern recognition method was vindicated in yielding hard to research results. Secondly, the “assemblage-thirdspace” theory was found advantageous in demonstrating the uneven geography of tax haven clusters and their common history in turbocharging economic development. Finally, the empirics showed the ruses executed by cluster members in tax havens to circumvent the law from global management consultancies to micro-firms consisting of tax lawyers and other experts interacting in knowledge supply chains of dubious morality. © 2023, Emerald Publishing Limited.",
+    "source": "Competitiveness Review"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

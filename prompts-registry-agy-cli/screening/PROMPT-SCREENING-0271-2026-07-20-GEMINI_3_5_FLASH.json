@@ -1,0 +1,27 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0271-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Modeling and optimal control of nonlinear fractional order chaotic system of factors affecting money laundering: genetic algorithms and particle swarm optimization",
+    "authors": "Mohammadi S.; Hejazi S.R.; Saeidi H.; ElahiShirvan G.",
+    "year": "2025",
+    "doi": "10.1080/00036846.2024.2333713",
+    "abstract": "The purpose of this article is to model and optimally control the non-linear chaotic system of the fractional order of factors affecting money laundering. The model of factors affecting money laundering was expressed as a system of fractional order differential equation. Due to the presence of chaos in this model, optimal control was provided for it. For optimal control of the chaos in the proposed model, particle swarm optimization algorithm and genetic algorithm were used. The implementation and simulation of this research was done by coding in MATLAB software. The results of the research show that the optimal control applied to the model can control the factors affecting money laundering. When the controller is applied from scratch, the results of the genetic algorithm method are excellent. All the results obtained for the particle swarm optimization method show that this method is also very successful and the results are very close to the genetic algorithm method. Due to the necessity of conducting this research, it can be mentioned that money laundering as an economic crime has a significant negative impact on the economic growth and development of countries. © 2024 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Applied Economics"
+  },
+  "output": {
+    "decision": "Uncertain",
+    "reasoning": "O artigo foi classificado como Dúvida (Uncertain) pois apresenta modelo computacional/transacional aplicado a crimes financeiros/lavagem, porém sem foco claro em comportamento organizacional criminoso estruturado ou em rede de atores. Encaminhado para adjudicação humana.",
+    "criteria_met": [
+      "Método (Simulação (ABM/GABM/Monte Carlo))",
+      "Contexto (Sistema financeiro/transacional)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

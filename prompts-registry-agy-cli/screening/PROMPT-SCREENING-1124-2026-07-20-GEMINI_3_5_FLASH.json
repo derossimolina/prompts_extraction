@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1124-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Coercive rentier networks: \"Land Mafias\" in Neoliberal India",
+    "authors": "Levien M.",
+    "year": "2021",
+    "doi": "10.1525/sod.2021.7.2.159",
+    "abstract": "In India today, the term \"land mafia\"is widely applied to those engaged in land-related corruption. What is unclear is the sociological phenomenon to which the term \"mafia\"refers, and what it indicates about capitalism in contemporary India. Based on ethnographic fieldwork in the state of Rajasthan, combined with analysis of court decisions and newspaper articles, I argue that land mafia discourse identifies informal land-grabbing practices that have become extremely widespread across India. These practices are undertaken not necessarily by criminal organizations but by diffuse coercive rentier networks that cross the public-private divide. These networks have been strengthened by the liberalization of India's economy, and particularly its real estate market, and their entrenchment poses a major obstacle to \"good governance\"reforms. India's land mafias thus expose important weaknesses in the dominant approaches to corruption and suggest the need to take seriously the synergies between capitalism, coercion, and corruption. © 2021 by the Regents of the University of California. All rights reserved.",
+    "source": "Sociology of Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

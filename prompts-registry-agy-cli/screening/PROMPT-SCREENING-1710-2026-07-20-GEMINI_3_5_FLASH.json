@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1710-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Using technology transfer offices to foster technological development: A proposal based on a combination of articles 66.2 and 67 of the TRIPS agreement",
+    "authors": "Chakroun N.",
+    "year": "2017",
+    "doi": "10.1111/jwip.12077",
+    "abstract": "The paper is based on the premise that setting up technology transfer offices (TTOs) should be envisaged as part of a more comprehensive strategy for fostering technological development. Its central argument is that developing countries will not be in a position to fully benefit from technology transfer if they suffer a lack of organisations capable of managing these transactions. Invigorating article 66.2 mainly by shifting its focus from incentives to enterprises to technical cooperation as set out by article 67 is recommended. Setting up an innovation strategy with an adequate intellectual property policy is the foundation for the creation of a sound and viable technological base. Structuring TTOs to play a key intermediary role between the producers and the receivers of the technology is fundamental. Establishing a funding mechanism and staffing TTOs are crucial aspects of the technical cooperation as much of the expertise needed in relation to technology transfer is lacking in the developing countries. © 2017 The Authors. The Journal of World Intellectual Property © 2017 John Wiley & Sons Ltd",
+    "source": "Journal of World Intellectual Property"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1646-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Value in business and industrial marketing: Past, present, and future",
+    "authors": "Lindgreen A.; Hingley M.K.; Grant D.B.; Morgan R.E.",
+    "year": "2012",
+    "doi": "10.1016/j.indmarman.2011.11.025",
+    "abstract": "This article offers an overview of research on the 'value' that businesses and industrial marketers analyze, create, and deliver. First, value literature (up to and around 2005 and post 2005) is discussed. This review highlights the changes in our notions of value and helps to identify seven areas for consideration that should drive future research: value proposition, relationship form, capabilities management, value metrics, temporal horizon, innovation imperative, and tactical focus. Following this depiction of value analysis, value creation, and value delivery, we present a process model for value orchestration in business and industrial marketing. Three activities collectively form the basis of value orchestration, namely structuring activities, bundling activities, and leveraging of resources. © 2011 Elsevier Inc.",
+    "source": "Industrial Marketing Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

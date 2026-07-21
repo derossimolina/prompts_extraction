@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2275-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "THE IMPACT OF DIRTY MONEY ON BEHAVIORAL ASPECTS OF FINANCIAL ENTITIES IN THE POST-WAR UKRAINIAN ECONOMY",
+    "authors": "Honcharenko, I; Berezhna, L; Berezina, O; Bojnicka, N",
+    "year": "2025",
+    "doi": "10.55643/fcaptp.6.65.2025.4918",
+    "abstract": "The article studies the influence of dirty money on the activities of behavioral finance entities in the post-war period of the Ukrainian state through the tools and structures of the financial market. The aim of the work is to identify the mechanisms and extent of the impact of illegal cash flows on the financial decision-making of investors, enterprises, and other financial market participants in the post-war transformation of the Ukrainian economy. The study uses a set of methods to achieve this goal: systematic analysis of financial flows, statistical and econometric analysis of behavioral models of financial agents, as well as content analysis of legislative and regulatory documents on combating money laundering. Special attention is paid to assessing changes in the behavioral strategies of financial market participants caused by the so-called dirty money, as well as the role of financial institutions in minimizing risks and abuse. The results of the study show that dirty money significantly affects the behavior of financial market participants, generating a number of negative effects: distortion of the information field, increased financial instability, increased risk levels, and weakening confidence in institutions. At the same time, it is revealed that the effectiveness of state regulatory measures and the development of institutional mechanisms of financial control play a key role in curbing the negative impact and increasing the transparency of market processes. Based on the results of the study, recommendations were formed to improve the systems of countering the legalization of proceeds from crime, as well as to adapt the behavioral models of financial entities to the new challenges of the post-war period. The proposed mechanisms make it possible to increase the stability of the financial system of Ukraine, promote investment attraction, and create a healthy economic environment.",
+    "source": "FINANCIAL AND CREDIT ACTIVITY-PROBLEMS OF THEORY AND PRACTICE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

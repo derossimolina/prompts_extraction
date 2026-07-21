@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0051-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Improvement of internal customer service: strategies for supply management",
+    "authors": "da Silva Dias R.; da Silva A.A.; de Medeiros A., Junior",
+    "year": "2026",
+    "doi": "10.1504/IJPM.2026.151113",
+    "abstract": "The economic context of Industry 4.0 demands organisational strategies in the face of uncertainties and market fluctuations. In this scenario, supply management is essential to ensure companies remain competitive. This article presents the steps followed in elaborating a proposal to optimise the acquisition processes of inputs/services to improve the quality level in supply management of a Brazilian institution of education and health. To this end, we used the business problem-solving methodology with the support of the transaction cost economics theory. The solution allowed structuring of the service to the requesting areas from the beginning of the demand, reducing the asymmetry of information and feasibility of the acquisition of an e-procurement tool, whose first simulations pointed to gains in the order of four million reais (R$) compared to the process carried out manually and an approximate saving of R$875,000 in five years. Copyright © 2026 Inderscience Enterprises Ltd.",
+    "source": "International Journal of Procurement Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

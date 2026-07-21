@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1064-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CRYPTOCURRENCIE’S REGULATION: ANTI-MONEY LAUNDERING POLICY; [REGULAÇÃO DAS CRIPTOMOEDAS: POLÍTICA ANTI-LAVAGEM DE DINHEIRO]",
+    "authors": "De Sousa Santana H.L.; Moraes F.A.",
+    "year": "2019",
+    "doi": "10.21902/Revrima.v1i22.3959",
+    "abstract": "This research carried out through bibliographic survey and current legislation, in order to identify how the Brazilian State has sought to adapt to international guidelines to combat the crime of money laundering practiced through cryptocurrencies. To this end, after contextualizing the cryptocurrency universe, it will be exposed how the international community is positioning itself against the need to regulate this activity, especially the objective of avoiding and mitigating the risks of money laundering. Afterwards, a comparison will be made between the norms in force in Brazil and the national regulatory trends, through the observation of the project of law that are being processed. The conclusion is that, in spite of Brazil there is a project of law that faithfully meets the international guidelines for combating money laundering through cryptocurrencies, there is no current rule that meets, even if minimally, any of these requirements. © 2019, Centro Universitario Curitiba - UNICURITIBA. All rights reserved.",
+    "source": "Relacoes Internacionais no Mundo Atual"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

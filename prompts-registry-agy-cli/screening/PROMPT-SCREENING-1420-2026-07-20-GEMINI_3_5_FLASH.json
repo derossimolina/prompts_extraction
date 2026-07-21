@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1420-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The effects of knowledge orders on climate change policy in urban land management and real estate management: a case study of three German cities",
+    "authors": "Hofmann M.; Müller N.D.; Stankiewicz C.J.; Pfnür A.; Linke H.J.",
+    "year": "2015",
+    "doi": "10.1080/17535069.2015.1051381",
+    "abstract": "Local climate policy depends on a transformation of the built environment. In urban areas, the built environment is largely an integrated product of land management and real estate management. This paper examines the effects of sense-making on urban climate policies in the built environment. Three major German cities are analysed in a comparative case study. The structuring element for both qualitative and quantitative data analyses is the concept of knowledge orders (Heinelt and Lamping in this issue). This study demonstrates the important role that the selection of beliefs, ideas and knowledge play in the development of local strategies against climate change by identifying a strong relationship between local knowledge orders and climate policy. The paper contributes to the urban policy literature by improving the understanding of local differences, including how knowledge orders affect land management and real estate management. © 2015 Taylor & Francis.",
+    "source": "Urban Research and Practice"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

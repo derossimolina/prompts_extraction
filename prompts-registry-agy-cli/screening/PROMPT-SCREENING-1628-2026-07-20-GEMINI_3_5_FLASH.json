@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1628-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "All-day schools and sport clubs as cooperation partners: Searching for approaches in organizational theories; [Ganztagsschulen und Sportvereine als außerschulische Partner: Auf der Suche nach organisationstheoretischen Zugängen]",
+    "authors": "Thieme L.",
+    "year": "2017",
+    "doi": "10.1515/sug-2017-0017",
+    "abstract": "Based on empirical data of the organizational behaviour of all-day schools and sports clubs, we address the question which general organizational theories can provide approaches for explaining the co-operation. After a criterion-based identification of organizational theories, we carry out an explorative hypothesis-based empirical study of the transaction cost theory, the evolutionary theory and the theory of structuring using longitudinal data from the German state Rhineland-Palatinate. The transaction cost theory appears to be able to explain the cooperative behaviour of sports clubs, but not yet of all-day schools. The evolutionary theory contributes to the explanation of the stability in the population of all-day schools as well as of the change in some of the co-operation partners. The theory of structuring does not seem to be applicable. Thus, the cooperative behaviour of all-day schools cannot be interpreted in compliance with the theory of structuring and with the evolutionary theory. © 2017 Walter de Gruyter GmbH, Berlin/Boston.",
+    "source": "Sport und Gesellschaft"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

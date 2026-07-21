@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1589-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Statutory obligations for banks to comply with the anti-money laundering legislation in Malaysia: Lessons from the United Kingdom",
+    "authors": "Yasin N.M.",
+    "year": "2015",
+    "doi": "10.1057/jbr.2014.21",
+    "abstract": "As a result of the existence of the 'Forty Recommendations', all countries are expected to have anti-money laundering and anti-terrorism financing legislation and regulations. Because most national legislation came into being due to the existence of the Recommendations, the laws of all countries ought to be in pari materia with each other. To illustrate this fact, this article will compare United Kingdom and Malaysia legislation and regulation and how they match each other. The focus is on banks because although money launderers use many methods to clean their dirty money, the banking system is still a popular way to launder money. The article will look at Part 4 of the Malaysian Anti-Money Laundering and Anti-Terrorism Financing Act 2001 (AMLATFA) and its UK equivalent. It can be seen that despite banks being subject to regulation for at least 20 years, banks in countries such as the United Kingdom are still being given huge fines for not having adequate anti-money laundering procedures. © 2015 Macmillan Publishers Ltd.",
+    "source": "Journal of Banking Regulation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

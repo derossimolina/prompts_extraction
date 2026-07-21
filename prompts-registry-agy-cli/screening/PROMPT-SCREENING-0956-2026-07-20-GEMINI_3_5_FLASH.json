@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0956-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ASSESSMENT OF THE CURRENT STATE OF THE USE OF NON-MONETARY METHODS OF STATE REGULATION OF FINANCIAL RECOVERY OF BANKS",
+    "authors": "Stadniychuk R.",
+    "year": "2021",
+    "doi": "10.15587/2706-5448.2021.225700",
+    "abstract": "The object of research is the processes of state regulation of financial recovery of banks by non-monetary methods. One of the most problematic areas is determining the practical aspects of regulating the financial recovery of banks by non-monetary methods, which include: – establishment of mandatory requirements for banking services and business processes; – carrying out checks and taking measures in the event of a violation; – establishment of methods of organizing or conducting banking activities in the process of financial recovery; – licensing rules. An important aspect is the identification of factors that exacerbate the problems of the banking system, in particular, lead to large-scale lending to related parties; opaque ownership structure; inaccurate financial statements; fictitious accounts in foreign banks; money laundering and the like. Improvement of state regulation of financial recovery of banks through the use of preventive measures is possible with the effective use of non-monetary methods of such regulation. The study used methods of analysis and synthesis, induction and deduction, methods of systematization and comparison, tabular and graphical methods. The composition of monetary instruments and their features have been determined. The proposed measures for non-monetary regulation of financial recovery of banks are related to: – improving the procedure for disclosing information on the ultimate owners of the bank; – strengthening the responsibility of banks for the results of their activities; – improving the mechanisms for minimizing credit risks for banks both at the stage of issuing a loan and at the stage of its servicing; – improving the procedure for financial restructuring of problem assets of banks; – set of recreational measures to restore the bank’s solvency, prevent bankruptcy or increase its competitiveness. The use of non-monetary methods of financial recovery and the introduction of the requirements of European legislation into national banking practice testifies to the improvement of state regulation of financial recovery of banks, protects them from insolvency and ensures development. © The Author(s) 2021.",
+    "source": "Technology Audit and Production Reserves"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

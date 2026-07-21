@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1944-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Structuring change: Training and recruitment in retail banking in Germany, Britain and France",
+    "authors": "Quack S.; O'Reilly J.; Hildebrandt S.",
+    "year": "1995",
+    "doi": "10.1080/09585199500000047",
+    "abstract": "This paper compares recent developments in the recruitment and training practices of retail banks in Germany, Britain and France. It examines how common competitive pressures have resulted in companies adopting significantly different solutions to these challenges. This is largely due to the constraints and opportunities created by national as well as particular sectoral institutional arrangements in each country. As a result of the behaviour of individual banks, sectoral training providers and state-guided training institutions, the creation of a pool of highly skilled labour with higher levels of individual motivation varies between the countries. This research shows how by cooperating at both the sectoral and the national level companies can reduce the problem of free riders and benefit from a general improvement in the quality of available labour. However, this problem has been more successfully managed in France and Germany than in the UK. © 1995, Taylor & Francis Group, LLC. All rights reserved.",
+    "source": "The International Journal of Human Resource Management"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

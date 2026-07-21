@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0099-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "How Criminal Organizations Expand to Strong States: Local Agreements and Migrant Exploitation in Northern Italy",
+    "authors": "Dipoppa G.",
+    "year": "2025",
+    "doi": "10.1086/730729",
+    "abstract": "The widespread presence of criminal organizations in strong states presents a theoretical and empirical puzzle. How do criminal organizations—widely believed to thrive in weak states—expand to states with strong capacity? I argue that criminal groups expand where they can strike agreements with local actors for the provision of illegal resources they control. This service is particularly useful in strong states, where illegality carries higher risks. Using a novel measure of mafia presence, I show that mafias’ expansion was successful in places with an increased demand for informal unskilled labor and where mafias could fill this demand by offering migrant labor from mafia-affected areas. Organized crime expansion relied on deals with local actors needing to keep illegal transactions hidden from the state—a service critical in strong states. Rather than just substitutes to weak states, criminal organizations should be reconceptualized as also offering services useful in strong state contexts. © 2025 Southern Political Science Association. All rights reserved.",
+    "source": "Journal of Politics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

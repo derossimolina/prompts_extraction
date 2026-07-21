@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1237-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Microaccountability and biopolitics: Microfinance in a Sri Lankan village",
+    "authors": "Alawattage C.; Graham C.; Wickramasinghe D.",
+    "year": "2019",
+    "doi": "10.1016/j.aos.2018.05.008",
+    "abstract": "Based on a micro-level study of microfinance, this paper explores how basic accounting technologies and interpersonal accountability are used to make lending to poor village women profitable and low risk. We argue that “microaccountability,” our term for the structuring and formalization of convivial relationships into a capillary system of accountability, must be recognized as a central tool of social governance under neoliberalism. Our field research in Sri Lanka allows us to analyse how microaccountability is employed by for-profit banks to create from poor villagers a legion of bankable individual entrepreneurs, trained to invigilate each other's savings and credit behaviours. Using the theoretical lens of biopolitics, we show how microaccountability enables the extension of the finance industry into untapped sectors of the global population. © 2018 Elsevier Ltd",
+    "source": "Accounting, Organizations and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

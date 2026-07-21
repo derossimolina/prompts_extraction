@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0455-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Laundering of cryptoassets from the perspective of investigative hypothesis: mixing-services and criminal investigation; [Lavagem de criptoativos pela ótica da hipótese investigativa: os mixing-services e a investigação criminal]",
+    "authors": "Bechara F.R.; Bellizia M.M.S.",
+    "year": "2025",
+    "doi": "10.22197/rbdpp.v11i2.1173",
+    "abstract": "The objective of this article is to identify the elements necessary to open a preliminary investigation to determine the crime of money laundering carried out through cryptocurrencies, more specifically in cases in which the agent, in the operation of financial transactions for that purpose, uses of so-called mixing-services (mixing services or tumblers) to hide the illicit origin of the values or goods to be reintegrated into the formal economy with the appearance of lawfulness. Therefore, it seeks to answer the following question: what should be measured by the investigating agents to formulate an investigative hypothesis in cryptolaundering handled by the mixing-services? The relevance of the proposed discussion arises from the fact that financial assets digitized, encrypted, and registered on blockchain, or “cryptoassets” for the purposes of this research, face particularities in their legal treatment in the criminal field, especially considering their decentralization, pseudoanonymity and globality, establishing an environment conducive to the concealment, dissimulation and integration of capital of illicit origin, which is enhanced by various digital anonymity tools (such as tumblers themselves) and the regulatory gap for cryptoassets in the Brazilian legal system. © 2025 Instituto Brasileiro de Direito Processual Penal. All rights reserved.",
+    "source": "Revista Brasileira de Direito Processual Penal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

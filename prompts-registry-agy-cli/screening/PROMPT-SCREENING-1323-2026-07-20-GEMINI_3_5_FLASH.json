@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1323-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cayman islands corporate law as a tool for innovative CLO warehouse structuring",
+    "authors": "Paschalides P.; Burch J.; Ennis S.; Green K.; Dibben C.",
+    "year": "2019",
+    "doi": "10.3905/jsf.2019.1.084",
+    "abstract": "The Cayman Islands is well known to be the jurisdiction of choice for structured finance transactions due to its robust legislation and judicial framework, its creditor friendly nature, its familiarity to market participants (in particular, rating agencies), and the list goes on. What is less obvious, and arguably more intriguing, is the increased reliance on basic features of Cayman Islands corporate law to facilitate innovative structuring, particularly at the warehouse stage of a collateralized loan obligation transaction, and create greater efficiencies in transaction execution. The existence of these features is not novel; however, their increased adoption is. In this article, the authors explore the most commonly utilized features and the ways in which they support transaction innovation. © 2019 Pageant Media Ltd.",
+    "source": "Journal of Structured Finance"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

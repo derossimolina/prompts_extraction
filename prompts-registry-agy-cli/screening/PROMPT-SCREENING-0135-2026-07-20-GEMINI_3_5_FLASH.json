@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0135-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Leveraging financial interdependencies in emerging markets via graph neural networks",
+    "authors": "Jessen N.B.",
+    "year": "2025",
+    "doi": "10.1016/j.jfds.2025.100168",
+    "abstract": "This study examines the role of interdependencies in forecasting sovereign yield spreads in emerging markets using Graph Neural Networks (GNNs). Sovereign yield spreads reflect economic conditions and investor sentiment, making accurate predictions crucial for investors, policymakers, and financial institutions. Traditional forecasting models often treat sovereign risks in isolation, failing to account for financial spillovers and cross-country linkages. By structuring sovereign bonds within a graph-based framework, this study explicitly models these interdependencies to improve predictive accuracy. Using macroeconomic indicators such as GDP, inflation, and foreign exchange reserves, countries are represented as nodes in a financial network, with edges capturing key economic relationships. A Graph Convolutional Network (GCN) is trained to predict sovereign yield spreads, and its performance is benchmarked against a structurally identical feed-forward neural network, where the only difference is the use of graph convolution layers or dense layers. The results show that the GCN model consistently outperforms the feed-forward model, particularly in predicting extreme yield spread movements, demonstrating the importance of accounting for financial interdependencies. Our findings underline the potential of GNNs as a powerful tool in forecasting sovereign yield spreads in emerging markets. Considering the economic impact of these spreads, GNNs could present significant benefits for financial sector stakeholders. © 2025 The Authors.",
+    "source": "Journal of Finance and Data Science"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

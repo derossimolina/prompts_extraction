@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2026-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The implications for intermediaries in handling innocently or otherwise the proceeds of corruption",
+    "authors": "Tugendhat M.",
+    "year": "2003",
+    "doi": "10.1108/13590790310808637",
+    "abstract": "Reports a case study concerning two individual defendants, SK and F, who were intermediaries in a case of large-scale fraud during the Gulf War; the Grupo Torras SA GT sued them in order to recover money lost, and the case illustrates the circumstances in which intermediaries can be held liable in such frauds. Outlines first the case of SK; he was Deputy General Manager of GT and claimed to have received money because of a supposed management buyout; the court accepted that his explanations might be true and he was acquitted of conspiracy in the fraud. Moves on to F, a lawyer who gave advice which enabled shell companies to be set up fraudulently, and failed to ask questions about the transactions; he was found to be liable for the losses. © 2002, MCB UP Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

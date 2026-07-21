@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1971-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Migration and informal work in the new Berlin: new forms of work or new sources of labour?",
+    "authors": "Wilpert C.",
+    "year": "1998",
+    "doi": "10.1080/1369183X.1998.9976633",
+    "abstract": "One of the central questions with respect to migration and the informal labour market is which comes first: the de-regulation of working relations or the availability of new sources of cheap and docile labour. Today the notion is spreading that the growth of unemployment and low waged precarious jobs in an informal or shadow economy is a direct function of the 'influx' of new 'illegal' migrants. This article illustrates how politics to control foreign entry are ambivalent. Despite the avowed princple of not being a country of immigration, continuous exceptions have been made to permit the restricted access of temporary workers. The major patterns for the 'new' migration were set by foreign and guestworker policies adopted during post-war reconstruction. New programmes were initiated in connection with the asylum compromise and the transformations in Germany and Eastern Europe. This article demonstrates that the main forces bringing about restructuring and deregulation were put into place in the mid-1980s independently of a new source of undocumented foreigners. Transformations in the economy comprised a number of factors including technological change, growth of the service sector, increase of part time labour, an increase in temporary and precarious jobs and growing unemployment. These changes were already in process in 1991 when borders of Eastern Europe were beginning to open.; This article focuses on the growing informalization of work, which refers to the strategies that aim to avoid state control and its identification with new migration streams in Berlin. The growth of unemployment and low-waged precarious jobs in an informal or shadow economy is said to be a result of the influx of new illegal migrants. Although Germany does not consider itself as a country of immigration, continuous exceptions have been made to permit the restricted access of temporary workers. The major patterns for new migration were shaped by policies adopted during post-war reconstruction. Programs were started in connection with the asylum compromise and the transformations in Germany and eastern Europe. The informalization of work has gained a new significance in the post-unification era. In conclusion, the diverse processes of re-structuring, deregulation, and migratory labor movements combined with the total lack of acceptance of the notion that Germany is a country of immigration, have created new sources of undocumented skilled and unskilled labor for an expanding informalized sector of the labor market.",
+    "source": "Journal of Ethnic and Migration Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

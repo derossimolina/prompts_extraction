@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2164-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Testing the global financial transparency regime",
+    "authors": "Sharman J.C.",
+    "year": "2011",
+    "doi": "10.1111/j.1468-2478.2011.00693.x",
+    "abstract": "How can we tell whether rules that apply in theory actually do so in practice? Realists argue that the gap between what formal rules proscribe and their effectiveness may be particularly wide at the international level. Furthermore, dominant states may impose costly standards on others that they themselves choose not to implement. To test these propositions, the article assesses the effectiveness of international soft law standards prohibiting anonymous participation in the global financial system by seeking to break these standards. The findings indicate that the prohibition on anonymous corporations is relatively ineffective and is flouted much more in G7 countries than in tax havens. The article contributes to and extends the work of realist scholars in international political economy, both in their skepticism of formal rules and focus on the effects of power. Evidence is drawn from the author's solicitations and purchases of anonymous shell companies from 45 corporate service providers in 22 countries. © 2011 International Studies Association.",
+    "source": "International Studies Quarterly"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

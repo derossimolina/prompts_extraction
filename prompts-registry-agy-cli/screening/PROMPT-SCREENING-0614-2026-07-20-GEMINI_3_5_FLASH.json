@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0614-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Appraisal of the regulatory frameworks for combatting money laundering in Nigeria",
+    "authors": "Ige A.A.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-02-2021-0013",
+    "abstract": "Purpose: A review of literature revealed that many publications on efforts at combatting money laundering focus on two frameworks, namely, legal/legislative and institutional, while overlooking the third and equally important framework – the “regulatory/ supervisory framework.” This paper aims to eradicate the dearth in literature with regards to this third and seldom acknowledged framework and it aims at filling that gap. Design/methodology/approach: The analysis took the form of a desk study, which distinguished the three frameworks for combatting money laundering and provided a comprehensive list of the main actors in each regime within the Nigerian legal context. The Money Laundering (Prevention and Prohibition) Act, 2016 was examined in detail. Findings: Three categories of regulators were identified and discussed in this paper: the supervisory bodies that regulate the activities of financial institutions, namely, Central Bank of Nigeria, Securities and Exchange Commission and Nigerian Insurance Commission; The Bureau for Money Laundering Control which supervises – designated non-financial institutions and businesses; the Attorney General of the Federation; and (Self-Regulatory Organizations. The Attorney General of the Federation was identified as the prime regulator within the context of the 2016 Act. Suggestions on how the regulators could make the most of their roles were made in the concluding part. Research limitations/implications: This paper only considered the Nigerian legal context and only the extant law – the Money Laundering (Prevention and Prohibition) Act, 2016 was critically examined. Originality/value: The findings in this paper and the writing approach are original. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

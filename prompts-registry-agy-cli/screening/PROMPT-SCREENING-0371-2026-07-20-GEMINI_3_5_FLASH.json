@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0371-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cybercriminal Networks and Operational Dynamics of Business Email Compromise (BEC) Scammers: Insights from the “Black Axe” Confraternity",
+    "authors": "Lazarus S.",
+    "year": "2025",
+    "doi": "10.1080/01639625.2024.2352049",
+    "abstract": "I explored the relationship between the “Black Axe” Confraternity and cybercrime, with a particular emphasis on the structural dynamics of the Business Email Compromise (BEC) schemes. I investigated whether a conventional hierarchical system governs the membership and remuneration for BEC roles as perpetrators by interviewing an accused “leader” of the “Black Axe” affiliated cybercriminal incarcerated in a prominent Western nation. I supplemented the analysis of interview data with insights from tapped phone records monitored by a law enforcement entity. I merged Actor-network theory and Social Network theory as analytical frameworks and thematically analyzed data to produce six overarching themes: (1) The fluidity of Structure and Adaptive Roles in BEC, (2) Challenges in Visualizing Criminal Networks, (3) Globalization and Transnational Dimensions, (4) Social and Cultural Influences, (5) Internal Cybersecurity Threats and Money Laundering, and (6) Remuneration and Influences of Cryptocurrency, casting a brighter light on the topic. Unlike traditional organized crime, BEC scammers have adopted a nonhierarchical model that is flexible and fluid. I found no evidence of a rigid hierarchy dictating positions and remuneration for BEC roles. Instead, I observed that cybercriminals involved in BEC activities functioned horizontally, promoting fluidity, maneuverability, collaboration, and specialization across various facets of their illicit pursuits. I also highlighted the cross-border links BEC offenders have with other criminal actors facilitated by Black Axe organizational machinery. My research adds value to the existing body of knowledge, utilizing a unique dataset comprising direct testimonies of a high-profile BEC offender affiliated with the ‘hard–to–access,’ Black Axe gang. © 2024 The Author(s). Published with license by Taylor & Francis Group, LLC.",
+    "source": "Deviant Behavior"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

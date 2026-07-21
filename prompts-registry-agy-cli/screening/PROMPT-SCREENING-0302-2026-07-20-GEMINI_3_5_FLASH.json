@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0302-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The ambiguity, opaqueness and consequences of FATF's remittance regulatory strategies: The case studies of Somalia and Nigeria",
+    "authors": "Muse M.A.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2025.100156",
+    "abstract": "The international approaches to remittance regulations and policymaking have significantly changed in the last two decades. New regulatory frameworks that aim to protect remittances from illicit flows, such as money laundering and terrorism financing, have emerged. Remittance-sending and receiving jurisdictions must adopt and comply with the new regulatory frameworks for protecting remittances from illicit uses. These regulations emerged from standard-setting agencies in the West. The focus of this article is on one of these agencies, known as the Financial Action Task Force (FATF), which has developed a set of forty-nine recommendations for combating money laundering and terrorism financing. The article critically analyses remittance regulatory frameworks as part of broader AML/CFT frameworks in Nigeria and Somalia. The article uses data collected from Somalia and Nigeria between May 2023 to May 2024. The arguments of the article are twofold. Firstly, FATF's ambiguous remittance regulatory frameworks challenge domestic financial institutions in Nigeria and Somalia. Second, due to its ambiguity and challenges, FATF's remittance regulatory frameworks contribute to the financial exclusion of banked remitters in Somalia and Nigeria. This is mainly due to the unrealistic know-your-customer requirements of the FATF and the limited institutional capacity of local AML/CFT regimes in Somalia and Nigeria. © 2025 The Author",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

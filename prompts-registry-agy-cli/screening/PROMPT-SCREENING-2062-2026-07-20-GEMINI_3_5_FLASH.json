@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2062-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The sex industry, human trafficking and the global prohibition regime: A cautionary tale from Greece",
+    "authors": "Papanicolaou G.",
+    "year": "2008",
+    "doi": "10.1007/s12117-008-9048-7",
+    "abstract": "Using the concept of global prohibition regimes as an analytical point of departure, this article interrogates the development and results of the agitation campaign that relayed the new global prohibition regime against trafficking for sexual exploitation in Greece after 1995. In line with the international trend towards the issue of trafficking in the 1990s, the Greek campaign has been successful in shaping perceptions of the change in the Greek sex industry on the basis of an equation of prostitution, trafficking and transnational organized crime, and it also successfully capitalized on transnational supports to induce changes in legislation and public policy. However, a critical examination of the Greek situation suggests that there is a considerable discrepancy between the above conceptualisation and the knowledge of the issue emerging from the activities of criminal justice agencies. The examination of the general conditions of economic exploitation and social marginalization of migrants in Greece in the 1990s and after reveals significant homologies between the social organization of the sex industry and other sectors of the economy that have depended on migrant labour. This result underscores the nature of the idea of organized crime as an ideological construct acting as a diversion from more substantive paths of inquiry into the structures of national economy that bear upon the exploitation of sexual labour. © 2008 Springer Science+Business Media, LLC.",
+    "source": "Trends in Organized Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

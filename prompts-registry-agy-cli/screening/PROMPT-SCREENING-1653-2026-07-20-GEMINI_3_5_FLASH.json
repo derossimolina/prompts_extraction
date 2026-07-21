@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1653-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Institutional effects in the adoption of e-business-technology. Evidence from the German automotive supplier industry",
+    "authors": "Hertwig M.",
+    "year": "2012",
+    "doi": "10.1016/j.infoandorg.2012.06.002",
+    "abstract": "This article analyzes the adoption of B2B-e-business technology in German automotive supplier companies during the internet hype period, i.e. in the very early stage of technology diffusion. While from the outset e-business was assumed to be used by companies in order to increase efficiency and reduce costs, some previous IOS research and theoretical considerations suggest that both efficiency and environmental expectations can be important reasons for companies to implement e-business. On this backdrop, the paper analyzes the reasons for e-business technology adoption, focusing on the explanatory value of institutional factors like mimesis, coercion, and normative pressures. Theoretically based hypotheses are developed and tested using regression models with a quantitative data set of more than 1900 companies.The article tries to make an innovative contribution to the field of IOS research, first, by drawing on theories of organizational structuring - new institutionalism, social psychology, and transaction cost economics; second, variation of adoption rationales in different types of companies and different business functions inside a company is taken into account.It appears that the adoption of e-business is explained by external pressures from other customers, bandwagon effects and herding behavior during the e-business hype, and expectations and interests of professionals inside a company. In the 'core' areas of a firm, efficiency rationales play an important role, too. The data reveals that the reasons of e-business usage differ significantly by department and company type. © 2012 Elsevier Ltd.",
+    "source": "Information and Organization"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

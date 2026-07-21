@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0018-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Understanding the Nature of the Transnational Scam-Related Fraud: Challenges and Solutions from Vietnam’s Perspective",
+    "authors": "Luong H.T.; Ngo H.M.",
+    "year": "2024",
+    "doi": "10.3390/laws13060070",
+    "abstract": "Practical challenges and special threats from scam-related fraud exist for regional and local communities in Southeast Asia during and after the COVID-19 pandemic. The rise in pig-butchering operations in Southeast Asia is a major concern due to the increased use of digital technology and online financial transactions. Many of these operations are linked to organized crime syndicates operating across borders, posing challenges for law enforcement. As a first study in Vietnam, we combined the primary and secondary databases to unveil the nature of transnational scam-related fraud. Findings show that scammers are using advanced methods such as phishing, fraudulent investments, and identity theft to maximize their sophisticated tactics for achieving financial possession. There are organized crime rings operating in Vietnam and Cambodia, with Chinese groups playing a leading role behind the scenes. Social media and its various applications have become common platforms for these criminal activities. This study also calls for practical recommendations to consider specific challenges in combating these crimes, including building a strong framework with clear policies, encouraging multiple educational awareness campaigns in communities, enhancing effective cooperation among law enforcement and others, and supporting evidence-based approaches in research and application. While we recognized and assumed that pig-butchering operations with scam-related fraud are a complex problem that requires a well-rounded and coordinated response, the exact approach would depend on each country’s specific circumstances. © 2024 by the authors.",
+    "source": "Laws"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

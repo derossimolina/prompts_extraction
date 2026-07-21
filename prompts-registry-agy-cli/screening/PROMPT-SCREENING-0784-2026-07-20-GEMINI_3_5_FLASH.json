@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0784-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Law of Central Bank Reserve Creation",
+    "authors": "Bateman W.; Allen J.",
+    "year": "2022",
+    "doi": "10.1111/1468-2230.12688",
+    "abstract": "This articleexplores legal and constitutional dimensions of central banks’ powers to create money, ‘central bank reserves’, through monetary policy operations. Despite the prominence of monetary authority since the Financial Crisis, the law supporting the creation of central bank reserves is very obscure, as is the role of law in structuring constitutional authority over money. We de-mystify those important matters in three steps. First, we explain, for a legal audience, the role of central bank reserves in the financial system and broader economy. Secondly, we analyse the legal basis for the creation of central bank reserves in three prominent ‘North Atlantic’ monetary jurisdictions: the US Dollar, Euro and Sterling systems. Thirdly, we show how the legal structure of central banking intermediates the constitutional state's authority over money through parts of the financial system, focusing on high-profile policy proposals, including ‘QE for the people’, and the creation of central bank digital currencies. © 2021 The Authors. The Modern Law Review © 2021 The Modern Law Review Limited.",
+    "source": "Modern Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

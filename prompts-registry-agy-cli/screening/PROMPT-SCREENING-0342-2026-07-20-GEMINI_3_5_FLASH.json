@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0342-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "SINO-BRAZILIAN COOPERATION IN ANALYSIS: BILATERALISM, MULTILATERALISM AND MINILATERALISM",
+    "authors": "Tavares A.; Gasparyan A.; Costa C.M.; Palmeira J.; Duarte P.A.B.; Medeiros S.E.",
+    "year": "2024",
+    "doi": "10.26619/1647-7251.DT0324.2",
+    "abstract": "The current international system is undergoing several structural changes boosted by the so-called Global South, in an attempt to change the norms and structuring organisations built up after World War II under US hegemony. Emerging states, who have a great deal of influence in the international system, often question the westernised nature of global governance and its main institutions, such as the United Nations, the International Monetary Fund and the World Bank. In this context it seems pertinent to study the cases of Brazil and China, who look for changes in the traditional North-South relations that have long failed to reflect the power dynamics resulting from their emergence. To this end, we will pay special attention not only to their bilateral and multilateral initiatives, but also to the potential of minilateralism as a complementary approach in the process, despite often neglected by the literature. Based on this gap, we argue that the interplay between bilateralism, multilateralism and minilateralism is crucial in Sino-Brazilian endeavours to reform obsolete structures for the sake of their own interests and those of the Global South. This being said, the research question that will guide our study is the following: Which role play bilateralism, multilateralism and minilateralism within Sino-Brazilian relations? Focusing on the specific bilateral and mini cooperation dynamics together with the multilateral forums in which China and Brazil are integrated-namely the Asian Infrastructure Investment Bank, the New Development Bank, the BRICS, BASIC, the G20, among others-one can expect the interplay between bilateralism, multilateralism and minilateralism to assume an increasing and complementary role in Sino-Brazilian relations. © 2024, Observare. All rights reserved.",
+    "source": "Janus.net"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0106-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Uncovering Corporate Fraud: Forensic Simulation Applied to The Chiquita Brands Case in Colombia",
+    "authors": "Polo O.C.C.; Silva E.R.L.; Quintero F.A.C.",
+    "year": "2025",
+    "doi": "10.14419/ch23pp24",
+    "abstract": "This article presents a didactic simulation designed as a pedagogical tool, not an empirical investigation, to enhance the teaching of forensic auditing in higher education. The pedagogical use of practical cases for teaching forensic auditing has proven to be an effective tool for students to understand the dynamics of fraud from a critical and empirical perspective (Felski, 2024). Inspired by the dual approach proposed by Felski, where students first \"commit\" fraud and then detect it as forensic auditors, this study replicates the logic in a real-life context, analyzing the documented case of Chiquita Brands International Inc., a company that, according to court documents and testimonies, made systematic payments of more than $1.7 million to paramilitary groups in Colombia between 1997 and 2004, under an accounting structure designed to conceal the illegality of such transactions. The evidence contained in the report submitted to the International Criminal Court reveals that the payments were not only known and authorized by high-level executives but were also integrated into internal accounting systems that deliberately omitted traceability and the true purpose of the transfers. Such practices offer an invaluable opportunity for students to analyze evidence of fraud, document accounting inconsistencies, and examine the mens rea (malicious intent) in the way financial contributions to the AUC, designated a terrorist organization by the U.S. since 2001, were designed and executed. The proposed educational exercise consists of reconstructing the accounting flows and internal control systems used by Chiquita, identifying regulatory gaps, and applying digital forensic audit techniques to uncover how the concealment schemes were structured. It also promotes ethical reflection on individual and corporate responsibility in the commission of financial crimes of international impact. This methodology strengthens not only the technical competence of auditors in training, but also their ethical judgment in complex situations where fraud is masked under strategic \"business\" decisions. © Orlando Carmelo Castellanos Polo et al.",
+    "source": "International Journal of Accounting and Economics Studies"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

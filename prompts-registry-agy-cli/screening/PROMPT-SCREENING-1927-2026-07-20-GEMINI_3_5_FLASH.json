@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1927-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Is there adverse selection in the credit market?",
+    "authors": "Cressy R.; Toivanen O.",
+    "year": "2001",
+    "doi": "10.1080/13691060110052104",
+    "abstract": "Despite a huge theoretical literature on credit markets charaterized by asymmetric information little is known about the structure of real world credit contracts or the nature of the underlying informational regime on which they are predicated. A model is constructed and tested that enables delineation of credit contract features and establishment of the nature of the underlying informational regime. Large sample estimates based on individual loans from a major UK bank are shown to support both the symmetric and asymmetric information variants of the model: better borrowers get larger loans and lower interest rates; collateral provision and loan size reduce the interest rate paid. However, consistent with a regime of symmetric information collateral levels are found to be independent of borrower type. Finally, in line with the insurance literature, the bank is shown to use qualitative as well as quantitative information in the structuring of loan contracts to small businesses. © 2001 Taylor & Francis Ltd.",
+    "source": "Venture Capital"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

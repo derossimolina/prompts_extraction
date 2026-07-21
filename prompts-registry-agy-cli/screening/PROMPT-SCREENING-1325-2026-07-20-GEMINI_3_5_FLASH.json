@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1325-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Law Firm expertise and shareholder wealth",
+    "authors": "Schweizer D.; Wu G.",
+    "year": "2021",
+    "doi": "10.1111/fmii.12152",
+    "abstract": "This paper examines the impact of law firm expertise on bidder and target shareholder wealth gains during mergers and acquisitions. After controlling for endogeneity in the matching between the mandating firm (bidder or target firm) and the law firm, we find that top-tier law firms increase the wealth of bidder shareholders by an average of 2.00% ($30.80 million) to 3.07% ($47.28 million). This does not hold for target firm shareholders. Interestingly, we find no evidence that the reputation of the investment bank is related to bidder or target shareholder wealth gains. Our findings suggest that top-tier lawyers are effective “transaction cost engineers.” They create value for their clients by structuring deals to minimize transaction and regulatory costs. © 2021 New York University Salomon Center.",
+    "source": "Financial Markets, Institutions and Instruments"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

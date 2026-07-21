@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2069-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering",
+    "authors": "Williams P.",
+    "year": "1997",
+    "doi": "10.1080/10220469709545210",
+    "abstract": "On the impeccable logic that the primary aim of criminal organisations is to make money, one response of law enforcement has been to target the money laundering associated with the international drugs trade as a means of discouraging drug trafficking. The United States, through the G‐7's Financial Action Task Force, has played the leading role in the creation of a global anti‐money laundering regime. The main argument of this article is that, in spite of the emphasis being placed on following the money as a way of disrupting transnational criminal organisations, the advantages remain with the criminals. This is because the global financial system presents more opportunities for hiding money than the authorities can hope to forestall, with new technological developments acting to the benefit of those seeking to obscure the source, ownership and movement of money. The game of catch‐up being played by law enforcement agencies is illustrated through case studies. © 1997 Taylor & Francis Group, LLC. All right reserved.",
+    "source": "South African Journal of International Affairs"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

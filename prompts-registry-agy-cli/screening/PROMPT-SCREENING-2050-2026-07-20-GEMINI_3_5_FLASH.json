@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2050-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The fourth member of NAFTA: The U.S.-Mexico border",
+    "authors": "Brown T.C.",
+    "year": "1997",
+    "doi": "10.1177/0002716297550001009",
+    "abstract": "The North American Free Trade Agreement has a fourth member, the U.S.-Mexico border, with 22 million inhabitants, $300 billion in gross domestic product, $100 billion in trade, and a unique history and culture. In 1995, it witnessed some 225 million legal frontier crossings each way, mostly Mexican shoppers, who spent $22 billion in the United States, paid $1.7 billion in taxes, and generated 400,000 jobs but received no services. Balanced against the costs of Mexican illegals, American taxpayers made a 600 percent profit. This made Mexico the United States' second-(not third-) largest trading partner. Paso del Norte (Juárez-El Paso) is the border's capital, a binational metropolis of 2 million. Problems abound, from water, immigration, and drug trafficking to public safety, health, welfare, the environment, and infrastructure. But they are not being effectively addressed because they run east-west (from San Diego to Corpus Christi), while government authority and interests run north-south, to and from Washington, Mexico City, and nine state capitals. A binational bankable Border Authority is urgently needed.",
+    "source": "Annals of the American Academy of Political and Social Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

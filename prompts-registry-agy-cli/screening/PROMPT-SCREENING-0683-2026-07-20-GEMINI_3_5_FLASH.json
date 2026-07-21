@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0683-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Trade-based money laundering and informal remittance services: implications on the sustainability of the balance of payments of a small open economy",
+    "authors": "Jayasekara S.D.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-03-2022-0042",
+    "abstract": "Purpose: This study aims to discuss the consequences of trade-based money laundering (TBML) and informal remittance services on the sustainability of the position of balance of payments and net foreign assets of a small open economy. Design/methodology/approach: This paper uses a case study design using facts related to TBML and informal remittance services on the balance of payment and net foreign assets of Sri Lanka. Findings: The contextual analysis reveals that the growth of the informal economy promotes informal remittance services in Sri Lanka. The policy decision to peg local currency to US dollars as a result of a shortage of foreign exchange had forced people to use informal channels for different purposes. The unclear and vague customer due diligence process of the anti-money laundering and countering the financing of terrorism (AML/CFT) regime also has forced people to use informal remittance services. Criminals especially drug traffickers have grabbed the promoted informal remittance services to transfer proceeds from Sri Lanka to overseas drug suppliers. On the other hand, systematic deficiencies in monitoring and regulation of movement of fund transfers and merchandise across borders provide opportunities for criminals to use different TBML techniques to transfer funds. These limitations force policymakers and regulators to think of developing a comprehensive payment ecosystem to prevent money laundering and terrorist financing. Therefore, the global initiative is required to move towards a payment ecosystem from a recommendation-based AML/CFT regime to reduce global crimes. Research limitations/implications: This study was designed to discuss the implications of TBML and informal remittance services on the balance of payments and net foreign assets in a small open economy. The structure and size of the economy, the strength of the overall economy and the AML/CFT regime will play an important role in controlling criminal activities and combating money laundering of an economy; hence, the impact of TBML and informal remittance services will vary accordingly across the countries Originality/value: This paper is an original work done by the authors, which discusses the implications of TBML and informal remittance services on the balance of payments and net foreign assets of an emerging market context. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

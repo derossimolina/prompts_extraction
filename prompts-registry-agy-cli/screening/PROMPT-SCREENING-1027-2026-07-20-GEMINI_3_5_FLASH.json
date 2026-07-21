@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1027-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Legal analysis of Qatar’santi-money laundering and combating terrorist financing legislation and regulation amidst the summer 2017 GCC crisis",
+    "authors": "Naheem M.A.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-09-2017-0054",
+    "abstract": "Purpose: The recent diplomatic split between members of the Gulf Cooperation Council (GCC) and Qatar with accusations of terrorist financing (TF). This paper aims to study Qatar’s domestic legislations, which specifically targets money laundering and TF activities. The country has stringently worked in compliance with international standards on combating financing of terrorism (CFT) and anti-money laundering (AML) practices by imparting autonomous power to regulatory bodies, such as the Qatar Central Bank and other agencies. Design/methodology/approach: This paper studies independent legislations passed under the Emir’s decree over the past decade advancing Qatar’s AML ranking, with significant effort in CFT regulations. The paper also analyses the advancement in AML/CFT regulation and their validity with respect to international standards set by various governmental, intergovernmental and non-profit agencies. Findings: The analysis finds Qatar in compliance with strong AML/CFT regulations. Further, it finds the government to have provided transparent oversight to international organizations that attest to the findings of the legislative efforts. This paper disproves claims and accusations that have possibly been presented to the GCC and subsequently led members to abruptly end diplomatic relations with Qatar over allegations of TF activities, amongst others. Originality/value: The paper offers insight into Qatar’s legislative and regulatory advancement with respect to the AML/CTF in the past decade. The paper also discusses Qatar’s legislative advancement in relation to the evolutions of the country’s financial system, adopting a more robust mechanism to combat financing of terrorism and ML. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

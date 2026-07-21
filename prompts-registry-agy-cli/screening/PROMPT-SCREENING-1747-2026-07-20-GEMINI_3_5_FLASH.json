@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1747-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cyber criminal networks and money mules: An analysis of low-tech and high-tech fraud attacks in the Netherlands",
+    "authors": "Leukfeldt R.; Jansen J.",
+    "year": "2016",
+    "doi": "10.5281/zenodo.56210",
+    "abstract": "This paper is about the money mules used by cyber criminals. Although money mules are not part of the core group of criminal networks, they play an important role within these networks. They are used to interrupt the trail to criminal networks. However, to date only a few cyber crime studies have focused on money mules. Based on case studies about cyber criminal groups, we expected differences between money mules used by low-tech as opposed to high-tech groups. We analyzed data from a fraud registration database of a Dutch bank to gain in-sight into the characteristics of money mules and how cyber criminal networks use them. Our analyses clearly show that there are indeed significant differences. Furthermore, the characteristics of money mules indicate what kind of criminal network is behind the attack. The results of our study can be used by law enforcement agencies to develop targeted investigation and prosecution strategies. © 2016 International Journal of Cyber Criminology (IJCC).",
+    "source": "International Journal of Cyber Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1236-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The regulation of cryptocurrencies under ethiopian legal norms",
+    "authors": "Gobena M.A.",
+    "year": "2021",
+    "doi": "10.4314/mlr.v15i1.6",
+    "abstract": "Cryptocurrencies are a subset of virtual currencies that have been devised for anonymous payments made entirely independent of governments and traditional financial institutions. The payment system of cryptocurrencies is expanding at a rapid pace and has reached Ethiopia. This article examines the extent to which cryptocurrencies are regulated under Ethiopia’s national payment system and anti-money laundering legal norms. The study has employed doctrinal research supported by in-depth interviews. During the last decade, Ethiopia has adopted several legal frameworks that govern different aspects of the payments landscape, most notably regarding payment services and electronic money. The country has anti-money laundering legal norms that are embodied in domestic laws and international and regional instruments that it has ratified. However, these legal norms have strategic deficiencies in regulating cryptocurrencies. Thus, the government of Ethiopia should consider enacting a comprehensive law that regulates the payment system of cryptocurrencies. © 2021, St Mary's University. All rights reserved.",
+    "source": "Mizan Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2317-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Influences of Emotional Intelligence, Management Support, and IT Infrastructure on Suspicious Transaction Reporting: Evidence from Malaysia",
+    "authors": "Johari, RJ; Kudus, NNA; Rashid, N; Ganesan, P",
+    "year": "2023",
+    "doi": "10.28992/ijsam.v7s1.876",
+    "abstract": "Recently, money laundering has become a worldwide financial crime, as it can draw a global negative impact by damaging society socially and economically. Money Laundering Reporting Officers (MLRO) is responsible in conducting a holistic review of a bank's client to support the effort of regulators in combatting money laundering and terrorist financing. This study is conducted to examine factors influencing suspicious transaction reporting decisions by MLRO. Questionnaires were distributed to MLRO in three international financial institutions in Malaysia. The outcome of this study showed that there are significant impacts of emotional intelligence, management support, and IT infrastructure on the decision to report suspicious transactions among the MLRO. The conclusion of this study is expected to benefit the Anti-Money Laundering departments in financial institutions, software developers, educators or trainers, and management teams in the effort in fighting money laundering.",
+    "source": "INDONESIAN JOURNAL OF SUSTAINABILITY ACCOUNTING AND MANAGEMENT"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

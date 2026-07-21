@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1820-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The terrorist resourcing model applied to Canada",
+    "authors": "O’Halloran P.J.; Leuprecht C.; Dizboni A.G.P.; Green A.; Adelstein D.",
+    "year": "2018",
+    "doi": "10.1108/JMLC-12-2016-0050",
+    "abstract": "Purpose: This paper aims to examine whether the money laundering/terrorist financing (ML/TF) model excludes important aspects of terrorist resourcing and whether the terrorist resourcing model (TRM) provides a more comprehensive framework for analysis. Design/methodology/approach: Research consisted of case studies of resourcing activities of four listed terrorist organizations between 2001 and 2015: the Liberation Tigers of Tamil Eelam (LTTE), Hamas, a grouping of Al Qaeda-inspired individuals and entities under the heading “Al Qaeda inspired” and Hezbollah. Findings: The most prevalent resourcing actors observed were non-profit organizations/associations, and the most prevalent form of resourcing was fundraising that targeted individual cash donations of small amounts. Funds were pooled, often passed through layers of charitable organizations and transmitted through chartered banks. The TRM is indeed found to provide a more comprehensive framework for identifying sources of resourcing and points of intervention. However, it does not in itself recommend effective means of response but it has implications for counter-resourcing strategies because it identifies resourcing actors and nodes where counter-resourcing could occur. Originality/value: This paper advances the state of knowledge of terrorist resourcing activities in Canada and about the value of doing so through the analytical lens of the TRM as opposed to the predominant ML/TF model. © 2018, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

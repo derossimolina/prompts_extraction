@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1339-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Gangs and governance in Russia: the paradox of law and lawlessness",
+    "authors": "Stephenson S.",
+    "year": "2019",
+    "doi": "10.1080/17440572.2019.1645654",
+    "abstract": "The paper addresses the nature of gang governance. It questions the notion that gangs regulate social and economic transactions and create stable orders in certain territories. It shows that, while presenting themselves as upholders of the ‘law’ in their territory, the gangs also create a climate of uncertainty and fear. The gangs manipulate their own unwritten rules and set up traps for residents and businessmen. These traps are designed to deprive non-gang civilians of presumed rights and identities and extort their money. The paper uses Schmitt’s notion of ‘state of exception’ and Agamben’s idea of ‘bare life’ to explain how gangs function. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Global Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

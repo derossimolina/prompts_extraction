@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2353-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "COMPATIBILITY OF ISLAMIC FINANCE AND ANTI-MONEY LAUNDERING LAWS: A MYTH OR REALITY?",
+    "authors": "Nasir, MA",
+    "year": "2018",
+    "doi": "10.31436/iiumlj.v26i1.344",
+    "abstract": "Money Laundering (ML) remains a major threat to the financial flow, as well as affecting the economic stability of any nations. It is equally capable of undermining macroeconomic performance and therefore constitutes a very significant risk to both soundness and stability of any financial institution. Foreign direct investments are therefore adversely affected. Unlike that of the capitalist economy and other conventional banking institutions, the risks which ML poses to Islamic finance attracted little or no critical study. This could give the impression that Islamic finance is not in tune with Anti-Money Laundering Laws (AML) and the regulatory regime or that it is anti-AML. The resultant effect of this is unnecessary hostility to Islamic Financial products, which appears not to be in the interest of global economy. This article, therefore, focuses on the relevance of AML principles to Islamic banking. It is revealed that while no financial institution is immune to laundering, the risk-sharing nature of Islamic finances poses less systemic risk than conventional finance. It is recommended that FATF should facilitate studies of potential ML in Islamic finance to put the issue in the right perspective.",
+    "source": "IIUM LAW JOURNAL"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

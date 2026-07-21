@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2060-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Money laundering prevention and small state development: Insights from the case of the Bahamas",
+    "authors": "Vlcek W.",
+    "year": "2010",
+    "doi": "10.1080/14662043.2010.492973",
+    "abstract": "This paper analyses the impact to the financial sector of small states from the regulatory mandates of global financial governance against money laundering and terrorist finance. As an acknowledged and documented strategy for economic development, the experience of the offshore financial sector of the Bahamas is central to this analysis. Enacting new legislation was politically divisive in the Bahamas, because of a recognition that it could lead to a reduction in the economic contribution provided by offshore finance's licensing fees and employment. New compliance and regulatory arrangements were indeed costly, but the size of the Bahamian offshore financial sector ensured fewer adverse impacts than in some other small island states. The experience of the Bahamas provides indicative pointers for the future prospects of any developing economy's financial sector in its interactions with global financial governance. © 2010 Taylor & Francis.",
+    "source": "Commonwealth and Comparative Politics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

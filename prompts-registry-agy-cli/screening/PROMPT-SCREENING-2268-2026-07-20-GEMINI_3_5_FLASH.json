@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2268-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering in the Brazilian securities market: empirical evidence and monitoring framework",
+    "authors": "Calastro, JA; de Mendonça, OR",
+    "year": "2018",
+    "doi": "10.20397/2177-6652/2018.v18i3.1240",
+    "abstract": "The securities market is conducive to the practice of Money Laundering due to its peculiarities, which can impact the National Financial System, bringing serious consequences for the country. Thus, in the light of market regulation, the law no. 12.683/2012 divided the responsibility for standardizing and monitoring evidence of money laundering with the supervisory bodies. The aim of this paper is to propose a framework for monitoring the anti-money laundering (AML) intermediaries of the Brazilian securities market. Interviews were held with superintendents linked to the regulatory body and self-regulator of the brazilian securities market in addition to the analysis of the administrative proceedings concluded by them over the past five years. The main shortcomings reported were: conceptual failure on the AML, absence of and/or database, incorrect settings, the absence of analysis for alerts generated, application of cutting database and absence of records for completion of alerts generated. The analysis of the administrative processes made it possible to identify the following shortcomings: absence or failure in internal controls, lack of diligence by middlemen and lack of procedures and training. The proposed framework consists of the organizational stage dimensions, people and internal controls.",
+    "source": "REVISTA GESTAO & TECNOLOGIA-JOURNAL OF MANAGEMENT AND TECHNOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

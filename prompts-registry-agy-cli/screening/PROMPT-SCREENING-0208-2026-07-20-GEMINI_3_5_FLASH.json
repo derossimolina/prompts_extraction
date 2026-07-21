@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0208-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Exploring Blockchain-Based Information Systems for Maritime Engineering Data Management",
+    "authors": "Kumar S.; Jeyachandran S.",
+    "year": "2025",
+    "doi": "10.51983/ijiss-2025.IJISS.15.4.13",
+    "abstract": "Shipbuilders, port authorities, regulatory bodies, and maintenance providers comprise the various maritime engineering stakeholders. As for ship design and maintenance, enormous amounts of information must be created, managed, and exchanged. One of the major problems is that data management systems in this field are usually fragmented, undersized, static, and susceptible to several challenges like data manipulation, lack of collaboration transparency, and organizational data sharing inefficiencies. Engineering asset digitization is one of the many transformations the maritime industry is adopting. With it, it becomes crucial to secure systems capable of engineering data transparency, such as interchangeability, non-repudiation, and asset data audit throughout the lifecycle. This paper investigates the issues regarding structuring and maintaining maritime engineering data and how blockchain technology can be leveraged to solve those issues. The research proposing a blockchain-based Information system capable of data manipulation, alteration, sharing, partitioning, and controlled access of novel architecture components such as ship design specification, inspection, maintenance history, and certification records benefits ownership decentralization, immutability, smart contracts, and blockchain. This system reduces costs while empowering stakeholders and improving trust by automating workflows with programmable borders. The comprehensive architecture of the system, as provided in this document, is built around the maritime platforms of trust. It includes data design structures, consensus control mechanisms, block chaining control networks, access rights governance, bordering system, and interfacing legacy inputs. Centered on the ship maintenance data case study, this paper demonstrates how automated transparency in the proposed system minimizes conflicts. Metrics relating to performance evaluation, including latency, throughput, and scalability, are examined to determine their value concerning real-world implementation in a maritime context. © The Research Publication.",
+    "source": "Indian Journal of Information Sources and Services"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

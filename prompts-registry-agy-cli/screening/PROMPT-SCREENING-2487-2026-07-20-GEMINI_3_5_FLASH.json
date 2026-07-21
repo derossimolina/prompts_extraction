@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2487-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Foundations of the future-A Cayman islands approach",
+    "authors": "Carey, B; Lindley, R",
+    "year": "2017",
+    "doi": "10.1093/tandt/ttx090",
+    "abstract": "Well known for its innovative approach to wealth planning, the Cayman Islands (Cayman) has taken another welcome step to expand its structuring options by introducing foundations into its already comprehensive suite of succession and transaction planning vehicles. Pursuant to the Foundation Companies Law 2017 (Law), which was passed at the end of March 2017 and is currently awaiting a commencement date, a foundation company will be able to be established as a new form of Cayman company and will share many of its features with regular exempted Cayman companies. As explained further in this article, it is anticipated that this new vehicle will fit seamlessly into Cayman's legal regime, and offer up an attractive and flexible structuring tool for private clients with offshore interests, regardless of whether they are located in civil law countries or common law jurisdictions.",
+    "source": "TRUSTS & TRUSTEES"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1316-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Rethinking the internal mechanism of the EGMONT group in financial crime control",
+    "authors": "Adetunji J.A.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-04-2018-0029",
+    "abstract": "Purpose: This paper aims to evaluate the use of Intelligence gathering, especially the exercise of customer due diligence (CDD), enhanced due diligence (EDD), know your customer (KYC) and recordkeeping as effective anti-money laundering (AML) and counter-terrorism financing (CTF) measures. It re-appraises the risk of breach of privacy associated with recordkeeping of clients’ information in countries where there are no data protection laws and the role of the EGMONT group against the backdrop of the recent suspension of Nigeria from the group; it argues that, in view of other existing liberal punitive measures, suspending a developing nation like Nigeria by the EGMONT group (arising from a rigid demand for an autonomous financial intelligence unit (FIU)) is draconian and counterproductive. Finally, it argues that the fundamental needs and challenges of developing member states of the EGMONT group, particularly members that are battling with weak and non-transparent investigation process and terrorism require, inter alia, technical and manpower assistance to disrupt financial crime and financing of terrorism. Design/methodology/approach: A doctrinal approach is utilised to analyse AML and CTF from the social and historical perspectives. A comparative analysis of international control of money laundering and terrorist financing, appraising the challenges of developing member states in complying with the Financial Action Task Force regulations and the principles of the Egmont group. Findings: There are liberal punitive measures than suspension which the EGMONT group could apply when dealing with developing members of the group, especially on the issue of rigid demand for an autonomy of a national FIU. The fundamental needs and challenges of developing member states of the Egmont group, particularly members that are battling with weak and non-transparent investigation process and terrorism require, inter alia, technical and manpower assistance to disrupt financial crime and financing of terrorism. Originality/value: The paper queries the appropriateness of the decision to suspend Nigeria by the Egmont group for failure to comply with its policy autonomy of its FIU when there are other liberal disciplinary measures that could have been applied. And, it suggests the need to lay more emphasis on technical assistance for member states to achieve the objectives of the group. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

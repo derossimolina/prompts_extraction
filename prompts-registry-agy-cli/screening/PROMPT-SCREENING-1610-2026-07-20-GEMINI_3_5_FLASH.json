@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1610-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Modelling of money laundering and terrorism financing typologies",
+    "authors": "Samantha Maitland Irwin A.; Raymond Choo K.K.; Liu L.",
+    "year": "2012",
+    "doi": "10.1108/13685201211238061",
+    "abstract": "PurposeThe purpose of this paper is to show how modelling can be used to provide an easy-to-follow, visual representation of the important characteristics and aspects of money laundering behaviours extracted from real-world money laundering and terrorism financing typologies. Design/methodology/approachIn total, 184 typologies were obtained from a number of anti-money laundering and counter-terrorism financing (AML/CTF) bodies to determine the common patterns and themes present in the cases involved. Financial flows, transactions and interactions between entities were extracted from each of the typologies and modelled using the Unified Modelling Language (UML) features within Microsoft Visio. FindingsThe paper demonstrates how complex transactional flows and interactions between the different entities involved in a money laundering and terrorism financing case can be shown in an easy-to-follow graphical representation, allowing practitioners to more easily and quickly extract the relevant information from the typology, as opposed to reading a full text-based description. In addition, these models make it easier to discover trends and patterns present within and across Types and allow money laundering and terrorism financing typologies to be updated and published to the wider international AML/CTF community, as and when new trends and behaviours become apparent. Originality/valueA set of models have been produced that can be extended every time a new scenario, typology or Type arises. These models can be held in a central repository that can be added to and updated by AML/CTF practitioners and can be referred to by practitioners to help them identify whether the case that they are dealing with fits already predefined money laundering and terrorism financing behaviours, or whether a new behaviour has been discovered. These models may also be useful for the development of money laundering and terrorism financing detection tools and the training of new analysts or practitioners. The authors believe that their work goes some way to addressing the current lack of formal methods and techniques for identifying and developing uniform procedures for describing, classifying and sharing new money laundering and terrorism financing with the international AML/CTF community, as and when they happen, in a simple but effective manner. © 2012, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

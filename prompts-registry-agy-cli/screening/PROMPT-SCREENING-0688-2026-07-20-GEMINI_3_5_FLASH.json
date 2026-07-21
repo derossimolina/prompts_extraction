@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0688-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "DETERMINANTS OF INVESTMENT TO ATTRACT INVESTMENT IN AFFORDABLE HOUSING PROJECTS IN MALAYSIA",
+    "authors": "Daud M.A.M.; Rosly S.A.; Sori Z.M.",
+    "year": "2023",
+    "doi": "10.21837/PM.V21I30.1402",
+    "abstract": "The provision of shelter is a fundamental human right as defined by the maqasid al-shariah hence, the Islamic financial system should give undivided attention by assisting to provide affordable housing. This, however, is relatively hard to do given that market forces dictate property prices that many cannot afford. Unaffordable housing is a serious issue being faced by major cities around the globe, including Malaysia. Naturally, most individuals resort to government assistance, as the issue warrants social and political attention. With limited fiscal capacity, governments have fewer options to build affordable housing. Similarly, private developers will not build houses that are not profitable. One possible solution is to seek investments from institutional investors who, with deep pockets, could resolve this conundrum. This study attempts to investigate factors that motivate institutional investors to invest in affordable housing projects in Malaysia. A qualitative approach was applied to identify six attributes of investments, namely fund structure and mandate, market return, social return, risk mitigation, governance and transparency, and government support. These findings provide valuable insight for policymakers in structuring investment vehicles with the identified attributes, which may attract institutional investors to invest in this initiative. © 2023 by MIP.",
+    "source": "Planning Malaysia"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

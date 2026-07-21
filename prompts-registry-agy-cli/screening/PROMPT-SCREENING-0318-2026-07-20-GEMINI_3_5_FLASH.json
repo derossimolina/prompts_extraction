@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0318-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Prevailing assemblages and depth-driven distribution patterns of pteropods in the Andaman Islands",
+    "authors": "Kiran S.; Mohan P.M.; Swathi V.",
+    "year": "2025",
+    "doi": "10.25303/1811da047056",
+    "abstract": "The present study investigates the pteropod assemblages and their distribution pattern across different depths offshore in the Andaman Islands using the samples collected by FORV Sagar Sampada (Cruise No. 355). 22 pteropod species from 6 families were identified from depths of 50 m, 100 m and 200 m during the study period. Heliconoides inflatus from the family Heliconoididae displayed the highest abundance compared to other species. The family Creseidae was more prevalent at 50 m, whereas Heliconoididae dominated at 100 m and 200 m. Little Andaman station (200 m) had the highest species diversity, while the lowest was at Rangat's west coast (50 m). Multivariate analyses revealed depth-dependent occurrence trends, with PERMANOVA confirming depth (Pseudo-F= 4.79, p= 0.001) as a significant factor in structuring distinct pteropod assemblages. The Canonical analysis of Principal Coordinates showed strong discrimination for assemblages at 50 m and 200 m (85.71% correct for each) with 81.82% accuracy and a minimal misclassification error rate of 18.18%. The Principal Component Analysis indicated temperature and salinity as the key environmental factors influencing depth-driven distribution patterns. This study provides new insights into the pteropod's vertical zonation and showcases the unique regional distribution patterns observed in the Andaman waters. © 2025, World Researchers Associations. All rights reserved.",
+    "source": "Disaster Advances"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

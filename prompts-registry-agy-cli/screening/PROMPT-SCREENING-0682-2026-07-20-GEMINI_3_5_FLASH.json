@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0682-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Rethinking anti-money laundering supervision: The Single Supervisory Mechanism - a model for a European anti-money laundering supervisor?",
+    "authors": "Schlarb D.D.",
+    "year": "2022",
+    "doi": "10.1177/20322844221085949",
+    "abstract": "Whereas the prudential supervision of credit and other financial institutions has been a core policy concern of the EU legislator in the aftermath of the 2008 Financial Crisis, the supervision of private sector entities within the European Anti-Money Laundering framework has been subject to less attention. However, on 20 July 2021, the European Commission intervened and published legislative proposals for two regulations and one directive, meant to boost the European response to the phenomenon of Money Laundering. This contribution – after having pointed out the shortcomings of the current legislative framework – pursues a twofold objective: first, offering an in-depth analysis of whether the Single Supervisory Mechanism, set up within the banking union for the purposes of prudential supervision, might be a useful precedent of Europeanisation to build up upon in matters of Anti-Money Laundering supervision, and second, commenting the possible approaches to be taken when setting up an EU level Anti-Money Laundering supervisor. The systemic cross-border importance of AML – beyond the euro area – warrants the establishment of a new EU agency specialised on AML, invested with more supervisory powers than EBA, ESMA and EIOPA and taking over the direct supervision of high-risk obliged entities, while indirectly supervising the remaining entities. It is argued furthermore that such institutional reform should necessarily be accompanied by the establishment of a Single Rulebook, which enjoys direct applicability across the EU. © The Author(s) 2022.",
+    "source": "New Journal of European Criminal Law"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

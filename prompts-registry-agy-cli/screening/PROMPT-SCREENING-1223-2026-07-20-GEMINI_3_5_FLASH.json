@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1223-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illicit Drivers of Land Use Change: Narcotrafficking and Forest Loss in Central America",
+    "authors": "Tellman B.; Sesnie S.E.; Magliocca N.R.; Nielsen E.A.; Devine J.A.; McSweeney K.; Jain M.; Wrathall D.J.; Dávila A.; Benessaiah K.; Aguilar-Gonzalez B.",
+    "year": "2020",
+    "doi": "10.1016/j.gloenvcha.2020.102092",
+    "abstract": "Illegal activity, such as deforestation for illicit crops for cocaine production, has been inferred as a cause of land change. Nonetheless, illicit activity is often overlooked or difficult to incorporate into causal inference models of land change. Evidence continues to build that narcotrafficking plays an important, yet often unreported, role in forest loss. This study presents a novel strategy to meet the challenge of estimating the causal effect of illicit activity in land change using consolidated news media reports to estimate the relationship between drug trafficking and accelerated forest loss in Central America. Drug trafficking organizations engage in illegal land transactions, money laundering, and territorial control that can manifest as forest conversion to agriculture or pasture land uses. Longitudinal data on 50 sub-national units over a period of 16 years (2001-2016) are used in fixed effects regressions to estimate the role of narcotrafficking in forest loss. Two narcotrafficking activity proxies were developed as explanatory variables of forest loss: i) an “official” proxy from drug seizures data within 14 sub-national units; and, ii) an “unofficial” proxy developed from georeferenced news media accounts of narcotrafficking events. The effect of narcotrafficking was systematically compared to the other well-known causes of forest loss, such as rural population growth and other conventional drivers. Both proxies indicate narcotrafficking is a statistically significant (p<0.01) contributor to forest loss in the region, particularly in Nicaragua (p<0.05, official proxy), Honduras (p<0.05, media proxy), and Guatemala (p<0.05, media proxy). Narcotrafficking variables explain an additional 5% (media proxy) and 9% (official proxy) of variance of forest loss not captured by conventional models. This study showed the ability of news media data to capture the signal of illicit activity in land use changes such as forest loss. The methods employed here could be used to estimate the causal effect of illicit activities in other land and environmental systems. Our results suggest that current drug policy, which concentrates drug trafficking in remote areas of very high cultural and environmental value, has helped to accelerate the loss of Central America's remaining forests. © 2020 Elsevier Ltd",
+    "source": "Global Environmental Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

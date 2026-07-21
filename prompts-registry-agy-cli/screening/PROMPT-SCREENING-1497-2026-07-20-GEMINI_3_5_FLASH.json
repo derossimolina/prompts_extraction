@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1497-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The cost of compliance to Sarbanes-Oxley: An examination of the real estate investment industry",
+    "authors": "Shaw W.H.; Terando W.D.",
+    "year": "2014",
+    "doi": "10.2308/ajpt-50613",
+    "abstract": "Studies documenting the increased audit cost of the Sarbanes-Oxley Act of 2002 have focused on large cross industry samples of industrial firms. To control for differences in industry and business complexities such as foreign operations or segments, these studies have relied on various dichotomous variables. In addition, the studies have either focused on the cost of Section 404 related to internal control testing or assumed that the increases in audit pricing occurred in 2002 when the law was enacted. By focusing on one industry (REITS), we find that dummy variables may not adequately capture the effect of complexity in an industry. We also show that considering within-industry variations in audit pricing leads to the conclusion that the increase due to SOX is actually lower than previously thought. Finally, by structuring the tests to measure separately for the costs of the audit independence provisions and the internal control provisions, we find that the costs of SOX were much greater than that shown in prior studies, resulting in a 200 percent increase in SOX related costs to REITs with about 75 percent of that increase related to Section 404.",
+    "source": "Auditing"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

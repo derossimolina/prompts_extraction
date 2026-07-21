@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1554-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Managing money laundering risks in commercial letters of credit: Are banks in danger of non-compliance? A case study of the United Kingdom",
+    "authors": "Chhina R.K.",
+    "year": "2016",
+    "doi": "10.1108/JMLC-05-2015-0019",
+    "abstract": "Purpose: The purpose of this paper is to critically examine the role of banks in detecting and mitigating money laundering risks in trade finance activities, especially in commercial letters of credit, and to answer the central question: do banks comply with regulations that are inadequate (if so, is more stringent regulation compatible with the commercial world of trade finance?), or are banks are in danger of non-compliance? Design/methodology/approach: The relevant principles promulgated by international organisations as well as the law enacted in UK to prevent money laundering risks in commercial letters of credit was examined to assess banks’ compliance with their anti-money laundering (AML) obligations. The key provisions of the Money Laundering Regulations 2007, Proceeds of Crime Act 2002 and the Wolfsberg Trade Finance Principles were discussed, and the extent of banks’ compliance with these provisions was highlighted by carefully analysing the steps a bank might take at various stages of the operation of a commercial letter of credit and what the banks in fact do. The paper relies heavily on the findings of the recent study conducted by the Financial Conduct Authority (UK) to analyse the actual practice followed by UK banks in controlling money laundering risks in transactions involving commercial letters of credit. Findings: The paper establishes that considering the formal nature of commercial letters of credit (which makes them independent from the underlying transaction), any stringent measures to regulate trade finance activities of a bank may destroy the effectiveness of commercial letters of credit as a tool for promoting international trade. The current law and regulations together with the Joint Money Laundering Steering Group Sectoral Guidance and the Wolfsberg Principles provide the requisite legal and regulatory framework to control money laundering risks in commercial letters of credit. The paper however establishes that the majority of banks in UK currently appear to be in danger of non-compliance with the UK AML regime and certainly need to meet their AML obligations in a more serious way. Practical implications: The findings may influence banks to adopt a more vigilant approach in their trade finance activities and to undertake more responsibility in ensuring compliance with the current AML law and regulations, while highlighting that their current practice may put them in danger of non-compliance. Originality/value: The paper demonstrates in an exceptional way the legal and regulatory requirements for banks to prevent money laundering risks in their trade finance activities and where, in practice, the banks are falling short of compliance with these requirements. By adopting a step-by-step approach in evaluating banks’ “current-and-must have” approach to controlling money laundering risks at various stages of a commercial letter, the paper makes a valuable contribution to the study of combating money laundering in commercial letter of credit transactions. © 2016, Emerald Group Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

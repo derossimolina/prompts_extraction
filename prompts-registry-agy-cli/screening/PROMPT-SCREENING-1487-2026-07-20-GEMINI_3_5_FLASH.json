@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1487-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering governance in the Philippines: legal foundations, institutional dynamics and policy challenges",
+    "authors": "Blanco D.V.",
+    "year": "2017",
+    "doi": "10.1080/23276665.2017.1290901",
+    "abstract": "Effective anti-money laundering governance is essential in all countries with banks and other financial institutions which could be, or already are, the targets of money laundering aimed at making the proceeds of illegal activities appear to be clean and legitimate. The Philippines is no exception, with the government having taken some important initiatives but needing to do more to meet significant international expectations and standards. Accordingly, this article assesses the country’s anti-money laundering governance in terms of its legal foundations, institutional dynamics and policy challenges, which all point to a need for ongoing review and reform. © 2017 The University of Hong Kong.",
+    "source": "Asia Pacific Journal of Public Administration"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

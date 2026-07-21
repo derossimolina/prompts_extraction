@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0799-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Getting Real about Taxes: Offshore Tax Sheltering and Realism's Ethic of Responsibility",
+    "authors": "Arlen G.; Burelli C.",
+    "year": "2022",
+    "doi": "10.1017/S0892679422000156",
+    "abstract": "This article tackles the issue of offshore tax sheltering from the perspective of normative political realism. Tax sheltering is a pressing contemporary policy challenge, with hundreds of billions in private assets protected in offshore trusts and shell companies. Indeed, tax sheltering produces a variety of empirical dilemmas that render it a distinctive challenge for global governance. Therefore, it is crucial for normative political theorists to confront this problem. A realist approach offers three distinct advantages, elaborated in the three subsequent sections of the article. First, it relaxes the theoretical burden by starting from the real practice of tax evasion rather than from an abstract theory of equality or justice. Second, this approach recognizes that sheltering is a political harm: a threat to the very maintenance of order, not just a problem of inequality or injustice. If politicians fail at such polity maintenance, realism's ethic of responsibility provides clear political reasons why they should be held accountable. Third, realism's focus on power and its acceptance of coercion open up new strategies for addressing the problem that would not be allowed by theories with a stronger emphasis on consensus. Copyright © The Author(s), 2022. Published by Cambridge University Press on behalf of the Carnegie Council for Ethics in International Affairs.",
+    "source": "Ethics and International Affairs"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

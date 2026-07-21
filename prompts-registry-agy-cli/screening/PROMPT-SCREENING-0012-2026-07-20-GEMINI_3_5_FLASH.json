@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0012-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Accounting for the future: A case study of how Probability of Default mediates between calculative practices in risk management",
+    "authors": "Ringgaard A.; Bukh P.N.; Sandalgaard N.",
+    "year": "2026",
+    "doi": "10.1016/j.mar.2026.100965",
+    "abstract": "This paper investigates how accounting inscribes and mediates credit risk in the banking sector. Drawing on a qualitative case study of a systemically important financial institution in Scandinavia, we examine how a forward-looking risk metric, Probability of Default (PD), mediates across multiple calculative practices, including financial reporting under IFRS 9, loan approval, credit assessment, performance evaluation, and risk-based pricing. Building on the accounting and risk management literature, the paper explores how regulatory demands for risk quantification are enacted in ways that simultaneously support regulatory compliance and organizational risk management. We contribute by demonstrating how PD operates as a mediating instrument that coordinates financial reporting and management control by enabling comparison, inducing selectivity, and structuring evaluative discussions across organizational domains. Rather than opposing risk measurement and risk envisionment as distinct calculative cultures, we show that mediation unfolds along a continuum of calculative practices, as PD provides an actionable representation of credit risk. © 2026 The Authors.",
+    "source": "Management Accounting Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

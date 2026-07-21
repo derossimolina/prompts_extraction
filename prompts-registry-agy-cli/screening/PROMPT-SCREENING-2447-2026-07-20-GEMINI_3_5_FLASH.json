@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2447-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combatting the financing of terrorism in conflict (war) conditions",
+    "authors": "Marko, S; Ortynska, N; Humin, O; Kantsir, V; Ortynskyi, V",
+    "year": "2023",
+    "doi": "10.47741/17943108.524",
+    "abstract": "The scientific article analyses modern terrorist threats in the territory of Ukraine, associated with the active use of financial assets, the latest technologies and innovative financial instruments, in particular cryptocurrencies. The positive experience of legislative initiatives and advanced practices of several foreign countries in combatting the legalisation of funds by illegal means and the financing of terrorism is highlighted. The problems of implementation of state policy in this sphere are revealed. Based on this, ways of improving the system of fighting terrorism in Ukraine on the international and national levels have been determined. It was concluded that the basis of the state policy in the field of combatting terrorism during the period of martial law and in the post-war period in Ukraine should be the development of the Strategy for Combatting Terrorism in Ukraine, which should take into account both the best world practices and the modern realities of waging war in the conditions of supporting terrorism with financial infusions.",
+    "source": "REVISTA CRIMINALIDAD"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

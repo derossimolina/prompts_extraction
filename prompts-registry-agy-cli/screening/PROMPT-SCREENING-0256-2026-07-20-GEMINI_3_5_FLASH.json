@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0256-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Introduction to Special Issue: Online Financial Crimes and Global Responses",
+    "authors": "Wang F.",
+    "year": "2026",
+    "doi": "10.1177/00111287261440130",
+    "abstract": "This special issue examines online financial crime and global responses, bringing together 10 empirical studies from diverse disciplines. As digital technologies reshape financial systems, offenses such as online fraud, identity theft, ransomware, and cryptocurrency-related crime have expanded in scale and complexity, generating significant harm. The contributions analyze offender behavior, victimization patterns, and guardianship across digital environments using varied data and methods. Guided by the Routine Activity Theory, this special issue brings together studies that demonstrate how offenders exploit technological systems, how individuals and organizations become vulnerable, and how institutional and technological controls influence prevention. Collectively, the findings highlight the transnational and adaptive nature of cyber-enabled financial crime and emphasize the need for integrated prevention, enforcement, and regulatory strategies. © The Author(s) 2026. This article is distributed under the terms of the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/) which permits any use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).",
+    "source": "Crime and Delinquency"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

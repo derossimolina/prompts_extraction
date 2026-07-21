@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0668-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Re-thinking de-risking: a systems theoretical approach",
+    "authors": "També Bearpark N.; Demetis D.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-04-2021-0030",
+    "abstract": "Purpose: This paper aims to explain the de-risking phenomenon through Luhmann’s risk/danger model and demonstrate that de-risking should be facilitated and encouraged. Design/methodology/approach: The paper applies Luhmann’s system theory and more specifically his risk/danger model to describe the de-risking phenomenon and identify recommendations to address its consequences. Findings: The paper finds that re-defining risk and the anti-money laundering (AML)’s community’s understanding of it can support key stakeholders’ understanding of money laundering (ML) risk and the way to better address consequences of AML decisions. Practical implications: The paper has implications for the banking and regulatory community in relation to the interpretation of de-risking. As systems aim to minimise their exposure to risk, they should not be prevented from de-risking. Originality/value: This paper aims to move away from a narrative description of AML phenomena and presents a theoretical foundation for the analysis of ML risk. The current response to de-risking which demonises it and aims to prevent it is deconstructed through this theoretical lens. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

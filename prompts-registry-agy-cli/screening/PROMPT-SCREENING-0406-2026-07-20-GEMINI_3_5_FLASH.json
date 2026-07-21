@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0406-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Discourse Using Blockchain Technology for the Enforcement of Money Laundering Crimes in Indonesia",
+    "authors": "Huda C.; Yunan P.D.; Paidi Z.B.",
+    "year": "2025",
+    "doi": "10.24090/volksgeist.v8i2.13376",
+    "abstract": "Money laundering is a crime aimed at concealing the origin of funds derived from illegal activities, which has become increasingly difficult to detect with the growth of digital transactions and cryptocurrency use. Blockchain, as a distributed ledger technology, can record transactions permanently, transparently, and securely, making it a promising tool to support Anti-Money Laundering (AML) systems. This study examines the role of blockchain in strengthening Indonesia’s AML framework amid rapid growth in digital financial transactions and increasing complexity of money laundering methods. The significant rise in suspicious transaction reports, particularly through digital wallets, e-money, and cryptocurrencies, indicates a shift of money laundering practices to digital channels that challenge existing oversight and law enforcement mechanisms. The study employs a qualitative approach through literature review and secondary data analysis to assess how blockchain features such as immutability, transparency, transaction pattern analysis, and cross-border tracking can enhance detection and verification of suspicious fund flows. The results suggest that blockchain has the potential to strengthen KYC procedures, enhance forensic capabilities, and provide verifiable electronic evidence. Nevertheless, regulatory and institutional limitations remain. OJK Regulation No. 27 of 2024 does not yet incorporate blockchain analytics, regulate privacy coins, mixers, or cross-chain laundering, nor provide a technology-based supervisory framework. Challenges also exist in evidentiary standards, digital chain-of-custody mechanisms, and technical capacity of law enforcement. Effective implementation of blockchain in Indonesia’s AML system requires regulatory refinement, institutional strengthening, and alignment with FATF standards. © 2025, Universitas Islam Negeri Profesor Kiai Haji Saifuddin Zuhri Purwokerto. All rights reserved.",
+    "source": "Volksgeist: Jurnal Ilmu Hukum dan Konstitusi"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

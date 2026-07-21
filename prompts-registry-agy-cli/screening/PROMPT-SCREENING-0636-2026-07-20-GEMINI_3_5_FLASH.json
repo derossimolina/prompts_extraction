@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0636-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A professional money laundering scandal; a narrative-based exploration of undocumented foreign workers in a large construction project",
+    "authors": "Mohd Latif H.; Mohamed N.; Handley-Schachler M.; Jalaludin A.",
+    "year": "2023",
+    "doi": "10.1108/JMLC-07-2022-0106",
+    "abstract": "Purpose: Money laundering weakens the role of the construction industry in stimulating economic growth. The purpose of this paper is to explore the connection between money laundering on the construction sites and undocumented foreign workers, based on a narrative drawn from a qualitative research. Design/methodology/approach: Throughout the study, qualitative methods, i.e. interviews, site visits and document analysis, were used. However, the data for this paper was primarily derived from an interview. Thematic analysis was used to analyse the data. Findings: The findings show that construction personnel who have access to the business’s financial affairs are the most likely to engage in illicit transactions. The size of the project as well as the multiple layers of organisations involved made it easy for launderers to operate. The appealing commission provided incentives to opportunistic personnel. In this regard, the wages for undocumented workers, which were primarily paid in cash, provided a considerable opportunity for the subcontracting organisations to engage in money laundering. Research limitations/implications: While the single narrative method with an omniscient narrator allows for the conceptualisation of a human experience with money laundering, the depth of information and interpretations is limited. Emerging qualitative research methods may be incorporated in the future to provide a more extensive information due to the fact that money laundering data is complex and sensitive that few people want to discuss. Originality/value: The multidisciplinary approach of this research provides a pedagogical way that focuses primarily on the disciplines of construction management and business ethics to demonstrate real-world money laundering practice. Understanding such phenomenon on sites opens up key avenues for future research into developing an anti-money laundering regime for the construction industry. © 2022, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1778-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Network governance of a multi-level, multi-sectoral sport event: Differences in coordinating ties and actors",
+    "authors": "Parent M.M.; Rouillard C.; Naraine M.L.",
+    "year": "2017",
+    "doi": "10.1016/j.smr.2017.02.001",
+    "abstract": "To understand how partners within a large, multi-sectoral network coordinated amongst one another, this paper empirically determined stakeholders’ network capital vis-à-vis centrality by focusing on the relationships within the Vancouver 2010 Olympic Winter Games. An embedded case study was built using 6382 pages of documents (e.g., meeting minutes, memos, newspaper articles, and annual reports) and 55 interviews, and analyzed using social network analysis. The results revealed actors used eight types of ties in their coordination efforts: collaboration, communication, coordinating bridge, instrumental, legal, regulatory, transactional, internal link, and external link. Also, highly centralized actors were context specific to each level of government, with the organizing committee and federal secretariat emerging as the most critical for coordination efforts. Findings empirically demonstrate the importance of the national/federal government to coordinate multi-sectoral sport event networks. Thus, sport event partners can consider structuring an event's network administrative organization to fit their differing strategic goals. © 2017 Sport Management Association of Australia and New Zealand",
+    "source": "Sport Management Review"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois atende perfeitamente ao PICO-S: aplica técnicas de aprendizado de máquina/redes para modelar ou detectar processos de lavagem de dinheiro e fluxos ilícitos com foco explícito em comportamento coletivo, redes criminosas ou organizações criminosas estruturadas.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Lavagem de dinheiro por organizações criminosas)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

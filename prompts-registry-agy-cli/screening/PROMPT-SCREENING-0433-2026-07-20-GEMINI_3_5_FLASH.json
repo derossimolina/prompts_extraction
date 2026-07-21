@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0433-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Gifting, gamification, and queer digital intimacy: understanding live streaming affordances on Lespark",
+    "authors": "Chen W.-P.; Lai K.-L.",
+    "year": "2026",
+    "doi": "10.1080/1369118X.2025.2570736",
+    "abstract": "This study employs the walkthrough method and digital ethnography of six streamers over two years to examine streamer–viewer interactions on Lespark, a lesbian dating and live-streaming platform, with particular attention to the cultural meanings embedded in digital gifting practices. The findings demonstrate that, alongside the three core affordances of live streaming–commodification, connection, and aspiration–gamification functions as a structuring force in mediating intimate relationships through digital gifts. Through leaderboards, badges, and tiered rewards, commercial transactions are transformed into performative expressions of chivalry and romantic intimacy, embedding emotions within economic exchanges while reinforcing viewer engagement. This study introduces the concept of conspicuous display gifting, extending beyond conventional gifting paradigms to show how the Lespark communities use high-value gifts to simultaneously assert social status and foster community cohesion–creating a distinctive tension between hierarchical visibility and shared connection. On platforms like Lespark, such gifting practices serve not only as a status marker but also as a mechanism that reconfigure emotional labor into participatory branding. By analyzing these patterns of imaginative, emotional, and intimate exchange, this study contributes to platform and digital intimacy studies, while addressing key gaps in research on lesbian dating and live-streaming communities. © 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Information Communication and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

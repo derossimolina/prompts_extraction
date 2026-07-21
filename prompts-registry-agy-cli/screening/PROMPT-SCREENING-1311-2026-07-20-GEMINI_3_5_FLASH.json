@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1311-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A traceable online insurance claims system based on blockchain and smart contract technology",
+    "authors": "Chen C.-L.; Deng Y.-Y.; Tsaur W.-J.; Li C.-T.; Lee C.-C.; Wu C.-M.",
+    "year": "2021",
+    "doi": "10.3390/su13169386",
+    "abstract": "In the current medical insurance claims process, there are problems of low efficiency and complex services. When a patient applies for medical insurance claims, he/she must go to the hospital to apply for a diagnosis certificate and receipt and then send the relevant application docu-ments to the insurance company. The patient will not receive compensation until the company com-pletes the verification with the patient’s hospital. However, we can improve the current dilemma through blockchain technology. Blockchain technology can effectively open up the information channels of the insurance industry and medical institutions, promote industry integration, and en-hance the ability of insurance companies to obtain information. In this research, we used blockchain and smart contract technology to make the following contributions to the development of Internet insurance. First, blockchain and smart contract technology can effectively solve the problem of online underwriting. Second, it is conducive to improving supervision. Third, it is conducive to solving risk control problems. Fourth, it is conducive to effective anti-money laundering. The proposed scheme fulfills the following security requirements: mutual authentication of identities, non-repudiation between each of two roles, and other major blockchain-based security requirements. In the event of a dispute, we also proposed an arbitration mechanism to divide responsibilities. © 2021 by the authors. Li-censee MDPI, Basel, Switzerland.",
+    "source": "Sustainability (Switzerland)"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1396-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Red teaming financial crime risks in the banking sector",
+    "authors": "Scott B.F.",
+    "year": "2021",
+    "doi": "10.1108/JFC-06-2020-0118",
+    "abstract": "Purpose: In recent years, Australian regulators have focussed on the financial crime compliance obligations of banks and other reporting entities, and there is a clear expectation that banks develop effective approaches to the management of non-financial risk. Red teaming is a methodology used in the intelligence and military domains to understand external threats. The purpose of this paper is to provide an overview of red teaming methods, set out a framework for using them in financial crime compliance and provide practical examples of red teaming exercises, which banks can use to manage financial crime risks. Design/methodology/approach: This paper provides an overview of the financial crime compliance landscape in Australia. It outlines some of the key concepts and techniques used in red teaming, drawing in particular on the framework developed by strategic policy expert Micah Zenko. It explores the benefits of red teaming for financial crime compliance practice, concluding with three example exercises for financial crime teams. Findings: Based on this research, red teaming methods can assist banks in taking a proactive approach to identify and mitigating financial crime risks. Rather than confining red teaming to cybersecurity applications, banks should consider they can use red teaming methods in their financial crime compliance functions. Originality/value: This paper represents the first assessment of how to apply red teaming methods to risk management in financial crime compliance. It combines a historical and theoretical overview of red teaming methods with example red teaming exercises for money laundering, sanctions and strategic policy scenarios. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

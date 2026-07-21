@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1083-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An investigation of the fraud risk and fraud scheme methods in Greek commercial banks",
+    "authors": "Repousis S.; Lois P.; Veli V.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-11-2017-0065",
+    "abstract": "Purpose: The purpose of this study is to examine types of fraud risk and fraud scheme methods in Greek commercial banks. Design/methodology/approach: Data used for this study were obtained from primary source through questionnaires. This method of data collection was followed and was considered appropriate because the information sought is not publicly available and middle management and internal auditors are in a good position to know the answers to the questions asked. Questionnaires were sent to a sample of 230 persons, all bank branch employees (internal auditors were excluded), in the city of Athens (capital city of Greece), in five banks, National Bank of Greece, Piraeus Bank, Alpha Bank, Eurobank and Postal Bank, during February 2017-March 2017. Finally, of the 230 questionnaires distributed, 225 completed and returned but only 203 of them were usable questionnaires. Cronbach’s alpha was used to test the reliability of variables. Findings: Results showed that forgeries, bribery and money laundering are the most important types of fraud risk, and the best fraud scheme methods are using dormant accounts and checks. Based on the empirical findings, the study recommends that there is a need for banks to implement a code of conduct and a code of ethics for staff, staff training, signature verification, control over dormant accounts, asking employees about their opinions and the way they feel about their bank, conducting surprise audits and using a hot line for whistleblowing. Practical implications: The study will help banks in fraud risk management and in the development of policies to reduce risk within the banking sector. Also, will be useful to all categories of potential bank clients and users of financial services including shareholders, creditors, debtors and fund providers. Originality/value: To the best of the authors’ knowledge, this is the first study examining middle management and staff opinions about fraud risk and fraud scheme methods in Greek commercial banks. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

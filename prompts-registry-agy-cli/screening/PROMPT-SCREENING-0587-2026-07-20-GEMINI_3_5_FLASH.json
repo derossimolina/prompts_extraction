@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0587-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Digital currencies, monetary sovereignty, and U.S.–China power competition",
+    "authors": "Huang Y.; Mayer M.",
+    "year": "2022",
+    "doi": "10.1002/poi3.302",
+    "abstract": "The rise of digital currencies challenges practices of monetary sovereignty and impacts the international monetary order. Drawing on recent IPE debates about the public-private nature of money, the critique of the “impossible trinity” and “territorial currencies,” this article explores the competition between China and the United States over and within the international monetary system. The two largest economies display strikingly divergent regulatory approaches to cryptocurrencies and Central Bank Digital Currency (CBDC). China completely banned cryptocurrencies but became a front-runner in developing a CBDC. It aims to expand the RMB's global role without giving up its monetary control. U.S. administrations have instead reluctantly considered regulating cryptocurrencies. Discussions on a potential digital U.S. dollar (USD) only began in 2020. Washington aims at preserving the existing cross-border financial mechanisms and offshore infrastructure for USD-denominated transactions and credit creation. It focuses on financial crime and maintaining the innovation dynamic of its private sector to preserve its “exorbitant privilege.” Emerging financial infrastructures and standards for digital currencies are the new technological arena for U.S.–China monetary competition. © 2022 The Authors. Policy & Internet published by Wiley Periodicals LLC on behalf of Policy Studies Organization.",
+    "source": "Policy and Internet"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

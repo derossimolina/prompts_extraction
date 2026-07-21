@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1457-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Guarantees and Profit-Sharing Contracts in Project Financing",
+    "authors": "Kabir Hassan M.; Soumaré I.",
+    "year": "2015",
+    "doi": "10.1007/s10551-014-2201-0",
+    "abstract": "This paper proposes a model to study the arrangement of Islamic project finance with the participation of the government as a provider of loan guarantees. The owner-shareholders (musharakah certificate holders) initiate a project and raise funds by issuing Islamic profit-loss sharing mudarabah certificates. The government intervenes in providing financial guarantees in order to enhance the creditworthiness and increase the mudarabah capital capacity of the project. Our work raises several policy implications related to the structuring of Islamic project finance and the participation of both government and multilateral public agencies such as the Islamic Development Bank. It provides a unifying framework for the improvement of access to funds for Islamic projects and gives a rationale for government intervention in the arrangement of these projects. © 2014, Springer Science+Business Media Dordrecht.",
+    "source": "Journal of Business Ethics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

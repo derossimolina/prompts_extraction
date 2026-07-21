@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0059-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "AI-driven RegTech and Crypto Laundering: The Dilemmas Between Financial Crime Prevention and Privacy Law",
+    "authors": "Fajri K.F.; Fachrezzi B.R.; Urumsah D.",
+    "year": "2026",
+    "doi": "10.1177/02601079261417007",
+    "abstract": "Cryptocurrency, as a transformative financial innovation, has reshaped global financial ecosystems while simultaneously introducing new risks of money laundering. To address these challenges, regulators increasingly employ AI-driven Regulatory Technology (RegTech) to strengthen anti-money laundering (AML) enforcement. Yet, this study reveals that the primary aim of crime prevention through RegTech generates unintended consequences by colliding with personal data protection laws, creating a profound regulatory and ethical paradox. Employing an exploratory qualitative approach, this study integrates semi-structured interviews with RegTech providers and document analysis, analysed through Braun and Clarke’s thematic framework. Findings reveal three central themes: the conflict between RegTech and personal data protection, the imbalance between AML requirements and data subject rights, and the dilemma of the presumption of innocence in RegTech implementation. Theoretically, the study contributes by applying Situational Crime Prevention (SCP) and Solove’s Taxonomy of Privacy to conceptualise how Know Your Data (KYD) mechanisms, while effective in deterring crime, risk infringing individual privacy. Practically, the results emphasise the urgent need for regulators, RegTech developers, and Crypto FinTech institutions to design adaptive governance frameworks that balance AML compliance with data protection principles. This study thus establishes a foundation for future research into privacy-enhancing technologies and equitable data governance, advancing interdisciplinary discourse at the intersection of AI, financial regulation, and digital rights. © 2026 The Author(s)",
+    "source": "Journal of Interdisciplinary Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

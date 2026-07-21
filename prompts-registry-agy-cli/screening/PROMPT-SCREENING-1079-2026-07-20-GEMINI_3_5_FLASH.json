@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1079-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The darknet's smaller than we thought: The life cycle of Tor Hidden Services",
+    "authors": "Owenson G.; Cortes S.; Lewman A.",
+    "year": "2018",
+    "doi": "10.1016/j.diin.2018.09.005",
+    "abstract": "The Tor Darknet is a pseudo-anonymous place to host content online frequently used by criminals to sell narcotics and to distribute illicit material. Many studies have attempted to estimate the size of the darknet, but this paper will show that previous estimates on size are inaccurate due to hidden service lifecycle. The first examination of its kind will be presented on the differences between short-lived and long-lived hidden services. Finally, in light of a new Tor protocol for the darknet which will prevent the running of relays to learning darknet sites, an analysis is presented of the use of crawling and whether this is an effective mechanism to discover sites for law enforcement. © 2018 Elsevier Ltd",
+    "source": "Digital Investigation"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

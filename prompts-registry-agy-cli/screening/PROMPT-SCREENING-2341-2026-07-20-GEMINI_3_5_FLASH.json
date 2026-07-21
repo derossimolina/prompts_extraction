@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2341-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Liability of Banks for Aiding Tax Evasion: A Comparative Analysis of German and UK Law",
+    "authors": "Wilke, M; Macpherson, A",
+    "year": "2019",
+    "doi": "10.1017/err.2019.15",
+    "abstract": "This article compares the regulatory liability of German banks for aiding tax evasion under the German Act on Regulatory Offences with the UK corporate offences of failure to prevent the facilitation of tax evasion under the Criminal Finances Act (CFA) 2017. The study demonstrates that the approaches share some similarities; however, major differences are also evident. Unlike the German approach, the CFA provisions are designed as strict liability provisions, whereas the German regulatory offence requires an intentional or negligent omission to take the supervisory measures required to prevent contraventions of the law. Moreover, the scope of the offences under UK law is wider than the scope of their German equivalent. In addition, the CFA provisions do not place financial limits on the fines that can be imposed. Because of these differences, the CFA is likely to be more effective in preventing banks from aiding tax evasion than its German counterpart. Consideration should therefore be given to reforming German law to make it more like its UK equivalent, especially in the post-Panama Papers world.",
+    "source": "EUROPEAN JOURNAL OF RISK REGULATION"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

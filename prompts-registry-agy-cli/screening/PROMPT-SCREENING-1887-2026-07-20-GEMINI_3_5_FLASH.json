@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1887-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Sentinels in the banking industry",
+    "authors": "Favarel-Garrigues G.; Godefroy T.; Lascoumes P.",
+    "year": "2008",
+    "doi": "10.1093/bjc/azm059",
+    "abstract": "Private actors in finance, especially in the banking industry, have played a leading role in the campaign, institutionalized during the 1990s, against money laundering. Assigned the duty of detecting dubious transactions in their establishments, they are supposed to inform Tracfin - a finance intelligence unit located in the French Ministry of Finance - of their suspicions. The latter decides whether to alert judicial authorities. A set of interviews conducted with the 'compliance officers' in banks who supervise the implementation of regulations against money laundering are analyzed in order to understand how persons whose normal duties are oriented toward commercial activities based on a high regard for privacy are being led to assume police duties and how they are performing in this new role.",
+    "source": "British Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0910-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "ADOPTION OF ELECTRONIC MANAGEMENT IN THE BANKING SECTOR A CASE STUDY ON BABEL BANK IN IRAQ; [ADOÇÃO DA GESTÃO ELETRÔNICA NO SETOR BANCÁRIO UM ESTUDO DE CASO SOBRE O BABEL BANK NO IRAQ]; [ADOPCIÓN DE LA GESTIÓN ELECTRÓNICA EN EL SECTOR BANCARIO UN ESTUDIO DE CASO SOBRE EL BANCO BABEL DE IRAQ]",
+    "authors": "Ali H.B.",
+    "year": "2023",
+    "doi": "10.26668/businessreview/2023.v8i4.1104",
+    "abstract": "Purpose: The aim of this study is to identify The Adoption of electronic management in the banking sector a case study on Babel Bank in Iraq. Theoretical framework: Due to Rosa, A. T. R., Pustokhina, I. V., Lydia, E. L., Shankar, K., & Huda, M. (2019), Concept of Electronic Document Management System (EDMS) as an Efficient Tool for Storing Document. Abdullah, F. M., Mohammed, A. A., Maatuk, A. M., & Elberkawi, E. K., (2019), Assessing Quality Standards in Electronic Gates of Educational Institutions: A Field Study. Faccia, A., Moşteanu, N. R., Cavaliere, L. P. L., & Mataruna-Dos-Santos, L. J., (2020), Electronic Money Laundering, The Dark Side of Fintech: An Overview of the Most Recent Cases. Design/methodology/approach: To achieve the study aims, the current study adopted a methodological approach in which statistical techniques were applied to evaluate the questionnaire survey data. Findings: It was discovered that there is a high degree of adoption of electronic management in the banking industry in a case study that was conducted on Babel Bank in Iraq, where the mean value was 4.163 also the standard deviation was 0.735. Research, practical and social implications: This study helps decision makers in banks to adopt electronic management in all banking activities to achieve the highest possible profit and with very high quality services, efficiency and effectiveness. The support of senior management is the main component of the success of this work. Originality/value: The value of the study is e-Management extends well beyond the concept of automating work to the concept of data also information integration across multiple departments, as well as to directing the institution's work policies also procedures toward achieving its goals. © 2023 The Author(s).",
+    "source": "International Journal of Professional Business Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

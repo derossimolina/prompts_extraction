@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0677-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "CONSIDERATION OF THE PECULIARITIES OF ANALYZING FINANCIAL TRANSACTIONS SUBJECT TO FINANCIAL MONITORING IN TIMES OF WAR",
+    "authors": "Vovchak O.; Yendorenko L.",
+    "year": "2023",
+    "doi": "10.15587/2706-5448.2023.284222",
+    "abstract": "The object of the research is the financial transactions that are subject to financial monitoring. Today, financial monitoring is an integral part of the activities of Ukrainian banks, especially during the period of martial law, since it is through banks that the process of laundering proceeds from crime most often occurs. The article discusses the peculiarities of analyzing financial transactions subject to financial monitoring in wartime. In particular, the author outlines the trends in the banking system. Given the current challenges, in particular, martial law in Ukraine, the author analyzes the dynamics of submission by banks of reports on financial transactions subject to financial monitoring, including in terms of financial monitoring features, and investigates the factors that affect their number. A forecast of the volume of reports is made. The author analyzes the recommendations of the State Financial Monitoring Service of Ukraine (SFMS), which contribute to the improvement of customer service processes in banks in order to counteract money laundering and terrorist financing. The authors also provide the main tools used for money laundering, terrorist financing, etc. during the war. The author describes the impact of money laundering and terrorist financing on the financial security of the state. The military aggression of the russian federation against Ukraine has had a significant impact on money laundering, terrorist financing, and the financing of the proliferation of weapons of mass destruction. Due to untimely/ non-operational or inefficient/poor quality analysis and appropriate response of banks to financial transactions that are subject to financial monitoring, this direction in the activities of banks requires special attention. In the current situation, there are new challenges and threats that have signs of criminal acts and fraud: – financing of war and terrorism/separatism; laundering the proceeds of corruption; – embezzlement of budget funds and funds of state enterprises; – laundering of proceeds from crimes related to fraudulent acquisition of funds of citizens and legal entities by deception, including under the guise of assistance to the Armed Forces of Ukraine. The authors propose to improve the legislative and regulatory acts in the field of financial monitoring and to introduce penalties for bank employees for improper performance of their duties at the legislative level. The authors also focus on the proper automation of processes in banks. © The Author(s) 2023.",
+    "source": "Technology Audit and Production Reserves"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0903-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Dark Networks, Transnational Crime and Security: The Critical Role of Brokers",
+    "authors": "McCarthy-Jones A.; Turner M.",
+    "year": "2024",
+    "doi": "10.31389/jied.226",
+    "abstract": "The growth of transnational organised crime has been widely perceived as a major national and international security threat. The growth has been facilitated by globalisation, in which people, money, information and goods flow more easily and rapidly across international borders. To take advantage of the illicit transnational business opportunities, crime groups have restructured from hierarchical organisations to more loosely structured configurations known as ‘dark networks.’ Crucial to the success of these networks are brokers, who enable exchanges between previously disconnected actors. In this paper, we present a new way in which to understand the role of the broker in illicit networks by distinguishing how brokers adopt different strategies that ultimately have a transactional or transformational impact on the networks they serve. © 2024 The Author(s).",
+    "source": "Journal of Illicit Economies and Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

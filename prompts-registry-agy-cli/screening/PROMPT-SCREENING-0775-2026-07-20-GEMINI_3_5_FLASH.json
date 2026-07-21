@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0775-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Evidencing source of wealth–challenges, questions, solutions and recommendations",
+    "authors": "Menz M.",
+    "year": "2024",
+    "doi": "10.1108/JMLC-02-2023-0041",
+    "abstract": "Purpose: The purpose of this paper is twofold. Firstly, it highlights areas of disconnect between how the financial services sector in the UK approaches the requirement to evidence source of wealth when conducting customer due diligence; the requirements of the UK’s laws and regulations in relation to evidence source of wealth; and the expectations of the Financial Conduct Authority (FCA) in this regard. It then proposes an alternative approach to evidencing source of wealth. Design/methodology/approach: Semi-structured interviews have been carried out among compliance professionals in UK financial services. Findings: This paper provides rare insight into the anti-money laundering arrangements of UK banks, an area that has not yet been widely researched in the academic literature. It highlights a lack of legal certainty in the UK’s laws and regulation around anti-money laundering and argues that the expectations of the FCA exceed both the letter and the spirit of the laws. It suggests that mixed messages disseminated by the FCA have incentivised banks to shift their focus from financial crime risk (i.e. preventing money laundering and terrorist financing, etc.) towards regulatory risk (i.e. the risk of falling foul of regulatory expectations) and proposes a change to the law and regulatory guidance to enhance the level of legal certainty needed for the law to be effective. Practical implications: The paper makes suggestions for a more practical and risk-based approach to anti-money laundering compliance and for a much-needed change in the law. Originality/value: It provides unique insight into the due diligence challenges of financial services firms and argues for the FCA to propagate a more risk-based approach to enhanced due diligence. © 2023, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

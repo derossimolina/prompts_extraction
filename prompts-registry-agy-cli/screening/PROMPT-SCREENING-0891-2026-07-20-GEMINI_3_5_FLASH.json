@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0891-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Identification and prioritization of the risks in the mass adoption of artificial intelligence-driven stable coins: The quest for optimal resource utilization",
+    "authors": "Sood K.; Singh S.; Behl A.; Sindhwani R.; Kaur S.; Pereira V.",
+    "year": "2023",
+    "doi": "10.1016/j.resourpol.2022.103235",
+    "abstract": "Industry 4.0 technologies have been revolutionizing the financial sector over the past few decades through the emergence of disruptive technologies. These disruptive technologies have also given rise to a new monetary taxonomy known as “digital currencies.” One form of digital currency that provides a more effective, environmentally friendly, stable, and reasonably priced payment alternative is stablecoin, an artificial intelligence-driven payment rail. However, it poses unique risks to the broader financial system, putting the country's economy at risk if it is adopted as a mainstream means of payment. In this context, the present study identifies and prioritizes several major risk categories and their classifications that prevent stablecoins from becoming mainstream payment instruments. Three sequential stages were followed to complete the entire research. The initial phase identified four risk categories and their classifications through a systematic literature review. Thereafter, Pythagorean fuzzy delphi was used in the study to validate the identified risk categories. To prioritize these risks, the authors employed a Pythagorean fuzzy analytical hierarchy and a combined comprehensive solution approach in the final stage. The results of this study revealed that technical risks, which are the biggest impediment to the widespread adoption of stablecoins as a means of payment, were the most influential criterion, followed by macroeconomic risks and legal and regulatory risks. The least significant criterion has been discovered to be user-centric risks. In sub-criterion ranking, monetary stability risks, relative price stability risks, concentration risks, money laundering (ML)/terrorist financing (TF) and other illicit activities, oracle risks, smart contract failures, operational failures, privacy risks, and consumer protection risks are the leading risks. This study is relevant to individuals, investors, researchers, policymakers, and regulators in the long-term evolution of the stablecoin ecosystem. © 2022 Elsevier Ltd",
+    "source": "Resources Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por falta de aplicação de métodos computacionais focados especificamente em simular ou prever comportamentos ou dinâmicas de lavagem de dinheiro no contexto de organizações criminosas.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

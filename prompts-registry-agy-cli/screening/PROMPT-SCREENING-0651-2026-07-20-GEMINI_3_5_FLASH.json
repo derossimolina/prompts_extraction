@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0651-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Tying policy to system: Does the Ross Sea region marine reserve protect transport pathways connecting the life history of Antarctic toothfish?",
+    "authors": "Ashford J.; Dinniman M.; Brooks C.; Wei L.; Zhu G.",
+    "year": "2022",
+    "doi": "10.1016/j.marpol.2021.104903",
+    "abstract": "A central objective of the Ross Sea region Marine Protected Area (MPA) is to protect areas important to the life cycle of Antarctic toothfish (Dissostichus mawsoni), a top fish predator and by far the region's most important commercial species. Juvenile toothfish predominate in deep basins along the inner continental shelf, whereas adults are found mostly along the continental slope and spawning areas on the Pacific-Antarctic Ridge. The inner basins connect to the continental slope via glacial troughs and predictable transport along each trough results in exchange with the Antarctic Slope Current as it flows westward. From the slope, two transport pathways, an eastern one from Iselin Bank and a western one that turns cyclonically along the flank of the Southeast Indian Ridge, connect northward to the Pacific-Antarctic Ridge, where the northern arm of the Ross Gyre and the Antarctic Circumpolar Current flow eastward. Using a circulation model to compare transport pathways connecting toothfish life history areas, we consider which inshore basins are likely most important in contributing to adult spawning aggregations; how transport pathways from each may be expected to influence distributions along the continental slope and Pacific-Antarctic Ridge; and how zonal transport pathways may promote export to areas downstream of the marine reserve. Although the MPA protects some critical life history pathways for toothfish, others remain vulnerable to commercial fishing, and we argue that those in adjacent areas along the Iselin Bank, Pacific-Antarctic Ridge and the Amundsen Sea might usefully be protected, discussing the range of policy instruments available. We also recommend consideration of transport pathways in deliberations for a proposed network of Southern Ocean MPAs, introducing a system-based tool using chemical tracers in otoliths that can test for toothfish movement between areas connected along the Antarctic Slope Current and Antarctic Circumpolar Current. © 2021 The Authors",
+    "source": "Marine Policy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

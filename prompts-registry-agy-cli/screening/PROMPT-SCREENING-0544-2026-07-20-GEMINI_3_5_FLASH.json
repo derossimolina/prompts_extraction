@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0544-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Poirot, Pacioli, and Pedagogy: Using Accounting History to Build an Introductory Forensic Accounting Course",
+    "authors": "Badua F.A.",
+    "year": "2022",
+    "doi": "10.2308/AAHJ-2022-013",
+    "abstract": "Praeterita praecipiunt. ‘‘The past teaches.’’ Forensic accounting is a specialization that is projected to grow rapidly, and courses for which are in great demand. While accounting faculty are familiar with cases that could be used to illustrate instances of and investigations into financial statement fraud, the full scope of forensic accounting includes consideration of other crimes and misdeeds. Hence, this article suggests an approach by which students can be introduced to forensic accounting areas such as occupational fraud, corruption, cybercrime, money laundering, the Fraud Triangle, whistle-blowing, and giving testimony, by providing a list of historical cases and resources in various media for the forensic accounting course instructor’s use. © 2022, American Accounting Association. All rights reserved.",
+    "source": "Accounting Historians Journal"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

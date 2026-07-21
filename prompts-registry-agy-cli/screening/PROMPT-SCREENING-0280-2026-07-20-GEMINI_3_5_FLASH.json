@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0280-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cryptocurrencies as a Tool for Money Laundering: Risk Assessment and Perception of Threats Based on Empirical Research",
+    "authors": "Spyra M.; Balina R.; Idasz-Balina M.; Zając A.; Różyński F.",
+    "year": "2025",
+    "doi": "10.3390/risks13100189",
+    "abstract": "As the global economy undergoes rapid digital transformation, cryptocurrencies have emerged as a prominent alternative class of financial assets. Their decentralized nature, pseudonymity, and lack of centralized oversight have attracted considerable interest among investors while simultaneously raising significant concerns among regulators and compliance professionals. While cryptocurrencies offer benefits such as enhanced accessibility and transactional privacy, they also pose notable risks, particularly their potential misuse in financial crimes, including money laundering. This study explores the perceived risks associated with cryptocurrencies in the context of money laundering, drawing on insights from a survey conducted among 50 financial sector professionals. A quantitative research design was employed, using a structured online questionnaire to assess participants’ awareness, investment behavior, and perceptions of the role of cryptocurrencies in illicit finance and financial system security. The results reveal a complex perspective: while 70% of respondents acknowledged the potential for cryptocurrencies to facilitate money laundering, 60% expressed support for their wider adoption. Notably, statistically significant correlations emerged between active investment in cryptocurrencies and the belief that they could enhance financial market security and reduce laundering risks. However, self-reported knowledge levels and general awareness did not show a significant relationship with perceived risk. The findings underscore the importance of a balanced approach to regulation, one that fosters innovation while mitigating illicit finance risks. The study recommends increased investment in user education, the development of blockchain analytics, the adoption of global regulatory standards and enhanced international cooperation to ensure the responsible evolution of the cryptocurrency ecosystem. © 2025 by the authors.",
+    "source": "Risks"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

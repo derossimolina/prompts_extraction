@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2435-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "A calculated assault on the authority of the state? Crime, politics and extradition in 21st century Jamaica",
+    "authors": "Sives, A",
+    "year": "2012",
+    "doi": "10.1007/s10611-012-9391-0",
+    "abstract": "The Jamaican state has operated under a form of the Westminster model, dominated by the Jamaica Labour Party (JLP) and the People's National Party (PNP), since independence in 1962. There have been sixteen general elections since universal adult suffrage in 1944, regular changes of government have occurred and it has been regarded as a stable democracy for the majority of the period of its existence. However, this apparent stability masks a political culture which has been marked by violence and corruption. Whilst the political violence of the late 1970s had declined significantly by the end of the twentieth century, the spiralling crime rate has been an ongoing problem for both PNP and JLP governments. In this article, I explore the nature of the relationship between politics and crime in twenty-first century Jamaica. I argue that the original links between politics and crime which were forged in the preindependence stage and which assisted the consolidation of bi-partisan hegemony, have undermined the integrity and authority of the state in the twenty-first century. This discussion is approached through analysis of the recent controversy surrounding the extradition of Jamaica citizen, Christopher 'Dudus' Coke, to the United States on charges of firearms and drug trafficking.",
+    "source": "CRIME LAW AND SOCIAL CHANGE"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

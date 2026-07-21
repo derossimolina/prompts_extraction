@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1794-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Organizing the finances for and the finances from transnational corporate bribery",
+    "authors": "Lord N.; Levi M.",
+    "year": "2017",
+    "doi": "10.1177/1477370816661740",
+    "abstract": "This article analyses the finances for and the finances from corporate bribery in international business transactions and how they are organized. Transnational corporate bribery involves non-criminal commercial enterprises that operate in licit markets but that use corrupt means to win or maintain business contracts in foreign jurisdictions. This article first considers what needs to be financed, how much finance is needed, and how the bribes can be generated and distributed. Second, the article considers the different forms of proceeds that emerge out of the bribery, how offenders must conceal the derivation of funds from these crimes while also retaining control over them, and how they must overcome particular obstacles. Finally, the article discusses responses to the proceeds of bribery and related anti-money laundering provisions, before analysing actual and potential mechanisms for intervening with the finances for and from transnational corporate corruption. © 2016, © The Author(s) 2016.",
+    "source": "European Journal of Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

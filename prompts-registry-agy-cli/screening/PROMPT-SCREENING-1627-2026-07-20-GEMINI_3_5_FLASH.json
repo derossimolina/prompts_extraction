@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1627-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Nigeria's quest to recover looted assets: The Abacha affair; [Die bemühungen nigerias um rückgabe geraubter vermögenswerte: Die abacha-affäre]",
+    "authors": "Enweremadu D.U.",
+    "year": "2013",
+    "doi": "10.1177/000203971304800203",
+    "abstract": "After a successful transition to democratic rule in 1999, Nigeria launched a high-profile campaign aimed at securing the repatriation of looted public funds being held in foreign banks. This campaign was championed by President Olusegun Obasanjo, a long-standing critic of corrupt military regimes and co-founder of the global anti-corruption NGO Transparency International, throughout his eight-year tenure. By the time Obasanjo left office in May 2007, he had secured the recovery of approximately 2 billion USD in assets and triggered some vital international initiatives against money laundering. However, his efforts were hampered by a combination of local and external obstacles. Externally, the campaign was marked by the absence of sufficient international political will. While at the domestic level, it was undermined by a lack of transparency, the excessive fixation with the Abacha loot, inadequate legal and accounting skills, the uncooperative attitude of accused persons and limited domestic political will. This paper illustrates how these issues have combined to frustrate moves to recover Nigeria's stolen billions sitting in the West.",
+    "source": "Africa Spectrum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

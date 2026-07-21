@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1877-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Measuring global money laundering: \"The Walker Gravity Model\"",
+    "authors": "Walker J.; Unger B.",
+    "year": "2009",
+    "doi": "10.2202/1555-5879.1418",
+    "abstract": "Measuring global money laundering, the proceeds of transnational crime that are pumped through the financial system worldwide, is still in its infancy. Methods such as case studies, proxy variables, or models for measuring the shadow economy all tend to under- or overestimate money laundering. The model presented here is a gravity model which makes it possible to estimate the flows of illicit funds from and to each jurisdiction in the world and worldwide. This \"Walker Model\" was first developed in 1994, and used and updated recently. We show that it belongs to the group of gravity models which have recently become popular in international trade theory. Using triangulation, we demonstrate that the original Walker Model estimates are compatible with recent findings on money laundering. Once the scale of money laundering is known, its macroeconomic effects and the impact of crime prevention, regulation and law enforcement effects on money laundering and transnational crime can also be measured. © 2009 by bepress.",
+    "source": "Review of Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

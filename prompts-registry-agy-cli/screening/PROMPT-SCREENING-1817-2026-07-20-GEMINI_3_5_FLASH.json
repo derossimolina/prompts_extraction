@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1817-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Promoting Corporate Responsibility in Private Banking: Necessary and Sufficient Conditions for Joining the Wolfsberg Initiative Against Money Laundering",
+    "authors": "Maggetti M.",
+    "year": "2014",
+    "doi": "10.1177/0007650312439448",
+    "abstract": "In recent years, the fight against money laundering has emerged as a key issue of financial regulation. The Wolfsberg Group is an important multistakeholder agreement establishing corporate responsibility (CR) principles against money laundering in a domain where international coordination remains otherwise difficult. The fact that 10 out of the 25 top private banking institutions joined this initiative opens up an interesting puzzle concerning the conditions for the participation of key industry players in the Wolfsberg Group. The article presents a fuzzy-set analysis of seven hypotheses based on firm-level organizational factors, the macro-institutional context, and the regulatory framework. Results from the analysis of these 25 financial institutions show that public ownership of the bank and the existence of a code of conduct are necessary conditions for participation in the Wolfsberg Group, whereas factors related to the type of financial institution, combined with the existence of a black list, are sufficient for explaining participation. © 2012 SAGE Publications.",
+    "source": "Business and Society"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

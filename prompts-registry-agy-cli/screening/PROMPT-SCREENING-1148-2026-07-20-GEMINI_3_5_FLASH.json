@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1148-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Purposeful Fentanyl Use and Associated Factors among Opioid-Dependent People Who Inject Drugs",
+    "authors": "Chandra D.K.; Altice F.L.; Copenhaver M.M.; Zhou X.; Didomizio E.; Shrestha R.",
+    "year": "2021",
+    "doi": "10.1080/10826084.2021.1901931",
+    "abstract": "Introduction: In recent years, opioid-related mortality has increased steadily in the United States. Fentanyl, a synthetic opioid, has been a primary driver of the current wave of overdose-related deaths. Little is known, however, about fentanyl use among opioid-dependent people who inject drugs (PWID). We, therefore, sought to characterize purposeful fentanyl use among PWID. Methods: A cross-sectional survey was administrated to 104 opioid-dependent PWID on methadone who self-reported drug- or sex-related risk behaviors. Participants were recruited between July 2018 and October 2019 from a methadone clinic in New Haven, Connecticut. Multivariable logistic regressions were used to identify independent correlates of purposeful fentanyl use. Results: Overall, 43.2% and 22.1% of the participants reported any (lifetime) or recent (past 30 days) purposeful fentanyl use, respectively. Independent correlates of any purposeful fentanyl use were younger age (aOR= 0.94; p = 0.021), recent daily injection (aOR= 3.52; p = 0.047), recent cocaine use (aOR= 3.54; p = 0.041), and moderate/severe depression (aOR= 3.82; p = 0.028). Independent correlates of recent purposeful fentanyl use were moderate/severe depression (aOR= 10.94; p = 0.031), recently sharing injection equipment (aOR= 2.96; p = 0.044), and recently engaging in transactional sex (aOR= 3.60; p = 0.026). Conclusions: These findings indicate that opioid-dependent PWID on methadone remain at increased risk for overdose given the high prevalence of ongoing purposeful fentanyl exposure. Interventions to reduce the harms associated with fentanyl use should target young PWID and active fentanyl users, with an emphasis on achieving adequate methadone dosage and screening and treating depression in methadone-maintained patients who preferentially seek fentanyl. © 2021 Taylor & Francis Group, LLC.",
+    "source": "Substance Use and Misuse"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

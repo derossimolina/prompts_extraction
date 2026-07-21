@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0212-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The impact of migration and digitisation on global remittance volumes and socio-economic development",
+    "authors": "Shah S.",
+    "year": "2024",
+    "doi": "10.69554/umnd7478",
+    "abstract": "This paper studies the impact of migration and digitisation on global remittance volumes. It finds that changes in migration trends are not only improving the financial status of the families affected but also positively affecting the flow of income for some low and middle-income countries, contributing significantly to their gross domestic product, and thus providing them with more money to spend on social infrastructure. At the same time, increasing digitisation within the remittance industry is driving greater efficiency and thus reducing the cost of remittance and, in turn, reducing reliance on traditional and less efficient information-based remittance approaches, such as hawala. The paper uses both graphical analysis and regression analysis to illustrate the economic impact of migration trends and technological innovation in the remittance sector. Looking to the future, the paper predicts exciting times for the remittance industry due to further shifts in migration patterns and the adoption of new digital technologies, such as distributed ledger technology and blockchain. The paper calls for more opportunities for similar investigations as well as studies into how factors such as stringent implementation and the enforcement of financial crime regulation and policy frameworks by governments have a bearing on the growth of the remittance industry. © Henry Stewart Publications, 1750-1806.",
+    "source": "Journal of Payments Strategy and Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

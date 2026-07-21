@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1393-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Can artificial intelligence, RegTech and CharityTech provide effective solutions for anti-money laundering and counter-terror financing initiatives in charitable fundraising",
+    "authors": "Singh C.; Lin W.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-09-2020-0100",
+    "abstract": "Purpose: Artificial intelligence has had a major impact on organisations from Banking through to Law Firms. The rate at which technology has developed in terms of tasks that are complex, technical and time-consuming has been astounding. The purpose of this paper is to explore the solutions that AI, RegTech and CharityTech provide to charities in navigating the vast amount of anti-money laundering and counter-terror finance legislation in the UK; so that they comply with the requirements and mitigate the potential risk they face but also develop a more coherent and streamlined set of actions. Design/methodology/approach: The subject is approached through the analysis of data, literature and, domestic and international regulation. The first part of the paper explores the current obligations and risks charities face, these are then, in the second part, set against the examination of potential technological solutions as of August 2020. Findings: It is suggested that charities underestimate the importance of the nature and size of the threat posed to them, this is significant, as demonstrated, given the growing size and impact of the sector. Technological solutions are suggested to combat the issues charities face. Originality/value: The study is original because it is the first to create the notion of CharityTech and to specifically explore what technological advances can assist charities in meeting the regulatory compliance challenge. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

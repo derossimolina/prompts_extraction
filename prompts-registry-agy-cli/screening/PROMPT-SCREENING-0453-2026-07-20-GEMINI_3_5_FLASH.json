@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0453-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Who influences whom: do students' perceptions of physical education teacher's (de)motivating styles shape student motivation, vice versa, or both?",
+    "authors": "Van Doren N.; Haerens L.; Reeve J.; Jang H.-R.; Bouten A.; Compernolle S.; De Cocker K.",
+    "year": "2026",
+    "doi": "10.1080/17408989.2026.2616627",
+    "abstract": "Background: Student motivation for Physical Education (PE) is a key predictor of positive outcomes. Much of the existing research, grounded in Self-Determination Theory (SDT), highlights the influential role of PE teachers' (de)motivating styles on student motivation. However, this teacher-focused perspective tends to overlook students' active role in shaping the classroom environment. According to the Transactional Model, a two-way pathway exists with teachers influencing students (i.e. teacher-driven) and students influencing teachers (i.e. student-driven). However, this theorized reciprocity has yet to be empirically investigated. Purpose: This study examined reciprocal longitudinal pathways between students' motivation (i.e. autonomous motivation, controlled motivation, and amotivation) and their perceptions of their PE teacher's (de)motivating styles (i.e. autonomy support, structure, control, and chaos). Method: High school students (n = 339; aged 11–20 years, M = 15.24, SD = 1.60) completed surveys at two time points during the 2022–2023 schoolyear (M interval = 15.74 weeks, SD = 4.49). Students reported their perceptions of teacher's (de)motivating styles using the Situation-in-School Physical Education Questionnaire and their own motivation using the Behavioral Regulations in Physical Education Questionnaire. Reciprocal associations were tested using an autoregressive cross-lagged panel model. Findings: No significant longitudinal teacher-driven pathways were found. However, three significant longitudinal student-driven pathways emerged. Higher baseline autonomous motivation predicted increased perceptions of autonomy-supportive and structuring teaching at follow-up, while higher baseline amotivation predicted increased perceptions of chaotic teaching at follow-up. Baseline controlled motivation did not predict any perceived (de)motivating teaching styles over time. Conclusion: The absence of perceived longitudinal teacher-driven pathways suggests that, under typical classroom conditions, students' perceptions of their PE teacher's (de)motivating styles may not be sufficient in adjusting students' motivation over time. Instead, students' initial motivation appears to shape how they experience their teachers' behaviors later on, showing the importance of incorporating student-driven pathways when investigating student-teacher motivational interactions. © 2026 Association for Physical Education.",
+    "source": "Physical Education and Sport Pedagogy"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2235-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Singapore state revisited",
+    "authors": "Hamilton-Hart N.",
+    "year": "2000",
+    "doi": "10.1080/095127400363550",
+    "abstract": "Singapore's governing elite is less bureaucractic and less separated from private interests than commonly thought. The bureaucracy has little independent strength and the political leadership is entwined with leading members of the business community, particularly the financial sector, to the point that the line between public and private is frequently indistinct. Given that democratic or interest-group constraints are minimal, transparency low and the rule of law in doubt, why Singapore's activist economic policies have not decayed into a search for private rewards is rather puzzling. This article argues that Singapore's record of sound government rests on informal governing institutions as well as attributes of the formal government sector. The informal institutions encompass nominally public and private actors in a systematized way, structuring the incorporation of private actors to embed the values of performance-based merit and working with, not against, government. The system of government is, however, fragile and may be showing signs of decay.",
+    "source": "Pacific Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

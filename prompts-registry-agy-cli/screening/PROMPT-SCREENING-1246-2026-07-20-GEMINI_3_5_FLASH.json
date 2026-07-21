@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1246-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Anti-money laundering regulation of crypto assets in Europe’s smallest member state",
+    "authors": "Buttigieg C.P.; Efthymiopoulos C.; Attard A.; Cuyle S.",
+    "year": "2019",
+    "doi": "10.1080/17521440.2019.1663996",
+    "abstract": "The paper critically examines the framework for the regulation of crypto assets in Malta, with a particular focus on anti-money laundering and funding of terrorism. It identifies the risks relating to crypto assets, and how these are addressed through Malta's Virtual Financial Assets Framework. To this end, the paper argues that the Maltese framework goes beyond the EU's fifth Anti-Money Laundering Directive. In this connection, the paper also argues that the Maltese framework could possibly be a model for a more extensive EU regime in this context. Finally, the paper sets forth recommendations towards action which may be taken at an EU level in order to address the money laundering and terrorism financing threats associated with crypto assets. © 2019, © 2019 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Law and Financial Markets Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

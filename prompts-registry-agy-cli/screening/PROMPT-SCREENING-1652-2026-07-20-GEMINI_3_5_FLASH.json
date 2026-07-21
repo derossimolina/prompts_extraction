@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1652-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Combining feminist pedagogy and transactional distance to create gender-sensitive technology-enhanced learning",
+    "authors": "Herman C.; Kirkup G.",
+    "year": "2017",
+    "doi": "10.1080/09540253.2016.1187263",
+    "abstract": "In this paper, we argue for a new synthesis of two pedagogic theories: feminist pedagogy and transactional distance, which explain why and how distance education has been such a positive system for women in a national distance learning university. We illustrate this with examples of positive action initiatives for women. The concept of transactional distance allows us to explore distance as a form of psychological and communication space, not simply of geographical distance. Feminist pedagogy, on the other hand, has recognised the importance of gender in structuring disciplines as well as teaching strategies. Both theories implicitly position the face-to-face classroom as the ideal learning environment, with the implication that distance learning has to produce a deficient environment. We argue that the evidence for women does not support this and present examples of feminist distance learning provision that has offered successful technology-enhanced learning and educational opportunities. © 2016 Informa UK Limited, trading as Taylor & Francis Group.",
+    "source": "Gender and Education"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

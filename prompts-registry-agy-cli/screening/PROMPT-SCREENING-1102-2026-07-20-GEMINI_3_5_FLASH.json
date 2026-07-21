@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1102-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An Intelligent and Secure Framework for Anti-Money Laundering",
+    "authors": "Sobh T.S.",
+    "year": "2020",
+    "doi": "10.1080/19361610.2020.1812994",
+    "abstract": "This paper aims to secure money transactions due to money laundering crimes. It presents a Secure Intelligent Framework for Anti-Money Laundering (SIFAML). This framework is new and includes two main processes. In addition, it supports several modules. The first process is the monitoring process for detecting possible ML. The second process is a STRIPS-based planning process that targets strengthening the belief in the potential problems detected in the monitoring process. In addition, STRIPS is a hierarchical planning technique that makes utilization of the means-ends tactic, by finding the goal in the root of the hierarchical. It searches gradually for the plan services that can diminish the distinction between the current state and the goal. An important feature of SIFAML is the integration of the planner and the OWL-'s reasoner. This means that the reasoner might do the entire planner’s interactions with a particular state. In addition, SIFAML contains several supporting modules for data gathering and mediation, link analysis, and risk scoring. To present the applicability of SIFAML, it has been discussed using different instances. This work provides an analytical study and a comparison between the performance and capabilities of SIFAML and other related works are given and the concluding remarks are discussed. The proposed framework improves the discovery of ML and reduces false-positive alarms. It moves anti-money laundering frameworks to make use of an intelligent formalism by using ontology and STRIPS-based planning. Finally, this work introduces SIFAML as a novel ontology-based and plan-based system for AML frameworks. © 2020 Taylor & Francis Group, LLC.",
+    "source": "Journal of Applied Security Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

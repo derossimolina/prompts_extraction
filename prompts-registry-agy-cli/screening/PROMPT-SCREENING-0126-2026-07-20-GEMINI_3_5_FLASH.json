@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0126-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Cross-Border Evidence Gathering in Criminal Crypto Investigations: A Case Study of the Netherlands",
+    "authors": "van Roomen T.",
+    "year": "2025",
+    "doi": "10.5334/tilr.423",
+    "abstract": "This article focuses on the practical and legal-normative challenges and opportunities for cross-border criminal crypto investigations. Cryptocurrencies are (mis)used in various criminal activities. Law enforcement agencies worldwide attempt to detect these crimes. A case study of the Netherlands shows that data from crypto exchanges is often crucial for locating a suspect. However, in many cases this information is located abroad or in multiple jurisdictions, or it is unknown where it is, or the involved public and private actors do not agree on what governs enforcement jurisdiction. In such cases, traditional ways of international cooperation – i.e. the MLA system – seem to be inadequate. As a result, alternative and informal evidence-gathering practices emerge, including unilateral actions. An analysis of the applicable legal-normative framework indicates that there appears to be a legal deadlock in this regard. While the rationale behind the crypto community is decentralized work without physical borders and government interference, the authority to exercise enforcement jurisdiction remains strictly territorially bound. The international legal-normative framework as it currently stands, often does not provide answers to the questions that arise in day-to-day law enforcement practice. The case study stresses the need for innovative solutions, in which both the effectiveness of criminal crypto investigations is enhanced, and the legitimacy – particularly the protection of the state’s sovereignty and the individual’s right to privacy – can be better ensured. The key lies in cross-border knowledge exchange – across national and professional borders (academia, law enforcement and private entities) and new bi- or multilateral agreements between states. © 2025 The Author(s). This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License (CC-BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. See http://creativecommons.org/licenses/by/4.0/.",
+    "source": "Tilburg Law Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1564-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Road Mapping: Megaprojects and Land Grabs in the Northern Guatemalan Lowlands",
+    "authors": "Grandia L.",
+    "year": "2013",
+    "doi": "10.1111/dech.12020",
+    "abstract": "From IIRSA (Integration of Regional Infrastructure in South America) to the PPP (Puebla to Panama Plan, later renamed the Mesoamerica Project), development banks are sponsoring a renewed wave of mega-infrastructure projects across the Americas to support corporate trade and commerce. Concurrent with these are donor-led efforts to modernize land administration systems, including a US$ 31 million World Bank loan (1998-2007) to survey and legalize settler claims in the northern Guatemalan department of Petén. Contrary to project planners' stated goals of sustainable development, infrastructure projects have coincided with widespread land grabbing (up to 46 per cent of smallholder lands) by cattle ranchers, African palm plantations, narco traffickers, and other imbricated elites. Documenting the crossings and conjunctures of the PPP with market-led agrarian reform, this ethnographic study suggests that the Guatemalan military may be a shadow beneficiary of new power assemblages emerging from the narco/cattle/agro-industrial land concentration occurring in Petén. © 2013 International Institute of Social Studies.",
+    "source": "Development and Change"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

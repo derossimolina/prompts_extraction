@@ -1,0 +1,26 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0287-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Food Crime: Deterrence of a Potential Money Laundering Typology Through Blockchain and Generative Artificial Intelligence (Gen AI)",
+    "authors": "Tiwari M.; Rathore V.; Jecklin C.",
+    "year": "2026",
+    "doi": "10.1007/s10610-025-09641-0",
+    "abstract": "Food fraud and associated criminalities pose significant challenges to market integrity, public health, and consumer confidence, with annual costs estimated at USD 10–15 billion globally. Recent literature outlines intricate relationships between criminal activities in the food industry and financial incentives (Rizzuti, 2022b), situating this sector both as a source for illicit proceeds and a conduit for money laundering (Milon & Zafarullah, 2023; Tiwari, 2023, 2024). This paper evaluates how emerging technologies, such as blockchain (Chuah, 2022) and generative artificial intelligence (GenAI), especially large language models (LLMs) (Clercq et al., 2024; Ma et al., 2024), could aid in deterring wrongdoing in the food sector. Utilising a structured literature review methodology, we analysed 31 studies employing Latent Dirichlet Allocation (LDA) for topic modelling combined with Faff’s (2015) pitching research template for qualitative assessment, supplemented by bibliometric analysis of 517 publications. The quantitative assessment identified five distinct thematic categories: criminological perspectives, AI and explainable methods, blockchain and supply chain solutions, analytical detection methods, and biological authentication with emerging applications. Findings reveal that biological authentication mechanisms and blockchain technology dominate current research, while criminological perspective and explainable AI methods remain underrepresented. LLMs emerge as promising frontier for improving crime detection capabilities through analysing structured and unstructured data, while requiring stringent oversight owing to potential misuse. These technologies complement each other: blockchain facilitates supply chain transparency while LLMs analyse diverse data sources to identify illicit patterns. Despite implementation challenges including scalability and data quality concerns, this combination presents opportunities to address food authentication challenges, improve traceability, and detect indicators of money laundering. However, the analysis reveals a critical disconnect between technological focus and recognition of organized crime exploitation. The present work contributes systematically by evaluating how this technological combination can disrupt food crime as a money laundering typology. © The Author(s) 2025.",
+    "source": "European Journal on Criminal Policy and Research"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo foi excluído por tratar-se de estudo qualitativo, normativo, didático ou análise jurídica/regulatória, não aplicando de fato modelos computacionais simulatórios, preditivos ou redes de transação para detecção de lavagem de dinheiro.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método"
+    ]
+  },
+  "human_decision": "pending"
+}

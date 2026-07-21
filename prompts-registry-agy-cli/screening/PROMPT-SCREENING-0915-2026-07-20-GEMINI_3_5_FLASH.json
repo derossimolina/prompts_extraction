@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0915-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Illegal Wildlife Trade: Prospects for Economic Sociology; [Исследования нелегального рынка биоресурсов: перспективы экономической социологии]",
+    "authors": "Ermolin I.V.",
+    "year": "2024",
+    "doi": "10.17323/1726-3247-2024-2-120-147",
+    "abstract": "Illlegal Wildlife Trade (IWT) is ranked as the fourth biggest illegal activity worldwide after arms, drugs and human trafficking. While it has been intensively explored to date, theoretical approaches grounded in economic sociology remain nascent. This article starts from reviewing the interdisciplinary approaches to IWT, with a special focus on whether organized crime can be associated with IWT. After choosing the pipeline model to examine the structure of the illegal market, the author consistently reviews the following stages of IWT: extraction, intermediation, and consumption. The research identified organized poaching and deliberate by-catch in marine illegal activities as two interchangeably developed phenomena that have given rise to the IWT commodity chains worldwide since the 1980s-1990s. Deliberate bycatch has been reviewed for the first time. The author connects the origins of the present-day large-scale IWT with the collapse of colonialism and socialism that nevertheless should be treated differently. Intermediary as a key actor in the trade chain is characterized according to functions and roles they play in the IWT: exporter/importer, consolidator, fixer, transporter and craftsman. Sociologists who study IWT primarily examine various aspects of consumption including household consumption, conspicuous (face) consumption, social legitimacy of poaching practices, and consumption of goods used as natural remedies for diseases. Based on the literature review, the author offers economic sociologists to look at the IWT as the one of the most socially embedded phenomena among those studied within sociology of markets. First, it would allow us to research the activities of self-sustaining household as the main actor of IWT. Second, it would give us a chance to understand shifting legal regimes that determine changes in the legality and legitimacy of economic transactions of actors in the market. © 2024 National Research University, Higher School of Econoimics. All rights reserved.",
+    "source": "Ekonomicheskaya Sotsiologiya"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

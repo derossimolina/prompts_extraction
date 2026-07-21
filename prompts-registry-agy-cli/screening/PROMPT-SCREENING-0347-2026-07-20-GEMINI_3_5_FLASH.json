@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0347-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Participation in ROSCAs as a Driver of the Household Energy Transition in Cameroon",
+    "authors": "Mounmemi M.; Kouandou A.",
+    "year": "2026",
+    "doi": "10.1002/jid.70081",
+    "abstract": "In the absence of well-functioning formal financial institutions, many households in Sub-Saharan Africa rely on informal mechanisms to mobilize savings and credit. While a substantial literature has examined the effects of these arrangements on outcomes such as nutrition, food security and resilience to adverse shocks, their potential to facilitate the energy transition—one of the core Sustainable Development Goals—remains largely unexplored. This study fills this gap by investigating whether participation in rotating savings and credit associations (ROSCAs), as a key informal financial institution, can ease liquidity constraints and promote the adoption of clean cooking technologies in Cameroon. Using data from the Fifth Cameroon Household Survey, we estimate probit models and use ROSCA membership as a proxy for access to informal financial networks. Our results show that ROSCA participation increases the likelihood of adopting clean cooking fuels by 6.7 percentage points. The association is strongest among urban households and those in regions below the national poverty threshold, likely due to better infrastructure, market access and stronger social networks. Mediation results indicate that access to informal credit is the main channel through which ROSCA participation relates to clean cooking adoption. Overall, the findings highlight the structuring role of informal finance in relaxing liquidity constraints and supporting the energy transition in low-income settings, particularly where formal financial markets remain underdeveloped. By linking informal finance directly to energy outcomes, this study extends the literature on ROSCAs and provides actionable insights for policy interventions aimed at scaling up clean cooking adoption. © 2026 John Wiley & Sons Ltd.",
+    "source": "Journal of International Development"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

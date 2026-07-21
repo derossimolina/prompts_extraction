@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1694-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The problems of qualification of illegal alienation of ownership of residential premises",
+    "authors": "Kussainov D.S.",
+    "year": "2015",
+    "doi": "10.5539/ass.v11n8p188",
+    "abstract": "This article discusses the importance of proper classification of crimes in law enforcement. Proper assessment of criminal law offenses, with signs of criminal offenses by authorized entities is of particular importance in the modern period. With regard to the subject matter it should be noted that a number of different types of problems of qualification fraud in residential real estate, as well as problems of differentiation of responsibility for that act. Acquisition and alienation of real estate is an important and crucial moment in the life of every person, often because for many it is the only value. Because of the high cost of real estate around there are different kinds of intermediaries, criminal organizations, dissemination of fraud in this area. In this article we will talk about fraud in the criminal law sense, which is often difficult to prove. Practice shows that the wrong behavior of the victims of the real estate market and relevant state bodies, their faulty actions often substantially predetermines tragic consequences. © 2015, Canadian Center of Science and Education. All rights reserved.",
+    "source": "Asian Social Science"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

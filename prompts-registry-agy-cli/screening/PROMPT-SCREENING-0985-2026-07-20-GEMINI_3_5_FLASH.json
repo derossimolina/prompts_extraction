@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0985-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Drug use and possession, emerging of new psychoactive substances in the West Bank, Palestine",
+    "authors": "Damiri B.; Sayeh W.; Odeh M.; Musmar H.",
+    "year": "2018",
+    "doi": "10.1186/s41935-018-0074-6",
+    "abstract": "Background: The use of illicit drugs has seen an upswing during the last years in the West Bank. Political, social, economic, and demographic factors may play roles in the increasing use of illicit drugs in the West Bank. This study aimed to describe drug possession among Palestinians in order to provide insight into the extent of illicit substances use, to assess their risk, and to explore new forms in order to raise awareness of these drugs. Files (3674) related to drug possession in Anti narcotic drug departments in the West Bank from 2010to 2014 were reviewed and analysed. Results: Most arrestees (99%) were males, (55.9%) aged 18- < 30, (48.8%) singles, (56.7%) with a primary level of education, and (81.8%) had used drugs for a year or more. The most common seized and used substances were cannabis, hashish (74.3%) and marijuana (15.2%), followed by synthetic cannabinoids, hydro (26.6%). MDMA (Ecstasy) was used (3.6%) more than LSD (3.1%) and more than heroin and cocaine combined (3.3%). Liquid methamphetamine was emerged as a new homemade yellow substance, with a street name (GG) that is used for improving libido. Attempts to cultivate marijuana using 31,116 seedlings and seeds were recorded. Conclusion: Tracking the possession of high-risk drugs and new psychoactive substances in a society is important for policy makers in order to investigate the circumstances and impact of these substances. There is a trend in emerging new psychoactive substances (synthetic cannabinoids), manufacturing a new drug (liquid methamphetamine), and cultivating illegal drugs (marijuana) starting from the year 2013. These results are important for prevention, treatment and control, and for law enforcement in the West Bank. Policies, strategies and action plans in the controlling new substances should be developed taking into account local and regional socioeconomic issues. © 2018, The Author(s).",
+    "source": "Egyptian Journal of Forensic Sciences"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

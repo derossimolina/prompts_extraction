@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1145-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Search for statistically approved criteria for identifying money laundering risk",
+    "authors": "Lebid O.; Veits O.",
+    "year": "2020",
+    "doi": "10.21511/bbs.15(4).2020.13",
+    "abstract": "The paper focuses on the theoretical justification and theoretical foundations of using statistical criteria for identifying money laundering risk as a tool to prevent and counteract the legalization of bank clients’ proceeds. The hypothesis is that the coefficient of variation can be appropriately used as an identifier for money laundering risk. To prove this hypothesis, a special methodology was used: generalization, grouping, statistical analysis of time series, and correlation analysis – to identify and analyze the hidden signs of the customer income legalization in the financial activities of a bank; mathematical statistics and scaling – to determine the quantitative values of risk levels for the use of bank services for legalizing customer income. The analysis of financial activities of 32 Ukrainian banks aimed at identifying money-laundering risks showed that banks in which the National Bank of Ukraine revealed suspicious transactions with money-laundering features (16 operating banks) had much higher coefficients of variation in the volume of cash flows, in cash flows for on-demand accounts of economic entities, in cash flows of on-demand accounts for individuals, compared with banks in which violations of legislation in the field of financial monitoring were revealed (eight banks), and with banks where violations were not found (eight banks). This proves that sudden changes in customer transaction volume can be a sign of money laundering risk. © Olesia Lebid, Oleksandr Veits, 2020.",
+    "source": "Banks and Bank Systems"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

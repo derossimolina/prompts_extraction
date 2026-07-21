@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0435-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Modern Approaches to Assessing ML/FT Risks in Countries with a High Level of Digital Financial Assets",
+    "authors": "Turgaeva A.A.",
+    "year": "2025",
+    "doi": "10.26794/2587-5671-2025-29-4-100-111",
+    "abstract": "An integral part of an effective anti-money laundering and counter-terrorism financing (AML/CFT) system is the assessment of these risks, which requires their full understanding by all participants in the national AML/CFT system, prompt response and the right decisions to minimize them. The essence of the problem lies in the need to regulate a new phenomenon associated with the issuance and circulation of digital financial assets (DFA). In countries where digital assets are regulated a lot, modern ways to assess AML/CFT risks involve using technology, stricter monitoring rules, and thorough risk-based methods. Key elements of these approaches include the use of machine learning algorithms to identify anomalies, the creation of rating systems to assess the risk of individual users and transactions, and active cooperation between government agencies, financial institutions and the private sector to share data and better understand the risks. There is increasing attention to the study and analysis of actual transaction flows in blockchain networks, which allows for a better understanding of potential money laundering and terrorist financing channels. Regulators in countries with a high level of control often develop detailed guidelines and recommendations for market participants, which helps standardize approaches to compliance with legal requirements. The purpose of the study is to identify ways to unify methodological approaches to AML/CFT risks using the example of countries with a high level of digital asset regulation. Methods of scientific abstraction, structural-functional analysis, comparison, and deduction were used in this paper. A unified comprehensive approach to assessing the risks of AML/CFT in the context of the issuance and circulation of digital financial assets has been developed. The practical significance of the research results lies in the possibility of using a unified methodological approach to assessing the risks of AML/CFT associated with the issuance and circulation of digital financial assets by government bodies and other participants in the national AML/CFT system. © Turgaeva А.А., 2025.",
+    "source": "Finance: Theory and Practice"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

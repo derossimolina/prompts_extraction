@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0061-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Non-Fungible Tokens (NFTs): Art or Asset? Criminogenic Accelerants of Financial Crime and Money Laundering in Digital Markets",
+    "authors": "Ozga M.; Leuprecht C.",
+    "year": "2026",
+    "doi": "10.1177/00111287261441237",
+    "abstract": "By blurring the boundary between art and financial assets, non-fungible tokens (NFTs) have created regulatory ambiguity and criminogenic vulnerabilities in digital markets. The article applies the Howey Test to an original dataset of NFT-related cases that involve financial crime. As it turns out, functionally NFTs often resemble securities: they are characterized by information asymmetries, speculative dynamics, and weak oversight. These structural gaps make NFTs attractive to facilitate fraud, money laundering, wash trading, and nefarious exploitation on decentralized platforms and incidentally by way of traditional auction houses. NFTs highlight systemic limitations of analog regulatory frameworks to contain criminogenic risk posed by virtual assets. To enhance transparency, accountability, and consumer protection in evolving digital economies, the article concludes on a paradigm shift toward an adaptive, outcomes-based regulatory approach. © The Author(s) 2026. This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).",
+    "source": "Crime and Delinquency"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

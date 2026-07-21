@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2193-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The structure of debt and active equity investors: The case of the buyout specialist",
+    "authors": "Cotter J.F.; Peck S.W.",
+    "year": "2001",
+    "doi": "10.1016/S0304-405X(00)00083-0",
+    "abstract": "This paper examines the role buyout specialists play in structuring the debt used to finance the LBO and in monitoring management in the post-LBO firm. We find that when buyout specialists control the majority of the post-LBO equity, the LBO transaction is likely to be financed with less short-term and/or senior debt and less likely to experience financial distress. We also find that buyout specialists have greater board representation on smaller boards, suggesting that they actively monitor managers, and that for these transactions, using debt with tighter terms does not significantly increase the firm's performance. In contrast, in all other transactions using such debt does significantly increase the firm's performance. These findings suggest that active monitoring by a buyout specialist substitutes for tighter debt terms in monitoring and motivating managers of LBOs. © 2001 Elsevier Science B.V.",
+    "source": "Journal of Financial Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

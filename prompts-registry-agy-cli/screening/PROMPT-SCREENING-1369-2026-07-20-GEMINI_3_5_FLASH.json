@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1369-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Prevention Policy in Controlling Narcotics Circulation in Cirebon Detention Center",
+    "authors": "Suwirno",
+    "year": "2019",
+    "doi": "10.18196/jmh.20190125",
+    "abstract": "The lack of control from the authority has opened the opportunity for the prisoners to do transaction of narcotics in the prison. Circulation of narcotics in the prisons involves complex networks. The paper aims to explore how the implementation of policies in preventing narcotics circulation in the class I Cirebon Detention Center is and how preventive construction is in handling the circulation of narcotics in the class I Cirebon Detention Center in Jalan Benteng, Cirebon City, West Java. The policies are made to prevent narcotics circulation in Cirebon Detention Center. The research was carried out through both library-based study and field work. From the research, it is found that the legal system needs to be improved in order to solve the problems of narcotics circulation in Cirebon Detention Center. The improvement is necessary to all aspect of legal system, namely: legal substance, legal structure, and legal culture. © 2018 MEDIA HUKUM. All rights reserved.",
+    "source": "Jurnal Media Hukum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

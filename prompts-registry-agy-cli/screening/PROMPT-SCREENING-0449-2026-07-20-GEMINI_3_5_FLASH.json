@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0449-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Can cryptocurrency exchanges threaten sovereign states? Lessons and hypotheses from the Binance case",
+    "authors": "Cardao-Pito T.",
+    "year": "2025",
+    "doi": "10.1108/JFC-10-2024-0336",
+    "abstract": "Purpose – Binance, currently the largest cryptocurrency exchange, was recently caught by US authorities committing serious financial crimes such as money laundering, fraud and financing terrorist organizations and organized crime. The purpose of this study is to obtain lessons and hypotheses from the Binance case regarding the relationship between sovereign states and cryptocurrency exchanges. Design/methodology/approach – This study investigates Binance’s case through a case study approach, from which two hypotheses were derived and discussed. Findings – The two new hypotheses suggest that crypto exchanges can represent a threat to sovereign states because they (a) deplete the states’ means of detection and penalization and (b) have the power to issue assets with properties akin to money, which allows them to acquire resources to compete with national states and escape sanctions. Research limitations/implications – Future research may have at least three positions regarding these two hypotheses, namely, to consider that: (I) they are false; (II) they are true but can be constrained by adequate legislation and enforcement mechanisms, which broadly is the approach from the United States and European Union; and (III) they are true and, thus, the sovereignty of national states require the prohibition of crypto exchanges, which broadly is China’s approach. Practical implications – The United States and the European Union have significantly different approaches to China regarding the risks posed by cryptocurrency exchanges on financial crime and national sovereignty. Originality/value – This study investigates the Binance case and proposes two original hypotheses with geopolitical consequences regarding the relationship between sovereign states and cryptocurrency exchanges. © 2025 Emerald Publishing Limited",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

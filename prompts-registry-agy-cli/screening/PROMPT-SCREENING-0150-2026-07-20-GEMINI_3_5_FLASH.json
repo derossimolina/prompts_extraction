@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0150-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Detecting Hawala network for money laundering by graph mining",
+    "authors": "Alenova M.; Utaliyeva A.; Li K.-J.",
+    "year": "2024",
+    "doi": "10.1016/j.jfds.2024.100147",
+    "abstract": "Hawala, a traditional but informal money transfer system, has been prevalent in many parts of the world, such as money laundering. Despite the regulatory actions taken by financial institutions, Hawala is still a key node in terror financing schemes and its extent of misuse is unknown. Due to the hidden transactions and limited knowledge about the Hawala, it is difficult for legal enforcement authorities such as financial intelligence units (FIU) of each country to detect and investigate the Hawala network. In this paper, we present a novel approach to detect the potential Hawala instances in the stream of financial transaction data by using graph mining techniques. In order to reflect the properties of Hawala, we apply graph mining methods such as graph centrality, Blackhole metric, and Hidden link metric as well as anomaly detection methods using graph convolutional network. Experiments demonstrate that the proposed method gives a meaningful result in detecting Hawala network and can be used as a complementary tool to the existing transactional monitoring tracks. © 2024 The Authors",
+    "source": "Journal of Finance and Data Science"
+  },
+  "output": {
+    "decision": "Include",
+    "reasoning": "O artigo foi incluído pois utiliza modelagem computacional (redes de transações, aprendizado de máquina ou simulação) para analisar a dissimulação financeira de lavagem de dinheiro (AML) em sistemas transacionais, capturando a estrutura e dinâmica de ocultação (layering) que representa a ação de agentes criminosos em rede.",
+    "criteria_met": [
+      "Método (Aprendizado de Máquina/Redes Neurais/GNN/Data Mining)",
+      "Contexto (Sistema financeiro/transacional)",
+      "Objeto (Modelagem de fluxos/redes de lavagem de dinheiro)"
+    ],
+    "criteria_failed": []
+  },
+  "human_decision": "pending"
+}

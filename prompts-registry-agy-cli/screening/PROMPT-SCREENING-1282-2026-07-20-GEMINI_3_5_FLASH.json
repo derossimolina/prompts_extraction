@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1282-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Regulating the global illicit economy: Singapore's role in United States' spatial financial surveillance",
+    "authors": "Poon J.P.H.",
+    "year": "2021",
+    "doi": "10.1016/j.polgeo.2021.102493",
+    "abstract": "Illicit transactions are increasingly integrated to legitimate financial flows between international financial centers (IFCs) and offshore jurisdictions (OJs). The United States (US) is actively engaged in regulating illicit transactions through anti-money laundering and counter-terrorist financing (AML/CFT) regulations backed by economic sanctions statutes. In this paper, I show how US sanctions regulatory capacity has developed by scaling out compliance and enforcement functions to state regulators and advanced business services (ABS) intermediaries in Singapore. Scaling out draws on a relational scale framework that locates the multiscalar surveillance of IFCs and OJs' entangled financial networks as an instrument for governing the illicit global economy. At the same time, Singapore's enrolment in US financial surveillance benefits the financial center by strengthening the city-state's regulatory functions. Using cases of high-profile illicit financial activities as well as interviews with regulatory agents in Singapore and to a lesser extent the US, the paper shows how multiscalar compliance and enforcement practices support US′ extra-jurisdictional discipline of rogue actors and jurisdictions while augmenting Singapore's stature as a clean and trusted financial center. © 2021",
+    "source": "Political Geography"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

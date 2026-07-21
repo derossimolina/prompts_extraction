@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0628-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The effectiveness of anti-money laundering legislation in Islamic banking of Pakistan: experts’ opinion",
+    "authors": "Hassan S.S.U.; Hussain M.A.; Sajid S.",
+    "year": "2022",
+    "doi": "10.1108/JMLC-02-2021-0014",
+    "abstract": "Purpose: The efficient and strong financial system is considered as the backbone of the economy to function properly along with to attract international capital flow, investment and employment. But, on the other hand, weakness in the financial system will create negative impacts on the economy by sabotaging society’s trust in the financial system. In Pakistan, the key component of the financial sector is the banking sector including conventional and Islamic banking. Pakistan is among the pioneer of the Islamic banking sector, its share of 15.6% deposits in the total banking sector. This paper aims to analyze the effectiveness of anti-money laundering (AML) legislation in the Islamic banking sector of Pakistan. Design/methodology/approach: The study is doctrinal legal research. The semi-structured interview approach for analysis have been adopted to analyze the materials used in the study to attain the objective. The survey approach was used in critically analyzing the effectiveness of AML laws in conjunction with Islamic banking of Pakistan by incorporating the expert’s views and perceptions. The interviews conducted through electronic media including email, WhatsApp and LinkedIn. Findings: The findings revealed that the State Bank of Pakistan is playing an active role and bringing stringent updates and regulations from time to time for the enforcement of these legislations. The irony is that these laws are not implemented in a proper way due to a lack of coordination among legislative authorities and the banking sector. Research limitations/implications: As money laundering is an international recognized offense, the study is based on only the Islamic banking sector of Pakistan. This is a very extensive and contentious matter, and this study is impeding money laundering operations and their analysis to the Islamic banks only. Practical implications: It is recommended that more efficient laws and regulatory environments are a needed in the Islamic banking sector of Pakistan accompanied by proper and timely implementations of these laws with the joint collaboration of national and international agencies. Originality/value: This is the first study that incorporated the expert’s opinion from diverse background to analyze the effectiveness of AML legislation with special reference to the Islamic banking sector of Pakistan and contribute significantly in providing greater insight in improving AML legislations in Pakistan. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

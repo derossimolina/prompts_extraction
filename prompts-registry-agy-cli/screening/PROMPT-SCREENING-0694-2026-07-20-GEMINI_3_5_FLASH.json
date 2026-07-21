@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0694-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Strengthening financial integrity and combating economic crimes in the post-pandemic Caribbean: what lies ahead!",
+    "authors": "Clarke R.D.",
+    "year": "2022",
+    "doi": "10.1108/JFC-06-2021-0142",
+    "abstract": "Purpose: This paper aims to map key strategic concerns that Commonwealth Caribbean States will face in combating economic crimes and strengthening financial integrity in the post-pandemic era. Design/methodology/approach: Horizon scanning was used to conduct a qualitative policy analysis of key regulatory developments in international anti-money laundering and combating the financing of terrorism (AML/CFTP) and tax governance, from the perspective of Commonwealth Caribbean countries. Findings: This paper finds that the COVID-19 pandemic might widen several fault lines, along the Global North/South axis, in international AML/CFTP and tax regulatory governance. These include the “sustainable development” gap in AML/CFTP norm-making; making the Financial Action Task Force fit-for-purpose; renewed campaigns against “harmful tax competition”; and international commitment to scaling up technical assistance to combat economic crimes in developing countries. It questions the sustainability of the prevailing “levelling the playing field” regulatory approach to AML/CFTP and tax matters and whether serious consideration ought not to be given to mainstreaming “differential treatment” in international AML/CFTP and tax standards, for resource-strapped Caribbean countries. Originality/value: To the best of the author’s knowledge, this paper is the first attempt to assess the strategic policy risks and challenges that will arise from balancing economic recovery and fighting economic crimes by small and vulnerable Commonwealth Caribbean States in the post-pandemic era. © 2021, Emerald Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

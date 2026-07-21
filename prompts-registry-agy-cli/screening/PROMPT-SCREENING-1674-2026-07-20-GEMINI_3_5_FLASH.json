@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1674-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The institute of banking secrecy in the CIS: Rather-legal analysis",
+    "authors": "Sidorova A.V.; Cherevichenko T.S.; Efremova E.A.; Medentseva E.V.; Azarkhin A.V.",
+    "year": "2018",
+    "doi": "10.14505/jarle.v93(33).39",
+    "abstract": "Topicality. The processes of globalization in the modern world led to the situation when, on the one hand, most of the countries acknowledged the right for ‘banking secrecy’ as one of the fundamental human rights. On the other hand, due to increase of fighting money laundering, the groups of persons whose banking secrecy may be ignored, is expanding. Goals and tasks of the research. Studying the problems of regulation of banking secrecy aims at attracting attention of theorists and practitioners to this problem. The authors set the following tasks: § studying the modern state of legal regulation in the sphere of banking secrecy in the CIS countries; § conducting comparative and legal study of the norms of banking law, devoted to banking secrecy of the CIS countries; §-determining the position on the debatable issues that appeared during conduct of the research; § determining the progressive tendencies in development of the laws on banking secrecy in the CIS countries and studying the possibility for using them during reformation of Russian laws. Conclusions. The institute of banking secrecy in the CIS countries might be considered a rather new institute. That’s why legal regulation of these institutes is not perfect. The institute of banking secrecy is legally recognized in all CIS countries, but not all legal systems contain the notion ‘banking secrecy’. At the legislative level, all countries of the CIS specify the information and the data that are subject to protection and specify the cases in which the ‘curtain’ of banking secrecy could be lifted. The sources of legal regulation of this institute are also different. All CIS countries have responsibility for disclosure of banking secrecy. Having analyzed development of legal norms, which regulate the institute of banking secrecy, the authors note that all countries try to limit the sphere of application of laws on banking secrecy and implement exceptions. © 2018, by ASERS® Publishing. All rights reserved.",
+    "source": "Journal of Advanced Research in Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

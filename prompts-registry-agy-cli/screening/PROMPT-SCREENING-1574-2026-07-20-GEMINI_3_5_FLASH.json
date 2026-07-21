@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1574-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The Financial Flows of Transnational Crime and Tax Fraud in OECD Countries: What Do We (Not) Know?",
+    "authors": "Schneider F.",
+    "year": "2013",
+    "doi": "10.1177/1091142113482569",
+    "abstract": "This article has two goals. First, it presents a preliminary literature review of the empirical findings of the worldwide proceeds of transnational organized crime (TOC) and for some Organisation for Economic Co-operation and Development countries as well as a breakdown of the different types of crime proceeds. Also the illegal cross-border flows of global dirty money (including tax fraud figures) are shown, which are by far the biggest share (66 percent) of all illegal transactions. Second, some remarks are made about the infiltration of the TOC into the \"official\" economic system, and the functioning of the Hawala (or informal) banking is described. There are four main conclusions. First, the revenues of transnational crime are extremely difficult to estimate. Second, fighting transnational crime is very difficult, as there are no efficient and powerful international organizations that can effectively do this job. Third, tax fraud and/or other illegal cross-border capital flows should be the prime target for governments to reduce them. Fourth, this article should be seen as a first start/attempt in order to shed some light on the gray area of the magnitude of proceeds of tax fraud and of transnational crime. © The Author(s) 2013.",
+    "source": "Public Finance Review"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

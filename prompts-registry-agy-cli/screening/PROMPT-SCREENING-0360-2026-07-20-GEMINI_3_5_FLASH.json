@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0360-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The making and unmaking of place: the extroversion of the Mapleridge neighborhood in post-bankruptcy Detroit",
+    "authors": "Murray M.J.; Arquero de Alarcón M.; Chivite Amigo O.",
+    "year": "2026",
+    "doi": "10.1016/j.geoforum.2025.104532",
+    "abstract": "A strong current in recent scholarship on post-bankruptcy Detroit has endorsed an uplifting narrative of resilience leading to spatial stability and eventual city-wide recovery. Yet this constructed tale of rebirth has conveniently overlooked entrenched zones of deprivation that remain virtually untouched by the “Comeback fever.” Looking at what has happened in the neighborhood east of Gratiot Avenue and south of 7 Mile Road reveals a different story of enduring distress that unsettles singular narratives of anticipatory recuperation. Mapleridge (as the neighborhood is officially known) is part of a larger mosaic of stubborn precarity across the urban landscape. While housing vacancy and an aggressive demolition campaign have figured prominently in shaping the physical contours of leftover spaces in Mapleridge, three less visible currents have embedded themselves in the already depleted landscape, turning the neighborhood literally “inside out.” The suburban lifeline that sustains Assumption Grotto Church, an underground economy tied to regional drug trafficking, and commercial businesses operated by immigrant entrepreneurs all can trace their existence to social forces originating outside Mapleridge and Detroit. In seeking to understand how and why abandonment and vacancy have persisted in the neighborhood, it is necessary to recognize that Mapleridge cannot be treated as a cocooned island-like enclave insulated from outside pressures. Instead, the neighborhood must be seen as an outward-looking zone of engagement with porous boundaries shaped more by powerful external forces than by internal dynamics. As a result, Mapleridge has come to function as a conduit, or passageway, linking extractive practices to multiple “elsewheres.” © 2026 The Author(s)",
+    "source": "Geoforum"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

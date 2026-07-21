@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-2319-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "An Appraisal of the Performance of the Economic and Financial Crimes Commission in Nigeria",
+    "authors": "Sowunmi, FA; Adesola, MA; Salako, MA",
+    "year": "2010",
+    "doi": "10.1177/0306624X09341043",
+    "abstract": "This article examines how an anti-graft body, the Economic and Financial Crime Commission (EFCC), has fared in reducing the incidence of corruption in Nigeria, in particular, bank fraud, Internet scam, and bad governance. It first discusses the corruption situation in Nigeria by highlighting public office holders who have been associated with corruption charges. A Likert-type scale is used in designing the questionnaire for data collection. Descriptive and chi-square analyses are used, and results reveal that the performance of the EFCC has been affected by government interference (p < .05). However, although the anti-graft body has not been able to reduce the incidence of bank fraud (p > .05), bad governance and advance fee fraud have recorded appreciable reduction (p < .05). Areas of success as well as challenges that need to be addressed are identified. Specifically, it is recommended that the bill that established EFCC should be amended to reduce government interference and improve its manpower development, especially in the areas of fraud and Internet scam detection.",
+    "source": "INTERNATIONAL JOURNAL OF OFFENDER THERAPY AND COMPARATIVE CRIMINOLOGY"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

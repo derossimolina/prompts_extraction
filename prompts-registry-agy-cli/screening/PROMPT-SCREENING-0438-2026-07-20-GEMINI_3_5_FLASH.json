@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0438-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Designing a CBDC to Empower the Oppressed",
+    "authors": "Chung K.-S.",
+    "year": "2025",
+    "doi": "10.1515/ajle-2024-2001",
+    "abstract": "Even if a CBDC issued by an advanced economy adds little to that economy’s domestic financial and payment system, it can be of great value to non-domestic users, especially to the oppressed people living in autocracies. Designing a CBDC for these oppressed people requires new thinking. In particular, AML loopholes need to be created deliberately. They need to be small enough so that criminals cannot exploit, yet big enough for the oppressed people to use the system anonymously. This article explains how this can be done. © 2025 Walter de Gruyter GmbH, Berlin/Boston.",
+    "source": "Asian Journal of Law and Economics"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

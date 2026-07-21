@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1176-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "“Underground banking” and Myanmar’s changing hundi system",
+    "authors": "Thompson R.",
+    "year": "2019",
+    "doi": "10.1108/JMLC-04-2018-0030",
+    "abstract": "Purpose: The purpose of this paper is to examine Myanmar’s “hundi” system, an informal value transfer system used widely by local Myanmar citizens and offshore migrant workers to remit money domestically and internationally. Due to historically stringent banking and foreign exchange controls and a lack of domestic and internationally linked financial services, the system grew to become the dominant medium for remittances in Myanmar. It also remains unregulated despite authorities acknowledging its use in criminal and terrorist activity. However, with an expanding and modernising financial sector, there is now increasing competition and challenges facing Myanmar’s hundi system. Design/methodology/approach: This paper draws on available literature and open source reporting, as well as interviews with former Myanmar Police Force officials. Findings: This study provides a unique insight into Myanmar’s hundi system, its history and the challenges it faces. The once dominant system remains a known anti-money laundering and countering the financing of terrorism (AML/CFT) risk and is having to compete with an expanding and modernising formal banking sector and the introduction of fintech and mobile money services. In the short term, these are unlikely to eliminate the hundi system completely, but may instead push hundi operators towards adopting these networks and technologies in their own operations. Originality/value: Myanmar remains a very under-researched area and there has been a limited focus on its informal hundi remittance system and related AML/CFT issues. This paper will be a useful source for academics, development professionals, policymakers, law enforcement agencies and private sector actors seeking to understand Myanmar’s informal remittance system. © 2019, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

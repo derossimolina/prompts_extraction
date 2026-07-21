@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-0344-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The dark arts of crypto laundering and the nigerian financial ecosystem: Examining regulatory perspectives of virtual assets and virtual asset providers in mitigating money laundering risks in Nigeria",
+    "authors": "Adaramola O.",
+    "year": "2025",
+    "doi": "10.1016/j.jeconc.2024.100117",
+    "abstract": "The last five years have seen immense growth in the Nigerian financial services sphere, particularly with the introduction of innovative ways to make, trade and exchange money in a largely unregulated sphere. One of such developments is virtual assets which has opened up a lot of doors in the world of FinTech and attracted the attention of financial industry regulators. The Central Bank of Nigeria (CBN) and other financial regulatory agencies seem to however waiver in their governance systems of virtual assets, oscillating between an implied soft ban through various circulars in 2021 on one hand and a desire to critically understand the operations of virtual assets within the ambit of the Securities and Exchange Commission rules in 2022. However, within this timeframe, various cryptocurrency trading platforms quickly found ways to illegally circumvent and allow users to continue trading, regardless of the implied ban, taking advantage of financial agencies' lackadaisical approach to regulating their activities. Current research therefore suggests that there is a continued operation of such exchange platforms outside regulatory boundaries where in May 2023, Patricia, a popular Nigerian cryptocurrency exchange platform, launched its own digital tokens. In response, the CBN released a guideline in December 2023 on the operations of bank accounts for virtual assets and virtual asset service providers (VASPs), a first step towards regulating virtual assets in Nigeria. This paper therefore aims to critically assess the anatomy and footprint of cryptolaundering, particularly in Nigeria's banking and finance sector, as well as current and future attempts at regulating the potential money laundering risks of virtual assets. Particularly, this paper aims to examine the potency of current regulatory perspectives and Nigeria's emerging governance system for virtual assets and VASPs side by side with its current economic and social realities and the overall regulatory nature of Nigeria's financial ecosystem. © 2024 The Author(s)",
+    "source": "Journal of Economic Criminology"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1704-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "Corporate governance failures and the road to crime",
+    "authors": "Yeoh P.",
+    "year": "2016",
+    "doi": "10.1108/JFC-10-2014-0044",
+    "abstract": "Purpose - The purpose of this paper is to provide enhanced insights on corporate governance failures which contributed to various financial crimes in major banking institutions and whether those involved have been held sufficiently accountable in the USA and the UK. Design/methodology/approach - This interdisciplinary doctrinal research relies on primary and secondary data and is complemented by the case study approach. Findings - Case insights demonstrate that a few major banks and isolated numbers of bankers at the lower echelons were held accountable in the USA but to a lesser degree in the UK. This contrasts sharply with the earlier Enron-type corporate financial reporting scandals or the much earlier Savings and Loans Crisis; but recent criminal charge practices against mega banks suggest a policy shift. Research limitations/implications - The paper findings suggest the need for further research in this under-researched area, while the banking communities in the USA and the UK may be prompted to review their corporate governance practices. Originality/value - This interdisciplinary research uses corporate law and criminological research to provide enhanced insights on financial crimes perpetuated in major banks in the USA and the UK. © Emerald Group Publishing Limited.",
+    "source": "Journal of Financial Crime"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}

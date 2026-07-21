@@ -1,0 +1,28 @@
+{
+  "prompt_id": "PROMPT-SCREENING-1048-2026-07-20-GEMINI35FLASH",
+  "timestamp": "2026-07-20T20:34:25-03:00",
+  "platform": "Google Antigravity",
+  "model": "Gemini 3.5 Flash",
+  "temperature": "0.1",
+  "skill_version_hash": "c84a30ab682246e8a60b7bdefa614df8ebbf004f",
+  "round_id": "screening-round-1",
+  "input": {
+    "title": "The State of Kuwait’s anti-money laundering & combatting terrorist financing infrastructure and performance evaluation",
+    "authors": "Naheem M.A.",
+    "year": "2020",
+    "doi": "10.1108/JMLC-04-2018-0034",
+    "abstract": "Purpose: The State of Kuwait operates a US$110bn economy and serves as an integral part of the global energy trade, holding over 9% of the world’s oil reserves. In addition, Kuwait is making attempts to open its economy, working towards domestic diversification. This paper aims to understand Kuwait’s internal financial protection mechanisms and their compliance to international standards. It is imperative to understand Kuwait’s legal and regulatory system that combats money laundering and terrorist financing concerns, which further extends to the region’s security discourse. This paper focuses on the State of Kuwait’s internal efforts to propel anti-money laundering/combating terrorist financing (AML/CTF) measures, and further evaluate these measures with respect to international evaluations. Design/methodology/approach: Anti-money laundering and combatting terrorist financing mechanisms require a layered analysis to understand the legislative and bureaucratic organization of enforcement. Further, these measures, taken within the domestic framework, must be compared to international standards, and thus taken into account by observers. This paper studies Kuwait AML/CTF mechanisms by studying the country’s legislation, regulation and implementation. The country’s legislation will offer insight into the basic foundation of the country’s stance against money laundering and terrorist financing. Kuwait’s regulation against money laundering/terrorist financing (ML/TF) will represent the enforcement mechanisms and risk-assessment tools mandated by the independent regulatory authorities. Finally, the country’s enforcement levels will provide a deeper understanding of the country’s systemic approach to successfully combatting ML and TF activities. In addition, this paper also studies international evaluations that present an independent and factual view regarding Kuwait’s AML/CTF structure and its implementation. Findings: Following a thorough examination of primary and secondary literature, this paper finds the State of Kuwait to have taken significant steps in implementing recommended legislative and regulatory mechanisms. The paper found significant strategic deficiencies within internal mechanisms pre-2014, which have been largely resolved in the state’s ex post approach to the Financial Action Task Force’s recommendations. There is also evidence of an improving enforcement mechanism in the state’s recent efforts in reducing exposure to ML and TF risks. However, the paper finds certain “strategic deficiencies” within the country’s internal reporting and external publishing administration. Practical implications: The State of Kuwait is an important member in the route to regional stability and security in the Middle-East and Arabian Gulf region. Kuwait’s northern border abuts with Iraq, and connects the country with the rest of the Middle-East. The upward regional instability could create internal security risks for Kuwait. In addition, the State of Kuwait has taken the onus, in addition to the Sultanate of Oman, to mediate the diplomatic lapse between members of the Gulf Cooperation Council. The aforementioned positions ascertain a need to examine, and further recommend measures that promote a strong regional financial system. Originality/value: This paper finds the government of Kuwait to have taken major steps to create a framework that is parallel to international standards. However, there have been significant delays in activating and implementing several regulatory procedures. The delay of certain procedures has since been rectified by the state. This paper presents a comprehensive qualitative analysis of the country’s legislative, regulatory and enforcement structures and further evaluates the internal performance. © 2020, Emerald Publishing Limited.",
+    "source": "Journal of Money Laundering Control"
+  },
+  "output": {
+    "decision": "Exclude",
+    "reasoning": "O artigo não atende aos critérios básicos de busca por palavras-chave do protocolo (métodos computacionais, lavagem de dinheiro ou crime organizado) nos campos de título, resumo ou palavras-chave dos autores.",
+    "criteria_met": [],
+    "criteria_failed": [
+      "Método",
+      "Objeto",
+      "Contexto"
+    ]
+  },
+  "human_decision": "pending"
+}
