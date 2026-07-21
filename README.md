@@ -1,11 +1,10 @@
 # Computational Methods Applied to Money Laundering by Organized Crime: GenAI Policy Extraction
 
 ![DOI](https://img.shields.io/badge/Main%20Protocol-10.5281%2Fzenodo.20562470-blue?style=flat-square&labelColor=grey&color=blue)
-![RawData](https://img.shields.io/badge/Suplementary-XX.XXX%2Fzenodo.XXXXXXXX-blue?style=flat-square&labelColor=grey&color=blue)
+![DOI](https://img.shields.io/badge/Suplementary-10.5281/zenodo.21344194-blue?style=flat-square&labelColor=grey&color=blue)
 
 
 **Prompt Extraction Policy**
-(forthcoming)
 
 This repository is part a systematic literature review (SLR), named "Computational Methods Applied to Money Laundering by Organized Crime", under thesis project, named "Anti-money laudering Simulating Framework: A Generative Agent Based Modelling for Support Financial Institutions" (forthcoming).
 
@@ -41,7 +40,7 @@ All commit messages are song name, that everyone can check it on music streaming
 
 Cacciamani, G. E., Chu, T. N., Sanford, D. I., Abreu, A., Duddalwar, V., Oberai, A., Kuo, C.-C. J., Liu, X., Denniston, A. K., Vasey, B., McCulloch, P., Wolff, R. F., Mallett, S., Mongan, J., Kahn, C. E., Sounderajah, V., Darzi, A., Dahm, P., Moons, K. G. M., … Hung, A. J. (2023). PRISMA AI reporting guidelines for systematic reviews and meta-analyses on AI in healthcare. Nature Medicine, 29(1), 14–15. https://doi.org/10.1038/s41591-022-02139-w
 
-De Rossi Molina, J., Panizzon, M., & Perini, R. (2026). Computational Methods Applied to Money Laundering by Organized Crime: SRL Protocol. Zenodo. https://doi.org/10.5281/zenodo.20562470
+De Rossi Molina, J., Panizzon, M.& Perini, R. (2026). Computational Methods Applied to Money Laundering by Organized Crime (Version 2.0.0). Zenodo. https://doi.org/10.5281/zenodo.21341570
 
 Moons, K. G. M., Damen, J. A. A., Kaul, T., Hooft, L., Andaur Navarro, C., Dhiman, P., Beam, A. L., Van Calster, B., Celi, L. A., Denaxas, S., Denniston, A. K., Ghassemi, M., Heinze, G., Kengne, A. P., Maier-Hein, L., Liu, X., Logullo, P., McCradden, M. D., Liu, N., … Van Smeden, M. (2025). PROBAST+AI: An updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods. BMJ, 388, e082505. https://doi.org/10.1136/bmj-2024-082505
 
